@@ -1500,6 +1500,36 @@
   }
  },
  {
+  "id": 1055,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     35403,
+     0
+    ],
+    "predicateType": "PREDICATE_QUEST_FINISH"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "LevelAbility_Combat_Watcher_1:Watcher_StarSuperconductor",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_COMBAT_CONFIG_COMMON"
+  }
+ },
+ {
   "id": 1100,
   "isDisuse": false,
   "predicateConfigs": [
@@ -7401,6 +7431,36 @@
   "triggerConfig": {
    "paramList": [
     "24111101",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_NEW_MONSTER"
+  }
+ },
+ {
+  "id": 2183,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     0,
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "24090601",
     "",
     "",
     "",
@@ -23970,6 +24030,1206 @@
   }
  },
  {
+  "id": 10453,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     0,
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "7613212",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_FINISH_QUEST_OR"
+  }
+ },
+ {
+  "id": 10454,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     0,
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "7086,3,1",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_GROUP_NOTIFY"
+  }
+ },
+ {
+  "id": 10455,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     0,
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "7087,3,1",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_GROUP_NOTIFY"
+  }
+ },
+ {
+  "id": 10456,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     0,
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "7088,3,1",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_GROUP_NOTIFY"
+  }
+ },
+ {
+  "id": 10457,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     0,
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "7614302",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_FINISH_QUEST_OR"
+  }
+ },
+ {
+  "id": 10458,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     0,
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "LevelAbility_Combat_Watcher_1:Watcher_MoonFatigue",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_COMBAT_CONFIG_COMMON"
+  }
+ },
+ {
+  "id": 10459,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     0,
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "7089,3,1",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_GROUP_NOTIFY"
+  }
+ },
+ {
+  "id": 10460,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     0,
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "LevelAbility_Combat_Watcher_1:Watcher_PeittaaStorm",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_COMBAT_CONFIG_COMMON"
+  }
+ },
+ {
+  "id": 10461,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     0,
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "7613302",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_FINISH_QUEST_OR"
+  }
+ },
+ {
+  "id": 10462,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     0,
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "7613302",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_FINISH_QUEST_OR"
+  }
+ },
+ {
+  "id": 10463,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     7613302,
+     0
+    ],
+    "predicateType": "PREDICATE_QUEST_FINISH"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "73064031",
+    "15",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_GENERAL_GADGET_OR"
+  }
+ },
+ {
+  "id": 10464,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     7613223,
+     0
+    ],
+    "predicateType": "PREDICATE_QUEST_FINISH"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "73064074",
+    "10",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_GENERAL_GADGET_OR"
+  }
+ },
+ {
+  "id": 10465,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     0,
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "7090,3,1",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_GROUP_NOTIFY"
+  }
+ },
+ {
+  "id": 10466,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     0,
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "7091,3,1",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_GROUP_NOTIFY"
+  }
+ },
+ {
+  "id": 10467,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     7613214,
+     0
+    ],
+    "predicateType": "PREDICATE_QUEST_FINISH"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "73064039,73064037,73064038,73064036,73064035,73064040,73064034",
+    "10",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_GENERAL_GADGET_OR"
+  }
+ },
+ {
+  "id": 10468,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     7613214,
+     0
+    ],
+    "predicateType": "PREDICATE_QUEST_FINISH"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "73064075",
+    "10",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_GENERAL_GADGET_OR"
+  }
+ },
+ {
+  "id": 10469,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     7613223,
+     0
+    ],
+    "predicateType": "PREDICATE_QUEST_FINISH"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "73064045,73064046,73137029,73137034",
+    "10",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_GENERAL_GADGET_OR"
+  }
+ },
+ {
+  "id": 10470,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     7613223,
+     0
+    ],
+    "predicateType": "PREDICATE_QUEST_FINISH"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "73137006,73064062",
+    "10",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_GENERAL_GADGET_OR"
+  }
+ },
+ {
+  "id": 10471,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     7613223,
+     0
+    ],
+    "predicateType": "PREDICATE_QUEST_FINISH"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "73137008",
+    "10",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_GENERAL_GADGET_OR"
+  }
+ },
+ {
+  "id": 10472,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     7613223,
+     0
+    ],
+    "predicateType": "PREDICATE_QUEST_FINISH"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "73064059,73137013,73137009,73137031",
+    "10",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_GENERAL_GADGET_OR"
+  }
+ },
+ {
+  "id": 10473,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     7613223,
+     0
+    ],
+    "predicateType": "PREDICATE_QUEST_FINISH"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "73064025,73137020,73137019",
+    "10",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_GENERAL_GADGET_OR"
+  }
+ },
+ {
+  "id": 10474,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     7613223,
+     0
+    ],
+    "predicateType": "PREDICATE_QUEST_FINISH"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "73064055,73137040,73181024",
+    "10",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_GENERAL_GADGET_OR"
+  }
+ },
+ {
+  "id": 10475,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     7613223,
+     0
+    ],
+    "predicateType": "PREDICATE_QUEST_FINISH"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "73064072",
+    "10",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_GENERAL_GADGET_OR"
+  }
+ },
+ {
+  "id": 10476,
+  "isDisuse": true,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     7613223,
+     0
+    ],
+    "predicateType": "PREDICATE_QUEST_FINISH"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "73050006",
+    "10",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_GENERAL_GADGET_OR"
+  }
+ },
+ {
+  "id": 10477,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     7613214,
+     0
+    ],
+    "predicateType": "PREDICATE_QUEST_FINISH"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "73064011,73064010,73137033",
+    "10",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_GENERAL_GADGET_OR"
+  }
+ },
+ {
+  "id": 10478,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     7613223,
+     0
+    ],
+    "predicateType": "PREDICATE_QUEST_FINISH"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "73064019",
+    "35",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_GENERAL_GADGET_OR"
+  }
+ },
+ {
+  "id": 10479,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     7613214,
+     0
+    ],
+    "predicateType": "PREDICATE_QUEST_FINISH"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "73138040",
+    "10",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_GENERAL_GADGET_OR"
+  }
+ },
+ {
+  "id": 10480,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     0,
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "7092,3,1",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_GROUP_NOTIFY"
+  }
+ },
+ {
+  "id": 10481,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     7613223,
+     0
+    ],
+    "predicateType": "PREDICATE_QUEST_FINISH"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "73137007,73137011",
+    "10",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_GENERAL_GADGET_OR"
+  }
+ },
+ {
+  "id": 10482,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     0,
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "73138038",
+    "10",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_GENERAL_GADGET_OR"
+  }
+ },
+ {
+  "id": 10483,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     0,
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "7093,3,1",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_GROUP_NOTIFY"
+  }
+ },
+ {
+  "id": 10484,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     7613214,
+     0
+    ],
+    "predicateType": "PREDICATE_QUEST_FINISH"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "73138020",
+    "10",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_GENERAL_GADGET_OR"
+  }
+ },
+ {
+  "id": 10485,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     7613214,
+     0
+    ],
+    "predicateType": "PREDICATE_QUEST_FINISH"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "73064076",
+    "10",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_GENERAL_GADGET_OR"
+  }
+ },
+ {
+  "id": 10486,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     7612726,
+     0
+    ],
+    "predicateType": "PREDICATE_QUEST_FINISH"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "73064026,73064096,73064097,73064098",
+    "10",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_GENERAL_GADGET_OR"
+  }
+ },
+ {
+  "id": 10487,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     0,
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "73137023,73138008",
+    "10",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_GENERAL_GADGET_OR"
+  }
+ },
+ {
+  "id": 10488,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     7613223,
+     0
+    ],
+    "predicateType": "PREDICATE_QUEST_FINISH"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "73138016",
+    "10",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_GENERAL_GADGET_OR"
+  }
+ },
+ {
+  "id": 10489,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     7613223,
+     0
+    ],
+    "predicateType": "PREDICATE_QUEST_FINISH"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "73181001,73181002,73181008",
+    "10",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_GENERAL_GADGET_OR"
+  }
+ },
+ {
+  "id": 10490,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     0,
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "7094,3,1",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_GROUP_NOTIFY"
+  }
+ },
+ {
+  "id": 10491,
+  "isDisuse": true,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     7613214,
+     0
+    ],
+    "predicateType": "PREDICATE_QUEST_FINISH"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "73064010",
+    "10",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_GENERAL_GADGET_OR"
+  }
+ },
+ {
+  "id": 10492,
+  "isDisuse": true,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     0,
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "7095,3,1",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_GROUP_NOTIFY"
+  }
+ },
+ {
   "id": 10493,
   "isDisuse": false,
   "predicateConfigs": [
@@ -24450,6 +25710,126 @@
   }
  },
  {
+  "id": 10557,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     0,
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "7108,3,1",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_GROUP_NOTIFY"
+  }
+ },
+ {
+  "id": 10558,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     0,
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "7109,3,1",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_GROUP_NOTIFY"
+  }
+ },
+ {
+  "id": 10559,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     0,
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "73138004",
+    "10",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_GENERAL_GADGET"
+  }
+ },
+ {
+  "id": 10560,
+  "isDisuse": false,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     0,
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "7110,3,1",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_GROUP_NOTIFY"
+  }
+ },
+ {
   "id": 10561,
   "isDisuse": false,
   "predicateConfigs": [
@@ -24477,6 +25857,36 @@
     ""
    ],
    "triggerType": "TRIGGER_ADVENTURE_GLOSSARY_UNLOCK"
+  }
+ },
+ {
+  "id": 10562,
+  "isDisuse": true,
+  "predicateConfigs": [
+   {
+    "paramList": [
+     0,
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "predicateType": "PREDICATE_NONE"
+   }
+  ],
+  "progress": 1,
+  "triggerConfig": {
+   "paramList": [
+    "LevelAbility_Combat_Watcher_1:Watcher_FirmamentShowCase",
+    "",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_COMBAT_CONFIG_COMMON"
   }
  }
 ]

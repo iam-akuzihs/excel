@@ -1,5 +1,27 @@
 [
  {
+  "DICPBCPDHKF": [
+   {
+    "paramList": [
+     2
+    ],
+    "type": "WIDGET_SEEKER_REMOVE_DISTANCE_LESS"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "type": "WIDGET_SEEKER_REMOVE_STATE_ID_INEQUAL"
+   },
+   {
+    "paramList": [],
+    "type": "WIDGET_SEEKER_REMOVE_NONE"
+   },
+   {
+    "paramList": [],
+    "type": "WIDGET_SEEKER_REMOVE_NONE"
+   }
+  ],
   "gadgetIdList": [
    70350082,
    70350457,
@@ -30,18 +52,20 @@
   "guideOpenState": "OPEN_STATE_GUIDE_WIDGET_SEEKER_SEELIE",
   "iconType": "MarkClientDetectorChallenge",
   "id": 1,
-  "IDNDPFEELGH": [
+  "JCFNMPKHFBE": 13480,
+  "targetType": "EXPLICIT_MARK"
+ },
+ {
+  "DICPBCPDHKF": [
    {
     "paramList": [
-     2
+     102
     ],
-    "type": "WIDGET_SEEKER_REMOVE_DISTANCE_LESS"
+    "type": "WIDGET_SEEKER_REMOVE_STATE_ID_EQUAL"
    },
    {
-    "paramList": [
-     0
-    ],
-    "type": "WIDGET_SEEKER_REMOVE_STATE_ID_INEQUAL"
+    "paramList": [],
+    "type": "WIDGET_SEEKER_REMOVE_NONE"
    },
    {
     "paramList": [],
@@ -52,10 +76,6 @@
     "type": "WIDGET_SEEKER_REMOVE_NONE"
    }
   ],
-  "JOPKDLEEHHN": 13480,
-  "targetType": "EXPLICIT_MARK"
- },
- {
   "gadgetIdList": [
    70210063,
    70211001,
@@ -115,7 +135,11 @@
   "guideOpenState": "OPEN_STATE_GUIDE_WIDGET_SEEKER_SEELIE",
   "iconType": "MarkClientDetector",
   "id": 2,
-  "IDNDPFEELGH": [
+  "JCFNMPKHFBE": 13480,
+  "targetType": "EXPLICIT_MARK"
+ },
+ {
+  "DICPBCPDHKF": [
    {
     "paramList": [
      102
@@ -135,45 +159,15 @@
     "type": "WIDGET_SEEKER_REMOVE_NONE"
    }
   ],
-  "JOPKDLEEHHN": 13480,
-  "targetType": "EXPLICIT_MARK"
- },
- {
   "gadgetIdList": [],
   "guideOpenState": "OPEN_STATE_GUIDE_WIDGET_SEEKER_HIDE",
   "iconType": "MarkClientDetectorHidden",
   "id": 3,
-  "IDNDPFEELGH": [
-   {
-    "paramList": [
-     102
-    ],
-    "type": "WIDGET_SEEKER_REMOVE_STATE_ID_EQUAL"
-   },
-   {
-    "paramList": [],
-    "type": "WIDGET_SEEKER_REMOVE_NONE"
-   },
-   {
-    "paramList": [],
-    "type": "WIDGET_SEEKER_REMOVE_NONE"
-   },
-   {
-    "paramList": [],
-    "type": "WIDGET_SEEKER_REMOVE_NONE"
-   }
-  ],
-  "JOPKDLEEHHN": 13835,
+  "JCFNMPKHFBE": 13835,
   "targetType": "VIRTUAL_MARK"
  },
  {
-  "gadgetIdList": [
-   70590088
-  ],
-  "guideOpenState": "OPEN_STATE_GUIDE_WIDGET_SEEKER_CULUS",
-  "iconType": "MarkWindCrystal",
-  "id": 4,
-  "IDNDPFEELGH": [
+  "DICPBCPDHKF": [
    {
     "paramList": [
      2
@@ -193,10 +187,36 @@
     "type": "WIDGET_SEEKER_REMOVE_NONE"
    }
   ],
-  "JOPKDLEEHHN": 13834,
+  "gadgetIdList": [
+   70590088
+  ],
+  "guideOpenState": "OPEN_STATE_GUIDE_WIDGET_SEEKER_CULUS",
+  "iconType": "MarkWindCrystal",
+  "id": 4,
+  "JCFNMPKHFBE": 13834,
   "targetType": "ONEOFF_SEARCH"
  },
  {
+  "DICPBCPDHKF": [
+   {
+    "paramList": [
+     2
+    ],
+    "type": "WIDGET_SEEKER_REMOVE_DISTANCE_LESS"
+   },
+   {
+    "paramList": [],
+    "type": "WIDGET_SEEKER_REMOVE_NONE"
+   },
+   {
+    "paramList": [],
+    "type": "WIDGET_SEEKER_REMOVE_NONE"
+   },
+   {
+    "paramList": [],
+    "type": "WIDGET_SEEKER_REMOVE_NONE"
+   }
+  ],
   "gadgetIdList": [
    73072019,
    73072020,
@@ -209,45 +229,11 @@
   "guideOpenState": "OPEN_STATE_GUIDE_WIDGET_SEEKER_SEELIE",
   "iconType": "MarkClientDetectorTreasury",
   "id": 5,
-  "IDNDPFEELGH": [
-   {
-    "paramList": [
-     2
-    ],
-    "type": "WIDGET_SEEKER_REMOVE_DISTANCE_LESS"
-   },
-   {
-    "paramList": [],
-    "type": "WIDGET_SEEKER_REMOVE_NONE"
-   },
-   {
-    "paramList": [],
-    "type": "WIDGET_SEEKER_REMOVE_NONE"
-   },
-   {
-    "paramList": [],
-    "type": "WIDGET_SEEKER_REMOVE_NONE"
-   }
-  ],
-  "JOPKDLEEHHN": 13480,
+  "JCFNMPKHFBE": 13480,
   "targetType": "EXPLICIT_MARK"
  },
  {
-  "gadgetIdList": [
-   73003003,
-   70330342,
-   70217027,
-   70217026,
-   70217020,
-   70210105,
-   70217014,
-   70217012,
-   70217046
-  ],
-  "guideOpenState": "OPEN_STATE_GUIDE_WIDGET_SEEKER_SEELIE",
-  "iconType": "MarkClientDetectorChallenge",
-  "id": 6,
-  "IDNDPFEELGH": [
+  "DICPBCPDHKF": [
    {
     "paramList": [
      102
@@ -269,17 +255,26 @@
     "type": "WIDGET_SEEKER_REMOVE_NONE"
    }
   ],
-  "JOPKDLEEHHN": 13480,
+  "gadgetIdList": [
+   73003003,
+   70330342,
+   70217027,
+   70217026,
+   70217020,
+   70210105,
+   70217014,
+   70217012,
+   70217046,
+   73138056
+  ],
+  "guideOpenState": "OPEN_STATE_GUIDE_WIDGET_SEEKER_SEELIE",
+  "iconType": "MarkClientDetectorChallenge",
+  "id": 6,
+  "JCFNMPKHFBE": 13480,
   "targetType": "EXPLICIT_MARK"
  },
  {
-  "gadgetIdList": [
-   73077130
-  ],
-  "guideOpenState": "OPEN_STATE_GUIDE_WIDGET_SEEKER_FACTOR",
-  "iconType": "MarkFirmamentMnemoCrystal",
-  "id": 7,
-  "IDNDPFEELGH": [
+  "DICPBCPDHKF": [
    {
     "paramList": [
      2
@@ -299,7 +294,13 @@
     "type": "WIDGET_SEEKER_REMOVE_NONE"
    }
   ],
-  "JOPKDLEEHHN": 14063,
+  "gadgetIdList": [
+   73077130
+  ],
+  "guideOpenState": "OPEN_STATE_GUIDE_WIDGET_SEEKER_FACTOR",
+  "iconType": "MarkFirmamentMnemoCrystal",
+  "id": 7,
+  "JCFNMPKHFBE": 14063,
   "targetType": "ONEOFF_SEARCH"
  }
 ]

@@ -89361,6 +89361,260 @@
   "cond": [
    {
     "param": [
+     "1"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [
+     "39604"
+    ],
+    "type": "NEW_ACTIVITY_COND_QUEST_FINISH"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_AND",
+  "condId": 5328001
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "1"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [
+     "39604"
+    ],
+    "type": "NEW_ACTIVITY_COND_QUEST_FINISH"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_AND",
+  "condId": 5328002
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "1"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [
+     "7567401"
+    ],
+    "type": "NEW_ACTIVITY_COND_QUEST_FINISH"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_AND",
+  "condId": 5328003
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "1"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [
+     "3"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_LESS"
+   },
+   {
+    "param": [
+     "7567401"
+    ],
+    "type": "NEW_ACTIVITY_COND_QUEST_FINISH"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_AND",
+  "condId": 5328004
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "3"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [
+     "5"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_LESS"
+   },
+   {
+    "param": [
+     "7567401"
+    ],
+    "type": "NEW_ACTIVITY_COND_QUEST_FINISH"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_AND",
+  "condId": 5328005
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "5"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [
+     "7567401"
+    ],
+    "type": "NEW_ACTIVITY_COND_QUEST_FINISH"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_AND",
+  "condId": 5328006
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "7"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [
+     "5328001",
+     "5328002",
+     "5328003",
+     "5328004",
+     "5328005",
+     "5328006"
+    ],
+    "type": "NEW_ACTIVITY_COND_NOT_TAKE_ALL_SCORE_REWARD"
+   },
+   {
+    "param": [
+     "7567501",
+     "0"
+    ],
+    "type": "NEW_ACTIVITY_COND_QUEST_GLOBAL_VAR_EQUAL"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_A_AND_B_AND_ETCOR",
+  "condId": 5328007
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "1"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [
+     "7567401"
+    ],
+    "type": "NEW_ACTIVITY_COND_QUEST_FINISH"
+   },
+   {
+    "param": [
+     "6000"
+    ],
+    "type": "NEW_ACTIVITY_COND_SCORE_REACH"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_AND",
+  "condId": 5328008
+ },
+ {
+  "cond": [
+   {
+    "param": [
      "38"
     ],
     "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
@@ -89386,5 +89640,1067 @@
   ],
   "condComb": "LOGIC_AND",
   "condId": 5329001
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "1"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [
+     "39604"
+    ],
+    "type": "NEW_ACTIVITY_COND_QUEST_FINISH"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_AND",
+  "condId": 2049001
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "1"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [
+     "4024409"
+    ],
+    "type": "NEW_ACTIVITY_COND_QUEST_FINISH"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_AND",
+  "condId": 2049010
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "1"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [
+     "7470001"
+    ],
+    "type": "NEW_ACTIVITY_COND_QUEST_FINISH"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_AND",
+  "condId": 2049011
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "1"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [
+     "7470001"
+    ],
+    "type": "NEW_ACTIVITY_COND_QUEST_FINISH"
+   },
+   {
+    "param": [
+     "9"
+    ],
+    "type": "NEW_ACTIVITY_COND_AQUARIUM_TASK_FINISH"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_AND",
+  "condId": 2049012
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "1"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [
+     "7470201"
+    ],
+    "type": "NEW_ACTIVITY_COND_QUEST_FINISH"
+   },
+   {
+    "param": [
+     "3"
+    ],
+    "type": "NEW_ACTIVITY_COND_AQUARIUM_TASK_FINISH"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_AND",
+  "condId": 2049013
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "1"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [
+     "7470101"
+    ],
+    "type": "NEW_ACTIVITY_COND_QUEST_FINISH"
+   },
+   {
+    "param": [
+     "11"
+    ],
+    "type": "NEW_ACTIVITY_COND_AQUARIUM_TASK_FINISH"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_AND",
+  "condId": 2049014
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "1"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [
+     "7470001"
+    ],
+    "type": "NEW_ACTIVITY_COND_QUEST_FINISH"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_AND",
+  "condId": 2049021
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "1"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [
+     "7470001"
+    ],
+    "type": "NEW_ACTIVITY_COND_QUEST_FINISH"
+   },
+   {
+    "param": [
+     "9"
+    ],
+    "type": "NEW_ACTIVITY_COND_AQUARIUM_TASK_FINISH"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_AND",
+  "condId": 2049022
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "1"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [
+     "7470001"
+    ],
+    "type": "NEW_ACTIVITY_COND_QUEST_FINISH"
+   },
+   {
+    "param": [
+     "11"
+    ],
+    "type": "NEW_ACTIVITY_COND_AQUARIUM_TASK_FINISH"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_AND",
+  "condId": 2049027
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "1"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [
+     "7470001"
+    ],
+    "type": "NEW_ACTIVITY_COND_QUEST_FINISH"
+   },
+   {
+    "param": [
+     "13"
+    ],
+    "type": "NEW_ACTIVITY_COND_AQUARIUM_TASK_FINISH"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_AND",
+  "condId": 2049023
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "1"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [
+     "7470001"
+    ],
+    "type": "NEW_ACTIVITY_COND_QUEST_FINISH"
+   },
+   {
+    "param": [
+     "17"
+    ],
+    "type": "NEW_ACTIVITY_COND_AQUARIUM_TASK_FINISH"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_AND",
+  "condId": 2049024
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "1"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [
+     "39604"
+    ],
+    "type": "NEW_ACTIVITY_COND_QUEST_FINISH"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_AND",
+  "condId": 2049025
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "1"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [
+     "39604"
+    ],
+    "type": "NEW_ACTIVITY_COND_QUEST_FINISH"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_AND",
+  "condId": 2049026
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "1"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [
+     "7470201"
+    ],
+    "type": "NEW_ACTIVITY_COND_QUEST_FINISH"
+   },
+   {
+    "param": [
+     "3201"
+    ],
+    "type": "NEW_ACTIVITY_COND_AQUARIUM_TECH_UNLOCK"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_AND",
+  "condId": 2049101
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "1"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [
+     "7470201"
+    ],
+    "type": "NEW_ACTIVITY_COND_QUEST_FINISH"
+   },
+   {
+    "param": [
+     "3202"
+    ],
+    "type": "NEW_ACTIVITY_COND_AQUARIUM_TECH_UNLOCK"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_AND",
+  "condId": 2049102
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "1"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [
+     "7470001"
+    ],
+    "type": "NEW_ACTIVITY_COND_QUEST_FINISH"
+   },
+   {
+    "param": [
+     "9"
+    ],
+    "type": "NEW_ACTIVITY_COND_AQUARIUM_TASK_FINISH"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_AND",
+  "condId": 2049111
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "1"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [
+     "7470001"
+    ],
+    "type": "NEW_ACTIVITY_COND_QUEST_FINISH"
+   },
+   {
+    "param": [
+     "854"
+    ],
+    "type": "NEW_ACTIVITY_COND_AQUARIUM_TASK_POST_QUEST_RUNNING"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_AND",
+  "condId": 2049112
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "1"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [
+     "7470001"
+    ],
+    "type": "NEW_ACTIVITY_COND_QUEST_FINISH"
+   },
+   {
+    "param": [
+     "9"
+    ],
+    "type": "NEW_ACTIVITY_COND_AQUARIUM_TASK_FINISH"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_AND",
+  "condId": 2049201
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "1"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [
+     "7470001"
+    ],
+    "type": "NEW_ACTIVITY_COND_QUEST_FINISH"
+   },
+   {
+    "param": [
+     "12"
+    ],
+    "type": "NEW_ACTIVITY_COND_AQUARIUM_TASK_FINISH"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_AND",
+  "condId": 2049202
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "39"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [
+     "12049001",
+     "12049002",
+     "12049003",
+     "12049004",
+     "12049005",
+     "12049007",
+     "12049008",
+     "12049101",
+     "12049102",
+     "12049103",
+     "12049104",
+     "12049105",
+     "12049106",
+     "12049107",
+     "12049108",
+     "12049109",
+     "12049110",
+     "12049111",
+     "12049112",
+     "12049113",
+     "12049114",
+     "12049201",
+     "12049202",
+     "12049203",
+     "12049204",
+     "12049205",
+     "12049206",
+     "12049207",
+     "12049208",
+     "12049209",
+     "12049210",
+     "12049211",
+     "12049212",
+     "12049301",
+     "12049302",
+     "12049303",
+     "12049304",
+     "12049305",
+     "12049306",
+     "12049307",
+     "12049308",
+     "12049309",
+     "12049310",
+     "12049311",
+     "12049312",
+     "12049313",
+     "12049314",
+     "12049315"
+    ],
+    "type": "NEW_ACTIVITY_COND_NOT_TAKE_ALL_WATCHER"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NOT_TAKE_REWARD_AVATAR"
+   },
+   {
+    "param": [
+     "4024701",
+     "0"
+    ],
+    "type": "NEW_ACTIVITY_COND_QUEST_GLOBAL_VAR_EQUAL"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_A_AND_B_AND_ETCOR",
+  "condId": 2049501
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "1"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_AND",
+  "condId": 2049502
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "1"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [
+     "39604"
+    ],
+    "type": "NEW_ACTIVITY_COND_QUEST_FINISH"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_AND",
+  "condId": 5331001
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "1"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [
+     "39604"
+    ],
+    "type": "NEW_ACTIVITY_COND_QUEST_FINISH"
+   },
+   {
+    "param": [
+     "7668301"
+    ],
+    "type": "NEW_ACTIVITY_COND_QUEST_FINISH"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_AND",
+  "condId": 5331002
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "1"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [
+     "OneShot",
+     "1"
+    ],
+    "type": "NEW_ACTIVITY_COND_FINISH_ACTIVITY_PLAY_LEVEL"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_AND",
+  "condId": 5331003
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "3"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [
+     "OneShot",
+     "2"
+    ],
+    "type": "NEW_ACTIVITY_COND_FINISH_ACTIVITY_PLAY_LEVEL"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_AND",
+  "condId": 5331004
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "3"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [
+     "OneShot",
+     "3"
+    ],
+    "type": "NEW_ACTIVITY_COND_FINISH_ACTIVITY_PLAY_LEVEL"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_AND",
+  "condId": 5331005
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "5"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [
+     "OneShot",
+     "4"
+    ],
+    "type": "NEW_ACTIVITY_COND_FINISH_ACTIVITY_PLAY_LEVEL"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_AND",
+  "condId": 5331006
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "5"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [
+     "OneShot",
+     "5"
+    ],
+    "type": "NEW_ACTIVITY_COND_FINISH_ACTIVITY_PLAY_LEVEL"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_AND",
+  "condId": 5331007
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "7"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [
+     "15331001",
+     "15331002",
+     "15331003",
+     "15331004",
+     "15331005",
+     "15331006",
+     "15331007",
+     "15331008",
+     "15331009",
+     "15331010",
+     "15331011",
+     "15331012",
+     "15331013",
+     "15331014",
+     "15331015",
+     "15331016",
+     "15331017",
+     "15331018"
+    ],
+    "type": "NEW_ACTIVITY_COND_NOT_TAKE_ALL_WATCHER"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_AND",
+  "condId": 5331008
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "5"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [
+     "OneShot",
+     "6"
+    ],
+    "type": "NEW_ACTIVITY_COND_FINISH_ACTIVITY_PLAY_LEVEL"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_AND",
+  "condId": 5331009
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "70"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [
+     "15332001",
+     "15332002",
+     "15332003",
+     "15332004"
+    ],
+    "type": "NEW_ACTIVITY_COND_NOT_TAKE_ALL_WATCHER"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_AND",
+  "condId": 5332001
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     "38"
+    ],
+    "type": "NEW_ACTIVITY_COND_DAYS_GREAT_EQUAL"
+   },
+   {
+    "param": [
+     "15335001"
+    ],
+    "type": "NEW_ACTIVITY_COND_NOT_TAKE_ALL_WATCHER"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   },
+   {
+    "param": [],
+    "type": "NEW_ACTIVITY_COND_NONE"
+   }
+  ],
+  "condComb": "LOGIC_AND",
+  "condId": 5335001
  }
 ]

@@ -507,6 +507,19 @@
   "time": 10
  },
  {
+  "abilityName": "ReHP_Ins&Con",
+  "desc": "34%+1900",
+  "groupId": 10,
+  "isDelWhenLeaveScene": false,
+  "isPersistent": true,
+  "modifierName": "SERVER_ReHP_Ins&Con_Modifier_lv53_3_Extra",
+  "name": "单回料理-3阶-特殊生活天赋",
+  "serverBuffId": 108102,
+  "serverBuffType": "SERVER_BUFF_AVATAR",
+  "stackType": "BUFF_REFRESH",
+  "time": 0.01
+ },
+ {
   "abilityName": "Fragrance_01_Team",
   "desc": "特殊香氛",
   "groupId": 9,

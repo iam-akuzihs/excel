@@ -1,7 +1,7 @@
 [
  {
   "cardCount": 3,
-  "cardNameTextMapHash": 1081534771,
+  "cardNameTextMapHash": 1081535283,
   "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
   "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
   "cardNumericalModificationValue": 2000,
@@ -9,7 +9,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 300,
   "curseWeight": 100,
-  "DDOJEICOFEI": false,
   "descParamList": [
    [
     1
@@ -22,48 +21,49 @@
    false,
    false
   ],
-  "descTextMapHash": 2670989412,
+  "descTextMapHash": 2670989924,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_AttackDamageLevel",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350281
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 2327761231,
-  "extraDescTextMapHash": 3734451414,
+  "extraDesc2TextMapHash": 2327761743,
+  "extraDescTextMapHash": 3734451926,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 1,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 1,
   "number": 1,
+  "PJNGFABEEAC": false,
   "tag": "CARD_TAG_WATER"
  },
  {
   "cardCount": 3,
-  "cardNameTextMapHash": 9961715,
+  "cardNameTextMapHash": 9962227,
   "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
   "cardNumericalModificationType": "CARD_NUMERICAL_MASTERY",
   "cardNumericalModificationValue": 75,
@@ -71,7 +71,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 300,
   "curseWeight": 100,
-  "DDOJEICOFEI": false,
   "descParamList": [
    [
     1
@@ -86,48 +85,49 @@
    false,
    false
   ],
-  "descTextMapHash": 3532666076,
+  "descTextMapHash": 3532666588,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_ElementMasteryLevel",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350281
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 2352608711,
-  "extraDescTextMapHash": 2460972046,
+  "extraDesc2TextMapHash": 2352609223,
+  "extraDescTextMapHash": 2460972558,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 2,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 3,
   "number": 2,
+  "PJNGFABEEAC": false,
   "tag": "CARD_TAG_WATER"
  },
  {
   "cardCount": 1,
-  "cardNameTextMapHash": 1361300507,
+  "cardNameTextMapHash": 1361301019,
   "cardNumericalModificationMode": "CARD_NUMERICAL_PERCENTAGE",
   "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_INTERVAL",
   "cardNumericalModificationValue": -0.2,
@@ -135,7 +135,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 200,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     20
@@ -148,48 +147,49 @@
    false,
    false
   ],
-  "descTextMapHash": 2265289844,
+  "descTextMapHash": 2265290356,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_AttackSpeedLevel",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350281
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 1622540631,
-  "extraDescTextMapHash": 748170278,
+  "extraDesc2TextMapHash": 1622541143,
+  "extraDescTextMapHash": 748170790,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 3,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 1,
   "number": 3,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_WATER"
  },
  {
   "cardCount": 3,
-  "cardNameTextMapHash": 152110179,
+  "cardNameTextMapHash": 152110691,
   "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
   "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
   "cardNumericalModificationValue": 2000,
@@ -197,7 +197,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 300,
   "curseWeight": 100,
-  "DDOJEICOFEI": false,
   "descParamList": [
    [
     1
@@ -210,48 +209,49 @@
    false,
    false
   ],
-  "descTextMapHash": 32629892,
+  "descTextMapHash": 32630404,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_AttackDamageLevel",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350282
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 2668477719,
-  "extraDescTextMapHash": 1876680174,
+  "extraDesc2TextMapHash": 2668478231,
+  "extraDescTextMapHash": 1876680686,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 4,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 1,
   "number": 4,
+  "PJNGFABEEAC": false,
   "tag": "CARD_TAG_FIRE"
  },
  {
   "cardCount": 3,
-  "cardNameTextMapHash": 3414422811,
+  "cardNameTextMapHash": 3414423323,
   "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
   "cardNumericalModificationType": "CARD_NUMERICAL_MASTERY",
   "cardNumericalModificationValue": 75,
@@ -259,7 +259,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 300,
   "curseWeight": 100,
-  "DDOJEICOFEI": false,
   "descParamList": [
    [
     1
@@ -272,48 +271,49 @@
    false,
    false
   ],
-  "descTextMapHash": 3649468812,
+  "descTextMapHash": 3649469324,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_ElementMasteryLevel",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350282
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 2612289695,
-  "extraDescTextMapHash": 2740325870,
+  "extraDesc2TextMapHash": 2612290207,
+  "extraDescTextMapHash": 2740326382,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 5,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 3,
   "number": 5,
+  "PJNGFABEEAC": false,
   "tag": "CARD_TAG_FIRE"
  },
  {
   "cardCount": 1,
-  "cardNameTextMapHash": 637324531,
+  "cardNameTextMapHash": 637325043,
   "cardNumericalModificationMode": "CARD_NUMERICAL_PERCENTAGE",
   "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_INTERVAL",
   "cardNumericalModificationValue": -0.2,
@@ -321,7 +321,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 200,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     20
@@ -334,48 +333,49 @@
    false,
    false
   ],
-  "descTextMapHash": 68104468,
+  "descTextMapHash": 68104980,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_AttackSpeedLevel",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350282
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 677434511,
-  "extraDescTextMapHash": 690852918,
+  "extraDesc2TextMapHash": 677435023,
+  "extraDescTextMapHash": 690853430,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 6,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 1,
   "number": 6,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_FIRE"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 2844986467,
+  "cardNameTextMapHash": 2844986979,
   "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
   "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_RANGE",
   "cardNumericalModificationValue": 8,
@@ -383,7 +383,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 200,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     40,
@@ -397,48 +396,49 @@
    false,
    false
   ],
-  "descTextMapHash": 658740348,
+  "descTextMapHash": 658740860,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_RangeLevel",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350282
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 4168959295,
-  "extraDescTextMapHash": 4142289342,
+  "extraDesc2TextMapHash": 4168959807,
+  "extraDescTextMapHash": 4142289854,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 7,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 1,
   "number": 7,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_FIRE"
  },
  {
   "cardCount": 3,
-  "cardNameTextMapHash": 1794425251,
+  "cardNameTextMapHash": 1794425763,
   "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
   "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
   "cardNumericalModificationValue": 2000,
@@ -446,7 +446,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 300,
   "curseWeight": 100,
-  "DDOJEICOFEI": false,
   "descParamList": [
    [
     1
@@ -459,48 +458,49 @@
    false,
    false
   ],
-  "descTextMapHash": 3644221460,
+  "descTextMapHash": 3644221972,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_AttackDamageLevel",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350283
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 3307091071,
-  "extraDescTextMapHash": 1711852950,
+  "extraDesc2TextMapHash": 3307091583,
+  "extraDescTextMapHash": 1711853462,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 8,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 1,
   "number": 8,
+  "PJNGFABEEAC": false,
   "tag": "CARD_TAG_ICE"
  },
  {
   "cardCount": 3,
-  "cardNameTextMapHash": 373462091,
+  "cardNameTextMapHash": 373462603,
   "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
   "cardNumericalModificationType": "CARD_NUMERICAL_MASTERY",
   "cardNumericalModificationValue": 75,
@@ -508,7 +508,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 300,
   "curseWeight": 100,
-  "DDOJEICOFEI": false,
   "descParamList": [
    [
     1
@@ -523,48 +522,49 @@
    false,
    false
   ],
-  "descTextMapHash": 312352068,
+  "descTextMapHash": 312352580,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_ElementMasteryLevel",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350283
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 3404999967,
-  "extraDescTextMapHash": 2877709318,
+  "extraDesc2TextMapHash": 3405000479,
+  "extraDescTextMapHash": 2877709830,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 9,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 3,
   "number": 9,
+  "PJNGFABEEAC": false,
   "tag": "CARD_TAG_ICE"
  },
  {
   "cardCount": 1,
-  "cardNameTextMapHash": 3527410835,
+  "cardNameTextMapHash": 3527411347,
   "cardNumericalModificationMode": "CARD_NUMERICAL_PERCENTAGE",
   "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_INTERVAL",
   "cardNumericalModificationValue": -0.2,
@@ -572,7 +572,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 200,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     20
@@ -585,48 +584,49 @@
    false,
    false
   ],
-  "descTextMapHash": 354636036,
+  "descTextMapHash": 354636548,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_AttackSpeedLevel",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350283
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 3504572551,
-  "extraDescTextMapHash": 2722674838,
+  "extraDesc2TextMapHash": 3504573063,
+  "extraDescTextMapHash": 2722675350,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 10,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 1,
   "number": 10,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_ICE"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 3398424651,
+  "cardNameTextMapHash": 3398425163,
   "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
   "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_RANGE",
   "cardNumericalModificationValue": 8,
@@ -634,7 +634,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 200,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     53,
@@ -648,48 +647,49 @@
    false,
    false
   ],
-  "descTextMapHash": 2207663188,
+  "descTextMapHash": 2207663700,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_RangeLevel",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350283
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 3555777023,
-  "extraDescTextMapHash": 364949974,
+  "extraDesc2TextMapHash": 3555777535,
+  "extraDescTextMapHash": 364950486,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 11,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 1,
   "number": 11,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_ICE"
  },
  {
   "cardCount": 3,
-  "cardNameTextMapHash": 3616288771,
+  "cardNameTextMapHash": 3616289283,
   "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
   "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
   "cardNumericalModificationValue": 2000,
@@ -697,7 +697,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 300,
   "curseWeight": 100,
-  "DDOJEICOFEI": false,
   "descParamList": [
    [
     1
@@ -710,48 +709,49 @@
    false,
    false
   ],
-  "descTextMapHash": 2981162236,
+  "descTextMapHash": 2981162748,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_AttackDamageLevel",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350284
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 2601097503,
-  "extraDescTextMapHash": 1300207686,
+  "extraDesc2TextMapHash": 2601098015,
+  "extraDescTextMapHash": 1300208198,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 12,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 1,
   "number": 12,
+  "PJNGFABEEAC": false,
   "tag": "CARD_TAG_WIND"
  },
  {
   "cardCount": 3,
-  "cardNameTextMapHash": 393064875,
+  "cardNameTextMapHash": 393065387,
   "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
   "cardNumericalModificationType": "CARD_NUMERICAL_MASTERY",
   "cardNumericalModificationValue": 75,
@@ -759,7 +759,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 300,
   "curseWeight": 100,
-  "DDOJEICOFEI": false,
   "descParamList": [
    [
     1
@@ -772,48 +771,49 @@
    false,
    false
   ],
-  "descTextMapHash": 2631352332,
+  "descTextMapHash": 2631352844,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_ElementMasteryLevel",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350284
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 2513357871,
-  "extraDescTextMapHash": 3363130414,
+  "extraDesc2TextMapHash": 2513358383,
+  "extraDescTextMapHash": 3363130926,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 13,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 3,
   "number": 13,
+  "PJNGFABEEAC": false,
   "tag": "CARD_TAG_WIND"
  },
  {
   "cardCount": 1,
-  "cardNameTextMapHash": 856577307,
+  "cardNameTextMapHash": 856577819,
   "cardNumericalModificationMode": "CARD_NUMERICAL_PERCENTAGE",
   "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_INTERVAL",
   "cardNumericalModificationValue": -0.2,
@@ -821,7 +821,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 200,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     20
@@ -834,48 +833,49 @@
    false,
    false
   ],
-  "descTextMapHash": 4170165484,
+  "descTextMapHash": 4170165996,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_AttackSpeedLevel",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350284
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 758596007,
-  "extraDescTextMapHash": 2393057398,
+  "extraDesc2TextMapHash": 758596519,
+  "extraDescTextMapHash": 2393057910,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 14,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 1,
   "number": 14,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_WIND"
  },
  {
   "cardCount": 3,
-  "cardNameTextMapHash": 3820640683,
+  "cardNameTextMapHash": 3820641195,
   "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
   "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
   "cardNumericalModificationValue": 2000,
@@ -883,7 +883,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 300,
   "curseWeight": 100,
-  "DDOJEICOFEI": false,
   "descParamList": [
    [
     1
@@ -896,48 +895,49 @@
    false,
    false
   ],
-  "descTextMapHash": 3628155124,
+  "descTextMapHash": 3628155636,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_AttackDamageLevel",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350285
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 1292684407,
-  "extraDescTextMapHash": 1324188966,
+  "extraDesc2TextMapHash": 1292684919,
+  "extraDescTextMapHash": 1324189478,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 15,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 1,
   "number": 15,
+  "PJNGFABEEAC": false,
   "tag": "CARD_TAG_ELECTRIC"
  },
  {
   "cardCount": 3,
-  "cardNameTextMapHash": 154872027,
+  "cardNameTextMapHash": 154872539,
   "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
   "cardNumericalModificationType": "CARD_NUMERICAL_MASTERY",
   "cardNumericalModificationValue": 75,
@@ -945,7 +945,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 300,
   "curseWeight": 100,
-  "DDOJEICOFEI": false,
   "descParamList": [
    [
     1
@@ -960,48 +959,49 @@
    false,
    false
   ],
-  "descTextMapHash": 3896976636,
+  "descTextMapHash": 3896977148,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_ElementMasteryLevel",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350285
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 3186862279,
-  "extraDescTextMapHash": 1162189918,
+  "extraDesc2TextMapHash": 3186862791,
+  "extraDescTextMapHash": 1162190430,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 16,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 3,
   "number": 16,
+  "PJNGFABEEAC": false,
   "tag": "CARD_TAG_ELECTRIC"
  },
  {
   "cardCount": 1,
-  "cardNameTextMapHash": 3276445155,
+  "cardNameTextMapHash": 3276445667,
   "cardNumericalModificationMode": "CARD_NUMERICAL_PERCENTAGE",
   "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_INTERVAL",
   "cardNumericalModificationValue": -0.2,
@@ -1009,7 +1009,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 200,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     20
@@ -1022,48 +1021,49 @@
    false,
    false
   ],
-  "descTextMapHash": 161961156,
+  "descTextMapHash": 161961668,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_AttackSpeedLevel",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350285
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 3309659631,
-  "extraDescTextMapHash": 1333791822,
+  "extraDesc2TextMapHash": 3309660143,
+  "extraDescTextMapHash": 1333792334,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 17,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 1,
   "number": 17,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_ELECTRIC"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 3842649451,
+  "cardNameTextMapHash": 3842649963,
   "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
   "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_RANGE",
   "cardNumericalModificationValue": 8,
@@ -1071,7 +1071,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 200,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     53,
@@ -1085,48 +1084,49 @@
    false,
    false
   ],
-  "descTextMapHash": 3893813420,
+  "descTextMapHash": 3893813932,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_RangeLevel",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350285
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 3779796335,
-  "extraDescTextMapHash": 1247945206,
+  "extraDesc2TextMapHash": 3779796847,
+  "extraDescTextMapHash": 1247945718,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 18,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 1,
   "number": 18,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_ELECTRIC"
  },
  {
   "cardCount": 3,
-  "cardNameTextMapHash": 1227811251,
+  "cardNameTextMapHash": 1227811763,
   "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
   "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
   "cardNumericalModificationValue": 2000,
@@ -1134,7 +1134,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 300,
   "curseWeight": 100,
-  "DDOJEICOFEI": false,
   "descParamList": [
    [
     1
@@ -1147,48 +1146,49 @@
    false,
    false
   ],
-  "descTextMapHash": 1356987772,
+  "descTextMapHash": 1356988284,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_AttackDamageLevel",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350286
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 2731973887,
-  "extraDescTextMapHash": 130889206,
+  "extraDesc2TextMapHash": 2731974399,
+  "extraDescTextMapHash": 130889718,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 19,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 1,
   "number": 19,
+  "PJNGFABEEAC": false,
   "tag": "CARD_TAG_PHYSICS"
  },
  {
   "cardCount": 1,
-  "cardNameTextMapHash": 862902427,
+  "cardNameTextMapHash": 862902939,
   "cardNumericalModificationMode": "CARD_NUMERICAL_PERCENTAGE",
   "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_INTERVAL",
   "cardNumericalModificationValue": -0.2,
@@ -1196,7 +1196,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 200,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     20
@@ -1209,48 +1208,49 @@
    false,
    false
   ],
-  "descTextMapHash": 777763868,
+  "descTextMapHash": 777764380,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_AttackSpeedLevel",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350286
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 1141904647,
-  "extraDescTextMapHash": 3550016846,
+  "extraDesc2TextMapHash": 1141905159,
+  "extraDescTextMapHash": 3550017358,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 20,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 1,
   "number": 20,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_PHYSICS"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 1333659891,
+  "cardNameTextMapHash": 1333660403,
   "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
   "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_RANGE",
   "cardNumericalModificationValue": 8,
@@ -1258,7 +1258,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 200,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     33,
@@ -1272,48 +1271,49 @@
    false,
    false
   ],
-  "descTextMapHash": 3394547972,
+  "descTextMapHash": 3394548484,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_RangeLevel",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350286
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 486007887,
-  "extraDescTextMapHash": 1438904622,
+  "extraDesc2TextMapHash": 486008399,
+  "extraDescTextMapHash": 1438905134,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 21,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 1,
   "number": 21,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_PHYSICS"
  },
  {
   "cardCount": 3,
-  "cardNameTextMapHash": 3948328107,
+  "cardNameTextMapHash": 3948328619,
   "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
   "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
   "cardNumericalModificationValue": 2000,
@@ -1321,7 +1321,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 300,
   "curseWeight": 100,
-  "DDOJEICOFEI": false,
   "descParamList": [
    [
     1
@@ -1334,48 +1333,49 @@
    false,
    false
   ],
-  "descTextMapHash": 3967053852,
+  "descTextMapHash": 3967054364,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_AttackDamageLevel",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350298
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 4179082711,
-  "extraDescTextMapHash": 2021090454,
+  "extraDesc2TextMapHash": 4179083223,
+  "extraDescTextMapHash": 2021090966,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 22,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 3,
   "number": 22,
+  "PJNGFABEEAC": false,
   "tag": "CARD_TAG_HELP"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 2937406859,
+  "cardNameTextMapHash": 2937407371,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -1383,7 +1383,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 200,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     10,
@@ -1397,48 +1396,49 @@
    false,
    false
   ],
-  "descTextMapHash": 3557342652,
+  "descTextMapHash": 3557343164,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_UpgradeAttackLevel",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350303
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 1626291463,
-  "extraDescTextMapHash": 2321762366,
+  "extraDesc2TextMapHash": 1626291975,
+  "extraDescTextMapHash": 2321762878,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 23,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 4,
   "number": 23,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_HELP"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 473532763,
+  "cardNameTextMapHash": 473533275,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -1446,7 +1446,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 200,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     25,
@@ -1460,48 +1459,49 @@
    false,
    false
   ],
-  "descTextMapHash": 3485856884,
+  "descTextMapHash": 3485857396,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_UpgradeMasteryLevel",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350303
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 231067727,
-  "extraDescTextMapHash": 888225222,
+  "extraDesc2TextMapHash": 231068239,
+  "extraDescTextMapHash": 888225734,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 24,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 4,
   "number": 24,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_HELP"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 2812875195,
+  "cardNameTextMapHash": 2812875707,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -1509,7 +1509,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 200,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     10,
@@ -1523,48 +1522,49 @@
    false,
    false
   ],
-  "descTextMapHash": 3354492980,
+  "descTextMapHash": 3354493492,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_AuroKillPointBonus",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350294
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 256572695,
-  "extraDescTextMapHash": 4109989206,
+  "extraDesc2TextMapHash": 256573207,
+  "extraDescTextMapHash": 4109989718,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 25,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 4,
   "number": 25,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_HELP"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 2040219827,
+  "cardNameTextMapHash": 2040220339,
   "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
   "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_RANGE",
   "cardNumericalModificationValue": 2,
@@ -1572,7 +1572,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     33,
@@ -1586,48 +1585,49 @@
    false,
    false
   ],
-  "descTextMapHash": 3698884924,
+  "descTextMapHash": 3698885436,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_RangeLevel",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350281
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 3121724687,
-  "extraDescTextMapHash": 3925958702,
+  "extraDesc2TextMapHash": 3121725199,
+  "extraDescTextMapHash": 3925959214,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 26,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 1,
   "number": 26,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_WATER"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 4138904683,
+  "cardNameTextMapHash": 4138905195,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -1635,7 +1635,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     5,
@@ -1652,48 +1651,49 @@
    false,
    false
   ],
-  "descTextMapHash": 338766004,
+  "descTextMapHash": 338766516,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_Bubble",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350281
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 102486423,
-  "extraDescTextMapHash": 3883972654,
+  "extraDesc2TextMapHash": 102486935,
+  "extraDescTextMapHash": 3883973166,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 27,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 2,
   "number": 27,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_WATER"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 3366157363,
+  "cardNameTextMapHash": 3366157875,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -1701,7 +1701,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     20,
@@ -1715,48 +1714,49 @@
    false,
    false
   ],
-  "descTextMapHash": 3231093092,
+  "descTextMapHash": 3231093604,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_WaterImpulse",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350281
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 2741447975,
-  "extraDescTextMapHash": 3056155062,
+  "extraDesc2TextMapHash": 2741448487,
+  "extraDescTextMapHash": 3056155574,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 28,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 5,
   "number": 28,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_WATER"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 316300387,
+  "cardNameTextMapHash": 316300899,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -1764,7 +1764,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     50,
@@ -1778,46 +1777,47 @@
    false,
    false
   ],
-  "descTextMapHash": 1568492836,
+  "descTextMapHash": 1568493348,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_Evaporate",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [],
    "targetType": "CHESS_CARD_TARGET_ALL"
   },
-  "extraDesc2TextMapHash": 2358577407,
-  "extraDescTextMapHash": 561013070,
+  "extraDesc2TextMapHash": 2358577919,
+  "extraDescTextMapHash": 561013582,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 29,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 3,
   "number": 29,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_WATER"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 793189435,
+  "cardNameTextMapHash": 793189947,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -1825,7 +1825,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     50,
@@ -1839,48 +1838,49 @@
    false,
    false
   ],
-  "descTextMapHash": 3692824876,
+  "descTextMapHash": 3692825388,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_Wet",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350281
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 3407470039,
-  "extraDescTextMapHash": 3157642438,
+  "extraDesc2TextMapHash": 3407470551,
+  "extraDescTextMapHash": 3157642950,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 30,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 6,
   "number": 30,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_WATER"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 87271699,
+  "cardNameTextMapHash": 87272211,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -1888,7 +1888,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     133,
@@ -1902,48 +1901,49 @@
    false,
    false
   ],
-  "descTextMapHash": 3707337844,
+  "descTextMapHash": 3707338356,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_Aoe",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350282
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 4280113591,
-  "extraDescTextMapHash": 679287918,
+  "extraDesc2TextMapHash": 4280114103,
+  "extraDescTextMapHash": 679288430,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 31,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 1,
   "number": 31,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_FIRE"
  },
  {
   "cardCount": 1,
-  "cardNameTextMapHash": 763411683,
+  "cardNameTextMapHash": 763412195,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -1951,7 +1951,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [],
    [],
@@ -1962,48 +1961,49 @@
    false,
    false
   ],
-  "descTextMapHash": 3707234524,
+  "descTextMapHash": 3707235036,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_Enbreak",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350282
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 3174677543,
-  "extraDescTextMapHash": 1246829038,
+  "extraDesc2TextMapHash": 3174678055,
+  "extraDescTextMapHash": 1246829550,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 32,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 2,
   "number": 32,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_FIRE"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 2046878787,
+  "cardNameTextMapHash": 2046879299,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -2011,7 +2011,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     20,
@@ -2025,48 +2024,49 @@
    false,
    false
   ],
-  "descTextMapHash": 2437927340,
+  "descTextMapHash": 2437927852,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_FireImpulse",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350282
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 3451302935,
-  "extraDescTextMapHash": 1730731046,
+  "extraDesc2TextMapHash": 3451303447,
+  "extraDescTextMapHash": 1730731558,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 33,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 5,
   "number": 33,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_FIRE"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 1305470139,
+  "cardNameTextMapHash": 1305470651,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -2074,7 +2074,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     50,
@@ -2088,46 +2087,47 @@
    false,
    false
   ],
-  "descTextMapHash": 2207088092,
+  "descTextMapHash": 2207088604,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_Melt",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [],
    "targetType": "CHESS_CARD_TARGET_ALL"
   },
-  "extraDesc2TextMapHash": 3872077863,
-  "extraDescTextMapHash": 2729759102,
+  "extraDesc2TextMapHash": 3872078375,
+  "extraDescTextMapHash": 2729759614,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 34,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 3,
   "number": 34,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_FIRE"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 172089731,
+  "cardNameTextMapHash": 172090243,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -2135,7 +2135,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     10,
@@ -2152,48 +2151,49 @@
    false,
    false
   ],
-  "descTextMapHash": 271535172,
+  "descTextMapHash": 271535684,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_Defensedown",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350282
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 1705802767,
-  "extraDescTextMapHash": 1105784198,
+  "extraDesc2TextMapHash": 1705803279,
+  "extraDescTextMapHash": 1105784710,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 35,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 6,
   "number": 35,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_FIRE"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 815683659,
+  "cardNameTextMapHash": 815684171,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -2201,7 +2201,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     20,
@@ -2218,48 +2217,49 @@
    true,
    false
   ],
-  "descTextMapHash": 2934580564,
+  "descTextMapHash": 2934581076,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_Explosion",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350283
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 2789683399,
-  "extraDescTextMapHash": 3305840990,
+  "extraDesc2TextMapHash": 2789683911,
+  "extraDescTextMapHash": 3305841502,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 36,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 1,
   "number": 36,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_ICE"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 2179149139,
+  "cardNameTextMapHash": 2179149651,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -2267,7 +2267,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     25,
@@ -2284,48 +2283,49 @@
    false,
    false
   ],
-  "descTextMapHash": 2296449108,
+  "descTextMapHash": 2296449620,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_Slowdown",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350283
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 2092975191,
-  "extraDescTextMapHash": 1030660206,
+  "extraDesc2TextMapHash": 2092975703,
+  "extraDescTextMapHash": 1030660718,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 37,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 2,
   "number": 37,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_ICE"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 4227442003,
+  "cardNameTextMapHash": 4227442515,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -2333,7 +2333,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     20,
@@ -2347,48 +2346,49 @@
    false,
    false
   ],
-  "descTextMapHash": 2860970308,
+  "descTextMapHash": 2860970820,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_IceImpulse",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350283
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 2033109327,
-  "extraDescTextMapHash": 3308930470,
+  "extraDesc2TextMapHash": 2033109839,
+  "extraDescTextMapHash": 3308930982,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 38,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 5,
   "number": 38,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_ICE"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 2419763699,
+  "cardNameTextMapHash": 2419764211,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -2396,7 +2396,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     25,
@@ -2410,48 +2409,49 @@
    false,
    false
   ],
-  "descTextMapHash": 1186065636,
+  "descTextMapHash": 1186066148,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_Resistancedown",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350283
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 2374567255,
-  "extraDescTextMapHash": 1904354782,
+  "extraDesc2TextMapHash": 2374567767,
+  "extraDescTextMapHash": 1904355294,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 39,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 6,
   "number": 39,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_ICE"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 2561370611,
+  "cardNameTextMapHash": 2561371123,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -2459,7 +2459,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     1,
@@ -2473,48 +2472,49 @@
    false,
    false
   ],
-  "descTextMapHash": 1664141732,
+  "descTextMapHash": 1664142244,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_TowUnits",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350284
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 3709862079,
-  "extraDescTextMapHash": 1375446110,
+  "extraDesc2TextMapHash": 3709862591,
+  "extraDescTextMapHash": 1375446622,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 40,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 2,
   "number": 40,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_WIND"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 1453557171,
+  "cardNameTextMapHash": 1453557683,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -2522,7 +2522,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     6,
@@ -2536,48 +2535,49 @@
    false,
    false
   ],
-  "descTextMapHash": 3226740740,
+  "descTextMapHash": 3226741252,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_WindImpulse",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350284
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 1227940975,
-  "extraDescTextMapHash": 3606351110,
+  "extraDesc2TextMapHash": 1227941487,
+  "extraDescTextMapHash": 3606351622,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 41,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 5,
   "number": 41,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_WIND"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 2108256675,
+  "cardNameTextMapHash": 2108257187,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -2585,7 +2585,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     10,
@@ -2605,48 +2604,49 @@
    false,
    false
   ],
-  "descTextMapHash": 1912694172,
+  "descTextMapHash": 1912694684,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_ReduceWindResistance",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350284
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 2161890359,
-  "extraDescTextMapHash": 2661632278,
+  "extraDesc2TextMapHash": 2161890871,
+  "extraDescTextMapHash": 2661632790,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 42,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 3,
   "number": 42,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_WIND"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 432559275,
+  "cardNameTextMapHash": 432559787,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -2654,7 +2654,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     50,
@@ -2671,48 +2670,49 @@
    false,
    false
   ],
-  "descTextMapHash": 1396607196,
+  "descTextMapHash": 1396607708,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_ExtraDamageByHp",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350284
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 3831193751,
-  "extraDescTextMapHash": 3858503078,
+  "extraDesc2TextMapHash": 3831194263,
+  "extraDescTextMapHash": 3858503590,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 43,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 6,
   "number": 43,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_WIND"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 1517503707,
+  "cardNameTextMapHash": 2080467524,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -2720,7 +2720,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     1,
@@ -2734,48 +2733,49 @@
    false,
    false
   ],
-  "descTextMapHash": 3409690836,
+  "descTextMapHash": 3409691348,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_ExtraTargets",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350285
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 2309268583,
-  "extraDescTextMapHash": 874804630,
+  "extraDesc2TextMapHash": 2309269095,
+  "extraDescTextMapHash": 874805142,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 44,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 1,
   "number": 44,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_ELECTRIC"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 3595105547,
+  "cardNameTextMapHash": 3595106059,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -2783,7 +2783,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     8,
@@ -2800,48 +2799,49 @@
    false,
    false
   ],
-  "descTextMapHash": 692749796,
+  "descTextMapHash": 692750308,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_Confine",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350285
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 455888223,
-  "extraDescTextMapHash": 48877718,
+  "extraDesc2TextMapHash": 455888735,
+  "extraDescTextMapHash": 48878230,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 45,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 2,
   "number": 45,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_ELECTRIC"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 910637115,
+  "cardNameTextMapHash": 910637627,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -2849,7 +2849,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     20,
@@ -2863,48 +2862,49 @@
    false,
    false
   ],
-  "descTextMapHash": 1186388196,
+  "descTextMapHash": 1186388708,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_ElectricImpulse",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350285
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 1702648087,
-  "extraDescTextMapHash": 2501006646,
+  "extraDesc2TextMapHash": 1702648599,
+  "extraDescTextMapHash": 2501007158,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 46,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 5,
   "number": 46,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_ELECTRIC"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 1175426131,
+  "cardNameTextMapHash": 1175426643,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -2912,7 +2912,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     100,
@@ -2926,46 +2925,47 @@
    false,
    false
   ],
-  "descTextMapHash": 3958451468,
+  "descTextMapHash": 3958451980,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_UpgradeElectricRecation",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [],
    "targetType": "CHESS_CARD_TARGET_ALL"
   },
-  "extraDesc2TextMapHash": 4097564815,
-  "extraDescTextMapHash": 2351970662,
+  "extraDesc2TextMapHash": 4097565327,
+  "extraDescTextMapHash": 2351971174,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 47,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 3,
   "number": 47,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_ELECTRIC"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 401852491,
+  "cardNameTextMapHash": 401853003,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -2973,7 +2973,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     5,
@@ -2993,48 +2992,49 @@
    false,
    false
   ],
-  "descTextMapHash": 64861420,
+  "descTextMapHash": 64861932,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_FurySwipe",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350285
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 737353903,
-  "extraDescTextMapHash": 2030620718,
+  "extraDesc2TextMapHash": 737354415,
+  "extraDescTextMapHash": 2030621230,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 48,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 6,
   "number": 48,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_ELECTRIC"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 1056955451,
+  "cardNameTextMapHash": 1056955963,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -3042,7 +3042,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     25,
@@ -3059,48 +3058,49 @@
    false,
    false
   ],
-  "descTextMapHash": 3650215172,
+  "descTextMapHash": 3650215684,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_HitExplosion",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350286
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 845024583,
-  "extraDescTextMapHash": 2666728766,
+  "extraDesc2TextMapHash": 845025095,
+  "extraDescTextMapHash": 2666729278,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 49,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 1,
   "number": 49,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_PHYSICS"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 778781699,
+  "cardNameTextMapHash": 778782211,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -3108,7 +3108,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     40,
@@ -3122,46 +3121,47 @@
    false,
    false
   ],
-  "descTextMapHash": 881438908,
+  "descTextMapHash": 881439420,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_ReducePhysicalResistance",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [],
    "targetType": "CHESS_CARD_TARGET_ALL"
   },
-  "extraDesc2TextMapHash": 3348775071,
-  "extraDescTextMapHash": 887958870,
+  "extraDesc2TextMapHash": 3348775583,
+  "extraDescTextMapHash": 887959382,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 50,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 3,
   "number": 50,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_PHYSICS"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 2934779987,
+  "cardNameTextMapHash": 2934780499,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -3169,7 +3169,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     0.5,
@@ -3186,48 +3185,49 @@
    false,
    false
   ],
-  "descTextMapHash": 3577684460,
+  "descTextMapHash": 3577684972,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_DamageByTime",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350286
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 1422273751,
-  "extraDescTextMapHash": 1381274798,
+  "extraDesc2TextMapHash": 1422274263,
+  "extraDescTextMapHash": 1381275310,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 51,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 6,
   "number": 51,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_PHYSICS"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 859540651,
+  "cardNameTextMapHash": 859541163,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -3235,7 +3235,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     50,
@@ -3252,48 +3251,49 @@
    false,
    false
   ],
-  "descTextMapHash": 3679696068,
+  "descTextMapHash": 3679696580,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_Mine_Extradamage",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350298
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 3116334399,
-  "extraDescTextMapHash": 1419726886,
+  "extraDesc2TextMapHash": 3116334911,
+  "extraDescTextMapHash": 1419727398,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 52,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 4,
   "number": 52,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_HELP"
  },
  {
   "cardCount": 1,
-  "cardNameTextMapHash": 1001657531,
+  "cardNameTextMapHash": 1001658043,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -3301,7 +3301,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [],
    [],
@@ -3312,48 +3311,49 @@
    false,
    false
   ],
-  "descTextMapHash": 3524050212,
+  "descTextMapHash": 3524050724,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_Mine_Extraexplosion",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350298
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 2609947791,
-  "extraDescTextMapHash": 1074128078,
+  "extraDesc2TextMapHash": 2609948303,
+  "extraDescTextMapHash": 1074128590,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 53,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 4,
   "number": 53,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_HELP"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 1248798763,
+  "cardNameTextMapHash": 1248799275,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -3361,7 +3361,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     15,
@@ -3375,48 +3374,49 @@
    false,
    false
   ],
-  "descTextMapHash": 4123195500,
+  "descTextMapHash": 4123196012,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_Mine_Reset",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350298
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 2875266519,
-  "extraDescTextMapHash": 599923846,
+  "extraDesc2TextMapHash": 2875267031,
+  "extraDescTextMapHash": 599924358,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 54,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 8,
   "number": 54,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_HELP"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 3152876643,
+  "cardNameTextMapHash": 3152877155,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -3424,7 +3424,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 200,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     2,
@@ -3438,48 +3437,49 @@
    false,
    false
   ],
-  "descTextMapHash": 2689116644,
+  "descTextMapHash": 2689117156,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_Trap_Extratime",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350299
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 2404326591,
-  "extraDescTextMapHash": 4076975174,
+  "extraDesc2TextMapHash": 2404327103,
+  "extraDescTextMapHash": 4076975686,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 55,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 2,
   "number": 55,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_HELP"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 3427523795,
+  "cardNameTextMapHash": 3427524307,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -3487,7 +3487,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     50,
@@ -3501,48 +3500,49 @@
    false,
    false
   ],
-  "descTextMapHash": 58488980,
+  "descTextMapHash": 58489492,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_Trap_Extradamage",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350299
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 3312472567,
-  "extraDescTextMapHash": 3356237910,
+  "extraDesc2TextMapHash": 3312473079,
+  "extraDescTextMapHash": 3356238422,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 56,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 3,
   "number": 56,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_HELP"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 473926707,
+  "cardNameTextMapHash": 473927219,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -3550,7 +3550,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     15,
@@ -3564,48 +3563,49 @@
    false,
    false
   ],
-  "descTextMapHash": 246000716,
+  "descTextMapHash": 246001228,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_Trap_Reset",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350299
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 2040089735,
-  "extraDescTextMapHash": 2866882862,
+  "extraDesc2TextMapHash": 2040090247,
+  "extraDescTextMapHash": 2866883374,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 57,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 8,
   "number": 57,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_HELP"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 3147657563,
+  "cardNameTextMapHash": 3147658075,
   "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
   "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_RANGE",
   "cardNumericalModificationValue": 3,
@@ -3613,7 +3613,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     50,
@@ -3627,48 +3626,49 @@
    false,
    false
   ],
-  "descTextMapHash": 2718675260,
+  "descTextMapHash": 2718675772,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_RangeLevel",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350303
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 2126319767,
-  "extraDescTextMapHash": 4180098150,
+  "extraDesc2TextMapHash": 2126320279,
+  "extraDescTextMapHash": 4180098662,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 58,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 4,
   "number": 58,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_HELP"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 1481152875,
+  "cardNameTextMapHash": 1481153387,
   "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
   "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_RANGE",
   "cardNumericalModificationValue": 2,
@@ -3676,7 +3676,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     25,
@@ -3690,48 +3689,49 @@
    false,
    false
   ],
-  "descTextMapHash": 2582216900,
+  "descTextMapHash": 2582217412,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_RangeLevel",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350294
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 3461257399,
-  "extraDescTextMapHash": 2901266934,
+  "extraDesc2TextMapHash": 3461257911,
+  "extraDescTextMapHash": 2901267446,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 59,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 1,
   "number": 59,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_HELP"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 910891291,
+  "cardNameTextMapHash": 910891803,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -3739,7 +3739,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     20,
@@ -3753,48 +3752,49 @@
    false,
    false
   ],
-  "descTextMapHash": 981496300,
+  "descTextMapHash": 981496812,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_SlowLevel",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350294
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 3726710999,
-  "extraDescTextMapHash": 1709029806,
+  "extraDesc2TextMapHash": 3726711511,
+  "extraDescTextMapHash": 1709030318,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 60,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 2,
   "number": 60,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_HELP"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 3017753051,
+  "cardNameTextMapHash": 3017753563,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -3802,7 +3802,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 200,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     30,
@@ -3819,48 +3818,49 @@
    false,
    false
   ],
-  "descTextMapHash": 1829306868,
+  "descTextMapHash": 1829307380,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_SpeedDown",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350305
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 1689974799,
-  "extraDescTextMapHash": 3840010670,
+  "extraDesc2TextMapHash": 1689975311,
+  "extraDescTextMapHash": 3840011182,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 61,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 2,
   "number": 61,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_HELP"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 2413474243,
+  "cardNameTextMapHash": 2413474755,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -3868,7 +3868,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     2,
@@ -3882,48 +3881,49 @@
    false,
    false
   ],
-  "descTextMapHash": 1332765060,
+  "descTextMapHash": 1332765572,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_Durability",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350305
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 1876502735,
-  "extraDescTextMapHash": 707131686,
+  "extraDesc2TextMapHash": 1876503247,
+  "extraDescTextMapHash": 707132198,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 62,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 4,
   "number": 62,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_HELP"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 1611907579,
+  "cardNameTextMapHash": 1611908091,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -3931,7 +3931,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 1500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     125,
@@ -3945,48 +3944,49 @@
    false,
    false
   ],
-  "descTextMapHash": 1666098356,
+  "descTextMapHash": 1666098868,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_TargetAOE",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350281
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 599887111,
-  "extraDescTextMapHash": 4111771758,
+  "extraDesc2TextMapHash": 599887623,
+  "extraDescTextMapHash": 4111772270,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 63,
   "isCanAttachCurse": false,
   "isShowOnPick": true,
   "needChessLevel": 1,
   "number": 63,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_WATER"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 2903129587,
+  "cardNameTextMapHash": 2903130099,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -3994,7 +3994,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 1500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     12,
@@ -4014,48 +4013,49 @@
    false,
    false
   ],
-  "descTextMapHash": 3163795492,
+  "descTextMapHash": 3163796004,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_Dot",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350281
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 1011373367,
-  "extraDescTextMapHash": 3695549910,
+  "extraDesc2TextMapHash": 1011373879,
+  "extraDescTextMapHash": 3695550422,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 64,
   "isCanAttachCurse": false,
   "isShowOnPick": true,
   "needChessLevel": 7,
   "number": 64,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_WATER"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 3426342931,
+  "cardNameTextMapHash": 3426343443,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -4063,7 +4063,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 1500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     100,
@@ -4077,48 +4076,49 @@
    false,
    false
   ],
-  "descTextMapHash": 4276155644,
+  "descTextMapHash": 4276156156,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_Missile",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350282
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 4083996799,
-  "extraDescTextMapHash": 3634936998,
+  "extraDesc2TextMapHash": 4083997311,
+  "extraDescTextMapHash": 3634937510,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 65,
   "isCanAttachCurse": false,
   "isShowOnPick": true,
   "needChessLevel": 1,
   "number": 65,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_FIRE"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 416374875,
+  "cardNameTextMapHash": 416375387,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -4126,7 +4126,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 1500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     30,
@@ -4140,48 +4139,49 @@
    false,
    false
   ],
-  "descTextMapHash": 307909788,
+  "descTextMapHash": 307910300,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_FireArea",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350282
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 3438113007,
-  "extraDescTextMapHash": 939786742,
+  "extraDesc2TextMapHash": 3438113519,
+  "extraDescTextMapHash": 939787254,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 66,
   "isCanAttachCurse": false,
   "isShowOnPick": true,
   "needChessLevel": 7,
   "number": 66,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_FIRE"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 3257284979,
+  "cardNameTextMapHash": 3257285491,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -4189,7 +4189,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 1500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     125,
@@ -4203,48 +4202,49 @@
    false,
    false
   ],
-  "descTextMapHash": 1694020980,
+  "descTextMapHash": 1694021492,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_TDSpecialGrade_Ice",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350283
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 2330180855,
-  "extraDescTextMapHash": 4156655046,
+  "extraDesc2TextMapHash": 2330181367,
+  "extraDescTextMapHash": 4156655558,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 67,
   "isCanAttachCurse": false,
   "isShowOnPick": true,
   "needChessLevel": 1,
   "number": 67,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_ICE"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 2769074267,
+  "cardNameTextMapHash": 2769074779,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -4252,7 +4252,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 1500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     10,
@@ -4272,48 +4271,49 @@
    false,
    false
   ],
-  "descTextMapHash": 1052551508,
+  "descTextMapHash": 1052552020,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_Ice_Fog",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350283
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 3501929535,
-  "extraDescTextMapHash": 25184558,
+  "extraDesc2TextMapHash": 3501930047,
+  "extraDescTextMapHash": 25185070,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 68,
   "isCanAttachCurse": false,
   "isShowOnPick": true,
   "needChessLevel": 7,
   "number": 68,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_ICE"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 563321211,
+  "cardNameTextMapHash": 563321723,
   "cardNumericalModificationMode": "CARD_NUMERICAL_PERCENTAGE",
   "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
   "cardNumericalModificationValue": 1,
@@ -4321,7 +4321,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 1500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     100,
@@ -4335,48 +4334,49 @@
    false,
    false
   ],
-  "descTextMapHash": 2099957820,
+  "descTextMapHash": 2099958332,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_ShootBullet",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350284
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 2801174703,
-  "extraDescTextMapHash": 3828461054,
+  "extraDesc2TextMapHash": 2801175215,
+  "extraDescTextMapHash": 3828461566,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 69,
   "isCanAttachCurse": false,
   "isShowOnPick": true,
   "needChessLevel": 1,
   "number": 69,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_WIND"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 1229848819,
+  "cardNameTextMapHash": 1229849331,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -4384,7 +4384,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 1500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     5,
@@ -4401,48 +4400,49 @@
    false,
    false
   ],
-  "descTextMapHash": 3032922180,
+  "descTextMapHash": 3032922692,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_CanCharge",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350284
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 1140878479,
-  "extraDescTextMapHash": 1085537686,
+  "extraDesc2TextMapHash": 1140878991,
+  "extraDescTextMapHash": 1085538198,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 70,
   "isCanAttachCurse": false,
   "isShowOnPick": true,
   "needChessLevel": 7,
   "number": 70,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_WIND"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 2761395547,
+  "cardNameTextMapHash": 2761396059,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -4450,7 +4450,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 1500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     125,
@@ -4470,48 +4469,49 @@
    false,
    false
   ],
-  "descTextMapHash": 2483453364,
+  "descTextMapHash": 2483453876,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_ExtraThunder",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350285
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 1953333263,
-  "extraDescTextMapHash": 1665204318,
+  "extraDesc2TextMapHash": 1953333775,
+  "extraDescTextMapHash": 1665204830,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 71,
   "isCanAttachCurse": false,
   "isShowOnPick": true,
   "needChessLevel": 1,
   "number": 71,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_ELECTRIC"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 2341603819,
+  "cardNameTextMapHash": 2341604331,
   "cardNumericalModificationMode": "CARD_NUMERICAL_PERCENTAGE",
   "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
   "cardNumericalModificationValue": 1,
@@ -4519,7 +4519,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 1500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     100,
@@ -4536,48 +4535,49 @@
    false,
    false
   ],
-  "descTextMapHash": 99576956,
+  "descTextMapHash": 99577468,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_UpgradeNormalAttack",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350285
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 1635910823,
-  "extraDescTextMapHash": 2456967414,
+  "extraDesc2TextMapHash": 1635911335,
+  "extraDescTextMapHash": 2456967926,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 72,
   "isCanAttachCurse": false,
   "isShowOnPick": true,
   "needChessLevel": 7,
   "number": 72,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_ELECTRIC"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 1598316971,
+  "cardNameTextMapHash": 1598317483,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -4585,7 +4585,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 1500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     75,
@@ -4605,48 +4604,49 @@
    false,
    false
   ],
-  "descTextMapHash": 4277068964,
+  "descTextMapHash": 4277069476,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_WantedSign",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350286
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 1027967103,
-  "extraDescTextMapHash": 3716263278,
+  "extraDesc2TextMapHash": 1027967615,
+  "extraDescTextMapHash": 3716263790,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 73,
   "isCanAttachCurse": false,
   "isShowOnPick": true,
   "needChessLevel": 1,
   "number": 73,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_PHYSICS"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 1738191955,
+  "cardNameTextMapHash": 1738192467,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -4654,7 +4654,6 @@
   "cardType": "CHESS_CARD_STRENGTHEN",
   "costPoints": 1500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     15,
@@ -4668,48 +4667,49 @@
    false,
    false
   ],
-  "descTextMapHash": 2483358860,
+  "descTextMapHash": 2483359372,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "SGV_EnergyBallAttack",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350286
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 2553176439,
-  "extraDescTextMapHash": 2719281158,
+  "extraDesc2TextMapHash": 2553176951,
+  "extraDescTextMapHash": 2719281670,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 74,
   "isCanAttachCurse": false,
   "isShowOnPick": true,
   "needChessLevel": 7,
   "number": 74,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_PHYSICS"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 2206584147,
+  "cardNameTextMapHash": 2206584659,
   "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
   "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
   "cardNumericalModificationValue": 4000,
@@ -4717,7 +4717,6 @@
   "cardType": "CHESS_CARD_MECHANISM",
   "costPoints": 300,
   "curseWeight": 100,
-  "DDOJEICOFEI": false,
   "descParamList": [
    [
     2
@@ -4730,46 +4729,47 @@
    false,
    false
   ],
-  "descTextMapHash": 2103043124,
+  "descTextMapHash": 2103043636,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 2,
    "effectParam2": 0,
    "effectStrParam": "SGV_AttackDamageLevel",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 1,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 1,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [],
    "targetType": "CHESS_CARD_TARGET_ALL"
   },
-  "extraDesc2TextMapHash": 3281256927,
-  "extraDescTextMapHash": 22194686,
+  "extraDesc2TextMapHash": 3281257439,
+  "extraDescTextMapHash": 22195198,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 75,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 4,
   "number": 1,
+  "PJNGFABEEAC": false,
   "tag": "CARD_TAG_OTHER"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 3412086923,
+  "cardNameTextMapHash": 3412087435,
   "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
   "cardNumericalModificationType": "CARD_NUMERICAL_MASTERY",
   "cardNumericalModificationValue": 150,
@@ -4777,7 +4777,6 @@
   "cardType": "CHESS_CARD_MECHANISM",
   "costPoints": 300,
   "curseWeight": 100,
-  "DDOJEICOFEI": false,
   "descParamList": [
    [
     2
@@ -4790,46 +4789,47 @@
    false,
    false
   ],
-  "descTextMapHash": 1367418916,
+  "descTextMapHash": 1367419428,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 2,
    "effectParam2": 0,
    "effectStrParam": "SGV_ElementMasteryLevel",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 1,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 1,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [],
    "targetType": "CHESS_CARD_TARGET_ALL"
   },
-  "extraDesc2TextMapHash": 462497215,
-  "extraDescTextMapHash": 3404429470,
+  "extraDesc2TextMapHash": 462497727,
+  "extraDescTextMapHash": 3404429982,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 76,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 4,
   "number": 2,
+  "PJNGFABEEAC": false,
   "tag": "CARD_TAG_OTHER"
  },
  {
   "cardCount": 1,
-  "cardNameTextMapHash": 4207080891,
+  "cardNameTextMapHash": 4207081403,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -4837,7 +4837,6 @@
   "cardType": "CHESS_CARD_MECHANISM",
   "costPoints": 200,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     5
@@ -4850,46 +4849,47 @@
    false,
    false
   ],
-  "descTextMapHash": 1171077452,
+  "descTextMapHash": 1171077964,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 5,
    "effectParam2": 0,
    "effectStrParam": "",
    "effectType": "CHESS_CARD_EFFECT_SET_HOME_HP",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [],
    "targetType": "CHESS_CARD_TARGET_DEFAULT"
   },
-  "extraDesc2TextMapHash": 3423512623,
-  "extraDescTextMapHash": 3859324406,
+  "extraDesc2TextMapHash": 3423513135,
+  "extraDescTextMapHash": 3859324918,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 77,
   "isCanAttachCurse": true,
   "isShowOnPick": false,
   "needChessLevel": 2,
   "number": 3,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_OTHER"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 3083310363,
+  "cardNameTextMapHash": 3083310875,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -4897,7 +4897,6 @@
   "cardType": "CHESS_CARD_MECHANISM",
   "costPoints": 0,
   "curseWeight": 100,
-  "DDOJEICOFEI": false,
   "descParamList": [
    [
     400
@@ -4910,46 +4909,47 @@
    false,
    false
   ],
-  "descTextMapHash": 146720044,
+  "descTextMapHash": 146720556,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 400,
    "effectParam2": 0,
    "effectStrParam": "",
    "effectType": "CHESS_CARD_EFFECT_GRANT_POINTS",
-   "HFMBBBLBFJJ": 1,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 1,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [],
    "targetType": "CHESS_CARD_TARGET_DEFAULT"
   },
-  "extraDesc2TextMapHash": 3627958527,
-  "extraDescTextMapHash": 3412937766,
+  "extraDesc2TextMapHash": 3627959039,
+  "extraDescTextMapHash": 3412938278,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 3,
     "effectParam2": 1,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_RANDOM_REMOVE",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 78,
   "isCanAttachCurse": true,
   "isShowOnPick": false,
   "needChessLevel": 8,
   "number": 4,
+  "PJNGFABEEAC": false,
   "tag": "CARD_TAG_OTHER"
  },
  {
   "cardCount": 1,
-  "cardNameTextMapHash": 2441862579,
+  "cardNameTextMapHash": 2441863091,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -4957,7 +4957,6 @@
   "cardType": "CHESS_CARD_MECHANISM",
   "costPoints": 0,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     2000
@@ -4970,46 +4969,47 @@
    false,
    false
   ],
-  "descTextMapHash": 1342674044,
+  "descTextMapHash": 1342674556,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 2000,
    "effectParam2": 0,
    "effectStrParam": "",
    "effectType": "CHESS_CARD_EFFECT_GRANT_POINTS",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [],
    "targetType": "CHESS_CARD_TARGET_DEFAULT"
   },
-  "extraDesc2TextMapHash": 647146639,
-  "extraDescTextMapHash": 1775996174,
+  "extraDesc2TextMapHash": 647147151,
+  "extraDescTextMapHash": 1775996686,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": -1000000,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_MOD_KILL_POINTS",
-    "HFMBBBLBFJJ": 1,
-    "LJODHGHDBMC": 1,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 1,
+    "IDPJJFHDOEG": 1,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 79,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 8,
   "number": 5,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_OTHER"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 2152115315,
+  "cardNameTextMapHash": 2152115827,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -5017,7 +5017,6 @@
   "cardType": "CHESS_CARD_MECHANISM",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": false,
   "descParamList": [
    [
     500
@@ -5030,46 +5029,47 @@
    false,
    false
   ],
-  "descTextMapHash": 2648897844,
+  "descTextMapHash": 2648898356,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 500,
    "effectParam2": 0,
    "effectStrParam": "",
    "effectType": "CHESS_CARD_EFFECT_POINTS_ON_ROUND_END",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [],
    "targetType": "CHESS_CARD_TARGET_DEFAULT"
   },
-  "extraDesc2TextMapHash": 1683146239,
-  "extraDescTextMapHash": 1847151926,
+  "extraDesc2TextMapHash": 1683146751,
+  "extraDescTextMapHash": 1847152438,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 80,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 2,
   "number": 6,
+  "PJNGFABEEAC": false,
   "tag": "CARD_TAG_OTHER"
  },
  {
   "cardCount": 1,
-  "cardNameTextMapHash": 1690243379,
+  "cardNameTextMapHash": 1690243891,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -5077,7 +5077,6 @@
   "cardType": "CHESS_CARD_MECHANISM",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [],
    [],
@@ -5088,46 +5087,47 @@
    false,
    false
   ],
-  "descTextMapHash": 1402495468,
+  "descTextMapHash": 1402495980,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 4,
    "effectParam2": 12,
    "effectStrParam": "",
    "effectType": "CHESS_CARD_EFFECT_MOD_QUALITY_PROB",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [],
    "targetType": "CHESS_CARD_TARGET_DEFAULT"
   },
-  "extraDesc2TextMapHash": 4233380311,
-  "extraDescTextMapHash": 473399598,
+  "extraDesc2TextMapHash": 4233380823,
+  "extraDescTextMapHash": 473400110,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": -2,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_MOD_CANDIDATE_CARDS",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 81,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 5,
   "number": 7,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_OTHER"
  },
  {
   "cardCount": 1,
-  "cardNameTextMapHash": 2798058763,
+  "cardNameTextMapHash": 2798059275,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -5135,7 +5135,6 @@
   "cardType": "CHESS_CARD_MECHANISM",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     50
@@ -5148,46 +5147,47 @@
    false,
    false
   ],
-  "descTextMapHash": 913125556,
+  "descTextMapHash": 913126068,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": -5000,
    "effectParam2": 0,
    "effectStrParam": "",
    "effectType": "CHESS_CARD_EFFECT_MOD_REFRESH_COST",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [],
    "targetType": "CHESS_CARD_TARGET_DEFAULT"
   },
-  "extraDesc2TextMapHash": 3085260151,
-  "extraDescTextMapHash": 879854662,
+  "extraDesc2TextMapHash": 3085260663,
+  "extraDescTextMapHash": 879855174,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 82,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 5,
   "number": 8,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_OTHER"
  },
  {
   "cardCount": 1,
-  "cardNameTextMapHash": 2641812987,
+  "cardNameTextMapHash": 2641813499,
   "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
   "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
   "cardNumericalModificationValue": 2000,
@@ -5195,7 +5195,6 @@
   "cardType": "CHESS_CARD_MECHANISM",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     5
@@ -5212,46 +5211,47 @@
    true,
    false
   ],
-  "descTextMapHash": 1912409148,
+  "descTextMapHash": 1912409660,
   "effect": {
-   "EBHILOENGPK": 3,
    "effectParam1": 1,
    "effectParam2": 5,
    "effectStrParam": "SGV_AttackDamageLevel",
    "effectType": "CHESS_CARD_EFFECT_CARDS_COUNT_STACK_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 3,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [],
    "targetType": "CHESS_CARD_TARGET_ALL"
   },
-  "extraDesc2TextMapHash": 1584029831,
-  "extraDescTextMapHash": 2471059806,
+  "extraDesc2TextMapHash": 1584030343,
+  "extraDescTextMapHash": 2471060318,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 83,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 5,
   "number": 9,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_OTHER"
  },
  {
   "cardCount": 1,
-  "cardNameTextMapHash": 1839326563,
+  "cardNameTextMapHash": 1839327075,
   "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
   "cardNumericalModificationType": "CARD_NUMERICAL_MASTERY",
   "cardNumericalModificationValue": 75,
@@ -5259,7 +5259,6 @@
   "cardType": "CHESS_CARD_MECHANISM",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     5
@@ -5276,46 +5275,47 @@
    true,
    false
   ],
-  "descTextMapHash": 4248135764,
+  "descTextMapHash": 4248136276,
   "effect": {
-   "EBHILOENGPK": 3,
    "effectParam1": 1,
    "effectParam2": 5,
    "effectStrParam": "SGV_ElementMasteryLevel",
    "effectType": "CHESS_CARD_EFFECT_CARDS_COUNT_STACK_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 3,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [],
    "targetType": "CHESS_CARD_TARGET_ALL"
   },
-  "extraDesc2TextMapHash": 746708063,
-  "extraDescTextMapHash": 2860245038,
+  "extraDesc2TextMapHash": 746708575,
+  "extraDescTextMapHash": 2860245550,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 84,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 5,
   "number": 10,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_OTHER"
  },
  {
   "cardCount": 1,
-  "cardNameTextMapHash": 1277120875,
+  "cardNameTextMapHash": 1277121387,
   "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
   "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
   "cardNumericalModificationValue": 2000,
@@ -5323,7 +5323,6 @@
   "cardType": "CHESS_CARD_MECHANISM",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     1
@@ -5336,46 +5335,47 @@
    false,
    false
   ],
-  "descTextMapHash": 999645260,
+  "descTextMapHash": 999645772,
   "effect": {
-   "EBHILOENGPK": 99999,
    "effectParam1": 0,
    "effectParam2": 1,
    "effectStrParam": "SGV_AttackDamageLevel",
    "effectType": "CHESS_CARD_EFFECT_CARD_TYPE_STACK_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 99999,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [],
    "targetType": "CHESS_CARD_TARGET_ALL"
   },
-  "extraDesc2TextMapHash": 3940047039,
-  "extraDescTextMapHash": 2218798126,
+  "extraDesc2TextMapHash": 3940047551,
+  "extraDescTextMapHash": 2218798638,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 85,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 6,
   "number": 11,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_OTHER"
  },
  {
   "cardCount": 1,
-  "cardNameTextMapHash": 504157307,
+  "cardNameTextMapHash": 504157819,
   "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
   "cardNumericalModificationType": "CARD_NUMERICAL_MASTERY",
   "cardNumericalModificationValue": 75,
@@ -5383,7 +5383,6 @@
   "cardType": "CHESS_CARD_MECHANISM",
   "costPoints": 500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     1
@@ -5396,46 +5395,47 @@
    false,
    false
   ],
-  "descTextMapHash": 3214815324,
+  "descTextMapHash": 3214815836,
   "effect": {
-   "EBHILOENGPK": 99999,
    "effectParam1": 0,
    "effectParam2": 1,
    "effectStrParam": "SGV_ElementMasteryLevel",
    "effectType": "CHESS_CARD_EFFECT_CARD_TYPE_STACK_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 99999,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [],
    "targetType": "CHESS_CARD_TARGET_ALL"
   },
-  "extraDesc2TextMapHash": 457111007,
-  "extraDescTextMapHash": 282883566,
+  "extraDesc2TextMapHash": 457111519,
+  "extraDescTextMapHash": 282884078,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 86,
   "isCanAttachCurse": true,
   "isShowOnPick": true,
   "needChessLevel": 6,
   "number": 12,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_OTHER"
  },
  {
   "cardCount": 1,
-  "cardNameTextMapHash": 754576619,
+  "cardNameTextMapHash": 754577131,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -5443,7 +5443,6 @@
   "cardType": "CHESS_CARD_MECHANISM",
   "costPoints": 1500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     3
@@ -5456,46 +5455,47 @@
    false,
    false
   ],
-  "descTextMapHash": 2916332772,
+  "descTextMapHash": 2916333284,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 3,
    "effectParam2": 0,
    "effectStrParam": "",
    "effectType": "CHESS_CARD_EFFECT_FREE_CARD_REFRESH",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [],
    "targetType": "CHESS_CARD_TARGET_DEFAULT"
   },
-  "extraDesc2TextMapHash": 1904619623,
-  "extraDescTextMapHash": 1959133646,
+  "extraDesc2TextMapHash": 1904620135,
+  "extraDescTextMapHash": 1959134158,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 87,
   "isCanAttachCurse": false,
   "isShowOnPick": true,
   "needChessLevel": 5,
   "number": 13,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_OTHER"
  },
  {
   "cardCount": 2,
-  "cardNameTextMapHash": 326770083,
+  "cardNameTextMapHash": 326770595,
   "cardNumericalModificationMode": "CARD_NUMERICAL_PERCENTAGE",
   "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
   "cardNumericalModificationValue": 2.5,
@@ -5503,7 +5503,6 @@
   "cardType": "CHESS_CARD_MECHANISM",
   "costPoints": 1500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     6,
@@ -5523,46 +5522,47 @@
    false,
    true
   ],
-  "descTextMapHash": 2432133316,
+  "descTextMapHash": 2432133828,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 6,
    "effectStrParam": "SGV_AttackRatioUp",
    "effectType": "CHESS_CARD_EFFECT_SGV_PICK_CARD_LTE",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [],
    "targetType": "CHESS_CARD_TARGET_ALL"
   },
-  "extraDesc2TextMapHash": 247978223,
-  "extraDescTextMapHash": 2584279518,
+  "extraDesc2TextMapHash": 247978735,
+  "extraDescTextMapHash": 2584280030,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 88,
   "isCanAttachCurse": false,
   "isShowOnPick": true,
   "needChessLevel": 8,
   "number": 14,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_OTHER"
  },
  {
   "cardCount": 1,
-  "cardNameTextMapHash": 3899828259,
+  "cardNameTextMapHash": 3899828771,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -5570,7 +5570,6 @@
   "cardType": "CHESS_CARD_MECHANISM",
   "costPoints": 1500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     5
@@ -5585,46 +5584,47 @@
    true,
    false
   ],
-  "descTextMapHash": 2645548396,
+  "descTextMapHash": 2645548908,
   "effect": {
-   "EBHILOENGPK": 2,
    "effectParam1": 2,
    "effectParam2": 5,
    "effectStrParam": "",
    "effectType": "CHESS_CARD_EFFECT_CARDS_TYPE_COUNT_NO_COST",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 2,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [],
    "targetType": "CHESS_CARD_TARGET_DEFAULT"
   },
-  "extraDesc2TextMapHash": 2180883607,
-  "extraDescTextMapHash": 388300822,
+  "extraDesc2TextMapHash": 2180884119,
+  "extraDescTextMapHash": 388301334,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 89,
   "isCanAttachCurse": false,
   "isShowOnPick": true,
   "needChessLevel": 10,
   "number": 15,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_OTHER"
  },
  {
   "cardCount": 1,
-  "cardNameTextMapHash": 3167058267,
+  "cardNameTextMapHash": 3167058779,
   "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
   "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
   "cardNumericalModificationValue": 2000,
@@ -5632,7 +5632,6 @@
   "cardType": "CHESS_CARD_MECHANISM",
   "costPoints": 1500,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     1000
@@ -5649,46 +5648,47 @@
    false,
    true
   ],
-  "descTextMapHash": 2795735452,
+  "descTextMapHash": 2795735964,
   "effect": {
-   "EBHILOENGPK": 99999,
    "effectParam1": 1000,
    "effectParam2": 1,
    "effectStrParam": "SGV_AttackDamageLevel",
    "effectType": "CHESS_CARD_EFFECT_POINTS_STACK_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 99999,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [],
    "targetType": "CHESS_CARD_TARGET_ALL"
   },
-  "extraDesc2TextMapHash": 1686759631,
-  "extraDescTextMapHash": 1926816238,
+  "extraDesc2TextMapHash": 1686760143,
+  "extraDescTextMapHash": 1926816750,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 90,
   "isCanAttachCurse": false,
   "isShowOnPick": true,
   "needChessLevel": 9,
   "number": 16,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_OTHER"
  },
  {
   "cardCount": 1,
-  "cardNameTextMapHash": 637576251,
+  "cardNameTextMapHash": 637576763,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -5696,7 +5696,6 @@
   "cardType": "CHESS_CARD_MECHANISM",
   "costPoints": 1000,
   "curseWeight": 100,
-  "DDOJEICOFEI": true,
   "descParamList": [
    [
     1
@@ -5709,46 +5708,47 @@
    false,
    false
   ],
-  "descTextMapHash": 4246448548,
+  "descTextMapHash": 4246449060,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 3,
    "effectParam2": 0,
    "effectStrParam": "",
    "effectType": "CHESS_CARD_EFFECT_CARD_TYPE_FORCE_CURSE",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [],
    "targetType": "CHESS_CARD_TARGET_DEFAULT"
   },
-  "extraDesc2TextMapHash": 168266919,
-  "extraDescTextMapHash": 2163638758,
+  "extraDesc2TextMapHash": 168267431,
+  "extraDescTextMapHash": 2163639270,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 91,
   "isCanAttachCurse": false,
   "isShowOnPick": true,
   "needChessLevel": 6,
   "number": 17,
+  "PJNGFABEEAC": true,
   "tag": "CARD_TAG_OTHER"
  },
  {
   "cardCount": 3,
-  "cardNameTextMapHash": 4232036563,
+  "cardNameTextMapHash": 4232037075,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -5756,7 +5756,6 @@
   "cardType": "CHESS_CARD_CHALLENGE",
   "costPoints": 100,
   "curseWeight": 100,
-  "DDOJEICOFEI": false,
   "descParamList": [
    [
     1
@@ -5771,46 +5770,47 @@
    false,
    false
   ],
-  "descTextMapHash": 4264324140,
+  "descTextMapHash": 4264324652,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1000,
    "effectParam2": 0,
    "effectStrParam": "",
    "effectType": "CHESS_CARD_EFFECT_MOD_KILL_POINTS",
-   "HFMBBBLBFJJ": 1,
-   "LJODHGHDBMC": 1,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 1,
+   "IDPJJFHDOEG": 1,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [],
    "targetType": "CHESS_CARD_TARGET_DEFAULT"
   },
-  "extraDesc2TextMapHash": 3579559959,
-  "extraDescTextMapHash": 2382879942,
+  "extraDesc2TextMapHash": 3579560471,
+  "extraDescTextMapHash": 2382880454,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 92,
   "isCanAttachCurse": false,
   "isShowOnPick": true,
   "needChessLevel": 1,
   "number": 1,
+  "PJNGFABEEAC": false,
   "tag": "CARD_TAG_NONE"
  },
  {
   "cardCount": 3,
-  "cardNameTextMapHash": 2953186619,
+  "cardNameTextMapHash": 2953187131,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -5818,7 +5818,6 @@
   "cardType": "CHESS_CARD_CHALLENGE",
   "costPoints": 100,
   "curseWeight": 100,
-  "DDOJEICOFEI": false,
   "descParamList": [
    [
     20
@@ -5833,46 +5832,47 @@
    false,
    false
   ],
-  "descTextMapHash": 2809661812,
+  "descTextMapHash": 2809662324,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1000,
    "effectParam2": 0,
    "effectStrParam": "",
    "effectType": "CHESS_CARD_EFFECT_MOD_KILL_POINTS",
-   "HFMBBBLBFJJ": 1,
-   "LJODHGHDBMC": 1,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 1,
+   "IDPJJFHDOEG": 1,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [],
    "targetType": "CHESS_CARD_TARGET_DEFAULT"
   },
-  "extraDesc2TextMapHash": 2750183831,
-  "extraDescTextMapHash": 2301926846,
+  "extraDesc2TextMapHash": 2750184343,
+  "extraDescTextMapHash": 2301927358,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 93,
   "isCanAttachCurse": false,
   "isShowOnPick": true,
   "needChessLevel": 1,
   "number": 2,
+  "PJNGFABEEAC": false,
   "tag": "CARD_TAG_NONE"
  },
  {
   "cardCount": 3,
-  "cardNameTextMapHash": 950021323,
+  "cardNameTextMapHash": 950021835,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -5880,7 +5880,6 @@
   "cardType": "CHESS_CARD_CHALLENGE",
   "costPoints": 100,
   "curseWeight": 100,
-  "DDOJEICOFEI": false,
   "descParamList": [
    [
     1
@@ -5895,46 +5894,47 @@
    false,
    false
   ],
-  "descTextMapHash": 1537043828,
+  "descTextMapHash": 1537044340,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1000,
    "effectParam2": 0,
    "effectStrParam": "",
    "effectType": "CHESS_CARD_EFFECT_MOD_KILL_POINTS",
-   "HFMBBBLBFJJ": 1,
-   "LJODHGHDBMC": 1,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 1,
+   "IDPJJFHDOEG": 1,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [],
    "targetType": "CHESS_CARD_TARGET_DEFAULT"
   },
-  "extraDesc2TextMapHash": 126250191,
-  "extraDescTextMapHash": 1179962414,
+  "extraDesc2TextMapHash": 126250703,
+  "extraDescTextMapHash": 1179962926,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 94,
   "isCanAttachCurse": false,
   "isShowOnPick": true,
   "needChessLevel": 1,
   "number": 3,
+  "PJNGFABEEAC": false,
   "tag": "CARD_TAG_NONE"
  },
  {
   "cardCount": 1,
-  "cardNameTextMapHash": 2150129987,
+  "cardNameTextMapHash": 2150130499,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -5942,7 +5942,6 @@
   "cardType": "CHESS_CARD_CURSE",
   "costPoints": 0,
   "curseWeight": 100,
-  "DDOJEICOFEI": false,
   "descParamList": [
    [],
    [],
@@ -5953,46 +5952,47 @@
    false,
    false
   ],
-  "descTextMapHash": 3983099204,
+  "descTextMapHash": 3983099716,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 1,
    "effectParam2": 0,
    "effectStrParam": "",
    "effectType": "CHESS_CARD_EFFECT_KILL_GEARS",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [],
    "targetType": "CHESS_CARD_TARGET_DEFAULT"
   },
-  "extraDesc2TextMapHash": 1878100015,
-  "extraDescTextMapHash": 1495175398,
+  "extraDesc2TextMapHash": 1878100527,
+  "extraDescTextMapHash": 1495175910,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 95,
   "isCanAttachCurse": false,
   "isShowOnPick": true,
   "needChessLevel": 1,
   "number": 1,
+  "PJNGFABEEAC": false,
   "tag": "CARD_TAG_NONE"
  },
  {
   "cardCount": 1,
-  "cardNameTextMapHash": 4045098099,
+  "cardNameTextMapHash": 4045098611,
   "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
   "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
   "cardNumericalModificationValue": -4000,
@@ -6000,7 +6000,6 @@
   "cardType": "CHESS_CARD_CURSE",
   "costPoints": 0,
   "curseWeight": 100,
-  "DDOJEICOFEI": false,
   "descParamList": [
    [
     2
@@ -6013,48 +6012,49 @@
    false,
    false
   ],
-  "descTextMapHash": 901183620,
+  "descTextMapHash": 901184132,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": -2,
    "effectParam2": 0,
    "effectStrParam": "SGV_AttackDamageLevel",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350281
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 1028170151,
-  "extraDescTextMapHash": 2156876846,
+  "extraDesc2TextMapHash": 1028170663,
+  "extraDescTextMapHash": 2156877358,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 96,
   "isCanAttachCurse": false,
   "isShowOnPick": true,
   "needChessLevel": 1,
   "number": 2,
+  "PJNGFABEEAC": false,
   "tag": "CARD_TAG_NONE"
  },
  {
   "cardCount": 1,
-  "cardNameTextMapHash": 1132322195,
+  "cardNameTextMapHash": 1132322707,
   "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
   "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
   "cardNumericalModificationValue": -4000,
@@ -6062,7 +6062,6 @@
   "cardType": "CHESS_CARD_CURSE",
   "costPoints": 0,
   "curseWeight": 100,
-  "DDOJEICOFEI": false,
   "descParamList": [
    [
     2
@@ -6075,48 +6074,49 @@
    false,
    false
   ],
-  "descTextMapHash": 167910716,
+  "descTextMapHash": 167911228,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": -2,
    "effectParam2": 0,
    "effectStrParam": "SGV_AttackDamageLevel",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350282
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 4077693031,
-  "extraDescTextMapHash": 3139296742,
+  "extraDesc2TextMapHash": 4077693543,
+  "extraDescTextMapHash": 3139297254,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 97,
   "isCanAttachCurse": false,
   "isShowOnPick": true,
   "needChessLevel": 1,
   "number": 3,
+  "PJNGFABEEAC": false,
   "tag": "CARD_TAG_NONE"
  },
  {
   "cardCount": 1,
-  "cardNameTextMapHash": 768370963,
+  "cardNameTextMapHash": 768371475,
   "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
   "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
   "cardNumericalModificationValue": -4000,
@@ -6124,7 +6124,6 @@
   "cardType": "CHESS_CARD_CURSE",
   "costPoints": 0,
   "curseWeight": 100,
-  "DDOJEICOFEI": false,
   "descParamList": [
    [
     2
@@ -6137,48 +6136,49 @@
    false,
    false
   ],
-  "descTextMapHash": 3121895484,
+  "descTextMapHash": 3121895996,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": -2,
    "effectParam2": 0,
    "effectStrParam": "SGV_AttackDamageLevel",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350283
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 1343577575,
-  "extraDescTextMapHash": 3793797630,
+  "extraDesc2TextMapHash": 1343578087,
+  "extraDescTextMapHash": 3793798142,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 98,
   "isCanAttachCurse": false,
   "isShowOnPick": true,
   "needChessLevel": 1,
   "number": 4,
+  "PJNGFABEEAC": false,
   "tag": "CARD_TAG_NONE"
  },
  {
   "cardCount": 1,
-  "cardNameTextMapHash": 602575875,
+  "cardNameTextMapHash": 602576387,
   "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
   "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
   "cardNumericalModificationValue": -4000,
@@ -6186,7 +6186,6 @@
   "cardType": "CHESS_CARD_CURSE",
   "costPoints": 0,
   "curseWeight": 100,
-  "DDOJEICOFEI": false,
   "descParamList": [
    [
     2
@@ -6199,48 +6198,49 @@
    false,
    false
   ],
-  "descTextMapHash": 1085025452,
+  "descTextMapHash": 1085025964,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": -2,
    "effectParam2": 0,
    "effectStrParam": "SGV_AttackDamageLevel",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350284
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 76858623,
-  "extraDescTextMapHash": 276440118,
+  "extraDesc2TextMapHash": 76859135,
+  "extraDescTextMapHash": 276440630,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 99,
   "isCanAttachCurse": false,
   "isShowOnPick": true,
   "needChessLevel": 1,
   "number": 5,
+  "PJNGFABEEAC": false,
   "tag": "CARD_TAG_NONE"
  },
  {
   "cardCount": 1,
-  "cardNameTextMapHash": 3285786107,
+  "cardNameTextMapHash": 3285786619,
   "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
   "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
   "cardNumericalModificationValue": -4000,
@@ -6248,7 +6248,6 @@
   "cardType": "CHESS_CARD_CURSE",
   "costPoints": 0,
   "curseWeight": 100,
-  "DDOJEICOFEI": false,
   "descParamList": [
    [
     2
@@ -6261,48 +6260,49 @@
    false,
    false
   ],
-  "descTextMapHash": 1431846252,
+  "descTextMapHash": 1431846764,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": -2,
    "effectParam2": 0,
    "effectStrParam": "SGV_AttackDamageLevel",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350285
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 416264495,
-  "extraDescTextMapHash": 386332702,
+  "extraDesc2TextMapHash": 416265007,
+  "extraDescTextMapHash": 386333214,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 100,
   "isCanAttachCurse": false,
   "isShowOnPick": true,
   "needChessLevel": 1,
   "number": 6,
+  "PJNGFABEEAC": false,
   "tag": "CARD_TAG_NONE"
  },
  {
   "cardCount": 1,
-  "cardNameTextMapHash": 1069417547,
+  "cardNameTextMapHash": 1069418059,
   "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
   "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
   "cardNumericalModificationValue": -4000,
@@ -6310,7 +6310,6 @@
   "cardType": "CHESS_CARD_CURSE",
   "costPoints": 0,
   "curseWeight": 100,
-  "DDOJEICOFEI": false,
   "descParamList": [
    [
     2
@@ -6323,48 +6322,49 @@
    false,
    false
   ],
-  "descTextMapHash": 2413686156,
+  "descTextMapHash": 2413686668,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": -2,
    "effectParam2": 0,
    "effectStrParam": "SGV_AttackDamageLevel",
    "effectType": "CHESS_CARD_EFFECT_SET_SGV",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [
     70350286
    ],
    "targetType": "CHESS_CARD_TARGET_GADGETS"
   },
-  "extraDesc2TextMapHash": 322907607,
-  "extraDescTextMapHash": 422558982,
+  "extraDesc2TextMapHash": 322908119,
+  "extraDescTextMapHash": 422559494,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 101,
   "isCanAttachCurse": false,
   "isShowOnPick": true,
   "needChessLevel": 1,
   "number": 7,
+  "PJNGFABEEAC": false,
   "tag": "CARD_TAG_NONE"
  },
  {
   "cardCount": 1,
-  "cardNameTextMapHash": 2000605459,
+  "cardNameTextMapHash": 2000605971,
   "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
   "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
   "cardNumericalModificationValue": 0,
@@ -6372,7 +6372,6 @@
   "cardType": "CHESS_CARD_CURSE",
   "costPoints": 0,
   "curseWeight": 100,
-  "DDOJEICOFEI": false,
   "descParamList": [
    [],
    [],
@@ -6383,41 +6382,42 @@
    false,
    false
   ],
-  "descTextMapHash": 2998794508,
+  "descTextMapHash": 2998795020,
   "effect": {
-   "EBHILOENGPK": 0,
    "effectParam1": 0,
    "effectParam2": 0,
    "effectStrParam": "",
    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-   "HFMBBBLBFJJ": 0,
-   "LJODHGHDBMC": 0,
-   "OHKGBKAPMOO": 0,
+   "ELBOBKBBPLH": 0,
+   "IDPJJFHDOEG": 0,
+   "OEHEJDNNBOA": 0,
+   "PEEOPIOAOAF": 0,
    "targetParamList": [],
    "targetType": "CHESS_CARD_TARGET_DEFAULT"
   },
-  "extraDesc2TextMapHash": 2004793535,
-  "extraDescTextMapHash": 1907585102,
+  "extraDesc2TextMapHash": 2004794047,
+  "extraDescTextMapHash": 1907585614,
   "extraEffectList": [
    {
-    "EBHILOENGPK": 0,
     "effectParam1": 0,
     "effectParam2": 0,
     "effectStrParam": "",
     "effectType": "CHESS_CARD_EFFECT_DEFAULT",
-    "HFMBBBLBFJJ": 0,
-    "LJODHGHDBMC": 0,
-    "OHKGBKAPMOO": 0,
+    "ELBOBKBBPLH": 0,
+    "IDPJJFHDOEG": 0,
+    "OEHEJDNNBOA": 0,
+    "PEEOPIOAOAF": 0,
     "targetParamList": [],
     "targetType": "CHESS_CARD_TARGET_DEFAULT"
    }
   ],
-  "IBJBKLLPHHN": false,
+  "HBKJPDOAKIF": false,
   "id": 102,
   "isCanAttachCurse": false,
   "isShowOnPick": false,
   "needChessLevel": 1,
   "number": 8,
+  "PJNGFABEEAC": false,
   "tag": "CARD_TAG_NONE"
  }
 ]

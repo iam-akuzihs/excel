@@ -77492,10 +77492,8 @@
     ]
    },
    {
-    "condType": "FETTER_COND_FINISH_QUEST",
-    "paramList": [
-     4024106
-    ]
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
    },
    {
     "condType": "FETTER_COND_NONE",
@@ -117324,10 +117322,8 @@
     ]
    },
    {
-    "condType": "FETTER_COND_FINISH_QUEST",
-    "paramList": [
-     4024106
-    ]
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
    },
    {
     "condType": "FETTER_COND_NONE",
@@ -186482,10 +186478,8 @@
     ]
    },
    {
-    "condType": "FETTER_COND_FINISH_QUEST",
-    "paramList": [
-     4024106
-    ]
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
    },
    {
     "condType": "FETTER_COND_NONE",
@@ -234735,6 +234729,47 @@
   "voiceFileTextTextMapHash": 101655607,
   "voiceTitleLockedTextMapHash": 89417034,
   "voiceTitleTextMapHash": 193715471
+ },
+ {
+  "avatarId": 10000096,
+  "fetterId": 96074,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_FETTER_LEVEL",
+    "paramList": [
+     4
+    ]
+   },
+   {
+    "condType": "FETTER_COND_FINISH_QUEST",
+    "paramList": [
+     4024712
+    ]
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   1024852122,
+   1426319496,
+   2404646032,
+   1397440759
+  ],
+  "type": 1,
+  "voiceFile": "4016",
+  "voiceFileTextTextMapHash": 2442651135,
+  "voiceTitleLockedTextMapHash": 2140559434,
+  "voiceTitleTextMapHash": 600351215
  },
  {
   "avatarId": 10000096,
@@ -310011,6 +310046,47 @@
  },
  {
   "avatarId": 10000125,
+  "fetterId": 125076,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_FETTER_LEVEL",
+    "paramList": [
+     4
+    ]
+   },
+   {
+    "condType": "FETTER_COND_FINISH_QUEST",
+    "paramList": [
+     4024712
+    ]
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   2445690978,
+   138817992,
+   1295582208,
+   2386806047
+  ],
+  "type": 1,
+  "voiceFile": "4016",
+  "voiceFileTextTextMapHash": 1530210399,
+  "voiceTitleLockedTextMapHash": 386471266,
+  "voiceTitleTextMapHash": 4282751095
+ },
+ {
+  "avatarId": 10000125,
   "fetterId": 125033,
   "finishConds": [],
   "hideCostumeList": [],
@@ -329347,10 +329423,8 @@
     ]
    },
    {
-    "condType": "FETTER_COND_FINISH_QUEST",
-    "paramList": [
-     4024106
-    ]
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
    },
    {
     "condType": "FETTER_COND_NONE",
@@ -329427,10 +329501,8 @@
     ]
    },
    {
-    "condType": "FETTER_COND_FINISH_QUEST",
-    "paramList": [
-     4024106
-    ]
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
    },
    {
     "condType": "FETTER_COND_NONE",
@@ -329468,10 +329540,8 @@
     ]
    },
    {
-    "condType": "FETTER_COND_FINISH_QUEST",
-    "paramList": [
-     4024106
-    ]
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
    },
    {
     "condType": "FETTER_COND_NONE",
@@ -329509,10 +329579,8 @@
     ]
    },
    {
-    "condType": "FETTER_COND_FINISH_QUEST",
-    "paramList": [
-     4024106
-    ]
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
    },
    {
     "condType": "FETTER_COND_NONE",
@@ -329550,10 +329618,8 @@
     ]
    },
    {
-    "condType": "FETTER_COND_FINISH_QUEST",
-    "paramList": [
-     4024106
-    ]
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
    },
    {
     "condType": "FETTER_COND_NONE",
@@ -329979,10 +330045,8 @@
     ]
    },
    {
-    "condType": "FETTER_COND_FINISH_QUEST",
-    "paramList": [
-     4024106
-    ]
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
    },
    {
     "condType": "FETTER_COND_NONE",
@@ -330020,10 +330084,8 @@
     ]
    },
    {
-    "condType": "FETTER_COND_FINISH_QUEST",
-    "paramList": [
-     4024106
-    ]
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
    },
    {
     "condType": "FETTER_COND_NONE",
@@ -331497,5 +331559,2994 @@
   "voiceFileTextTextMapHash": 1329199359,
   "voiceTitleLockedTextMapHash": 1690269850,
   "voiceTitleTextMapHash": 1924619703
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133000,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   333543770,
+   3955373312,
+   1357317472,
+   3228644639
+  ],
+  "type": 1,
+  "voiceFile": "1006",
+  "voiceFileTextTextMapHash": 3936067903,
+  "voiceTitleLockedTextMapHash": 3457666354,
+  "voiceTitleTextMapHash": 531961895
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133001,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   2558775634,
+   1960616232,
+   3181166040,
+   4202524847
+  ],
+  "type": 1,
+  "voiceFile": "1101",
+  "voiceFileTextTextMapHash": 1027260687,
+  "voiceTitleLockedTextMapHash": 207130082,
+  "voiceTitleTextMapHash": 660086943
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133002,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   4244264250,
+   3544418616,
+   3287931032,
+   1962863087
+  ],
+  "type": 1,
+  "voiceFile": "1102",
+  "voiceFileTextTextMapHash": 103690487,
+  "voiceTitleLockedTextMapHash": 1750184058,
+  "voiceTitleTextMapHash": 83890575
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133003,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   2039188970,
+   554370120,
+   3198184,
+   3286234615
+  ],
+  "type": 1,
+  "voiceFile": "1103",
+  "voiceFileTextTextMapHash": 2281551935,
+  "voiceTitleLockedTextMapHash": 1478029754,
+  "voiceTitleTextMapHash": 4318607
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133004,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   2006836354,
+   740731968,
+   25331912,
+   718254367
+  ],
+  "type": 1,
+  "voiceFile": "1201",
+  "voiceFileTextTextMapHash": 337447071,
+  "voiceTitleLockedTextMapHash": 3503829170,
+  "voiceTitleTextMapHash": 3459537391
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133005,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   2512532786,
+   711818464,
+   898170976,
+   476200239
+  ],
+  "type": 1,
+  "voiceFile": "1202",
+  "voiceFileTextTextMapHash": 445469775,
+  "voiceTitleLockedTextMapHash": 3971966266,
+  "voiceTitleTextMapHash": 2573329743
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133006,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   1911455962,
+   2752620016,
+   2892230000,
+   1587383311
+  ],
+  "type": 1,
+  "voiceFile": "1203",
+  "voiceFileTextTextMapHash": 2123890967,
+  "voiceTitleLockedTextMapHash": 1298344058,
+  "voiceTitleTextMapHash": 2890709007
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133007,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   1242922458,
+   1518568680,
+   2483568960,
+   3208031407
+  ],
+  "type": 1,
+  "voiceFile": "1204",
+  "voiceFileTextTextMapHash": 2159518151,
+  "voiceTitleLockedTextMapHash": 1358575802,
+  "voiceTitleTextMapHash": 2950212751
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133008,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   407667946,
+   1332533416,
+   3134758080,
+   2266072095
+  ],
+  "type": 1,
+  "voiceFile": "1205",
+  "voiceFileTextTextMapHash": 2321859855,
+  "voiceTitleLockedTextMapHash": 2162998714,
+  "voiceTitleTextMapHash": 636111927
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133009,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   2543009050,
+   2327005576,
+   3894987248,
+   1952263351
+  ],
+  "type": 1,
+  "voiceFile": "1206",
+  "voiceFileTextTextMapHash": 4150937823,
+  "voiceTitleLockedTextMapHash": 2053371186,
+  "voiceTitleTextMapHash": 2242837791
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133010,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   96176282,
+   1529060704,
+   52321448,
+   665168983
+  ],
+  "type": 1,
+  "voiceFile": "1001",
+  "voiceFileTextTextMapHash": 489137199,
+  "voiceTitleLockedTextMapHash": 3530956170,
+  "voiceTitleTextMapHash": 4242596927
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133011,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   654008426,
+   3057538408,
+   1728528864,
+   665542735
+  ],
+  "type": 1,
+  "voiceFile": "1002",
+  "voiceFileTextTextMapHash": 259456231,
+  "voiceTitleLockedTextMapHash": 1071369698,
+  "voiceTitleTextMapHash": 87737847
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133012,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   1581669626,
+   2126038072,
+   376448232,
+   818790695
+  ],
+  "type": 1,
+  "voiceFile": "1003",
+  "voiceFileTextTextMapHash": 2973306183,
+  "voiceTitleLockedTextMapHash": 709701738,
+  "voiceTitleTextMapHash": 852605023
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133013,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   3182376962,
+   410363304,
+   2635733056,
+   1940417903
+  ],
+  "type": 1,
+  "voiceFile": "1004",
+  "voiceFileTextTextMapHash": 114884095,
+  "voiceTitleLockedTextMapHash": 1592692738,
+  "voiceTitleTextMapHash": 2032718255
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133014,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   1088305514,
+   4270058544,
+   3159595192,
+   912779407
+  ],
+  "type": 1,
+  "voiceFile": "2001",
+  "voiceFileTextTextMapHash": 1860809031,
+  "voiceTitleLockedTextMapHash": 663068722,
+  "voiceTitleTextMapHash": 2214590967
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133015,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_FETTER_LEVEL",
+    "paramList": [
+     6
+    ]
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   1551257762,
+   2227225992,
+   3650507064,
+   1268711471
+  ],
+  "type": 1,
+  "voiceFile": "2005",
+  "voiceFileTextTextMapHash": 1011973375,
+  "voiceTitleLockedTextMapHash": 3674394058,
+  "voiceTitleTextMapHash": 1756517807
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133016,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_FINISH_QUEST",
+    "paramList": [
+     601710
+    ]
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   2831020410,
+   2263764368,
+   458441192,
+   337622271
+  ],
+  "type": 1,
+  "voiceFile": "2003",
+  "voiceFileTextTextMapHash": 1176264999,
+  "voiceTitleLockedTextMapHash": 3489940594,
+  "voiceTitleTextMapHash": 2100824263
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133017,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_FETTER_LEVEL",
+    "paramList": [
+     6
+    ]
+   },
+   {
+    "condType": "FETTER_COND_FINISH_QUEST",
+    "paramList": [
+     4024712
+    ]
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   2662430850,
+   1803605064,
+   2733789648,
+   80667135
+  ],
+  "type": 1,
+  "voiceFile": "2002",
+  "voiceFileTextTextMapHash": 914968847,
+  "voiceTitleLockedTextMapHash": 2752889226,
+  "voiceTitleTextMapHash": 3783103967
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133018,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_FETTER_LEVEL",
+    "paramList": [
+     4
+    ]
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   118793258,
+   2594656608,
+   372801976,
+   4090796175
+  ],
+  "type": 1,
+  "voiceFile": "3006",
+  "voiceFileTextTextMapHash": 2557895055,
+  "voiceTitleLockedTextMapHash": 2824802794,
+  "voiceTitleTextMapHash": 4067736791
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133019,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_FINISH_QUEST",
+    "paramList": [
+     601710
+    ]
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   2851390690,
+   269696184,
+   2399747440,
+   1692371407
+  ],
+  "type": 1,
+  "voiceFile": "3002",
+  "voiceFileTextTextMapHash": 4173068599,
+  "voiceTitleLockedTextMapHash": 3786516658,
+  "voiceTitleTextMapHash": 1527770383
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133020,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_FINISH_QUEST",
+    "paramList": [
+     601710
+    ]
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   1610705226,
+   2592640432,
+   1852423480,
+   4065155551
+  ],
+  "type": 1,
+  "voiceFile": "3003",
+  "voiceFileTextTextMapHash": 2886692967,
+  "voiceTitleLockedTextMapHash": 3210864778,
+  "voiceTitleTextMapHash": 1843654839
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133021,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_FETTER_LEVEL",
+    "paramList": [
+     4
+    ]
+   },
+   {
+    "condType": "FETTER_COND_FINISH_QUEST",
+    "paramList": [
+     4024712
+    ]
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   2666800290,
+   1320412344,
+   2106190872,
+   396083631
+  ],
+  "type": 1,
+  "voiceFile": "4001",
+  "voiceFileTextTextMapHash": 1046595855,
+  "voiceTitleLockedTextMapHash": 2645417082,
+  "voiceTitleTextMapHash": 1068532791
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133022,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_FETTER_LEVEL",
+    "paramList": [
+     4
+    ]
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   1179893058,
+   1842109536,
+   3597911480,
+   3907561583
+  ],
+  "type": 1,
+  "voiceFile": "4002",
+  "voiceFileTextTextMapHash": 2261558527,
+  "voiceTitleLockedTextMapHash": 1740532786,
+  "voiceTitleTextMapHash": 2875580583
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133023,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_FETTER_LEVEL",
+    "paramList": [
+     4
+    ]
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   1738701922,
+   1129385240,
+   3096385576,
+   1658483007
+  ],
+  "type": 1,
+  "voiceFile": "4003",
+  "voiceFileTextTextMapHash": 2991649167,
+  "voiceTitleLockedTextMapHash": 37056522,
+  "voiceTitleTextMapHash": 248386751
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133024,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_FETTER_LEVEL",
+    "paramList": [
+     4
+    ]
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   3173043498,
+   1476950360,
+   2729746840,
+   2466494719
+  ],
+  "type": 1,
+  "voiceFile": "4004",
+  "voiceFileTextTextMapHash": 2863928495,
+  "voiceTitleLockedTextMapHash": 3813046386,
+  "voiceTitleTextMapHash": 1552271783
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133025,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_FETTER_LEVEL",
+    "paramList": [
+     4
+    ]
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   1607976418,
+   2508522944,
+   212697456,
+   1855807591
+  ],
+  "type": 1,
+  "voiceFile": "4005",
+  "voiceFileTextTextMapHash": 2077294695,
+  "voiceTitleLockedTextMapHash": 4088631466,
+  "voiceTitleTextMapHash": 263016559
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133026,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_FETTER_LEVEL",
+    "paramList": [
+     4
+    ]
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   3668044074,
+   3730829368,
+   2784254424,
+   1476541567
+  ],
+  "type": 1,
+  "voiceFile": "4006",
+  "voiceFileTextTextMapHash": 3942165519,
+  "voiceTitleLockedTextMapHash": 2145707402,
+  "voiceTitleTextMapHash": 4127926615
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133027,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_FETTER_LEVEL",
+    "paramList": [
+     4
+    ]
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   3079460986,
+   3856048432,
+   2438517760,
+   161554791
+  ],
+  "type": 1,
+  "voiceFile": "4007",
+  "voiceFileTextTextMapHash": 1320571103,
+  "voiceTitleLockedTextMapHash": 3062658162,
+  "voiceTitleTextMapHash": 2943750591
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133028,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_FETTER_LEVEL",
+    "paramList": [
+     4
+    ]
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   260950306,
+   3041546408,
+   771452392,
+   1833525423
+  ],
+  "type": 1,
+  "voiceFile": "4008",
+  "voiceFileTextTextMapHash": 2127075423,
+  "voiceTitleLockedTextMapHash": 1968507162,
+  "voiceTitleTextMapHash": 2620303847
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133029,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_FETTER_LEVEL",
+    "paramList": [
+     4
+    ]
+   },
+   {
+    "condType": "FETTER_COND_FINISH_QUEST",
+    "paramList": [
+     601710
+    ]
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   1041361042,
+   1719840040,
+   3240263864,
+   2909153639
+  ],
+  "type": 1,
+  "voiceFile": "4009",
+  "voiceFileTextTextMapHash": 2835415175,
+  "voiceTitleLockedTextMapHash": 2805293130,
+  "voiceTitleTextMapHash": 1581942151
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133030,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_FETTER_LEVEL",
+    "paramList": [
+     4
+    ]
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   3516938306,
+   2012252408,
+   3436797344,
+   438671743
+  ],
+  "type": 1,
+  "voiceFile": "4010",
+  "voiceFileTextTextMapHash": 1272443191,
+  "voiceTitleLockedTextMapHash": 746972378,
+  "voiceTitleTextMapHash": 685816055
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133031,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_FETTER_LEVEL",
+    "paramList": [
+     4
+    ]
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   1714901218,
+   4151350360,
+   2547163456,
+   3818337703
+  ],
+  "type": 1,
+  "voiceFile": "4011",
+  "voiceFileTextTextMapHash": 1726324783,
+  "voiceTitleLockedTextMapHash": 1903111226,
+  "voiceTitleTextMapHash": 1136757943
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133032,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_FETTER_LEVEL",
+    "paramList": [
+     4
+    ]
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   1252503754,
+   81252352,
+   3479280656,
+   1404122303
+  ],
+  "type": 1,
+  "voiceFile": "4012",
+  "voiceFileTextTextMapHash": 3362559071,
+  "voiceTitleLockedTextMapHash": 2868965458,
+  "voiceTitleTextMapHash": 1791163711
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133033,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_FETTER_LEVEL",
+    "paramList": [
+     4
+    ]
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   83703834,
+   777066592,
+   3921481144,
+   1614732439
+  ],
+  "type": 1,
+  "voiceFile": "4013",
+  "voiceFileTextTextMapHash": 1561595263,
+  "voiceTitleLockedTextMapHash": 434578514,
+  "voiceTitleTextMapHash": 1998138879
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133034,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_FETTER_LEVEL",
+    "paramList": [
+     4
+    ]
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   4144950346,
+   463531048,
+   740342832,
+   2238877967
+  ],
+  "type": 1,
+  "voiceFile": "4014",
+  "voiceFileTextTextMapHash": 3669788831,
+  "voiceTitleLockedTextMapHash": 561609050,
+  "voiceTitleTextMapHash": 3844369575
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133035,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   14633274,
+   548607256,
+   4143133760,
+   2300374127
+  ],
+  "type": 1,
+  "voiceFile": "5001",
+  "voiceFileTextTextMapHash": 1365652783,
+  "voiceTitleLockedTextMapHash": 1692589082,
+  "voiceTitleTextMapHash": 2803904679
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133036,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_FETTER_LEVEL",
+    "paramList": [
+     3
+    ]
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   2143032330,
+   3104837744,
+   3199109576,
+   568086791
+  ],
+  "type": 1,
+  "voiceFile": "5002",
+  "voiceFileTextTextMapHash": 3401043999,
+  "voiceTitleLockedTextMapHash": 2133102810,
+  "voiceTitleTextMapHash": 577924383
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133037,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_FETTER_LEVEL",
+    "paramList": [
+     4
+    ]
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   1153531330,
+   1130072472,
+   2702125256,
+   1456422975
+  ],
+  "type": 1,
+  "voiceFile": "5003",
+  "voiceFileTextTextMapHash": 1346418911,
+  "voiceTitleLockedTextMapHash": 2202471626,
+  "voiceTitleTextMapHash": 2937788527
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133038,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_FETTER_LEVEL",
+    "paramList": [
+     5
+    ]
+   },
+   {
+    "condType": "FETTER_COND_FINISH_QUEST",
+    "paramList": [
+     4024712
+    ]
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   1803350522,
+   4071704728,
+   2241257632,
+   3480784087
+  ],
+  "type": 1,
+  "voiceFile": "5004",
+  "voiceFileTextTextMapHash": 822873543,
+  "voiceTitleLockedTextMapHash": 2871723282,
+  "voiceTitleTextMapHash": 908958927
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133039,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_FETTER_LEVEL",
+    "paramList": [
+     6
+    ]
+   },
+   {
+    "condType": "FETTER_COND_FINISH_QUEST",
+    "paramList": [
+     4024712
+    ]
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   2779712850,
+   2553052576,
+   2609894648,
+   928695351
+  ],
+  "type": 1,
+  "voiceFile": "5005",
+  "voiceFileTextTextMapHash": 123906159,
+  "voiceTitleLockedTextMapHash": 2079493322,
+  "voiceTitleTextMapHash": 3527641463
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133040,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   936416570,
+   3991553200,
+   2919491728,
+   2571753719
+  ],
+  "type": 1,
+  "voiceFile": "6001",
+  "voiceFileTextTextMapHash": 4082484431,
+  "voiceTitleLockedTextMapHash": 2851058026,
+  "voiceTitleTextMapHash": 3063402599
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133041,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   2772353506,
+   461041992,
+   1914538040,
+   4024421879
+  ],
+  "type": 1,
+  "voiceFile": "6012",
+  "voiceFileTextTextMapHash": 548762743,
+  "voiceTitleLockedTextMapHash": 2926393538,
+  "voiceTitleTextMapHash": 717289775
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133042,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   4021140770,
+   2105580680,
+   3451322800,
+   4087143727
+  ],
+  "type": 1,
+  "voiceFile": "6003",
+  "voiceFileTextTextMapHash": 1644911023,
+  "voiceTitleLockedTextMapHash": 2720244098,
+  "voiceTitleTextMapHash": 4168027567
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133043,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   1050805746,
+   1285294160,
+   1582430616,
+   1102532839
+  ],
+  "type": 1,
+  "voiceFile": "6004",
+  "voiceFileTextTextMapHash": 1882613823,
+  "voiceTitleLockedTextMapHash": 4149863490,
+  "voiceTitleTextMapHash": 3381779903
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133044,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   1277749642,
+   645822832,
+   1776585840,
+   2771724391
+  ],
+  "type": 1,
+  "voiceFile": "6007",
+  "voiceFileTextTextMapHash": 2709975,
+  "voiceTitleLockedTextMapHash": 2216712666,
+  "voiceTitleTextMapHash": 2755497391
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133045,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   1470675394,
+   3915570320,
+   2458051048,
+   3996925975
+  ],
+  "type": 1,
+  "voiceFile": "6008",
+  "voiceFileTextTextMapHash": 666539135,
+  "voiceTitleLockedTextMapHash": 698602682,
+  "voiceTitleTextMapHash": 2951769223
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133046,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   2417096866,
+   473699624,
+   4192266664,
+   2948334999
+  ],
+  "type": 1,
+  "voiceFile": "6009",
+  "voiceFileTextTextMapHash": 1155050575,
+  "voiceTitleLockedTextMapHash": 597633530,
+  "voiceTitleTextMapHash": 2537699519
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133047,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": true,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_PLAYER_BIRTHDAY",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   2740472874,
+   610638136,
+   734014936,
+   3151468583
+  ],
+  "type": 1,
+  "voiceFile": "7001",
+  "voiceFileTextTextMapHash": 459201575,
+  "voiceTitleLockedTextMapHash": 3503503418,
+  "voiceTitleTextMapHash": 575722935
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133048,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_AVATAR_PROMOTE_LEVEL",
+    "paramList": [
+     1
+    ]
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   2569919842,
+   2531139856,
+   4186700216,
+   4062682375
+  ],
+  "type": 1,
+  "voiceFile": "8001",
+  "voiceFileTextTextMapHash": 2114840031,
+  "voiceTitleLockedTextMapHash": 1102098458,
+  "voiceTitleTextMapHash": 2481259895
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133049,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_AVATAR_PROMOTE_LEVEL",
+    "paramList": [
+     2
+    ]
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   3286438938,
+   2202244168,
+   397687968,
+   95665159
+  ],
+  "type": 1,
+  "voiceFile": "8002",
+  "voiceFileTextTextMapHash": 2953703623,
+  "voiceTitleLockedTextMapHash": 2649284042,
+  "voiceTitleTextMapHash": 3333684271
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133050,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_AVATAR_PROMOTE_LEVEL",
+    "paramList": [
+     4
+    ]
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   3344056698,
+   3530315048,
+   1494144488,
+   985755655
+  ],
+  "type": 1,
+  "voiceFile": "8003",
+  "voiceFileTextTextMapHash": 2861097991,
+  "voiceTitleLockedTextMapHash": 4248014330,
+  "voiceTitleTextMapHash": 1663303951
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133051,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_AVATAR_PROMOTE_LEVEL",
+    "paramList": [
+     6
+    ]
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   412617874,
+   1971761472,
+   1730070672,
+   2647432607
+  ],
+  "type": 1,
+  "voiceFile": "8004",
+  "voiceFileTextTextMapHash": 331447343,
+  "voiceTitleLockedTextMapHash": 1948993898,
+  "voiceTitleTextMapHash": 420394359
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133052,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   2071944386,
+   107949536,
+   2352958784,
+   3524061655
+  ],
+  "type": 2,
+  "voiceFile": "100001",
+  "voiceFileTextTextMapHash": 1654539655,
+  "voiceTitleLockedTextMapHash": 2263508122,
+  "voiceTitleTextMapHash": 3481350503
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133053,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   301288610,
+   1925265520,
+   962424016,
+   3650324767
+  ],
+  "type": 2,
+  "voiceFile": "100002",
+  "voiceFileTextTextMapHash": 1376552391,
+  "voiceTitleLockedTextMapHash": 245165418,
+  "voiceTitleTextMapHash": 378128775
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133054,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   341771690,
+   4131723712,
+   528166912,
+   2959129751
+  ],
+  "type": 2,
+  "voiceFile": "100003",
+  "voiceFileTextTextMapHash": 3714415647,
+  "voiceTitleLockedTextMapHash": 2205046258,
+  "voiceTitleTextMapHash": 1864276447
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133055,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   1467743586,
+   1702441336,
+   107563424,
+   2106685751
+  ],
+  "type": 2,
+  "voiceFile": "100004",
+  "voiceFileTextTextMapHash": 3795035303,
+  "voiceTitleLockedTextMapHash": 3820168586,
+  "voiceTitleTextMapHash": 237052375
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133056,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   2183361922,
+   691861848,
+   1827016056,
+   1104942271
+  ],
+  "type": 2,
+  "voiceFile": "100005",
+  "voiceFileTextTextMapHash": 1051801863,
+  "voiceTitleLockedTextMapHash": 776945098,
+  "voiceTitleTextMapHash": 809047367
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133057,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   462897154,
+   1531063792,
+   2297305264,
+   1315097919
+  ],
+  "type": 2,
+  "voiceFile": "100006",
+  "voiceFileTextTextMapHash": 3105476079,
+  "voiceTitleLockedTextMapHash": 1073781858,
+  "voiceTitleTextMapHash": 2507147399
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133058,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   3308745034,
+   3604040976,
+   1342636456,
+   1260131351
+  ],
+  "type": 2,
+  "voiceFile": "200001",
+  "voiceFileTextTextMapHash": 2069477855,
+  "voiceTitleLockedTextMapHash": 1913878610,
+  "voiceTitleTextMapHash": 24429055
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133059,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   2817309730,
+   110441592,
+   1271299568,
+   1227403271
+  ],
+  "type": 2,
+  "voiceFile": "200002",
+  "voiceFileTextTextMapHash": 902089887,
+  "voiceTitleLockedTextMapHash": 2970413178,
+  "voiceTitleTextMapHash": 1460384151
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133060,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   151889226,
+   1867262216,
+   559455520,
+   1956733095
+  ],
+  "type": 2,
+  "voiceFile": "200003",
+  "voiceFileTextTextMapHash": 3694730511,
+  "voiceTitleLockedTextMapHash": 962836762,
+  "voiceTitleTextMapHash": 1545061871
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133061,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   1916649954,
+   3309122912,
+   1608817760,
+   1459945983
+  ],
+  "type": 2,
+  "voiceFile": "300001",
+  "voiceFileTextTextMapHash": 1763499287,
+  "voiceTitleLockedTextMapHash": 149099818,
+  "voiceTitleTextMapHash": 908029975
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133062,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   2949669354,
+   2946316768,
+   2812321032,
+   2438083967
+  ],
+  "type": 2,
+  "voiceFile": "300002",
+  "voiceFileTextTextMapHash": 2220736631,
+  "voiceTitleLockedTextMapHash": 896676018,
+  "voiceTitleTextMapHash": 410346527
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133063,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   381766090,
+   4150694064,
+   1163603968,
+   2885427319
+  ],
+  "type": 2,
+  "voiceFile": "300003",
+  "voiceFileTextTextMapHash": 1166544231,
+  "voiceTitleLockedTextMapHash": 3721056690,
+  "voiceTitleTextMapHash": 253468039
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133064,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   1626033450,
+   1293258800,
+   2974254304,
+   1914282375
+  ],
+  "type": 2,
+  "voiceFile": "410001",
+  "voiceFileTextTextMapHash": 2887069839,
+  "voiceTitleLockedTextMapHash": 1503083610,
+  "voiceTitleTextMapHash": 2910561623
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133065,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   1308277026,
+   1527217648,
+   4026262544,
+   1561944071
+  ],
+  "type": 2,
+  "voiceFile": "410002",
+  "voiceFileTextTextMapHash": 1076615383,
+  "voiceTitleLockedTextMapHash": 1357837514,
+  "voiceTitleTextMapHash": 554904831
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133066,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   2331945210,
+   4137734504,
+   2414215584,
+   1918568919
+  ],
+  "type": 2,
+  "voiceFile": "410003",
+  "voiceFileTextTextMapHash": 3715342567,
+  "voiceTitleLockedTextMapHash": 4172834962,
+  "voiceTitleTextMapHash": 3399532991
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133067,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   1421826354,
+   492826656,
+   3206658456,
+   2210757759
+  ],
+  "type": 2,
+  "voiceFile": "400001",
+  "voiceFileTextTextMapHash": 4081101911,
+  "voiceTitleLockedTextMapHash": 1322566962,
+  "voiceTitleTextMapHash": 3144224239
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133068,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   4111037490,
+   274403496,
+   944928232,
+   1917541719
+  ],
+  "type": 2,
+  "voiceFile": "400002",
+  "voiceFileTextTextMapHash": 2569343463,
+  "voiceTitleLockedTextMapHash": 502815938,
+  "voiceTitleTextMapHash": 1115482135
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133069,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   717527250,
+   2334086616,
+   82225488,
+   3397332367
+  ],
+  "type": 2,
+  "voiceFile": "500001",
+  "voiceFileTextTextMapHash": 3482722319,
+  "voiceTitleLockedTextMapHash": 2257533250,
+  "voiceTitleTextMapHash": 1201992735
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133070,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   3633977690,
+   3291095248,
+   346144792,
+   1314633783
+  ],
+  "type": 2,
+  "voiceFile": "500002",
+  "voiceFileTextTextMapHash": 2753335655,
+  "voiceTitleLockedTextMapHash": 2477401586,
+  "voiceTitleTextMapHash": 3689160887
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133071,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   2691298594,
+   1856173192,
+   1017349208,
+   1413630231
+  ],
+  "type": 2,
+  "voiceFile": "500003",
+  "voiceFileTextTextMapHash": 1593952687,
+  "voiceTitleLockedTextMapHash": 906156298,
+  "voiceTitleTextMapHash": 907900095
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133072,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   3609273666,
+   1574518112,
+   301280752,
+   3154236927
+  ],
+  "type": 2,
+  "voiceFile": "900001",
+  "voiceFileTextTextMapHash": 3456470511,
+  "voiceTitleLockedTextMapHash": 3978958882,
+  "voiceTitleTextMapHash": 1817766967
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133073,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   1460232498,
+   4113511840,
+   3399660896,
+   3906044087
+  ],
+  "type": 2,
+  "voiceFile": "900002",
+  "voiceFileTextTextMapHash": 1911219647,
+  "voiceTitleLockedTextMapHash": 2322668978,
+  "voiceTitleTextMapHash": 778832007
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133074,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   4012290098,
+   423921720,
+   1696924120,
+   3893265823
+  ],
+  "type": 2,
+  "voiceFile": "910001",
+  "voiceFileTextTextMapHash": 3475469591,
+  "voiceTitleLockedTextMapHash": 2020764914,
+  "voiceTitleTextMapHash": 3222569023
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133075,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   599174234,
+   2203975128,
+   1653683704,
+   2485733631
+  ],
+  "type": 2,
+  "voiceFile": "910002",
+  "voiceFileTextTextMapHash": 1903998991,
+  "voiceTitleLockedTextMapHash": 2193743210,
+  "voiceTitleTextMapHash": 3832463663
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133076,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   2802972898,
+   2924833064,
+   3612338256,
+   32792703
+  ],
+  "type": 2,
+  "voiceFile": "600001",
+  "voiceFileTextTextMapHash": 4030643519,
+  "voiceTitleLockedTextMapHash": 3036082378,
+  "voiceTitleTextMapHash": 2784734687
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133077,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   474817570,
+   1165127944,
+   1536982448,
+   75186503
+  ],
+  "type": 2,
+  "voiceFile": "600002",
+  "voiceFileTextTextMapHash": 3606358215,
+  "voiceTitleLockedTextMapHash": 1486490906,
+  "voiceTitleTextMapHash": 2788332703
+ },
+ {
+  "avatarId": 10000133,
+  "fetterId": 133078,
+  "finishConds": [],
+  "hideCostumeList": [],
+  "isHiden": false,
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   },
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "showCostumeList": [],
+  "tips": [
+   843942362,
+   1913471024,
+   2074508536,
+   2852860367
+  ],
+  "type": 2,
+  "voiceFile": "600003",
+  "voiceFileTextTextMapHash": 2787564967,
+  "voiceTitleLockedTextMapHash": 275281314,
+  "voiceTitleTextMapHash": 3360757975
  }
 ]

@@ -2315,6 +2315,53 @@
   "sceneId": 103
  },
  {
+  "addSceneTagIdList": [
+   1852,
+   1853
+  ],
+  "id": 171,
+  "levelTagCanFixTime": false,
+  "levelTagFixedEnviroTime": 0,
+  "levelTagName": "6_7_GLFSJD_01",
+  "loadDynamicGroupList": [],
+  "removeSceneTagIdList": [
+   1854
+  ],
+  "sceneId": 3
+ },
+ {
+  "addSceneTagIdList": [
+   1852
+  ],
+  "id": 172,
+  "levelTagCanFixTime": false,
+  "levelTagFixedEnviroTime": 0,
+  "levelTagName": "6_7_GLFSJD_02",
+  "loadDynamicGroupList": [],
+  "removeSceneTagIdList": [
+   1853,
+   1854
+  ],
+  "sceneId": 3
+ },
+ {
+  "addSceneTagIdList": [
+   1854
+  ],
+  "id": 173,
+  "levelTagCanFixTime": false,
+  "levelTagFixedEnviroTime": 0,
+  "levelTagName": "6_7_GLFSJD_03",
+  "loadDynamicGroupList": [
+   133614038
+  ],
+  "removeSceneTagIdList": [
+   1852,
+   1853
+  ],
+  "sceneId": 3
+ },
+ {
   "addSceneTagIdList": [],
   "id": 100000,
   "levelTagCanFixTime": false,

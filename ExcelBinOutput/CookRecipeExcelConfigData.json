@@ -5841,6 +5841,65 @@
   "rankLevel": 2
  },
  {
+  "cookMethod": "COOK_METHOD_STEAM",
+  "descTextMapHash": 484166090,
+  "effectDesc": [
+   1732592717,
+   258597233,
+   300720382,
+   3683230855
+  ],
+  "foodType": "COOK_FOOD_FUNCTION",
+  "icon": "UI_ItemIcon_108882",
+  "id": 2606,
+  "inputVec": [
+   {
+    "count": 1,
+    "id": 100084
+   },
+   {
+    "count": 1,
+    "id": 110010
+   },
+   {
+    "count": 1,
+    "id": 110016
+   },
+   {
+    "count": 1,
+    "id": 100075
+   },
+   {
+    "count": 0,
+    "id": 0
+   }
+  ],
+  "isDefaultUnlocked": false,
+  "maxProficiency": 10,
+  "nameTextMapHash": 1237061816,
+  "qteParam": "0.6,0.4",
+  "qteQualityWeightVec": [
+   0,
+   0,
+   100
+  ],
+  "qualityOutputVec": [
+   {
+    "count": 1,
+    "id": 108980
+   },
+   {
+    "count": 1,
+    "id": 108981
+   },
+   {
+    "count": 1,
+    "id": 108982
+   }
+  ],
+  "rankLevel": 2
+ },
+ {
   "cookMethod": "COOK_METHOD_BOIL",
   "descTextMapHash": 1702888666,
   "effectDesc": [
@@ -13329,6 +13388,65 @@
    {
     "count": 1,
     "id": 108948
+   }
+  ],
+  "rankLevel": 3
+ },
+ {
+  "cookMethod": "COOK_METHOD_BOIL",
+  "descTextMapHash": 2116958562,
+  "effectDesc": [
+   2932554861,
+   322000969,
+   3807740038,
+   1266754919
+  ],
+  "foodType": "COOK_FOOD_FUNCTION",
+  "icon": "UI_ItemIcon_108881",
+  "id": 3612,
+  "inputVec": [
+   {
+    "count": 4,
+    "id": 100061
+   },
+   {
+    "count": 2,
+    "id": 101265
+   },
+   {
+    "count": 2,
+    "id": 101264
+   },
+   {
+    "count": 1,
+    "id": 100080
+   },
+   {
+    "count": 0,
+    "id": 0
+   }
+  ],
+  "isDefaultUnlocked": false,
+  "maxProficiency": 15,
+  "nameTextMapHash": 883904736,
+  "qteParam": "0.7,0.27",
+  "qteQualityWeightVec": [
+   0,
+   0,
+   100
+  ],
+  "qualityOutputVec": [
+   {
+    "count": 1,
+    "id": 108977
+   },
+   {
+    "count": 1,
+    "id": 108978
+   },
+   {
+    "count": 1,
+    "id": 108979
    }
   ],
   "rankLevel": 3

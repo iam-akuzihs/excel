@@ -6011,7 +6011,7 @@
   "emotionName": "Doubt_01",
   "fetterId": 131403,
   "finishConds": [],
-  "icon": "UI_EmotIcon_Confidence",
+  "icon": "UI_EmotIcon_Ponder",
   "openConds": [
    {
     "condType": "FETTER_COND_FETTER_LEVEL",
@@ -6074,5 +6074,57 @@
   ],
   "phonemeName": "P_Smile_01",
   "unlockDescTextMapHash": 1941320170
+ },
+ {
+  "avatarId": 10000133,
+  "emotionDescriptionTextMapHash": 3059586245,
+  "emotionName": "",
+  "fetterId": 133401,
+  "finishConds": [],
+  "icon": "UI_EmotIcon_Normal",
+  "openConds": [
+   {
+    "condType": "FETTER_COND_NONE",
+    "paramList": []
+   }
+  ],
+  "phonemeName": "",
+  "unlockDescTextMapHash": 407676306
+ },
+ {
+  "avatarId": 10000133,
+  "emotionDescriptionTextMapHash": 3075583397,
+  "emotionName": "LowClosed_07",
+  "fetterId": 133402,
+  "finishConds": [],
+  "icon": "UI_EmotIcon_Blink",
+  "openConds": [
+   {
+    "condType": "FETTER_COND_FETTER_LEVEL",
+    "paramList": [
+     2
+    ]
+   }
+  ],
+  "phonemeName": "P_N_01",
+  "unlockDescTextMapHash": 2099819882
+ },
+ {
+  "avatarId": 10000133,
+  "emotionDescriptionTextMapHash": 1329341573,
+  "emotionName": "Angry_02",
+  "fetterId": 133403,
+  "finishConds": [],
+  "icon": "UI_EmotIcon_Confidence",
+  "openConds": [
+   {
+    "condType": "FETTER_COND_FETTER_LEVEL",
+    "paramList": [
+     4
+    ]
+   }
+  ],
+  "phonemeName": "P_Smile_01",
+  "unlockDescTextMapHash": 2819219810
  }
 ]
