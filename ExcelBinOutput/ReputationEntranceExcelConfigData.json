@@ -7,22 +7,25 @@
   "BFHPOECFEAP": [
    {
     "type": "REPUTATION_ENTRANCE_COND_REPUTATION_LEVEL",
-    "FBMPKCPHNPH": 2
+    "param2": 0,
+    "param1": 2
    },
    {
-    "type": "REPUTATION_ENTRANCE_COND_NONE"
+    "type": "REPUTATION_ENTRANCE_COND_NONE",
+    "param2": 0,
+    "param1": 0
    }
   ],
-  "CEDPMADOGBL": 2390517265,
-  "CJJAECLADPA": 1,
-  "DBBGDJCPOEO": 1,
-  "DLLHLAIKHPH": 184432840,
-  "nameTextMapHash": 2497814405,
-  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_HUNTER",
-  "HEBPCBECNJP": 1,
-  "LNHNDMIGEGC": "LOGIC_NONE",
   "iconName": "UI_ReputationPic_Mengde_1",
-  "descTextMapHash": 474021375
+  "explainTitleTextMapHash": 184432840,
+  "cityId": 1,
+  "order": 1,
+  "titleTextMapHash": 2390517265,
+  "descTextMapHash": 474021375,
+  "condComb": "LOGIC_NONE",
+  "HEBPCBECNJP": 1,
+  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_HUNTER",
+  "nameTextMapHash": 2497814405
  },
  {
   "AMAHOMNOIGJ": [
@@ -32,23 +35,25 @@
   "BFHPOECFEAP": [
    {
     "type": "REPUTATION_ENTRANCE_COND_REPUTATION_LEVEL",
-    "FBMPKCPHNPH": 2
+    "param2": 0,
+    "param1": 2
    },
    {
     "type": "REPUTATION_ENTRANCE_COND_QUEST",
-    "FBMPKCPHNPH": 39604
+    "param2": 0,
+    "param1": 39604
    }
   ],
-  "CEDPMADOGBL": 972558401,
-  "CJJAECLADPA": 2,
-  "DBBGDJCPOEO": 1,
-  "DLLHLAIKHPH": 50373584,
-  "nameTextMapHash": 2727281317,
-  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_REQUEST",
-  "HEBPCBECNJP": 2,
-  "LNHNDMIGEGC": "LOGIC_NONE",
   "iconName": "UI_ReputationPic_Mengde_2",
-  "descTextMapHash": 916031679
+  "explainTitleTextMapHash": 50373584,
+  "cityId": 1,
+  "order": 2,
+  "titleTextMapHash": 972558401,
+  "descTextMapHash": 916031679,
+  "condComb": "LOGIC_NONE",
+  "HEBPCBECNJP": 2,
+  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_REQUEST",
+  "nameTextMapHash": 2727281317
  },
  {
   "AMAHOMNOIGJ": [
@@ -57,22 +62,26 @@
   ],
   "BFHPOECFEAP": [
    {
-    "type": "REPUTATION_ENTRANCE_COND_NONE"
+    "type": "REPUTATION_ENTRANCE_COND_NONE",
+    "param2": 0,
+    "param1": 0
    },
    {
-    "type": "REPUTATION_ENTRANCE_COND_NONE"
+    "type": "REPUTATION_ENTRANCE_COND_NONE",
+    "param2": 0,
+    "param1": 0
    }
   ],
-  "CEDPMADOGBL": 3036023929,
-  "CJJAECLADPA": 3,
-  "DBBGDJCPOEO": 1,
-  "DLLHLAIKHPH": 2073786248,
-  "nameTextMapHash": 3140260373,
-  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_EXPLORE",
-  "HEBPCBECNJP": 3,
-  "LNHNDMIGEGC": "LOGIC_NONE",
   "iconName": "UI_ReputationPic_Mengde_3",
-  "descTextMapHash": 1797591767
+  "explainTitleTextMapHash": 2073786248,
+  "cityId": 1,
+  "order": 3,
+  "titleTextMapHash": 3036023929,
+  "descTextMapHash": 1797591767,
+  "condComb": "LOGIC_NONE",
+  "HEBPCBECNJP": 3,
+  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_EXPLORE",
+  "nameTextMapHash": 3140260373
  },
  {
   "AMAHOMNOIGJ": [
@@ -81,22 +90,26 @@
   ],
   "BFHPOECFEAP": [
    {
-    "type": "REPUTATION_ENTRANCE_COND_NONE"
+    "type": "REPUTATION_ENTRANCE_COND_NONE",
+    "param2": 0,
+    "param1": 0
    },
    {
-    "type": "REPUTATION_ENTRANCE_COND_NONE"
+    "type": "REPUTATION_ENTRANCE_COND_NONE",
+    "param2": 0,
+    "param1": 0
    }
   ],
-  "CEDPMADOGBL": 1323433137,
-  "CJJAECLADPA": 4,
-  "DBBGDJCPOEO": 1,
-  "DLLHLAIKHPH": 1871883976,
-  "nameTextMapHash": 3751557365,
-  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_QUEST",
-  "HEBPCBECNJP": 4,
-  "LNHNDMIGEGC": "LOGIC_NONE",
   "iconName": "UI_ReputationPic_Mengde_4",
-  "descTextMapHash": 2661646583
+  "explainTitleTextMapHash": 1871883976,
+  "cityId": 1,
+  "order": 4,
+  "titleTextMapHash": 1323433137,
+  "descTextMapHash": 2661646583,
+  "condComb": "LOGIC_NONE",
+  "HEBPCBECNJP": 4,
+  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_QUEST",
+  "nameTextMapHash": 3751557365
  },
  {
   "AMAHOMNOIGJ": [
@@ -106,22 +119,25 @@
   "BFHPOECFEAP": [
    {
     "type": "REPUTATION_ENTRANCE_COND_REPUTATION_LEVEL",
-    "FBMPKCPHNPH": 2
+    "param2": 0,
+    "param1": 2
    },
    {
-    "type": "REPUTATION_ENTRANCE_COND_NONE"
+    "type": "REPUTATION_ENTRANCE_COND_NONE",
+    "param2": 0,
+    "param1": 0
    }
   ],
-  "CEDPMADOGBL": 3683642857,
-  "CJJAECLADPA": 1,
-  "DBBGDJCPOEO": 2,
-  "DLLHLAIKHPH": 2061729800,
-  "nameTextMapHash": 471483021,
-  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_HUNTER",
-  "HEBPCBECNJP": 5,
-  "LNHNDMIGEGC": "LOGIC_NONE",
   "iconName": "UI_ReputationPic_Liyue_1",
-  "descTextMapHash": 3661898919
+  "explainTitleTextMapHash": 2061729800,
+  "cityId": 2,
+  "order": 1,
+  "titleTextMapHash": 3683642857,
+  "descTextMapHash": 3661898919,
+  "condComb": "LOGIC_NONE",
+  "HEBPCBECNJP": 5,
+  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_HUNTER",
+  "nameTextMapHash": 471483021
  },
  {
   "AMAHOMNOIGJ": [
@@ -131,23 +147,25 @@
   "BFHPOECFEAP": [
    {
     "type": "REPUTATION_ENTRANCE_COND_REPUTATION_LEVEL",
-    "FBMPKCPHNPH": 2
+    "param2": 0,
+    "param1": 2
    },
    {
     "type": "REPUTATION_ENTRANCE_COND_QUEST",
-    "FBMPKCPHNPH": 102510
+    "param2": 0,
+    "param1": 102510
    }
   ],
-  "CEDPMADOGBL": 3940311569,
-  "CJJAECLADPA": 2,
-  "DBBGDJCPOEO": 2,
-  "DLLHLAIKHPH": 3738633576,
-  "nameTextMapHash": 170435997,
-  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_REQUEST",
-  "HEBPCBECNJP": 6,
-  "LNHNDMIGEGC": "LOGIC_NONE",
   "iconName": "UI_ReputationPic_Liyue_2",
-  "descTextMapHash": 1181327519
+  "explainTitleTextMapHash": 3738633576,
+  "cityId": 2,
+  "order": 2,
+  "titleTextMapHash": 3940311569,
+  "descTextMapHash": 1181327519,
+  "condComb": "LOGIC_NONE",
+  "HEBPCBECNJP": 6,
+  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_REQUEST",
+  "nameTextMapHash": 170435997
  },
  {
   "AMAHOMNOIGJ": [
@@ -156,22 +174,26 @@
   ],
   "BFHPOECFEAP": [
    {
-    "type": "REPUTATION_ENTRANCE_COND_NONE"
+    "type": "REPUTATION_ENTRANCE_COND_NONE",
+    "param2": 0,
+    "param1": 0
    },
    {
-    "type": "REPUTATION_ENTRANCE_COND_NONE"
+    "type": "REPUTATION_ENTRANCE_COND_NONE",
+    "param2": 0,
+    "param1": 0
    }
   ],
-  "CEDPMADOGBL": 2544536041,
-  "CJJAECLADPA": 3,
-  "DBBGDJCPOEO": 2,
-  "DLLHLAIKHPH": 982836632,
-  "nameTextMapHash": 3365242381,
-  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_EXPLORE",
-  "HEBPCBECNJP": 7,
-  "LNHNDMIGEGC": "LOGIC_NONE",
   "iconName": "UI_ReputationPic_Liyue_3",
-  "descTextMapHash": 2342118655
+  "explainTitleTextMapHash": 982836632,
+  "cityId": 2,
+  "order": 3,
+  "titleTextMapHash": 2544536041,
+  "descTextMapHash": 2342118655,
+  "condComb": "LOGIC_NONE",
+  "HEBPCBECNJP": 7,
+  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_EXPLORE",
+  "nameTextMapHash": 3365242381
  },
  {
   "AMAHOMNOIGJ": [
@@ -180,22 +202,26 @@
   ],
   "BFHPOECFEAP": [
    {
-    "type": "REPUTATION_ENTRANCE_COND_NONE"
+    "type": "REPUTATION_ENTRANCE_COND_NONE",
+    "param2": 0,
+    "param1": 0
    },
    {
-    "type": "REPUTATION_ENTRANCE_COND_NONE"
+    "type": "REPUTATION_ENTRANCE_COND_NONE",
+    "param2": 0,
+    "param1": 0
    }
   ],
-  "CEDPMADOGBL": 1414642113,
-  "CJJAECLADPA": 4,
-  "DBBGDJCPOEO": 2,
-  "DLLHLAIKHPH": 3430381960,
-  "nameTextMapHash": 1771902901,
-  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_QUEST",
-  "HEBPCBECNJP": 8,
-  "LNHNDMIGEGC": "LOGIC_NONE",
   "iconName": "UI_ReputationPic_Liyue_4",
-  "descTextMapHash": 2898802791
+  "explainTitleTextMapHash": 3430381960,
+  "cityId": 2,
+  "order": 4,
+  "titleTextMapHash": 1414642113,
+  "descTextMapHash": 2898802791,
+  "condComb": "LOGIC_NONE",
+  "HEBPCBECNJP": 8,
+  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_QUEST",
+  "nameTextMapHash": 1771902901
  },
  {
   "AMAHOMNOIGJ": [
@@ -205,22 +231,25 @@
   "BFHPOECFEAP": [
    {
     "type": "REPUTATION_ENTRANCE_COND_REPUTATION_LEVEL",
-    "FBMPKCPHNPH": 2
+    "param2": 0,
+    "param1": 2
    },
    {
-    "type": "REPUTATION_ENTRANCE_COND_NONE"
+    "type": "REPUTATION_ENTRANCE_COND_NONE",
+    "param2": 0,
+    "param1": 0
    }
   ],
-  "CEDPMADOGBL": 67043097,
-  "CJJAECLADPA": 1,
-  "DBBGDJCPOEO": 3,
-  "DLLHLAIKHPH": 1225189576,
-  "nameTextMapHash": 4126827605,
-  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_HUNTER",
-  "HEBPCBECNJP": 9,
-  "LNHNDMIGEGC": "LOGIC_NONE",
   "iconName": "UI_ReputationPic_Daoqi_1",
-  "descTextMapHash": 2789645647
+  "explainTitleTextMapHash": 1225189576,
+  "cityId": 3,
+  "order": 1,
+  "titleTextMapHash": 67043097,
+  "descTextMapHash": 2789645647,
+  "condComb": "LOGIC_NONE",
+  "HEBPCBECNJP": 9,
+  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_HUNTER",
+  "nameTextMapHash": 4126827605
  },
  {
   "AMAHOMNOIGJ": [
@@ -230,22 +259,25 @@
   "BFHPOECFEAP": [
    {
     "type": "REPUTATION_ENTRANCE_COND_REPUTATION_LEVEL",
-    "FBMPKCPHNPH": 2
+    "param2": 0,
+    "param1": 2
    },
    {
-    "type": "REPUTATION_ENTRANCE_COND_NONE"
+    "type": "REPUTATION_ENTRANCE_COND_NONE",
+    "param2": 0,
+    "param1": 0
    }
   ],
-  "CEDPMADOGBL": 3667844969,
-  "CJJAECLADPA": 2,
-  "DBBGDJCPOEO": 3,
-  "DLLHLAIKHPH": 1672254768,
-  "nameTextMapHash": 263840837,
-  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_REQUEST",
-  "HEBPCBECNJP": 10,
-  "LNHNDMIGEGC": "LOGIC_NONE",
   "iconName": "UI_ReputationPic_Daoqi_2",
-  "descTextMapHash": 896050375
+  "explainTitleTextMapHash": 1672254768,
+  "cityId": 3,
+  "order": 2,
+  "titleTextMapHash": 3667844969,
+  "descTextMapHash": 896050375,
+  "condComb": "LOGIC_NONE",
+  "HEBPCBECNJP": 10,
+  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_REQUEST",
+  "nameTextMapHash": 263840837
  },
  {
   "AMAHOMNOIGJ": [
@@ -254,22 +286,26 @@
   ],
   "BFHPOECFEAP": [
    {
-    "type": "REPUTATION_ENTRANCE_COND_NONE"
+    "type": "REPUTATION_ENTRANCE_COND_NONE",
+    "param2": 0,
+    "param1": 0
    },
    {
-    "type": "REPUTATION_ENTRANCE_COND_NONE"
+    "type": "REPUTATION_ENTRANCE_COND_NONE",
+    "param2": 0,
+    "param1": 0
    }
   ],
-  "CEDPMADOGBL": 2168238769,
-  "CJJAECLADPA": 3,
-  "DBBGDJCPOEO": 3,
-  "DLLHLAIKHPH": 2109638576,
-  "nameTextMapHash": 1599261373,
-  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_EXPLORE",
-  "HEBPCBECNJP": 11,
-  "LNHNDMIGEGC": "LOGIC_NONE",
   "iconName": "UI_ReputationPic_Daoqi_3",
-  "descTextMapHash": 3267494775
+  "explainTitleTextMapHash": 2109638576,
+  "cityId": 3,
+  "order": 3,
+  "titleTextMapHash": 2168238769,
+  "descTextMapHash": 3267494775,
+  "condComb": "LOGIC_NONE",
+  "HEBPCBECNJP": 11,
+  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_EXPLORE",
+  "nameTextMapHash": 1599261373
  },
  {
   "AMAHOMNOIGJ": [
@@ -278,22 +314,26 @@
   ],
   "BFHPOECFEAP": [
    {
-    "type": "REPUTATION_ENTRANCE_COND_NONE"
+    "type": "REPUTATION_ENTRANCE_COND_NONE",
+    "param2": 0,
+    "param1": 0
    },
    {
-    "type": "REPUTATION_ENTRANCE_COND_NONE"
+    "type": "REPUTATION_ENTRANCE_COND_NONE",
+    "param2": 0,
+    "param1": 0
    }
   ],
-  "CEDPMADOGBL": 3569621889,
-  "CJJAECLADPA": 4,
-  "DBBGDJCPOEO": 3,
-  "DLLHLAIKHPH": 2637229624,
-  "nameTextMapHash": 3625138517,
-  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_QUEST",
-  "HEBPCBECNJP": 12,
-  "LNHNDMIGEGC": "LOGIC_NONE",
   "iconName": "UI_ReputationPic_Daoqi_4",
-  "descTextMapHash": 928189247
+  "explainTitleTextMapHash": 2637229624,
+  "cityId": 3,
+  "order": 4,
+  "titleTextMapHash": 3569621889,
+  "descTextMapHash": 928189247,
+  "condComb": "LOGIC_NONE",
+  "HEBPCBECNJP": 12,
+  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_QUEST",
+  "nameTextMapHash": 3625138517
  },
  {
   "AMAHOMNOIGJ": [
@@ -303,22 +343,25 @@
   "BFHPOECFEAP": [
    {
     "type": "REPUTATION_ENTRANCE_COND_REPUTATION_LEVEL",
-    "FBMPKCPHNPH": 2
+    "param2": 0,
+    "param1": 2
    },
    {
-    "type": "REPUTATION_ENTRANCE_COND_NONE"
+    "type": "REPUTATION_ENTRANCE_COND_NONE",
+    "param2": 0,
+    "param1": 0
    }
   ],
-  "CEDPMADOGBL": 1271833409,
-  "CJJAECLADPA": 1,
-  "DBBGDJCPOEO": 4,
-  "DLLHLAIKHPH": 943272520,
-  "nameTextMapHash": 1318211717,
-  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_HUNTER",
-  "HEBPCBECNJP": 13,
-  "LNHNDMIGEGC": "LOGIC_NONE",
   "iconName": "UI_ReputationPic_Sumeru_1",
-  "descTextMapHash": 496796055
+  "explainTitleTextMapHash": 943272520,
+  "cityId": 4,
+  "order": 1,
+  "titleTextMapHash": 1271833409,
+  "descTextMapHash": 496796055,
+  "condComb": "LOGIC_NONE",
+  "HEBPCBECNJP": 13,
+  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_HUNTER",
+  "nameTextMapHash": 1318211717
  },
  {
   "AMAHOMNOIGJ": [
@@ -328,22 +371,25 @@
   "BFHPOECFEAP": [
    {
     "type": "REPUTATION_ENTRANCE_COND_REPUTATION_LEVEL",
-    "FBMPKCPHNPH": 2
+    "param2": 0,
+    "param1": 2
    },
    {
-    "type": "REPUTATION_ENTRANCE_COND_NONE"
+    "type": "REPUTATION_ENTRANCE_COND_NONE",
+    "param2": 0,
+    "param1": 0
    }
   ],
-  "CEDPMADOGBL": 1856746105,
-  "CJJAECLADPA": 2,
-  "DBBGDJCPOEO": 4,
-  "DLLHLAIKHPH": 2326192920,
-  "nameTextMapHash": 2418614373,
-  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_REQUEST",
-  "HEBPCBECNJP": 14,
-  "LNHNDMIGEGC": "LOGIC_NONE",
   "iconName": "UI_ReputationPic_Sumeru_2",
-  "descTextMapHash": 792512119
+  "explainTitleTextMapHash": 2326192920,
+  "cityId": 4,
+  "order": 2,
+  "titleTextMapHash": 1856746105,
+  "descTextMapHash": 792512119,
+  "condComb": "LOGIC_NONE",
+  "HEBPCBECNJP": 14,
+  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_REQUEST",
+  "nameTextMapHash": 2418614373
  },
  {
   "AMAHOMNOIGJ": [
@@ -352,22 +398,26 @@
   ],
   "BFHPOECFEAP": [
    {
-    "type": "REPUTATION_ENTRANCE_COND_NONE"
+    "type": "REPUTATION_ENTRANCE_COND_NONE",
+    "param2": 0,
+    "param1": 0
    },
    {
-    "type": "REPUTATION_ENTRANCE_COND_NONE"
+    "type": "REPUTATION_ENTRANCE_COND_NONE",
+    "param2": 0,
+    "param1": 0
    }
   ],
-  "CEDPMADOGBL": 1476407105,
-  "CJJAECLADPA": 3,
-  "DBBGDJCPOEO": 4,
-  "DLLHLAIKHPH": 3481784392,
-  "nameTextMapHash": 3794566317,
-  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_EXPLORE",
-  "HEBPCBECNJP": 15,
-  "LNHNDMIGEGC": "LOGIC_NONE",
   "iconName": "UI_ReputationPic_Sumeru_3",
-  "descTextMapHash": 3254137191
+  "explainTitleTextMapHash": 3481784392,
+  "cityId": 4,
+  "order": 3,
+  "titleTextMapHash": 1476407105,
+  "descTextMapHash": 3254137191,
+  "condComb": "LOGIC_NONE",
+  "HEBPCBECNJP": 15,
+  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_EXPLORE",
+  "nameTextMapHash": 3794566317
  },
  {
   "AMAHOMNOIGJ": [
@@ -376,22 +426,26 @@
   ],
   "BFHPOECFEAP": [
    {
-    "type": "REPUTATION_ENTRANCE_COND_NONE"
+    "type": "REPUTATION_ENTRANCE_COND_NONE",
+    "param2": 0,
+    "param1": 0
    },
    {
-    "type": "REPUTATION_ENTRANCE_COND_NONE"
+    "type": "REPUTATION_ENTRANCE_COND_NONE",
+    "param2": 0,
+    "param1": 0
    }
   ],
-  "CEDPMADOGBL": 3786338409,
-  "CJJAECLADPA": 4,
-  "DBBGDJCPOEO": 4,
-  "DLLHLAIKHPH": 3027666976,
-  "nameTextMapHash": 2158733829,
-  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_QUEST",
-  "HEBPCBECNJP": 16,
-  "LNHNDMIGEGC": "LOGIC_NONE",
   "iconName": "UI_ReputationPic_Sumeru_4",
-  "descTextMapHash": 2967764799
+  "explainTitleTextMapHash": 3027666976,
+  "cityId": 4,
+  "order": 4,
+  "titleTextMapHash": 3786338409,
+  "descTextMapHash": 2967764799,
+  "condComb": "LOGIC_NONE",
+  "HEBPCBECNJP": 16,
+  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_QUEST",
+  "nameTextMapHash": 2158733829
  },
  {
   "AMAHOMNOIGJ": [
@@ -401,22 +455,25 @@
   "BFHPOECFEAP": [
    {
     "type": "REPUTATION_ENTRANCE_COND_REPUTATION_LEVEL",
-    "FBMPKCPHNPH": 2
+    "param2": 0,
+    "param1": 2
    },
    {
-    "type": "REPUTATION_ENTRANCE_COND_NONE"
+    "type": "REPUTATION_ENTRANCE_COND_NONE",
+    "param2": 0,
+    "param1": 0
    }
   ],
-  "CEDPMADOGBL": 3863952265,
-  "CJJAECLADPA": 1,
-  "DBBGDJCPOEO": 5,
-  "DLLHLAIKHPH": 1287853216,
-  "nameTextMapHash": 3531579957,
-  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_HUNTER",
-  "HEBPCBECNJP": 17,
-  "LNHNDMIGEGC": "LOGIC_NONE",
   "iconName": "UI_ReputationPic_Fontaine_1",
-  "descTextMapHash": 619070167
+  "explainTitleTextMapHash": 1287853216,
+  "cityId": 5,
+  "order": 1,
+  "titleTextMapHash": 3863952265,
+  "descTextMapHash": 619070167,
+  "condComb": "LOGIC_NONE",
+  "HEBPCBECNJP": 17,
+  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_HUNTER",
+  "nameTextMapHash": 3531579957
  },
  {
   "AMAHOMNOIGJ": [
@@ -426,22 +483,25 @@
   "BFHPOECFEAP": [
    {
     "type": "REPUTATION_ENTRANCE_COND_REPUTATION_LEVEL",
-    "FBMPKCPHNPH": 2
+    "param2": 0,
+    "param1": 2
    },
    {
-    "type": "REPUTATION_ENTRANCE_COND_NONE"
+    "type": "REPUTATION_ENTRANCE_COND_NONE",
+    "param2": 0,
+    "param1": 0
    }
   ],
-  "CEDPMADOGBL": 1554320649,
-  "CJJAECLADPA": 2,
-  "DBBGDJCPOEO": 5,
-  "DLLHLAIKHPH": 3663666000,
-  "nameTextMapHash": 725523781,
-  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_REQUEST",
-  "HEBPCBECNJP": 18,
-  "LNHNDMIGEGC": "LOGIC_NONE",
   "iconName": "UI_ReputationPic_Fontaine_2",
-  "descTextMapHash": 3633788095
+  "explainTitleTextMapHash": 3663666000,
+  "cityId": 5,
+  "order": 2,
+  "titleTextMapHash": 1554320649,
+  "descTextMapHash": 3633788095,
+  "condComb": "LOGIC_NONE",
+  "HEBPCBECNJP": 18,
+  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_REQUEST",
+  "nameTextMapHash": 725523781
  },
  {
   "AMAHOMNOIGJ": [
@@ -450,22 +510,26 @@
   ],
   "BFHPOECFEAP": [
    {
-    "type": "REPUTATION_ENTRANCE_COND_NONE"
+    "type": "REPUTATION_ENTRANCE_COND_NONE",
+    "param2": 0,
+    "param1": 0
    },
    {
-    "type": "REPUTATION_ENTRANCE_COND_NONE"
+    "type": "REPUTATION_ENTRANCE_COND_NONE",
+    "param2": 0,
+    "param1": 0
    }
   ],
-  "CEDPMADOGBL": 1283303409,
-  "CJJAECLADPA": 3,
-  "DBBGDJCPOEO": 5,
-  "DLLHLAIKHPH": 4095324744,
-  "nameTextMapHash": 2367687701,
-  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_EXPLORE",
-  "HEBPCBECNJP": 19,
-  "LNHNDMIGEGC": "LOGIC_NONE",
   "iconName": "UI_ReputationPic_Fontaine_3",
-  "descTextMapHash": 280463775
+  "explainTitleTextMapHash": 4095324744,
+  "cityId": 5,
+  "order": 3,
+  "titleTextMapHash": 1283303409,
+  "descTextMapHash": 280463775,
+  "condComb": "LOGIC_NONE",
+  "HEBPCBECNJP": 19,
+  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_EXPLORE",
+  "nameTextMapHash": 2367687701
  },
  {
   "AMAHOMNOIGJ": [
@@ -474,21 +538,25 @@
   ],
   "BFHPOECFEAP": [
    {
-    "type": "REPUTATION_ENTRANCE_COND_NONE"
+    "type": "REPUTATION_ENTRANCE_COND_NONE",
+    "param2": 0,
+    "param1": 0
    },
    {
-    "type": "REPUTATION_ENTRANCE_COND_NONE"
+    "type": "REPUTATION_ENTRANCE_COND_NONE",
+    "param2": 0,
+    "param1": 0
    }
   ],
-  "CEDPMADOGBL": 2424385393,
-  "CJJAECLADPA": 4,
-  "DBBGDJCPOEO": 5,
-  "DLLHLAIKHPH": 3985930688,
-  "nameTextMapHash": 116218117,
-  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_QUEST",
-  "HEBPCBECNJP": 20,
-  "LNHNDMIGEGC": "LOGIC_NONE",
   "iconName": "UI_ReputationPic_Fontaine_4",
-  "descTextMapHash": 3543603255
+  "explainTitleTextMapHash": 3985930688,
+  "cityId": 5,
+  "order": 4,
+  "titleTextMapHash": 2424385393,
+  "descTextMapHash": 3543603255,
+  "condComb": "LOGIC_NONE",
+  "HEBPCBECNJP": 20,
+  "FMKGOMOHKAO": "REPUTATION_ENTRANCE_QUEST",
+  "nameTextMapHash": 116218117
  }
 ]

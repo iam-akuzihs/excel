@@ -1,105 +1,110 @@
 [
  {
-  "type": "EFFIGY_V5_SUB_TARGET_TIME_LE",
-  "EKIGGJOGAFF": 90,
+  "descTextMapHash": 2250293638,
   "id": 1,
-  "descTextMapHash": 2250293638
+  "type": "EFFIGY_V5_SUB_TARGET_TIME_LE",
+  "param": 90
  },
  {
-  "type": "EFFIGY_V5_SUB_TARGET_SUPPORT_LE",
-  "EKIGGJOGAFF": 1,
+  "descTextMapHash": 256521542,
   "id": 2,
-  "descTextMapHash": 256521542
- },
- {
   "type": "EFFIGY_V5_SUB_TARGET_SUPPORT_LE",
+  "param": 1
+ },
+ {
+  "descTextMapHash": 1624813782,
   "id": 3,
-  "descTextMapHash": 1624813782
+  "type": "EFFIGY_V5_SUB_TARGET_SUPPORT_LE",
+  "param": 0
  },
  {
-  "type": "EFFIGY_V5_SUB_TARGET_TRIGGERED_ACTION_GE",
-  "EKIGGJOGAFF": 1,
+  "descTextMapHash": 1360097294,
   "id": 4,
-  "descTextMapHash": 1360097294
+  "type": "EFFIGY_V5_SUB_TARGET_TRIGGERED_ACTION_GE",
+  "param": 1
  },
  {
-  "type": "EFFIGY_V5_SUB_TARGET_TRIGGERED_ACTION_GE",
-  "EKIGGJOGAFF": 1,
+  "descTextMapHash": 3630579430,
   "id": 5,
-  "descTextMapHash": 3630579430
+  "type": "EFFIGY_V5_SUB_TARGET_TRIGGERED_ACTION_GE",
+  "param": 1
  },
  {
-  "type": "EFFIGY_V5_SUB_TARGET_TIME_LE",
-  "EKIGGJOGAFF": 150,
+  "descTextMapHash": 2289941094,
   "id": 6,
-  "descTextMapHash": 2289941094
+  "type": "EFFIGY_V5_SUB_TARGET_TIME_LE",
+  "param": 150
  },
  {
-  "type": "EFFIGY_V5_SUB_TARGET_TIME_LE",
-  "EKIGGJOGAFF": 210,
+  "descTextMapHash": 1978277238,
   "id": 7,
-  "descTextMapHash": 1978277238
+  "type": "EFFIGY_V5_SUB_TARGET_TIME_LE",
+  "param": 210
  },
  {
-  "type": "EFFIGY_V5_SUB_TARGET_TRIGGERED_ACTION_GE",
-  "EKIGGJOGAFF": 30,
+  "descTextMapHash": 1350652534,
   "id": 8,
-  "descTextMapHash": 1350652534
+  "type": "EFFIGY_V5_SUB_TARGET_TRIGGERED_ACTION_GE",
+  "param": 30
  },
  {
-  "type": "EFFIGY_V5_SUB_TARGET_TRIGGERED_ACTION_GE",
-  "EKIGGJOGAFF": 1,
+  "descTextMapHash": 4013616278,
   "id": 9,
-  "descTextMapHash": 4013616278
- },
- {
   "type": "EFFIGY_V5_SUB_TARGET_TRIGGERED_ACTION_GE",
-  "EKIGGJOGAFF": 10,
+  "param": 1
+ },
+ {
+  "descTextMapHash": 961253198,
   "id": 10,
-  "descTextMapHash": 961253198
+  "type": "EFFIGY_V5_SUB_TARGET_TRIGGERED_ACTION_GE",
+  "param": 10
  },
  {
-  "type": "EFFIGY_V5_SUB_TARGET_SUPPORT_GE",
-  "EKIGGJOGAFF": 4,
+  "descTextMapHash": 3490953630,
   "id": 11,
-  "descTextMapHash": 3490953630
- },
- {
   "type": "EFFIGY_V5_SUB_TARGET_SUPPORT_GE",
-  "EKIGGJOGAFF": 2,
+  "param": 4
+ },
+ {
+  "descTextMapHash": 4042797958,
   "id": 12,
-  "descTextMapHash": 4042797958
+  "type": "EFFIGY_V5_SUB_TARGET_SUPPORT_GE",
+  "param": 2
  },
  {
-  "type": "EFFIGY_V5_SUB_TARGET_TIME_LE",
-  "EKIGGJOGAFF": 360,
+  "descTextMapHash": 1128310342,
   "id": 13,
-  "descTextMapHash": 1128310342
- },
- {
-  "type": "EFFIGY_V5_SUB_TARGET_TRIGGERED_ACTION_LE",
-  "id": 14,
-  "descTextMapHash": 4145356582
- },
- {
-  "type": "EFFIGY_V5_SUB_TARGET_TRIGGERED_ACTION_LE",
-  "id": 15,
-  "descTextMapHash": 2459360998
- },
- {
-  "type": "EFFIGY_V5_SUB_TARGET_TRIGGERED_ACTION_LE",
-  "id": 16,
-  "descTextMapHash": 2094650566
- },
- {
-  "type": "EFFIGY_V5_SUB_TARGET_TRIGGERED_ACTION_LE",
-  "id": 17,
-  "descTextMapHash": 3372386750
- },
- {
   "type": "EFFIGY_V5_SUB_TARGET_TIME_LE",
-  "EKIGGJOGAFF": 90,
+  "param": 360
+ },
+ {
+  "descTextMapHash": 4145356582,
+  "id": 14,
+  "type": "EFFIGY_V5_SUB_TARGET_TRIGGERED_ACTION_LE",
+  "param": 0
+ },
+ {
+  "descTextMapHash": 2459360998,
+  "id": 15,
+  "type": "EFFIGY_V5_SUB_TARGET_TRIGGERED_ACTION_LE",
+  "param": 0
+ },
+ {
+  "descTextMapHash": 2094650566,
+  "id": 16,
+  "type": "EFFIGY_V5_SUB_TARGET_TRIGGERED_ACTION_LE",
+  "param": 0
+ },
+ {
+  "descTextMapHash": 3372386750,
+  "id": 17,
+  "type": "EFFIGY_V5_SUB_TARGET_TRIGGERED_ACTION_LE",
+  "param": 0
+ },
+ {
+  "descTextMapHash": 2772158278,
   "id": 18,
-  "descTextMapHash": 2772158278
+  "type": "EFFIGY_V5_SUB_TARGET_TIME_LE",
+  "param": 90
  }
 ]

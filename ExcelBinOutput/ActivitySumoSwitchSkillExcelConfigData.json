@@ -1,559 +1,835 @@
 [
  {
-  "id": 1,
-  "CEDPMADOGBL": 1888818478,
-  "GICMELKHIFE": 15549380266230311078,
-  "KLPDFMBBNLF": "Ability_Activity_Sumo_NormalAttack",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Ability_Activity_Sumo_NormalAttack",
+  "descParam": [
    "15",
    "50",
    "8",
-   "4"
+   "4",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 1888818478,
+  "id": 1,
+  "iconNameHash": 15549380266230311078,
   "descTextMapHash": 2026848900
  },
  {
-  "id": 2,
-  "CEDPMADOGBL": 4254722622,
-  "GICMELKHIFE": 9173683837432882094,
-  "KLPDFMBBNLF": "Ability_Activity_Sumo_ExtraAttack",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Ability_Activity_Sumo_ExtraAttack",
+  "descParam": [
    "15",
    "30",
    "65",
-   "30"
+   "30",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 4254722622,
+  "id": 2,
+  "iconNameHash": 9173683837432882094,
   "descTextMapHash": 3830680204
  },
  {
-  "id": 3,
-  "CEDPMADOGBL": 1966603390,
-  "GICMELKHIFE": 10708369719787900652,
-  "KLPDFMBBNLF": "Ability_Activity_Sumo_FallingDamage",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Ability_Activity_Sumo_FallingDamage",
+  "descParam": [
    "15",
-   "85"
+   "85",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 1966603390,
+  "id": 3,
+  "iconNameHash": 10708369719787900652,
   "descTextMapHash": 3222065500
  },
  {
-  "id": 4,
-  "CEDPMADOGBL": 3006041230,
-  "GICMELKHIFE": 3744259038293801907,
-  "KLPDFMBBNLF": "Ability_Activity_Sumo_GenerateBall_AfterElementalArt",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Ability_Activity_Sumo_GenerateBall_AfterElementalArt",
+  "descParam": [
    "15",
    "20",
-   "5"
+   "5",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 3006041230,
+  "id": 4,
+  "iconNameHash": 3744259038293801907,
   "descTextMapHash": 4217978076
  },
  {
-  "id": 5,
-  "CEDPMADOGBL": 4144478854,
-  "GICMELKHIFE": 6074075424565649846,
-  "KLPDFMBBNLF": "Ability_Activity_Sumo_Elemental_Burst",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Ability_Activity_Sumo_Elemental_Burst",
+  "descParam": [
    "25",
    "30",
-   "50"
+   "50",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 4144478854,
+  "id": 5,
+  "iconNameHash": 6074075424565649846,
   "descTextMapHash": 1591056956
  },
  {
-  "id": 6,
-  "CEDPMADOGBL": 1718305718,
-  "GICMELKHIFE": 2188829677713682968,
-  "KLPDFMBBNLF": "Ability_Activity_Sumo_ShieldBeingHitDoAttack",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Ability_Activity_Sumo_ShieldBeingHitDoAttack",
+  "descParam": [
    "15",
-   "2"
+   "2",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 1718305718,
+  "id": 6,
+  "iconNameHash": 2188829677713682968,
   "descTextMapHash": 3052686380
  },
  {
-  "id": 7,
-  "CEDPMADOGBL": 2758299374,
-  "GICMELKHIFE": 17738972799374833399,
-  "KLPDFMBBNLF": "Ability_Activity_Sumo_TriggerAoe_AfterHealUp",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Ability_Activity_Sumo_TriggerAoe_AfterHealUp",
+  "descParam": [
    "15",
    "5",
    "0.5",
-   "3"
+   "3",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 2758299374,
+  "id": 7,
+  "iconNameHash": 17738972799374833399,
   "descTextMapHash": 83683668
  },
  {
-  "id": 8,
-  "CEDPMADOGBL": 2219183486,
-  "GICMELKHIFE": 17763632983393277608,
-  "KLPDFMBBNLF": "Ability_Activity_Sumo_Fever_Faster",
-  "NEDGAOAGHHD": [
-   "25"
+  "abilityGroupName": "Ability_Activity_Sumo_Fever_Faster",
+  "descParam": [
+   "25",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 2219183486,
+  "id": 8,
+  "iconNameHash": 17763632983393277608,
   "descTextMapHash": 2555546628
  },
  {
-  "id": 9,
-  "CEDPMADOGBL": 1578630358,
-  "GICMELKHIFE": 7606217870205712314,
-  "KLPDFMBBNLF": "Ability_Activity_Sumo_ElemMasteryDelta",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Ability_Activity_Sumo_ElemMasteryDelta",
+  "descParam": [
    "25",
-   "150"
+   "150",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 1578630358,
+  "id": 9,
+  "iconNameHash": 7606217870205712314,
   "descTextMapHash": 1553190988
  },
  {
-  "id": 10,
-  "CEDPMADOGBL": 2908248582,
-  "GICMELKHIFE": 15821997080499207973,
-  "KLPDFMBBNLF": "Ability_Activity_Sumo_ElementAddHurt_Fire",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Ability_Activity_Sumo_ElementAddHurt_Fire",
+  "descParam": [
    "25",
-   "60"
+   "60",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 2908248582,
+  "id": 10,
+  "iconNameHash": 15821997080499207973,
   "descTextMapHash": 516092700
  },
  {
-  "id": 11,
-  "CEDPMADOGBL": 1205817918,
-  "GICMELKHIFE": 14735375204110695743,
-  "KLPDFMBBNLF": "Ability_Activity_Sumo_ElementAddHurt_Ice",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Ability_Activity_Sumo_ElementAddHurt_Ice",
+  "descParam": [
    "25",
-   "60"
+   "60",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 1205817918,
+  "id": 11,
+  "iconNameHash": 14735375204110695743,
   "descTextMapHash": 3616851108
  },
  {
-  "id": 12,
-  "CEDPMADOGBL": 246224494,
-  "GICMELKHIFE": 425790897978303115,
-  "KLPDFMBBNLF": "Ability_Activity_Sumo_ElementAddHurt_Elec",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Ability_Activity_Sumo_ElementAddHurt_Elec",
+  "descParam": [
    "25",
-   "60"
+   "60",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 246224494,
+  "id": 12,
+  "iconNameHash": 425790897978303115,
   "descTextMapHash": 286896028
  },
  {
-  "id": 13,
-  "CEDPMADOGBL": 231665798,
-  "GICMELKHIFE": 14789152789847720617,
-  "KLPDFMBBNLF": "Ability_Activity_Sumo_ElementAddHurt_Rock",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Ability_Activity_Sumo_ElementAddHurt_Rock",
+  "descParam": [
    "25",
-   "60"
+   "60",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 231665798,
+  "id": 13,
+  "iconNameHash": 14789152789847720617,
   "descTextMapHash": 3397554804
  },
  {
-  "id": 14,
-  "CEDPMADOGBL": 1903822606,
-  "GICMELKHIFE": 17393781166196044832,
-  "KLPDFMBBNLF": "Ability_Activity_Sumo_ElementAddHurt_Water",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Ability_Activity_Sumo_ElementAddHurt_Water",
+  "descParam": [
    "25",
-   "60"
+   "60",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 1903822606,
+  "id": 14,
+  "iconNameHash": 17393781166196044832,
   "descTextMapHash": 2550840028
  },
  {
-  "id": 15,
-  "CEDPMADOGBL": 2666190454,
-  "GICMELKHIFE": 15049067035676258835,
-  "KLPDFMBBNLF": "Ability_Activity_Sumo_ElementAddHurt_Wind",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Ability_Activity_Sumo_ElementAddHurt_Wind",
+  "descParam": [
    "25",
-   "60"
+   "60",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 2666190454,
+  "id": 15,
+  "iconNameHash": 15049067035676258835,
   "descTextMapHash": 237739652
  },
  {
-  "id": 16,
-  "CEDPMADOGBL": 2281063270,
-  "GICMELKHIFE": 3814943627391975191,
-  "KLPDFMBBNLF": "Ability_Activity_Sumo_PhysicalAddHurt",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Ability_Activity_Sumo_PhysicalAddHurt",
+  "descParam": [
    "25",
-   "60"
+   "60",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 2281063270,
+  "id": 16,
+  "iconNameHash": 3814943627391975191,
   "descTextMapHash": 2547860564
  },
  {
-  "id": 17,
-  "CEDPMADOGBL": 3812625190,
-  "GICMELKHIFE": 11690843226368023001,
-  "KLPDFMBBNLF": "Ability_Activity_Sumo_CriticalHurtDelta",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Ability_Activity_Sumo_CriticalHurtDelta",
+  "descParam": [
    "25",
-   "60"
+   "60",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 3812625190,
+  "id": 17,
+  "iconNameHash": 11690843226368023001,
   "descTextMapHash": 2492209036
  },
  {
-  "id": 18,
-  "CEDPMADOGBL": 341201982,
-  "GICMELKHIFE": 13178587837713115643,
-  "KLPDFMBBNLF": "Ability_Activity_Sumo_AtkUp",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Ability_Activity_Sumo_AtkUp",
+  "descParam": [
    "25",
-   "60"
+   "60",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 341201982,
+  "id": 18,
+  "iconNameHash": 13178587837713115643,
   "descTextMapHash": 1790711804
  },
  {
-  "id": 19,
-  "CEDPMADOGBL": 1766680054,
-  "GICMELKHIFE": 10641438884724386688,
-  "KLPDFMBBNLF": "Activity_Sumo_Cannon",
-  "NEDGAOAGHHD": [
-   "15"
+  "abilityGroupName": "Activity_Sumo_Cannon",
+  "descParam": [
+   "15",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 1766680054,
+  "id": 19,
+  "iconNameHash": 10641438884724386688,
   "descTextMapHash": 675428428
  },
  {
-  "id": 20,
-  "CEDPMADOGBL": 2552423662,
-  "GICMELKHIFE": 445798679907328764,
-  "KLPDFMBBNLF": "Activity_Sumo_ArtAndBurst_DamageUp",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Activity_Sumo_ArtAndBurst_DamageUp",
+  "descParam": [
    "15",
    "12.5",
    "8",
    "0.5",
-   "50"
+   "50",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 2552423662,
+  "id": 20,
+  "iconNameHash": 445798679907328764,
   "descTextMapHash": 2974175132
  },
  {
-  "id": 21,
-  "CEDPMADOGBL": 1955521606,
-  "GICMELKHIFE": 12746578884287725109,
-  "KLPDFMBBNLF": "Activity_Sumo_ReviveEnergy",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Activity_Sumo_ReviveEnergy",
+  "descParam": [
    "15",
    "3",
-   "0.6"
+   "0.6",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 1955521606,
+  "id": 21,
+  "iconNameHash": 12746578884287725109,
   "descTextMapHash": 2463378612
  },
  {
-  "id": 22,
-  "CEDPMADOGBL": 2198395846,
-  "GICMELKHIFE": 11374704395093243974,
-  "KLPDFMBBNLF": "Activity_Sumo_WindZone",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Activity_Sumo_WindZone",
+  "descParam": [
    "15",
-   "1"
+   "1",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 2198395846,
+  "id": 22,
+  "iconNameHash": 11374704395093243974,
   "descTextMapHash": 3110237396
  },
  {
-  "id": 23,
-  "CEDPMADOGBL": 4035175758,
-  "GICMELKHIFE": 11622511848834200166,
-  "KLPDFMBBNLF": "Activity_Sumo_WaterZone",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Activity_Sumo_WaterZone",
+  "descParam": [
    "15",
-   "1"
+   "1",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 4035175758,
+  "id": 23,
+  "iconNameHash": 11622511848834200166,
   "descTextMapHash": 3257423620
  },
  {
-  "id": 24,
-  "CEDPMADOGBL": 1491047606,
-  "GICMELKHIFE": 12221969747490847294,
-  "KLPDFMBBNLF": "Activity_Sumo_ExtraAttack_RandomDamage",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Activity_Sumo_ExtraAttack_RandomDamage",
+  "descParam": [
    "15",
-   "2"
+   "2",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 1491047606,
+  "id": 24,
+  "iconNameHash": 12221969747490847294,
   "descTextMapHash": 2017493076
  },
  {
-  "id": 25,
-  "CEDPMADOGBL": 1997488150,
-  "GICMELKHIFE": 15821997080499207973,
-  "KLPDFMBBNLF": "Activity_Sumo3_ElementAddHurt_Fire",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Activity_Sumo3_ElementAddHurt_Fire",
+  "descParam": [
    "25",
-   "60"
+   "60",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 1997488150,
+  "id": 25,
+  "iconNameHash": 15821997080499207973,
   "descTextMapHash": 1514081844
  },
  {
-  "id": 26,
-  "CEDPMADOGBL": 3297364062,
-  "GICMELKHIFE": 14735375204110695743,
-  "KLPDFMBBNLF": "Activity_Sumo3_ElementAddHurt_Ice",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Activity_Sumo3_ElementAddHurt_Ice",
+  "descParam": [
    "25",
-   "60"
+   "60",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 3297364062,
+  "id": 26,
+  "iconNameHash": 14735375204110695743,
   "descTextMapHash": 3771709692
  },
  {
-  "id": 27,
-  "CEDPMADOGBL": 2951995862,
-  "GICMELKHIFE": 425790897978303115,
-  "KLPDFMBBNLF": "Activity_Sumo3_ElementAddHurt_Elec",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Activity_Sumo3_ElementAddHurt_Elec",
+  "descParam": [
    "25",
-   "60"
+   "60",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 2951995862,
+  "id": 27,
+  "iconNameHash": 425790897978303115,
   "descTextMapHash": 1430748124
  },
  {
-  "id": 28,
-  "CEDPMADOGBL": 3808780534,
-  "GICMELKHIFE": 14789152789847720617,
-  "KLPDFMBBNLF": "Activity_Sumo3_ElementAddHurt_Rock",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Activity_Sumo3_ElementAddHurt_Rock",
+  "descParam": [
    "25",
-   "60"
+   "60",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 3808780534,
+  "id": 28,
+  "iconNameHash": 14789152789847720617,
   "descTextMapHash": 2925199316
  },
  {
-  "id": 29,
-  "CEDPMADOGBL": 1004542574,
-  "GICMELKHIFE": 15049067035676258835,
-  "KLPDFMBBNLF": "Activity_Sumo3_ElementAddHurt_Wind",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Activity_Sumo3_ElementAddHurt_Wind",
+  "descParam": [
    "25",
-   "60"
+   "60",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 1004542574,
+  "id": 29,
+  "iconNameHash": 15049067035676258835,
   "descTextMapHash": 802486684
  },
  {
-  "id": 30,
-  "CEDPMADOGBL": 2376908126,
-  "GICMELKHIFE": 17393781166196044832,
-  "KLPDFMBBNLF": "Activity_Sumo3_ElementAddHurt_Water",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Activity_Sumo3_ElementAddHurt_Water",
+  "descParam": [
    "25",
-   "60"
+   "60",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 2376908126,
+  "id": 30,
+  "iconNameHash": 17393781166196044832,
   "descTextMapHash": 48414340
  },
  {
-  "id": 31,
-  "CEDPMADOGBL": 789067502,
-  "GICMELKHIFE": 13325136151328437476,
-  "KLPDFMBBNLF": "Activity_Sumo_ElementAddHurt_Grass",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Activity_Sumo_ElementAddHurt_Grass",
+  "descParam": [
    "25",
-   "60"
+   "60",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 789067502,
+  "id": 31,
+  "iconNameHash": 13325136151328437476,
   "descTextMapHash": 321855228
  },
  {
-  "id": 32,
-  "CEDPMADOGBL": 1232014534,
-  "GICMELKHIFE": 3814943627391975191,
-  "KLPDFMBBNLF": "Activity_Sumo3_PhysicalAddHurt",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Activity_Sumo3_PhysicalAddHurt",
+  "descParam": [
    "25",
-   "60"
+   "60",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 1232014534,
+  "id": 32,
+  "iconNameHash": 3814943627391975191,
   "descTextMapHash": 2906237492
  },
  {
-  "id": 33,
-  "CEDPMADOGBL": 3309616598,
-  "GICMELKHIFE": 11690843226368023001,
-  "KLPDFMBBNLF": "Activity_Sumo3_CriticalHurtDelta",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Activity_Sumo3_CriticalHurtDelta",
+  "descParam": [
    "25",
-   "60"
+   "60",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 3309616598,
+  "id": 33,
+  "iconNameHash": 11690843226368023001,
   "descTextMapHash": 1590501556
  },
  {
-  "id": 34,
-  "CEDPMADOGBL": 2077704638,
-  "GICMELKHIFE": 13178587837713115643,
-  "KLPDFMBBNLF": "Activity_Sumo3_AtkUp",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Activity_Sumo3_AtkUp",
+  "descParam": [
    "25",
-   "60"
+   "60",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 2077704638,
+  "id": 34,
+  "iconNameHash": 13178587837713115643,
   "descTextMapHash": 2333808428
  },
  {
-  "id": 35,
-  "CEDPMADOGBL": 1627413182,
-  "GICMELKHIFE": 7606217870205712314,
-  "KLPDFMBBNLF": "Activity_Sumo3_ElemMasteryDelta",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Activity_Sumo3_ElemMasteryDelta",
+  "descParam": [
    "25",
-   "150"
+   "150",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 1627413182,
+  "id": 35,
+  "iconNameHash": 7606217870205712314,
   "descTextMapHash": 3981872620
  },
  {
-  "id": 36,
-  "CEDPMADOGBL": 3060874230,
-  "GICMELKHIFE": 533543077073722829,
-  "KLPDFMBBNLF": "Activity_Sumo_NormalAttack_DamageUp",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Activity_Sumo_NormalAttack_DamageUp",
+  "descParam": [
    "25",
-   "60"
+   "60",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 3060874230,
+  "id": 36,
+  "iconNameHash": 533543077073722829,
   "descTextMapHash": 3900811684
  },
  {
-  "id": 37,
-  "CEDPMADOGBL": 1535759230,
-  "GICMELKHIFE": 7357988886308253081,
-  "KLPDFMBBNLF": "Activity_Sumo3_MaxHPUp",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Activity_Sumo3_MaxHPUp",
+  "descParam": [
    "25",
-   "60"
+   "60",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 1535759230,
+  "id": 37,
+  "iconNameHash": 7357988886308253081,
   "descTextMapHash": 2424773044
  },
  {
-  "id": 38,
-  "CEDPMADOGBL": 2423698014,
-  "GICMELKHIFE": 737141629815195771,
-  "KLPDFMBBNLF": "Activity_Sumo3_ReviveEnergy",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Activity_Sumo3_ReviveEnergy",
+  "descParam": [
    "15",
    "3",
-   "6"
+   "6",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 2423698014,
+  "id": 38,
+  "iconNameHash": 737141629815195771,
   "descTextMapHash": 1009368580
  },
  {
-  "id": 39,
-  "CEDPMADOGBL": 578029974,
-  "GICMELKHIFE": 7739163468988286385,
-  "KLPDFMBBNLF": "Activity_Sumo3_Elemental_Burst",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Activity_Sumo3_Elemental_Burst",
+  "descParam": [
    "15",
    "30",
-   "50"
+   "50",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 578029974,
+  "id": 39,
+  "iconNameHash": 7739163468988286385,
   "descTextMapHash": 2844987692
  },
  {
-  "id": 40,
-  "CEDPMADOGBL": 3118310942,
-  "GICMELKHIFE": 8929148303215325736,
-  "KLPDFMBBNLF": "Activity_Sumo3_Elemental_Burst_Skill",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Activity_Sumo3_Elemental_Burst_Skill",
+  "descParam": [
    "15",
-   "80"
+   "80",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 3118310942,
+  "id": 40,
+  "iconNameHash": 8929148303215325736,
   "descTextMapHash": 3056872500
  },
  {
-  "id": 41,
-  "CEDPMADOGBL": 965805910,
-  "GICMELKHIFE": 255960468481214892,
-  "KLPDFMBBNLF": "ActivityAbility_Sumo_OverGrowDamageLand_Impact",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "ActivityAbility_Sumo_OverGrowDamageLand_Impact",
+  "descParam": [
    "15",
-   "3"
+   "3",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 965805910,
+  "id": 41,
+  "iconNameHash": 255960468481214892,
   "descTextMapHash": 2347205452
  },
  {
-  "id": 42,
-  "CEDPMADOGBL": 3403683718,
-  "GICMELKHIFE": 3664065590303091888,
-  "KLPDFMBBNLF": "ActivityAbility_Sumo_Overdose_ElementalSubHurtDown",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "ActivityAbility_Sumo_Overdose_ElementalSubHurtDown",
+  "descParam": [
    "15",
    "6",
-   "80"
+   "80",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 3403683718,
+  "id": 42,
+  "iconNameHash": 3664065590303091888,
   "descTextMapHash": 29673596
  },
  {
-  "id": 43,
-  "CEDPMADOGBL": 473751398,
-  "GICMELKHIFE": 6249476504898250471,
-  "KLPDFMBBNLF": "ActivityAbility_Sumo_Burning_ElementalSubHurtDown",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "ActivityAbility_Sumo_Burning_ElementalSubHurtDown",
+  "descParam": [
    "15",
    "6",
-   "80"
+   "80",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 473751398,
+  "id": 43,
+  "iconNameHash": 6249476504898250471,
   "descTextMapHash": 1642160020
  },
  {
-  "id": 44,
-  "CEDPMADOGBL": 1071164302,
-  "GICMELKHIFE": 10143296881809658598,
-  "KLPDFMBBNLF": "ActivityAbility_Sumo_NormalAttackLand_ReviveEnergy",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "ActivityAbility_Sumo_NormalAttackLand_ReviveEnergy",
+  "descParam": [
    "15",
    "3",
-   "1"
+   "1",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 1071164302,
+  "id": 44,
+  "iconNameHash": 10143296881809658598,
   "descTextMapHash": 127005724
  },
  {
-  "id": 45,
-  "CEDPMADOGBL": 1393738950,
-  "GICMELKHIFE": 2988574355035144474,
-  "KLPDFMBBNLF": "ActivityAbility_Sumo_SwirlReact_GenerateEnergyBall",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "ActivityAbility_Sumo_SwirlReact_GenerateEnergyBall",
+  "descParam": [
    "15",
    "2",
    "2",
-   "2"
+   "2",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 1393738950,
+  "id": 45,
+  "iconNameHash": 2988574355035144474,
   "descTextMapHash": 784567820
  },
  {
-  "id": 46,
-  "CEDPMADOGBL": 1337682742,
-  "GICMELKHIFE": 2357243825355710143,
-  "KLPDFMBBNLF": "Activity_Sumo_ExtraAttack2",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Activity_Sumo_ExtraAttack2",
+  "descParam": [
    "15",
-   "80"
+   "80",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 1337682742,
+  "id": 46,
+  "iconNameHash": 2357243825355710143,
   "descTextMapHash": 2010472836
  },
  {
-  "id": 47,
-  "CEDPMADOGBL": 79570742,
-  "GICMELKHIFE": 16569355042025720392,
-  "KLPDFMBBNLF": "Activity_Sumo3_ReviveEnergyOnce_GainEnergyBall_DamageUp",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "Activity_Sumo3_ReviveEnergyOnce_GainEnergyBall_DamageUp",
+  "descParam": [
    "15",
    "80",
-   "6"
+   "6",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 79570742,
+  "id": 47,
+  "iconNameHash": 16569355042025720392,
   "descTextMapHash": 1571251900
  },
  {
-  "id": 48,
-  "CEDPMADOGBL": 1644623998,
-  "GICMELKHIFE": 12374855883624170870,
-  "KLPDFMBBNLF": "ActivityAbility_Sumo_ElemDamageLand_DamageUp",
-  "NEDGAOAGHHD": [
+  "abilityGroupName": "ActivityAbility_Sumo_ElemDamageLand_DamageUp",
+  "descParam": [
    "15",
    "80",
-   "6"
+   "6",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 1644623998,
+  "id": 48,
+  "iconNameHash": 12374855883624170870,
   "descTextMapHash": 179163636
  },
  {
-  "id": 49,
-  "CEDPMADOGBL": 186646102,
-  "GICMELKHIFE": 8565506901908395740,
-  "KLPDFMBBNLF": "Activity_Sumo_OverGrowSeed_Plus",
-  "NEDGAOAGHHD": [
-   "15"
+  "abilityGroupName": "Activity_Sumo_OverGrowSeed_Plus",
+  "descParam": [
+   "15",
+   "",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
   ],
+  "titleTextMapHash": 186646102,
+  "id": 49,
+  "iconNameHash": 8565506901908395740,
   "descTextMapHash": 2916581484
  }
 ]

@@ -1,12 +1,13 @@
 [
  {
+  "buffList": [],
   "maxLevel": 5,
-  "chainId": 100001,
-  "POMFFFIDDKM": 2
+  "isAllowLuaRevise": false,
+  "initLevel": 2,
+  "chainId": 100001
  },
  {
-  "maxLevel": 15,
-  "EBJAJBNPCPI": [
+  "buffList": [
    500301,
    500302,
    500303,
@@ -23,41 +24,58 @@
    500314,
    500315
   ],
-  "chainId": 100002,
-  "POMFFFIDDKM": 1
+  "maxLevel": 15,
+  "isAllowLuaRevise": false,
+  "initLevel": 1,
+  "chainId": 100002
  },
  {
+  "buffList": [],
   "maxLevel": 10,
+  "isAllowLuaRevise": false,
+  "initLevel": 0,
   "chainId": 100003
  },
  {
+  "buffList": [],
   "maxLevel": 5,
-  "chainId": 100004,
-  "NIBFPHDKAHF": true
+  "isAllowLuaRevise": true,
+  "initLevel": 0,
+  "chainId": 100004
  },
  {
+  "buffList": [],
   "maxLevel": 6,
-  "chainId": 100005,
-  "NIBFPHDKAHF": true
+  "isAllowLuaRevise": true,
+  "initLevel": 0,
+  "chainId": 100005
  },
  {
+  "buffList": [],
   "maxLevel": 1,
-  "chainId": 100006,
-  "NIBFPHDKAHF": true
+  "isAllowLuaRevise": true,
+  "initLevel": 0,
+  "chainId": 100006
  },
  {
+  "buffList": [],
   "maxLevel": 1,
-  "chainId": 100007,
-  "NIBFPHDKAHF": true
+  "isAllowLuaRevise": true,
+  "initLevel": 0,
+  "chainId": 100007
  },
  {
+  "buffList": [],
   "maxLevel": 6,
-  "chainId": 100008,
-  "NIBFPHDKAHF": true
+  "isAllowLuaRevise": true,
+  "initLevel": 0,
+  "chainId": 100008
  },
  {
+  "buffList": [],
   "maxLevel": 3,
-  "chainId": 100009,
-  "NIBFPHDKAHF": true
+  "isAllowLuaRevise": true,
+  "initLevel": 0,
+  "chainId": 100009
  }
 ]

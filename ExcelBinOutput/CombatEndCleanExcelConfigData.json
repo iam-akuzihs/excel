@@ -1,161 +1,212 @@
 [
  {
+  "modifierTags": [
+   "Corruption",
+   "None",
+   "None"
+  ],
+  "teamAbilities": [
+   "LevelEntity_ClearLocalGadgets",
+   "",
+   ""
+  ],
   "id": 1,
-  "GOGMNFEOAJH": [
-   "LevelEntity_ClearLocalGadgets"
-  ],
-  "HEALENLFPFE": [
+  "combatEndType": "COMBAT_END_TOWER_HALF_LEVEL_END"
+ },
+ {
+  "modifierTags": [
    "Corruption",
    "None",
    "None"
   ],
-  "KGJPFBGIJFI": "COMBAT_END_TOWER_HALF_LEVEL_END"
- },
- {
+  "teamAbilities": [
+   "",
+   "",
+   ""
+  ],
   "id": 2,
-  "HEALENLFPFE": [
+  "combatEndType": "COMBAT_END_TOWER_LEVEL_END"
+ },
+ {
+  "modifierTags": [
    "Corruption",
    "None",
    "None"
   ],
-  "KGJPFBGIJFI": "COMBAT_END_TOWER_LEVEL_END"
- },
- {
+  "teamAbilities": [
+   "",
+   "",
+   ""
+  ],
   "id": 3,
-  "HEALENLFPFE": [
+  "combatEndType": "COMBAT_END_DUNGEON_SETTLE"
+ },
+ {
+  "modifierTags": [
    "Corruption",
    "None",
    "None"
   ],
-  "KGJPFBGIJFI": "COMBAT_END_DUNGEON_SETTLE"
- },
- {
+  "teamAbilities": [
+   "",
+   "",
+   ""
+  ],
   "id": 4,
-  "HEALENLFPFE": [
+  "combatEndType": "COMBAT_END_CRYSTAL_LINK_HALF_LEVEL_END"
+ },
+ {
+  "modifierTags": [
    "Corruption",
    "None",
    "None"
   ],
-  "KGJPFBGIJFI": "COMBAT_END_CRYSTAL_LINK_HALF_LEVEL_END"
- },
- {
+  "teamAbilities": [
+   "",
+   "",
+   ""
+  ],
   "id": 5,
-  "HEALENLFPFE": [
+  "combatEndType": "COMBAT_END_TEAMCHAIN_ROOM_END"
+ },
+ {
+  "modifierTags": [
    "Corruption",
    "None",
    "None"
   ],
-  "KGJPFBGIJFI": "COMBAT_END_TEAMCHAIN_ROOM_END"
- },
- {
+  "teamAbilities": [
+   "",
+   "",
+   ""
+  ],
   "id": 6,
-  "HEALENLFPFE": [
+  "combatEndType": "COMBAT_END_ROLLER_COASTER_START"
+ },
+ {
+  "modifierTags": [
    "Corruption",
    "None",
    "None"
   ],
-  "KGJPFBGIJFI": "COMBAT_END_ROLLER_COASTER_START"
- },
- {
+  "teamAbilities": [
+   "",
+   "",
+   ""
+  ],
   "id": 7,
-  "HEALENLFPFE": [
+  "combatEndType": "COMBAT_END_QUICK_TIME_COMBAT_ROUND_END"
+ },
+ {
+  "modifierTags": [
    "Corruption",
    "None",
    "None"
   ],
-  "KGJPFBGIJFI": "COMBAT_END_QUICK_TIME_COMBAT_ROUND_END"
- },
- {
+  "teamAbilities": [
+   "",
+   "",
+   ""
+  ],
   "id": 8,
-  "HEALENLFPFE": [
+  "combatEndType": "COMBAT_END_GOAL_CHALLENGE_ROUND_END"
+ },
+ {
+  "modifierTags": [
    "Corruption",
    "None",
    "None"
   ],
-  "KGJPFBGIJFI": "COMBAT_END_GOAL_CHALLENGE_ROUND_END"
- },
- {
+  "teamAbilities": [
+   "LevelEntity_ClearLocalGadgets",
+   "",
+   ""
+  ],
   "id": 9,
-  "GOGMNFEOAJH": [
-   "LevelEntity_ClearLocalGadgets"
-  ],
-  "HEALENLFPFE": [
+  "combatEndType": "COMBAT_END_STAMINA_FIGHT_ROUND_END"
+ },
+ {
+  "modifierTags": [
    "Corruption",
    "None",
    "None"
   ],
-  "KGJPFBGIJFI": "COMBAT_END_STAMINA_FIGHT_ROUND_END"
- },
- {
+  "teamAbilities": [
+   "LevelEntity_ClearLocalGadgets",
+   "",
+   ""
+  ],
   "id": 10,
-  "GOGMNFEOAJH": [
-   "LevelEntity_ClearLocalGadgets"
-  ],
-  "HEALENLFPFE": [
+  "combatEndType": "COMBAT_END_RECHARGE_DISK_ROUND_END"
+ },
+ {
+  "modifierTags": [
    "Corruption",
    "None",
    "None"
   ],
-  "KGJPFBGIJFI": "COMBAT_END_RECHARGE_DISK_ROUND_END"
- },
- {
+  "teamAbilities": [
+   "LevelEntity_ClearLocalGadgets",
+   "",
+   ""
+  ],
   "id": 11,
-  "GOGMNFEOAJH": [
-   "LevelEntity_ClearLocalGadgets"
-  ],
-  "HEALENLFPFE": [
+  "combatEndType": "COMBAT_END_FAIRY_TALES_COMBAT_ROUND_END"
+ },
+ {
+  "modifierTags": [
    "Corruption",
    "None",
    "None"
   ],
-  "KGJPFBGIJFI": "COMBAT_END_FAIRY_TALES_COMBAT_ROUND_END"
- },
- {
+  "teamAbilities": [
+   "LevelEntity_ClearLocalGadgets",
+   "",
+   ""
+  ],
   "id": 12,
-  "GOGMNFEOAJH": [
-   "LevelEntity_ClearLocalGadgets"
-  ],
-  "HEALENLFPFE": [
+  "combatEndType": "COMBAT_END_GAIN_BUFF_COMBAT_ROUND_END"
+ },
+ {
+  "modifierTags": [
    "Corruption",
    "None",
    "None"
   ],
-  "KGJPFBGIJFI": "COMBAT_END_GAIN_BUFF_COMBAT_ROUND_END"
- },
- {
+  "teamAbilities": [
+   "LevelEntity_ClearLocalGadgets",
+   "",
+   ""
+  ],
   "id": 13,
-  "GOGMNFEOAJH": [
-   "LevelEntity_ClearLocalGadgets"
-  ],
-  "HEALENLFPFE": [
+  "combatEndType": "COMBAT_END_MONSTER_CHESS_COMBAT_ROUND_END"
+ },
+ {
+  "modifierTags": [
    "Corruption",
    "None",
    "None"
   ],
-  "KGJPFBGIJFI": "COMBAT_END_MONSTER_CHESS_COMBAT_ROUND_END"
- },
- {
+  "teamAbilities": [
+   "LevelEntity_ClearLocalGadgets",
+   "",
+   ""
+  ],
   "id": 14,
-  "GOGMNFEOAJH": [
-   "LevelEntity_ClearLocalGadgets"
-  ],
-  "HEALENLFPFE": [
-   "Corruption",
-   "None",
-   "None"
-  ],
-  "KGJPFBGIJFI": "COMBAT_END_ARENA_CHALLENGE_V5_LEVEL_END"
+  "combatEndType": "COMBAT_END_ARENA_CHALLENGE_V5_LEVEL_END"
  },
  {
-  "id": 15,
-  "GOGMNFEOAJH": [
-   "LevelEntity_ClearLocalGadgets_WithOutWhiteList"
-  ],
-  "HEALENLFPFE": [
+  "modifierTags": [
    "Corruption",
    "None",
    "None"
   ],
-  "KGJPFBGIJFI": "COMBAT_END_NATLAN_ARENA_BUFF_END"
+  "teamAbilities": [
+   "LevelEntity_ClearLocalGadgets_WithOutWhiteList",
+   "",
+   ""
+  ],
+  "id": 15,
+  "combatEndType": "COMBAT_END_NATLAN_ARENA_BUFF_END"
  }
 ]

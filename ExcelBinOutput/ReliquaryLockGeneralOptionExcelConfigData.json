@@ -1,6 +1,5 @@
 [
  {
-  "id": 1,
   "ELMBHCBEPCD": [
    30,
    40,
@@ -12,41 +11,44 @@
    46
   ],
   "equipType": "EQUIP_RING",
+  "id": 1,
   "PGFKNMNBCBL": "GENERAL_LOCK"
  },
  {
-  "id": 2,
   "ELMBHCBEPCD": [
    20
   ],
   "equipType": "EQUIP_DRESS",
+  "id": 2,
   "PGFKNMNBCBL": "GENERAL_LOCK"
  },
  {
-  "id": 3,
   "ELMBHCBEPCD": [
    22
   ],
   "equipType": "EQUIP_DRESS",
+  "id": 3,
   "PGFKNMNBCBL": "GENERAL_LOCK"
  },
  {
-  "id": 4,
+  "ELMBHCBEPCD": [],
   "equipType": "EQUIP_NONE",
+  "id": 4,
   "PGFKNMNBCBL": "APPEND_FIGHT_PROP_PRECISE_LOCK"
  },
  {
-  "id": 5,
   "ELMBHCBEPCD": [
    20,
    22
   ],
   "equipType": "EQUIP_NONE",
+  "id": 5,
   "PGFKNMNBCBL": "ANY_EQUIP_TYPE_ADD_PROP_GENERAL_LOCK"
  },
  {
-  "id": 6,
+  "ELMBHCBEPCD": [],
   "equipType": "EQUIP_NONE",
+  "id": 6,
   "PGFKNMNBCBL": "DEFAULT_SCHEME_DISABLE_SWITCH"
  }
 ]

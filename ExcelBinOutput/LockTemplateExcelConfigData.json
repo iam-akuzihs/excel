@@ -1,40 +1,44 @@
 [
  {
   "type": "Default",
-  "LHAICCFKPJM": 0.01
+  "combatPri": 0,
+  "normalPri": 0,
+  "range": 0.01
  },
  {
   "type": "Gadget_Lv1",
-  "DLCKFPEEJOP": 0.3,
-  "LHAICCFKPJM": 2
+  "combatPri": 0,
+  "normalPri": 0.3,
+  "range": 2
  },
  {
   "type": "Animal_Lv2",
-  "DLCKFPEEJOP": 0.5,
-  "LHAICCFKPJM": 3
+  "combatPri": 0,
+  "normalPri": 0.5,
+  "range": 3
  },
  {
-  "BADODNLFONI": 0.8,
   "type": "Gear_Lv3",
-  "DLCKFPEEJOP": 1,
-  "LHAICCFKPJM": 3
+  "combatPri": 0.8,
+  "normalPri": 1,
+  "range": 3
  },
  {
-  "BADODNLFONI": 1,
   "type": "Avatar&Monster_Lv4",
-  "DLCKFPEEJOP": 1,
-  "LHAICCFKPJM": -1
+  "combatPri": 1,
+  "normalPri": 1,
+  "range": -1
  },
  {
-  "BADODNLFONI": 1.5,
   "type": "Boss_Lv5",
-  "DLCKFPEEJOP": 1.5,
-  "LHAICCFKPJM": -1
+  "combatPri": 1.5,
+  "normalPri": 1.5,
+  "range": -1
  },
  {
-  "BADODNLFONI": 999,
   "type": "MaxFocusTarget_Lv6",
-  "DLCKFPEEJOP": 999,
-  "LHAICCFKPJM": -1
+  "combatPri": 999,
+  "normalPri": 999,
+  "range": -1
  }
 ]
