@@ -1,5 +1,17 @@
 [
  {
+  "aiCondList": [
+   {
+    "type": "ONSTAGE",
+    "value": 1
+   },
+   {}
+  ],
+  "aiTagList": [
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE"
+  ],
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -14,36 +26,33 @@
    {},
    {}
   ],
-  "tagList": [
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE"
-  ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1938774732,
-  "targetCamp": "FRIENDLY",
   "id": 101,
-  "CJILBMMNIHK": [
+  "selectIconType": "TALENT",
+  "sortList": [
    {
-    "type": "ONSTAGE",
-    "value": 1
-   },
-   {}
-  ],
-  "cardType": "GCG_CARD_CHARACTER",
-  "aiTagList": [
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE"
-  ],
-  "AMNBPNHMGKG": [
-   {
-    "BHDFEFEJOPK": true,
+    "larger": true,
     "type": "CHARACTER_ORDER"
    },
    {}
-  ]
+  ],
+  "tagList": [
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE"
+  ],
+  "targetCamp": "FRIENDLY",
+  "targetHintTextMapHash": 1938774732
  },
  {
+  "aiCondList": [
+   {},
+   {}
+  ],
+  "aiTagList": [
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE"
+  ],
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -58,73 +67,73 @@
    {},
    {}
   ],
+  "id": 102,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 2327303684,
   "targetCamp": "FRIENDLY",
-  "id": 102,
-  "CJILBMMNIHK": [
-   {},
-   {}
-  ],
-  "cardType": "GCG_CARD_CHARACTER",
-  "aiTagList": [
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE"
-  ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
+  "targetHintTextMapHash": 2327303684
  },
  {
-  "condList": [
-   {
-    "type": "IS_ALIVE_CHARACTER",
-    "value": 1
-   },
-   {
-    "type": "NOT_HAS_MODIFY_STATE",
-    "value": 303300
-   },
-   {},
-   {},
-   {},
-   {}
-  ],
-  "tagList": [
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE"
-  ],
-  "selectIconType": "HEALING",
-  "targetHintTextMapHash": 1150336948,
-  "targetCamp": "FRIENDLY",
-  "id": 103,
-  "CJILBMMNIHK": [
+  "aiCondList": [
    {
     "type": "CHARACTER_HURT_MIN",
     "value": 1
    },
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
+  "cardType": "GCG_CARD_CHARACTER",
+  "condList": [
+   {
+    "type": "IS_ALIVE_CHARACTER",
+    "value": 1
+   },
+   {
+    "type": "NOT_HAS_MODIFY_STATE",
+    "value": 303300
+   },
+   {},
+   {},
+   {},
+   {}
+  ],
+  "id": 103,
+  "selectIconType": "HEALING",
+  "sortList": [
    {
     "type": "HP"
    },
    {}
-  ]
+  ],
+  "tagList": [
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE"
+  ],
+  "targetCamp": "FRIENDLY",
+  "targetHintTextMapHash": 1150336948
  },
  {
+  "aiCondList": [
+   {},
+   {}
+  ],
+  "aiTagList": [
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE"
+  ],
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -138,30 +147,30 @@
    {},
    {}
   ],
+  "id": 104,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 408186852,
   "targetCamp": "FRIENDLY",
-  "id": 104,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 408186852
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER"
@@ -172,54 +181,22 @@
    {},
    {}
   ],
+  "id": 105,
+  "selectIconType": "HEALING",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "HEALING",
-  "targetHintTextMapHash": 2365195908,
   "targetCamp": "FRIENDLY",
-  "id": 105,
-  "CJILBMMNIHK": [
-   {},
-   {}
-  ],
-  "cardType": "GCG_CARD_CHARACTER",
-  "aiTagList": [
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE"
-  ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
+  "targetHintTextMapHash": 2365195908
  },
  {
-  "condList": [
-   {
-    "type": "IS_ALIVE_CHARACTER",
-    "value": 1
-   },
-   {
-    "type": "ONSTAGE",
-    "value": 1
-   },
-   {},
-   {},
-   {},
-   {}
-  ],
-  "tagList": [
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE"
-  ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 4178679524,
-  "targetCamp": "FRIENDLY",
-  "id": 106,
-  "CJILBMMNIHK": [
+  "aiCondList": [
    {
     "type": "CHARACTER_NOT_CHARGED_MIN",
     "value": 1
@@ -229,17 +206,11 @@
     "value": 1
    }
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -254,16 +225,22 @@
    {},
    {}
   ],
+  "id": 106,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1018474292,
   "targetCamp": "FRIENDLY",
-  "id": 107,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 4178679524
+ },
+ {
+  "aiCondList": [
    {
     "type": "CHARACTER_NOT_CHARGED_MIN",
     "value": 1
@@ -273,17 +250,49 @@
     "value": 2
    }
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
+  "cardType": "GCG_CARD_CHARACTER",
+  "condList": [
+   {
+    "type": "IS_ALIVE_CHARACTER",
+    "value": 1
+   },
+   {
+    "type": "ONSTAGE",
+    "value": 1
+   },
+   {},
+   {},
    {},
    {}
-  ]
+  ],
+  "id": 107,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
+  "tagList": [
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE"
+  ],
+  "targetCamp": "FRIENDLY",
+  "targetHintTextMapHash": 1018474292
  },
  {
+  "aiCondList": [
+   {},
+   {}
+  ],
+  "aiTagList": [
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE"
+  ],
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -301,30 +310,30 @@
    {},
    {}
   ],
+  "id": 108,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1315855148,
   "targetCamp": "FRIENDLY",
-  "id": 108,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1315855148
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -341,30 +350,30 @@
    {},
    {}
   ],
+  "id": 109,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 2474046180,
   "targetCamp": "FRIENDLY",
-  "id": 109,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 2474046180
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -376,33 +385,33 @@
    {},
    {}
   ],
-  "tagList": [
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE"
-  ],
-  "selectIconType": "RELIC",
-  "targetHintTextMapHash": 343151572,
-  "targetCamp": "FRIENDLY",
   "id": 110,
-  "CJILBMMNIHK": [
-   {},
-   {}
-  ],
-  "cardType": "GCG_CARD_CHARACTER",
-  "aiTagList": [
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE"
-  ],
-  "AMNBPNHMGKG": [
+  "selectIconType": "RELIC",
+  "sortList": [
    {
-    "BHDFEFEJOPK": true,
+    "larger": true,
     "type": "CHARACTER_ORDER"
    },
    {}
-  ]
+  ],
+  "tagList": [
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE"
+  ],
+  "targetCamp": "FRIENDLY",
+  "targetHintTextMapHash": 343151572
  },
  {
+  "aiCondList": [
+   {},
+   {}
+  ],
+  "aiTagList": [
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE"
+  ],
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -412,6 +421,15 @@
    {},
    {},
    {},
+   {}
+  ],
+  "id": 111,
+  "selectIconType": "WEAPON",
+  "sortList": [
+   {
+    "larger": true,
+    "type": "CHARACTER_ORDER"
+   },
    {}
   ],
   "tagList": [
@@ -419,28 +437,19 @@
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "WEAPON",
-  "targetHintTextMapHash": 3364577204,
   "targetCamp": "FRIENDLY",
-  "id": 111,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3364577204
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {
-    "BHDFEFEJOPK": true,
-    "type": "CHARACTER_ORDER"
-   },
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -450,6 +459,15 @@
    {},
    {},
    {},
+   {}
+  ],
+  "id": 112,
+  "selectIconType": "WEAPON",
+  "sortList": [
+   {
+    "larger": true,
+    "type": "CHARACTER_ORDER"
+   },
    {}
   ],
   "tagList": [
@@ -457,28 +475,19 @@
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "WEAPON",
-  "targetHintTextMapHash": 2633067100,
   "targetCamp": "FRIENDLY",
-  "id": 112,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 2633067100
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {
-    "BHDFEFEJOPK": true,
-    "type": "CHARACTER_ORDER"
-   },
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -488,6 +497,15 @@
    {},
    {},
    {},
+   {}
+  ],
+  "id": 113,
+  "selectIconType": "WEAPON",
+  "sortList": [
+   {
+    "larger": true,
+    "type": "CHARACTER_ORDER"
+   },
    {}
   ],
   "tagList": [
@@ -495,28 +513,19 @@
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "WEAPON",
-  "targetHintTextMapHash": 2360075052,
   "targetCamp": "FRIENDLY",
-  "id": 113,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 2360075052
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {
-    "BHDFEFEJOPK": true,
-    "type": "CHARACTER_ORDER"
-   },
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -526,6 +535,15 @@
    {},
    {},
    {},
+   {}
+  ],
+  "id": 114,
+  "selectIconType": "WEAPON",
+  "sortList": [
+   {
+    "larger": true,
+    "type": "CHARACTER_ORDER"
+   },
    {}
   ],
   "tagList": [
@@ -533,28 +551,19 @@
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "WEAPON",
-  "targetHintTextMapHash": 3688410948,
   "targetCamp": "FRIENDLY",
-  "id": 114,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3688410948
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {
-    "BHDFEFEJOPK": true,
-    "type": "CHARACTER_ORDER"
-   },
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -564,6 +573,15 @@
    {},
    {},
    {},
+   {}
+  ],
+  "id": 115,
+  "selectIconType": "WEAPON",
+  "sortList": [
+   {
+    "larger": true,
+    "type": "CHARACTER_ORDER"
+   },
    {}
   ],
   "tagList": [
@@ -571,70 +589,19 @@
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "WEAPON",
-  "targetHintTextMapHash": 4107010668,
   "targetCamp": "FRIENDLY",
-  "id": 115,
-  "CJILBMMNIHK": [
-   {},
-   {}
-  ],
-  "cardType": "GCG_CARD_CHARACTER",
-  "aiTagList": [
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE"
-  ],
-  "AMNBPNHMGKG": [
-   {
-    "BHDFEFEJOPK": true,
-    "type": "CHARACTER_ORDER"
-   },
-   {}
-  ]
+  "targetHintTextMapHash": 4107010668
  },
  {
-  "condList": [
-   {
-    "type": "IS_ALIVE_CHARACTER",
-    "value": 1
-   },
-   {},
-   {},
-   {},
+  "aiCondList": [
    {},
    {}
   ],
-  "tagList": [
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE"
-  ],
-  "selectIconType": "RELIC",
-  "targetHintTextMapHash": 1498887932,
-  "targetCamp": "FRIENDLY",
-  "id": 121,
-  "CJILBMMNIHK": [
-   {},
-   {}
-  ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_ELEMENT_CRYO",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {
-    "BHDFEFEJOPK": true,
-    "type": "HAS_TAG",
-    "tag": "GCG_TAG_ELEMENT_CRYO"
-   },
-   {
-    "BHDFEFEJOPK": true,
-    "type": "CHARACTER_ORDER"
-   }
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -646,37 +613,37 @@
    {},
    {}
   ],
+  "id": 121,
+  "selectIconType": "RELIC",
+  "sortList": [
+   {
+    "larger": true,
+    "tag": "GCG_TAG_ELEMENT_CRYO",
+    "type": "HAS_TAG"
+   },
+   {
+    "larger": true,
+    "type": "CHARACTER_ORDER"
+   }
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "RELIC",
-  "targetHintTextMapHash": 1901741724,
   "targetCamp": "FRIENDLY",
-  "id": 122,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1498887932
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_ELEMENT_HYDRO",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {
-    "BHDFEFEJOPK": true,
-    "type": "HAS_TAG",
-    "tag": "GCG_TAG_ELEMENT_HYDRO"
-   },
-   {
-    "BHDFEFEJOPK": true,
-    "type": "CHARACTER_ORDER"
-   }
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -688,37 +655,37 @@
    {},
    {}
   ],
+  "id": 122,
+  "selectIconType": "RELIC",
+  "sortList": [
+   {
+    "larger": true,
+    "tag": "GCG_TAG_ELEMENT_HYDRO",
+    "type": "HAS_TAG"
+   },
+   {
+    "larger": true,
+    "type": "CHARACTER_ORDER"
+   }
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "RELIC",
-  "targetHintTextMapHash": 4215313124,
   "targetCamp": "FRIENDLY",
-  "id": 123,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1901741724
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_ELEMENT_PYRO",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {
-    "BHDFEFEJOPK": true,
-    "type": "HAS_TAG",
-    "tag": "GCG_TAG_ELEMENT_PYRO"
-   },
-   {
-    "BHDFEFEJOPK": true,
-    "type": "CHARACTER_ORDER"
-   }
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -730,37 +697,37 @@
    {},
    {}
   ],
+  "id": 123,
+  "selectIconType": "RELIC",
+  "sortList": [
+   {
+    "larger": true,
+    "tag": "GCG_TAG_ELEMENT_PYRO",
+    "type": "HAS_TAG"
+   },
+   {
+    "larger": true,
+    "type": "CHARACTER_ORDER"
+   }
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "RELIC",
-  "targetHintTextMapHash": 1021508316,
   "targetCamp": "FRIENDLY",
-  "id": 124,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 4215313124
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_ELEMENT_ELECTRO",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {
-    "BHDFEFEJOPK": true,
-    "type": "HAS_TAG",
-    "tag": "GCG_TAG_ELEMENT_ELECTRO"
-   },
-   {
-    "BHDFEFEJOPK": true,
-    "type": "CHARACTER_ORDER"
-   }
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -772,37 +739,37 @@
    {},
    {}
   ],
+  "id": 124,
+  "selectIconType": "RELIC",
+  "sortList": [
+   {
+    "larger": true,
+    "tag": "GCG_TAG_ELEMENT_ELECTRO",
+    "type": "HAS_TAG"
+   },
+   {
+    "larger": true,
+    "type": "CHARACTER_ORDER"
+   }
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "RELIC",
-  "targetHintTextMapHash": 2144581372,
   "targetCamp": "FRIENDLY",
-  "id": 125,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1021508316
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_ELEMENT_ANEMO",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {
-    "BHDFEFEJOPK": true,
-    "type": "HAS_TAG",
-    "tag": "GCG_TAG_ELEMENT_ANEMO"
-   },
-   {
-    "BHDFEFEJOPK": true,
-    "type": "CHARACTER_ORDER"
-   }
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -814,37 +781,37 @@
    {},
    {}
   ],
+  "id": 125,
+  "selectIconType": "RELIC",
+  "sortList": [
+   {
+    "larger": true,
+    "tag": "GCG_TAG_ELEMENT_ANEMO",
+    "type": "HAS_TAG"
+   },
+   {
+    "larger": true,
+    "type": "CHARACTER_ORDER"
+   }
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "RELIC",
-  "targetHintTextMapHash": 3052576724,
   "targetCamp": "FRIENDLY",
-  "id": 126,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 2144581372
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_ELEMENT_GEO",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {
-    "BHDFEFEJOPK": true,
-    "type": "HAS_TAG",
-    "tag": "GCG_TAG_ELEMENT_GEO"
-   },
-   {
-    "BHDFEFEJOPK": true,
-    "type": "CHARACTER_ORDER"
-   }
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -856,37 +823,37 @@
    {},
    {}
   ],
+  "id": 126,
+  "selectIconType": "RELIC",
+  "sortList": [
+   {
+    "larger": true,
+    "tag": "GCG_TAG_ELEMENT_GEO",
+    "type": "HAS_TAG"
+   },
+   {
+    "larger": true,
+    "type": "CHARACTER_ORDER"
+   }
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "RELIC",
-  "targetHintTextMapHash": 882895748,
   "targetCamp": "FRIENDLY",
-  "id": 127,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3052576724
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_ELEMENT_DENDRO",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {
-    "BHDFEFEJOPK": true,
-    "type": "HAS_TAG",
-    "tag": "GCG_TAG_ELEMENT_DENDRO"
-   },
-   {
-    "BHDFEFEJOPK": true,
-    "type": "CHARACTER_ORDER"
-   }
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -898,33 +865,37 @@
    {},
    {}
   ],
+  "id": 127,
+  "selectIconType": "RELIC",
+  "sortList": [
+   {
+    "larger": true,
+    "tag": "GCG_TAG_ELEMENT_DENDRO",
+    "type": "HAS_TAG"
+   },
+   {
+    "larger": true,
+    "type": "CHARACTER_ORDER"
+   }
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "RELIC",
-  "targetHintTextMapHash": 731872068,
   "targetCamp": "FRIENDLY",
-  "id": 128,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 882895748
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {
-    "BHDFEFEJOPK": true,
-    "type": "CHARACTER_ORDER"
-   },
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -936,36 +907,36 @@
    {},
    {}
   ],
+  "id": 128,
+  "selectIconType": "RELIC",
+  "sortList": [
+   {
+    "larger": true,
+    "type": "CHARACTER_ORDER"
+   },
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1346888436,
   "targetCamp": "FRIENDLY",
-  "id": 129,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 731872068
+ },
+ {
+  "aiCondList": [
    {
     "type": "ONSTAGE",
     "value": 1
    },
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {
-    "BHDFEFEJOPK": true,
-    "type": "CHARACTER_ORDER"
-   },
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -975,6 +946,53 @@
    {},
    {},
    {},
+   {}
+  ],
+  "id": 129,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {
+    "larger": true,
+    "type": "CHARACTER_ORDER"
+   },
+   {}
+  ],
+  "tagList": [
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE"
+  ],
+  "targetCamp": "FRIENDLY",
+  "targetHintTextMapHash": 1346888436
+ },
+ {
+  "aiCondList": [
+   {},
+   {}
+  ],
+  "aiTagList": [
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE"
+  ],
+  "cardType": "GCG_CARD_CHARACTER",
+  "condList": [
+   {
+    "type": "IS_ALIVE_CHARACTER",
+    "value": 1
+   },
+   {},
+   {},
+   {},
+   {},
+   {}
+  ],
+  "id": 130,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {
+    "larger": true,
+    "type": "CHARACTER_ORDER"
+   },
    {}
   ],
   "tagList": [
@@ -982,28 +1000,19 @@
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1678490396,
   "targetCamp": "FRIENDLY",
-  "id": 130,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1678490396
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {
-    "BHDFEFEJOPK": true,
-    "type": "CHARACTER_ORDER"
-   },
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -1021,35 +1030,35 @@
    {},
    {}
   ],
+  "id": 151,
+  "sortList": [
+   {
+    "larger": true,
+    "type": "HP"
+   },
+   {
+    "larger": true,
+    "type": "CHARACTER_ORDER"
+   }
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "targetHintTextMapHash": 3784010468,
   "targetCamp": "FRIENDLY",
-  "id": 151,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3784010468
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {
-    "BHDFEFEJOPK": true,
-    "type": "HP"
-   },
-   {
-    "BHDFEFEJOPK": true,
-    "type": "CHARACTER_ORDER"
-   }
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -1064,36 +1073,36 @@
    {},
    {}
   ],
+  "id": 152,
+  "selectIconType": "WEAPON",
+  "sortList": [
+   {
+    "larger": true,
+    "type": "HP"
+   },
+   {
+    "larger": true,
+    "type": "CHARACTER_ORDER"
+   }
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "WEAPON",
-  "targetHintTextMapHash": 2524649340,
   "targetCamp": "FRIENDLY",
-  "id": 152,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 2524649340
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {
-    "BHDFEFEJOPK": true,
-    "type": "HP"
-   },
-   {
-    "BHDFEFEJOPK": true,
-    "type": "CHARACTER_ORDER"
-   }
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -1111,35 +1120,35 @@
    {},
    {}
   ],
+  "id": 153,
+  "sortList": [
+   {
+    "larger": true,
+    "type": "HP"
+   },
+   {
+    "larger": true,
+    "type": "CHARACTER_ORDER"
+   }
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "targetHintTextMapHash": 2511339284,
   "targetCamp": "FRIENDLY",
-  "id": 153,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 2511339284
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {
-    "BHDFEFEJOPK": true,
-    "type": "HP"
-   },
-   {
-    "BHDFEFEJOPK": true,
-    "type": "CHARACTER_ORDER"
-   }
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -1151,36 +1160,36 @@
    {},
    {}
   ],
+  "id": 154,
+  "selectIconType": "RELIC",
+  "sortList": [
+   {
+    "larger": true,
+    "type": "HP"
+   },
+   {
+    "larger": true,
+    "type": "CHARACTER_ORDER"
+   }
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "RELIC",
-  "targetHintTextMapHash": 527777572,
   "targetCamp": "FRIENDLY",
-  "id": 154,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 527777572
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {
-    "BHDFEFEJOPK": true,
-    "type": "HP"
-   },
-   {
-    "BHDFEFEJOPK": true,
-    "type": "CHARACTER_ORDER"
-   }
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -1195,36 +1204,36 @@
    {},
    {}
   ],
+  "id": 155,
+  "selectIconType": "WEAPON",
+  "sortList": [
+   {
+    "larger": true,
+    "type": "HP"
+   },
+   {
+    "larger": true,
+    "type": "CHARACTER_ORDER"
+   }
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "WEAPON",
-  "targetHintTextMapHash": 586224452,
   "targetCamp": "FRIENDLY",
-  "id": 155,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 586224452
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {
-    "BHDFEFEJOPK": true,
-    "type": "HP"
-   },
-   {
-    "BHDFEFEJOPK": true,
-    "type": "CHARACTER_ORDER"
-   }
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -1239,74 +1248,36 @@
    {},
    {}
   ],
-  "tagList": [
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE"
-  ],
-  "selectIconType": "RELIC",
-  "targetHintTextMapHash": 733398852,
-  "targetCamp": "FRIENDLY",
   "id": 156,
-  "CJILBMMNIHK": [
-   {},
-   {}
-  ],
-  "cardType": "GCG_CARD_CHARACTER",
-  "aiTagList": [
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE"
-  ],
-  "AMNBPNHMGKG": [
+  "selectIconType": "RELIC",
+  "sortList": [
    {
-    "BHDFEFEJOPK": true,
+    "larger": true,
     "type": "HP"
    },
    {
-    "BHDFEFEJOPK": true,
+    "larger": true,
     "type": "CHARACTER_ORDER"
    }
-  ]
- },
- {
-  "condList": [
-   {
-    "type": "IS_ALIVE_CHARACTER",
-    "value": 1
-   },
-   {},
-   {},
-   {},
-   {},
-   {}
   ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "RELIC",
-  "targetHintTextMapHash": 2286192324,
   "targetCamp": "FRIENDLY",
-  "id": 157,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 733398852
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {
-    "BHDFEFEJOPK": true,
-    "type": "CHARACTER_ORDER"
-   },
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -1318,33 +1289,71 @@
    {},
    {}
   ],
+  "id": 157,
+  "selectIconType": "RELIC",
+  "sortList": [
+   {
+    "larger": true,
+    "type": "CHARACTER_ORDER"
+   },
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "RELIC",
-  "targetHintTextMapHash": 519509620,
-  "targetCamp": "ENEMY",
-  "id": 158,
-  "CJILBMMNIHK": [
+  "targetCamp": "FRIENDLY",
+  "targetHintTextMapHash": 2286192324
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
+  "cardType": "GCG_CARD_CHARACTER",
+  "condList": [
    {
-    "BHDFEFEJOPK": true,
+    "type": "IS_ALIVE_CHARACTER",
+    "value": 1
+   },
+   {},
+   {},
+   {},
+   {},
+   {}
+  ],
+  "id": 158,
+  "selectIconType": "RELIC",
+  "sortList": [
+   {
+    "larger": true,
     "type": "CHARACTER_ORDER"
    },
    {}
-  ]
+  ],
+  "tagList": [
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE"
+  ],
+  "targetCamp": "ENEMY",
+  "targetHintTextMapHash": 519509620
  },
  {
+  "aiCondList": [
+   {},
+   {}
+  ],
+  "aiTagList": [
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE"
+  ],
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -1359,30 +1368,30 @@
    {},
    {}
   ],
+  "id": 159,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1621758876,
   "targetCamp": "ENEMY",
-  "id": 159,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1621758876
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -1397,31 +1406,31 @@
    {},
    {}
   ],
+  "id": 160,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3132081852,
   "targetCamp": "FRIENDLY",
-  "id": 160,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3132081852,
+  "EDHHGFAGEEC": "GCG_TAG_VEHICLE"
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "BFHIHIKBKLP": "GCG_TAG_VEHICLE",
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -1436,30 +1445,30 @@
    {},
    {}
   ],
+  "id": 161,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 634822548,
   "targetCamp": "FRIENDLY",
-  "id": 161,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 634822548
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -1474,30 +1483,30 @@
    {},
    {}
   ],
+  "id": 162,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1431765908,
   "targetCamp": "ENEMY",
-  "id": 162,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1431765908
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -1512,30 +1521,30 @@
    {},
    {}
   ],
+  "id": 163,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3203810900,
   "targetCamp": "ENEMY",
-  "id": 163,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3203810900
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -1550,30 +1559,30 @@
    {},
    {}
   ],
+  "id": 164,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3530628868,
   "targetCamp": "FRIENDLY",
-  "id": 164,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3530628868
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -1588,289 +1597,289 @@
    {},
    {}
   ],
+  "id": 165,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1430875028,
   "targetCamp": "FRIENDLY",
-  "id": 165,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1430875028
+ },
+ {
+  "aiCondList": [
    {},
    {}
+  ],
+  "aiTagList": [
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE"
+  ],
+  "cardType": "GCG_CARD_SUMMON",
+  "condList": [
+   {},
+   {},
+   {},
+   {},
+   {},
+   {}
+  ],
+  "id": 501,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {
+    "type": "TOKEN_TO_SHOW"
+   },
+   {
+    "larger": true,
+    "type": "CREATE_ORDER"
+   }
+  ],
+  "tagList": [
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE"
+  ],
+  "targetCamp": "FRIENDLY",
+  "targetHintTextMapHash": 1056180972
+ },
+ {
+  "aiCondList": [
+   {},
+   {}
+  ],
+  "aiTagList": [
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE"
+  ],
+  "cardType": "GCG_CARD_SUMMON",
+  "condList": [
+   {},
+   {},
+   {},
+   {},
+   {},
+   {}
+  ],
+  "id": 502,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {
+    "larger": true,
+    "type": "TOKEN_TO_SHOW"
+   },
+   {
+    "type": "CREATE_ORDER"
+   }
+  ],
+  "tagList": [
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE"
+  ],
+  "targetCamp": "ENEMY",
+  "targetHintTextMapHash": 2424549932
+ },
+ {
+  "aiCondList": [
+   {},
+   {}
+  ],
+  "aiTagList": [
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE"
+  ],
+  "cardType": "GCG_CARD_SUMMON",
+  "condList": [
+   {},
+   {},
+   {},
+   {},
+   {},
+   {}
+  ],
+  "id": 503,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {
+    "larger": true,
+    "type": "TOKEN_TO_SHOW"
+   },
+   {
+    "type": "CREATE_ORDER"
+   }
+  ],
+  "tagList": [
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE"
+  ],
+  "targetCamp": "ENEMY",
+  "targetHintTextMapHash": 1884474996
+ },
+ {
+  "aiCondList": [
+   {},
+   {}
+  ],
+  "aiTagList": [
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE"
+  ],
+  "cardType": "GCG_CARD_ASSIST",
+  "condList": [
+   {},
+   {},
+   {},
+   {},
+   {},
+   {}
+  ],
+  "id": 504,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {
+    "larger": true,
+    "type": "TOKEN_TO_SHOW"
+   },
+   {
+    "type": "CREATE_ORDER"
+   }
+  ],
+  "tagList": [
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE"
+  ],
+  "targetCamp": "FRIENDLY",
+  "targetHintTextMapHash": 2968401428
+ },
+ {
+  "aiCondList": [
+   {},
+   {}
+  ],
+  "aiTagList": [
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE"
+  ],
+  "cardType": "GCG_CARD_ASSIST",
+  "condList": [
+   {},
+   {},
+   {},
+   {},
+   {},
+   {}
+  ],
+  "id": 505,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {
+    "larger": true,
+    "type": "TOKEN_TO_SHOW"
+   },
+   {
+    "type": "CREATE_ORDER"
+   }
+  ],
+  "tagList": [
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE"
+  ],
+  "targetCamp": "ENEMY",
+  "targetHintTextMapHash": 98436004
+ },
+ {
+  "aiCondList": [
+   {},
+   {}
+  ],
+  "aiTagList": [
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE"
+  ],
+  "cardType": "GCG_CARD_SUMMON",
+  "condList": [
+   {},
+   {},
+   {},
+   {},
+   {},
+   {}
+  ],
+  "id": 506,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {
+    "larger": true,
+    "type": "TOKEN_TO_SHOW"
+   },
+   {
+    "type": "CREATE_ORDER"
+   }
+  ],
+  "tagList": [
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE"
+  ],
+  "targetCamp": "FRIENDLY",
+  "targetHintTextMapHash": 3544363580
+ },
+ {
+  "aiCondList": [
+   {},
+   {}
+  ],
+  "aiTagList": [
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE"
+  ],
+  "cardType": "GCG_CARD_SUMMON",
+  "condList": [
+   {},
+   {},
+   {},
+   {},
+   {},
+   {}
+  ],
+  "id": 507,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {
+    "larger": true,
+    "type": "TOKEN_TO_SHOW"
+   },
+   {
+    "type": "CREATE_ORDER"
+   }
+  ],
+  "tagList": [
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE"
+  ],
+  "targetCamp": "FRIENDLY",
+  "targetHintTextMapHash": 3980873556
+ },
+ {
+  "aiCondList": [
+   {},
+   {}
+  ],
+  "aiTagList": [
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE"
   ],
   "cardType": "GCG_CARD_CHARACTER",
-  "aiTagList": [
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE"
-  ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
-  "condList": [
-   {},
-   {},
-   {},
-   {},
-   {},
-   {}
-  ],
-  "tagList": [
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE"
-  ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1056180972,
-  "targetCamp": "FRIENDLY",
-  "id": 501,
-  "CJILBMMNIHK": [
-   {},
-   {}
-  ],
-  "cardType": "GCG_CARD_SUMMON",
-  "aiTagList": [
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE"
-  ],
-  "AMNBPNHMGKG": [
-   {
-    "type": "TOKEN_TO_SHOW"
-   },
-   {
-    "BHDFEFEJOPK": true,
-    "type": "CREATE_ORDER"
-   }
-  ]
- },
- {
-  "condList": [
-   {},
-   {},
-   {},
-   {},
-   {},
-   {}
-  ],
-  "tagList": [
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE"
-  ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 2424549932,
-  "targetCamp": "ENEMY",
-  "id": 502,
-  "CJILBMMNIHK": [
-   {},
-   {}
-  ],
-  "cardType": "GCG_CARD_SUMMON",
-  "aiTagList": [
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE"
-  ],
-  "AMNBPNHMGKG": [
-   {
-    "BHDFEFEJOPK": true,
-    "type": "TOKEN_TO_SHOW"
-   },
-   {
-    "type": "CREATE_ORDER"
-   }
-  ]
- },
- {
-  "condList": [
-   {},
-   {},
-   {},
-   {},
-   {},
-   {}
-  ],
-  "tagList": [
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE"
-  ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1884474996,
-  "targetCamp": "ENEMY",
-  "id": 503,
-  "CJILBMMNIHK": [
-   {},
-   {}
-  ],
-  "cardType": "GCG_CARD_SUMMON",
-  "aiTagList": [
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE"
-  ],
-  "AMNBPNHMGKG": [
-   {
-    "BHDFEFEJOPK": true,
-    "type": "TOKEN_TO_SHOW"
-   },
-   {
-    "type": "CREATE_ORDER"
-   }
-  ]
- },
- {
-  "condList": [
-   {},
-   {},
-   {},
-   {},
-   {},
-   {}
-  ],
-  "tagList": [
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE"
-  ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 2968401428,
-  "targetCamp": "FRIENDLY",
-  "id": 504,
-  "CJILBMMNIHK": [
-   {},
-   {}
-  ],
-  "cardType": "GCG_CARD_ASSIST",
-  "aiTagList": [
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE"
-  ],
-  "AMNBPNHMGKG": [
-   {
-    "BHDFEFEJOPK": true,
-    "type": "TOKEN_TO_SHOW"
-   },
-   {
-    "type": "CREATE_ORDER"
-   }
-  ]
- },
- {
-  "condList": [
-   {},
-   {},
-   {},
-   {},
-   {},
-   {}
-  ],
-  "tagList": [
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE"
-  ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 98436004,
-  "targetCamp": "ENEMY",
-  "id": 505,
-  "CJILBMMNIHK": [
-   {},
-   {}
-  ],
-  "cardType": "GCG_CARD_ASSIST",
-  "aiTagList": [
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE"
-  ],
-  "AMNBPNHMGKG": [
-   {
-    "BHDFEFEJOPK": true,
-    "type": "TOKEN_TO_SHOW"
-   },
-   {
-    "type": "CREATE_ORDER"
-   }
-  ]
- },
- {
-  "condList": [
-   {},
-   {},
-   {},
-   {},
-   {},
-   {}
-  ],
-  "tagList": [
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE"
-  ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3544363580,
-  "targetCamp": "FRIENDLY",
-  "id": 506,
-  "CJILBMMNIHK": [
-   {},
-   {}
-  ],
-  "cardType": "GCG_CARD_SUMMON",
-  "aiTagList": [
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE"
-  ],
-  "AMNBPNHMGKG": [
-   {
-    "BHDFEFEJOPK": true,
-    "type": "TOKEN_TO_SHOW"
-   },
-   {
-    "type": "CREATE_ORDER"
-   }
-  ]
- },
- {
-  "condList": [
-   {},
-   {},
-   {},
-   {},
-   {},
-   {}
-  ],
-  "tagList": [
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE"
-  ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3980873556,
-  "targetCamp": "FRIENDLY",
-  "id": 507,
-  "CJILBMMNIHK": [
-   {},
-   {}
-  ],
-  "cardType": "GCG_CARD_SUMMON",
-  "aiTagList": [
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE"
-  ],
-  "AMNBPNHMGKG": [
-   {
-    "BHDFEFEJOPK": true,
-    "type": "TOKEN_TO_SHOW"
-   },
-   {
-    "type": "CREATE_ORDER"
-   }
-  ]
- },
- {
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -1888,30 +1897,30 @@
    {},
    {}
   ],
+  "id": 1001,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1697191692,
   "targetCamp": "FRIENDLY",
-  "id": 1001,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1697191692
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -1926,30 +1935,30 @@
    {},
    {}
   ],
+  "id": 1002,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3834141348,
   "targetCamp": "FRIENDLY",
-  "id": 1002,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3834141348
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -1964,30 +1973,30 @@
    {},
    {}
   ],
+  "id": 1003,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 4229749404,
   "targetCamp": "FRIENDLY",
-  "id": 1003,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 4229749404
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -2005,30 +2014,30 @@
    {},
    {}
   ],
+  "id": 1004,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 157600516,
   "targetCamp": "FRIENDLY",
-  "id": 1004,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 157600516
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -2043,30 +2052,30 @@
    {},
    {}
   ],
+  "id": 1005,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 4009257724,
   "targetCamp": "FRIENDLY",
-  "id": 1005,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 4009257724
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -2081,30 +2090,30 @@
    {},
    {}
   ],
+  "id": 1006,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3052780532,
   "targetCamp": "FRIENDLY",
-  "id": 1006,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3052780532
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -2122,30 +2131,30 @@
    {},
    {}
   ],
+  "id": 1007,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 715999076,
   "targetCamp": "FRIENDLY",
-  "id": 1007,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 715999076
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -2160,30 +2169,30 @@
    {},
    {}
   ],
+  "id": 1008,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 138744524,
   "targetCamp": "FRIENDLY",
-  "id": 1008,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 138744524
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -2198,30 +2207,30 @@
    {},
    {}
   ],
+  "id": 1009,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1929647716,
   "targetCamp": "FRIENDLY",
-  "id": 1009,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1929647716
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -2236,30 +2245,30 @@
    {},
    {}
   ],
+  "id": 1010,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 2948893420,
   "targetCamp": "FRIENDLY",
-  "id": 1010,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 2948893420
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -2274,30 +2283,30 @@
    {},
    {}
   ],
+  "id": 1011,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 4237212212,
   "targetCamp": "FRIENDLY",
-  "id": 1011,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 4237212212
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -2312,30 +2321,30 @@
    {},
    {}
   ],
+  "id": 1012,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 2514209380,
   "targetCamp": "FRIENDLY",
-  "id": 1012,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 2514209380
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -2350,30 +2359,30 @@
    {},
    {}
   ],
+  "id": 1013,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1018768300,
   "targetCamp": "FRIENDLY",
-  "id": 1013,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1018768300
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -2388,30 +2397,30 @@
    {},
    {}
   ],
+  "id": 1014,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1027955572,
   "targetCamp": "FRIENDLY",
-  "id": 1014,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1027955572
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -2426,30 +2435,30 @@
    {},
    {}
   ],
+  "id": 1015,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 2954740260,
   "targetCamp": "FRIENDLY",
-  "id": 1015,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 2954740260
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -2464,30 +2473,30 @@
    {},
    {}
   ],
+  "id": 1016,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1727011484,
   "targetCamp": "FRIENDLY",
-  "id": 1016,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1727011484
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -2502,30 +2511,30 @@
    {},
    {}
   ],
+  "id": 1017,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1658288748,
   "targetCamp": "FRIENDLY",
-  "id": 1017,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1658288748
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -2540,30 +2549,30 @@
    {},
    {}
   ],
+  "id": 1018,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1443076892,
   "targetCamp": "FRIENDLY",
-  "id": 1018,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1443076892
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -2578,30 +2587,30 @@
    {},
    {}
   ],
+  "id": 1019,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1661270668,
   "targetCamp": "FRIENDLY",
-  "id": 1019,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1661270668
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -2616,30 +2625,30 @@
    {},
    {}
   ],
+  "id": 1020,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1620825604,
   "targetCamp": "FRIENDLY",
-  "id": 1020,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1620825604
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -2654,30 +2663,30 @@
    {},
    {}
   ],
+  "id": 1021,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 36343460,
   "targetCamp": "FRIENDLY",
-  "id": 1021,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 36343460
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -2698,30 +2707,30 @@
    {},
    {}
   ],
+  "id": 1022,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 428228236,
   "targetCamp": "FRIENDLY",
-  "id": 1022,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 428228236
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -2736,30 +2745,30 @@
    {},
    {}
   ],
+  "id": 1023,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3682345740,
   "targetCamp": "FRIENDLY",
-  "id": 1023,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3682345740
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -2774,30 +2783,30 @@
    {},
    {}
   ],
+  "id": 1024,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1975988932,
   "targetCamp": "FRIENDLY",
-  "id": 1024,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1975988932
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -2812,30 +2821,30 @@
    {},
    {}
   ],
+  "id": 1025,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 4031712948,
   "targetCamp": "FRIENDLY",
-  "id": 1025,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 4031712948
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -2850,30 +2859,30 @@
    {},
    {}
   ],
+  "id": 1026,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1852366468,
   "targetCamp": "FRIENDLY",
-  "id": 1026,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1852366468
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -2888,30 +2897,106 @@
    {},
    {}
   ],
+  "id": 1027,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3653045796,
   "targetCamp": "FRIENDLY",
-  "id": 1027,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3653045796
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
+  "cardType": "GCG_CARD_CHARACTER",
+  "condList": [
+   {
+    "type": "IS_ALIVE_CHARACTER",
+    "value": 1
+   },
+   {
+    "type": "CARD",
+    "value": 1517
+   },
+   {},
+   {},
    {},
    {}
-  ]
+  ],
+  "id": 1028,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
+  "tagList": [
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE"
+  ],
+  "targetCamp": "FRIENDLY",
+  "targetHintTextMapHash": 1255102012
  },
  {
+  "aiCondList": [
+   {},
+   {}
+  ],
+  "aiTagList": [
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE"
+  ],
+  "cardType": "GCG_CARD_CHARACTER",
+  "condList": [
+   {
+    "type": "IS_ALIVE_CHARACTER",
+    "value": 1
+   },
+   {
+    "type": "CARD",
+    "value": 1317
+   },
+   {},
+   {},
+   {},
+   {}
+  ],
+  "id": 1029,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
+  "tagList": [
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE"
+  ],
+  "targetCamp": "FRIENDLY",
+  "targetHintTextMapHash": 3769519924
+ },
+ {
+  "aiCondList": [
+   {},
+   {}
+  ],
+  "aiTagList": [
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE"
+  ],
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -2932,30 +3017,30 @@
    {},
    {}
   ],
+  "id": 11101,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3363485348,
   "targetCamp": "FRIENDLY",
-  "id": 11101,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3363485348
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -2976,30 +3061,30 @@
    {},
    {}
   ],
+  "id": 11102,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1618102820,
   "targetCamp": "FRIENDLY",
-  "id": 11102,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1618102820
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -3020,30 +3105,30 @@
    {},
    {}
   ],
+  "id": 11103,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 995450636,
   "targetCamp": "FRIENDLY",
-  "id": 11103,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 995450636
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -3064,30 +3149,30 @@
    {},
    {}
   ],
+  "id": 11104,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 741452316,
   "targetCamp": "FRIENDLY",
-  "id": 11104,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 741452316
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -3108,30 +3193,30 @@
    {},
    {}
   ],
+  "id": 11105,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1092166260,
   "targetCamp": "FRIENDLY",
-  "id": 11105,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1092166260
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -3152,30 +3237,30 @@
    {},
    {}
   ],
+  "id": 11106,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 2241830500,
   "targetCamp": "FRIENDLY",
-  "id": 11106,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 2241830500
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -3196,30 +3281,30 @@
    {},
    {}
   ],
+  "id": 11107,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 83577492,
   "targetCamp": "FRIENDLY",
-  "id": 11107,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 83577492
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -3240,30 +3325,30 @@
    {},
    {}
   ],
+  "id": 11108,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 2349788964,
   "targetCamp": "FRIENDLY",
-  "id": 11108,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 2349788964
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -3284,30 +3369,30 @@
    {},
    {}
   ],
+  "id": 11109,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1106646580,
   "targetCamp": "FRIENDLY",
-  "id": 11109,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1106646580
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -3328,30 +3413,30 @@
    {},
    {}
   ],
+  "id": 11110,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 129475300,
   "targetCamp": "FRIENDLY",
-  "id": 11110,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 129475300
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -3372,30 +3457,30 @@
    {},
    {}
   ],
+  "id": 11111,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1359216412,
   "targetCamp": "FRIENDLY",
-  "id": 11111,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1359216412
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -3416,30 +3501,30 @@
    {},
    {}
   ],
+  "id": 11112,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 4002098092,
   "targetCamp": "FRIENDLY",
-  "id": 11112,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 4002098092
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -3460,30 +3545,30 @@
    {},
    {}
   ],
+  "id": 11113,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 2951112428,
   "targetCamp": "FRIENDLY",
-  "id": 11113,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 2951112428
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -3498,30 +3583,30 @@
    {},
    {}
   ],
+  "id": 11114,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1932946308,
   "targetCamp": "FRIENDLY",
-  "id": 11114,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1932946308
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -3542,30 +3627,30 @@
    {},
    {}
   ],
+  "id": 11115,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1329651708,
   "targetCamp": "FRIENDLY",
-  "id": 11115,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1329651708
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -3580,30 +3665,30 @@
    {},
    {}
   ],
+  "id": 11116,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 2348023692,
   "targetCamp": "FRIENDLY",
-  "id": 11116,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 2348023692
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -3624,30 +3709,30 @@
    {},
    {}
   ],
+  "id": 11117,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3615497044,
   "targetCamp": "FRIENDLY",
-  "id": 11117,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3615497044
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -3668,30 +3753,30 @@
    {},
    {}
   ],
+  "id": 11201,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3891514900,
   "targetCamp": "FRIENDLY",
-  "id": 11201,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3891514900
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -3712,30 +3797,30 @@
    {},
    {}
   ],
+  "id": 11202,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 2462697340,
   "targetCamp": "FRIENDLY",
-  "id": 11202,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 2462697340
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -3756,30 +3841,30 @@
    {},
    {}
   ],
+  "id": 11203,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1940476828,
   "targetCamp": "FRIENDLY",
-  "id": 11203,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1940476828
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -3800,30 +3885,30 @@
    {},
    {}
   ],
+  "id": 11204,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1588963068,
   "targetCamp": "FRIENDLY",
-  "id": 11204,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1588963068
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -3844,30 +3929,30 @@
    {},
    {}
   ],
+  "id": 11205,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 21308412,
   "targetCamp": "FRIENDLY",
-  "id": 11205,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 21308412
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -3888,30 +3973,30 @@
    {},
    {}
   ],
+  "id": 11206,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 112647812,
   "targetCamp": "FRIENDLY",
-  "id": 11206,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 112647812
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -3932,30 +4017,30 @@
    {},
    {}
   ],
+  "id": 11207,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 356288204,
   "targetCamp": "FRIENDLY",
-  "id": 11207,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 356288204
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -3976,30 +4061,30 @@
    {},
    {}
   ],
+  "id": 11208,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1736841188,
   "targetCamp": "FRIENDLY",
-  "id": 11208,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1736841188
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -4020,30 +4105,30 @@
    {},
    {}
   ],
+  "id": 11209,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 667426604,
   "targetCamp": "FRIENDLY",
-  "id": 11209,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 667426604
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -4064,30 +4149,30 @@
    {},
    {}
   ],
+  "id": 11210,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 4044940244,
   "targetCamp": "FRIENDLY",
-  "id": 11210,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 4044940244
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -4108,30 +4193,30 @@
    {},
    {}
   ],
+  "id": 11211,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 2765661156,
   "targetCamp": "FRIENDLY",
-  "id": 11211,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 2765661156
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -4152,30 +4237,30 @@
    {},
    {}
   ],
+  "id": 11213,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1188717308,
   "targetCamp": "FRIENDLY",
-  "id": 11213,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1188717308
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -4190,30 +4275,30 @@
    {},
    {}
   ],
+  "id": 11214,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 4275688436,
   "targetCamp": "FRIENDLY",
-  "id": 11214,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 4275688436
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -4234,30 +4319,30 @@
    {},
    {}
   ],
+  "id": 11215,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3015542284,
   "targetCamp": "FRIENDLY",
-  "id": 11215,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3015542284
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -4278,30 +4363,30 @@
    {},
    {}
   ],
+  "id": 11216,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 2901879612,
   "targetCamp": "FRIENDLY",
-  "id": 11216,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 2901879612
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -4322,30 +4407,30 @@
    {},
    {}
   ],
+  "id": 11217,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 4028723828,
   "targetCamp": "FRIENDLY",
-  "id": 11217,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 4028723828
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -4366,30 +4451,30 @@
    {},
    {}
   ],
+  "id": 11301,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 2187417212,
   "targetCamp": "FRIENDLY",
-  "id": 11301,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 2187417212
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -4410,30 +4495,30 @@
    {},
    {}
   ],
+  "id": 11302,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 569355852,
   "targetCamp": "FRIENDLY",
-  "id": 11302,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 569355852
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -4454,30 +4539,30 @@
    {},
    {}
   ],
+  "id": 11303,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 2306117628,
   "targetCamp": "FRIENDLY",
-  "id": 11303,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 2306117628
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -4498,30 +4583,30 @@
    {},
    {}
   ],
+  "id": 11304,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3924532140,
   "targetCamp": "FRIENDLY",
-  "id": 11304,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3924532140
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -4542,30 +4627,30 @@
    {},
    {}
   ],
+  "id": 11305,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1271787268,
   "targetCamp": "FRIENDLY",
-  "id": 11305,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1271787268
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -4586,30 +4671,30 @@
    {},
    {}
   ],
+  "id": 11306,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 636341932,
   "targetCamp": "FRIENDLY",
-  "id": 11306,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 636341932
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -4630,30 +4715,30 @@
    {},
    {}
   ],
+  "id": 11307,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 2999101228,
   "targetCamp": "FRIENDLY",
-  "id": 11307,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 2999101228
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -4674,30 +4759,30 @@
    {},
    {}
   ],
+  "id": 11308,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1273933660,
   "targetCamp": "FRIENDLY",
-  "id": 11308,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1273933660
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -4718,30 +4803,30 @@
    {},
    {}
   ],
+  "id": 11309,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1863855028,
   "targetCamp": "FRIENDLY",
-  "id": 11309,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1863855028
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -4762,30 +4847,30 @@
    {},
    {}
   ],
+  "id": 11310,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1593723404,
   "targetCamp": "FRIENDLY",
-  "id": 11310,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1593723404
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -4806,30 +4891,30 @@
    {},
    {}
   ],
+  "id": 11311,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 2456697716,
   "targetCamp": "FRIENDLY",
-  "id": 11311,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 2456697716
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -4850,30 +4935,30 @@
    {},
    {}
   ],
+  "id": 11312,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1430246332,
   "targetCamp": "FRIENDLY",
-  "id": 11312,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1430246332
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -4888,30 +4973,30 @@
    {},
    {}
   ],
+  "id": 11313,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1037139516,
   "targetCamp": "FRIENDLY",
-  "id": 11313,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1037139516
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -4932,30 +5017,30 @@
    {},
    {}
   ],
+  "id": 11314,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3650724692,
   "targetCamp": "FRIENDLY",
-  "id": 11314,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3650724692
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -4970,30 +5055,30 @@
    {},
    {}
   ],
+  "id": 11315,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3732182668,
   "targetCamp": "FRIENDLY",
-  "id": 11315,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3732182668
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -5014,30 +5099,30 @@
    {},
    {}
   ],
+  "id": 11316,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1922383436,
   "targetCamp": "FRIENDLY",
-  "id": 11316,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1922383436
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -5058,30 +5143,30 @@
    {},
    {}
   ],
+  "id": 11317,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3356820116,
   "targetCamp": "FRIENDLY",
-  "id": 11317,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3356820116
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -5102,30 +5187,30 @@
    {},
    {}
   ],
+  "id": 11401,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 2222741388,
   "targetCamp": "FRIENDLY",
-  "id": 11401,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 2222741388
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -5146,30 +5231,30 @@
    {},
    {}
   ],
+  "id": 11402,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 2252053156,
   "targetCamp": "FRIENDLY",
-  "id": 11402,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 2252053156
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -5190,30 +5275,30 @@
    {},
    {}
   ],
+  "id": 11403,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3858118460,
   "targetCamp": "FRIENDLY",
-  "id": 11403,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3858118460
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -5234,30 +5319,30 @@
    {},
    {}
   ],
+  "id": 11404,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3987222180,
   "targetCamp": "FRIENDLY",
-  "id": 11404,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3987222180
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -5278,30 +5363,30 @@
    {},
    {}
   ],
+  "id": 11405,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1764567684,
   "targetCamp": "FRIENDLY",
-  "id": 11405,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1764567684
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -5322,30 +5407,30 @@
    {},
    {}
   ],
+  "id": 11406,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 195068548,
   "targetCamp": "FRIENDLY",
-  "id": 11406,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 195068548
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -5366,30 +5451,30 @@
    {},
    {}
   ],
+  "id": 11407,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3710202868,
   "targetCamp": "FRIENDLY",
-  "id": 11407,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3710202868
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -5410,30 +5495,30 @@
    {},
    {}
   ],
+  "id": 11408,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 420903852,
   "targetCamp": "FRIENDLY",
-  "id": 11408,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 420903852
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -5454,30 +5539,30 @@
    {},
    {}
   ],
+  "id": 11409,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3014134676,
   "targetCamp": "FRIENDLY",
-  "id": 11409,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3014134676
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -5498,30 +5583,30 @@
    {},
    {}
   ],
+  "id": 11410,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 274943716,
   "targetCamp": "FRIENDLY",
-  "id": 11410,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 274943716
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -5542,30 +5627,30 @@
    {},
    {}
   ],
+  "id": 11411,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 2647439068,
   "targetCamp": "FRIENDLY",
-  "id": 11411,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 2647439068
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -5586,30 +5671,30 @@
    {},
    {}
   ],
+  "id": 11412,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3988744124,
   "targetCamp": "FRIENDLY",
-  "id": 11412,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3988744124
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -5624,30 +5709,30 @@
    {},
    {}
   ],
+  "id": 11413,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1004403356,
   "targetCamp": "FRIENDLY",
-  "id": 11413,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1004403356
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -5668,30 +5753,30 @@
    {},
    {}
   ],
+  "id": 11414,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1935819460,
   "targetCamp": "FRIENDLY",
-  "id": 11414,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1935819460
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -5706,30 +5791,30 @@
    {},
    {}
   ],
+  "id": 11415,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 52833948,
   "targetCamp": "FRIENDLY",
-  "id": 11415,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 52833948
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -5744,30 +5829,30 @@
    {},
    {}
   ],
+  "id": 11416,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 872528884,
   "targetCamp": "FRIENDLY",
-  "id": 11416,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 872528884
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -5782,30 +5867,30 @@
    {},
    {}
   ],
+  "id": 11417,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1259761540,
   "targetCamp": "FRIENDLY",
-  "id": 11417,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1259761540
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -5820,30 +5905,30 @@
    {},
    {}
   ],
+  "id": 11418,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3424299860,
   "targetCamp": "FRIENDLY",
-  "id": 11418,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3424299860
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -5864,30 +5949,30 @@
    {},
    {}
   ],
+  "id": 11501,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 4070747052,
   "targetCamp": "FRIENDLY",
-  "id": 11501,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 4070747052
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -5908,30 +5993,30 @@
    {},
    {}
   ],
+  "id": 11502,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3531162412,
   "targetCamp": "FRIENDLY",
-  "id": 11502,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3531162412
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -5952,30 +6037,30 @@
    {},
    {}
   ],
+  "id": 11503,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 286075700,
   "targetCamp": "FRIENDLY",
-  "id": 11503,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 286075700
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -5996,30 +6081,30 @@
    {},
    {}
   ],
+  "id": 11504,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3088012164,
   "targetCamp": "FRIENDLY",
-  "id": 11504,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3088012164
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -6040,30 +6125,30 @@
    {},
    {}
   ],
+  "id": 11505,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 2655898468,
   "targetCamp": "FRIENDLY",
-  "id": 11505,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 2655898468
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -6084,30 +6169,30 @@
    {},
    {}
   ],
+  "id": 11506,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3950623404,
   "targetCamp": "FRIENDLY",
-  "id": 11506,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3950623404
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -6128,30 +6213,30 @@
    {},
    {}
   ],
+  "id": 11507,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3558325220,
   "targetCamp": "FRIENDLY",
-  "id": 11507,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3558325220
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -6172,30 +6257,30 @@
    {},
    {}
   ],
+  "id": 11508,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1815416780,
   "targetCamp": "FRIENDLY",
-  "id": 11508,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1815416780
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -6216,30 +6301,30 @@
    {},
    {}
   ],
+  "id": 11509,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1968917180,
   "targetCamp": "FRIENDLY",
-  "id": 11509,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1968917180
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -6260,30 +6345,30 @@
    {},
    {}
   ],
+  "id": 11510,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3610313524,
   "targetCamp": "FRIENDLY",
-  "id": 11510,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3610313524
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -6298,30 +6383,30 @@
    {},
    {}
   ],
+  "id": 11511,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1291154228,
   "targetCamp": "FRIENDLY",
-  "id": 11511,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1291154228
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -6342,30 +6427,30 @@
    {},
    {}
   ],
+  "id": 11512,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 614324764,
   "targetCamp": "FRIENDLY",
-  "id": 11512,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 614324764
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -6386,30 +6471,30 @@
    {},
    {}
   ],
+  "id": 11513,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1407809116,
   "targetCamp": "FRIENDLY",
-  "id": 11513,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1407809116
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -6430,30 +6515,30 @@
    {},
    {}
   ],
+  "id": 11514,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1919000404,
   "targetCamp": "FRIENDLY",
-  "id": 11514,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1919000404
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -6468,30 +6553,30 @@
    {},
    {}
   ],
+  "id": 11515,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1177976572,
   "targetCamp": "FRIENDLY",
-  "id": 11515,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1177976572
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -6512,30 +6597,74 @@
    {},
    {}
   ],
+  "id": 11516,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3065693148,
   "targetCamp": "FRIENDLY",
-  "id": 11516,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3065693148
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
+  "cardType": "GCG_CARD_CHARACTER",
+  "condList": [
+   {
+    "type": "IS_ALIVE_CHARACTER",
+    "value": 1
+   },
+   {
+    "type": "CARD",
+    "value": 1517
+   },
+   {
+    "type": "NOT_HAS_MODIFY_STATE_WITH_TAG",
+    "value": 5
+   },
+   {
+    "type": "ONSTAGE",
+    "value": 1
+   },
    {},
    {}
-  ]
+  ],
+  "id": 11517,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
+  "tagList": [
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE"
+  ],
+  "targetCamp": "FRIENDLY",
+  "targetHintTextMapHash": 3288614572
  },
  {
+  "aiCondList": [
+   {},
+   {}
+  ],
+  "aiTagList": [
+   "GCG_TAG_NONE",
+   "GCG_TAG_NONE"
+  ],
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -6556,30 +6685,30 @@
    {},
    {}
   ],
+  "id": 11601,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 920155916,
   "targetCamp": "FRIENDLY",
-  "id": 11601,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 920155916
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -6600,30 +6729,30 @@
    {},
    {}
   ],
+  "id": 11602,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1123328548,
   "targetCamp": "FRIENDLY",
-  "id": 11602,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1123328548
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -6644,30 +6773,30 @@
    {},
    {}
   ],
+  "id": 11603,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 760886892,
   "targetCamp": "FRIENDLY",
-  "id": 11603,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 760886892
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -6688,30 +6817,30 @@
    {},
    {}
   ],
+  "id": 11604,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1429116516,
   "targetCamp": "FRIENDLY",
-  "id": 11604,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1429116516
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -6732,30 +6861,30 @@
    {},
    {}
   ],
+  "id": 11605,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1928991676,
   "targetCamp": "FRIENDLY",
-  "id": 11605,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1928991676
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -6776,30 +6905,30 @@
    {},
    {}
   ],
+  "id": 11606,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 2098938788,
   "targetCamp": "FRIENDLY",
-  "id": 11606,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 2098938788
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -6820,30 +6949,30 @@
    {},
    {}
   ],
+  "id": 11607,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 2179354532,
   "targetCamp": "FRIENDLY",
-  "id": 11607,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 2179354532
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -6864,30 +6993,30 @@
    {},
    {}
   ],
+  "id": 11608,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3163176812,
   "targetCamp": "FRIENDLY",
-  "id": 11608,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3163176812
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -6908,30 +7037,30 @@
    {},
    {}
   ],
+  "id": 11609,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1017280492,
   "targetCamp": "FRIENDLY",
-  "id": 11609,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1017280492
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -6946,30 +7075,30 @@
    {},
    {}
   ],
+  "id": 11610,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 149748724,
   "targetCamp": "FRIENDLY",
-  "id": 11610,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 149748724
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -6993,30 +7122,30 @@
    },
    {}
   ],
+  "id": 11611,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3623710252,
   "targetCamp": "FRIENDLY",
-  "id": 11611,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3623710252
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -7027,17 +7156,17 @@
     "value": 1612
    },
    {
-    "type": "NOT_HAS_MODIFY_STATE_WITH_TAG",
-    "value": 5
-   },
-   {
     "type": "ONSTAGE",
     "value": 1
    },
-   {
-    "type": "NOT_HAS_MODIFY_STATE_WITH_TAG",
-    "value": 605
-   },
+   {},
+   {},
+   {}
+  ],
+  "id": 11612,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
    {}
   ],
   "tagList": [
@@ -7045,25 +7174,19 @@
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1324509820,
   "targetCamp": "FRIENDLY",
-  "id": 11612,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1324509820
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -7084,30 +7207,30 @@
    {},
    {}
   ],
+  "id": 11701,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 2756531924,
   "targetCamp": "FRIENDLY",
-  "id": 11701,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 2756531924
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -7128,30 +7251,30 @@
    {},
    {}
   ],
+  "id": 11702,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1164259876,
   "targetCamp": "FRIENDLY",
-  "id": 11702,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1164259876
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -7172,30 +7295,30 @@
    {},
    {}
   ],
+  "id": 11703,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3556149780,
   "targetCamp": "FRIENDLY",
-  "id": 11703,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3556149780
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -7216,30 +7339,30 @@
    {},
    {}
   ],
+  "id": 11704,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1139539948,
   "targetCamp": "FRIENDLY",
-  "id": 11704,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1139539948
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -7260,30 +7383,30 @@
    {},
    {}
   ],
+  "id": 11705,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3010697844,
   "targetCamp": "FRIENDLY",
-  "id": 11705,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3010697844
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -7304,30 +7427,30 @@
    {},
    {}
   ],
+  "id": 11706,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 193181532,
   "targetCamp": "FRIENDLY",
-  "id": 11706,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 193181532
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -7348,30 +7471,30 @@
    {},
    {}
   ],
+  "id": 11707,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 2472070924,
   "targetCamp": "FRIENDLY",
-  "id": 11707,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 2472070924
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -7392,30 +7515,30 @@
    {},
    {}
   ],
+  "id": 11708,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 972284836,
   "targetCamp": "FRIENDLY",
-  "id": 11708,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 972284836
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -7430,30 +7553,30 @@
    {},
    {}
   ],
+  "id": 11709,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3081974548,
   "targetCamp": "FRIENDLY",
-  "id": 11709,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3081974548
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -7468,30 +7591,30 @@
    {},
    {}
   ],
+  "id": 11710,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 2896671236,
   "targetCamp": "FRIENDLY",
-  "id": 11710,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 2896671236
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -7512,30 +7635,30 @@
    {},
    {}
   ],
+  "id": 11711,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 2824562388,
   "targetCamp": "FRIENDLY",
-  "id": 11711,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 2824562388
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -7550,30 +7673,30 @@
    {},
    {}
   ],
+  "id": 11712,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 2223431620,
   "targetCamp": "FRIENDLY",
-  "id": 11712,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 2223431620
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -7594,30 +7717,30 @@
    {},
    {}
   ],
+  "id": 12101,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 734695004,
   "targetCamp": "FRIENDLY",
-  "id": 12101,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 734695004
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -7635,30 +7758,30 @@
    {},
    {}
   ],
+  "id": 12102,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 4195868476,
   "targetCamp": "FRIENDLY",
-  "id": 12102,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 4195868476
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -7676,30 +7799,30 @@
    {},
    {}
   ],
+  "id": 12103,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1746956132,
   "targetCamp": "FRIENDLY",
-  "id": 12103,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1746956132
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -7720,30 +7843,30 @@
    {},
    {}
   ],
+  "id": 12104,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1552107212,
   "targetCamp": "FRIENDLY",
-  "id": 12104,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1552107212
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -7758,30 +7881,30 @@
    {},
    {}
   ],
+  "id": 12105,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1179658868,
   "targetCamp": "FRIENDLY",
-  "id": 12105,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1179658868
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -7802,30 +7925,30 @@
    {},
    {}
   ],
+  "id": 12201,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1402804972,
   "targetCamp": "FRIENDLY",
-  "id": 12201,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1402804972
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -7846,30 +7969,30 @@
    {},
    {}
   ],
+  "id": 12202,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 4015981380,
   "targetCamp": "FRIENDLY",
-  "id": 12202,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 4015981380
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -7890,30 +8013,30 @@
    {},
    {}
   ],
+  "id": 12203,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 373318444,
   "targetCamp": "FRIENDLY",
-  "id": 12203,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 373318444
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -7934,30 +8057,30 @@
    {},
    {}
   ],
+  "id": 12204,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3449815892,
   "targetCamp": "FRIENDLY",
-  "id": 12204,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3449815892
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -7978,30 +8101,30 @@
    {},
    {}
   ],
+  "id": 12205,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1057794572,
   "targetCamp": "FRIENDLY",
-  "id": 12205,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1057794572
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -8016,30 +8139,30 @@
    {},
    {}
   ],
+  "id": 12206,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3189465012,
   "targetCamp": "FRIENDLY",
-  "id": 12206,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3189465012
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -8054,30 +8177,30 @@
    {},
    {}
   ],
+  "id": 12207,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3925440468,
   "targetCamp": "FRIENDLY",
-  "id": 12207,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3925440468
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -8092,30 +8215,30 @@
    {},
    {}
   ],
+  "id": 12208,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 682195716,
   "targetCamp": "FRIENDLY",
-  "id": 12208,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 682195716
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -8136,30 +8259,30 @@
    {},
    {}
   ],
+  "id": 12301,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3196067836,
   "targetCamp": "FRIENDLY",
-  "id": 12301,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3196067836
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -8180,30 +8303,30 @@
    {},
    {}
   ],
+  "id": 12302,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1541842628,
   "targetCamp": "FRIENDLY",
-  "id": 12302,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1541842628
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -8224,30 +8347,30 @@
    {},
    {}
   ],
+  "id": 12303,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3551388476,
   "targetCamp": "FRIENDLY",
-  "id": 12303,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3551388476
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -8268,30 +8391,30 @@
    {},
    {}
   ],
+  "id": 12304,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 254114636,
   "targetCamp": "FRIENDLY",
-  "id": 12304,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 254114636
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -8306,30 +8429,30 @@
    {},
    {}
   ],
+  "id": 12305,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3413618540,
   "targetCamp": "FRIENDLY",
-  "id": 12305,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3413618540
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -8350,30 +8473,30 @@
    {},
    {}
   ],
+  "id": 12306,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 2360549196,
   "targetCamp": "FRIENDLY",
-  "id": 12306,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 2360549196
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -8394,30 +8517,30 @@
    {},
    {}
   ],
+  "id": 12401,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 2883335164,
   "targetCamp": "FRIENDLY",
-  "id": 12401,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 2883335164
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -8438,30 +8561,30 @@
    {},
    {}
   ],
+  "id": 12402,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 130817852,
   "targetCamp": "FRIENDLY",
-  "id": 12402,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 130817852
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -8479,30 +8602,30 @@
    {},
    {}
   ],
+  "id": 12403,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 2596570068,
   "targetCamp": "FRIENDLY",
-  "id": 12403,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 2596570068
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -8523,30 +8646,30 @@
    {},
    {}
   ],
+  "id": 12404,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3932035924,
   "targetCamp": "FRIENDLY",
-  "id": 12404,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3932035924
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -8561,30 +8684,30 @@
    {},
    {}
   ],
+  "id": 12405,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 2586684044,
   "targetCamp": "FRIENDLY",
-  "id": 12405,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 2586684044
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -8599,30 +8722,30 @@
    {},
    {}
   ],
+  "id": 12406,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3230750268,
   "targetCamp": "FRIENDLY",
-  "id": 12406,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3230750268
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -8643,30 +8766,30 @@
    {},
    {}
   ],
+  "id": 12501,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 522393548,
   "targetCamp": "FRIENDLY",
-  "id": 12501,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 522393548
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -8687,30 +8810,30 @@
    {},
    {}
   ],
+  "id": 12502,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 2162737932,
   "targetCamp": "FRIENDLY",
-  "id": 12502,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 2162737932
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -8725,30 +8848,30 @@
    {},
    {}
   ],
+  "id": 12503,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 610674604,
   "targetCamp": "FRIENDLY",
-  "id": 12503,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 610674604
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -8769,30 +8892,30 @@
    {},
    {}
   ],
+  "id": 12504,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 82811732,
   "targetCamp": "FRIENDLY",
-  "id": 12504,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 82811732
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -8813,30 +8936,30 @@
    {},
    {}
   ],
+  "id": 12601,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 2066468396,
   "targetCamp": "FRIENDLY",
-  "id": 12601,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 2066468396
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -8857,30 +8980,30 @@
    {},
    {}
   ],
+  "id": 12603,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 180978452,
   "targetCamp": "FRIENDLY",
-  "id": 12603,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 180978452
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -8901,30 +9024,30 @@
    {},
    {}
   ],
+  "id": 12604,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 2126810924,
   "targetCamp": "FRIENDLY",
-  "id": 12604,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 2126810924
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -8939,30 +9062,30 @@
    {},
    {}
   ],
+  "id": 12605,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1979683676,
   "targetCamp": "FRIENDLY",
-  "id": 12605,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1979683676
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -8983,30 +9106,30 @@
    {},
    {}
   ],
+  "id": 12701,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 802551484,
   "targetCamp": "FRIENDLY",
-  "id": 12701,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 802551484
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -9021,30 +9144,30 @@
    {},
    {}
   ],
+  "id": 12702,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 3660433332,
   "targetCamp": "FRIENDLY",
-  "id": 12702,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 3660433332
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -9065,30 +9188,30 @@
    {},
    {}
   ],
+  "id": 12703,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 1385611116,
   "targetCamp": "FRIENDLY",
-  "id": 12703,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 1385611116
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -9103,30 +9226,30 @@
    {},
    {}
   ],
+  "id": 12704,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 571025140,
   "targetCamp": "FRIENDLY",
-  "id": 12704,
-  "CJILBMMNIHK": [
+  "targetHintTextMapHash": 571025140
+ },
+ {
+  "aiCondList": [
    {},
    {}
   ],
-  "cardType": "GCG_CARD_CHARACTER",
   "aiTagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
- },
- {
+  "cardType": "GCG_CARD_CHARACTER",
   "condList": [
    {
     "type": "IS_ALIVE_CHARACTER",
@@ -9141,27 +9264,18 @@
    {},
    {}
   ],
+  "id": 12705,
+  "selectIconType": "TALENT",
+  "sortList": [
+   {},
+   {}
+  ],
   "tagList": [
    "GCG_TAG_NONE",
    "GCG_TAG_NONE",
    "GCG_TAG_NONE"
   ],
-  "selectIconType": "TALENT",
-  "targetHintTextMapHash": 417073820,
   "targetCamp": "FRIENDLY",
-  "id": 12705,
-  "CJILBMMNIHK": [
-   {},
-   {}
-  ],
-  "cardType": "GCG_CARD_CHARACTER",
-  "aiTagList": [
-   "GCG_TAG_NONE",
-   "GCG_TAG_NONE"
-  ],
-  "AMNBPNHMGKG": [
-   {},
-   {}
-  ]
+  "targetHintTextMapHash": 417073820
  }
 ]

@@ -1,70 +1,48 @@
 [
  {
-  "PEKFMOCBPON": [
-   {
-    "param": [
-     "",
-     ""
-    ]
-   },
-   {
-    "param": [
-     "",
-     ""
-    ]
-   },
-   {
-    "param": [
-     "",
-     ""
-    ]
-   }
-  ],
-  "ENDPKPFFBGD": 2866904599,
-  "storyId": 1,
-  "EBEHIAFHBCN": [
-   0,
-   0,
-   50
-  ],
-  "KHNFCJNGPEE": true,
   "parentQuestId": 77010,
-  "startQuestId": 7701001
- },
- {
-  "PEKFMOCBPON": [
-   {
-    "param": [
-     "",
-     ""
-    ]
-   },
-   {
-    "param": [
-     "",
-     ""
-    ]
-   },
-   {
-    "param": [
-     "",
-     ""
-    ]
-   }
-  ],
-  "ENDPKPFFBGD": 1084461855,
-  "storyId": 2,
-  "EBEHIAFHBCN": [
+  "startQuestId": 7701001,
+  "storyId": 1,
+  "EKNJMFCANAH": 2866904599,
+  "DJFHHIDGKGI": true,
+  "EADDIDCEDJG": [
    0,
    0,
    50
   ],
-  "KHNFCJNGPEE": true,
+  "IDPFFNEOONH": [
+   {
+    "param": [
+     "",
+     ""
+    ]
+   },
+   {
+    "param": [
+     "",
+     ""
+    ]
+   },
+   {
+    "param": [
+     "",
+     ""
+    ]
+   }
+  ]
+ },
+ {
   "parentQuestId": 77011,
-  "startQuestId": 7701101
- },
- {
-  "PEKFMOCBPON": [
+  "startQuestId": 7701101,
+  "storyId": 2,
+  "EKNJMFCANAH": 1084461855,
+  "DJFHHIDGKGI": true,
+  "EADDIDCEDJG": [
+   0,
+   0,
+   50
+  ],
+  "IDPFFNEOONH": [
    {
     "param": [
      "",
@@ -83,14 +61,14 @@
      ""
     ]
    }
-  ],
-  "ENDPKPFFBGD": 1566140975,
-  "storyId": 3,
+  ]
+ },
+ {
   "parentQuestId": 77012,
-  "startQuestId": 7701201
- },
- {
-  "PEKFMOCBPON": [
+  "startQuestId": 7701201,
+  "storyId": 3,
+  "EKNJMFCANAH": 1566140975,
+  "IDPFFNEOONH": [
    {
     "param": [
      "",
@@ -109,14 +87,48 @@
      ""
     ]
    }
-  ],
-  "ENDPKPFFBGD": 3560051231,
-  "storyId": 4,
-  "parentQuestId": 77013,
-  "startQuestId": 7701301
+  ]
  },
  {
-  "PEKFMOCBPON": [
+  "parentQuestId": 77013,
+  "startQuestId": 7701301,
+  "storyId": 4,
+  "EKNJMFCANAH": 3560051231,
+  "IDPFFNEOONH": [
+   {
+    "param": [
+     "",
+     ""
+    ]
+   },
+   {
+    "param": [
+     "",
+     ""
+    ]
+   },
+   {
+    "param": [
+     "",
+     ""
+    ]
+   }
+  ]
+ },
+ {
+  "parentQuestId": 77005,
+  "priority": 1,
+  "startQuestId": 7700501,
+  "storyId": 5,
+  "EKNJMFCANAH": 2161654447,
+  "DJFHHIDGKGI": true,
+  "IDEPFLNJIPB": "LOGIC_AND",
+  "EADDIDCEDJG": [
+   10,
+   0,
+   0
+  ],
+  "IDPFFNEOONH": [
    {
     "param": [
      "30",
@@ -137,22 +149,22 @@
      ""
     ]
    }
-  ],
-  "ENDPKPFFBGD": 2161654447,
-  "priority": 1,
-  "storyId": 5,
-  "EBEHIAFHBCN": [
+  ]
+ },
+ {
+  "parentQuestId": 77006,
+  "priority": 2,
+  "startQuestId": 7700601,
+  "storyId": 6,
+  "EKNJMFCANAH": 3729436471,
+  "DJFHHIDGKGI": true,
+  "IDEPFLNJIPB": "LOGIC_AND",
+  "EADDIDCEDJG": [
    10,
    0,
    0
   ],
-  "KHNFCJNGPEE": true,
-  "parentQuestId": 77005,
-  "MCNAJAFFIKC": "LOGIC_AND",
-  "startQuestId": 7700501
- },
- {
-  "PEKFMOCBPON": [
+  "IDPFFNEOONH": [
    {
     "param": [
      "60",
@@ -174,22 +186,22 @@
     ],
     "type": "QUEST_SCHEDULE_COND_STORY_FINISHED"
    }
-  ],
-  "ENDPKPFFBGD": 3729436471,
-  "priority": 2,
-  "storyId": 6,
-  "EBEHIAFHBCN": [
-   10,
-   0,
-   0
-  ],
-  "KHNFCJNGPEE": true,
-  "parentQuestId": 77006,
-  "MCNAJAFFIKC": "LOGIC_AND",
-  "startQuestId": 7700601
+  ]
  },
  {
-  "PEKFMOCBPON": [
+  "parentQuestId": 77007,
+  "priority": 3,
+  "startQuestId": 7700701,
+  "storyId": 7,
+  "EKNJMFCANAH": 2124500543,
+  "DJFHHIDGKGI": true,
+  "IDEPFLNJIPB": "LOGIC_AND",
+  "EADDIDCEDJG": [
+   0,
+   10,
+   0
+  ],
+  "IDPFFNEOONH": [
    {
     "param": [
      "30",
@@ -210,22 +222,22 @@
      ""
     ]
    }
-  ],
-  "ENDPKPFFBGD": 2124500543,
-  "priority": 3,
-  "storyId": 7,
-  "EBEHIAFHBCN": [
+  ]
+ },
+ {
+  "parentQuestId": 77008,
+  "priority": 4,
+  "startQuestId": 7700801,
+  "storyId": 8,
+  "EKNJMFCANAH": 3623802687,
+  "DJFHHIDGKGI": true,
+  "IDEPFLNJIPB": "LOGIC_AND",
+  "EADDIDCEDJG": [
    0,
    10,
    0
   ],
-  "KHNFCJNGPEE": true,
-  "parentQuestId": 77007,
-  "MCNAJAFFIKC": "LOGIC_AND",
-  "startQuestId": 7700701
- },
- {
-  "PEKFMOCBPON": [
+  "IDPFFNEOONH": [
    {
     "param": [
      "60",
@@ -247,22 +259,22 @@
     ],
     "type": "QUEST_SCHEDULE_COND_STORY_FINISHED"
    }
-  ],
-  "ENDPKPFFBGD": 3623802687,
-  "priority": 4,
-  "storyId": 8,
-  "EBEHIAFHBCN": [
-   0,
-   10,
-   0
-  ],
-  "KHNFCJNGPEE": true,
-  "parentQuestId": 77008,
-  "MCNAJAFFIKC": "LOGIC_AND",
-  "startQuestId": 7700801
+  ]
  },
  {
-  "PEKFMOCBPON": [
+  "parentQuestId": 77009,
+  "priority": 5,
+  "startQuestId": 7700901,
+  "storyId": 9,
+  "EKNJMFCANAH": 319815407,
+  "DJFHHIDGKGI": true,
+  "IDEPFLNJIPB": "LOGIC_AND",
+  "EADDIDCEDJG": [
+   5,
+   5,
+   0
+  ],
+  "IDPFFNEOONH": [
    {
     "param": [
      "3",
@@ -283,22 +295,25 @@
      ""
     ]
    }
-  ],
-  "ENDPKPFFBGD": 319815407,
-  "priority": 5,
-  "storyId": 9,
-  "EBEHIAFHBCN": [
-   5,
-   5,
-   0
-  ],
-  "KHNFCJNGPEE": true,
-  "parentQuestId": 77009,
-  "MCNAJAFFIKC": "LOGIC_AND",
-  "startQuestId": 7700901
+  ]
  },
  {
-  "PEKFMOCBPON": [
+  "parentQuestId": 77235,
+  "priority": 6,
+  "startQuestId": 7723501,
+  "storyId": 10,
+  "EKNJMFCANAH": 1967623831,
+  "DJFHHIDGKGI": true,
+  "IDEPFLNJIPB": "LOGIC_AND",
+  "NDFHKBFKEJL": [
+   4
+  ],
+  "EADDIDCEDJG": [
+   0,
+   0,
+   0
+  ],
+  "IDPFFNEOONH": [
    {
     "param": [
      "4",
@@ -319,61 +334,58 @@
      ""
     ]
    }
-  ],
-  "ENDPKPFFBGD": 1967623831,
-  "priority": 6,
-  "NHKIIKFMNPF": [
-   4
-  ],
-  "storyId": 10,
-  "EBEHIAFHBCN": [
-   0,
-   0,
-   0
-  ],
-  "KHNFCJNGPEE": true,
-  "parentQuestId": 77235,
-  "MCNAJAFFIKC": "LOGIC_AND",
-  "startQuestId": 7723501
+  ]
  },
  {
-  "PEKFMOCBPON": [
-   {
-    "param": [
-     "1",
-     ""
-    ],
-    "type": "QUEST_SCHEDULE_COND_DAY_TYPE"
-   },
-   {
-    "param": [
-     "1",
-     "3"
-    ],
-    "type": "QUEST_SCHEDULE_COND_SCHEDULE_COUNT_GT"
-   },
-   {
-    "param": [
-     "",
-     ""
-    ]
-   }
-  ],
-  "ENDPKPFFBGD": 1086688959,
-  "priority": 7,
-  "storyId": 11,
-  "EBEHIAFHBCN": [
-   5,
-   0,
-   0
-  ],
-  "KHNFCJNGPEE": true,
   "parentQuestId": 77236,
-  "MCNAJAFFIKC": "LOGIC_AND",
-  "startQuestId": 7723601
+  "priority": 7,
+  "startQuestId": 7723601,
+  "storyId": 11,
+  "EKNJMFCANAH": 1086688959,
+  "DJFHHIDGKGI": true,
+  "IDEPFLNJIPB": "LOGIC_AND",
+  "EADDIDCEDJG": [
+   5,
+   0,
+   0
+  ],
+  "IDPFFNEOONH": [
+   {
+    "param": [
+     "1",
+     ""
+    ],
+    "type": "QUEST_SCHEDULE_COND_DAY_TYPE"
+   },
+   {
+    "param": [
+     "1",
+     "3"
+    ],
+    "type": "QUEST_SCHEDULE_COND_SCHEDULE_COUNT_GT"
+   },
+   {
+    "param": [
+     "",
+     ""
+    ]
+   }
+  ]
  },
  {
-  "PEKFMOCBPON": [
+  "parentQuestId": 77237,
+  "priority": 8,
+  "startQuestId": 7723701,
+  "storyId": 12,
+  "EKNJMFCANAH": 552594311,
+  "DJFHHIDGKGI": true,
+  "IDEPFLNJIPB": "LOGIC_AND",
+  "EADDIDCEDJG": [
+   0,
+   5,
+   0
+  ],
+  "IDPFFNEOONH": [
    {
     "param": [
      "2",
@@ -394,18 +406,6 @@
      ""
     ]
    }
-  ],
-  "ENDPKPFFBGD": 552594311,
-  "priority": 8,
-  "storyId": 12,
-  "EBEHIAFHBCN": [
-   0,
-   5,
-   0
-  ],
-  "KHNFCJNGPEE": true,
-  "parentQuestId": 77237,
-  "MCNAJAFFIKC": "LOGIC_AND",
-  "startQuestId": 7723701
+  ]
  }
 ]

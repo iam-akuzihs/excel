@@ -1,1578 +1,1578 @@
 [
  {
-  "NKJMMHCGAKM": "SELF",
-  "EOOCKKIOEAD": 6,
-  "BBHKAOKOLBJ": [
-   "NORMAL",
-   "NONE",
-   "IGNORE_TAG",
-   "NOT_SELF_COLOR"
-  ],
-  "CBECNJIKLFM": "RANDOM",
+  "effectId": 101,
+  "effectType": "CONVERT_TO_NORMAL",
   "paramList": [
    "1",
    "",
    "",
    ""
   ],
-  "effectId": 101,
-  "effectType": "CONVERT_TO_NORMAL"
+  "NHFNFIDPKEC": 6,
+  "NNKHLDCBALN": "RANDOM",
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "NORMAL",
+   "NONE",
+   "IGNORE_TAG",
+   "NOT_SELF_COLOR"
+  ]
  },
  {
-  "NKJMMHCGAKM": "OPPO",
-  "AMGJBMOGPAG": "ANIME_DELAY",
-  "BBHKAOKOLBJ": [
-   "NONE",
-   "NONE",
-   "NONE",
-   "NONE"
-  ],
+  "delayType": "ANIME_DELAY",
+  "effectId": 201,
+  "effectType": "DEAL_DAMAGE",
   "paramList": [
    "60",
    "",
    "",
    ""
   ],
-  "effectId": 201,
-  "effectType": "DEAL_DAMAGE"
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
  },
  {
-  "NKJMMHCGAKM": "OPPO",
-  "EOOCKKIOEAD": 10,
-  "AMGJBMOGPAG": "DELAY",
-  "BBHKAOKOLBJ": [
-   "NORMAL",
-   "NONE",
-   "IGNORE_TAG",
-   "NONE"
-  ],
-  "CBECNJIKLFM": "RANDOM",
+  "delayType": "DELAY",
+  "effectId": 1201,
+  "effectType": "ADD_TAG",
   "paramList": [
    "1201",
    "99",
    "",
    ""
   ],
-  "effectId": 1201,
-  "effectType": "ADD_TAG"
+  "NHFNFIDPKEC": 10,
+  "MFHOFCMKCBL": "OPPO",
+  "NNKHLDCBALN": "RANDOM",
+  "HLLIJMKAEPM": [
+   "NORMAL",
+   "NONE",
+   "IGNORE_TAG",
+   "NONE"
+  ]
  },
  {
-  "NKJMMHCGAKM": "SELF",
-  "AMGJBMOGPAG": "ANIME_DELAY",
-  "BBHKAOKOLBJ": [
-   "NONE",
-   "NONE",
-   "NONE",
-   "NONE"
-  ],
+  "damageType": "BURN",
+  "delayType": "ANIME_DELAY",
+  "effectId": 12011,
+  "effectType": "DEAL_DAMAGE",
   "paramList": [
    "20",
    "",
    "",
    ""
   ],
-  "effectId": 12011,
-  "HNNCGFINDPI": 12011,
-  "effectType": "DEAL_DAMAGE",
-  "GLEMKOOMELH": "BURN"
- },
- {
-  "BBHKAOKOLBJ": [
+  "EFLLKJBKLIK": 12011,
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
-  "CBECNJIKLFM": "SELF",
+  ]
+ },
+ {
+  "effectId": 12012,
+  "effectType": "SUB_COUNTER",
   "paramList": [
    "1",
    "",
    "",
    ""
   ],
-  "effectId": 12012,
-  "HNNCGFINDPI": 12012,
-  "effectType": "SUB_COUNTER"
- },
- {
-  "BBHKAOKOLBJ": [
+  "EFLLKJBKLIK": 12012,
+  "NNKHLDCBALN": "SELF",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
-  "CBECNJIKLFM": "SELF",
+  ]
+ },
+ {
+  "effectId": 12013,
+  "effectType": "DEL_TAG",
   "paramList": [
    "",
    "",
    "",
    ""
   ],
-  "effectId": 12013,
-  "HNNCGFINDPI": 12013,
-  "effectType": "DEL_TAG"
+  "EFLLKJBKLIK": 12013,
+  "NNKHLDCBALN": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
  },
  {
-  "NKJMMHCGAKM": "SELF",
-  "EOOCKKIOEAD": 1,
-  "BBHKAOKOLBJ": [
-   "NORMAL",
-   "NONE",
-   "IGNORE_TAG",
-   "NONE"
-  ],
-  "CBECNJIKLFM": "RANDOM",
+  "effectId": 102,
+  "effectType": "ADD_TAG",
   "paramList": [
    "1102",
    "1",
    "",
    ""
   ],
-  "effectId": 102,
-  "effectType": "ADD_TAG"
+  "NHFNFIDPKEC": 1,
+  "NNKHLDCBALN": "RANDOM",
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "NORMAL",
+   "NONE",
+   "IGNORE_TAG",
+   "NONE"
+  ]
  },
  {
-  "EOOCKKIOEAD": 8,
-  "BBHKAOKOLBJ": [
-   "NORMAL",
-   "SAME_COLOR",
-   "NONE",
-   "NONE"
-  ],
-  "CBECNJIKLFM": "LEFT_TO_RIGHT_BOT_TO_TOP",
+  "effectId": 1102,
+  "effectType": "BRICK_ELIMINATE",
   "paramList": [
    "",
    "",
    "",
    ""
   ],
-  "GJMEHDPJLKM": [
+  "NHFNFIDPKEC": 8,
+  "NNKHLDCBALN": "LEFT_TO_RIGHT_BOT_TO_TOP",
+  "NCODFMKKALA": [
    1203
   ],
-  "effectId": 1102,
-  "effectType": "BRICK_ELIMINATE"
- },
- {
-  "NKJMMHCGAKM": "SELF",
-  "BBHKAOKOLBJ": [
-   "NONE",
-   "NONE",
+  "HLLIJMKAEPM": [
+   "NORMAL",
+   "SAME_COLOR",
    "NONE",
    "NONE"
-  ],
+  ]
+ },
+ {
+  "effectId": 1022,
+  "effectType": "ADD_SCORE_RATIO",
   "paramList": [
    "1",
    "",
    "",
    ""
   ],
-  "effectId": 1022,
-  "effectType": "ADD_SCORE_RATIO"
- },
- {
-  "NKJMMHCGAKM": "OPPO",
-  "AMGJBMOGPAG": "ANIME_DELAY",
-  "BBHKAOKOLBJ": [
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
+  ]
+ },
+ {
+  "delayType": "ANIME_DELAY",
+  "effectId": 202,
+  "effectType": "DEAL_DAMAGE",
   "paramList": [
    "60",
    "",
    "",
    ""
   ],
-  "effectId": 202,
-  "effectType": "DEAL_DAMAGE"
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
  },
  {
-  "NKJMMHCGAKM": "OPPO",
-  "EOOCKKIOEAD": 2,
-  "AMGJBMOGPAG": "DELAY",
-  "BBHKAOKOLBJ": [
-   "NORMAL",
-   "NONE",
-   "IGNORE_TAG",
-   "NONE"
-  ],
-  "CBECNJIKLFM": "RANDOM",
-  "paramList": [
-   "1202",
-   "1",
-   "",
-   ""
-  ],
+  "delayType": "DELAY",
   "effectId": 1202,
-  "effectType": "ADD_TAG"
- },
- {
-  "BBHKAOKOLBJ": [
-   "NONE",
-   "NONE",
-   "NONE",
-   "NONE"
-  ],
-  "CBECNJIKLFM": "SELF",
-  "paramList": [
-   "1",
-   "",
-   "",
-   ""
-  ],
-  "effectId": 12021,
-  "HNNCGFINDPI": 12021,
-  "effectType": "SUB_COUNTER"
- },
- {
-  "BBHKAOKOLBJ": [
-   "NONE",
-   "NONE",
-   "NONE",
-   "NONE"
-  ],
-  "CBECNJIKLFM": "SELF",
-  "paramList": [
-   "",
-   "",
-   "",
-   ""
-  ],
-  "effectId": 12022,
-  "HNNCGFINDPI": 12022,
-  "effectType": "DEL_TAG"
- },
- {
-  "BBHKAOKOLBJ": [
-   "NONE",
-   "NONE",
-   "NONE",
-   "NONE"
-  ],
-  "CBECNJIKLFM": "SELF",
-  "paramList": [
-   "",
-   "",
-   "",
-   ""
-  ],
-  "effectId": 12023,
-  "HNNCGFINDPI": 12023,
-  "effectType": "CONVERT_TO_BARRIER"
- },
- {
-  "NKJMMHCGAKM": "SELF",
-  "EOOCKKIOEAD": 1,
-  "BBHKAOKOLBJ": [
-   "NORMAL",
-   "NONE",
-   "IGNORE_TAG",
-   "NONE"
-  ],
-  "CBECNJIKLFM": "RANDOM",
+  "effectType": "ADD_TAG",
   "paramList": [
    "1202",
    "1",
    "",
    ""
   ],
-  "effectId": 12024,
-  "HNNCGFINDPI": 12024,
-  "effectType": "ADD_TAG"
+  "NHFNFIDPKEC": 2,
+  "MFHOFCMKCBL": "OPPO",
+  "NNKHLDCBALN": "RANDOM",
+  "HLLIJMKAEPM": [
+   "NORMAL",
+   "NONE",
+   "IGNORE_TAG",
+   "NONE"
+  ]
  },
  {
-  "NKJMMHCGAKM": "SELF",
-  "BBHKAOKOLBJ": [
+  "effectId": 12021,
+  "effectType": "SUB_COUNTER",
+  "paramList": [
+   "1",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 12021,
+  "NNKHLDCBALN": "SELF",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
+  ]
+ },
+ {
+  "effectId": 12022,
+  "effectType": "DEL_TAG",
+  "paramList": [
+   "",
+   "",
+   "",
+   ""
   ],
+  "EFLLKJBKLIK": 12022,
+  "NNKHLDCBALN": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 12023,
+  "effectType": "CONVERT_TO_BARRIER",
+  "paramList": [
+   "",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 12023,
+  "NNKHLDCBALN": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 12024,
+  "effectType": "ADD_TAG",
+  "paramList": [
+   "1202",
+   "1",
+   "",
+   ""
+  ],
+  "NHFNFIDPKEC": 1,
+  "EFLLKJBKLIK": 12024,
+  "NNKHLDCBALN": "RANDOM",
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "NORMAL",
+   "NONE",
+   "IGNORE_TAG",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 103,
+  "effectType": "BRICK_QUEUE_CHANGE",
   "paramList": [
    "5",
    "2",
    "",
    ""
   ],
-  "effectId": 103,
-  "effectType": "BRICK_QUEUE_CHANGE"
- },
- {
-  "NKJMMHCGAKM": "OPPO",
-  "AMGJBMOGPAG": "ANIME_DELAY",
-  "BBHKAOKOLBJ": [
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
+  ]
+ },
+ {
+  "delayType": "ANIME_DELAY",
+  "effectId": 203,
+  "effectType": "DEAL_DAMAGE",
   "paramList": [
    "60",
    "",
    "",
    ""
   ],
-  "effectId": 203,
-  "effectType": "DEAL_DAMAGE"
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
  },
  {
-  "NKJMMHCGAKM": "OPPO",
-  "EOOCKKIOEAD": 6,
-  "AMGJBMOGPAG": "DELAY",
-  "BBHKAOKOLBJ": [
-   "NORMAL",
-   "NONE",
-   "IGNORE_TAG",
-   "NONE"
-  ],
-  "CBECNJIKLFM": "RANDOM",
+  "delayType": "DELAY",
+  "effectId": 1203,
+  "effectType": "ADD_TAG",
   "paramList": [
    "1203",
    "1",
    "",
    ""
   ],
-  "effectId": 1203,
-  "effectType": "ADD_TAG"
+  "NHFNFIDPKEC": 6,
+  "MFHOFCMKCBL": "OPPO",
+  "NNKHLDCBALN": "RANDOM",
+  "HLLIJMKAEPM": [
+   "NORMAL",
+   "NONE",
+   "IGNORE_TAG",
+   "NONE"
+  ]
  },
  {
-  "BBHKAOKOLBJ": [
-   "NONE",
-   "NONE",
-   "NONE",
-   "NONE"
-  ],
-  "CBECNJIKLFM": "SELF",
+  "effectId": 12031,
+  "effectType": "SUB_COUNTER",
   "paramList": [
    "1",
    "",
    "",
    ""
   ],
-  "effectId": 12031,
-  "HNNCGFINDPI": 12031,
-  "effectType": "SUB_COUNTER"
- },
- {
-  "BBHKAOKOLBJ": [
+  "EFLLKJBKLIK": 12031,
+  "NNKHLDCBALN": "SELF",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
-  "CBECNJIKLFM": "SELF",
+  ]
+ },
+ {
+  "effectId": 12032,
+  "effectType": "DEL_TAG",
   "paramList": [
    "",
    "",
    "",
    ""
   ],
-  "effectId": 12032,
-  "HNNCGFINDPI": 12032,
-  "effectType": "DEL_TAG"
+  "EFLLKJBKLIK": 12032,
+  "NNKHLDCBALN": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
  },
  {
-  "NKJMMHCGAKM": "SELF",
-  "EOOCKKIOEAD": 6,
-  "BBHKAOKOLBJ": [
+  "effectId": 104,
+  "effectType": "CONVERT_TO_NORMAL",
+  "paramList": [
+   "1",
+   "",
+   "",
+   ""
+  ],
+  "NHFNFIDPKEC": 6,
+  "NNKHLDCBALN": "RANDOM",
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
    "NORMAL",
    "NONE",
    "IGNORE_TAG",
    "NOT_SELF_COLOR"
-  ],
-  "CBECNJIKLFM": "RANDOM",
-  "paramList": [
-   "1",
-   "",
-   "",
-   ""
-  ],
-  "effectId": 104,
-  "effectType": "CONVERT_TO_NORMAL"
+  ]
  },
  {
-  "NKJMMHCGAKM": "OPPO",
-  "AMGJBMOGPAG": "ANIME_DELAY",
-  "BBHKAOKOLBJ": [
-   "NONE",
-   "NONE",
-   "NONE",
-   "NONE"
-  ],
+  "delayType": "ANIME_DELAY",
+  "effectId": 204,
+  "effectType": "DEAL_DAMAGE",
   "paramList": [
    "60",
    "",
    "",
    ""
   ],
-  "effectId": 204,
-  "effectType": "DEAL_DAMAGE"
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
  },
  {
-  "NKJMMHCGAKM": "OPPO",
-  "EOOCKKIOEAD": 2,
-  "AMGJBMOGPAG": "DELAY",
-  "BBHKAOKOLBJ": [
-   "NORMAL",
-   "NONE",
-   "IGNORE_TAG",
-   "NONE"
-  ],
-  "CBECNJIKLFM": "RANDOM",
+  "delayType": "DELAY",
+  "effectId": 1204,
+  "effectType": "ADD_TAG",
   "paramList": [
    "1204",
    "1",
    "",
    ""
   ],
-  "effectId": 1204,
-  "effectType": "ADD_TAG"
+  "NHFNFIDPKEC": 2,
+  "MFHOFCMKCBL": "OPPO",
+  "NNKHLDCBALN": "RANDOM",
+  "HLLIJMKAEPM": [
+   "NORMAL",
+   "NONE",
+   "IGNORE_TAG",
+   "NONE"
+  ]
  },
  {
-  "BBHKAOKOLBJ": [
-   "NONE",
-   "NONE",
-   "NONE",
-   "NONE"
-  ],
-  "CBECNJIKLFM": "SELF",
+  "effectId": 12041,
+  "effectType": "SUB_COUNTER",
   "paramList": [
    "1",
    "",
    "",
    ""
   ],
-  "effectId": 12041,
-  "HNNCGFINDPI": 12041,
-  "effectType": "SUB_COUNTER"
- },
- {
-  "BBHKAOKOLBJ": [
+  "EFLLKJBKLIK": 12041,
+  "NNKHLDCBALN": "SELF",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
-  "CBECNJIKLFM": "SELF",
+  ]
+ },
+ {
+  "effectId": 12042,
+  "effectType": "DEL_TAG",
   "paramList": [
    "",
    "",
    "",
    ""
   ],
-  "effectId": 12042,
-  "HNNCGFINDPI": 12042,
-  "effectType": "DEL_TAG"
+  "EFLLKJBKLIK": 12042,
+  "NNKHLDCBALN": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
  },
  {
-  "NKJMMHCGAKM": "SELF",
-  "BBHKAOKOLBJ": [
-   "NORMAL",
-   "NONE",
-   "IGNORE_TAG",
-   "NONE"
-  ],
-  "CBECNJIKLFM": "SELF_3x3_AROUND",
+  "effectId": 12043,
+  "effectType": "ADD_TAG",
   "paramList": [
    "1203",
    "1",
    "",
    ""
   ],
-  "effectId": 12043,
-  "HNNCGFINDPI": 12043,
-  "effectType": "ADD_TAG"
- },
- {
-  "NKJMMHCGAKM": "SELF",
-  "EOOCKKIOEAD": 6,
-  "BBHKAOKOLBJ": [
+  "EFLLKJBKLIK": 12043,
+  "MFHOFCMKCBL": "SELF",
+  "NNKHLDCBALN": "SELF_3x3_AROUND",
+  "HLLIJMKAEPM": [
    "NORMAL",
    "NONE",
    "IGNORE_TAG",
-   "NOT_SELF_COLOR"
-  ],
-  "CBECNJIKLFM": "RANDOM",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 105,
+  "effectType": "CONVERT_TO_NORMAL",
   "paramList": [
    "1",
    "",
    "",
    ""
   ],
-  "effectId": 105,
-  "effectType": "CONVERT_TO_NORMAL"
+  "NHFNFIDPKEC": 6,
+  "NNKHLDCBALN": "RANDOM",
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "NORMAL",
+   "NONE",
+   "IGNORE_TAG",
+   "NOT_SELF_COLOR"
+  ]
  },
  {
-  "NKJMMHCGAKM": "SELF",
-  "BBHKAOKOLBJ": [
-   "NONE",
-   "NONE",
-   "NONE",
-   "NONE"
-  ],
+  "effectId": 205,
+  "effectType": "BRICK_QUEUE_CHANGE",
   "paramList": [
    "10",
    "1",
    "",
    ""
   ],
-  "effectId": 205,
-  "effectType": "BRICK_QUEUE_CHANGE"
- },
- {
-  "NKJMMHCGAKM": "OPPO",
-  "AMGJBMOGPAG": "DELAY",
-  "BBHKAOKOLBJ": [
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 1205,
+  "effectType": "ADD_BOARD_STATE",
   "paramList": [
    "2",
    "6",
    "20",
    ""
   ],
-  "effectId": 1205,
-  "effectType": "ADD_BOARD_STATE"
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
  },
  {
-  "NKJMMHCGAKM": "SELF",
-  "EOOCKKIOEAD": 2,
-  "BBHKAOKOLBJ": [
-   "NORMAL",
-   "NONE",
-   "IGNORE_TAG",
-   "NONE"
-  ],
-  "CBECNJIKLFM": "RANDOM",
+  "effectId": 106,
+  "effectType": "ADD_TAG",
   "paramList": [
    "106",
    "1",
    "",
    ""
   ],
-  "effectId": 106,
-  "effectType": "ADD_TAG"
+  "NHFNFIDPKEC": 2,
+  "NNKHLDCBALN": "RANDOM",
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "NORMAL",
+   "NONE",
+   "IGNORE_TAG",
+   "NONE"
+  ]
  },
  {
-  "BBHKAOKOLBJ": [
-   "NONE",
-   "NONE",
-   "NONE",
-   "NONE"
-  ],
-  "CBECNJIKLFM": "SELF",
+  "effectId": 1061,
+  "effectType": "SUB_COUNTER",
   "paramList": [
    "1",
    "",
    "",
    ""
   ],
-  "effectId": 1061,
-  "HNNCGFINDPI": 1061,
-  "effectType": "SUB_COUNTER"
- },
- {
-  "BBHKAOKOLBJ": [
+  "EFLLKJBKLIK": 1061,
+  "NNKHLDCBALN": "SELF",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
-  "CBECNJIKLFM": "SELF_3x3_AROUND",
+  ]
+ },
+ {
+  "effectId": 1062,
+  "effectType": "BRICK_ELIMINATE",
   "paramList": [
    "",
    "",
    "",
    ""
   ],
-  "GJMEHDPJLKM": [
+  "EFLLKJBKLIK": 1062,
+  "NNKHLDCBALN": "SELF_3x3_AROUND",
+  "NCODFMKKALA": [
    1203
   ],
-  "effectId": 1062,
-  "HNNCGFINDPI": 1062,
-  "effectType": "BRICK_ELIMINATE"
- },
- {
-  "NKJMMHCGAKM": "SELF",
-  "BBHKAOKOLBJ": [
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
+  ]
+ },
+ {
+  "effectId": 1063,
+  "effectType": "ADD_SCORE_RATIO",
   "paramList": [
    "1",
    "",
    "",
    ""
   ],
-  "effectId": 1063,
-  "effectType": "ADD_SCORE_RATIO"
- },
- {
-  "BBHKAOKOLBJ": [
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
+  ]
+ },
+ {
+  "effectId": 1064,
+  "effectType": "ADD_SEQ",
   "paramList": [
    "",
    "",
    "",
    ""
   ],
-  "effectId": 1064,
-  "HNNCGFINDPI": 1063,
-  "effectType": "ADD_SEQ"
- },
- {
-  "NKJMMHCGAKM": "OPPO",
-  "AMGJBMOGPAG": "ANIME_DELAY",
-  "BBHKAOKOLBJ": [
+  "EFLLKJBKLIK": 1063,
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
+  ]
+ },
+ {
+  "delayType": "ANIME_DELAY",
+  "effectId": 206,
+  "effectType": "DEAL_DAMAGE",
   "paramList": [
    "60",
    "",
    "",
    ""
   ],
-  "effectId": 206,
-  "effectType": "DEAL_DAMAGE"
- },
- {
-  "NKJMMHCGAKM": "OPPO",
-  "AMGJBMOGPAG": "DELAY",
-  "BBHKAOKOLBJ": [
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 1206,
+  "effectType": "ADD_BOARD_STATE",
   "paramList": [
    "1",
    "6",
    "",
    ""
   ],
-  "effectId": 1206,
-  "effectType": "ADD_BOARD_STATE"
- },
- {
-  "NKJMMHCGAKM": "SELF",
-  "EOOCKKIOEAD": 12,
-  "BBHKAOKOLBJ": [
-   "BARRIER",
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
+   "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
-  "CBECNJIKLFM": "RANDOM",
+  ]
+ },
+ {
+  "effectId": 107,
+  "effectType": "CONVERT_TO_NORMAL",
   "paramList": [
    "2",
    "",
    "",
    ""
   ],
-  "effectId": 107,
-  "effectType": "CONVERT_TO_NORMAL"
- },
- {
-  "NKJMMHCGAKM": "SELF",
-  "BBHKAOKOLBJ": [
-   "NONE",
+  "NHFNFIDPKEC": 12,
+  "NNKHLDCBALN": "RANDOM",
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "BARRIER",
    "NONE",
    "NONE",
    "NONE"
-  ],
+  ]
+ },
+ {
+  "effectId": 1071,
+  "effectType": "CLEAR_BARRIER_COUNTER",
   "paramList": [
    "",
    "",
    "",
    ""
   ],
-  "effectId": 1071,
-  "effectType": "CLEAR_BARRIER_COUNTER"
- },
- {
-  "NKJMMHCGAKM": "SELF",
-  "BBHKAOKOLBJ": [
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
+  ]
+ },
+ {
+  "effectId": 1072,
+  "effectType": "ADD_BOARD_STATE",
   "paramList": [
    "4",
    "20",
    "",
    ""
   ],
-  "effectId": 1072,
-  "effectType": "ADD_BOARD_STATE"
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
  },
  {
-  "NKJMMHCGAKM": "SELF",
-  "EOOCKKIOEAD": 6,
-  "BBHKAOKOLBJ": [
-   "NORMAL",
-   "NONE",
-   "IGNORE_TAG",
-   "NOT_SELF_COLOR"
-  ],
-  "CBECNJIKLFM": "RANDOM",
+  "effectId": 207,
+  "effectType": "CONVERT_TO_NORMAL",
   "paramList": [
    "1",
    "",
    "",
    ""
   ],
-  "effectId": 207,
-  "effectType": "CONVERT_TO_NORMAL"
- },
- {
-  "NKJMMHCGAKM": "OPPO",
-  "EOOCKKIOEAD": 2,
-  "AMGJBMOGPAG": "DELAY",
-  "BBHKAOKOLBJ": [
+  "NHFNFIDPKEC": 6,
+  "NNKHLDCBALN": "RANDOM",
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
    "NORMAL",
    "NONE",
    "IGNORE_TAG",
-   "NONE"
-  ],
-  "CBECNJIKLFM": "RANDOM",
+   "NOT_SELF_COLOR"
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 1207,
+  "effectType": "ADD_TAG",
   "paramList": [
    "1207",
    "1",
    "",
    ""
   ],
-  "effectId": 1207,
-  "effectType": "ADD_TAG"
+  "NHFNFIDPKEC": 2,
+  "MFHOFCMKCBL": "OPPO",
+  "NNKHLDCBALN": "RANDOM",
+  "HLLIJMKAEPM": [
+   "NORMAL",
+   "NONE",
+   "IGNORE_TAG",
+   "NONE"
+  ]
  },
  {
-  "BBHKAOKOLBJ": [
-   "NONE",
-   "NONE",
-   "NONE",
-   "NONE"
-  ],
-  "CBECNJIKLFM": "SELF",
+  "effectId": 12071,
+  "effectType": "SUB_COUNTER",
   "paramList": [
    "1",
    "",
    "",
    ""
   ],
-  "effectId": 12071,
-  "HNNCGFINDPI": 12041,
-  "effectType": "SUB_COUNTER"
- },
- {
-  "BBHKAOKOLBJ": [
+  "EFLLKJBKLIK": 12041,
+  "NNKHLDCBALN": "SELF",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
-  "CBECNJIKLFM": "SELF",
-  "paramList": [
-   "",
-   "",
-   "",
-   ""
-  ],
+  ]
+ },
+ {
   "effectId": 12072,
-  "HNNCGFINDPI": 12042,
-  "effectType": "DEL_TAG"
- },
- {
-  "BBHKAOKOLBJ": [
-   "NORMAL",
-   "NONE",
-   "NONE",
-   "NONE"
-  ],
-  "CBECNJIKLFM": "SELF_3x3_AROUND",
+  "effectType": "DEL_TAG",
   "paramList": [
    "",
    "",
    "",
    ""
   ],
-  "GJMEHDPJLKM": [
+  "EFLLKJBKLIK": 12042,
+  "NNKHLDCBALN": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 12073,
+  "effectType": "CONVERT_TO_BARRIER",
+  "paramList": [
+   "",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 12023,
+  "NNKHLDCBALN": "SELF_3x3_AROUND",
+  "NCODFMKKALA": [
    1207
   ],
-  "effectId": 12073,
-  "HNNCGFINDPI": 12023,
-  "effectType": "CONVERT_TO_BARRIER"
- },
- {
-  "BBHKAOKOLBJ": [
-   "NONE",
+  "HLLIJMKAEPM": [
+   "NORMAL",
    "NONE",
    "NONE",
    "NONE"
-  ],
-  "CBECNJIKLFM": "SELF",
+  ]
+ },
+ {
+  "effectId": 12074,
+  "effectType": "CONVERT_TO_BARRIER",
   "paramList": [
    "",
    "",
    "",
    ""
   ],
-  "effectId": 12074,
-  "HNNCGFINDPI": 12074,
-  "effectType": "CONVERT_TO_BARRIER"
+  "EFLLKJBKLIK": 12074,
+  "NNKHLDCBALN": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
  },
  {
-  "NKJMMHCGAKM": "SELF",
-  "EOOCKKIOEAD": 1,
-  "BBHKAOKOLBJ": [
-   "NORMAL",
-   "NONE",
-   "IGNORE_TAG",
-   "NONE"
-  ],
-  "CBECNJIKLFM": "RANDOM",
+  "effectId": 108,
+  "effectType": "ADD_TAG",
   "paramList": [
    "108",
    "",
    "",
    ""
   ],
-  "effectId": 108,
-  "effectType": "ADD_TAG"
+  "NHFNFIDPKEC": 1,
+  "NNKHLDCBALN": "RANDOM",
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "NORMAL",
+   "NONE",
+   "IGNORE_TAG",
+   "NONE"
+  ]
  },
  {
-  "BBHKAOKOLBJ": [
-   "NONE",
-   "NONE",
-   "NONE",
-   "NONE"
-  ],
+  "effectId": 1081,
+  "effectType": "ADD_COMBO",
   "paramList": [
    "1",
    "",
    "",
    ""
   ],
-  "effectId": 1081,
-  "HNNCGFINDPI": 1081,
-  "effectType": "ADD_COMBO"
- },
- {
-  "NKJMMHCGAKM": "OPPO",
-  "AMGJBMOGPAG": "ANIME_DELAY",
-  "BBHKAOKOLBJ": [
+  "EFLLKJBKLIK": 1081,
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
+  ]
+ },
+ {
+  "delayType": "ANIME_DELAY",
+  "effectId": 208,
+  "effectType": "DEAL_DAMAGE",
   "paramList": [
    "60",
    "",
    "",
    ""
   ],
-  "effectId": 208,
-  "effectType": "DEAL_DAMAGE"
- },
- {
-  "NKJMMHCGAKM": "OPPO",
-  "AMGJBMOGPAG": "DELAY",
-  "BBHKAOKOLBJ": [
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 1208,
+  "effectType": "ADD_BOARD_STATE",
   "paramList": [
    "3",
    "6",
    "",
    ""
   ],
-  "effectId": 1208,
-  "effectType": "ADD_BOARD_STATE"
- },
- {
-  "NKJMMHCGAKM": "OPPO",
-  "AMGJBMOGPAG": "DELAY",
-  "BBHKAOKOLBJ": [
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 99001,
+  "effectType": "ADD_PRELOAD_BLOCK",
   "paramList": [
    "11",
    "",
    "",
    ""
   ],
-  "effectId": 99001,
-  "HNNCGFINDPI": 99001,
-  "effectType": "ADD_PRELOAD_BLOCK"
- },
- {
-  "NKJMMHCGAKM": "OPPO",
-  "AMGJBMOGPAG": "DELAY",
-  "BBHKAOKOLBJ": [
+  "EFLLKJBKLIK": 99001,
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 99002,
+  "effectType": "ADD_PRELOAD_BLOCK",
   "paramList": [
    "21",
    "",
    "",
    ""
   ],
-  "effectId": 99002,
-  "HNNCGFINDPI": 99002,
-  "effectType": "ADD_PRELOAD_BLOCK"
- },
- {
-  "NKJMMHCGAKM": "OPPO",
-  "AMGJBMOGPAG": "DELAY",
-  "BBHKAOKOLBJ": [
+  "EFLLKJBKLIK": 99002,
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 99003,
+  "effectType": "ADD_PRELOAD_BLOCK",
   "paramList": [
    "31",
    "",
    "",
    ""
   ],
-  "effectId": 99003,
-  "HNNCGFINDPI": 99003,
-  "effectType": "ADD_PRELOAD_BLOCK"
- },
- {
-  "NKJMMHCGAKM": "OPPO",
-  "AMGJBMOGPAG": "DELAY",
-  "BBHKAOKOLBJ": [
+  "EFLLKJBKLIK": 99003,
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 99004,
+  "effectType": "ADD_PRELOAD_BLOCK",
   "paramList": [
    "41",
    "",
    "",
    ""
   ],
-  "effectId": 99004,
-  "HNNCGFINDPI": 99004,
-  "effectType": "ADD_PRELOAD_BLOCK"
- },
- {
-  "NKJMMHCGAKM": "OPPO",
-  "AMGJBMOGPAG": "DELAY",
-  "BBHKAOKOLBJ": [
+  "EFLLKJBKLIK": 99004,
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 99005,
+  "effectType": "ADD_PRELOAD_BLOCK",
   "paramList": [
    "51",
    "",
    "",
    ""
   ],
-  "effectId": 99005,
-  "HNNCGFINDPI": 99005,
-  "effectType": "ADD_PRELOAD_BLOCK"
- },
- {
-  "NKJMMHCGAKM": "OPPO",
-  "AMGJBMOGPAG": "DELAY",
-  "BBHKAOKOLBJ": [
+  "EFLLKJBKLIK": 99005,
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 99006,
+  "effectType": "ADD_PRELOAD_BLOCK",
   "paramList": [
    "61",
    "",
    "",
    ""
   ],
-  "effectId": 99006,
-  "HNNCGFINDPI": 99006,
-  "effectType": "ADD_PRELOAD_BLOCK"
- },
- {
-  "NKJMMHCGAKM": "OPPO",
-  "AMGJBMOGPAG": "DELAY",
-  "BBHKAOKOLBJ": [
+  "EFLLKJBKLIK": 99006,
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 99007,
+  "effectType": "ADD_PRELOAD_BLOCK",
   "paramList": [
    "71",
    "",
    "",
    ""
   ],
-  "effectId": 99007,
-  "HNNCGFINDPI": 99007,
-  "effectType": "ADD_PRELOAD_BLOCK"
- },
- {
-  "NKJMMHCGAKM": "OPPO",
-  "AMGJBMOGPAG": "DELAY",
-  "BBHKAOKOLBJ": [
+  "EFLLKJBKLIK": 99007,
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 99008,
+  "effectType": "ADD_PRELOAD_BLOCK",
   "paramList": [
    "81",
    "",
    "",
    ""
   ],
-  "effectId": 99008,
-  "HNNCGFINDPI": 99008,
-  "effectType": "ADD_PRELOAD_BLOCK"
- },
- {
-  "NKJMMHCGAKM": "OPPO",
-  "AMGJBMOGPAG": "DELAY",
-  "BBHKAOKOLBJ": [
+  "EFLLKJBKLIK": 99008,
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 99011,
+  "effectType": "ADD_PRELOAD_BLOCK",
   "paramList": [
    "111",
    "",
    "",
    ""
   ],
-  "effectId": 99011,
-  "HNNCGFINDPI": 99011,
-  "effectType": "ADD_PRELOAD_BLOCK"
- },
- {
-  "NKJMMHCGAKM": "OPPO",
-  "AMGJBMOGPAG": "DELAY",
-  "BBHKAOKOLBJ": [
+  "EFLLKJBKLIK": 99011,
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 99012,
+  "effectType": "ADD_PRELOAD_BLOCK",
   "paramList": [
    "121",
    "",
    "",
    ""
   ],
-  "effectId": 99012,
-  "HNNCGFINDPI": 99012,
-  "effectType": "ADD_PRELOAD_BLOCK"
- },
- {
-  "NKJMMHCGAKM": "OPPO",
-  "AMGJBMOGPAG": "DELAY",
-  "BBHKAOKOLBJ": [
+  "EFLLKJBKLIK": 99012,
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 99013,
+  "effectType": "ADD_PRELOAD_BLOCK",
   "paramList": [
    "131",
    "",
    "",
    ""
   ],
-  "effectId": 99013,
-  "HNNCGFINDPI": 99013,
-  "effectType": "ADD_PRELOAD_BLOCK"
- },
- {
-  "NKJMMHCGAKM": "OPPO",
-  "AMGJBMOGPAG": "DELAY",
-  "BBHKAOKOLBJ": [
+  "EFLLKJBKLIK": 99013,
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 99014,
+  "effectType": "ADD_PRELOAD_BLOCK",
   "paramList": [
    "141",
    "",
    "",
    ""
   ],
-  "effectId": 99014,
-  "HNNCGFINDPI": 99014,
-  "effectType": "ADD_PRELOAD_BLOCK"
- },
- {
-  "NKJMMHCGAKM": "OPPO",
-  "AMGJBMOGPAG": "DELAY",
-  "BBHKAOKOLBJ": [
+  "EFLLKJBKLIK": 99014,
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 99015,
+  "effectType": "ADD_PRELOAD_BLOCK",
   "paramList": [
    "151",
    "",
    "",
    ""
   ],
-  "effectId": 99015,
-  "HNNCGFINDPI": 99015,
-  "effectType": "ADD_PRELOAD_BLOCK"
- },
- {
-  "NKJMMHCGAKM": "OPPO",
-  "AMGJBMOGPAG": "DELAY",
-  "BBHKAOKOLBJ": [
+  "EFLLKJBKLIK": 99015,
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 99016,
+  "effectType": "ADD_PRELOAD_BLOCK",
   "paramList": [
    "161",
    "",
    "",
    ""
   ],
-  "effectId": 99016,
-  "HNNCGFINDPI": 99016,
-  "effectType": "ADD_PRELOAD_BLOCK"
- },
- {
-  "NKJMMHCGAKM": "OPPO",
-  "AMGJBMOGPAG": "DELAY",
-  "BBHKAOKOLBJ": [
+  "EFLLKJBKLIK": 99016,
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 99017,
+  "effectType": "ADD_PRELOAD_BLOCK",
   "paramList": [
    "171",
    "",
    "",
    ""
   ],
-  "effectId": 99017,
-  "HNNCGFINDPI": 99017,
-  "effectType": "ADD_PRELOAD_BLOCK"
- },
- {
-  "NKJMMHCGAKM": "OPPO",
-  "AMGJBMOGPAG": "DELAY",
-  "BBHKAOKOLBJ": [
+  "EFLLKJBKLIK": 99017,
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 99018,
+  "effectType": "ADD_PRELOAD_BLOCK",
   "paramList": [
    "181",
    "",
    "",
    ""
   ],
-  "effectId": 99018,
-  "HNNCGFINDPI": 99018,
-  "effectType": "ADD_PRELOAD_BLOCK"
- },
- {
-  "NKJMMHCGAKM": "OPPO",
-  "AMGJBMOGPAG": "DELAY",
-  "BBHKAOKOLBJ": [
+  "EFLLKJBKLIK": 99018,
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 99101,
+  "effectType": "ADD_PRELOAD_BLOCK",
   "paramList": [
    "1001",
    "",
    "",
    ""
   ],
-  "effectId": 99101,
-  "HNNCGFINDPI": 99101,
-  "effectType": "ADD_PRELOAD_BLOCK"
- },
- {
-  "NKJMMHCGAKM": "SELF",
-  "EOOCKKIOEAD": 1,
-  "BBHKAOKOLBJ": [
+  "EFLLKJBKLIK": 99101,
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
-  "CBECNJIKLFM": "FALLDOWN_BRICK",
+  ]
+ },
+ {
+  "effectId": 99102,
+  "effectType": "ADD_TAG",
   "paramList": [
    "108",
    "99",
    "",
    ""
   ],
-  "effectId": 99102,
-  "HNNCGFINDPI": 99102,
-  "effectType": "ADD_TAG",
-  "MAKOABCPLJA": "0"
- },
- {
-  "NKJMMHCGAKM": "SELF",
-  "EOOCKKIOEAD": 1,
-  "BBHKAOKOLBJ": [
+  "NHFNFIDPKEC": 1,
+  "EFLLKJBKLIK": 99102,
+  "OGBIAAPIABK": "0",
+  "NNKHLDCBALN": "FALLDOWN_BRICK",
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
-  "CBECNJIKLFM": "FALLDOWN_BRICK",
-  "paramList": [
-   "999",
-   "1",
-   "",
-   ""
-  ],
+  ]
+ },
+ {
   "effectId": 99103,
-  "HNNCGFINDPI": 99103,
   "effectType": "ADD_TAG",
-  "MAKOABCPLJA": "0"
- },
- {
-  "NKJMMHCGAKM": "SELF",
-  "EOOCKKIOEAD": 1,
-  "BBHKAOKOLBJ": [
-   "NONE",
-   "NONE",
-   "NONE",
-   "NONE"
-  ],
-  "CBECNJIKLFM": "FALLDOWN_BRICK",
   "paramList": [
    "999",
    "1",
    "",
    ""
   ],
-  "effectId": 99104,
-  "HNNCGFINDPI": 99104,
-  "effectType": "ADD_TAG",
-  "MAKOABCPLJA": "1"
- },
- {
-  "BBHKAOKOLBJ": [
+  "NHFNFIDPKEC": 1,
+  "EFLLKJBKLIK": 99103,
+  "OGBIAAPIABK": "0",
+  "NNKHLDCBALN": "FALLDOWN_BRICK",
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
+  ]
+ },
+ {
+  "effectId": 99104,
+  "effectType": "ADD_TAG",
+  "paramList": [
+   "999",
+   "1",
+   "",
+   ""
   ],
-  "CBECNJIKLFM": "SELF",
+  "NHFNFIDPKEC": 1,
+  "EFLLKJBKLIK": 99104,
+  "OGBIAAPIABK": "1",
+  "NNKHLDCBALN": "FALLDOWN_BRICK",
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 99105,
+  "effectType": "SUB_COUNTER",
   "paramList": [
    "1",
    "",
    "",
    ""
   ],
-  "effectId": 99105,
-  "HNNCGFINDPI": 99105,
-  "effectType": "SUB_COUNTER"
+  "EFLLKJBKLIK": 99105,
+  "NNKHLDCBALN": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
  },
  {
-  "BBHKAOKOLBJ": [
+  "effectId": 99106,
+  "effectType": "CONVERT_TO_NORMAL",
+  "paramList": [
+   "1",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 99106,
+  "NNKHLDCBALN": "SELF_3x3_AROUND",
+  "HLLIJMKAEPM": [
    "NORMAL",
    "NONE",
    "IGNORE_TAG",
    "NOT_SELF_COLOR"
-  ],
-  "CBECNJIKLFM": "SELF_3x3_AROUND",
-  "paramList": [
-   "1",
-   "",
-   "",
-   ""
-  ],
-  "effectId": 99106,
-  "HNNCGFINDPI": 99106,
-  "effectType": "CONVERT_TO_NORMAL"
+  ]
  },
  {
-  "BBHKAOKOLBJ": [
-   "NONE",
-   "NONE",
-   "NONE",
-   "NONE"
-  ],
-  "CBECNJIKLFM": "SELF",
-  "paramList": [
-   "1",
-   "",
-   "",
-   ""
-  ],
   "effectId": 99107,
-  "HNNCGFINDPI": 99107,
-  "effectType": "CONVERT_TO_NORMAL"
- },
- {
-  "NKJMMHCGAKM": "SELF",
-  "EOOCKKIOEAD": 1,
-  "BBHKAOKOLBJ": [
-   "NONE",
-   "NONE",
-   "NONE",
-   "NONE"
-  ],
-  "CBECNJIKLFM": "FALLDOWN_BRICK",
+  "effectType": "CONVERT_TO_NORMAL",
   "paramList": [
    "1",
    "",
    "",
    ""
   ],
+  "EFLLKJBKLIK": 99107,
+  "NNKHLDCBALN": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
   "effectId": 99111,
-  "HNNCGFINDPI": 99111,
   "effectType": "CONVERT_TO_NORMAL",
-  "MAKOABCPLJA": "0"
- },
- {
-  "NKJMMHCGAKM": "SELF",
-  "EOOCKKIOEAD": 1,
-  "BBHKAOKOLBJ": [
-   "NONE",
-   "NONE",
-   "NONE",
-   "NONE"
-  ],
-  "CBECNJIKLFM": "FALLDOWN_BRICK",
   "paramList": [
    "1",
    "",
    "",
    ""
   ],
-  "effectId": 99112,
-  "HNNCGFINDPI": 99112,
-  "effectType": "CONVERT_TO_NORMAL",
-  "MAKOABCPLJA": "1"
- },
- {
-  "NKJMMHCGAKM": "SELF",
-  "BBHKAOKOLBJ": [
+  "NHFNFIDPKEC": 1,
+  "EFLLKJBKLIK": 99111,
+  "OGBIAAPIABK": "0",
+  "NNKHLDCBALN": "FALLDOWN_BRICK",
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
+  ]
+ },
+ {
+  "effectId": 99112,
+  "effectType": "CONVERT_TO_NORMAL",
+  "paramList": [
+   "1",
+   "",
+   "",
+   ""
   ],
+  "NHFNFIDPKEC": 1,
+  "EFLLKJBKLIK": 99112,
+  "OGBIAAPIABK": "1",
+  "NNKHLDCBALN": "FALLDOWN_BRICK",
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 99113,
+  "effectType": "ADD_SCORE_RATIO",
   "paramList": [
    "5",
    "",
    "",
    ""
   ],
-  "effectId": 99113,
-  "HNNCGFINDPI": 99113,
-  "effectType": "ADD_SCORE_RATIO"
- },
- {
-  "BBHKAOKOLBJ": [
+  "EFLLKJBKLIK": 99113,
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
-  "CBECNJIKLFM": "SELF",
+  ]
+ },
+ {
+  "effectId": 99114,
+  "effectType": "SUB_COUNTER",
   "paramList": [
    "1",
    "",
    "",
    ""
   ],
-  "effectId": 99114,
-  "HNNCGFINDPI": 99114,
-  "effectType": "SUB_COUNTER"
- },
- {
-  "BBHKAOKOLBJ": [
+  "EFLLKJBKLIK": 99114,
+  "NNKHLDCBALN": "SELF",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
-  "CBECNJIKLFM": "SELF",
+  ]
+ },
+ {
+  "effectId": 99115,
+  "effectType": "DEL_TAG",
   "paramList": [
    "",
    "",
    "",
    ""
   ],
-  "effectId": 99115,
-  "HNNCGFINDPI": 99115,
-  "effectType": "DEL_TAG"
+  "EFLLKJBKLIK": 99115,
+  "NNKHLDCBALN": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
  },
  {
-  "BBHKAOKOLBJ": [
+  "effectId": 99116,
+  "effectType": "CONVERT_TO_NORMAL",
+  "paramList": [
+   "1",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 99116,
+  "NNKHLDCBALN": "SELF_3x3_AROUND",
+  "HLLIJMKAEPM": [
    "NORMAL",
    "NONE",
    "IGNORE_TAG",
    "NOT_SELF_COLOR"
-  ],
-  "CBECNJIKLFM": "SELF_3x3_AROUND",
-  "paramList": [
-   "1",
-   "",
-   "",
-   ""
-  ],
-  "effectId": 99116,
-  "HNNCGFINDPI": 99116,
-  "effectType": "CONVERT_TO_NORMAL"
+  ]
  },
  {
-  "BBHKAOKOLBJ": [
-   "NONE",
-   "NONE",
-   "NONE",
-   "NONE"
-  ],
-  "CBECNJIKLFM": "SELF",
-  "paramList": [
-   "1",
-   "",
-   "",
-   ""
-  ],
   "effectId": 99117,
-  "HNNCGFINDPI": 99117,
-  "effectType": "CONVERT_TO_NORMAL"
+  "effectType": "CONVERT_TO_NORMAL",
+  "paramList": [
+   "1",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 99117,
+  "NNKHLDCBALN": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
  },
  {
-  "NKJMMHCGAKM": "SELF",
-  "EOOCKKIOEAD": 1,
-  "BBHKAOKOLBJ": [
-   "NORMAL",
-   "NONE",
-   "IGNORE_TAG",
-   "NONE"
-  ],
-  "CBECNJIKLFM": "RANDOM",
+  "effectId": 99119,
+  "effectType": "ADD_TAG",
   "paramList": [
    "998",
    "99",
    "",
    ""
   ],
-  "effectId": 99119,
-  "effectType": "ADD_TAG"
+  "NHFNFIDPKEC": 1,
+  "NNKHLDCBALN": "RANDOM",
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "NORMAL",
+   "NONE",
+   "IGNORE_TAG",
+   "NONE"
+  ]
  },
  {
-  "NKJMMHCGAKM": "SELF",
-  "AMGJBMOGPAG": "DELAY",
-  "BBHKAOKOLBJ": [
-   "NONE",
-   "NONE",
-   "NONE",
-   "NONE"
-  ],
+  "delayType": "DELAY",
+  "effectId": 99120,
+  "effectType": "ADD_PRELOAD_BLOCK",
   "paramList": [
    "1002",
    "",
    "",
    ""
   ],
-  "effectId": 99120,
-  "HNNCGFINDPI": 99120,
-  "effectType": "ADD_PRELOAD_BLOCK"
- },
- {
-  "NKJMMHCGAKM": "SELF",
-  "BBHKAOKOLBJ": [
+  "EFLLKJBKLIK": 99120,
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
+  ]
+ },
+ {
+  "effectId": 99121,
+  "effectType": "ADD_SCORE_RATIO",
   "paramList": [
    "3",
    "",
    "",
    ""
   ],
-  "effectId": 99121,
-  "HNNCGFINDPI": 99121,
-  "effectType": "ADD_SCORE_RATIO"
- },
- {
-  "NKJMMHCGAKM": "SELF",
-  "EOOCKKIOEAD": 1,
-  "BBHKAOKOLBJ": [
+  "EFLLKJBKLIK": 99121,
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
    "NONE",
    "NONE",
    "NONE",
    "NONE"
-  ],
-  "CBECNJIKLFM": "FALLDOWN_BRICK",
-  "paramList": [
-   "999",
-   "1",
-   "",
-   ""
-  ],
+  ]
+ },
+ {
   "effectId": 99201,
-  "HNNCGFINDPI": 99201,
   "effectType": "ADD_TAG",
-  "MAKOABCPLJA": "0"
- },
- {
-  "NKJMMHCGAKM": "SELF",
-  "EOOCKKIOEAD": 1,
-  "BBHKAOKOLBJ": [
-   "NONE",
-   "NONE",
-   "NONE",
-   "NONE"
-  ],
-  "CBECNJIKLFM": "FALLDOWN_BRICK",
   "paramList": [
    "999",
    "1",
    "",
    ""
   ],
+  "NHFNFIDPKEC": 1,
+  "EFLLKJBKLIK": 99201,
+  "OGBIAAPIABK": "0",
+  "NNKHLDCBALN": "FALLDOWN_BRICK",
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
   "effectId": 99202,
-  "HNNCGFINDPI": 99202,
   "effectType": "ADD_TAG",
-  "MAKOABCPLJA": "1"
+  "paramList": [
+   "999",
+   "1",
+   "",
+   ""
+  ],
+  "NHFNFIDPKEC": 1,
+  "EFLLKJBKLIK": 99202,
+  "OGBIAAPIABK": "1",
+  "NNKHLDCBALN": "FALLDOWN_BRICK",
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
  }
 ]

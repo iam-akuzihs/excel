@@ -1,55 +1,58 @@
 [
  {
-  "OAADDCBKBEO": 3244594065,
-  "EEEDHDHNGKN": [
-   1,
-   2
-  ],
+  "dayIndex": 1,
+  "dungeonId": 3800,
+  "finishPushTaskId": 7450703,
+  "galleryId": 64020,
+  "isGuideLevel": true,
+  "levelBannerSubTitleTextMapHash": 1372713907,
+  "levelDescTextMapHash": 152873755,
+  "levelId": 1,
+  "levelNameTextMapHash": 1364169284,
   "levelStatusDescTextMapHash": 3771165391,
-  "AFCDPHMPILP": "Paimon",
-  "ANGHHLCLPKC": [
-   1,
-   7
-  ],
-  "GOHOPIPALGE": [
-   1,
-   7
-  ],
   "watcherList": [
    15166001
   ],
-  "isGuideLevel": true,
-  "dayIndex": 1,
-  "levelDescTextMapHash": 152873755,
-  "EJJNNAIMFAB": "ART/UI/Atlas/NPCIcon/UI_NPC_Quest_Turenna_Circle",
-  "levelNameTextMapHash": 1364169284,
-  "levelBannerSubTitleTextMapHash": 1372713907,
-  "dungeonId": 3800,
-  "galleryId": 64020,
-  "OJHMONNFIAE": 2882313007,
-  "levelId": 1,
-  "finishPushTaskId": 7450703
+  "DIEIAKEJHJA": 2882313007,
+  "INDNMPHMFHG": 3244594065,
+  "NNMLGPHODMF": "ART/UI/Atlas/NPCIcon/UI_NPC_Quest_Turenna_Circle",
+  "BKLKJJBHAJO": "Paimon",
+  "EEDHCCJCACH": [
+   1,
+   2
+  ],
+  "FEGAKPCNFEC": [
+   1,
+   7
+  ],
+  "FEPJMODBMEH": [
+   1,
+   7
+  ]
  },
  {
-  "OAADDCBKBEO": 2891667425,
-  "EEEDHDHNGKN": [
-   1,
-   2,
-   3,
-   4,
-   5,
-   6,
-   7,
-   8,
-   9,
-   10
-  ],
+  "dayIndex": 1,
+  "dungeonId": 3801,
+  "galleryId": 64021,
+  "levelBannerSubTitleTextMapHash": 1874999291,
+  "levelDescTextMapHash": 2612779707,
+  "levelId": 2,
+  "levelNameTextMapHash": 2797449180,
   "levelStatusDescTextMapHash": 1257046823,
-  "AFCDPHMPILP": "Player",
-  "ANGHHLCLPKC": [
+  "preLevelId": 1,
+  "watcherList": [
+   15166011,
+   15166012,
+   15166013
+  ],
+  "DIEIAKEJHJA": 2775076719,
+  "INDNMPHMFHG": 2891667425,
+  "NNMLGPHODMF": "ART/UI/Atlas/NPCIcon/UI_NPC_Quest_Turenna_Circle",
+  "BKLKJJBHAJO": "Player",
+  "FEGAKPCNFEC": [
    6
   ],
-  "GOHOPIPALGE": [
+  "FEPJMODBMEH": [
    9,
    1,
    2,
@@ -60,29 +63,7 @@
    7,
    8
   ],
-  "watcherList": [
-   15166011,
-   15166012,
-   15166013
-  ],
-  "dayIndex": 1,
-  "levelDescTextMapHash": 2612779707,
-  "EJJNNAIMFAB": "ART/UI/Atlas/NPCIcon/UI_NPC_Quest_Turenna_Circle",
-  "levelNameTextMapHash": 2797449180,
-  "levelBannerSubTitleTextMapHash": 1874999291,
-  "preLevelId": 1,
-  "dungeonId": 3801,
-  "galleryId": 64021,
-  "OJHMONNFIAE": 2775076719,
-  "levelId": 2
- },
- {
-  "GHACPMJBCGM": [
-   10,
-   15
-  ],
-  "OAADDCBKBEO": 403567609,
-  "EEEDHDHNGKN": [
+  "EEDHCCJCACH": [
    1,
    2,
    3,
@@ -93,32 +74,36 @@
    8,
    9,
    10
-  ],
+  ]
+ },
+ {
+  "dayIndex": 1,
+  "dungeonId": 3802,
+  "galleryId": 64022,
+  "levelBannerSubTitleTextMapHash": 3159492291,
+  "levelDescTextMapHash": 3198743195,
+  "levelId": 3,
+  "levelNameTextMapHash": 4235313076,
   "levelStatusDescTextMapHash": 2899513055,
-  "AFCDPHMPILP": "Player",
-  "GOHOPIPALGE": [
-   10
-  ],
+  "preLevelId": 2,
   "watcherList": [
    15166021,
    15166022,
    15166023
   ],
-  "dayIndex": 1,
-  "levelDescTextMapHash": 3198743195,
-  "EJJNNAIMFAB": "ART/UI/Atlas/NPCIcon/UI_NPC_Quest_Turenna_Circle",
-  "levelNameTextMapHash": 4235313076,
-  "levelBannerSubTitleTextMapHash": 3159492291,
-  "preLevelId": 2,
-  "dungeonId": 3802,
-  "OHFOJFDCLMC": true,
-  "galleryId": 64022,
-  "OJHMONNFIAE": 1798536807,
-  "levelId": 3
- },
- {
-  "OAADDCBKBEO": 1962718777,
-  "EEEDHDHNGKN": [
+  "INDNMPHMFHG": 403567609,
+  "DIEIAKEJHJA": 1798536807,
+  "PAIKDHJFDAF": true,
+  "NNMLGPHODMF": "ART/UI/Atlas/NPCIcon/UI_NPC_Quest_Turenna_Circle",
+  "BKLKJJBHAJO": "Player",
+  "FEPJMODBMEH": [
+   10
+  ],
+  "KMOLLEGINPO": [
+   10,
+   15
+  ],
+  "EEDHCCJCACH": [
    1,
    2,
    3,
@@ -129,45 +114,40 @@
    8,
    9,
    10
-  ],
+  ]
+ },
+ {
+  "dayIndex": 3,
+  "dungeonId": 3803,
+  "galleryId": 64023,
+  "levelBannerSubTitleTextMapHash": 3800217307,
+  "levelDescTextMapHash": 1296139851,
+  "levelId": 4,
+  "levelNameTextMapHash": 2412553020,
   "levelStatusDescTextMapHash": 1853712295,
-  "AFCDPHMPILP": "Paimon",
-  "ANGHHLCLPKC": [
-   2,
-   4,
-   7
-  ],
-  "GOHOPIPALGE": [
-   11,
-   12,
-   13,
-   14
-  ],
+  "preLevelId": 3,
   "preQuestId": 7450801,
   "watcherList": [
    15166031,
    15166032,
    15166033
   ],
-  "dayIndex": 3,
-  "levelDescTextMapHash": 1296139851,
-  "EJJNNAIMFAB": "ART/UI/Atlas/NPCIcon/UI_NPC_Quest_Enghiene_Circle",
-  "levelNameTextMapHash": 2412553020,
-  "levelBannerSubTitleTextMapHash": 3800217307,
-  "preLevelId": 3,
-  "dungeonId": 3803,
-  "galleryId": 64023,
-  "OJHMONNFIAE": 2204176375,
-  "levelId": 4
- },
- {
-  "GHACPMJBCGM": [
-   8,
-   9,
-   10
+  "INDNMPHMFHG": 1962718777,
+  "DIEIAKEJHJA": 2204176375,
+  "NNMLGPHODMF": "ART/UI/Atlas/NPCIcon/UI_NPC_Quest_Enghiene_Circle",
+  "BKLKJJBHAJO": "Paimon",
+  "FEGAKPCNFEC": [
+   2,
+   4,
+   7
   ],
-  "OAADDCBKBEO": 928869169,
-  "EEEDHDHNGKN": [
+  "FEPJMODBMEH": [
+   11,
+   12,
+   13,
+   14
+  ],
+  "EEDHCCJCACH": [
    1,
    2,
    3,
@@ -178,32 +158,37 @@
    8,
    9,
    10
-  ],
+  ]
+ },
+ {
+  "dayIndex": 3,
+  "dungeonId": 3804,
+  "galleryId": 64024,
+  "levelBannerSubTitleTextMapHash": 1419683707,
+  "levelDescTextMapHash": 195388067,
+  "levelId": 5,
+  "levelNameTextMapHash": 3727157780,
   "levelStatusDescTextMapHash": 1746296511,
-  "AFCDPHMPILP": "Player",
-  "GOHOPIPALGE": [
-   15
-  ],
+  "preLevelId": 4,
   "watcherList": [
    15166041,
    15166042,
    15166043
   ],
-  "dayIndex": 3,
-  "levelDescTextMapHash": 195388067,
-  "EJJNNAIMFAB": "ART/UI/Atlas/NPCIcon/UI_NPC_Quest_Enghiene_Circle",
-  "levelNameTextMapHash": 3727157780,
-  "levelBannerSubTitleTextMapHash": 1419683707,
-  "preLevelId": 4,
-  "dungeonId": 3804,
-  "OHFOJFDCLMC": true,
-  "galleryId": 64024,
-  "OJHMONNFIAE": 4258800303,
-  "levelId": 5
- },
- {
-  "OAADDCBKBEO": 1564168977,
-  "EEEDHDHNGKN": [
+  "INDNMPHMFHG": 928869169,
+  "DIEIAKEJHJA": 4258800303,
+  "PAIKDHJFDAF": true,
+  "NNMLGPHODMF": "ART/UI/Atlas/NPCIcon/UI_NPC_Quest_Enghiene_Circle",
+  "BKLKJJBHAJO": "Player",
+  "FEPJMODBMEH": [
+   15
+  ],
+  "KMOLLEGINPO": [
+   8,
+   9,
+   10
+  ],
+  "EEDHCCJCACH": [
    1,
    2,
    3,
@@ -214,15 +199,34 @@
    8,
    9,
    10
-  ],
+  ]
+ },
+ {
+  "dayIndex": 5,
+  "dungeonId": 3805,
+  "galleryId": 64025,
+  "levelBannerSubTitleTextMapHash": 539314883,
+  "levelDescTextMapHash": 1834867603,
+  "levelId": 6,
+  "levelNameTextMapHash": 1214032764,
   "levelStatusDescTextMapHash": 133420567,
-  "AFCDPHMPILP": "Paimon",
-  "ANGHHLCLPKC": [
+  "preLevelId": 5,
+  "preQuestId": 7450901,
+  "watcherList": [
+   15166051,
+   15166052,
+   15166053
+  ],
+  "DIEIAKEJHJA": 542528495,
+  "INDNMPHMFHG": 1564168977,
+  "NNMLGPHODMF": "ART/UI/Atlas/NPCIcon/UI_NPC_Quest_Souka_Circle",
+  "BKLKJJBHAJO": "Paimon",
+  "FEGAKPCNFEC": [
    2,
    3,
    4
   ],
-  "GOHOPIPALGE": [
+  "FEPJMODBMEH": [
    17,
    18,
    20,
@@ -230,31 +234,7 @@
    19,
    21
   ],
-  "preQuestId": 7450901,
-  "watcherList": [
-   15166051,
-   15166052,
-   15166053
-  ],
-  "dayIndex": 5,
-  "levelDescTextMapHash": 1834867603,
-  "EJJNNAIMFAB": "ART/UI/Atlas/NPCIcon/UI_NPC_Quest_Souka_Circle",
-  "levelNameTextMapHash": 1214032764,
-  "levelBannerSubTitleTextMapHash": 539314883,
-  "preLevelId": 5,
-  "dungeonId": 3805,
-  "galleryId": 64025,
-  "OJHMONNFIAE": 542528495,
-  "levelId": 6
- },
- {
-  "GHACPMJBCGM": [
-   8,
-   10,
-   15
-  ],
-  "OAADDCBKBEO": 3360023513,
-  "EEEDHDHNGKN": [
+  "EEDHCCJCACH": [
    1,
    2,
    3,
@@ -265,28 +245,48 @@
    8,
    9,
    10
-  ],
+  ]
+ },
+ {
+  "dayIndex": 5,
+  "dungeonId": 3806,
+  "galleryId": 64026,
+  "levelBannerSubTitleTextMapHash": 3811699475,
+  "levelDescTextMapHash": 2894672707,
+  "levelId": 7,
+  "levelNameTextMapHash": 3475339892,
   "levelStatusDescTextMapHash": 1823799231,
-  "AFCDPHMPILP": "Player",
-  "GOHOPIPALGE": [
-   22
-  ],
   "postQuestId": 7451001,
+  "preLevelId": 6,
   "watcherList": [
    15166061,
    15166062,
    15166063
   ],
-  "dayIndex": 5,
-  "levelDescTextMapHash": 2894672707,
-  "EJJNNAIMFAB": "ART/UI/Atlas/NPCIcon/UI_NPC_Quest_Haniyyah_Circle",
-  "levelNameTextMapHash": 3475339892,
-  "levelBannerSubTitleTextMapHash": 3811699475,
-  "preLevelId": 6,
-  "dungeonId": 3806,
-  "OHFOJFDCLMC": true,
-  "galleryId": 64026,
-  "OJHMONNFIAE": 3483405063,
-  "levelId": 7
+  "INDNMPHMFHG": 3360023513,
+  "DIEIAKEJHJA": 3483405063,
+  "PAIKDHJFDAF": true,
+  "NNMLGPHODMF": "ART/UI/Atlas/NPCIcon/UI_NPC_Quest_Haniyyah_Circle",
+  "BKLKJJBHAJO": "Player",
+  "FEPJMODBMEH": [
+   22
+  ],
+  "KMOLLEGINPO": [
+   8,
+   10,
+   15
+  ],
+  "EEDHCCJCACH": [
+   1,
+   2,
+   3,
+   4,
+   5,
+   6,
+   7,
+   8,
+   9,
+   10
+  ]
  }
 ]

@@ -6,15 +6,15 @@
     "type": "Multiply"
    },
    {
-    "value": 50,
-    "type": "Add"
+    "type": "Add",
+    "value": 50
    },
    {
-    "value": 30,
-    "type": "Add"
+    "type": "Add",
+    "value": 30
    }
   ],
-  "LPLJMEEPMEO": 224001
+  "CAOKJNMAEBE": 224001
  },
  {
   "id": 224522,
@@ -26,10 +26,26 @@
     "type": "Add"
    },
    {
-    "value": 20,
+    "type": "Add",
+    "value": 20
+   }
+  ],
+  "CAOKJNMAEBE": 224002
+ },
+ {
+  "id": 224525,
+  "modifiers": [
+   {
+    "type": "Multiply",
+    "value": 0.5
+   },
+   {
+    "type": "Add"
+   },
+   {
     "type": "Add"
    }
   ],
-  "LPLJMEEPMEO": 224002
+  "CAOKJNMAEBE": 224101
  }
 ]

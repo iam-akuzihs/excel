@@ -1,108 +1,108 @@
 [
  {
-  "INAOMHKCKOB": 2.5,
   "id": 1,
-  "FEBBDBPEFCE": [
+  "BKHFEIOLOEF": 0.5,
+  "FEKCFJDEINN": 2.5,
+  "OMDAKCNCGJI": 10,
+  "GPMEJMMIKLM": [
+   {
+    "FGJOOADFFIK": "MATERIAL_NOTICE_ADD_HP"
+   },
+   {
+    "FGJOOADFFIK": "MATERIAL_EXCHANGE"
+   },
+   {
+    "FGJOOADFFIK": "MATERIAL_WOOD"
+   }
+  ],
+  "PCEGGDLCNLA": [
    90000,
    90000,
    320,
    321,
    330,
    330
-  ],
-  "MOOCBJFHOEG": 0.5,
-  "KHLJBFINBKL": [
-   {
-    "GBACMGOCFKM": "MATERIAL_NOTICE_ADD_HP"
-   },
-   {
-    "GBACMGOCFKM": "MATERIAL_EXCHANGE"
-   },
-   {
-    "GBACMGOCFKM": "MATERIAL_WOOD"
-   }
-  ],
-  "LMJDDDHEODA": 10
+  ]
  },
  {
-  "INAOMHKCKOB": 1.2,
   "id": 2,
-  "FEBBDBPEFCE": [
+  "type": "Mid",
+  "BKHFEIOLOEF": 1.2,
+  "FEKCFJDEINN": 1.2,
+  "OMDAKCNCGJI": 15,
+  "GPMEJMMIKLM": [
+   {
+    "FGJOOADFFIK": "MATERIAL_EXCHANGE"
+   },
+   {
+    "FGJOOADFFIK": "MATERIAL_EXCHANGE"
+   },
+   {}
+  ],
+  "PCEGGDLCNLA": [
    311,
    317,
    301,
    301
-  ],
-  "MOOCBJFHOEG": 1.2,
-  "KHLJBFINBKL": [
+  ]
+ },
+ {
+  "id": 3,
+  "type": "Hi",
+  "FEKCFJDEINN": 1,
+  "BKHFEIOLOEF": 1.2,
+  "OMDAKCNCGJI": 15,
+  "GPMEJMMIKLM": [
    {
-    "GBACMGOCFKM": "MATERIAL_EXCHANGE"
+    "FGJOOADFFIK": "MATERIAL_EXCHANGE"
    },
    {
-    "GBACMGOCFKM": "MATERIAL_EXCHANGE"
+    "FGJOOADFFIK": "MATERIAL_CONSUME"
    },
    {}
   ],
-  "type": "Mid",
-  "LMJDDDHEODA": 15
- },
- {
-  "INAOMHKCKOB": 1,
-  "id": 3,
-  "FEBBDBPEFCE": [
+  "PCEGGDLCNLA": [
    341,
    341,
    430001,
    430001
-  ],
-  "MOOCBJFHOEG": 1.2,
-  "KHLJBFINBKL": [
-   {
-    "GBACMGOCFKM": "MATERIAL_EXCHANGE"
-   },
-   {
-    "GBACMGOCFKM": "MATERIAL_CONSUME"
-   },
-   {}
-  ],
-  "type": "Hi",
-  "LMJDDDHEODA": 15
+  ]
  },
  {
-  "INAOMHKCKOB": 1,
   "id": 4,
-  "FEBBDBPEFCE": [
+  "type": "Top",
+  "FEKCFJDEINN": 1,
+  "JCOCOGCGFLI": 1,
+  "BKHFEIOLOEF": 5,
+  "OMDAKCNCGJI": 120,
+  "GPMEJMMIKLM": [
+   {
+    "FGJOOADFFIK": "MATERIAL_ELEM_CRYSTAL"
+   },
+   {},
+   {}
+  ],
+  "PCEGGDLCNLA": [
    420001,
    420021
-  ],
-  "MOOCBJFHOEG": 5,
-  "KHLJBFINBKL": [
-   {
-    "GBACMGOCFKM": "MATERIAL_ELEM_CRYSTAL"
-   },
-   {},
-   {}
-  ],
-  "type": "Top",
-  "LMJDDDHEODA": 120,
-  "ELPINEPIKKP": 1
+  ]
  },
  {
-  "INAOMHKCKOB": 3,
   "id": 5,
-  "FEBBDBPEFCE": [
-   10101,
-   10199
-  ],
-  "MOOCBJFHOEG": 1,
-  "KHLJBFINBKL": [
+  "type": "Drop",
+  "BKHFEIOLOEF": 1,
+  "FEKCFJDEINN": 3,
+  "OMDAKCNCGJI": 15,
+  "GPMEJMMIKLM": [
    {
-    "GBACMGOCFKM": "MATERIAL_AVATAR_MATERIAL"
+    "FGJOOADFFIK": "MATERIAL_AVATAR_MATERIAL"
    },
    {},
    {}
   ],
-  "type": "Drop",
-  "LMJDDDHEODA": 15
+  "PCEGGDLCNLA": [
+   10101,
+   10199
+  ]
  }
 ]
