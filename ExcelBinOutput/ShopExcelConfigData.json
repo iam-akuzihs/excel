@@ -1,0 +1,835 @@
+[
+ {
+  "shopId": 101,
+  "shopType": "SHOP_TYPE_VIRTUAL_SHOP",
+  "openStateType": "OPEN_STATE_SHOP_TYPE_VIRTUAL_SHOP",
+  "AHNGCAPKJBJ": ""
+ },
+ {
+  "shopId": 102,
+  "shopType": "SHOP_TYPE_PAIMON",
+  "refreshType": "SHOP_REFRESH_MONTHLY",
+  "refreshParam": 1,
+  "openStateType": "OPEN_STATE_SHOP_TYPE_PAIMON",
+  "AHNGCAPKJBJ": "SHOP_TYPE_PAIMON"
+ },
+ {
+  "shopId": 103,
+  "shopType": "SHOP_TYPE_PACKAGE",
+  "openStateType": "OPEN_STATE_SHOP_TYPE_GIFTPACKAGE",
+  "AHNGCAPKJBJ": "SHOP_TYPE_PACKAGE"
+ },
+ {
+  "shopId": 104,
+  "shopType": "SHOP_TYPE_RECOMMEND",
+  "openStateType": "OPEN_STATE_SHOP_TYPE_RECOMMANDED",
+  "AHNGCAPKJBJ": "SHOP_TYPE_RECOMMEND"
+ },
+ {
+  "shopId": 105,
+  "shopType": "SHOP_TYPE_MCOIN",
+  "openStateType": "OPEN_STATE_SHOP_TYPE_GENESISCRYSTAL",
+  "AHNGCAPKJBJ": "SHOP_TYPE_MCOIN"
+ },
+ {
+  "shopId": 106,
+  "shopType": "SHOP_TYPE_COSTUME",
+  "AHNGCAPKJBJ": ""
+ },
+ {
+  "shopId": 201,
+  "shopType": "SHOP_TYPE_CITY",
+  "openStateType": "OPEN_STATE_SHOP_TYPE_CITY",
+  "AHNGCAPKJBJ": "SHOP_TYPE_CITY"
+ },
+ {
+  "shopId": 202,
+  "shopType": "SHOP_TYPE_BLACKSMITH",
+  "openStateType": "OPEN_STATE_SHOP_TYPE_BLACKSMITH",
+  "AHNGCAPKJBJ": "SHOP_TYPE_BLACKSMITH"
+ },
+ {
+  "shopId": 203,
+  "shopType": "SHOP_TYPE_GROCERY",
+  "openStateType": "OPEN_STATE_SHOP_TYPE_GROCERY",
+  "cityId": 1,
+  "cityDiscountLevel": 4,
+  "scoinDiscountRate": 90,
+  "vipFuncID": 1002,
+  "AHNGCAPKJBJ": "SHOP_TYPE_GROCERY"
+ },
+ {
+  "shopId": 204,
+  "shopType": "SHOP_TYPE_FOOD",
+  "openStateType": "OPEN_STATE_SHOP_TYPE_FOOD",
+  "cityId": 1,
+  "cityDiscountLevel": 4,
+  "scoinDiscountRate": 90,
+  "vipFuncID": 1002,
+  "AHNGCAPKJBJ": "SHOP_TYPE_FOOD"
+ },
+ {
+  "shopId": 205,
+  "shopType": "SHOP_TYPE_NPC_Flora",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 206,
+  "shopType": "SHOP_TYPE_NPC_Charles",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 207,
+  "shopType": "SHOP_TYPE_NPC_Shiliu",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 208,
+  "shopType": "SHOP_TYPE_NPC_Schulz",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 209,
+  "shopType": "SHOP_TYPE_NPC_Brook",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 210,
+  "shopType": "SHOP_TYPE_NPC_Hopkins",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 211,
+  "shopType": "SHOP_TYPE_NPC_Draff",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 212,
+  "shopType": "SHOP_TYPE_NPC_Chloris",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 213,
+  "shopType": "SHOP_TYPE_HOME",
+  "openStateType": "OPEN_STATE_HOME",
+  "AHNGCAPKJBJ": "SHOP_TYPE_HOME"
+ },
+ {
+  "shopId": 214,
+  "shopType": "SHOP_TYPE_HOME_LIMIT",
+  "openStateType": "OPEN_STATE_HOME",
+  "AHNGCAPKJBJ": "SHOP_TYPE_HOME_LIMIT"
+ },
+ {
+  "shopId": 215,
+  "shopType": "SHOP_TYPE_FISH",
+  "AHNGCAPKJBJ": "SHOP_TYPE_FISH"
+ },
+ {
+  "shopId": 216,
+  "shopType": "SHOP_TYPE_EXPIRED_WIDGET_MENGDE",
+  "AHNGCAPKJBJ": "SHOP_TYPE_EXPIRED_WIDGET_MENGDE"
+ },
+ {
+  "shopId": 217,
+  "shopType": "SHOP_TYPE_GCG_CARD",
+  "AHNGCAPKJBJ": ""
+ },
+ {
+  "shopId": 218,
+  "shopType": "SHOP_TYPE_GCG_CARD_FACE",
+  "AHNGCAPKJBJ": ""
+ },
+ {
+  "shopId": 219,
+  "shopType": "SHOP_TYPE_GCG_APPEARANCE",
+  "AHNGCAPKJBJ": ""
+ },
+ {
+  "shopId": 220,
+  "shopType": "SHOP_TYPE_GCG_EXCHANGE",
+  "AHNGCAPKJBJ": ""
+ },
+ {
+  "shopId": 301,
+  "shopType": "SHOP_TYPE_LIYUE_SOUVENIR",
+  "openStateType": "OPEN_STATE_SHOP_TYPE_LIYUE_SOUVENIR",
+  "AHNGCAPKJBJ": "SHOP_TYPE_LIYUE_SOUVENIR"
+ },
+ {
+  "shopId": 302,
+  "shopType": "SHOP_TYPE_LIYUE_GROCERY",
+  "openStateType": "OPEN_STATE_SHOP_TYPE_LIYUE_GROCERY",
+  "cityId": 2,
+  "cityDiscountLevel": 4,
+  "scoinDiscountRate": 90,
+  "vipFuncID": 2002,
+  "AHNGCAPKJBJ": "SHOP_TYPE_LIYUE_GROCERY"
+ },
+ {
+  "shopId": 303,
+  "shopType": "SHOP_TYPE_LIYUE_RESTAURANT",
+  "openStateType": "OPEN_STATE_SHOP_TYPE_LIYUE_RESTAURANT",
+  "cityId": 2,
+  "cityDiscountLevel": 4,
+  "scoinDiscountRate": 90,
+  "vipFuncID": 2002,
+  "AHNGCAPKJBJ": "SHOP_TYPE_LIYUE_RESTAURANT"
+ },
+ {
+  "shopId": 304,
+  "shopType": "SHOP_TYPE_NPC_Licai",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_Licai"
+ },
+ {
+  "shopId": 305,
+  "shopType": "SHOP_TYPE_NPC_Yueshu",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_Yueshu"
+ },
+ {
+  "shopId": 306,
+  "shopType": "SHOP_TYPE_NPC_Gui",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 307,
+  "shopType": "SHOP_TYPE_NPC_Gao",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 308,
+  "shopType": "SHOP_TYPE_NPC_Sun",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 309,
+  "shopType": "SHOP_TYPE_NPC_Qiming",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 310,
+  "shopType": "SHOP_TYPE_NPC_Zhangshun",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 311,
+  "shopType": "SHOP_TYPE_NPC_Chen",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 312,
+  "shopType": "SHOP_TYPE_NPC_ErNiang",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 313,
+  "shopType": "SHOP_TYPE_NPC_Shitou",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 314,
+  "shopType": "SHOP_TYPE_NPC_Jifang",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 315,
+  "shopType": "SHOP_TYPE_NPC_Zhu",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 316,
+  "shopType": "SHOP_TYPE_NPC_Bai",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 317,
+  "shopType": "SHOP_TYPE_NPC_Kai",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 318,
+  "shopType": "SHOP_TYPE_NPC_Linglang",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 319,
+  "shopType": "SHOP_TYPE_NPC_VerrGoldet",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 320,
+  "shopType": "SHOP_TYPE_NPC_Zhou",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 321,
+  "shopType": "SHOP_TYPE_TASK_Ekaterina",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 322,
+  "shopType": "SHOP_TYPE_TASK_Tartaglia",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 323,
+  "shopType": "SHOP_TYPE_NPC_Harris",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 324,
+  "shopType": "SHOP_TYPE_FISH_LIYUE",
+  "AHNGCAPKJBJ": "SHOP_TYPE_FISH_LIYUE"
+ },
+ {
+  "shopId": 325,
+  "shopType": "SHOP_TYPE_NPC_Lianfang",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 326,
+  "shopType": "SHOP_TYPE_NPC_Fengtai",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 401,
+  "shopType": "SHOP_TYPE_NPC_Obata",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 402,
+  "shopType": "SHOP_TYPE_NPC_Qiuyue",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 403,
+  "shopType": "SHOP_TYPE_NPC_Ryouko",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 404,
+  "shopType": "SHOP_TYPE_INAZUMA_GROCERY",
+  "cityId": 3,
+  "cityDiscountLevel": 4,
+  "scoinDiscountRate": 90,
+  "vipFuncID": 3002,
+  "AHNGCAPKJBJ": "SHOP_TYPE_INAZUMA_GROCERY"
+ },
+ {
+  "shopId": 405,
+  "shopType": "SHOP_TYPE_INAZUMA_SOUVENIR",
+  "openStateType": "OPEN_STATE_SHOP_TYPE_INAZUMA_SOUVENIR",
+  "AHNGCAPKJBJ": "SHOP_TYPE_INAZUMA_SOUVENIR"
+ },
+ {
+  "shopId": 406,
+  "shopType": "SHOP_TYPE_INAZUMA_RESTAURANT",
+  "cityId": 3,
+  "cityDiscountLevel": 4,
+  "scoinDiscountRate": 90,
+  "vipFuncID": 3002,
+  "AHNGCAPKJBJ": "SHOP_TYPE_INAZUMA_RESTAURANT"
+ },
+ {
+  "shopId": 407,
+  "shopType": "SHOP_TYPE_NPC_Kuroda",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 408,
+  "shopType": "SHOP_TYPE_NPC_KiminamiAnna",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_KiminamiAnna"
+ },
+ {
+  "shopId": 409,
+  "shopType": "SHOP_TYPE_NPC_Tomoki",
+  "openStateType": "OPEN_STATE_SHOP_TYPE_NPC_TOMOKI",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 410,
+  "shopType": "SHOP_TYPE_NPC_Karpillia",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 411,
+  "shopType": "SHOP_TYPE_BLACKSMITH_INAZUMA",
+  "openStateType": "OPEN_STATE_SHOP_TYPE_BLACKSMITH",
+  "AHNGCAPKJBJ": "SHOP_TYPE_BLACKSMITH_INAZUMA"
+ },
+ {
+  "shopId": 412,
+  "shopType": "SHOP_TYPE_FISH_INAZUMA",
+  "AHNGCAPKJBJ": "SHOP_TYPE_FISH_INAZUMA"
+ },
+ {
+  "shopId": 413,
+  "shopType": "SHOP_TYPE_NPC_Kiyoko",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 414,
+  "shopType": "SHOP_TYPE_CAPTURE_ANIMAL_SHOP",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 415,
+  "shopType": "SHOP_TYPE_NPC_YamashiroKenta",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 416,
+  "shopType": "SHOP_TYPE_EXPIRED_WIDGET_INAZUMA",
+  "AHNGCAPKJBJ": "SHOP_TYPE_EXPIRED_WIDGET_MENGDE"
+ },
+ {
+  "shopId": 501,
+  "shopType": "SHOP_TYPE_FISH_SUMERU",
+  "AHNGCAPKJBJ": "SHOP_TYPE_FISH_SUMERU"
+ },
+ {
+  "shopId": 502,
+  "shopType": "SHOP_TYPE_NPC_Pam",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 503,
+  "shopType": "SHOP_TYPE_NPC_Lambad",
+  "cityId": 4,
+  "cityDiscountLevel": 4,
+  "scoinDiscountRate": 90,
+  "vipFuncID": 4002,
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_Lambad"
+ },
+ {
+  "shopId": 504,
+  "shopType": "SHOP_TYPE_NPC_Hamawi",
+  "cityId": 4,
+  "cityDiscountLevel": 4,
+  "scoinDiscountRate": 90,
+  "vipFuncID": 4002,
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_Hamawi"
+ },
+ {
+  "shopId": 505,
+  "shopType": "SHOP_TYPE_NPC_Khalid",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_Khalid"
+ },
+ {
+  "shopId": 506,
+  "shopType": "SHOP_TYPE_NPC_Ahangar",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_Ahangar"
+ },
+ {
+  "shopId": 507,
+  "shopType": "SHOP_TYPE_NPC_Afshin",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 508,
+  "shopType": "SHOP_TYPE_NPC_Jut",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 509,
+  "shopType": "SHOP_TYPE_NPC_Butrus",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 510,
+  "shopType": "SHOP_TYPE_NPC_Jahangir",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 511,
+  "shopType": "SHOP_TYPE_NPC_Qiuwei",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 512,
+  "shopType": "SHOP_TYPE_NPC_Babak",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 513,
+  "shopType": "SHOP_TYPE_NPC_Rama",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 514,
+  "shopType": "SHOP_TYPE_NPC_Ashpazi",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 515,
+  "shopType": "SHOP_TYPE_NPC_Aramani",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 516,
+  "shopType": "SHOP_TYPE_NPC_Aravinay",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 517,
+  "shopType": "SHOP_TYPE_NPC_Enteka",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 518,
+  "shopType": "SHOP_TYPE_NPC_Azalai",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 601,
+  "shopType": "SHOP_TYPE_NPC_Establet",
+  "hasSubSheet": true,
+  "NOHALKLLNGH": true,
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_Establet"
+ },
+ {
+  "shopId": 602,
+  "shopType": "SHOP_TYPE_NPC_Alvard_01",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 603,
+  "shopType": "SHOP_TYPE_NPC_Alvard_02",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 604,
+  "shopType": "SHOP_TYPE_NPC_Wolsey",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 605,
+  "shopType": "SHOP_TYPE_NPC_Mequignon",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_Mequignon"
+ },
+ {
+  "shopId": 606,
+  "shopType": "SHOP_TYPE_NPC_Boucicaut",
+  "cityId": 5,
+  "cityDiscountLevel": 4,
+  "scoinDiscountRate": 90,
+  "vipFuncID": 5002,
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_Boucicaut"
+ },
+ {
+  "shopId": 607,
+  "shopType": "SHOP_TYPE_NPC_Sanguinetti",
+  "cityId": 5,
+  "cityDiscountLevel": 4,
+  "scoinDiscountRate": 90,
+  "vipFuncID": 5002,
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_Sanguinetti"
+ },
+ {
+  "shopId": 608,
+  "shopType": "SHOP_TYPE_NPC_Hubel",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 609,
+  "shopType": "SHOP_TYPE_NPC_Eugene",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 610,
+  "shopType": "SHOP_TYPE_NPC_Louis",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 611,
+  "shopType": "SHOP_TYPE_NPC_Crassa",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 612,
+  "shopType": "SHOP_TYPE_NPC_Arouet",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 613,
+  "shopType": "SHOP_TYPE_NPC_Hinterman",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 614,
+  "shopType": "SHOP_TYPE_NPC_Xana",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 615,
+  "shopType": "SHOP_TYPE_FISH_FONTAINE",
+  "AHNGCAPKJBJ": "SHOP_TYPE_FISH_FONTAINE"
+ },
+ {
+  "shopId": 616,
+  "shopType": "SHOP_TYPE_NPC_Pitot",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 617,
+  "shopType": "SHOP_TYPE_NPC_Fonta_make_meka",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 618,
+  "shopType": "SHOP_TYPE_NPC_Pahsiv_02",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 619,
+  "shopType": "SHOP_TYPE_EXPIRED_WIDGET_FONTAIN",
+  "AHNGCAPKJBJ": "SHOP_TYPE_EXPIRED_WIDGET_MENGDE"
+ },
+ {
+  "shopId": 701,
+  "shopType": "SHOP_TYPE_NPC_Siyah",
+  "AHNGCAPKJBJ": "SHOP_TYPE_CITY"
+ },
+ {
+  "shopId": 702,
+  "shopType": "SHOP_TYPE_NPC_Chanca",
+  "cityId": 6,
+  "GPBBKIEJLJG": 2,
+  "scoinDiscountRate": 90,
+  "vipFuncID": 6002,
+  "AHNGCAPKJBJ": "SHOP_TYPE_FOOD"
+ },
+ {
+  "shopId": 703,
+  "shopType": "SHOP_TYPE_NPC_Alom",
+  "hasSubSheet": true,
+  "NOHALKLLNGH": true,
+  "AHNGCAPKJBJ": "SHOP_TYPE_BLACKSMITH"
+ },
+ {
+  "shopId": 704,
+  "shopType": "SHOP_TYPE_NPC_Echuah",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 705,
+  "shopType": "SHOP_TYPE_NPC_Cipac",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 706,
+  "shopType": "SHOP_TYPE_NPC_Bounama",
+  "cityId": 6,
+  "GPBBKIEJLJG": 2,
+  "scoinDiscountRate": 90,
+  "vipFuncID": 6002,
+  "AHNGCAPKJBJ": "SHOP_TYPE_GROCERY"
+ },
+ {
+  "shopId": 707,
+  "shopType": "SHOP_TYPE_NPC_Cintli",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 708,
+  "shopType": "SHOP_TYPE_NPC_Imix",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 709,
+  "shopType": "SHOP_TYPE_FISH_NATLAN",
+  "AHNGCAPKJBJ": "SHOP_TYPE_FISH_NATLAN"
+ },
+ {
+  "shopId": 710,
+  "shopType": "SHOP_TYPE_NPC_Amazolli",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 711,
+  "shopType": "SHOP_TYPE_NPC_Anchieta",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 1001,
+  "shopType": "SHOP_TYPE_SEA_LAMP",
+  "openStateType": "OPEN_STATE_SHOP_TYPE_SEA_LAMP",
+  "AHNGCAPKJBJ": "SHOP_TYPE_ACTIVITY"
+ },
+ {
+  "shopId": 1002,
+  "shopType": "SHOP_TYPE_ACTIVITY_ASTER",
+  "AHNGCAPKJBJ": "SHOP_TYPE_ACTIVITY"
+ },
+ {
+  "shopId": 1003,
+  "shopType": "SHOP_TYPE_ACTIVITY_TREASURE_MAP",
+  "AHNGCAPKJBJ": "SHOP_TYPE_ACTIVITY"
+ },
+ {
+  "shopId": 1004,
+  "shopType": "SHOP_TYPE_ACTIVITY_DRAGON_SPINE",
+  "AHNGCAPKJBJ": "SHOP_TYPE_ACTIVITY"
+ },
+ {
+  "shopId": 1005,
+  "shopType": "SHOP_TYPE_ACTIVITY_SEA_LAMP",
+  "AHNGCAPKJBJ": "SHOP_TYPE_ACTIVITY"
+ },
+ {
+  "shopId": 1044,
+  "shopType": "SHOP_TYPE_ACTIVITY_FLEUR_FAIR",
+  "AHNGCAPKJBJ": "SHOP_TYPE_ACTIVITY"
+ },
+ {
+  "shopId": 1042,
+  "shopType": "SHOP_TYPE_NPC_Yinian",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 1045,
+  "shopType": "SHOP_TYPE_NPC_Changshun",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 1046,
+  "shopType": "SHOP_TYPE_NPC_Bolai",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 1047,
+  "shopType": "SHOP_TYPE_NPC_Ashanpo",
+  "hasSubSheet": true,
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 1050,
+  "shopType": "SHOP_TYPE_NPC_MasterLu",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_MasterLu"
+ },
+ {
+  "shopId": 1051,
+  "shopType": "SHOP_TYPE_NPC_Goth",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_Goth"
+ },
+ {
+  "shopId": 1052,
+  "shopType": "SHOP_TYPE_ACTIVITY_VINTAGE_ANGEL_S_SHARE",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ },
+ {
+  "shopId": 1053,
+  "shopType": "SHOP_TYPE_NPC_Zhenyuan",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_Zhenyuan"
+ },
+ {
+  "shopId": 1054,
+  "shopType": "SHOP_TYPE_NPC_WOLF_POSE",
+  "AHNGCAPKJBJ": "SHOP_TYPE_PHOTO_POSE"
+ },
+ {
+  "shopId": 1055,
+  "shopType": "SHOP_TYPE_MUSIC_GAME_BOOK",
+  "AHNGCAPKJBJ": "SHOP_TYPE_MUSIC_GAME_BOOK"
+ },
+ {
+  "shopId": 15001,
+  "shopType": "SHOP_TYPE_ACTIVITY_CHANNELLER_SLAB",
+  "AHNGCAPKJBJ": "SHOP_TYPE_ACTIVITY"
+ },
+ {
+  "shopId": 16001,
+  "shopType": "SHOP_TYPE_ACTIVITY_SUMMER_TIME",
+  "AHNGCAPKJBJ": "SHOP_TYPE_ACTIVITY"
+ },
+ {
+  "shopId": 16002,
+  "shopType": "SHOP_TYPE_ACTIVITY_BOUNCE_CONJURING",
+  "AHNGCAPKJBJ": "SHOP_TYPE_ACTIVITY"
+ },
+ {
+  "shopId": 20001,
+  "shopType": "SHOP_TYPE_ACTIVITY_BLITZ_RUSH",
+  "AHNGCAPKJBJ": "SHOP_TYPE_ACTIVITY"
+ },
+ {
+  "shopId": 20002,
+  "shopType": "SHOP_TYPE_ACTIVITY_CHESS",
+  "AHNGCAPKJBJ": "SHOP_TYPE_ACTIVITY"
+ },
+ {
+  "shopId": 22001,
+  "shopType": "SHOP_TYPE_ACTIVITY_ROGUELIKE_DUNGEON",
+  "AHNGCAPKJBJ": "SHOP_TYPE_ACTIVITY"
+ },
+ {
+  "shopId": 20003,
+  "shopType": "SHOP_TYPE_ACTIVITY_WINTER_CAMP",
+  "AHNGCAPKJBJ": "SHOP_TYPE_ACTIVITY"
+ },
+ {
+  "shopId": 20005,
+  "shopType": "SHOP_TYPE_ACTIVITY_LANTERN_RITE",
+  "AHNGCAPKJBJ": "SHOP_TYPE_ACTIVITY"
+ },
+ {
+  "shopId": 27001,
+  "shopType": "SHOP_TYPE_ACTIVITY_ROGUE_DIARY",
+  "AHNGCAPKJBJ": "SHOP_TYPE_ACTIVITY"
+ },
+ {
+  "shopId": 28001,
+  "shopType": "SHOP_TYPE_ACTIVITY_SUMMER_TIME_V2",
+  "AHNGCAPKJBJ": "SHOP_TYPE_ACTIVITY"
+ },
+ {
+  "shopId": 30001,
+  "shopType": "SHOP_TYPE_ACTIVITY_GRAVEN_INNOCENCE",
+  "AHNGCAPKJBJ": "SHOP_TYPE_ACTIVITY"
+ },
+ {
+  "shopId": 32001,
+  "shopType": "SHOP_TYPE_ACTIVITY_FUNGUS_FIGHTER",
+  "AHNGCAPKJBJ": "SHOP_TYPE_ACTIVITY"
+ },
+ {
+  "shopId": 32002,
+  "shopType": "SHOP_TYPE_ACTIVITY_EFFIGY_V2",
+  "AHNGCAPKJBJ": "SHOP_TYPE_ACTIVITY"
+ },
+ {
+  "shopId": 33001,
+  "shopType": "SHOP_TYPE_ACTIVITY_BRICK_BREAKER",
+  "AHNGCAPKJBJ": "SHOP_TYPE_ACTIVITY"
+ },
+ {
+  "shopId": 35001,
+  "shopType": "SHOP_TYPE_ACTIVITY_FLEURFAIR_V2",
+  "AHNGCAPKJBJ": "SHOP_TYPE_ACTIVITY"
+ },
+ {
+  "shopId": 37001,
+  "shopType": "SHOP_TYPE_ACTIVITY_JOURNEY",
+  "AHNGCAPKJBJ": "SHOP_TYPE_ACTIVITY_JOURNEY"
+ },
+ {
+  "shopId": 40001,
+  "shopType": "SHOP_TYPE_ACTIVITY_TOY_BATTLE",
+  "AHNGCAPKJBJ": "SHOP_TYPE_ACTIVITY"
+ },
+ {
+  "shopId": 43001,
+  "shopType": "SHOP_TYPE_ACTIVITY_FILMFEST",
+  "AHNGCAPKJBJ": "SHOP_TYPE_ACTIVITY"
+ },
+ {
+  "shopId": 45001,
+  "shopType": "SHOP_TYPE_ACTIVITY_ALCHEMY_SIM",
+  "AHNGCAPKJBJ": "SHOP_TYPE_ACTIVITY"
+ },
+ {
+  "shopId": 46001,
+  "shopType": "SHOP_TYPE_ACTIVITY_GREAT_FESTIVAL_V2_NPC",
+  "AHNGCAPKJBJ": "SHOP_TYPE_NPC_SHOP"
+ }
+]

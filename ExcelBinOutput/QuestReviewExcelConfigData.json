@@ -1,0 +1,48 @@
+[
+ {
+  "id": 1,
+  "LCODPOBOLPH": [
+   {
+    "param": ""
+   }
+  ],
+  "NBJJABAMCMG": []
+ },
+ {
+  "id": 2,
+  "LCODPOBOLPH": [
+   {
+    "type": "QUEST_GLOBAL_VAR_EQ",
+    "param": "10004,1"
+   }
+  ],
+  "NBJJABAMCMG": [
+   1,
+   2
+  ]
+ },
+ {
+  "id": 75048,
+  "LCODPOBOLPH": [
+   {
+    "type": "QUEST_GLOBAL_VAR_EQ",
+    "param": "7500204,1"
+   }
+  ],
+  "NBJJABAMCMG": [
+   75002
+  ]
+ },
+ {
+  "id": 75002,
+  "LCODPOBOLPH": [
+   {
+    "type": "QUEST_GLOBAL_VAR_EQ",
+    "param": "7500203,1"
+   }
+  ],
+  "NBJJABAMCMG": [
+   75048
+  ]
+ }
+]
