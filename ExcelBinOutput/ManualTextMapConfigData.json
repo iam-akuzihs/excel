@@ -4385,6 +4385,20 @@
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
+  "textMapContentTextMapHash": 3193482650,
+  "textMapId": "UI_NOTICE_TIME_6"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3466249122,
+  "textMapId": "UI_NOTICE_TIME_7"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
   "textMapContentTextMapHash": 1022567652,
   "textMapId": "UI_NOTICE_CONFIRM_BUTTON_1"
  },
@@ -9012,6 +9026,76 @@
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
+  "textMapContentTextMapHash": 407241733,
+  "textMapId": "CUTSCENE_Alice_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 237704423,
+  "textMapId": "CUTSCENE_Alice_SUBTITLE_01"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1178045103,
+  "textMapId": "CUTSCENE_Alice_SUBTITLE_02"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2550543452,
+  "textMapId": "CUTSCENE_Alice_LABEL_01"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 991652165,
+  "textMapId": "CUTSCENE_Alice_DESC"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4130014018,
+  "textMapId": "CUTSCENE_Nicole_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4177470109,
+  "textMapId": "CUTSCENE_Nicole_SUBTITLE_01"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4151336229,
+  "textMapId": "CUTSCENE_Nicole_SUBTITLE_02"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2193271515,
+  "textMapId": "CUTSCENE_Nicole_LABEL_01"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4208024202,
+  "textMapId": "CUTSCENE_Nicole_DESC"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
   "textMapContentTextMapHash": 1038185219,
   "textMapId": "CUTSCENE_Dottore_TITLE"
  },
@@ -11121,6 +11205,34 @@
   ],
   "textMapContentTextMapHash": 2410016248,
   "textMapId": "QUICK_LAUNCH_ACTIVATED"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 975888735,
+  "textMapId": "PERSONAL_LINE_FASHION_PREVIEW"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 470997991,
+  "textMapId": "PERSONAL_LINE_DURIN"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 250404010,
+  "textMapId": "PERSONAL_LINE_DURIN_LINE_START"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1015054833,
+  "textMapId": "PERSONAL_LINE_DATE_TIPS"
  },
  {
   "paramTypes": [
@@ -18259,8 +18371,505 @@
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
+  "textMapContentTextMapHash": 2045485402,
+  "textMapId": "AVATAR_TAG_TAGNAME"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 218825378,
+  "textMapId": "AVATAR_TAG_HEXENZIRKEL"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2148668098,
+  "textMapId": "AVATAR_TAG_MOONPHASE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3366773818,
+  "textMapId": "UI_QuestBomber_LEVEL_GOAL"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 571298910,
+  "textMapId": "UI_QuestBomber_PROGRESS"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1421997570,
+  "textMapId": "UI_QuestBomber_LEVEL_COUNT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4036413546,
+  "textMapId": "UI_QuestBomber_LEVEL_STATUS"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4204439953,
+  "textMapId": "UI_QuestBomber_LEVEL_SP_POWER"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1107992168,
+  "textMapId": "UI_QuestBomber_REMINDER_NO_BOMB"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3140213358,
+  "textMapId": "UI_QuestBomber_REMINDER_BOMB_ILLEGAL"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3747872092,
+  "textMapId": "UI_QuestBomber_MOVE_IOS"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3659000260,
+  "textMapId": "UI_QuestBomber_MOVE_PC"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 201748196,
+  "textMapId": "UI_QuestBomber_MOVE_PS"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1831722611,
+  "textMapId": "UI_QuestBomber_DEPLOY_IOS"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2877616363,
+  "textMapId": "UI_QuestBomber_DEPLOY_PC"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2671889059,
+  "textMapId": "UI_QuestBomber_DEPLOY_PS"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 660133832,
+  "textMapId": "UI_QuestBomber_DETONATE_IOS"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 832194960,
+  "textMapId": "UI_QuestBomber_DETONATE_PC"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2601005952,
+  "textMapId": "UI_QuestBomber_DETONATE_PS"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3125058922,
+  "textMapId": "UI_QuestBomber_LEVEL_STATUS_DETAIL"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 149012196,
+  "textMapId": "UI_QuestBomber_MOVE_SPEED"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3397119297,
+  "textMapId": "UI_QuestBomber_SPEED_DETAIL"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2063017846,
+  "textMapId": "UI_QuestBomber_BOMB_AMOUNT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3858286874,
+  "textMapId": "UI_QuestBomber_AMOUNT_DETAIL"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1020682726,
+  "textMapId": "UI_QuestBomber_BOMB_STRENGTH"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1488783646,
+  "textMapId": "UI_QuestBomber_STRENGTH_DETAIL"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4039819798,
+  "textMapId": "UI_QuestBomber_NUMBER"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3465116642,
+  "textMapId": "UI_QuestBomber_FAILED_TIPS"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2084644534,
+  "textMapId": "UI_QuestBomber_EXIT_TIPS"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2593066649,
+  "textMapId": "UI_QuestBomber_SUCCEED_TIPS"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1882806388,
+  "textMapId": "UI_MoonNight_Sign"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1285170316,
+  "textMapId": "UI_MoonNight_Title"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1238497006,
+  "textMapId": "UI_MoonNight_Sign_Des"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 982340942,
+  "textMapId": "UI_MoonNight_Sign_Reward"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2184319385,
+  "textMapId": "UI_MoonNightDivination_01"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3333672093,
+  "textMapId": "UI_MoonNightStart"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 293635417,
+  "textMapId": "UI_MoonNightStart_02"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3145211128,
+  "textMapId": "UI_MoonNightBalloon_01"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 735404712,
+  "textMapId": "UI_MoonNightBalloon_02"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2797026021,
+  "textMapId": "UI_MoonNightGuide"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1259336754,
+  "textMapId": "QUEST_ProgressGuide_60270301Title"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3746661626,
+  "textMapId": "QUEST_ProgressGuide_60270302Title"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4179025050,
+  "textMapId": "QUEST_ProgressGuide_60270303Title"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2500855938,
+  "textMapId": "QUEST_ProgressGuide_60270304Title"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1329403586,
+  "textMapId": "QUEST_ProgressGuide_60270305Title"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2745639738,
+  "textMapId": "QUEST_ProgressGuide_60270306Title"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1538071050,
+  "textMapId": "QUEST_ProgressGuide_60270307Title"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1106792130,
+  "textMapId": "QUEST_ProgressGuide_60270308Title"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1535167818,
+  "textMapId": "QUEST_ProgressGuide_60270309Title"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
   "textMapContentTextMapHash": 2166468694,
   "textMapId": "Quest_BlackScreen_Abyssal_Fail"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 60599252,
+  "textMapId": "UI_CastleBlockOperate_ScopeHUD_01"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1717333772,
+  "textMapId": "UI_CastleBlockOperate_ScopeHUD_02"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 601171261,
+  "textMapId": "Quest_Information_EQDP_BackwardReminder"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2677316389,
+  "textMapId": "Quest_Information_EQDP_FollowReminder"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3874822077,
+  "textMapId": "Quest_Information_EQDP_RaceMatch_01"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1843600431,
+  "textMapId": "Quest_Gadgetbutton_MNG_6025_Normal"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2241832831,
+  "textMapId": "Quest_Gadgetbutton_MNG_6025_Left"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2667455999,
+  "textMapId": "Quest_Gadgetbutton_MNG_6025_Right"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3895195800,
+  "textMapId": "Quest_BlackScreen_Venti_Transmit"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4015701521,
+  "textMapId": "QUEST_Bubbletalk_1600011"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1280725513,
+  "textMapId": "QUEST_Bubbletalk_1600107"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1500595713,
+  "textMapId": "QUEST_Bubbletalk_1600211"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4107543777,
+  "textMapId": "QUEST_Bubbletalk_1600309"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 104178937,
+  "textMapId": "QUEST_Bubbletalk_1600313"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4279292057,
+  "textMapId": "QUEST_Bubbletalk_1600316"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3866192777,
+  "textMapId": "QUEST_Bubbletalk_1600412"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2494752073,
+  "textMapId": "QUEST_Bubbletalk_1600407"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1833027689,
+  "textMapId": "QUEST_Bubbletalk_1600409"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4216677481,
+  "textMapId": "QUEST_Bubbletalk_1600423"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2427726489,
+  "textMapId": "QUEST_Bubbletalk_1600418"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1260352729,
+  "textMapId": "QUEST_Bubbletalk_1600419"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2525966235,
+  "textMapId": "LEVEL_NodKrai6_3_BK_EQUIPE_OPEN"
  },
  {
   "paramTypes": [
@@ -24244,6 +24853,41 @@
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
+  "textMapContentTextMapHash": 3797857642,
+  "textMapId": "UI_HOMEWORLD_ROTATEMODE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3725340307,
+  "textMapId": "UI_HOMEWORLD_ROTATEMODE_FOLLOW"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1996309835,
+  "textMapId": "UI_HOMEWORLD_ROTATEMODE_FIXED"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2858100930,
+  "textMapId": "UI_HOMEWORLD_MULTIPLE_MODE_TIPS3"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1440843900,
+  "textMapId": "UI_HOMEWORLD_CUSTOMSUIT_DISSOLUTION_SHORTCUT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
   "textMapContentTextMapHash": 1748334013,
   "textMapId": "UI_HOMEWORLD_YINYUEJI_BUTTON_1"
  },
@@ -26283,6 +26927,20 @@
   ],
   "textMapContentTextMapHash": 1721977548,
   "textMapId": "UI_EQUIP_TIPS_BUTTON_FOLD_UP"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 904229200,
+  "textMapId": "UI_EQUIP_EQUIPPED_EMPTY"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 57979221,
+  "textMapId": "UI_EQUIP_SELECTED_EMPTY"
  },
  {
   "paramTypes": [
@@ -30623,6 +31281,41 @@
   ],
   "textMapContentTextMapHash": 1738430339,
   "textMapId": "UI_DUNGEON_ENTRY_1260"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 261519995,
+  "textMapId": "UI_DUNGEON_ENTRY_1290"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1932801699,
+  "textMapId": "UI_DUNGEON_ENTRY_1299"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 410894235,
+  "textMapId": "UI_DUNGEON_ENTRY_1300"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 216444371,
+  "textMapId": "UI_DUNGEON_ENTRY_1291"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1758044723,
+  "textMapId": "UI_DUNGEON_ENTRY_1836"
  },
  {
   "paramTypes": [
@@ -37145,6 +37838,48 @@
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
+  "textMapContentTextMapHash": 93795155,
+  "textMapId": "UI_DAILY_QUEST_REDEEM"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4212298555,
+  "textMapId": "UI_DAILY_QUEST_CAN_NOT_REDEEM_MAX_STACK"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3295478225,
+  "textMapId": "UI_DAILY_QUEST_CAN_NOT_REDEEM_EQUIEMENT_FULL"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1594125846,
+  "textMapId": "UI_DAILY_QUEST_CAN_NOT_REDEEM_WEAPON_FULL"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3491401229,
+  "textMapId": "UI_DAILY_QUEST_CAN_NOT_REDEEM_MATERIAL_FULL"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 498900538,
+  "textMapId": "UI_DAILY_QUEST_CAN_NOT_REDEEM_BAG_FULL"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
   "textMapContentTextMapHash": 1056310286,
   "textMapId": "UI_RAND_TASK_TITLE"
  },
@@ -41065,6 +41800,13 @@
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
+  "textMapContentTextMapHash": 636452947,
+  "textMapId": "UI_GACHA_SHOW_PANEL_A0241_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
   "textMapContentTextMapHash": 1278682412,
   "textMapId": "UI_GACHA_SHOW_PANEL_B001_TITLE"
  },
@@ -42306,6 +43048,27 @@
   ],
   "textMapContentTextMapHash": 3729941874,
   "textMapId": "UI_QUEST_Questreivew_Guide"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3115561215,
+  "textMapId": "UI_QUEST_UNLOCKTIME_PAGE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1099088815,
+  "textMapId": "UI_QUEST_UNLOCKTIME_TIPS"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 781462346,
+  "textMapId": "UI_QUEST_SPECIALREWARD"
  },
  {
   "paramTypes": [
@@ -49565,6 +50328,13 @@
   ],
   "textMapContentTextMapHash": 3391445195,
   "textMapId": "UI_ONLINE_AUTOMATCH_SINGLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 754623243,
+  "textMapId": "UI_ONLINE_AUTOMATCH_NOTICE"
  },
  {
   "paramTypes": [
@@ -58721,6 +59491,13 @@
   ],
   "textMapContentTextMapHash": 3203592937,
   "textMapId": "UI_Rel_Purchase_Chance"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 585964032,
+  "textMapId": "UI_Rel_Purchase_Set_Chance"
  },
  {
   "paramTypes": [
@@ -70038,6 +70815,62 @@
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
+  "textMapContentTextMapHash": 2149697745,
+  "textMapId": "UI_PERSONALINFO_BAN_STATUS_BUTTON"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3393499809,
+  "textMapId": "UI_PERSONALINFO_BAN_STATUS_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2282655497,
+  "textMapId": "UI_PERSONALINFO_BAN_STATUS_DESC"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 247376521,
+  "textMapId": "UI_PERSONALINFO_BAN_STATUS_1"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1342569281,
+  "textMapId": "UI_PERSONALINFO_BAN_STATUS_2"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 740508177,
+  "textMapId": "UI_PERSONALINFO_BAN_STATUS_3"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 794778593,
+  "textMapId": "UI_PERSONALINFO_BAN_STATUS_4"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2128984873,
+  "textMapId": "UI_PERSONALINFO_BAN_STATUS_5"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
   "textMapContentTextMapHash": 1144121026,
   "textMapId": "UI_QUEST_Dainsleif"
  },
@@ -71893,6 +72726,13 @@
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
+  "textMapContentTextMapHash": 2531049122,
+  "textMapId": "UI_AQ_Intee_AQMNDungeonEntry"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
   "textMapContentTextMapHash": 3487707908,
   "textMapId": "UI_MAPMARK_OTHERSCENE_EXPLORATION"
  },
@@ -72266,6 +73106,13 @@
   ],
   "textMapContentTextMapHash": 2382794207,
   "textMapId": "UI_AvatarTalentDes_Type_03"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2527871943,
+  "textMapId": "UI_AvatarTalentDes_Type_04"
  },
  {
   "paramTypes": [
@@ -74427,6 +75274,650 @@
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
+  "textMapContentTextMapHash": 2239078242,
+  "textMapId": "UI_QUEST_ALCHEMYSIM_PROP_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1130454442,
+  "textMapId": "UI_QUEST_ALCHEMYSIM_PROP_DETAIL"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 130376885,
+  "textMapId": "UI_QUEST_ALCHEMYSIM_PROP_CLOSE_PS"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2637687240,
+  "textMapId": "UI_QUEST_ALCHEMYSIM_RATE_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1328913560,
+  "textMapId": "UI_QUEST_ALCHEMYSIM_RATE_FORMAT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3740608717,
+  "textMapId": "UI_QUEST_ALCHEMYSIM_OVERLAP_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4009027781,
+  "textMapId": "UI_QUEST_ALCHEMYSIM_OVERLAP_NUMBER"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 263445424,
+  "textMapId": "UI_QUEST_ALCHEMYSIM_ROTATE_BUTTON"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 899272935,
+  "textMapId": "UI_QUEST_ALCHEMYSIM_CANCEL_BUTTON"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 394548415,
+  "textMapId": "UI_QUEST_ALCHEMYSIM_CONFIRM_BUTTON"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1776887713,
+  "textMapId": "UI_QUEST_ALCHEMYSIM_CANCEL_ALL_BUTTON"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1103062913,
+  "textMapId": "UI_QUEST_ALCHEMYSIM_CANCEL_ALL_HINT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3972695661,
+  "textMapId": "UI_QUEST_ALCHEMYSIM_DENY"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1068955864,
+  "textMapId": "UI_QUEST_ALCHEMYSIM_FINISH_DENY"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3712655144,
+  "textMapId": "UI_QUEST_ALCHEMYSIM_FINISH_BUTTON"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3558612052,
+  "textMapId": "UI_QUEST_ALCHEMYSIM_EXAM_GOAL"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 478663481,
+  "textMapId": "UI_QUEST_ALCHEMYSIM_EXAM_GOAL_FINISH"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 878302364,
+  "textMapId": "UI_QUEST_ALCHEMYSIM_EXAM_SUCCESS"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1588953501,
+  "textMapId": "UI_QUEST_ALCHEMYSIM_POTION_PS_REGION_SWITCH"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1739316733,
+  "textMapId": "UI_QUEST_ALCHEMYSIM_POTION_PS_EDIT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3213991251,
+  "textMapId": "UI_QUEST_ALCHEMYSIM_POTION_DETAIL_OPEN_PS"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1313461073,
+  "textMapId": "UI_QUEST_ALCHEMYSIM_POTION_DETAIL_CLOSE_PS"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 610693372,
+  "textMapId": "UI_QUEST_ALCHEMYSIM_EXAM_CLOSE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3473173419,
+  "textMapId": "UI_QUEST_ALCHEMYSIM_POTION_NUM_FORMAT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 834725103,
+  "textMapId": "UI_QUEST_ALCHEMYSIM_POTION_PROP_DETAIL"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1301269215,
+  "textMapId": "UI_QUEST_ALCHEMYSIM_FILTER_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 392401515,
+  "textMapId": "UI_QUEST_ALCHEMYSIM_TYPE_NAME"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 466786957,
+  "textMapId": "UI_QUEST_ALCHEMYSIM_TAG_NAME"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2471336123,
+  "textMapId": "UI_QUEST_ALCHEMYSIM_POTION_NAME_06"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2045926421,
+  "textMapId": "UI_QUEST_ALCHEMYSIM_POTION_NAME_DUAL_PROP"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 982505851,
+  "textMapId": "UI_QUEST_ALCHEMYSIM_POTION_TAG_CONNECT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4186325142,
+  "textMapId": "UI_QUEST_ALCHEMYSIM_POTION_CANCEL_ALL_HINT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1074922102,
+  "textMapId": "UI_QUEST_ALCHEMYSIM_CROP_MAX"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2424445951,
+  "textMapId": "UI_QUEST_ALCHEMYSIM_PLAYER_LEVEL_LV"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 279922903,
+  "textMapId": "UI_QUEST_ALCHEMYSIM_FILTER_INVALID"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4068585067,
+  "textMapId": "UI_QUEST_ALCHEMYSIM_BAG_FILTER"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3353366680,
+  "textMapId": "UI_QUEST_ALCHEMYSIM_CANCEL_ALL_BUTTON_PS"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3203036891,
+  "textMapId": "UI_QUEST_ALCHEMYSIM_POTION_FAST_BUTTON"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2784038652,
+  "textMapId": "AVATAR_FETTER_UNRELATED"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2669062102,
+  "textMapId": "UI_HEXENZIRKEL_BOOK_HAS_UNLOCKABLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 434840211,
+  "textMapId": "UI_HEXENZIRKEL_TOPIC_UNLOCK_TIPS_AVATAR_GET"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 258680963,
+  "textMapId": "UI_HEXENZIRKEL_TOPIC_UNLOCK_TIPS_AVATAR_LEVEL"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1518791814,
+  "textMapId": "UI_HEXENZIRKEL_TOPIC_UNLOCK_TIPS_AVATAR_LEVEL_DETAIL"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1817586310,
+  "textMapId": "UI_HEXENZIRKEL_TOPIC_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 974211757,
+  "textMapId": "UI_HEXENZIRKEL_TOPIC_ACCEPT_ALL"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2169101950,
+  "textMapId": "UI_HEXENZIRKEL_TOPIC_UNLOCKCOND"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2521847334,
+  "textMapId": "UI_HEXENZIRKEL_TOPIC_LOCKED"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3123854663,
+  "textMapId": "UI_HEXENZIRKEL_TOPIC_ALL_QUEST_ACCEPTED"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2006200206,
+  "textMapId": "UI_HEXENZIRKEL_TOPIC_PREVIEW"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3262313638,
+  "textMapId": "UI_HEXENZIRKEL_TOPIC_TAKEQUEST"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 114488926,
+  "textMapId": "UI_HEXENZIRKEL_TOPIC_RECOMMEND"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 797977438,
+  "textMapId": "UI_HEXENZIRKEL_TOPIC_GOTOQUEST"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 510008720,
+  "textMapId": "UI_HEXENZIRKEL_TOPIC_QUEST_FINISHED"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3958240582,
+  "textMapId": "UI_HEXENZIRKEL_TOPIC_DETAILS_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2092821806,
+  "textMapId": "UI_HEXENZIRKEL_TOPIC_DETAILS_DESC"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2648339316,
+  "textMapId": "UI_HEXENZIRKEL_TALENT_DETAILS"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1116394468,
+  "textMapId": "UI_HEXENZIRKEL_TALENT_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3030944468,
+  "textMapId": "UI_HEXENZIRKEL_TALENT_QUESTNOTICE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 973683788,
+  "textMapId": "UI_HEXENZIRKEL_TALENT_GOTOTOPIC"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2151275852,
+  "textMapId": "UI_HEXENZIRKEL_TALENT_GOTOQUEST"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3478523716,
+  "textMapId": "UI_HEXENZIRKEL_TALENT_FINISHED"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3073355940,
+  "textMapId": "UI_HEXENZIRKEL_TALENT_REDBANNER"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1367802991,
+  "textMapId": "UI_HEXENZIRKEL_TALENT_INDEX_OF_TALENT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1617234476,
+  "textMapId": "UI_HEXENZIRKEL_TALENT_ACTIVE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 201675764,
+  "textMapId": "UI_HEXENZIRKEL_TALENT_INACTIVE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 589978340,
+  "textMapId": "UI_HEXENZIRKEL_TALENT_COMBAT_SKILL_TITLE_1"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 167243580,
+  "textMapId": "UI_HEXENZIRKEL_TALENT_COMBAT_SKILL_TITLE_2"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1611217933,
+  "textMapId": "UI_HEXENZIRKEL_TALENT_UNLOCK_QUEST"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3653540277,
+  "textMapId": "UI_HEXENZIRKEL_TALENT_UNLOCK_LEVEL"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3007313947,
+  "textMapId": "UI_HEXENZIRKEL_QUESTFINISH_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1986641979,
+  "textMapId": "UI_HEXENZIRKEL_QUESTFINISH_TALENTUNLOCK"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3777890738,
+  "textMapId": "UI_TEAM_RESONANCE_HEXENZIRKEL_TIPS_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3756695650,
+  "textMapId": "UI_TEAM_RESONANCE_HEXENZIRKEL_TIPS_DESC"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1696304691,
+  "textMapId": "UI_TEAM_RESONANCE_TITLE_TYPE_HEXENZIRKEL"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3544303043,
+  "textMapId": "UI_TEAM_RESONANCE_TITLE_FORMAT_WITH_DETAIL"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1428891432,
+  "textMapId": "UI_TEAM_RESONANCE_TITLE_DETAIL_TOWER_1"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2618644408,
+  "textMapId": "UI_TEAM_RESONANCE_TITLE_DETAIL_TOWER_2"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 226035008,
+  "textMapId": "UI_TEAM_RESONANCE_TITLE_DETAIL_LEY_LINE_CHALLENGE_1"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1253793864,
+  "textMapId": "UI_TEAM_RESONANCE_TITLE_DETAIL_LEY_LINE_CHALLENGE_2"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3933075224,
+  "textMapId": "UI_TEAM_RESONANCE_TITLE_DETAIL_LEY_LINE_CHALLENGE_3"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1797883529,
+  "textMapId": "UI_TEAM_RESONANCE_HEXENZIRKEL_AVATAR_COUNT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3364957953,
+  "textMapId": "UI_TEAM_RESONANCE_HEXENZIRKEL_JUNIOR_COND"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 880830524,
+  "textMapId": "UI_TEAM_RESONANCE_HEXENZIRKEL_SENIOR_COND"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3697481529,
+  "textMapId": "UI_TEAM_RESONANCE_HEXENZIRKEL_ACTIVATED"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4211037129,
+  "textMapId": "UI_TEAM_RESONANCE_HEXENZIRKEL_JUNIOR_NAME"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4053739116,
+  "textMapId": "UI_TEAM_RESONANCE_HEXENZIRKEL_SENIOR_NAME"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2319250537,
+  "textMapId": "UI_TEAM_RESONANCE_HEXENZIRKEL_JUNIOR_DESC"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 838432396,
+  "textMapId": "UI_TEAM_RESONANCE_HEXENZIRKEL_SENIOR_DESC"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4053696308,
+  "textMapId": "UI_TEAM_BONUS_HEXENZIRKEL_TIPS_JUNIOR"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1797652852,
+  "textMapId": "UI_TEAM_BONUS_HEXENZIRKEL_TIPS_SENIOR"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1426897676,
+  "textMapId": "UI_HEXENZIRKEL_TALENT_ORIGINAL"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 975244588,
+  "textMapId": "UI_HEXENZIRKEL_TALENT_STRENGTHEN"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
   "textMapContentTextMapHash": 2590901895,
   "textMapId": "UI_QUEST_RERIR_DungeonEntry"
  },
@@ -74441,8 +75932,29 @@
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
+  "textMapContentTextMapHash": 741397550,
+  "textMapId": "UI_QUEST_MFS_MagicInk"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 232335694,
+  "textMapId": "UI_QUEST_MFS_Intee"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
   "textMapContentTextMapHash": 1300947360,
   "textMapId": "UI_Level_SolnarisSpace_Blackscreen"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 766555741,
+  "textMapId": "UI_DynamicBook_End"
  },
  {
   "paramTypes": [
@@ -79399,6 +80911,34 @@
   ],
   "textMapContentTextMapHash": 1132738605,
   "textMapId": "RetMusicGameBookNotInMultiMode"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2387985933,
+  "textMapId": "RetMusicGameBookPvpNotOpen"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 480066309,
+  "textMapId": "RetMusicGameBookPvpDraftGuestNotInDraftScene"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3545935117,
+  "textMapId": "RetMusicGameBookPvpChangeLocked"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 172404133,
+  "textMapId": "RetMusicGameBookPvpDraftAnotherPlayActive"
  },
  {
   "paramTypes": [
@@ -107817,6 +109357,13 @@
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
+  "textMapContentTextMapHash": 4044812566,
+  "textMapId": "UI_ACTIVITY_NEW_ADVERTISEMENT_TIPS_TIMEOUT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
   "textMapContentTextMapHash": 2885398537,
   "textMapId": "UI_ACTIVITY_HJC_NAME"
  },
@@ -111023,20 +112570,6 @@
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 2938518066,
-  "textMapId": "UI_ACTIVITY_MONSTER_ELEMENTALBEAST_TITLE"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 1353727098,
-  "textMapId": "UI_ACTIVITY_MONSTER_ELEMENTALBEAST_DESC"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
   "textMapContentTextMapHash": 2540175890,
   "textMapId": "UI_ACTIVITY_WEEK_ACTIVE_SCHEDULE_COUNTDOWN"
  },
@@ -111387,645 +112920,8 @@
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 1098751825,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_REWARD_PROGRESS_BUTTON"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 3293984856,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_MAIN_QUEST"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 2629617093,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_GAMEPLAY"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 4128030749,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_TITLE"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 2211513047,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_OPEN_HINT"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 454020000,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_PATHWAY_DESC_TITLE"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 2432699576,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_PARKO_DESC_TITLE"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 1607717429,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_DESC_TITLE"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 3077840373,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_REWARD_PROGRESS"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 1435796325,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_AFTER_QUEST"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 601871898,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_PARKO_LOADINGTIPS"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 3554298565,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_GAMEREWARD"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 1554236660,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_PATHWAY_START"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 2131818116,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_PATHWAY_LEVELELEMENT"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 2177186838,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_PATHWAY_LEVELELEMENT_TITLE"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 195987202,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_PATHWAY_LAODING_TITLE"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 3808069269,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_PATHWAY_SUCCESS_TITLE"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 3967943433,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_PATHWAY_FAILED_TITLE"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 282897194,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_PATHWAY_WATCHER_TITLE"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 2236732074,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_PATHWAY_WATCHER_TITLE2"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 1924610652,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_PATHWAY_NEXTLEVEL"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 2346696916,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_PATHWAY_EARLYQUIT"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 1060285476,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_PATHWAY_GOTELEMENT"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 2626169676,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_PATHWAY_CONFIRMQUIT"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 1937989996,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_PATHWAY_TARGETTIP"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 3170665364,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_PATHWAY_HELP"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 2293016676,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_PATHWAY_HELPLOCK"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 184019676,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_PATHWAY_HELPTIP"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 936741900,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_PATHWAY_HELPRMD"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 3745544684,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_PATHWAY_RMDSTART"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 2919051284,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_PATHWAY_RMDFINISH"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 1382103148,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_PATHWAY_EARLYFINISH"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 3029676239,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_MARK_TITLE"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 216797711,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_MARK_DESC"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 303710518,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_INTEE"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 1479181428,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_GRADE_LISTVIEW"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 589294315,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_GRADE_UP_TEXT"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 1620976172,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_GRADE_UP"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 4090099543,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_GRADE_DOWN_TEXT"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 3766215444,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_GRADE_DOWN"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 3452591074,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_RECORD_TIPS"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 1588336886,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_RECORD_RESET_TITLE"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 1695472222,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_RECORD_RESET_DESC"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 3022959167,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_CHALLENGE_GOAL"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 2522984201,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_CHALLENGE_GOAL_1"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 1099809934,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_BEHAVIOR"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 3662976391,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_BEHAVIOR_1"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 477512169,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_CHALLENGE_GOAL_2"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 1592456502,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_BUFF_LEVEL"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 4231855786,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_BUFF_LEVEL_INF"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 688245247,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_BUFF_COUNT_INF"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 667349294,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_MONSTER_1"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 2542857774,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_MONSTER_2"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 3785889193,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_NEED_RESET"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 1858884086,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_AVATAR_REPEAT"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 1643857892,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_AVATAR_NOT_FULL"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 3248971672,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_AVATAR_ON_OTHER_TEAM"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 610070548,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_UGC_AVATAR_REPEAT"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 365029268,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_BATTLE_1"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 3436915060,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_BATTLE_2"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 2483100033,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_TEAM_CONFIG_1"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 2813935721,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_TEAM_CONFIG_2"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 1892772834,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_AVATAR_TRAIL_DESC"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 2616750809,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_PRESET_TEAM"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 596905608,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_PRESET_TEAM_ADD"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
   "textMapContentTextMapHash": 3303939027,
   "textMapId": "UI_ACTIVITY_TRIAL_AVATAR_CANNOT_SET_PRETEAM"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 3790513222,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_LOADINGTIPS"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 1763299838,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_BUFF_GET"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 3793115613,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_BUFF_DIALOG_TITLE"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 2984871694,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_BUFF_BATTLE_1_SUCESS_TITLE"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 2368527262,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_BUFF_BATTLE_1_SUCESS_RECORD"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 3285603087,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_BEHAVIOR_COUNT"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 4038007901,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_BATTLE_1_RETRY"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 2145141893,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_BATTLE_1_RETRY_CHANGE"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 3336905005,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_BATTLE_1_CONTINUE"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 3218418430,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_EXIT_TIPS"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 2375771532,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_BATTLE_2_RETRY_TIPS"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 475023108,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_BATTLE_2_RETRY_1"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 2774587892,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_BATTLE_2_RETRY_2"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 1860868443,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_SPECIAL_VALUE_1"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 2477935347,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_SPECIAL_VALUE_2"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 2937064635,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_SPECIAL_VALUE_3"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 3990741795,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_SPECIAL_VALUE_4"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 3597987427,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_SPECIAL_VALUE_5"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 3213430067,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_SPECIAL_VALUE_6"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 341652475,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_BATTLE_1_EXIT_TIPS"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 364089419,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_BATTLE_1_EXIT_REMINDER"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 3910289853,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_BATTLE_2_EXIT_TIPS"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 3637418333,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_BATTLE_2_EXIT_REMINDER"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 3542623314,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_CHAR_INTRO_TITLE"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 931767763,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_PRE_FINISH_1"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 1206208955,
-  "textMapId": "UI_ACTIVITY_SUMERUADVENTURE_FIGHTING_PRE_FINISH_2"
  },
  {
   "paramTypes": [
@@ -112045,393 +112941,281 @@
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 3174115497,
-  "textMapId": "UI_ACTIVITY_MUSICPARTY_GO_TO_QUEST"
+  "textMapContentTextMapHash": 617605645,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_NAME"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 2498022374,
-  "textMapId": "UI_ACTIVITY_MUSICPARTY_SCORE_OWNED"
+  "textMapContentTextMapHash": 3827372949,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_MAPMARK"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 2696859978,
-  "textMapId": "UI_ACTIVITY_MUSICPARTY_SCORE_OWNED_CONTENT"
+  "textMapContentTextMapHash": 1491860388,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_MAPMARK_DESC"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 3610112414,
-  "textMapId": "UI_ACTIVITY_MUSICPARTY_SCORE_LIMIT_CONTENT"
+  "textMapContentTextMapHash": 1358149129,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_BEST_RECORD"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 152332896,
-  "textMapId": "UI_ACTIVITY_MUSICPARTY_SCORE_LIMIT_REFRESH_TIP"
+  "textMapContentTextMapHash": 2140790259,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_LEVEL_PREVIEW"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 3486956265,
-  "textMapId": "UI_ACTIVITY_MUSICPARTY_GO_TO_ACTIVITY"
+  "textMapContentTextMapHash": 3834333125,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_SKILL"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 3966538220,
-  "textMapId": "UI_ACTIVITY_MUSICPARTY_TITLE"
+  "textMapContentTextMapHash": 632775766,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_POINT_SOURCE"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 3797057860,
-  "textMapId": "UI_ACTIVITY_MUSICPARTY_CONTENT"
+  "textMapContentTextMapHash": 2940483381,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_GUIDE_MATERIALS"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 1760896046,
-  "textMapId": "UI_ACTIVITY_MUSICPARTY_SCORE_TARGET"
+  "textMapContentTextMapHash": 1642241573,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_GUIDE_SKILLS"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 1942488933,
-  "textMapId": "UI_ACTIVITY_MUSICPARTY_SCORE_TARGET_CONTENT"
+  "textMapContentTextMapHash": 2914897934,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_QUEST_SETTLE"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 3842549319,
-  "textMapId": "UI_ACTIVITY_MUSICPARTY_LEVEL_INSTRUCTION"
+  "textMapContentTextMapHash": 3162488541,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_QUEST_SETTLE_BALL_NUM"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 1740341193,
-  "textMapId": "UI_ACTIVITY_MUSICPARTY_GO_TO_LEVEL"
+  "textMapContentTextMapHash": 2455858552,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_TARGET_POINT"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 2522419030,
-  "textMapId": "UI_ACTIVITY_MUSICPARTY_SCORE_LIMIT_WARNING"
+  "textMapContentTextMapHash": 782413412,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_CURRENT_POINT"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 3746995785,
-  "textMapId": "UI_ACTIVITY_MUSICPARTY_MATCH_TIP"
+  "textMapContentTextMapHash": 4267936285,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_COMBO"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 3553208385,
-  "textMapId": "UI_ACTIVITY_MUSICPARTY_MATCH_SINGLE"
+  "textMapContentTextMapHash": 2311008617,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_BALLS_REMAIN"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 317068977,
-  "textMapId": "UI_ACTIVITY_MUSICPARTY_MATCH_MULTI"
+  "textMapContentTextMapHash": 3576157942,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_POINT_GET"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 2892544164,
-  "textMapId": "UI_ACTIVITY_MUSICPARTY_DRAFT"
+  "textMapContentTextMapHash": 1920903954,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_FEVER_PLUS"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 3571556774,
-  "textMapId": "UI_ACTIVITY_MUSICPARTY_DRAFT_FORBIDDEN_TIP_1"
+  "textMapContentTextMapHash": 899304021,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_START"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 1031431350,
-  "textMapId": "UI_ACTIVITY_MUSICPARTY_DRAFT_FORBIDDEN_TIP_2"
+  "textMapContentTextMapHash": 2674603317,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_START_QUEST"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 1390938341,
-  "textMapId": "UI_ACTIVITY_MUSICPARTY_DRAFT_CONFIRM"
+  "textMapContentTextMapHash": 2728663410,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_FIRST_BALL"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 3307301054,
-  "textMapId": "UI_ACTIVITY_MUSICPARTY_SCORE_LIMIT_WAITING"
+  "textMapContentTextMapHash": 957469911,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_FIRST_BALL_TIPS"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 1138170630,
-  "textMapId": "UI_ACTIVITY_MUSICPARTY_FEVER_QUICK_HITTING_TIP"
+  "textMapContentTextMapHash": 2156146981,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_LAST_BALL"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 3710609724,
-  "textMapId": "UI_ACTIVITY_MUSICPARTY_FEVER_QTE_TIP"
+  "textMapContentTextMapHash": 1579999405,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_HIT_GUIDE"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 2374132255,
-  "textMapId": "UI_ACTIVITY_MUSICPARTY_LEVEL_WAITING"
+  "textMapContentTextMapHash": 2024411929,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_HIT_GUIDE_QUEST"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 1395513087,
-  "textMapId": "UI_ACTIVITY_MUSICPARTY_LEVEL_YOUR TURN"
+  "textMapContentTextMapHash": 3054876062,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_SKILL_GUIDE"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 1669924028,
-  "textMapId": "UI_ACTIVITY_MUSICPARTY_TEACHING"
+  "textMapContentTextMapHash": 1908003836,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_SELECT_ANGLE_PS"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 516983647,
-  "textMapId": "UI_ACTIVITY_MUSICPARTY_EXIT_COMFIRM"
+  "textMapContentTextMapHash": 2083346619,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_LAUNCH_PS"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 2144197990,
-  "textMapId": "UI_ACTIVITY_MUSICPARTY_SCORE_RULE"
+  "textMapContentTextMapHash": 417744122,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_LEFT_PS"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 2865409525,
-  "textMapId": "UI_ACTIVITY_MUSICPARTY_CAN_NOT_QUIT_MULTIPLAY"
+  "textMapContentTextMapHash": 2121357957,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_RIGHT_PS"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 1196966328,
-  "textMapId": "UI_ACTIVITY_MUSICPARTY_TEACHING_COUNTINUE"
+  "textMapContentTextMapHash": 746878761,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_MORE_BALLS"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 4109139256,
-  "textMapId": "UI_ACTIVITY_MUSICPARTY_TEACHING_RE"
+  "textMapContentTextMapHash": 3788644694,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_BIGGER_BALL"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 1780911520,
-  "textMapId": "UI_ACTIVITY_MUSICPARTY_TEACHING_END"
+  "textMapContentTextMapHash": 1495813373,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_FIRE_BALL"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 705394250,
-  "textMapId": "UI_ACTIVITY_HUMANDRAGON_NAME"
+  "textMapContentTextMapHash": 1702066632,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_FIRE_BALL_TIPS"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 663375688,
-  "textMapId": "UI_ACTIVITY_HUMANDRAGON_FULL_COLLECT"
+  "textMapContentTextMapHash": 2174339763,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_FIRE_BALL_SELECT_PS"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 1215393898,
-  "textMapId": "UI_ACTIVITY_HUMANDRAGON_LEVEL_RULE"
+  "textMapContentTextMapHash": 1683722302,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_FIRE_BALL_PLACE_PS"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 2198978402,
-  "textMapId": "UI_ACTIVITY_HUMANDRAGON_AVATAR"
+  "textMapContentTextMapHash": 2849536807,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_FIRE_BALL_MOVE_PC"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 165487826,
-  "textMapId": "UI_ACTIVITY_HUMANDRAGON_LEVEL_DESC"
+  "textMapContentTextMapHash": 3849861004,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_FIRE_BALL_MOVE_FOR_LAUNCH"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 3689944218,
-  "textMapId": "UI_ACTIVITY_HUMANDRAGON_LEVEL_REWARD"
+  "textMapContentTextMapHash": 2692784660,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_FIRE_BALL_MOVE_FOR_PLACE"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 2106577796,
-  "textMapId": "UI_ACTIVITY_HUMANDRAGON_SELECT_AVATAR"
+  "textMapContentTextMapHash": 3953204769,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_SKILL_COUNT_TIME"
  },
  {
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 3321772708,
-  "textMapId": "UI_ACTIVITY_HUMANDRAGON_SELECT_AVATAR_TIPS"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 1910533122,
-  "textMapId": "UI_ACTIVITY_HUMANDRAGON_MARK_TITLE"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 3641418266,
-  "textMapId": "UI_ACTIVITY_HUMANDRAGON_MARK_DESC"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 3486456098,
-  "textMapId": "UI_ACTIVITY_HUMANDRAGON_ROOM"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 2910129926,
-  "textMapId": "UI_ACTIVITY_HUMANDRAGON_AVATAR_ENDPOINT"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 975860141,
-  "textMapId": "UI_ACTIVITY_HUMANDRAGON_AVATAR_FINAL_ENDPOINT"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 2099688455,
-  "textMapId": "UI_ACTIVITY_HUMANDRAGON_DRAGON_FINAL_ENDPOINT"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 3083966098,
-  "textMapId": "UI_ACTIVITY_HUMANDRAGON_COIN"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 902714174,
-  "textMapId": "UI_ACTIVITY_HUMANDRAGON_ROOM_COIN"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 1639910948,
-  "textMapId": "UI_ACTIVITY_HUMANDRAGON_GOAL_01"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 2728711340,
-  "textMapId": "UI_ACTIVITY_HUMANDRAGON_GOAL_02"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 1961089056,
-  "textMapId": "UI_ACTIVITY_HUMANDRAGON_COIN_NUM"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 1800037143,
-  "textMapId": "UI_ACTIVITY_HUMANDRAGON_HELP_BUTTON"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 3824688932,
-  "textMapId": "UI_ACTIVITY_HUMANDRAGON_HELP_NOT_READY"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 2306071935,
-  "textMapId": "UI_ACTIVITY_HUMANDRAGON_HELP_TITLE"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 906734831,
-  "textMapId": "UI_ACTIVITY_HUMANDRAGON_HELP_DESC"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 1544741935,
-  "textMapId": "UI_ACTIVITY_HUMANDRAGON_HELP_LOADING"
+  "textMapContentTextMapHash": 2927326370,
+  "textMapId": "UI_ACTIVITY_BIRDPINBALL_FAIL_TIPS"
  },
  {
   "paramTypes": [
@@ -112451,8 +113235,1548 @@
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 1364317027,
-  "textMapId": "UI_ACTIVITY_NODKRAI3_OPEN_HINT"
+  "textMapContentTextMapHash": 2017877637,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_NAME"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4256207757,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_READ"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 967367149,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_INVITATION"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 584707037,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_MAINSTORY"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1619145325,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_ROLESTORY"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3677195197,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_REWARDLIST"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1040792781,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_GAMEPLAY"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1239941078,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_REWARDLIST_PROGRESS"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2925301078,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_ROLESTORY_ACCEPT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4128536297,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_REWARD_WEAPON"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4029259775,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_REWARD_PROGRESS_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1871933583,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_REWARD_PROGRESS_TARGET"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 526753823,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_OPEN_HINT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2076436929,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_REWARD_WEAPONEXPUP"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3604816266,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_INVITATION_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1332211778,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_INVITATION_DESC"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3618447282,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_INVITATION_COMMITTEE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1784921696,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_MARK_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3408396864,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_MARK_DESC"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1134426795,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1879061779,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_CURRENTSCORE1"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1325226619,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_DESC"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 482406155,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_DETAILS"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3576993739,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_REWARD"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2716427923,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_SPECIALDESC"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3569555739,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_CURRENTSCORE2"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3854937259,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_SCORELIMITDESC"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 263056179,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_STARTMATCH"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3585157419,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_MULTIMATCH"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4007907675,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_MULTIDRAFT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4036146891,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_CANCELMATCH"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2227693851,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_SETTING"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1204264155,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_SETTINGDESC"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 409340659,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_SETTINGBUTTON"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2219489107,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_ABSTRACT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1009340675,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_MAPPREVIEW"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2907068793,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_SKILL_CAT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1277083385,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_SKILL_MOUSE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3128461163,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_SCORERULE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3777413603,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_BANMAP"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3720887659,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_BANMAP_NOTICE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 762285848,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_SCORERULE_CAT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3444226624,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_SCORERULE_MOUSE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 863219499,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_IDENTITY"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2927993083,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_PREPARING"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2723331411,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_CONFIRM"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2063245547,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_CONFIRMED"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3900870739,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_OVERTIME"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2265714683,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_OVERTIMEDESC"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3899398307,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_CHARASELECT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1308797482,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_BANNER_STORMSTART"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3915222058,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_BANNER_STORMEND"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2944630994,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_BANNER_ENERGY"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3002933162,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_BANNER_STORM"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 984141534,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_REMINDER_FREEZEREPORT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 953534302,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_REMINDER_FREEZE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2269997268,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_REMINDER_CAPTURE_CAT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3321530812,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_REMINDER_CAPTURE_MOUSE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3061898405,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_REMINDER_CAPTURED_MOUSE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2274660686,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_REMINDER_ENERGYGET"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4018955345,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_REMINDER_FREEZE_NOTICE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3346861995,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_ACTIVATE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4155683193,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_ACTIVATE_PROGRESS"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 956606501,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_GHOST_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1081088333,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_GHOST_DESC"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2842854669,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_GHOST_CONTINUE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1881734755,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_COUNT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 926679059,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_COUNT_TOTAL"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 261689107,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_CONTINUE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 138783171,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_MORESCORE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2616831803,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_SKILLDESC"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3659419021,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_MULTI_SCORE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2265447389,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_MULTI_NOSCORE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3072915147,
+  "textMapId": "UI_ACTIVITY_SNOWRACEHIDE_SHOWSKILL"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3265000532,
+  "textMapId": "UI_ACTIVITY_SNOWRACECOMBAT_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2943052828,
+  "textMapId": "UI_ACTIVITY_SNOWRACECOMBAT_CONTENT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3920615547,
+  "textMapId": "UI_ACTIVITY_SNOWRACECOMBAT_LEVEL_BUFF"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1055531045,
+  "textMapId": "UI_ACTIVITY_SNOWRACECOMBAT_KEY_ENEMY"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3241827014,
+  "textMapId": "UI_ACTIVITY_SNOWRACECOMBAT_EQUIP_BADGE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1343505083,
+  "textMapId": "UI_ACTIVITY_SNOWRACECOMBAT_LOCKED_BADGE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3410218504,
+  "textMapId": "UI_ACTIVITY_SNOWRACECOMBAT_SELECTED_BADGEE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1724117907,
+  "textMapId": "UI_ACTIVITY_SNOWRACECOMBAT_SPECIAL_MONSTER"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2566989916,
+  "textMapId": "UI_ACTIVITY_SNOWRACECOMBAT_ACTIVATED"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2111163821,
+  "textMapId": "UI_ACTIVITY_SNOWRACECOMBAT_BADGE_NOTFULL"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3870063252,
+  "textMapId": "UI_ACTIVITY_SNOWRACECOMBAT_INGAME_BUFF"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3932848204,
+  "textMapId": "UI_ACTIVITY_CHALLENGE_START"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2917210141,
+  "textMapId": "UI_ACTIVITY_TEAM_NOT_FULL"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3704791682,
+  "textMapId": "UI_ACTIVITY_SNOWRACECOMBAT_ROUND_SCORE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2170636198,
+  "textMapId": "UI_ACTIVITY_SNOWRACECOMBAT_TOTAL_SCORE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 522161324,
+  "textMapId": "UI_ACTIVITY_SNOWRACECOMBAT_INGAME_GOAL"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1426234281,
+  "textMapId": "UI_ACTIVITY_SNOWRACECOMBAT_BUFF"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1340413069,
+  "textMapId": "UI_ACTIVITY_SNOWRACECOMBAT_BASE_SCORE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3324888536,
+  "textMapId": "UI_ACTIVITY_SNOWRACECOMBAT_BOTH_NOTFULL"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 543637424,
+  "textMapId": "UI_ACTIVITY_SNOWRACECOMBAT_BOTH_EMPTYBADGE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4089437877,
+  "textMapId": "UI_ACTIVITY_SNOWRACECOMBAT_BADGE_ACTIVATED"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 463909346,
+  "textMapId": "UI_ACTIVITY_SNOWRACECOMBAT_FAILING_TIPS"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3805977213,
+  "textMapId": "UI_ACTIVITY_SNOWRACECOMBAT_QUIT_CONFIRM"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1931769755,
+  "textMapId": "UI_ACTIVITY_SNOWRACECOMBAT_LEVEL_DETAIL"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1368932395,
+  "textMapId": "UI_ACTIVITY_NTLPARTY_POINT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 314319417,
+  "textMapId": "UI_ACTIVITY_NTLPARTY_POINT_TOTAL"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 213557889,
+  "textMapId": "UI_ACTIVITY_NTLPARTY_POINT_LIMIT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 157215561,
+  "textMapId": "UI_ACTIVITY_NTLPARTY_STAGE_SAURIAN"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1146115267,
+  "textMapId": "UI_ACTIVITY_NTLPARTY_REWARD"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 334465211,
+  "textMapId": "UI_ACTIVITY_NTLPARTY_MATE1"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2558702099,
+  "textMapId": "UI_ACTIVITY_NTLPARTY_MATE2"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1072455763,
+  "textMapId": "UI_ACTIVITY_NTLPARTY_MATE4"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 585421329,
+  "textMapId": "UI_ACTIVITY_NTLPARTY_STAGE_NORECORD"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 323193405,
+  "textMapId": "UI_ACTIVITY_NTLPARTY_NOTICE_ITEM"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2872275901,
+  "textMapId": "UI_ACTIVITY_NTLPARTY_NOTICE_MODE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 213627981,
+  "textMapId": "UI_ACTIVITY_NTLPARTY_NOTICE_POINT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2214126329,
+  "textMapId": "UI_ACTIVITY_NTLPARTY_STAGE_LOADING"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1828799297,
+  "textMapId": "UI_ACTIVITY_NTLPARTY_STAGE_WAITING"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 273607889,
+  "textMapId": "UI_ACTIVITY_NTLPARTY_STAGE_OVER"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4004604225,
+  "textMapId": "UI_ACTIVITY_NTLPARTY_STAGE_POINT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1409265889,
+  "textMapId": "UI_ACTIVITY_NTLPARTY_STAGE_ENDTIME"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3371452073,
+  "textMapId": "UI_ACTIVITY_NTLPARTY_STAGE_BACK"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1826160961,
+  "textMapId": "UI_ACTIVITY_NTLPARTY_POINT_MAX"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 762495672,
+  "textMapId": "UI_ACTIVITY_NTLPARTY_ROOM_BOOM"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 40706339,
+  "textMapId": "UI_ACTIVITY_NTLPARTY_HIT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 782706651,
+  "textMapId": "UI_ACTIVITY_NTLPARTY_TIPS"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1582860114,
+  "textMapId": "UI_ACTIVITY_NTLPARTY_RANDOM_DESC"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3498326915,
+  "textMapId": "UI_ACTIVITY_NTLPARTY_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3097047096,
+  "textMapId": "UI_ACTIVITY_NTLPARTY_LEVEL_DESC"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 858735875,
+  "textMapId": "UI_ACTIVITY_NTLPARTY_UNLOCK"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 516637332,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_SNOWRACETHROW_QUEST_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 25277464,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_SNOWRACETHROW_DESC"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3959017369,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_SNOWRACETHROW_LEVEL_BEST_SCORE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1051137726,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_SNOWRACETHROW_LEVEL_GOTO"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2277601602,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_SNOWRACETHROW_LEVEL_NO_SCORE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1876404058,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_SNOWRACETHROW_LEVEL_UNLOCK_LEVEL"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3102464310,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_SNOWRACETHROW_LEVEL_BOOK"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1092393070,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_SNOWRACETHROW_LEVEL_LAYOUT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1510064220,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_SNOWRACETHROW_BOOK_UNLOCK"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 850595867,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_SNOWRACETHROW_CHECK_NUMBER"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2507338164,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_SNOWRACETHROW_BOOK_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1371589060,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_SNOWRACETHROW_BOOK_POT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4224804,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_SNOWRACETHROW_BOOK_OBJECT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3424613334,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_SNOWRACETHROW_CHALLANGE_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2176845158,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_SNOWRACETHROW_CHALLANGE_SUBTITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3300050721,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_SNOWRACETHROW_CURRENT_SCORE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2091550009,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_SNOWRACETHROW_CURRENT_COUNT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2867695369,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_SNOWRACETHROW_CURRENT_LIMIT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1905004203,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_SNOWRACETHROW_CHALLANGE_ATTACKPOT_TIPS"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3770574886,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_SNOWRACETHROW_CHALLANGE_ATTACK_TIPS"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3549230792,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_SNOWRACETHROW_CONTINUE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1926925584,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_SNOWRACETHROW_REPLAY"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2758109032,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_SNOWRACETHROW_EXIT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1101566373,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_SNOWRACETHROW_EXIT_CONFIRM"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1246751158,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_SNOWRACETHROW_LEVEL_SUCCSEED"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4089446334,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_SNOWRACETHROW_LEVEL_SCORE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3192101230,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_SNOWRACETHROW_LEVEL_NEW"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 93787310,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_SNOWRACETHROW_LEVEL_FAILED"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3934449889,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_SNOWRACETHROW_LEVEL_FAILED_TIPS"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2203845496,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_SNOWRACETHROW_BUTTON_LEVEL_SELECT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3794069349,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_SNOWRACETHROW_TOTAL_SCORE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2159020080,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_SNOWRACETHROW_LOADING"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3929909413,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_SNOWRACETHROW_END_TIPS"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 263150013,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_SNOWRACETHROW_OPEN_HINT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1919746761,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_SNOWRACETHROW_QUIT_TIPS"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 400331330,
+  "textMapId": "UI_ACTIVITY_SNOWRACE_SNOWRACETHROW_SETTING_CAMERA"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3819162301,
+  "textMapId": "UI_ACTIVITY_NODKRAI4_OPEN_HINT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 376554576,
+  "textMapId": "UI_ACTIVITY_MONSTER_FATUIMECHA_AMP_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2181701792,
+  "textMapId": "UI_ACTIVITY_MONSTER_FATUIMECHA_AMP_DESC"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 753309932,
+  "textMapId": "UI_ACTIVITY_SNOWRACEPARKOUR_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3482772549,
+  "textMapId": "UI_ACTIVITY_SNOWRACEPARKOUR_TASK_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1513537653,
+  "textMapId": "UI_ACTIVITY_SNOWRACEPARKOUR_TASK_DESC"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3681733196,
+  "textMapId": "UI_ACTIVITY_SNOWRACEPARKOUR_DESC"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 111765986,
+  "textMapId": "UI_ACTIVITY_SNOWRACEPARKOUR_BEST_SCORE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2372951578,
+  "textMapId": "UI_ACTIVITY_SNOWRACEPARKOUR_BEST_GOTO"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4108917466,
+  "textMapId": "UI_ACTIVITY_SNOWRACEPARKOUR_LOCK_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3432186546,
+  "textMapId": "UI_ACTIVITY_SNOWRACEPARKOUR_LOCK_DESC"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 719100476,
+  "textMapId": "UI_ACTIVITY_SNOWRACEPARKOUR_NO_SCORE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 377883292,
+  "textMapId": "UI_ACTIVITY_SNOWRACEPARKOUR_LOCK"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 352525512,
+  "textMapId": "UI_ACTIVITY_SNOWRACEPARKOUR_BOOK_BTN"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 278127231,
+  "textMapId": "UI_ACTIVITY_SNOWRACEPARKOUR_ITEM_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 839463000,
+  "textMapId": "UI_ACTIVITY_SNOWRACEPARKOUR_BOOK_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 630817687,
+  "textMapId": "UI_ACTIVITY_SNOWRACEPARKOUR_BOOK_ITEM_1"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3771373895,
+  "textMapId": "UI_ACTIVITY_SNOWRACEPARKOUR_BOOK_ITEM_2"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2661775380,
+  "textMapId": "UI_ACTIVITY_SNOWRACEPARKOUR_CHALLANGE_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2155723820,
+  "textMapId": "UI_ACTIVITY_SNOWRACEPARKOUR_CHALLANGE_SUBTITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3604079389,
+  "textMapId": "UI_ACTIVITY_SNOWRACEPARKOUR_CURRENT_SCORE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4221965893,
+  "textMapId": "UI_ACTIVITY_SNOWRACEPARKOUR_CURRENT_COUNT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 528453660,
+  "textMapId": "UI_ACTIVITY_SNOWRACEPARKOUR_CONTINUE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 933339100,
+  "textMapId": "UI_ACTIVITY_SNOWRACEPARKOUR_REPLAY"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1115711644,
+  "textMapId": "UI_ACTIVITY_SNOWRACEPARKOUR_EXIT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2646750220,
+  "textMapId": "UI_ACTIVITY_SNOWRACEPARKOUR_FLASHBACK"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3263122972,
+  "textMapId": "UI_ACTIVITY_SNOWRACEPARKOUR_EXIT_CONFIRM"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1263459478,
+  "textMapId": "UI_ACTIVITY_SNOWRACEPARKOUR_LEVEL_SUCCSEED"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4039616894,
+  "textMapId": "UI_ACTIVITY_SNOWRACEPARKOUR_LEVEL_SCORE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3801173422,
+  "textMapId": "UI_ACTIVITY_SNOWRACEPARKOUR_LEVEL_NEW"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 253770022,
+  "textMapId": "UI_ACTIVITY_SNOWRACEPARKOUR_LEVEL_FAILED"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 420413838,
+  "textMapId": "UI_ACTIVITY_SNOWRACEPARKOUR_SELECT_LEVEL"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3618200859,
+  "textMapId": "UI_ACTIVITY_SNOWRACEPARKOUR_TOTAL_SCORE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 831621376,
+  "textMapId": "UI_ACTIVITY_SNOWRACEPARKOUR_SCORE_1"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2494422536,
+  "textMapId": "UI_ACTIVITY_SNOWRACEPARKOUR_SCORE_2"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2051657461,
+  "textMapId": "UI_ACTIVITY_SNOWRACEPARKOUR_BUFF_1"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3111581957,
+  "textMapId": "UI_ACTIVITY_SNOWRACEPARKOUR_BUFF_2"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2971737082,
+  "textMapId": "UI_ACTIVITY_SNOWRACEPARKOUR_DEBUFF_1"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4110595055,
+  "textMapId": "UI_ACTIVITY_SNOWRACEPARKOUR_BOOK_ITEM_LOCK"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1733811428,
+  "textMapId": "UI_HEXENZIRKELBANNER_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2765101948,
+  "textMapId": "UI_HEXENZIRKELBANNER_DESC"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 309145740,
+  "textMapId": "UI_HEXENZIRKELBANNER_ITEM"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 562766076,
+  "textMapId": "UI_HEXENZIRKELBANNER_CHARALIST"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 34083604,
+  "textMapId": "UI_HEXENZIRKELBANNER_CHARAINVITE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 263077912,
+  "textMapId": "UI_HEXENZIRKELBANNER_GOTO_BAN"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 983380344,
+  "textMapId": "UI_HEXENZIRKELBANNER_GOTO_QUEST"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 319704960,
+  "textMapId": "UI_HEXENZIRKELBANNER_GOTO_BAG"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 948755415,
+  "textMapId": "UI_HEXENZIRKELBANNER_DETAILS_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2599825031,
+  "textMapId": "UI_HEXENZIRKELBANNER_DETAILS_DESC"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2256528059,
+  "textMapId": "UI_HEXENZIRKELBANNER_CHARAINVITE_DESC"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 620083435,
+  "textMapId": "UI_HEXENZIRKELBANNER_CHARAINVITE_INVITE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2210033963,
+  "textMapId": "UI_HEXENZIRKELBANNER_CHARAINVITE_BAN"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 795546682,
+  "textMapId": "UI_HEXENZIRKELBANNER_CHARAINVITE_CONFIRM_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2877923339,
+  "textMapId": "UI_HEXENZIRKELBANNER_CHARAINVITE_CONFIRM"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 783603486,
+  "textMapId": "UI_ACTIVITY_HEXENZIRKELBANNER_CHARAINVITE_FULL_CONFIRM"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2213131219,
+  "textMapId": "UI_ACTIVITY_HEXENZIRKELBANNER_CHARAINVITE_PREVIEW"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4061089435,
+  "textMapId": "UI_ACTIVITY_HEXENZIRKELBANNER_CHARAINVITE_RANK"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2290282259,
+  "textMapId": "UI_ACTIVITY_HEXENZIRKELBANNER_CHARAINVITE_FULL"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2072630043,
+  "textMapId": "UI_ACTIVITY_HEXENZIRKELBANNER_CHARAINVITE_ZERO"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1925219299,
+  "textMapId": "UI_ACTIVITY_HEXENZIRKELBANNER_CHARAINVITE_NONE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3250683747,
+  "textMapId": "UI_ACTIVITY_HEXENZIRKELBANNER_CHARAINVITE_SELECTED"
  },
  {
   "paramTypes": [
@@ -112706,6 +115030,17 @@
   ],
   "textMapContentTextMapHash": 1666763204,
   "textMapId": "NPC_EXPNAME_1317"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2991638636,
+  "textMapId": "NPC_EXPNAME_1318"
  },
  {
   "paramTypes": [
@@ -113685,6 +116020,149 @@
   ],
   "textMapContentTextMapHash": 3731274820,
   "textMapId": "NPC_EXPNAME_15603"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4273737004,
+  "textMapId": "NPC_EXPNAME_15854"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3563308428,
+  "textMapId": "NPC_EXPNAME_15859"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1185100924,
+  "textMapId": "NPC_EXPNAME_15887"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2936233740,
+  "textMapId": "NPC_EXPNAME_15891"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2696699028,
+  "textMapId": "NPC_EXPNAME_15898"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3996600380,
+  "textMapId": "NPC_EXPNAME_15906"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3852934660,
+  "textMapId": "NPC_EXPNAME_15907"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3193036804,
+  "textMapId": "NPC_EXPNAME_15908"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 528416164,
+  "textMapId": "NPC_EXPNAME_15909"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2403354468,
+  "textMapId": "NPC_EXPNAME_15910"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2944680836,
+  "textMapId": "NPC_EXPNAME_15911"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3859173988,
+  "textMapId": "NPC_EXPNAME_15912"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 936264964,
+  "textMapId": "NPC_EXPNAME_16236"
  },
  {
   "paramTypes": [
@@ -116369,6 +118847,17 @@
   ],
   "textMapContentTextMapHash": 4181111508,
   "textMapId": "NPC_EXPNAME_6552"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2375522540,
+  "textMapId": "NPC_EXPNAME_7135"
  },
  {
   "paramTypes": [
@@ -121693,6 +124182,28 @@
   ],
   "textMapContentTextMapHash": 15762769,
   "textMapId": "NPC_TITLE_30856"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2064750977,
+  "textMapId": "NPC_TITLE_30894"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 235326937,
+  "textMapId": "NPC_TITLE_30896"
  },
  {
   "paramTypes": [
@@ -146027,6 +148538,573 @@
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
+  "textMapContentTextMapHash": 1359961376,
+  "textMapId": "UI_MGB_SETTING_TAB_MOD"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3657777802,
+  "textMapId": "UI_MGB_SETTING_MOD_RESET"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3129255858,
+  "textMapId": "UI_MGB_SETTING_MOD_SAVE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1493291306,
+  "textMapId": "UI_MGB_SETTING_MOD_EASY"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2990748786,
+  "textMapId": "UI_MGB_SETTING_MOD_HARD"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 880960477,
+  "textMapId": "UI_MGB_SETTING_TIPS_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 382536421,
+  "textMapId": "UI_MGB_SETTING_TIPS_DESC"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1543483493,
+  "textMapId": "UI_MGB_SETTING_TIPS_CANCEL"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2347947213,
+  "textMapId": "UI_MGB_SETTING_TIPS_CONFIRM"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2246901034,
+  "textMapId": "UI_MGB_SETTING_MOD_RET_SAVED"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4166561399,
+  "textMapId": "UI_MGB_SETTING_MOD_TUTORIALS_INFO"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3148447002,
+  "textMapId": "UI_MGB_SETTING_MOD_INFO_TIPS"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 297365756,
+  "textMapId": "UI_MGB_SONG_MOD"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4288914668,
+  "textMapId": "UI_MGB_SONG_SINGLEPLAY"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3030755676,
+  "textMapId": "UI_MGB_SONG_MULTIPLAY"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2870679807,
+  "textMapId": "UI_MGB_SONG_TIPS_DESC"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 586773876,
+  "textMapId": "UI_MGB_MULTIPLAY_TIPS_01"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1604804588,
+  "textMapId": "UI_MGB_MULTIPLAY_TIPS_02"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 664089567,
+  "textMapId": "UI_MGB_MULTIPLAY_MOD_TIPS_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1365738119,
+  "textMapId": "UI_MGB_MULTIPLAY_MOD_TIPS_DESC"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3638831457,
+  "textMapId": "UI_MGB_MULTIPLAY_MOD_TIPS_DONT_SHOW"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3076130263,
+  "textMapId": "UI_MGB_MULTIPLAY_MOD_TIPS_CANCEL"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1289195711,
+  "textMapId": "UI_MGB_MULTIPLAY_MOD_TIPS_PLAY"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 959642452,
+  "textMapId": "UI_MUSIC_GAME_UGC_MOD"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3017625529,
+  "textMapId": "UI_MUSIC_GAME_PLAY"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1585249024,
+  "textMapId": "UI_MUSIC_GAME_UGC_INFO_DURATION"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1691437880,
+  "textMapId": "UI_MUSIC_GAME_UGC_INFO_DIFFICULTY"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2844546384,
+  "textMapId": "UI_MUSIC_GAME_UGC_INFO_BPM"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2415754648,
+  "textMapId": "UI_MUSIC_GAME_UGC_INFO_ALBUM"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 242710712,
+  "textMapId": "UI_MUSIC_GAME_UGC_INFO_AUTHOR"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1373335768,
+  "textMapId": "UI_MUSIC_GAME_UGC_INFO_RELTIME"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3720779484,
+  "textMapId": "UI_MUSIC_GAME_UGC_INFO_TIPS_DESC"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3779273900,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAY_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3755114420,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAY_WAITING"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3909379244,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAY_PLAYER_DECLINED"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1406487412,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAY_DECLINE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2666930076,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAY_CONFIRM"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 209704330,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAY_LOADING_DESC"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 749690858,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAY_LOADING_MOD"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2840605154,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAY_LOADING_TIPS"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2765513685,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAY_FINISH_TITLE_01"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2985984430,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAY_FINISH_COUNTDOWN"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3934465710,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAY_FINISH_APPELLATION"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3666417165,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAY_FINISH_TITLE_02"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4292187318,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAY_FINISH_RANK"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3418425766,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAY_FINISH_PLAYERNAME"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3347526894,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAY_FINISH_LEVEL"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3923487574,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAY_FINISH_SCORE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 482344214,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAY_FINISH_PGF"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1812958973,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAY_FINISH_LEVEL_DESC"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1368053345,
+  "textMapId": "UI_MUSIC_GAME_SETTING_FADEIN_TIPS"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1890238383,
+  "textMapId": "UI_MGB_SONG_MOD_SUDDENDEATH_TIPS"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 684536000,
+  "textMapId": "UI_MUSIC_GAME_GUIDE_MOD_01"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3663712744,
+  "textMapId": "UI_MUSIC_GAME_GUIDE_MOD_02"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3089002912,
+  "textMapId": "UI_MUSIC_GAME_GUIDE_MOD_03"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1951075005,
+  "textMapId": "UI_MGB_SETTING_PS_MOD"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1218403785,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAY_FINISH_PS_CHECKNAME"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2501483544,
+  "textMapId": "UI_MUSIC_GAME_UGC_PS_STATEMENT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1713213567,
+  "textMapId": "UI_MGB_SETTING_MOD_EASY_TIPS"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 200906154,
+  "textMapId": "UI_MGB_SETTING_MOD_INFO"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3801826715,
+  "textMapId": "UI_MGB_SONG_DIFFICULTIES_MOD"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1087206323,
+  "textMapId": "UI_MGB_SONG_DIFFICULTIES_MOD_TIPS"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2599035227,
+  "textMapId": "UI_MGB_SONG_DIFFICULTIES_MOD_SLASH"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3890199684,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAYER_START_PLAY"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 660623877,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAYER_MOD_TIPS"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3904334574,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAYER_MAIN_OFF_TIPS_01"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2179465438,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAYER_MAIN_OFF_TIPS_02"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2456500110,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAYER_MAIN_OFF_TIPS_03"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 583979406,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAYER_MAIN_OFF_TIPS_04"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3615602311,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAYER_LOADING_RULE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 693761023,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAYER_LOADING_MOD"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3844385975,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAYER_LOADING_LOADING"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 539089496,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAYER_TIPS_01"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 377469604,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAYER_FADEIN_SCORE_01"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2222399326,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAYER_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2374811718,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAYER_WAITING"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3069019290,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAYER_PLAYER_DECLINED"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3008921486,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAYER_DECLINED"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4193117006,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAYER_CONFIRM"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1191712143,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAYER_INGAME_SCORE_UP"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1140703476,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAYER_INGAME_WAITTING"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
   "textMapContentTextMapHash": 462166710,
   "textMapId": "UI_MUSIC_GAME_POINT_PERCENTAGE_1"
  },
@@ -146036,6 +149114,76 @@
   ],
   "textMapContentTextMapHash": 2856908238,
   "textMapId": "UI_MUSIC_GAME_POINT_PERCENTAGE_2"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 343200509,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAYER_FINISHED_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 502029933,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAYER_FINISHED_SONGNAME"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2421991741,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAYER_FINISHED_COUNTDOWN"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1264231085,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAYER_FINISHED_APPELLATION"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2028107085,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAYER_FINISHED_SCORE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1893868909,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAYER_FINISHED_MAXCOMBO"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 679146757,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAYER_FINISHED_PGF"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 123922395,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAYER_FINISHED_PGF_SCORE_01"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 66908507,
+  "textMapId": "UI_MUSIC_GAME_MULTIPLAYER_FINISHED_PGF_SCORE_02"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 40563132,
+  "textMapId": "RET_MUSIC_GAME_BOOK_PVP_DRAFT_GUEST_NOT_IN_DRAFT_SCENE"
  },
  {
   "paramTypes": [
@@ -191541,6 +194689,28 @@
    "TEXT_PARAM_NONE",
    "TEXT_PARAM_NONE"
   ],
+  "textMapContentTextMapHash": 2919617009,
+  "textMapId": "BeyondAssistantEditorConfigGlobal_configEnum_maps_17_map_5_textMapId_18"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1358777647,
+  "textMapId": "BeyondAssistantEditorConfigGlobal_configEnum_maps_17_map_6_textMapId_18"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
   "textMapContentTextMapHash": 3224710313,
   "textMapId": "BeyondAssistantEditorConfigGlobal_configEnum_maps_18_mapTitle"
  },
@@ -203388,6 +206558,13 @@
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
+  "textMapContentTextMapHash": 2465405989,
+  "textMapId": "UI_BEYOND_CHAT_SENDGIFT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
   "textMapContentTextMapHash": 982898911,
   "textMapId": "UI_BEYOND_GH_SYSTEM_TITLE"
  },
@@ -206566,6 +209743,13 @@
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
+  "textMapContentTextMapHash": 1986151088,
+  "textMapId": "UI_BEYOND_PROFILE_CHECK_PHOTO"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
   "textMapContentTextMapHash": 750744587,
   "textMapId": "UI_BEYOND_PROFILE_ROLE_SET"
  },
@@ -208617,6 +211801,41 @@
   "paramTypes": [
    "TEXT_PARAM_NONE"
   ],
+  "textMapContentTextMapHash": 2127173652,
+  "textMapId": "UI_BEYOND_INITIAL_ACTIVE_2_REWARD_DESC"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1286664259,
+  "textMapId": "UI_BEYOND_INITIAL_ACTIVE_2_POINT_GOT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3156521828,
+  "textMapId": "UI_BEYOND_INITIAL_ACTIVE_TIME_OVER"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 112094964,
+  "textMapId": "UI_BEYOND_INITIAL_ACTIVE_2_GET_PROGRESS_REWARD"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 614293058,
+  "textMapId": "UI_BEYOND_INITIAL_ACTIVE_2_WORD_SPACE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
   "textMapContentTextMapHash": 1537896260,
   "textMapId": "UI_BEYOND_HALL_EDITMODE_CHANGETO_MULTIPLE_CHOOSE"
  },
@@ -209515,6 +212734,41 @@
   ],
   "textMapContentTextMapHash": 4121002428,
   "textMapId": "UI_BEYOND_HALL_ENTER_EDITMODE_FALL_MATCH"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3768119349,
+  "textMapId": "UI_BEYOND_HALL_EDITMODE_SETUP_ROTATION_TYPE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3172324973,
+  "textMapId": "UI_BEYOND_HALL_EDITMODE_SETUP_ROTATION_LOCATION"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2279497045,
+  "textMapId": "UI_BEYOND_HALL_EDITMODE_SETUP_ROTATION_LOCATION_1"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3256362389,
+  "textMapId": "UI_BEYOND_HALL_EDITMODE_SETUP_ROTATION_LOCATION_2"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2165197133,
+  "textMapId": "UI_BEYOND_HALL_EDITMODE_SETUP_ROTATION_PS"
  },
  {
   "paramTypes": [
@@ -213330,6 +216584,28 @@
    "TEXT_PARAM_NONE",
    "TEXT_PARAM_NONE"
   ],
+  "textMapContentTextMapHash": 3486585527,
+  "textMapId": "UI_BEYOND_ROOM_DOWNLOAD_RETRY_MENTION"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1931968554,
+  "textMapId": "UI_BEYOND_ROOM_SETTING_CHANGE_MENTION"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
   "textMapContentTextMapHash": 3592365878,
   "textMapId": "UI_BEYOND_EDITOR_UI_LEVELCONFIG_BASIC_CUSTOMIZERANGE_WINDOW"
  },
@@ -213871,6 +217147,28 @@
   ],
   "textMapContentTextMapHash": 3920018137,
   "textMapId": "UI_BEYOND_EDITOR_ROLESTATUS_SELECT_NONE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 745998905,
+  "textMapId": "UI_BEYOND_EDITOR_MPACTION_ROLESTATUS_SELECT_WINDOWS_TITLE"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3885908897,
+  "textMapId": "UI_BEYOND_EDITOR_MPACTION_ROLESTATUS_SELECT_WINDOWS_OFFICAL"
  },
  {
   "paramTypes": [
@@ -227938,17 +231236,6 @@
    "TEXT_PARAM_NONE",
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 603949482,
-  "textMapId": "UI_BEYOND_EDITOR_UI_LEVELCONFIG_BASIC_OPTIMIZATION_OVERWATCH"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE",
-   "TEXT_PARAM_NONE",
-   "TEXT_PARAM_NONE",
-   "TEXT_PARAM_NONE",
-   "TEXT_PARAM_NONE"
-  ],
   "textMapContentTextMapHash": 3302244927,
   "textMapId": "UI_BEYOND_EDITOR_UI_LEVELCONFIG_BASIC_OPTIMIZATION_SELECT_SETTING"
  },
@@ -227984,28 +231271,6 @@
   ],
   "textMapContentTextMapHash": 4116580227,
   "textMapId": "UI_BEYOND_EDITOR_INSPECTOR_OPTIMIZATION_TITLE"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE",
-   "TEXT_PARAM_NONE",
-   "TEXT_PARAM_NONE",
-   "TEXT_PARAM_NONE",
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 2729719579,
-  "textMapId": "UI_BEYOND_EDITOR_INSPECTOR_OPTIMIZATION_BOOL"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE",
-   "TEXT_PARAM_NONE",
-   "TEXT_PARAM_NONE",
-   "TEXT_PARAM_NONE",
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 1193070747,
-  "textMapId": "UI_BEYOND_EDITOR_INSPECTOR_OPTIMIZATION_DETAIL"
  },
  {
   "paramTypes": [
@@ -236850,17 +240115,6 @@
   ],
   "textMapContentTextMapHash": 498592399,
   "textMapId": "UI_BEYOND_EDITOR_UIEDITOR_CHOOSE_PANEL_MPORT_ERROR_TIP_TYPE"
- },
- {
-  "paramTypes": [
-   "TEXT_PARAM_NONE",
-   "TEXT_PARAM_NONE",
-   "TEXT_PARAM_NONE",
-   "TEXT_PARAM_NONE",
-   "TEXT_PARAM_NONE"
-  ],
-  "textMapContentTextMapHash": 4134889528,
-  "textMapId": "UI_BEYOND_EDITOR_UIEDITOR_CHOOSE_PANEL_MPORT_ERROR_TIP_COLUMN_COUNT"
  },
  {
   "paramTypes": [
@@ -254833,6 +258087,50 @@
    "TEXT_PARAM_NONE",
    "TEXT_PARAM_NONE"
   ],
+  "textMapContentTextMapHash": 4134889528,
+  "textMapId": "UI_BEYOND_EDITOR_UIEDITOR_CHOOSE_PANEL_MPORT_ERROR_TIP_COLUMN_COUNT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2729719579,
+  "textMapId": "UI_BEYOND_EDITOR_INSPECTOR_OPTIMIZATION_BOOL"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1193070747,
+  "textMapId": "UI_BEYOND_EDITOR_INSPECTOR_OPTIMIZATION_DETAIL"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 603949482,
+  "textMapId": "UI_BEYOND_EDITOR_UI_LEVELCONFIG_BASIC_OPTIMIZATION_OVERWATCH"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
   "textMapContentTextMapHash": 1998110819,
   "textMapId": "UI_BEYOND_EDITOR_SHIELD_ESC_TITLENAME"
  },
@@ -259068,6 +262366,28 @@
    "TEXT_PARAM_NONE",
    "TEXT_PARAM_NONE"
   ],
+  "textMapContentTextMapHash": 1631266032,
+  "textMapId": "UI_BEYOND_EDITOR_UI_MONSTER_PROPERTY_UNDERCLOCKING"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2126494312,
+  "textMapId": "UI_BEYOND_EDITOR_UI_MONSTER_PROPERTY_UNDERCLOCKING_TIP"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
   "textMapContentTextMapHash": 1759476775,
   "textMapId": "UI_BEYOND_EDITOR_LEVEL_ROUTE_TITLE"
  },
@@ -262335,8 +265655,8 @@
    "TEXT_PARAM_NONE",
    "TEXT_PARAM_NONE"
   ],
-  "textMapContentTextMapHash": 1302877145,
-  "textMapId": "RetBeyondAleradyInMatch"
+  "textMapContentTextMapHash": 439468849,
+  "textMapId": "RetBeyondAlreadyInMatch"
  },
  {
   "paramTypes": [
@@ -262370,6 +265690,17 @@
   ],
   "textMapContentTextMapHash": 3681062515,
   "textMapId": "UI_BEYOND_ENTER_SCENE_VERSION_CHECK_INVALID"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1007025494,
+  "textMapId": "UI_BEYOND_ENTER_SCENE_WAITING_OTHERPLAYERS_MENTION"
  },
  {
   "paramTypes": [
@@ -266669,6 +270000,116 @@
    "TEXT_PARAM_NONE",
    "TEXT_PARAM_NONE"
   ],
+  "textMapContentTextMapHash": 2435572346,
+  "textMapId": "UI_BEYOND_PLAYER_LEVEL_DISPLAY_SETTINGS"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4284633869,
+  "textMapId": "UI_BEYOND_PLAYER_LEVEL_INTERFACE_BACKGROUND"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3981950200,
+  "textMapId": "UI_BEYOND_PLAYER_LEVEL_AVATAR_BACKGROUND"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2093772841,
+  "textMapId": "UI_BEYOND_PLAYER_LEVEL_OPTIONS_PART1"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3575196393,
+  "textMapId": "UI_BEYOND_PLAYER_LEVEL_OPTIONS_PART2"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3331962057,
+  "textMapId": "UI_BEYOND_PLAYER_LEVEL_OPTIONS_PART3"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3668169449,
+  "textMapId": "UI_BEYOND_PLAYER_LEVEL_OPTIONS_PART4"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2808291849,
+  "textMapId": "UI_BEYOND_PLAYER_LEVEL_OPTIONS_PART5"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1440728099,
+  "textMapId": "UI_BEYOND_PLAYER_LEVEL_CURRENT_PROGRESS"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 427409148,
+  "textMapId": "UI_BEYOND_PLAYER_LEVEL_PROGRESS_RESET"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
   "textMapContentTextMapHash": 303256728,
   "textMapId": "UI_BEYOND_EDITOR_EFFECTTAGFILTER_MAINTITLE"
  },
@@ -268607,6 +272048,50 @@
   ],
   "textMapContentTextMapHash": 1952874315,
   "textMapId": "UI_BEYOND_GENERAL_VALUE_ENTER_ERROR"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1720301823,
+  "textMapId": "UI_BEYOND_GENERAL_MPACTION_ATTACK_ATTACHPOINT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4067317587,
+  "textMapId": "UI_BEYOND_EDITOR_ COMPOMENT_GENERAL_SFX_ID"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 92346351,
+  "textMapId": "UI_BEYOND_GENERAL_WORDCOUNT_EXCEED_LIMIT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3533965217,
+  "textMapId": "UI_BEYOND_GENERAL_NAME_EMPTY_DISABLE"
  },
  {
   "paramTypes": [
@@ -276525,6 +280010,248 @@
    "TEXT_PARAM_NONE",
    "TEXT_PARAM_NONE"
   ],
+  "textMapContentTextMapHash": 4135480799,
+  "textMapId": "BEYOND_EDITOR_SHORTCUT_KEY_TOOL_Home"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3639817439,
+  "textMapId": "BEYOND_EDITOR_SHORTCUT_KEY_TOOL_End"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 175267571,
+  "textMapId": "BEYOND_EDITOR_SHORTCUT_KEY_TOOL_LEFT_ARROW"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2948026980,
+  "textMapId": "BEYOND_EDITOR_SHORTCUT_KEY_TOOL_RIGHT_ARROW"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3714674807,
+  "textMapId": "BEYOND_EDITOR_SHORTCUT_KEY_TOOL_Ctrl"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3406546583,
+  "textMapId": "BEYOND_EDITOR_SHORTCUT_KEY_TOOL_A"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1912122343,
+  "textMapId": "BEYOND_EDITOR_SHORTCUT_KEY_TOOL_Delete"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3744365439,
+  "textMapId": "BEYOND_EDITOR_SHORTCUT_KEY_TOOL_S"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1369724935,
+  "textMapId": "BEYOND_EDITOR_SHORTCUT_KEY_TOOL_Z"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 597276895,
+  "textMapId": "BEYOND_EDITOR_SHORTCUT_KEY_TOOL_Y"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1259774415,
+  "textMapId": "BEYOND_EDITOR_SHORTCUT_KEY_TOOL_C"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 4063755231,
+  "textMapId": "BEYOND_EDITOR_SHORTCUT_KEY_TOOL_F"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 312941375,
+  "textMapId": "BEYOND_EDITOR_SHORTCUT_KEY_TOOL_V"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 1917266655,
+  "textMapId": "BEYOND_EDITOR_SHORTCUT_KEY_TOOL_SHIFT"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3239769804,
+  "textMapId": "BEYOND_EDITOR_SHORTCUT_KEY_TOOL_UP_ARROW"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3055914173,
+  "textMapId": "BEYOND_EDITOR_SHORTCUT_KEY_TOOL_DOWN_ARROW"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2752901302,
+  "textMapId": "UI_BEYOND_ASSIST_EDITOR_STRUCT_ADD_WARNING"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3742249623,
+  "textMapId": "BEYOND_EDITOR_SHORTCUT_KEY_TOOL_CREATCOPY"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3858850359,
+  "textMapId": "BEYOND_EDITOR_SHORTCUT_KEY_TOOL_ENTER"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 257350319,
+  "textMapId": "BEYOND_EDITOR_SHORTCUT_KEY_TOOL_D"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3582851876,
+  "textMapId": "BEYOND_EDITOR_SHORTCUT_KEY_EDIT_FLODER"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3610233884,
+  "textMapId": "UI_BEYOND_ASSIST_EDITOR_ADVANCED_DATA_KEY_WARNING"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE",
+   "TEXT_PARAM_NONE"
+  ],
   "textMapContentTextMapHash": 1628461021,
   "textMapId": "UI_BEYOND_EDITOR_ESP_LIGHTING_LEVELSETTING_NAME"
  },
@@ -279799,5 +283526,26 @@
   ],
   "textMapContentTextMapHash": 827661606,
   "textMapId": "RetBeyondRoomInviteeRoomPlatformOnly"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2211590062,
+  "textMapId": "RetHallInvitationInviterPlatformOnly"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 3577210278,
+  "textMapId": "RetHallInviterPlatformOnly"
+ },
+ {
+  "paramTypes": [
+   "TEXT_PARAM_NONE"
+  ],
+  "textMapContentTextMapHash": 2444716998,
+  "textMapId": "RetHallCancelAdminButIsNotAdmin"
  }
 ]
