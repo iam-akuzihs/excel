@@ -1,6 +1,9 @@
 [
  {
+  "titleTextMapHash": 1888818478,
+  "descTextMapHash": 2026848900,
   "abilityGroupName": "Ability_Activity_Sumo_NormalAttack",
+  "id": 1,
   "descParam": [
    "15",
    "50",
@@ -11,13 +14,13 @@
    "",
    ""
   ],
-  "titleTextMapHash": 1888818478,
-  "id": 1,
-  "iconNameHash": 15549380266230311078,
-  "descTextMapHash": 2026848900
+  "iconNameHash": 15549380266230311078
  },
  {
+  "titleTextMapHash": 4254722622,
+  "descTextMapHash": 3830680204,
   "abilityGroupName": "Ability_Activity_Sumo_ExtraAttack",
+  "id": 2,
   "descParam": [
    "15",
    "30",
@@ -28,13 +31,13 @@
    "",
    ""
   ],
-  "titleTextMapHash": 4254722622,
-  "id": 2,
-  "iconNameHash": 9173683837432882094,
-  "descTextMapHash": 3830680204
+  "iconNameHash": 9173683837432882094
  },
  {
+  "titleTextMapHash": 1966603390,
+  "descTextMapHash": 3222065500,
   "abilityGroupName": "Ability_Activity_Sumo_FallingDamage",
+  "id": 3,
   "descParam": [
    "15",
    "85",
@@ -45,13 +48,13 @@
    "",
    ""
   ],
-  "titleTextMapHash": 1966603390,
-  "id": 3,
-  "iconNameHash": 10708369719787900652,
-  "descTextMapHash": 3222065500
+  "iconNameHash": 10708369719787900652
  },
  {
+  "titleTextMapHash": 3006041230,
+  "descTextMapHash": 4217978076,
   "abilityGroupName": "Ability_Activity_Sumo_GenerateBall_AfterElementalArt",
+  "id": 4,
   "descParam": [
    "15",
    "20",
@@ -62,13 +65,13 @@
    "",
    ""
   ],
-  "titleTextMapHash": 3006041230,
-  "id": 4,
-  "iconNameHash": 3744259038293801907,
-  "descTextMapHash": 4217978076
+  "iconNameHash": 3744259038293801907
  },
  {
+  "titleTextMapHash": 4144478854,
+  "descTextMapHash": 1591056956,
   "abilityGroupName": "Ability_Activity_Sumo_Elemental_Burst",
+  "id": 5,
   "descParam": [
    "25",
    "30",
@@ -79,13 +82,13 @@
    "",
    ""
   ],
-  "titleTextMapHash": 4144478854,
-  "id": 5,
-  "iconNameHash": 6074075424565649846,
-  "descTextMapHash": 1591056956
+  "iconNameHash": 6074075424565649846
  },
  {
+  "titleTextMapHash": 1718305718,
+  "descTextMapHash": 3052686380,
   "abilityGroupName": "Ability_Activity_Sumo_ShieldBeingHitDoAttack",
+  "id": 6,
   "descParam": [
    "15",
    "2",
@@ -96,13 +99,13 @@
    "",
    ""
   ],
-  "titleTextMapHash": 1718305718,
-  "id": 6,
-  "iconNameHash": 2188829677713682968,
-  "descTextMapHash": 3052686380
+  "iconNameHash": 2188829677713682968
  },
  {
+  "titleTextMapHash": 2758299374,
+  "descTextMapHash": 83683668,
   "abilityGroupName": "Ability_Activity_Sumo_TriggerAoe_AfterHealUp",
+  "id": 7,
   "descParam": [
    "15",
    "5",
@@ -113,13 +116,13 @@
    "",
    ""
   ],
-  "titleTextMapHash": 2758299374,
-  "id": 7,
-  "iconNameHash": 17738972799374833399,
-  "descTextMapHash": 83683668
+  "iconNameHash": 17738972799374833399
  },
  {
+  "titleTextMapHash": 2219183486,
+  "descTextMapHash": 2555546628,
   "abilityGroupName": "Ability_Activity_Sumo_Fever_Faster",
+  "id": 8,
   "descParam": [
    "25",
    "",
@@ -130,13 +133,13 @@
    "",
    ""
   ],
-  "titleTextMapHash": 2219183486,
-  "id": 8,
-  "iconNameHash": 17763632983393277608,
-  "descTextMapHash": 2555546628
+  "iconNameHash": 17763632983393277608
  },
  {
+  "titleTextMapHash": 1578630358,
+  "descTextMapHash": 1553190988,
   "abilityGroupName": "Ability_Activity_Sumo_ElemMasteryDelta",
+  "id": 9,
   "descParam": [
    "25",
    "150",
@@ -147,30 +150,13 @@
    "",
    ""
   ],
-  "titleTextMapHash": 1578630358,
-  "id": 9,
-  "iconNameHash": 7606217870205712314,
-  "descTextMapHash": 1553190988
+  "iconNameHash": 7606217870205712314
  },
  {
-  "abilityGroupName": "Ability_Activity_Sumo_ElementAddHurt_Fire",
-  "descParam": [
-   "25",
-   "60",
-   "",
-   "",
-   "",
-   "",
-   "",
-   ""
-  ],
   "titleTextMapHash": 2908248582,
+  "descTextMapHash": 516092700,
+  "abilityGroupName": "Ability_Activity_Sumo_ElementAddHurt_Fire",
   "id": 10,
-  "iconNameHash": 15821997080499207973,
-  "descTextMapHash": 516092700
- },
- {
-  "abilityGroupName": "Ability_Activity_Sumo_ElementAddHurt_Ice",
   "descParam": [
    "25",
    "60",
@@ -181,13 +167,13 @@
    "",
    ""
   ],
+  "iconNameHash": 15821997080499207973
+ },
+ {
   "titleTextMapHash": 1205817918,
+  "descTextMapHash": 3616851108,
+  "abilityGroupName": "Ability_Activity_Sumo_ElementAddHurt_Ice",
   "id": 11,
-  "iconNameHash": 14735375204110695743,
-  "descTextMapHash": 3616851108
- },
- {
-  "abilityGroupName": "Ability_Activity_Sumo_ElementAddHurt_Elec",
   "descParam": [
    "25",
    "60",
@@ -198,13 +184,13 @@
    "",
    ""
   ],
+  "iconNameHash": 14735375204110695743
+ },
+ {
   "titleTextMapHash": 246224494,
+  "descTextMapHash": 286896028,
+  "abilityGroupName": "Ability_Activity_Sumo_ElementAddHurt_Elec",
   "id": 12,
-  "iconNameHash": 425790897978303115,
-  "descTextMapHash": 286896028
- },
- {
-  "abilityGroupName": "Ability_Activity_Sumo_ElementAddHurt_Rock",
   "descParam": [
    "25",
    "60",
@@ -215,13 +201,13 @@
    "",
    ""
   ],
+  "iconNameHash": 425790897978303115
+ },
+ {
   "titleTextMapHash": 231665798,
+  "descTextMapHash": 3397554804,
+  "abilityGroupName": "Ability_Activity_Sumo_ElementAddHurt_Rock",
   "id": 13,
-  "iconNameHash": 14789152789847720617,
-  "descTextMapHash": 3397554804
- },
- {
-  "abilityGroupName": "Ability_Activity_Sumo_ElementAddHurt_Water",
   "descParam": [
    "25",
    "60",
@@ -232,13 +218,13 @@
    "",
    ""
   ],
+  "iconNameHash": 14789152789847720617
+ },
+ {
   "titleTextMapHash": 1903822606,
+  "descTextMapHash": 2550840028,
+  "abilityGroupName": "Ability_Activity_Sumo_ElementAddHurt_Water",
   "id": 14,
-  "iconNameHash": 17393781166196044832,
-  "descTextMapHash": 2550840028
- },
- {
-  "abilityGroupName": "Ability_Activity_Sumo_ElementAddHurt_Wind",
   "descParam": [
    "25",
    "60",
@@ -249,13 +235,13 @@
    "",
    ""
   ],
+  "iconNameHash": 17393781166196044832
+ },
+ {
   "titleTextMapHash": 2666190454,
+  "descTextMapHash": 237739652,
+  "abilityGroupName": "Ability_Activity_Sumo_ElementAddHurt_Wind",
   "id": 15,
-  "iconNameHash": 15049067035676258835,
-  "descTextMapHash": 237739652
- },
- {
-  "abilityGroupName": "Ability_Activity_Sumo_PhysicalAddHurt",
   "descParam": [
    "25",
    "60",
@@ -266,13 +252,13 @@
    "",
    ""
   ],
+  "iconNameHash": 15049067035676258835
+ },
+ {
   "titleTextMapHash": 2281063270,
+  "descTextMapHash": 2547860564,
+  "abilityGroupName": "Ability_Activity_Sumo_PhysicalAddHurt",
   "id": 16,
-  "iconNameHash": 3814943627391975191,
-  "descTextMapHash": 2547860564
- },
- {
-  "abilityGroupName": "Ability_Activity_Sumo_CriticalHurtDelta",
   "descParam": [
    "25",
    "60",
@@ -283,13 +269,13 @@
    "",
    ""
   ],
+  "iconNameHash": 3814943627391975191
+ },
+ {
   "titleTextMapHash": 3812625190,
+  "descTextMapHash": 2492209036,
+  "abilityGroupName": "Ability_Activity_Sumo_CriticalHurtDelta",
   "id": 17,
-  "iconNameHash": 11690843226368023001,
-  "descTextMapHash": 2492209036
- },
- {
-  "abilityGroupName": "Ability_Activity_Sumo_AtkUp",
   "descParam": [
    "25",
    "60",
@@ -300,13 +286,30 @@
    "",
    ""
   ],
-  "titleTextMapHash": 341201982,
-  "id": 18,
-  "iconNameHash": 13178587837713115643,
-  "descTextMapHash": 1790711804
+  "iconNameHash": 11690843226368023001
  },
  {
+  "titleTextMapHash": 341201982,
+  "descTextMapHash": 1790711804,
+  "abilityGroupName": "Ability_Activity_Sumo_AtkUp",
+  "id": 18,
+  "descParam": [
+   "25",
+   "60",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "iconNameHash": 13178587837713115643
+ },
+ {
+  "titleTextMapHash": 1766680054,
+  "descTextMapHash": 675428428,
   "abilityGroupName": "Activity_Sumo_Cannon",
+  "id": 19,
   "descParam": [
    "15",
    "",
@@ -317,13 +320,13 @@
    "",
    ""
   ],
-  "titleTextMapHash": 1766680054,
-  "id": 19,
-  "iconNameHash": 10641438884724386688,
-  "descTextMapHash": 675428428
+  "iconNameHash": 10641438884724386688
  },
  {
+  "titleTextMapHash": 2552423662,
+  "descTextMapHash": 2974175132,
   "abilityGroupName": "Activity_Sumo_ArtAndBurst_DamageUp",
+  "id": 20,
   "descParam": [
    "15",
    "12.5",
@@ -334,13 +337,13 @@
    "",
    ""
   ],
-  "titleTextMapHash": 2552423662,
-  "id": 20,
-  "iconNameHash": 445798679907328764,
-  "descTextMapHash": 2974175132
+  "iconNameHash": 445798679907328764
  },
  {
+  "titleTextMapHash": 1955521606,
+  "descTextMapHash": 2463378612,
   "abilityGroupName": "Activity_Sumo_ReviveEnergy",
+  "id": 21,
   "descParam": [
    "15",
    "3",
@@ -351,30 +354,13 @@
    "",
    ""
   ],
-  "titleTextMapHash": 1955521606,
-  "id": 21,
-  "iconNameHash": 12746578884287725109,
-  "descTextMapHash": 2463378612
+  "iconNameHash": 12746578884287725109
  },
  {
-  "abilityGroupName": "Activity_Sumo_WindZone",
-  "descParam": [
-   "15",
-   "1",
-   "",
-   "",
-   "",
-   "",
-   "",
-   ""
-  ],
   "titleTextMapHash": 2198395846,
+  "descTextMapHash": 3110237396,
+  "abilityGroupName": "Activity_Sumo_WindZone",
   "id": 22,
-  "iconNameHash": 11374704395093243974,
-  "descTextMapHash": 3110237396
- },
- {
-  "abilityGroupName": "Activity_Sumo_WaterZone",
   "descParam": [
    "15",
    "1",
@@ -385,13 +371,30 @@
    "",
    ""
   ],
-  "titleTextMapHash": 4035175758,
-  "id": 23,
-  "iconNameHash": 11622511848834200166,
-  "descTextMapHash": 3257423620
+  "iconNameHash": 11374704395093243974
  },
  {
+  "titleTextMapHash": 4035175758,
+  "descTextMapHash": 3257423620,
+  "abilityGroupName": "Activity_Sumo_WaterZone",
+  "id": 23,
+  "descParam": [
+   "15",
+   "1",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "iconNameHash": 11622511848834200166
+ },
+ {
+  "titleTextMapHash": 1491047606,
+  "descTextMapHash": 2017493076,
   "abilityGroupName": "Activity_Sumo_ExtraAttack_RandomDamage",
+  "id": 24,
   "descParam": [
    "15",
    "2",
@@ -402,30 +405,13 @@
    "",
    ""
   ],
-  "titleTextMapHash": 1491047606,
-  "id": 24,
-  "iconNameHash": 12221969747490847294,
-  "descTextMapHash": 2017493076
+  "iconNameHash": 12221969747490847294
  },
  {
-  "abilityGroupName": "Activity_Sumo3_ElementAddHurt_Fire",
-  "descParam": [
-   "25",
-   "60",
-   "",
-   "",
-   "",
-   "",
-   "",
-   ""
-  ],
   "titleTextMapHash": 1997488150,
+  "descTextMapHash": 1514081844,
+  "abilityGroupName": "Activity_Sumo3_ElementAddHurt_Fire",
   "id": 25,
-  "iconNameHash": 15821997080499207973,
-  "descTextMapHash": 1514081844
- },
- {
-  "abilityGroupName": "Activity_Sumo3_ElementAddHurt_Ice",
   "descParam": [
    "25",
    "60",
@@ -436,13 +422,13 @@
    "",
    ""
   ],
+  "iconNameHash": 15821997080499207973
+ },
+ {
   "titleTextMapHash": 3297364062,
+  "descTextMapHash": 3771709692,
+  "abilityGroupName": "Activity_Sumo3_ElementAddHurt_Ice",
   "id": 26,
-  "iconNameHash": 14735375204110695743,
-  "descTextMapHash": 3771709692
- },
- {
-  "abilityGroupName": "Activity_Sumo3_ElementAddHurt_Elec",
   "descParam": [
    "25",
    "60",
@@ -453,13 +439,13 @@
    "",
    ""
   ],
+  "iconNameHash": 14735375204110695743
+ },
+ {
   "titleTextMapHash": 2951995862,
+  "descTextMapHash": 1430748124,
+  "abilityGroupName": "Activity_Sumo3_ElementAddHurt_Elec",
   "id": 27,
-  "iconNameHash": 425790897978303115,
-  "descTextMapHash": 1430748124
- },
- {
-  "abilityGroupName": "Activity_Sumo3_ElementAddHurt_Rock",
   "descParam": [
    "25",
    "60",
@@ -470,13 +456,13 @@
    "",
    ""
   ],
+  "iconNameHash": 425790897978303115
+ },
+ {
   "titleTextMapHash": 3808780534,
+  "descTextMapHash": 2925199316,
+  "abilityGroupName": "Activity_Sumo3_ElementAddHurt_Rock",
   "id": 28,
-  "iconNameHash": 14789152789847720617,
-  "descTextMapHash": 2925199316
- },
- {
-  "abilityGroupName": "Activity_Sumo3_ElementAddHurt_Wind",
   "descParam": [
    "25",
    "60",
@@ -487,13 +473,13 @@
    "",
    ""
   ],
+  "iconNameHash": 14789152789847720617
+ },
+ {
   "titleTextMapHash": 1004542574,
+  "descTextMapHash": 802486684,
+  "abilityGroupName": "Activity_Sumo3_ElementAddHurt_Wind",
   "id": 29,
-  "iconNameHash": 15049067035676258835,
-  "descTextMapHash": 802486684
- },
- {
-  "abilityGroupName": "Activity_Sumo3_ElementAddHurt_Water",
   "descParam": [
    "25",
    "60",
@@ -504,13 +490,13 @@
    "",
    ""
   ],
+  "iconNameHash": 15049067035676258835
+ },
+ {
   "titleTextMapHash": 2376908126,
+  "descTextMapHash": 48414340,
+  "abilityGroupName": "Activity_Sumo3_ElementAddHurt_Water",
   "id": 30,
-  "iconNameHash": 17393781166196044832,
-  "descTextMapHash": 48414340
- },
- {
-  "abilityGroupName": "Activity_Sumo_ElementAddHurt_Grass",
   "descParam": [
    "25",
    "60",
@@ -521,13 +507,13 @@
    "",
    ""
   ],
+  "iconNameHash": 17393781166196044832
+ },
+ {
   "titleTextMapHash": 789067502,
+  "descTextMapHash": 321855228,
+  "abilityGroupName": "Activity_Sumo_ElementAddHurt_Grass",
   "id": 31,
-  "iconNameHash": 13325136151328437476,
-  "descTextMapHash": 321855228
- },
- {
-  "abilityGroupName": "Activity_Sumo3_PhysicalAddHurt",
   "descParam": [
    "25",
    "60",
@@ -538,13 +524,13 @@
    "",
    ""
   ],
+  "iconNameHash": 13325136151328437476
+ },
+ {
   "titleTextMapHash": 1232014534,
+  "descTextMapHash": 2906237492,
+  "abilityGroupName": "Activity_Sumo3_PhysicalAddHurt",
   "id": 32,
-  "iconNameHash": 3814943627391975191,
-  "descTextMapHash": 2906237492
- },
- {
-  "abilityGroupName": "Activity_Sumo3_CriticalHurtDelta",
   "descParam": [
    "25",
    "60",
@@ -555,13 +541,13 @@
    "",
    ""
   ],
+  "iconNameHash": 3814943627391975191
+ },
+ {
   "titleTextMapHash": 3309616598,
+  "descTextMapHash": 1590501556,
+  "abilityGroupName": "Activity_Sumo3_CriticalHurtDelta",
   "id": 33,
-  "iconNameHash": 11690843226368023001,
-  "descTextMapHash": 1590501556
- },
- {
-  "abilityGroupName": "Activity_Sumo3_AtkUp",
   "descParam": [
    "25",
    "60",
@@ -572,13 +558,30 @@
    "",
    ""
   ],
-  "titleTextMapHash": 2077704638,
-  "id": 34,
-  "iconNameHash": 13178587837713115643,
-  "descTextMapHash": 2333808428
+  "iconNameHash": 11690843226368023001
  },
  {
+  "titleTextMapHash": 2077704638,
+  "descTextMapHash": 2333808428,
+  "abilityGroupName": "Activity_Sumo3_AtkUp",
+  "id": 34,
+  "descParam": [
+   "25",
+   "60",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "iconNameHash": 13178587837713115643
+ },
+ {
+  "titleTextMapHash": 1627413182,
+  "descTextMapHash": 3981872620,
   "abilityGroupName": "Activity_Sumo3_ElemMasteryDelta",
+  "id": 35,
   "descParam": [
    "25",
    "150",
@@ -589,30 +592,13 @@
    "",
    ""
   ],
-  "titleTextMapHash": 1627413182,
-  "id": 35,
-  "iconNameHash": 7606217870205712314,
-  "descTextMapHash": 3981872620
+  "iconNameHash": 7606217870205712314
  },
  {
-  "abilityGroupName": "Activity_Sumo_NormalAttack_DamageUp",
-  "descParam": [
-   "25",
-   "60",
-   "",
-   "",
-   "",
-   "",
-   "",
-   ""
-  ],
   "titleTextMapHash": 3060874230,
+  "descTextMapHash": 3900811684,
+  "abilityGroupName": "Activity_Sumo_NormalAttack_DamageUp",
   "id": 36,
-  "iconNameHash": 533543077073722829,
-  "descTextMapHash": 3900811684
- },
- {
-  "abilityGroupName": "Activity_Sumo3_MaxHPUp",
   "descParam": [
    "25",
    "60",
@@ -623,13 +609,30 @@
    "",
    ""
   ],
-  "titleTextMapHash": 1535759230,
-  "id": 37,
-  "iconNameHash": 7357988886308253081,
-  "descTextMapHash": 2424773044
+  "iconNameHash": 533543077073722829
  },
  {
+  "titleTextMapHash": 1535759230,
+  "descTextMapHash": 2424773044,
+  "abilityGroupName": "Activity_Sumo3_MaxHPUp",
+  "id": 37,
+  "descParam": [
+   "25",
+   "60",
+   "",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "iconNameHash": 7357988886308253081
+ },
+ {
+  "titleTextMapHash": 2423698014,
+  "descTextMapHash": 1009368580,
   "abilityGroupName": "Activity_Sumo3_ReviveEnergy",
+  "id": 38,
   "descParam": [
    "15",
    "3",
@@ -640,13 +643,13 @@
    "",
    ""
   ],
-  "titleTextMapHash": 2423698014,
-  "id": 38,
-  "iconNameHash": 737141629815195771,
-  "descTextMapHash": 1009368580
+  "iconNameHash": 737141629815195771
  },
  {
+  "titleTextMapHash": 578029974,
+  "descTextMapHash": 2844987692,
   "abilityGroupName": "Activity_Sumo3_Elemental_Burst",
+  "id": 39,
   "descParam": [
    "15",
    "30",
@@ -657,13 +660,13 @@
    "",
    ""
   ],
-  "titleTextMapHash": 578029974,
-  "id": 39,
-  "iconNameHash": 7739163468988286385,
-  "descTextMapHash": 2844987692
+  "iconNameHash": 7739163468988286385
  },
  {
+  "titleTextMapHash": 3118310942,
+  "descTextMapHash": 3056872500,
   "abilityGroupName": "Activity_Sumo3_Elemental_Burst_Skill",
+  "id": 40,
   "descParam": [
    "15",
    "80",
@@ -674,13 +677,13 @@
    "",
    ""
   ],
-  "titleTextMapHash": 3118310942,
-  "id": 40,
-  "iconNameHash": 8929148303215325736,
-  "descTextMapHash": 3056872500
+  "iconNameHash": 8929148303215325736
  },
  {
+  "titleTextMapHash": 965805910,
+  "descTextMapHash": 2347205452,
   "abilityGroupName": "ActivityAbility_Sumo_OverGrowDamageLand_Impact",
+  "id": 41,
   "descParam": [
    "15",
    "3",
@@ -691,30 +694,13 @@
    "",
    ""
   ],
-  "titleTextMapHash": 965805910,
-  "id": 41,
-  "iconNameHash": 255960468481214892,
-  "descTextMapHash": 2347205452
+  "iconNameHash": 255960468481214892
  },
  {
-  "abilityGroupName": "ActivityAbility_Sumo_Overdose_ElementalSubHurtDown",
-  "descParam": [
-   "15",
-   "6",
-   "80",
-   "",
-   "",
-   "",
-   "",
-   ""
-  ],
   "titleTextMapHash": 3403683718,
+  "descTextMapHash": 29673596,
+  "abilityGroupName": "ActivityAbility_Sumo_Overdose_ElementalSubHurtDown",
   "id": 42,
-  "iconNameHash": 3664065590303091888,
-  "descTextMapHash": 29673596
- },
- {
-  "abilityGroupName": "ActivityAbility_Sumo_Burning_ElementalSubHurtDown",
   "descParam": [
    "15",
    "6",
@@ -725,13 +711,30 @@
    "",
    ""
   ],
-  "titleTextMapHash": 473751398,
-  "id": 43,
-  "iconNameHash": 6249476504898250471,
-  "descTextMapHash": 1642160020
+  "iconNameHash": 3664065590303091888
  },
  {
+  "titleTextMapHash": 473751398,
+  "descTextMapHash": 1642160020,
+  "abilityGroupName": "ActivityAbility_Sumo_Burning_ElementalSubHurtDown",
+  "id": 43,
+  "descParam": [
+   "15",
+   "6",
+   "80",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "iconNameHash": 6249476504898250471
+ },
+ {
+  "titleTextMapHash": 1071164302,
+  "descTextMapHash": 127005724,
   "abilityGroupName": "ActivityAbility_Sumo_NormalAttackLand_ReviveEnergy",
+  "id": 44,
   "descParam": [
    "15",
    "3",
@@ -742,64 +745,47 @@
    "",
    ""
   ],
-  "titleTextMapHash": 1071164302,
-  "id": 44,
-  "iconNameHash": 10143296881809658598,
-  "descTextMapHash": 127005724
+  "iconNameHash": 10143296881809658598
  },
  {
-  "abilityGroupName": "ActivityAbility_Sumo_SwirlReact_GenerateEnergyBall",
-  "descParam": [
-   "15",
-   "2",
-   "2",
-   "2",
-   "",
-   "",
-   "",
-   ""
-  ],
   "titleTextMapHash": 1393738950,
+  "descTextMapHash": 784567820,
+  "abilityGroupName": "ActivityAbility_Sumo_SwirlReact_GenerateEnergyBall",
   "id": 45,
-  "iconNameHash": 2988574355035144474,
-  "descTextMapHash": 784567820
- },
- {
-  "abilityGroupName": "Activity_Sumo_ExtraAttack2",
   "descParam": [
    "15",
-   "80",
-   "",
-   "",
+   "2",
+   "2",
+   "2",
    "",
    "",
    "",
    ""
   ],
+  "iconNameHash": 2988574355035144474
+ },
+ {
   "titleTextMapHash": 1337682742,
+  "descTextMapHash": 2010472836,
+  "abilityGroupName": "Activity_Sumo_ExtraAttack2",
   "id": 46,
-  "iconNameHash": 2357243825355710143,
-  "descTextMapHash": 2010472836
- },
- {
-  "abilityGroupName": "Activity_Sumo3_ReviveEnergyOnce_GainEnergyBall_DamageUp",
   "descParam": [
    "15",
    "80",
-   "6",
+   "",
    "",
    "",
    "",
    "",
    ""
   ],
+  "iconNameHash": 2357243825355710143
+ },
+ {
   "titleTextMapHash": 79570742,
+  "descTextMapHash": 1571251900,
+  "abilityGroupName": "Activity_Sumo3_ReviveEnergyOnce_GainEnergyBall_DamageUp",
   "id": 47,
-  "iconNameHash": 16569355042025720392,
-  "descTextMapHash": 1571251900
- },
- {
-  "abilityGroupName": "ActivityAbility_Sumo_ElemDamageLand_DamageUp",
   "descParam": [
    "15",
    "80",
@@ -810,13 +796,30 @@
    "",
    ""
   ],
-  "titleTextMapHash": 1644623998,
-  "id": 48,
-  "iconNameHash": 12374855883624170870,
-  "descTextMapHash": 179163636
+  "iconNameHash": 16569355042025720392
  },
  {
+  "titleTextMapHash": 1644623998,
+  "descTextMapHash": 179163636,
+  "abilityGroupName": "ActivityAbility_Sumo_ElemDamageLand_DamageUp",
+  "id": 48,
+  "descParam": [
+   "15",
+   "80",
+   "6",
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "iconNameHash": 12374855883624170870
+ },
+ {
+  "titleTextMapHash": 186646102,
+  "descTextMapHash": 2916581484,
   "abilityGroupName": "Activity_Sumo_OverGrowSeed_Plus",
+  "id": 49,
   "descParam": [
    "15",
    "",
@@ -827,9 +830,6 @@
    "",
    ""
   ],
-  "titleTextMapHash": 186646102,
-  "id": 49,
-  "iconNameHash": 8565506901908395740,
-  "descTextMapHash": 2916581484
+  "iconNameHash": 8565506901908395740
  }
 ]

@@ -1,27 +1,9 @@
 [
  {
-  "positiveFactorList": [
-   9,
-   10,
-   11,
-   12
-  ],
-  "monsterIdList": [
-   10207,
-   10306,
-   10102,
-   10109,
-   10107,
-   10105,
-   10116,
-   10110
-  ],
-  "negativeFactorList": [
-   109,
-   110,
-   111,
-   112
-  ],
+  "openDay": 1,
+  "dungeonId": 3066,
+  "galleryId": 44303,
+  "levelDescTextMapHash": 2638859760,
   "watcherList": [
    12021301,
    12021302,
@@ -33,20 +15,46 @@
    40302,
    40301
   ],
-  "id": 1,
+  "monsterIdList": [
+   10207,
+   10306,
+   10102,
+   10109,
+   10107,
+   10105,
+   10116,
+   10110
+  ],
   "levelTitleTextMapHash": 3491686080,
-  "dungeonId": 3066,
-  "galleryId": 44303,
-  "levelDescTextMapHash": 2638859760,
-  "maxDifficultyDungeonLevelId": 1792,
-  "openDay": 1
+  "negativeFactorList": [
+   109,
+   110,
+   111,
+   112
+  ],
+  "positiveFactorList": [
+   9,
+   10,
+   11,
+   12
+  ],
+  "id": 1,
+  "maxDifficultyDungeonLevelId": 1792
  },
  {
-  "positiveFactorList": [
-   1,
-   2,
-   3,
-   4
+  "openDay": 5,
+  "dungeonId": 3064,
+  "galleryId": 44301,
+  "levelDescTextMapHash": 3295734072,
+  "watcherList": [
+   12021304,
+   12021305,
+   12021306
+  ],
+  "bossMonsterIdList": [
+   61201,
+   61202,
+   61203
   ],
   "monsterIdList": [
    60901,
@@ -60,51 +68,27 @@
    60903,
    60909
   ],
+  "levelTitleTextMapHash": 4105601688,
   "negativeFactorList": [
    101,
    102,
    103,
    104
   ],
-  "watcherList": [
-   12021304,
-   12021305,
-   12021306
-  ],
-  "bossMonsterIdList": [
-   61201,
-   61202,
-   61203
+  "positiveFactorList": [
+   1,
+   2,
+   3,
+   4
   ],
   "id": 2,
-  "levelTitleTextMapHash": 4105601688,
-  "dungeonId": 3064,
-  "galleryId": 44301,
-  "levelDescTextMapHash": 3295734072,
-  "maxDifficultyDungeonLevelId": 1790,
-  "openDay": 5
+  "maxDifficultyDungeonLevelId": 1790
  },
  {
-  "positiveFactorList": [
-   5,
-   6,
-   7,
-   8
-  ],
-  "monsterIdList": [
-   52103,
-   52104,
-   52105,
-   52102,
-   52101,
-   50103
-  ],
-  "negativeFactorList": [
-   105,
-   106,
-   107,
-   108
-  ],
+  "openDay": 7,
+  "dungeonId": 3065,
+  "galleryId": 44302,
+  "levelDescTextMapHash": 2676121632,
   "watcherList": [
    12021307,
    12021308,
@@ -117,12 +101,28 @@
    54104,
    54103
   ],
-  "id": 3,
+  "monsterIdList": [
+   52103,
+   52104,
+   52105,
+   52102,
+   52101,
+   50103
+  ],
   "levelTitleTextMapHash": 2089478560,
-  "dungeonId": 3065,
-  "galleryId": 44302,
-  "levelDescTextMapHash": 2676121632,
-  "maxDifficultyDungeonLevelId": 1791,
-  "openDay": 7
+  "negativeFactorList": [
+   105,
+   106,
+   107,
+   108
+  ],
+  "positiveFactorList": [
+   5,
+   6,
+   7,
+   8
+  ],
+  "id": 3,
+  "maxDifficultyDungeonLevelId": 1791
  }
 ]

@@ -2,57 +2,57 @@
  {
   "privilegeType": [
    {
-    "subType": "DUNGEON_DAILY_FIGHT",
-    "JCHDAEMICHO": true,
     "type": "REUNION_V2_PRIVILEGE_TYPE_DUNGEON",
+    "HEFBNHJPNEN": true,
     "dailyNum": 0,
-    "totalNum": 0
+    "totalNum": 0,
+    "subType": "DUNGEON_DAILY_FIGHT"
    },
    {
-    "subType": "BLOSSOM_REFRESH_SCOIN;BLOSSOM_REFRESH_EXP",
-    "JCHDAEMICHO": true,
     "type": "REUNION_V2_PRIVILEGE_TYPE_BLOSSOM",
+    "HEFBNHJPNEN": true,
     "dailyNum": 0,
-    "totalNum": 0
+    "totalNum": 0,
+    "subType": "BLOSSOM_REFRESH_SCOIN;BLOSSOM_REFRESH_EXP"
    },
    {
-    "subType": "",
-    "JCHDAEMICHO": false,
     "type": "REUNION_V2_PRIVILEGE_TYPE_PERSONALLINE_OR_COOP",
+    "HEFBNHJPNEN": false,
     "dailyNum": 3,
-    "totalNum": 3
+    "totalNum": 3,
+    "subType": ""
    }
   ],
-  "id": 1,
+  "dailyNum": 4,
   "totalNum": 28,
-  "dailyNum": 4
+  "id": 1
  },
  {
   "privilegeType": [
    {
-    "subType": "DUNGEON_DAILY_FIGHT",
-    "JCHDAEMICHO": true,
     "type": "REUNION_V2_PRIVILEGE_TYPE_DUNGEON",
+    "HEFBNHJPNEN": true,
     "dailyNum": 0,
-    "totalNum": 0
+    "totalNum": 0,
+    "subType": "DUNGEON_DAILY_FIGHT"
    },
    {
-    "subType": "BLOSSOM_REFRESH_SCOIN;BLOSSOM_REFRESH_EXP",
-    "JCHDAEMICHO": true,
     "type": "REUNION_V2_PRIVILEGE_TYPE_BLOSSOM",
+    "HEFBNHJPNEN": true,
     "dailyNum": 0,
-    "totalNum": 0
+    "totalNum": 0,
+    "subType": "BLOSSOM_REFRESH_SCOIN;BLOSSOM_REFRESH_EXP"
    },
    {
-    "subType": "",
-    "JCHDAEMICHO": false,
     "type": "REUNION_V2_PRIVILEGE_TYPE_PERSONALLINE_OR_COOP",
+    "HEFBNHJPNEN": false,
     "dailyNum": 3,
-    "totalNum": 3
+    "totalNum": 3,
+    "subType": ""
    }
   ],
-  "id": 2,
+  "dailyNum": 3,
   "totalNum": 21,
-  "dailyNum": 3
+  "id": 2
  }
 ]

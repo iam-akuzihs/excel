@@ -1,106 +1,106 @@
 [
  {
-  "EDFNBOHJNPI": "Monster",
-  "BMOEGIAEFCP": 1,
-  "nameTextMapHash": 3837487874,
+  "type": "LevelUnit",
+  "HFCKBHKJBIB": 1,
   "iconHash": 3275139233030709885,
-  "type": "LevelUnit",
-  "descriptionTextMapHash": 513362740
+  "descriptionTextMapHash": 513362740,
+  "nameTextMapHash": 3837487874,
+  "PPFEIDPPMCN": "Monster"
  },
  {
-  "EDFNBOHJNPI": "AmourMonster",
-  "BMOEGIAEFCP": 2,
-  "nameTextMapHash": 733939146,
+  "type": "LevelUnit",
+  "HFCKBHKJBIB": 2,
   "iconHash": 2665999550843172796,
-  "type": "LevelUnit",
-  "descriptionTextMapHash": 2051501204
+  "descriptionTextMapHash": 2051501204,
+  "nameTextMapHash": 733939146,
+  "PPFEIDPPMCN": "AmourMonster"
  },
  {
-  "EDFNBOHJNPI": "DashMonster",
-  "BMOEGIAEFCP": 3,
-  "nameTextMapHash": 2232019898,
+  "type": "LevelUnit",
+  "HFCKBHKJBIB": 3,
   "iconHash": 9977732632143719898,
-  "type": "LevelUnit",
-  "descriptionTextMapHash": 3202471252
+  "descriptionTextMapHash": 3202471252,
+  "nameTextMapHash": 2232019898,
+  "PPFEIDPPMCN": "DashMonster"
  },
  {
-  "EDFNBOHJNPI": "DropBombMonster",
-  "BMOEGIAEFCP": 4,
-  "nameTextMapHash": 1321327746,
+  "type": "LevelUnit",
+  "HFCKBHKJBIB": 4,
   "iconHash": 13642401415086412087,
-  "type": "LevelUnit",
-  "descriptionTextMapHash": 204296164
+  "descriptionTextMapHash": 204296164,
+  "nameTextMapHash": 1321327746,
+  "PPFEIDPPMCN": "DropBombMonster"
  },
  {
-  "EDFNBOHJNPI": "Obstacle",
-  "BMOEGIAEFCP": 5,
-  "nameTextMapHash": 2678155706,
+  "type": "LevelUnit",
+  "HFCKBHKJBIB": 5,
   "iconHash": 13205193245211788130,
-  "type": "LevelUnit",
-  "descriptionTextMapHash": 3186138532
+  "descriptionTextMapHash": 3186138532,
+  "nameTextMapHash": 2678155706,
+  "PPFEIDPPMCN": "Obstacle"
  },
  {
-  "EDFNBOHJNPI": "BreakableObstacle",
-  "BMOEGIAEFCP": 6,
-  "nameTextMapHash": 2873543954,
+  "type": "LevelUnit",
+  "HFCKBHKJBIB": 6,
   "iconHash": 14453483042850193992,
-  "type": "LevelUnit",
-  "descriptionTextMapHash": 2938718036
+  "descriptionTextMapHash": 2938718036,
+  "nameTextMapHash": 2873543954,
+  "PPFEIDPPMCN": "BreakableObstacle"
  },
  {
-  "EDFNBOHJNPI": "IncreaseSpeedBuff",
-  "BMOEGIAEFCP": 7,
-  "nameTextMapHash": 2598058850,
+  "type": "Buff",
+  "HFCKBHKJBIB": 7,
   "iconHash": 5957733622769114053,
-  "type": "Buff",
-  "descriptionTextMapHash": 895746428
+  "descriptionTextMapHash": 895746428,
+  "nameTextMapHash": 2598058850,
+  "PPFEIDPPMCN": "IncreaseSpeedBuff"
  },
  {
-  "EDFNBOHJNPI": "IncreaseBombBuff",
-  "BMOEGIAEFCP": 8,
-  "nameTextMapHash": 93272682,
+  "type": "Buff",
+  "HFCKBHKJBIB": 8,
   "iconHash": 9014559298012395255,
-  "type": "Buff",
-  "descriptionTextMapHash": 3289036204
+  "descriptionTextMapHash": 3289036204,
+  "nameTextMapHash": 93272682,
+  "PPFEIDPPMCN": "IncreaseBombBuff"
  },
  {
-  "EDFNBOHJNPI": "IncreasePowerBuff",
-  "BMOEGIAEFCP": 9,
-  "nameTextMapHash": 2391712466,
+  "type": "Buff",
+  "HFCKBHKJBIB": 9,
   "iconHash": 9280413284289812909,
-  "type": "Buff",
-  "descriptionTextMapHash": 3713643204
+  "descriptionTextMapHash": 3713643204,
+  "nameTextMapHash": 2391712466,
+  "PPFEIDPPMCN": "IncreasePowerBuff"
  },
  {
-  "EDFNBOHJNPI": "IncreaseLifeBuff",
-  "BMOEGIAEFCP": 10,
-  "nameTextMapHash": 2452699242,
+  "type": "Buff",
+  "HFCKBHKJBIB": 10,
   "iconHash": 651241485023432573,
-  "type": "Buff",
-  "descriptionTextMapHash": 2317679524
+  "descriptionTextMapHash": 2317679524,
+  "nameTextMapHash": 2452699242,
+  "PPFEIDPPMCN": "IncreaseLifeBuff"
  },
  {
-  "EDFNBOHJNPI": "PenetrateBuff",
-  "BMOEGIAEFCP": 11,
-  "nameTextMapHash": 2428774546,
+  "type": "SpecialBuff",
+  "HFCKBHKJBIB": 11,
   "iconHash": 17846377895009681038,
-  "type": "SpecialBuff",
-  "descriptionTextMapHash": 3998307140
+  "descriptionTextMapHash": 3998307140,
+  "nameTextMapHash": 2428774546,
+  "PPFEIDPPMCN": "PenetrateBuff"
  },
  {
-  "EDFNBOHJNPI": "SkyeyeBuff",
-  "BMOEGIAEFCP": 12,
-  "nameTextMapHash": 2481525586,
+  "type": "SpecialBuff",
+  "HFCKBHKJBIB": 12,
   "iconHash": 10754067884709191476,
-  "type": "SpecialBuff",
-  "descriptionTextMapHash": 1412039860
+  "descriptionTextMapHash": 1412039860,
+  "nameTextMapHash": 2481525586,
+  "PPFEIDPPMCN": "SkyeyeBuff"
  },
  {
-  "EDFNBOHJNPI": "MonsterSpawner",
-  "BMOEGIAEFCP": 13,
-  "nameTextMapHash": 3880839514,
-  "iconHash": 10635637678591455464,
   "type": "LevelUnit",
-  "descriptionTextMapHash": 3817977180
+  "HFCKBHKJBIB": 13,
+  "iconHash": 10635637678591455464,
+  "descriptionTextMapHash": 3817977180,
+  "nameTextMapHash": 3880839514,
+  "PPFEIDPPMCN": "MonsterSpawner"
  }
 ]

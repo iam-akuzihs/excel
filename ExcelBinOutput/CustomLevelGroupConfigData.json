@@ -1,12 +1,9 @@
 [
  {
-  "activityDungeonList": [
-   2122,
-   2120,
-   2121,
-   2119,
-   2123
-  ],
+  "storeMaxCount": 10,
+  "costAlert": 400,
+  "groupId": 1001,
+  "finishExhibitionId": 11201103,
   "dungeonList": [
    2112,
    2113,
@@ -14,12 +11,15 @@
    2115,
    2116
   ],
-  "finishExhibitionId": 11201103,
-  "coinExhibitionId": 11201102,
-  "coinChallengeId": 2005011,
-  "groupId": 1001,
-  "storeMaxCount": 10,
+  "activityDungeonList": [
+   2122,
+   2120,
+   2121,
+   2119,
+   2123
+  ],
   "maxEditCount": 5,
-  "costAlert": 400
+  "coinExhibitionId": 11201102,
+  "coinChallengeId": 2005011
  }
 ]

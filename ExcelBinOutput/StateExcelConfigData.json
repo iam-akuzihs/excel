@@ -1,37 +1,37 @@
 [
  {
-  "GLAHMKPLCIC": "ElementBurning",
+  "rank": 0,
   "stateType": "BUFF_NONE",
-  "rank": 0
+  "stateName": "ElementBurning"
  },
  {
-  "GLAHMKPLCIC": "ElementWet",
+  "rank": 0,
   "stateType": "BUFF_NONE",
-  "rank": 0
+  "stateName": "ElementWet"
  },
  {
-  "GLAHMKPLCIC": "ElementGrassGrowing",
+  "rank": 0,
   "stateType": "BUFF_NONE",
-  "rank": 0
+  "stateName": "ElementGrassGrowing"
  },
  {
-  "GLAHMKPLCIC": "ElementFrozen",
+  "rank": 1,
   "stateType": "BUFF_CONTROL",
-  "rank": 1
+  "stateName": "ElementFrozen"
  },
  {
-  "GLAHMKPLCIC": "Paralyze",
+  "rank": 2,
   "stateType": "BUFF_CONTROL",
-  "rank": 2
+  "stateName": "Paralyze"
  },
  {
-  "GLAHMKPLCIC": "LockHP",
+  "rank": 0,
   "stateType": "BUFF_NONE",
-  "rank": 0
+  "stateName": "LockHP"
  },
  {
-  "GLAHMKPLCIC": "ElementShock",
+  "rank": 0,
   "stateType": "BUFF_NONE",
-  "rank": 0
+  "stateName": "ElementShock"
  }
 ]

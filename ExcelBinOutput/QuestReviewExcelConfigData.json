@@ -1,62 +1,75 @@
 [
  {
-  "IGDNKPKICKF": [
+  "EJGFPMDGLOG": [],
+  "ENLJLOFNKFG": [
    {
-    "param": "",
-    "type": "NONE"
+    "type": "NONE",
+    "param": ""
    }
   ],
-  "IBPIKCILNBB": [],
   "id": 1
  },
  {
-  "IGDNKPKICKF": [
-   {
-    "param": "10004,1",
-    "type": "QUEST_GLOBAL_VAR_EQ"
-   }
-  ],
-  "IBPIKCILNBB": [
+  "EJGFPMDGLOG": [
    1,
    2
+  ],
+  "ENLJLOFNKFG": [
+   {
+    "type": "QUEST_GLOBAL_VAR_EQ",
+    "param": "10004,1"
+   }
   ],
   "id": 2
  },
  {
-  "IGDNKPKICKF": [
-   {
-    "param": "7500204,1",
-    "type": "QUEST_GLOBAL_VAR_EQ"
-   }
-  ],
-  "IBPIKCILNBB": [
+  "EJGFPMDGLOG": [
    75002
+  ],
+  "ENLJLOFNKFG": [
+   {
+    "type": "QUEST_GLOBAL_VAR_EQ",
+    "param": "7500204,1"
+   }
   ],
   "id": 75048
  },
  {
-  "IGDNKPKICKF": [
-   {
-    "param": "7500203,1",
-    "type": "QUEST_GLOBAL_VAR_EQ"
-   }
-  ],
-  "IBPIKCILNBB": [
+  "EJGFPMDGLOG": [
    75048
+  ],
+  "ENLJLOFNKFG": [
+   {
+    "type": "QUEST_GLOBAL_VAR_EQ",
+    "param": "7500203,1"
+   }
   ],
   "id": 75002
  },
  {
-  "IGDNKPKICKF": [
-   {
-    "param": "7515101,1",
-    "type": "QUEST_GLOBAL_VAR_EQ"
-   }
-  ],
-  "IBPIKCILNBB": [
+  "EJGFPMDGLOG": [
    75002,
    75048
   ],
+  "ENLJLOFNKFG": [
+   {
+    "type": "QUEST_GLOBAL_VAR_EQ",
+    "param": "7515101,1"
+   }
+  ],
   "id": 75151
+ },
+ {
+  "EJGFPMDGLOG": [
+   6000101,
+   6000102
+  ],
+  "ENLJLOFNKFG": [
+   {
+    "type": "QUEST_GLOBAL_VAR_EQ",
+    "param": "60101,1"
+   }
+  ],
+  "id": 60001
  }
 ]

@@ -1,5 +1,7 @@
 [
  {
+  "mainSceneId": 3,
+  "type": "WORLD_PLAYER",
   "subSceneIdVec": [
    1004,
    1008,
@@ -48,17 +50,15 @@
    1201,
    1202
   ],
-  "mainSceneId": 3,
-  "type": "WORLD_PLAYER",
   "id": 1
  },
  {
+  "mainSceneId": 2001,
+  "type": "WORLD_HOME",
   "subSceneIdVec": [
    2201,
    2202
   ],
-  "mainSceneId": 2001,
-  "type": "WORLD_HOME",
   "id": 2
  }
 ]

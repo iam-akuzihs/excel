@@ -1,14 +1,6 @@
 [
  {
-  "performCfg": "",
-  "npcId": [
-   157701
-  ],
-  "nextRandomTalks": [],
-  "nextTalks": [
-   3000004,
-   3000005
-  ],
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -50,28 +42,27 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 9,
-  "id": 3000001,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300000101,
-  "questId": 30000,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3000001,
+  "initDialog": 300000101,
+  "nextRandomTalks": [],
+  "nextTalks": [
+   3000004,
+   3000005
+  ],
   "npcId": [
    157701
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [
-   3000006,
-   3000007,
-   3000009
-  ],
+  "performCfg": "",
+  "priority": 9,
+  "questId": 30000,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -113,27 +104,28 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
-  "id": 3000002,
   "beginCondComb": "LOGIC_AND",
-  "initDialog": 300000201,
-  "questId": 30000,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3000002,
+  "initDialog": 300000201,
+  "nextRandomTalks": [],
+  "nextTalks": [
+   3000006,
+   3000007,
+   3000009
+  ],
   "npcId": [
    157701
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [
-   3000008,
-   3000009
-  ],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30000,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -175,24 +167,27 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
-  "id": 3000003,
   "beginCondComb": "LOGIC_AND",
-  "initDialog": 300000301,
-  "questId": 30000,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3000003,
+  "initDialog": 300000301,
+  "nextRandomTalks": [],
+  "nextTalks": [
+   3000008,
+   3000009
+  ],
   "npcId": [
    157701
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30000,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -234,24 +229,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
+  "heroTalk": "TALK_HERO_LOCAL",
   "id": 3000004,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300000401,
-  "questId": 30000,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    157701
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30000,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -293,85 +288,85 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
-  "id": 3000005,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300000501,
-  "questId": 30000,
   "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3000005,
+  "initDialog": 300000501,
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    157701
   ],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30000,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
+  "beginCond": [
+   {
+    "param": [
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   }
+  ],
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3000006,
+  "initDialog": 300000601,
   "nextRandomTalks": [],
   "nextTalks": [
    3000010
   ],
-  "beginCond": [
-   {
-    "param": [
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   }
-  ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
-  "id": 3000006,
-  "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300000601,
-  "questId": 30000,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
   "npcId": [
    157701
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30000,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -413,24 +408,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
+  "heroTalk": "TALK_HERO_LOCAL",
   "id": 3000007,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300000701,
-  "questId": 30000,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    157701
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30000,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -472,24 +467,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
+  "heroTalk": "TALK_HERO_LOCAL",
   "id": 3000008,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300000801,
-  "questId": 30000,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    157701
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30000,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -531,24 +526,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
-  "id": 3000009,
   "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3000009,
   "initDialog": 300000901,
-  "questId": 30000,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    157701
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30000,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -590,24 +585,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
+  "beginCondComb": "LOGIC_AND",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
+  "heroTalk": "TALK_HERO_LOCAL",
   "id": 3000010,
-  "beginCondComb": "LOGIC_AND",
   "initDialog": 300001001,
-  "questId": 30000,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    157701
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30000,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -649,24 +644,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
-  "id": 3000011,
   "beginCondComb": "LOGIC_AND",
-  "initDialog": 300001101,
-  "questId": 30000,
   "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3000011,
+  "initDialog": 300001101,
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    157701
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30000,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -708,24 +703,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 9,
-  "id": 3000101,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300010101,
-  "questId": 30001,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
-  "npcId": [
-   152301
-  ],
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3000101,
+  "initDialog": 300010101,
   "nextRandomTalks": [],
   "nextTalks": [],
+  "npcId": [
+   157701
+  ],
+  "performCfg": "",
+  "priority": 9,
+  "questId": 30001,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -767,24 +762,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 9,
-  "id": 3000201,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300010101,
-  "questId": 30002,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
-  "npcId": [
-   154901
-  ],
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3000201,
+  "initDialog": 300010101,
   "nextRandomTalks": [],
   "nextTalks": [],
+  "npcId": [
+   152301
+  ],
+  "performCfg": "",
+  "priority": 9,
+  "questId": 30002,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -826,24 +821,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 9,
-  "id": 3000301,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300010101,
-  "questId": 30003,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
-  "npcId": [
-   141301
-  ],
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3000301,
+  "initDialog": 300010101,
   "nextRandomTalks": [],
   "nextTalks": [],
+  "npcId": [
+   154901
+  ],
+  "performCfg": "",
+  "priority": 9,
+  "questId": 30003,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -885,24 +880,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 9,
-  "id": 3000401,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300010101,
-  "questId": 30004,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
-  "npcId": [
-   154101
-  ],
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3000401,
+  "initDialog": 300010101,
   "nextRandomTalks": [],
   "nextTalks": [],
+  "npcId": [
+   141301
+  ],
+  "performCfg": "",
+  "priority": 9,
+  "questId": 30004,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -944,24 +939,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 9,
-  "id": 3000501,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300010101,
-  "questId": 30005,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
-  "npcId": [
-   153901
-  ],
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3000501,
+  "initDialog": 300010101,
   "nextRandomTalks": [],
   "nextTalks": [],
+  "npcId": [
+   154101
+  ],
+  "performCfg": "",
+  "priority": 9,
+  "questId": 30005,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -1003,24 +998,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 9,
-  "id": 3000601,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300010101,
-  "questId": 30006,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
-  "npcId": [
-   156301
-  ],
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3000601,
+  "initDialog": 300010101,
   "nextRandomTalks": [],
   "nextTalks": [],
+  "npcId": [
+   153901
+  ],
+  "performCfg": "",
+  "priority": 9,
+  "questId": 30006,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -1062,27 +1057,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 9,
-  "id": 3000701,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300010101,
-  "questId": 30007,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3000701,
+  "initDialog": 300010101,
+  "nextRandomTalks": [],
+  "nextTalks": [],
+  "npcId": [
+   156301
+  ],
+  "performCfg": "",
+  "priority": 9,
+  "questId": 30007,
+  "showRandomTalkCount": 0
  },
  {
-  "performCfg": "",
-  "npcId": [
-   147901
-  ],
-  "nextRandomTalks": [],
-  "nextTalks": [
-   3001104,
-   3001105
-  ],
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -1124,27 +1116,27 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 9,
-  "id": 3001101,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300110101,
-  "questId": 30011,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3001101,
+  "initDialog": 300110101,
+  "nextRandomTalks": [],
+  "nextTalks": [
+   3001104,
+   3001105
+  ],
   "npcId": [
    147901
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [
-   3001106,
-   3001107
-  ],
+  "performCfg": "",
+  "priority": 9,
+  "questId": 30011,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -1186,24 +1178,27 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 9,
-  "id": 3001102,
   "beginCondComb": "LOGIC_AND",
-  "initDialog": 300110201,
-  "questId": 30011,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3001102,
+  "initDialog": 300110201,
+  "nextRandomTalks": [],
+  "nextTalks": [
+   3001106,
+   3001107
+  ],
   "npcId": [
    147901
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 9,
+  "questId": 30011,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -1245,24 +1240,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 9,
-  "id": 3001103,
   "beginCondComb": "LOGIC_AND",
-  "initDialog": 300110301,
-  "questId": 30011,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3001103,
+  "initDialog": 300110301,
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    147901
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 9,
+  "questId": 30011,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -1304,24 +1299,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
+  "heroTalk": "TALK_HERO_LOCAL",
   "id": 3001104,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300110401,
-  "questId": 30011,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    147901
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30011,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -1363,24 +1358,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
+  "heroTalk": "TALK_HERO_LOCAL",
   "id": 3001105,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300110501,
-  "questId": 30011,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    147901
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30011,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -1422,24 +1417,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
+  "heroTalk": "TALK_HERO_LOCAL",
   "id": 3001106,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300110601,
-  "questId": 30011,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    147901
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30011,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -1481,27 +1476,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
-  "id": 3001107,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300110701,
-  "questId": 30011,
   "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3001107,
+  "initDialog": 300110701,
+  "nextRandomTalks": [],
+  "nextTalks": [],
+  "npcId": [
+   147901
+  ],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30011,
+  "showRandomTalkCount": 0
  },
  {
-  "performCfg": "",
-  "npcId": [
-   143101
-  ],
-  "nextRandomTalks": [],
-  "nextTalks": [
-   3001204,
-   3001205
-  ],
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -1543,27 +1535,27 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 9,
-  "id": 3001201,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300110101,
-  "questId": 30012,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3001201,
+  "initDialog": 300110101,
+  "nextRandomTalks": [],
+  "nextTalks": [
+   3001204,
+   3001205
+  ],
   "npcId": [
    143101
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [
-   3001206,
-   3001207
-  ],
+  "performCfg": "",
+  "priority": 9,
+  "questId": 30012,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -1605,24 +1597,27 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 9,
-  "id": 3001202,
   "beginCondComb": "LOGIC_AND",
-  "initDialog": 300110201,
-  "questId": 30012,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3001202,
+  "initDialog": 300110201,
+  "nextRandomTalks": [],
+  "nextTalks": [
+   3001206,
+   3001207
+  ],
   "npcId": [
    143101
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 9,
+  "questId": 30012,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -1664,24 +1659,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 9,
-  "id": 3001203,
   "beginCondComb": "LOGIC_AND",
-  "initDialog": 300110301,
-  "questId": 30012,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3001203,
+  "initDialog": 300110301,
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    143101
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 9,
+  "questId": 30012,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -1723,24 +1718,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
+  "heroTalk": "TALK_HERO_LOCAL",
   "id": 3001204,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300110401,
-  "questId": 30012,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    143101
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30012,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -1782,24 +1777,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
+  "heroTalk": "TALK_HERO_LOCAL",
   "id": 3001205,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300110501,
-  "questId": 30012,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    143101
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30012,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -1841,24 +1836,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
+  "heroTalk": "TALK_HERO_LOCAL",
   "id": 3001206,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300110601,
-  "questId": 30012,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    143101
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30012,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -1900,27 +1895,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
-  "id": 3001207,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300110701,
-  "questId": 30012,
   "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3001207,
+  "initDialog": 300110701,
+  "nextRandomTalks": [],
+  "nextTalks": [],
+  "npcId": [
+   143101
+  ],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30012,
+  "showRandomTalkCount": 0
  },
  {
-  "performCfg": "",
-  "npcId": [
-   140801
-  ],
-  "nextRandomTalks": [],
-  "nextTalks": [
-   3001304,
-   3001305
-  ],
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -1962,27 +1954,27 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 9,
-  "id": 3001301,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300110101,
-  "questId": 30013,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3001301,
+  "initDialog": 300110101,
+  "nextRandomTalks": [],
+  "nextTalks": [
+   3001304,
+   3001305
+  ],
   "npcId": [
    140801
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [
-   3001306,
-   3001307
-  ],
+  "performCfg": "",
+  "priority": 9,
+  "questId": 30013,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -2024,24 +2016,27 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 9,
-  "id": 3001302,
   "beginCondComb": "LOGIC_AND",
-  "initDialog": 300110201,
-  "questId": 30013,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3001302,
+  "initDialog": 300110201,
+  "nextRandomTalks": [],
+  "nextTalks": [
+   3001306,
+   3001307
+  ],
   "npcId": [
    140801
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 9,
+  "questId": 30013,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -2083,24 +2078,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 9,
-  "id": 3001303,
   "beginCondComb": "LOGIC_AND",
-  "initDialog": 300110301,
-  "questId": 30013,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3001303,
+  "initDialog": 300110301,
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    140801
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 9,
+  "questId": 30013,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -2142,24 +2137,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
+  "heroTalk": "TALK_HERO_LOCAL",
   "id": 3001304,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300110401,
-  "questId": 30013,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    140801
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30013,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -2201,24 +2196,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
+  "heroTalk": "TALK_HERO_LOCAL",
   "id": 3001305,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300110501,
-  "questId": 30013,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    140801
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30013,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -2260,24 +2255,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
+  "heroTalk": "TALK_HERO_LOCAL",
   "id": 3001306,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300110601,
-  "questId": 30013,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    140801
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30013,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -2319,27 +2314,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
-  "id": 3001307,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300110701,
-  "questId": 30013,
   "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3001307,
+  "initDialog": 300110701,
+  "nextRandomTalks": [],
+  "nextTalks": [],
+  "npcId": [
+   140801
+  ],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30013,
+  "showRandomTalkCount": 0
  },
  {
-  "performCfg": "",
-  "npcId": [
-   152101
-  ],
-  "nextRandomTalks": [],
-  "nextTalks": [
-   3001404,
-   3001405
-  ],
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -2381,27 +2373,27 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 9,
-  "id": 3001401,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300110101,
-  "questId": 30014,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3001401,
+  "initDialog": 300110101,
+  "nextRandomTalks": [],
+  "nextTalks": [
+   3001404,
+   3001405
+  ],
   "npcId": [
    152101
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [
-   3001406,
-   3001407
-  ],
+  "performCfg": "",
+  "priority": 9,
+  "questId": 30014,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -2443,24 +2435,27 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 9,
-  "id": 3001402,
   "beginCondComb": "LOGIC_AND",
-  "initDialog": 300110201,
-  "questId": 30014,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3001402,
+  "initDialog": 300110201,
+  "nextRandomTalks": [],
+  "nextTalks": [
+   3001406,
+   3001407
+  ],
   "npcId": [
    152101
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 9,
+  "questId": 30014,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -2502,24 +2497,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 9,
-  "id": 3001403,
   "beginCondComb": "LOGIC_AND",
-  "initDialog": 300110301,
-  "questId": 30014,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3001403,
+  "initDialog": 300110301,
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    152101
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 9,
+  "questId": 30014,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -2561,24 +2556,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
+  "heroTalk": "TALK_HERO_LOCAL",
   "id": 3001404,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300110401,
-  "questId": 30014,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    152101
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30014,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -2620,24 +2615,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
+  "heroTalk": "TALK_HERO_LOCAL",
   "id": 3001405,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300110501,
-  "questId": 30014,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    152101
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30014,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -2679,24 +2674,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
+  "heroTalk": "TALK_HERO_LOCAL",
   "id": 3001406,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300110601,
-  "questId": 30014,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    152101
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30014,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -2738,27 +2733,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
-  "id": 3001407,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300110701,
-  "questId": 30014,
   "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3001407,
+  "initDialog": 300110701,
+  "nextRandomTalks": [],
+  "nextTalks": [],
+  "npcId": [
+   152101
+  ],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30014,
+  "showRandomTalkCount": 0
  },
  {
-  "performCfg": "",
-  "npcId": [
-   157801
-  ],
-  "nextRandomTalks": [],
-  "nextTalks": [
-   3001504,
-   3001505
-  ],
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -2800,27 +2792,27 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 9,
-  "id": 3001501,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300110101,
-  "questId": 30015,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3001501,
+  "initDialog": 300110101,
+  "nextRandomTalks": [],
+  "nextTalks": [
+   3001504,
+   3001505
+  ],
   "npcId": [
    157801
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [
-   3001506,
-   3001507
-  ],
+  "performCfg": "",
+  "priority": 9,
+  "questId": 30015,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -2862,24 +2854,27 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 9,
-  "id": 3001502,
   "beginCondComb": "LOGIC_AND",
-  "initDialog": 300110201,
-  "questId": 30015,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3001502,
+  "initDialog": 300110201,
+  "nextRandomTalks": [],
+  "nextTalks": [
+   3001506,
+   3001507
+  ],
   "npcId": [
    157801
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 9,
+  "questId": 30015,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -2921,24 +2916,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 9,
-  "id": 3001503,
   "beginCondComb": "LOGIC_AND",
-  "initDialog": 300110301,
-  "questId": 30015,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3001503,
+  "initDialog": 300110301,
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    157801
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 9,
+  "questId": 30015,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -2980,24 +2975,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
+  "heroTalk": "TALK_HERO_LOCAL",
   "id": 3001504,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300110401,
-  "questId": 30015,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    157801
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30015,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -3039,24 +3034,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
+  "heroTalk": "TALK_HERO_LOCAL",
   "id": 3001505,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300110501,
-  "questId": 30015,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    157801
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30015,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -3098,24 +3093,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
+  "heroTalk": "TALK_HERO_LOCAL",
   "id": 3001506,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300110601,
-  "questId": 30015,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    157801
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30015,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -3157,27 +3152,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
-  "id": 3001507,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300110701,
-  "questId": 30015,
   "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3001507,
+  "initDialog": 300110701,
+  "nextRandomTalks": [],
+  "nextTalks": [],
+  "npcId": [
+   157801
+  ],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30015,
+  "showRandomTalkCount": 0
  },
  {
-  "performCfg": "",
-  "npcId": [
-   155301
-  ],
-  "nextRandomTalks": [],
-  "nextTalks": [
-   3002103,
-   3002104
-  ],
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -3219,25 +3211,27 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 9,
-  "id": 3002101,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300210101,
-  "questId": 30021,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3002101,
+  "initDialog": 300210101,
+  "nextRandomTalks": [],
+  "nextTalks": [
+   3002103,
+   3002104
+  ],
+  "npcId": [
+   155301
+  ],
+  "performCfg": "",
+  "priority": 9,
+  "questId": 30021,
+  "showRandomTalkCount": 0
  },
  {
-  "performCfg": "",
-  "npcId": [
-   140901,
-   141101
-  ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -3279,24 +3273,25 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 9,
-  "id": 3002102,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300210201,
-  "questId": 30021,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
-  "npcId": [
-   155301
-  ],
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3002102,
+  "initDialog": 300210201,
   "nextRandomTalks": [],
   "nextTalks": [],
+  "npcId": [
+   140901,
+   141101
+  ],
+  "performCfg": "",
+  "priority": 9,
+  "questId": 30021,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -3338,24 +3333,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
+  "heroTalk": "TALK_HERO_LOCAL",
   "id": 3002103,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300210301,
-  "questId": 30021,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    155301
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30021,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -3397,27 +3392,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
-  "id": 3002104,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300210401,
-  "questId": 30021,
   "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3002104,
+  "initDialog": 300210401,
+  "nextRandomTalks": [],
+  "nextTalks": [],
+  "npcId": [
+   155301
+  ],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30021,
+  "showRandomTalkCount": 0
  },
  {
-  "performCfg": "",
-  "npcId": [
-   155501
-  ],
-  "nextRandomTalks": [],
-  "nextTalks": [
-   3002203,
-   3002204
-  ],
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -3459,24 +3451,27 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 9,
-  "id": 3002201,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300210101,
-  "questId": 30022,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3002201,
+  "initDialog": 300210101,
+  "nextRandomTalks": [],
+  "nextTalks": [
+   3002203,
+   3002204
+  ],
+  "npcId": [
+   155501
+  ],
+  "performCfg": "",
+  "priority": 9,
+  "questId": 30022,
+  "showRandomTalkCount": 0
  },
  {
-  "performCfg": "",
-  "npcId": [
-   156301
-  ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -3518,145 +3513,142 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 9,
-  "id": 3002202,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300210201,
-  "questId": 30022,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
-  "npcId": [
-   155501
-  ],
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3002202,
+  "initDialog": 300210201,
   "nextRandomTalks": [],
   "nextTalks": [],
-  "beginCond": [
-   {
-    "param": [
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   }
-  ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
-  "id": 3002203,
-  "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300210301,
-  "questId": 30022,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
-  "npcId": [
-   155501
-  ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
-  "beginCond": [
-   {
-    "param": [
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   }
-  ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
-  "id": 3002204,
-  "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300210401,
-  "questId": 30022,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
   "npcId": [
    156301
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [
-   3002303,
-   3002304
+  "performCfg": "",
+  "priority": 9,
+  "questId": 30022,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
+  "beginCond": [
+   {
+    "param": [
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   }
   ],
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3002203,
+  "initDialog": 300210301,
+  "nextRandomTalks": [],
+  "nextTalks": [],
+  "npcId": [
+   155501
+  ],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30022,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
+  "beginCond": [
+   {
+    "param": [
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   }
+  ],
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3002204,
+  "initDialog": 300210401,
+  "nextRandomTalks": [],
+  "nextTalks": [],
+  "npcId": [
+   155501
+  ],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30022,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -3698,24 +3690,27 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 9,
-  "id": 3002301,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300210101,
-  "questId": 30023,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3002301,
+  "initDialog": 300210101,
+  "nextRandomTalks": [],
+  "nextTalks": [
+   3002303,
+   3002304
+  ],
+  "npcId": [
+   156301
+  ],
+  "performCfg": "",
+  "priority": 9,
+  "questId": 30023,
+  "showRandomTalkCount": 0
  },
  {
-  "performCfg": "",
-  "npcId": [
-   155501
-  ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -3757,24 +3752,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 9,
-  "id": 3002302,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300210201,
-  "questId": 30023,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
-  "npcId": [
-   156301
-  ],
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3002302,
+  "initDialog": 300210201,
   "nextRandomTalks": [],
   "nextTalks": [],
+  "npcId": [
+   155501
+  ],
+  "performCfg": "",
+  "priority": 9,
+  "questId": 30023,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -3816,24 +3811,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
+  "heroTalk": "TALK_HERO_LOCAL",
   "id": 3002303,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300210301,
-  "questId": 30023,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    156301
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30023,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -3875,27 +3870,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
-  "id": 3002304,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300210401,
-  "questId": 30023,
   "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3002304,
+  "initDialog": 300210401,
+  "nextRandomTalks": [],
+  "nextTalks": [],
+  "npcId": [
+   156301
+  ],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30023,
+  "showRandomTalkCount": 0
  },
  {
-  "performCfg": "",
-  "npcId": [
-   153901
-  ],
-  "nextRandomTalks": [],
-  "nextTalks": [
-   3002403,
-   3002404
-  ],
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -3937,25 +3929,27 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 9,
-  "id": 3002401,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300210101,
-  "questId": 30024,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3002401,
+  "initDialog": 300210101,
+  "nextRandomTalks": [],
+  "nextTalks": [
+   3002403,
+   3002404
+  ],
+  "npcId": [
+   153901
+  ],
+  "performCfg": "",
+  "priority": 9,
+  "questId": 30024,
+  "showRandomTalkCount": 0
  },
  {
-  "performCfg": "",
-  "npcId": [
-   153701,
-   154101
-  ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -3997,24 +3991,25 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 9,
-  "id": 3002402,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300210201,
-  "questId": 30024,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
-  "npcId": [
-   153901
-  ],
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3002402,
+  "initDialog": 300210201,
   "nextRandomTalks": [],
   "nextTalks": [],
+  "npcId": [
+   153701,
+   154101
+  ],
+  "performCfg": "",
+  "priority": 9,
+  "questId": 30024,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -4056,24 +4051,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
+  "heroTalk": "TALK_HERO_LOCAL",
   "id": 3002403,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300210301,
-  "questId": 30024,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    153901
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30024,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -4115,27 +4110,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
-  "id": 3002404,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300210401,
-  "questId": 30024,
   "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3002404,
+  "initDialog": 300210401,
+  "nextRandomTalks": [],
+  "nextTalks": [],
+  "npcId": [
+   153901
+  ],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30024,
+  "showRandomTalkCount": 0
  },
  {
-  "performCfg": "",
-  "npcId": [
-   157901
-  ],
-  "nextRandomTalks": [],
-  "nextTalks": [
-   3002503,
-   3002504
-  ],
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -4177,25 +4169,27 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 9,
-  "id": 3002501,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300210101,
-  "questId": 30025,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3002501,
+  "initDialog": 300210101,
+  "nextRandomTalks": [],
+  "nextTalks": [
+   3002503,
+   3002504
+  ],
+  "npcId": [
+   157901
+  ],
+  "performCfg": "",
+  "priority": 9,
+  "questId": 30025,
+  "showRandomTalkCount": 0
  },
  {
-  "performCfg": "",
-  "npcId": [
-   153701,
-   154101
-  ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -4237,24 +4231,25 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 9,
-  "id": 3002502,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300210201,
-  "questId": 30025,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
-  "npcId": [
-   157901
-  ],
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3002502,
+  "initDialog": 300210201,
   "nextRandomTalks": [],
   "nextTalks": [],
+  "npcId": [
+   153701,
+   154101
+  ],
+  "performCfg": "",
+  "priority": 9,
+  "questId": 30025,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -4296,24 +4291,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
+  "heroTalk": "TALK_HERO_LOCAL",
   "id": 3002503,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300210301,
-  "questId": 30025,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    157901
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30025,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -4355,24 +4350,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_LOCAL",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 0,
-  "id": 3002504,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300210401,
-  "questId": 30025,
   "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
-  "npcId": [
-   12087
-  ],
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_LOCAL",
+  "id": 3002504,
+  "initDialog": 300210401,
   "nextRandomTalks": [],
   "nextTalks": [],
+  "npcId": [
+   157901
+  ],
+  "performCfg": "",
+  "priority": 0,
+  "questId": 30025,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -4414,24 +4409,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002601,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300260101,
-  "questId": 30026,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002601,
+  "initDialog": 300260101,
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    12087
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30026,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -4473,24 +4468,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002602,
   "beginCondComb": "LOGIC_AND",
-  "initDialog": 300260201,
-  "questId": 30026,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002602,
+  "initDialog": 300260201,
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    12087
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30026,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -4532,24 +4527,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002615,
   "beginCondComb": "LOGIC_AND",
-  "initDialog": 300261501,
-  "questId": 30026,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002615,
+  "initDialog": 300261501,
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    12087
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30026,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -4591,24 +4586,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002616,
   "beginCondComb": "LOGIC_AND",
-  "initDialog": 300261601,
-  "questId": 30026,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002616,
+  "initDialog": 300261601,
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    12087
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30026,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -4650,24 +4645,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002617,
   "beginCondComb": "LOGIC_AND",
-  "initDialog": 300261701,
-  "questId": 30026,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002617,
+  "initDialog": 300261701,
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    12087
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30026,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -4709,24 +4704,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002603,
   "beginCondComb": "LOGIC_AND",
-  "initDialog": 300260301,
-  "questId": 30026,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002603,
+  "initDialog": 300260301,
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    12087
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30026,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -4768,24 +4763,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002604,
   "beginCondComb": "LOGIC_AND",
-  "initDialog": 300260401,
-  "questId": 30026,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002604,
+  "initDialog": 300260401,
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    12087
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30026,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -4827,24 +4822,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002605,
   "beginCondComb": "LOGIC_AND",
-  "initDialog": 300260501,
-  "questId": 30026,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002605,
+  "initDialog": 300260501,
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    12087
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30026,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -4886,24 +4881,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002606,
   "beginCondComb": "LOGIC_AND",
-  "initDialog": 300260601,
-  "questId": 30026,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002606,
+  "initDialog": 300260601,
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    12087
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30026,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -4945,24 +4940,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002607,
   "beginCondComb": "LOGIC_AND",
-  "initDialog": 300260701,
-  "questId": 30026,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002607,
+  "initDialog": 300260701,
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    12087
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30026,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -5004,24 +4999,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002608,
   "beginCondComb": "LOGIC_AND",
-  "initDialog": 300260801,
-  "questId": 30026,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002608,
+  "initDialog": 300260801,
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    12087
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30026,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -5063,24 +5058,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002609,
   "beginCondComb": "LOGIC_AND",
-  "initDialog": 300260901,
-  "questId": 30026,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002609,
+  "initDialog": 300260901,
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    12087
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30026,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -5122,24 +5117,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002610,
   "beginCondComb": "LOGIC_AND",
-  "initDialog": 300261001,
-  "questId": 30026,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002610,
+  "initDialog": 300261001,
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    12087
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30026,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -5181,24 +5176,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002611,
   "beginCondComb": "LOGIC_AND",
-  "initDialog": 300261101,
-  "questId": 30026,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002611,
+  "initDialog": 300261101,
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    12087
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30026,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -5240,24 +5235,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002612,
   "beginCondComb": "LOGIC_AND",
-  "initDialog": 300261201,
-  "questId": 30026,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002612,
+  "initDialog": 300261201,
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    12087
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30026,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -5299,24 +5294,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002613,
   "beginCondComb": "LOGIC_AND",
-  "initDialog": 300261301,
-  "questId": 30026,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002613,
+  "initDialog": 300261301,
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    12087
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30026,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -5358,24 +5353,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002614,
   "beginCondComb": "LOGIC_AND",
-  "initDialog": 300261401,
-  "questId": 30026,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
-  "npcId": [
-   12088
-  ],
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002614,
+  "initDialog": 300261401,
   "nextRandomTalks": [],
   "nextTalks": [],
+  "npcId": [
+   12087
+  ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30026,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -5417,24 +5412,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002701,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300270101,
-  "questId": 30027,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002701,
+  "initDialog": 300270101,
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    12088
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30027,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -5476,24 +5471,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002702,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300270201,
-  "questId": 30027,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002702,
+  "initDialog": 300270201,
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    12088
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30027,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -5535,24 +5530,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002703,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300270301,
-  "questId": 30027,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
-  "npcId": [
-   12089
-  ],
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002703,
+  "initDialog": 300270301,
   "nextRandomTalks": [],
   "nextTalks": [],
+  "npcId": [
+   12088
+  ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30027,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -5594,28 +5589,87 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002801,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300280101,
-  "questId": 30028,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002801,
+  "initDialog": 300280101,
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    12089
   ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
+  "beginCond": [
+   {
+    "param": [
+     "3002802",
+     "2"
+    ],
+    "type": "QUEST_COND_STATE_EQUAL"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   }
+  ],
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_MANUAL",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002802,
+  "initDialog": 300280401,
   "nextRandomTalks": [
    3002804,
    3002828,
    3002840
   ],
   "nextTalks": [],
+  "npcId": [
+   12089
+  ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 1
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -5657,89 +5711,28 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 1,
-  "priority": 5,
-  "id": 3002802,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300280401,
-  "questId": 30028,
-  "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
-  "npcId": [
-   12089
-  ],
+  "beginWay": "TALK_BEGIN_NONE",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002804,
+  "initDialog": 300280402,
   "nextRandomTalks": [],
   "nextTalks": [
    3002805,
    3002806,
    3002807
   ],
-  "beginCond": [
-   {
-    "param": [
-     "3002802",
-     "2"
-    ],
-    "type": "QUEST_COND_STATE_EQUAL"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   }
-  ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002804,
-  "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300280402,
-  "questId": 30028,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
   "npcId": [
    12089
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [
-   3002808
-  ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -5781,26 +5774,26 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
+  "heroTalk": "TALK_HERO_MAIN",
   "id": 3002805,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300280501,
-  "questId": 30028,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
-  "npcId": [
-   12089
-  ],
   "nextRandomTalks": [],
   "nextTalks": [
    3002808
   ],
+  "npcId": [
+   12089
+  ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -5842,26 +5835,26 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
+  "heroTalk": "TALK_HERO_MAIN",
   "id": 3002806,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300280601,
-  "questId": 30028,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
-  "npcId": [
-   12089
-  ],
   "nextRandomTalks": [],
   "nextTalks": [
    3002808
   ],
+  "npcId": [
+   12089
+  ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -5903,89 +5896,89 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002807,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300280701,
-  "questId": 30028,
   "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002807,
+  "initDialog": 300280701,
+  "nextRandomTalks": [],
+  "nextTalks": [
+   3002808
+  ],
   "npcId": [
    12089
   ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
+  "beginCond": [
+   {
+    "param": [
+     "3002802",
+     "2"
+    ],
+    "type": "QUEST_COND_STATE_EQUAL"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   }
+  ],
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002808,
+  "initDialog": 300280801,
   "nextRandomTalks": [],
   "nextTalks": [
    3002809,
    3002810,
    3002811
   ],
-  "beginCond": [
-   {
-    "param": [
-     "3002802",
-     "2"
-    ],
-    "type": "QUEST_COND_STATE_EQUAL"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   }
-  ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002808,
-  "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300280801,
-  "questId": 30028,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
   "npcId": [
    12089
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [
-   3002812
-  ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -6027,26 +6020,26 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
+  "heroTalk": "TALK_HERO_MAIN",
   "id": 3002809,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300280901,
-  "questId": 30028,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
-  "npcId": [
-   12089
-  ],
   "nextRandomTalks": [],
   "nextTalks": [
    3002812
   ],
+  "npcId": [
+   12089
+  ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -6088,26 +6081,26 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
+  "heroTalk": "TALK_HERO_MAIN",
   "id": 3002810,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300281001,
-  "questId": 30028,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
-  "npcId": [
-   12089
-  ],
   "nextRandomTalks": [],
   "nextTalks": [
    3002812
   ],
+  "npcId": [
+   12089
+  ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -6149,89 +6142,89 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002811,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300281101,
-  "questId": 30028,
   "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002811,
+  "initDialog": 300281101,
+  "nextRandomTalks": [],
+  "nextTalks": [
+   3002812
+  ],
   "npcId": [
    12089
   ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
+  "beginCond": [
+   {
+    "param": [
+     "3002802",
+     "2"
+    ],
+    "type": "QUEST_COND_STATE_EQUAL"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   }
+  ],
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002812,
+  "initDialog": 300281201,
   "nextRandomTalks": [],
   "nextTalks": [
    3002813,
    3002814,
    3002815
   ],
-  "beginCond": [
-   {
-    "param": [
-     "3002802",
-     "2"
-    ],
-    "type": "QUEST_COND_STATE_EQUAL"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   }
-  ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002812,
-  "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300281201,
-  "questId": 30028,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
   "npcId": [
    12089
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [
-   3002867
-  ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -6273,26 +6266,26 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
+  "heroTalk": "TALK_HERO_MAIN",
   "id": 3002813,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300281301,
-  "questId": 30028,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
-  "npcId": [
-   12089
-  ],
   "nextRandomTalks": [],
   "nextTalks": [
    3002867
   ],
+  "npcId": [
+   12089
+  ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -6334,26 +6327,26 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
+  "heroTalk": "TALK_HERO_MAIN",
   "id": 3002814,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300281401,
-  "questId": 30028,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
-  "npcId": [
-   12089
-  ],
   "nextRandomTalks": [],
   "nextTalks": [
    3002867
   ],
+  "npcId": [
+   12089
+  ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -6395,89 +6388,89 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002815,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300281501,
-  "questId": 30028,
   "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002815,
+  "initDialog": 300281501,
+  "nextRandomTalks": [],
+  "nextTalks": [
+   3002867
+  ],
   "npcId": [
    12089
   ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
+  "beginCond": [
+   {
+    "param": [
+     "3002802",
+     "2"
+    ],
+    "type": "QUEST_COND_STATE_EQUAL"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   }
+  ],
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002828,
+  "initDialog": 300282802,
   "nextRandomTalks": [],
   "nextTalks": [
    3002829,
    3002830,
    3002831
   ],
-  "beginCond": [
-   {
-    "param": [
-     "3002802",
-     "2"
-    ],
-    "type": "QUEST_COND_STATE_EQUAL"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   }
-  ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002828,
-  "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300282802,
-  "questId": 30028,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
   "npcId": [
    12089
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [
-   3002832
-  ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -6519,26 +6512,26 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
+  "heroTalk": "TALK_HERO_MAIN",
   "id": 3002829,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300282901,
-  "questId": 30028,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
-  "npcId": [
-   12089
-  ],
   "nextRandomTalks": [],
   "nextTalks": [
    3002832
   ],
+  "npcId": [
+   12089
+  ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -6580,26 +6573,26 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
+  "heroTalk": "TALK_HERO_MAIN",
   "id": 3002830,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300283001,
-  "questId": 30028,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
-  "npcId": [
-   12089
-  ],
   "nextRandomTalks": [],
   "nextTalks": [
    3002832
   ],
+  "npcId": [
+   12089
+  ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -6641,89 +6634,89 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002831,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300283101,
-  "questId": 30028,
   "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002831,
+  "initDialog": 300283101,
+  "nextRandomTalks": [],
+  "nextTalks": [
+   3002832
+  ],
   "npcId": [
    12089
   ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
+  "beginCond": [
+   {
+    "param": [
+     "3002802",
+     "2"
+    ],
+    "type": "QUEST_COND_STATE_EQUAL"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   }
+  ],
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002832,
+  "initDialog": 300283201,
   "nextRandomTalks": [],
   "nextTalks": [
    3002833,
    3002834,
    3002835
   ],
-  "beginCond": [
-   {
-    "param": [
-     "3002802",
-     "2"
-    ],
-    "type": "QUEST_COND_STATE_EQUAL"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   }
-  ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002832,
-  "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300283201,
-  "questId": 30028,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
   "npcId": [
    12089
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [
-   3002836
-  ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -6765,26 +6758,26 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
+  "heroTalk": "TALK_HERO_MAIN",
   "id": 3002833,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300283301,
-  "questId": 30028,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
-  "npcId": [
-   12089
-  ],
   "nextRandomTalks": [],
   "nextTalks": [
    3002836
   ],
+  "npcId": [
+   12089
+  ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -6826,26 +6819,26 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
+  "heroTalk": "TALK_HERO_MAIN",
   "id": 3002834,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300283401,
-  "questId": 30028,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
-  "npcId": [
-   12089
-  ],
   "nextRandomTalks": [],
   "nextTalks": [
    3002836
   ],
+  "npcId": [
+   12089
+  ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -6887,89 +6880,89 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002835,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300283501,
-  "questId": 30028,
   "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002835,
+  "initDialog": 300283501,
+  "nextRandomTalks": [],
+  "nextTalks": [
+   3002836
+  ],
   "npcId": [
    12089
   ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
+  "beginCond": [
+   {
+    "param": [
+     "3002802",
+     "2"
+    ],
+    "type": "QUEST_COND_STATE_EQUAL"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   }
+  ],
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002836,
+  "initDialog": 300283601,
   "nextRandomTalks": [],
   "nextTalks": [
    3002837,
    3002838,
    3002839
   ],
-  "beginCond": [
-   {
-    "param": [
-     "3002802",
-     "2"
-    ],
-    "type": "QUEST_COND_STATE_EQUAL"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   }
-  ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002836,
-  "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300283601,
-  "questId": 30028,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
   "npcId": [
    12089
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [
-   3002867
-  ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -7011,26 +7004,26 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
+  "heroTalk": "TALK_HERO_MAIN",
   "id": 3002837,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300283701,
-  "questId": 30028,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
-  "npcId": [
-   12089
-  ],
   "nextRandomTalks": [],
   "nextTalks": [
    3002867
   ],
+  "npcId": [
+   12089
+  ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -7072,26 +7065,26 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
+  "heroTalk": "TALK_HERO_MAIN",
   "id": 3002838,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300283801,
-  "questId": 30028,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
-  "npcId": [
-   12089
-  ],
   "nextRandomTalks": [],
   "nextTalks": [
    3002867
   ],
+  "npcId": [
+   12089
+  ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -7133,89 +7126,89 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002839,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300283901,
-  "questId": 30028,
   "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002839,
+  "initDialog": 300283901,
+  "nextRandomTalks": [],
+  "nextTalks": [
+   3002867
+  ],
   "npcId": [
    12089
   ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
+  "beginCond": [
+   {
+    "param": [
+     "3002802",
+     "2"
+    ],
+    "type": "QUEST_COND_STATE_EQUAL"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   }
+  ],
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002840,
+  "initDialog": 300284002,
   "nextRandomTalks": [],
   "nextTalks": [
    3002841,
    3002842,
    3002843
   ],
-  "beginCond": [
-   {
-    "param": [
-     "3002802",
-     "2"
-    ],
-    "type": "QUEST_COND_STATE_EQUAL"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   }
-  ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002840,
-  "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300284002,
-  "questId": 30028,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
   "npcId": [
    12089
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [
-   3002844
-  ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -7257,26 +7250,26 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
+  "heroTalk": "TALK_HERO_MAIN",
   "id": 3002841,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300284101,
-  "questId": 30028,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
-  "npcId": [
-   12089
-  ],
   "nextRandomTalks": [],
   "nextTalks": [
    3002844
   ],
+  "npcId": [
+   12089
+  ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -7318,26 +7311,26 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
+  "heroTalk": "TALK_HERO_MAIN",
   "id": 3002842,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300284201,
-  "questId": 30028,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
-  "npcId": [
-   12089
-  ],
   "nextRandomTalks": [],
   "nextTalks": [
    3002844
   ],
+  "npcId": [
+   12089
+  ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -7379,89 +7372,89 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002843,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300284301,
-  "questId": 30028,
   "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002843,
+  "initDialog": 300284301,
+  "nextRandomTalks": [],
+  "nextTalks": [
+   3002844
+  ],
   "npcId": [
    12089
   ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
+  "beginCond": [
+   {
+    "param": [
+     "3002802",
+     "2"
+    ],
+    "type": "QUEST_COND_STATE_EQUAL"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   }
+  ],
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002844,
+  "initDialog": 300284401,
   "nextRandomTalks": [],
   "nextTalks": [
    3002845,
    3002846,
    3002847
   ],
-  "beginCond": [
-   {
-    "param": [
-     "3002802",
-     "2"
-    ],
-    "type": "QUEST_COND_STATE_EQUAL"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   }
-  ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002844,
-  "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300284401,
-  "questId": 30028,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
   "npcId": [
    12089
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [
-   3002848
-  ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -7503,26 +7496,26 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
+  "heroTalk": "TALK_HERO_MAIN",
   "id": 3002845,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300284501,
-  "questId": 30028,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
-  "npcId": [
-   12089
-  ],
   "nextRandomTalks": [],
   "nextTalks": [
    3002848
   ],
+  "npcId": [
+   12089
+  ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -7564,26 +7557,26 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
+  "heroTalk": "TALK_HERO_MAIN",
   "id": 3002846,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300284601,
-  "questId": 30028,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
-  "npcId": [
-   12089
-  ],
   "nextRandomTalks": [],
   "nextTalks": [
    3002848
   ],
+  "npcId": [
+   12089
+  ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -7625,89 +7618,89 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002847,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300284701,
-  "questId": 30028,
   "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002847,
+  "initDialog": 300284701,
+  "nextRandomTalks": [],
+  "nextTalks": [
+   3002848
+  ],
   "npcId": [
    12089
   ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
+  "beginCond": [
+   {
+    "param": [
+     "3002802",
+     "2"
+    ],
+    "type": "QUEST_COND_STATE_EQUAL"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   }
+  ],
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002848,
+  "initDialog": 300284801,
   "nextRandomTalks": [],
   "nextTalks": [
    3002849,
    3002850,
    3002851
   ],
-  "beginCond": [
-   {
-    "param": [
-     "3002802",
-     "2"
-    ],
-    "type": "QUEST_COND_STATE_EQUAL"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   }
-  ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002848,
-  "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300284801,
-  "questId": 30028,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
   "npcId": [
    12089
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [
-   3002867
-  ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -7749,26 +7742,26 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
+  "heroTalk": "TALK_HERO_MAIN",
   "id": 3002849,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300284901,
-  "questId": 30028,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
-  "npcId": [
-   12089
-  ],
   "nextRandomTalks": [],
   "nextTalks": [
    3002867
   ],
+  "npcId": [
+   12089
+  ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -7810,26 +7803,26 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
+  "heroTalk": "TALK_HERO_MAIN",
   "id": 3002850,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300285001,
-  "questId": 30028,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
-  "npcId": [
-   12089
-  ],
   "nextRandomTalks": [],
   "nextTalks": [
    3002867
   ],
+  "npcId": [
+   12089
+  ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -7871,86 +7864,88 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002851,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300285101,
-  "questId": 30028,
   "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002851,
+  "initDialog": 300285101,
+  "nextRandomTalks": [],
+  "nextTalks": [
+   3002867
+  ],
   "npcId": [
    12089
   ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
+  "beginCond": [
+   {
+    "param": [
+     "3002802",
+     "2"
+    ],
+    "type": "QUEST_COND_STATE_EQUAL"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   }
+  ],
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002867,
+  "initDialog": 300286701,
   "nextRandomTalks": [],
   "nextTalks": [
    3002864,
    3002865
   ],
-  "beginCond": [
-   {
-    "param": [
-     "3002802",
-     "2"
-    ],
-    "type": "QUEST_COND_STATE_EQUAL"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   }
-  ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002867,
-  "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300286701,
-  "questId": 30028,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
   "npcId": [
    12089
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -7992,24 +7987,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002864,
   "beginCondComb": "LOGIC_AND",
-  "initDialog": 300286401,
-  "questId": 30028,
   "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002864,
+  "initDialog": 300286401,
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    12089
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -8051,24 +8046,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002865,
   "beginCondComb": "LOGIC_A_AND_ETCOR",
-  "initDialog": 300286501,
-  "questId": 30028,
   "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
-  "npcId": [
-   12090
-  ],
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002865,
+  "initDialog": 300286501,
   "nextRandomTalks": [],
   "nextTalks": [],
+  "npcId": [
+   12089
+  ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30028,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -8110,24 +8105,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3002901,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300290101,
-  "questId": 30029,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
-  "npcId": [
-   12109
-  ],
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3002901,
+  "initDialog": 300290101,
   "nextRandomTalks": [],
   "nextTalks": [],
+  "npcId": [
+   12090
+  ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30029,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -8169,24 +8164,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3003001,
   "beginCondComb": "LOGIC_AND",
-  "initDialog": 300300101,
-  "questId": 30030,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3003001,
+  "initDialog": 300300101,
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    12109
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30030,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -8228,24 +8223,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3003002,
   "beginCondComb": "LOGIC_AND",
-  "initDialog": 300300301,
-  "questId": 30030,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
-  "npcId": [
-   12088
-  ],
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3003002,
+  "initDialog": 300300301,
   "nextRandomTalks": [],
   "nextTalks": [],
+  "npcId": [
+   12109
+  ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30030,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -8287,24 +8282,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3003101,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300310101,
-  "questId": 30031,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3003101,
+  "initDialog": 300310101,
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    12088
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30031,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -8346,24 +8341,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3003102,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300310201,
-  "questId": 30031,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3003102,
+  "initDialog": 300310201,
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    12088
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30031,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -8405,86 +8400,86 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3003103,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300310301,
-  "questId": 30031,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3003103,
+  "initDialog": 300310301,
+  "nextRandomTalks": [],
+  "nextTalks": [],
+  "npcId": [
+   12088
+  ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30031,
+  "showRandomTalkCount": 0
  },
  {
-  "performCfg": "",
-  "npcId": [
-   20910
+  "activeMode": "PLAY_MODE_ALL",
+  "beginCond": [
+   {
+    "param": [
+     "3003202",
+     "2"
+    ],
+    "type": "QUEST_COND_STATE_EQUAL"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   }
   ],
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_MANUAL",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3003201,
+  "initDialog": 300320101,
   "nextRandomTalks": [],
   "nextTalks": [
    3003208,
    3003209
   ],
-  "beginCond": [
-   {
-    "param": [
-     "3003202",
-     "2"
-    ],
-    "type": "QUEST_COND_STATE_EQUAL"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   }
-  ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3003201,
-  "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300320101,
-  "questId": 30032,
-  "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
   "npcId": [
    20910
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30032,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -8526,24 +8521,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
+  "heroTalk": "TALK_HERO_MAIN",
   "id": 3003208,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300320801,
-  "questId": 30032,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    20910
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30032,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -8585,86 +8580,86 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3003209,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300320901,
-  "questId": 30032,
   "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3003209,
+  "initDialog": 300320901,
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    20910
   ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30032,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
+  "beginCond": [
+   {
+    "param": [
+     "3003204",
+     "2"
+    ],
+    "type": "QUEST_COND_STATE_EQUAL"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   }
+  ],
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_MANUAL",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3003202,
+  "initDialog": 300320201,
   "nextRandomTalks": [],
   "nextTalks": [
    3003203,
    3003204
   ],
-  "beginCond": [
-   {
-    "param": [
-     "3003204",
-     "2"
-    ],
-    "type": "QUEST_COND_STATE_EQUAL"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   }
-  ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3003202,
-  "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300320201,
-  "questId": 30032,
-  "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
   "npcId": [
    20910
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30032,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -8706,24 +8701,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
+  "heroTalk": "TALK_HERO_MAIN",
   "id": 3003203,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300320301,
-  "questId": 30032,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    20910
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30032,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -8765,86 +8760,86 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3003204,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300320401,
-  "questId": 30032,
   "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3003204,
+  "initDialog": 300320401,
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    20910
   ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30032,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
+  "beginCond": [
+   {
+    "param": [
+     "3003205",
+     "2"
+    ],
+    "type": "QUEST_COND_STATE_EQUAL"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   },
+   {
+    "param": [
+     "",
+     "",
+     ""
+    ],
+    "type": "QUEST_COND_NONE"
+   }
+  ],
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_MANUAL",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3003205,
+  "initDialog": 300320501,
   "nextRandomTalks": [],
   "nextTalks": [
    3003206,
    3003207
   ],
-  "beginCond": [
-   {
-    "param": [
-     "3003205",
-     "2"
-    ],
-    "type": "QUEST_COND_STATE_EQUAL"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   },
-   {
-    "param": [
-     "",
-     "",
-     ""
-    ],
-    "type": "QUEST_COND_NONE"
-   }
-  ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3003205,
-  "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300320501,
-  "questId": 30032,
-  "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
   "npcId": [
    20910
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30032,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -8886,24 +8881,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
+  "beginCondComb": "LOGIC_NONE",
+  "beginWay": "TALK_BEGIN_NONE",
   "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
+  "heroTalk": "TALK_HERO_MAIN",
   "id": 3003206,
-  "beginCondComb": "LOGIC_NONE",
   "initDialog": 300320601,
-  "questId": 30032,
-  "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    20910
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30032,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -8945,24 +8940,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3003207,
   "beginCondComb": "LOGIC_NONE",
-  "initDialog": 300320701,
-  "questId": 30032,
   "beginWay": "TALK_BEGIN_NONE",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
-  "npcId": [
-   12109
-  ],
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3003207,
+  "initDialog": 300320701,
   "nextRandomTalks": [],
   "nextTalks": [],
+  "npcId": [
+   20910
+  ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30032,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -9004,24 +8999,24 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3003301,
   "beginCondComb": "LOGIC_AND",
-  "initDialog": 300330101,
-  "questId": 30033,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
- },
- {
-  "performCfg": "",
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3003301,
+  "initDialog": 300330101,
+  "nextRandomTalks": [],
+  "nextTalks": [],
   "npcId": [
    12109
   ],
-  "nextRandomTalks": [],
-  "nextTalks": [],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30033,
+  "showRandomTalkCount": 0
+ },
+ {
+  "activeMode": "PLAY_MODE_ALL",
   "beginCond": [
    {
     "param": [
@@ -9063,15 +9058,20 @@
     "type": "QUEST_COND_NONE"
    }
   ],
-  "heroTalk": "TALK_HERO_MAIN",
-  "dontBlockDaily": false,
-  "showRandomTalkCount": 0,
-  "priority": 5,
-  "id": 3003302,
   "beginCondComb": "LOGIC_AND",
-  "initDialog": 300330201,
-  "questId": 30033,
   "beginWay": "TALK_BEGIN_MANUAL",
-  "activeMode": "PLAY_MODE_ALL"
+  "dontBlockDaily": false,
+  "heroTalk": "TALK_HERO_MAIN",
+  "id": 3003302,
+  "initDialog": 300330201,
+  "nextRandomTalks": [],
+  "nextTalks": [],
+  "npcId": [
+   12109
+  ],
+  "performCfg": "",
+  "priority": 5,
+  "questId": 30033,
+  "showRandomTalkCount": 0
  }
 ]

@@ -1,1290 +1,1290 @@
 [
  {
-  "BFHPOECFEAP": [
-   {
-    "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
-   },
-   {
-    "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
-   }
-  ],
-  "finishContent": {
-   "finishType": "ROUTINE_FINISH_KILL_MONSTER",
-   "param2": 0,
-   "param1": 0,
-   "progress": 4
-  },
-  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_402",
-  "NNCDOEHKCMM": [
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   },
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   }
-  ],
-  "rewardId": 311001,
-  "descTextMapHash": 1685306741,
-  "routineType": "ROUTINE_SNOW_MOUNTAIN",
-  "tag": 0,
-  "routineId": 10001,
-  "nameTextMapHash": 537622841,
-  "radarRadius": 10,
   "goalTextMapHash": 2193792537,
+  "condVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_COND_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_COND_NONE",
+    "param1": 0
+   }
+  ],
   "isBackup": true,
+  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_402",
+  "actionVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   }
+  ],
+  "descTextMapHash": 1685306741,
+  "finishContent": {
+   "param2": 0,
+   "finishType": "ROUTINE_FINISH_KILL_MONSTER",
+   "param1": 0,
+   "progress": 4
+  },
+  "radarRadius": 10,
+  "groupId": 133008402,
+  "routineType": "ROUTINE_SNOW_MOUNTAIN",
+  "routineId": 10001,
+  "tag": 0,
+  "rewardId": 311001,
   "exitDistance": 30,
-  "condComb": "LOGIC_NONE",
   "enterDistance": 20,
-  "groupId": 133008402
+  "condComb": "LOGIC_NONE",
+  "nameTextMapHash": 537622841
  },
  {
-  "BFHPOECFEAP": [
-   {
-    "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
-   },
-   {
-    "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
-   }
-  ],
-  "finishContent": {
-   "finishType": "ROUTINE_FINISH_KILL_MONSTER",
-   "param2": 0,
-   "param1": 0,
-   "progress": 2
-  },
-  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_436",
-  "NNCDOEHKCMM": [
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   },
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   }
-  ],
-  "rewardId": 311001,
-  "descTextMapHash": 264414749,
-  "routineType": "ROUTINE_SNOW_MOUNTAIN",
-  "tag": 0,
-  "routineId": 10002,
-  "nameTextMapHash": 2452958265,
-  "radarRadius": 10,
   "goalTextMapHash": 401568281,
+  "condVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_COND_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_COND_NONE",
+    "param1": 0
+   }
+  ],
   "isBackup": false,
+  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_436",
+  "actionVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   }
+  ],
+  "descTextMapHash": 264414749,
+  "finishContent": {
+   "param2": 0,
+   "finishType": "ROUTINE_FINISH_KILL_MONSTER",
+   "param1": 0,
+   "progress": 2
+  },
+  "radarRadius": 10,
+  "groupId": 133008436,
+  "routineType": "ROUTINE_SNOW_MOUNTAIN",
+  "routineId": 10002,
+  "tag": 0,
+  "rewardId": 311001,
   "exitDistance": 30,
-  "condComb": "LOGIC_NONE",
   "enterDistance": 20,
-  "groupId": 133008436
+  "condComb": "LOGIC_NONE",
+  "nameTextMapHash": 2452958265
  },
  {
-  "BFHPOECFEAP": [
-   {
-    "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
-   },
-   {
-    "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
-   }
-  ],
-  "finishContent": {
-   "finishType": "ROUTINE_FINISH_KILL_MONSTER",
-   "param2": 0,
-   "param1": 0,
-   "progress": 4
-  },
-  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_437",
-  "NNCDOEHKCMM": [
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   },
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   }
-  ],
-  "rewardId": 311001,
-  "descTextMapHash": 3446255093,
-  "routineType": "ROUTINE_SNOW_MOUNTAIN",
-  "tag": 209,
-  "routineId": 10003,
-  "nameTextMapHash": 565204777,
-  "radarRadius": 10,
   "goalTextMapHash": 1053655953,
-  "isBackup": false,
-  "exitDistance": 30,
-  "condComb": "LOGIC_NONE",
-  "enterDistance": 20,
-  "groupId": 133008437
- },
- {
-  "BFHPOECFEAP": [
+  "condVec": [
    {
+    "param2": 0,
     "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
+    "param1": 0
    },
    {
+    "param2": 0,
     "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
+    "param1": 0
    }
   ],
+  "isBackup": false,
+  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_437",
+  "actionVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   }
+  ],
+  "descTextMapHash": 3446255093,
   "finishContent": {
-   "finishType": "ROUTINE_FINISH_KILL_MONSTER",
    "param2": 0,
+   "finishType": "ROUTINE_FINISH_KILL_MONSTER",
    "param1": 0,
    "progress": 4
   },
-  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_438",
-  "NNCDOEHKCMM": [
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   },
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   }
-  ],
-  "rewardId": 311001,
-  "descTextMapHash": 2394889989,
-  "routineType": "ROUTINE_SNOW_MOUNTAIN",
-  "tag": 209,
-  "routineId": 10004,
-  "nameTextMapHash": 1219007193,
   "radarRadius": 10,
+  "groupId": 133008437,
+  "routineType": "ROUTINE_SNOW_MOUNTAIN",
+  "routineId": 10003,
+  "tag": 209,
+  "rewardId": 311001,
+  "exitDistance": 30,
+  "enterDistance": 20,
+  "condComb": "LOGIC_NONE",
+  "nameTextMapHash": 565204777
+ },
+ {
   "goalTextMapHash": 3979033801,
+  "condVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_COND_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_COND_NONE",
+    "param1": 0
+   }
+  ],
   "isBackup": false,
+  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_438",
+  "actionVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   }
+  ],
+  "descTextMapHash": 2394889989,
+  "finishContent": {
+   "param2": 0,
+   "finishType": "ROUTINE_FINISH_KILL_MONSTER",
+   "param1": 0,
+   "progress": 4
+  },
+  "radarRadius": 10,
+  "groupId": 133008438,
+  "routineType": "ROUTINE_SNOW_MOUNTAIN",
+  "routineId": 10004,
+  "tag": 209,
+  "rewardId": 311001,
   "exitDistance": 30,
-  "condComb": "LOGIC_NONE",
   "enterDistance": 20,
-  "groupId": 133008438
+  "condComb": "LOGIC_NONE",
+  "nameTextMapHash": 1219007193
  },
  {
-  "BFHPOECFEAP": [
-   {
-    "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
-   },
-   {
-    "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
-   }
-  ],
-  "finishContent": {
-   "finishType": "ROUTINE_FINISH_KILL_MONSTER",
-   "param2": 0,
-   "param1": 0,
-   "progress": 3
-  },
-  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_439",
-  "NNCDOEHKCMM": [
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   },
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   }
-  ],
-  "rewardId": 311001,
-  "descTextMapHash": 1302923013,
-  "routineType": "ROUTINE_SNOW_MOUNTAIN",
-  "tag": 209,
-  "routineId": 10005,
-  "nameTextMapHash": 1694822201,
-  "radarRadius": 10,
   "goalTextMapHash": 1298469089,
+  "condVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_COND_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_COND_NONE",
+    "param1": 0
+   }
+  ],
   "isBackup": false,
+  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_439",
+  "actionVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   }
+  ],
+  "descTextMapHash": 1302923013,
+  "finishContent": {
+   "param2": 0,
+   "finishType": "ROUTINE_FINISH_KILL_MONSTER",
+   "param1": 0,
+   "progress": 3
+  },
+  "radarRadius": 10,
+  "groupId": 133008439,
+  "routineType": "ROUTINE_SNOW_MOUNTAIN",
+  "routineId": 10005,
+  "tag": 209,
+  "rewardId": 311001,
   "exitDistance": 30,
-  "condComb": "LOGIC_NONE",
   "enterDistance": 20,
-  "groupId": 133008439
+  "condComb": "LOGIC_NONE",
+  "nameTextMapHash": 1694822201
  },
  {
-  "BFHPOECFEAP": [
-   {
-    "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
-   },
-   {
-    "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
-   }
-  ],
-  "finishContent": {
-   "finishType": "ROUTINE_FINISH_KILL_MONSTER",
-   "param2": 0,
-   "param1": 0,
-   "progress": 1
-  },
-  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_440",
-  "NNCDOEHKCMM": [
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   },
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   }
-  ],
-  "rewardId": 311001,
-  "descTextMapHash": 48727949,
-  "routineType": "ROUTINE_SNOW_MOUNTAIN",
-  "tag": 0,
-  "routineId": 10006,
-  "nameTextMapHash": 2179317905,
-  "radarRadius": 10,
   "goalTextMapHash": 3720595665,
+  "condVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_COND_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_COND_NONE",
+    "param1": 0
+   }
+  ],
   "isBackup": true,
+  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_440",
+  "actionVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   }
+  ],
+  "descTextMapHash": 48727949,
+  "finishContent": {
+   "param2": 0,
+   "finishType": "ROUTINE_FINISH_KILL_MONSTER",
+   "param1": 0,
+   "progress": 1
+  },
+  "radarRadius": 10,
+  "groupId": 133008440,
+  "routineType": "ROUTINE_SNOW_MOUNTAIN",
+  "routineId": 10006,
+  "tag": 0,
+  "rewardId": 311001,
   "exitDistance": 30,
-  "condComb": "LOGIC_NONE",
   "enterDistance": 20,
-  "groupId": 133008440
+  "condComb": "LOGIC_NONE",
+  "nameTextMapHash": 2179317905
  },
  {
-  "BFHPOECFEAP": [
-   {
-    "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
-   },
-   {
-    "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
-   }
-  ],
-  "finishContent": {
-   "finishType": "ROUTINE_FINISH_KILL_MONSTER",
-   "param2": 0,
-   "param1": 0,
-   "progress": 4
-  },
-  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_461",
-  "NNCDOEHKCMM": [
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   },
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   }
-  ],
-  "rewardId": 311001,
-  "descTextMapHash": 3182293405,
-  "routineType": "ROUTINE_SNOW_MOUNTAIN",
-  "tag": 0,
-  "routineId": 10007,
-  "nameTextMapHash": 190700521,
-  "radarRadius": 10,
   "goalTextMapHash": 1956446897,
+  "condVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_COND_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_COND_NONE",
+    "param1": 0
+   }
+  ],
   "isBackup": false,
+  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_461",
+  "actionVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   }
+  ],
+  "descTextMapHash": 3182293405,
+  "finishContent": {
+   "param2": 0,
+   "finishType": "ROUTINE_FINISH_KILL_MONSTER",
+   "param1": 0,
+   "progress": 4
+  },
+  "radarRadius": 10,
+  "groupId": 133008461,
+  "routineType": "ROUTINE_SNOW_MOUNTAIN",
+  "routineId": 10007,
+  "tag": 0,
+  "rewardId": 311001,
   "exitDistance": 30,
-  "condComb": "LOGIC_NONE",
   "enterDistance": 20,
-  "groupId": 133008461
+  "condComb": "LOGIC_NONE",
+  "nameTextMapHash": 190700521
  },
  {
-  "BFHPOECFEAP": [
-   {
-    "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
-   },
-   {
-    "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
-   }
-  ],
-  "finishContent": {
-   "finishType": "ROUTINE_CHALLENGE_FINISH",
-   "param2": 0,
-   "param1": 0,
-   "progress": 1
-  },
-  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_462",
-  "NNCDOEHKCMM": [
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   },
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   }
-  ],
-  "rewardId": 311001,
-  "descTextMapHash": 474574573,
-  "routineType": "ROUTINE_SNOW_MOUNTAIN",
-  "tag": 0,
-  "routineId": 10008,
-  "nameTextMapHash": 853637041,
-  "radarRadius": 10,
   "goalTextMapHash": 3176013425,
-  "isBackup": false,
-  "exitDistance": 30,
-  "condComb": "LOGIC_NONE",
-  "enterDistance": 20,
-  "groupId": 133008462
- },
- {
-  "BFHPOECFEAP": [
+  "condVec": [
    {
+    "param2": 0,
     "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
+    "param1": 0
    },
    {
+    "param2": 0,
     "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
+    "param1": 0
    }
   ],
+  "isBackup": false,
+  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_462",
+  "actionVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   }
+  ],
+  "descTextMapHash": 474574573,
   "finishContent": {
-   "finishType": "ROUTINE_CHALLENGE_FINISH",
    "param2": 0,
+   "finishType": "ROUTINE_CHALLENGE_FINISH",
    "param1": 0,
    "progress": 1
   },
-  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_463",
-  "NNCDOEHKCMM": [
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   },
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   }
-  ],
-  "rewardId": 311001,
-  "descTextMapHash": 100321701,
-  "routineType": "ROUTINE_SNOW_MOUNTAIN",
-  "tag": 0,
-  "routineId": 10009,
-  "nameTextMapHash": 2967444073,
   "radarRadius": 10,
+  "groupId": 133008462,
+  "routineType": "ROUTINE_SNOW_MOUNTAIN",
+  "routineId": 10008,
+  "tag": 0,
+  "rewardId": 311001,
+  "exitDistance": 30,
+  "enterDistance": 20,
+  "condComb": "LOGIC_NONE",
+  "nameTextMapHash": 853637041
+ },
+ {
   "goalTextMapHash": 1220552873,
+  "condVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_COND_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_COND_NONE",
+    "param1": 0
+   }
+  ],
   "isBackup": false,
+  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_463",
+  "actionVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   }
+  ],
+  "descTextMapHash": 100321701,
+  "finishContent": {
+   "param2": 0,
+   "finishType": "ROUTINE_CHALLENGE_FINISH",
+   "param1": 0,
+   "progress": 1
+  },
+  "radarRadius": 10,
+  "groupId": 133008463,
+  "routineType": "ROUTINE_SNOW_MOUNTAIN",
+  "routineId": 10009,
+  "tag": 0,
+  "rewardId": 311001,
   "exitDistance": 30,
-  "condComb": "LOGIC_NONE",
   "enterDistance": 20,
-  "groupId": 133008463
+  "condComb": "LOGIC_NONE",
+  "nameTextMapHash": 2967444073
  },
  {
-  "BFHPOECFEAP": [
-   {
-    "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
-   },
-   {
-    "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
-   }
-  ],
-  "finishContent": {
-   "finishType": "ROUTINE_FINISH_KILL_MONSTER",
-   "param2": 0,
-   "param1": 0,
-   "progress": 3
-  },
-  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_464",
-  "NNCDOEHKCMM": [
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   },
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   }
-  ],
-  "rewardId": 311001,
-  "descTextMapHash": 3662262069,
-  "routineType": "ROUTINE_SNOW_MOUNTAIN",
-  "tag": 0,
-  "routineId": 10010,
-  "nameTextMapHash": 2517519129,
-  "radarRadius": 10,
   "goalTextMapHash": 3664934025,
-  "isBackup": true,
-  "exitDistance": 30,
-  "condComb": "LOGIC_NONE",
-  "enterDistance": 20,
-  "groupId": 133008464
- },
- {
-  "BFHPOECFEAP": [
+  "condVec": [
    {
+    "param2": 0,
     "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
+    "param1": 0
    },
    {
+    "param2": 0,
     "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
+    "param1": 0
    }
   ],
+  "isBackup": true,
+  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_464",
+  "actionVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   }
+  ],
+  "descTextMapHash": 3662262069,
   "finishContent": {
-   "finishType": "ROUTINE_FINISH_KILL_MONSTER",
    "param2": 0,
+   "finishType": "ROUTINE_FINISH_KILL_MONSTER",
    "param1": 0,
    "progress": 3
   },
-  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_465",
-  "NNCDOEHKCMM": [
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   },
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   }
-  ],
-  "rewardId": 311001,
-  "descTextMapHash": 1391119757,
-  "routineType": "ROUTINE_SNOW_MOUNTAIN",
-  "tag": 0,
-  "routineId": 10011,
-  "nameTextMapHash": 130368921,
   "radarRadius": 10,
+  "groupId": 133008464,
+  "routineType": "ROUTINE_SNOW_MOUNTAIN",
+  "routineId": 10010,
+  "tag": 0,
+  "rewardId": 311001,
+  "exitDistance": 30,
+  "enterDistance": 20,
+  "condComb": "LOGIC_NONE",
+  "nameTextMapHash": 2517519129
+ },
+ {
   "goalTextMapHash": 1424518345,
+  "condVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_COND_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_COND_NONE",
+    "param1": 0
+   }
+  ],
   "isBackup": false,
+  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_465",
+  "actionVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   }
+  ],
+  "descTextMapHash": 1391119757,
+  "finishContent": {
+   "param2": 0,
+   "finishType": "ROUTINE_FINISH_KILL_MONSTER",
+   "param1": 0,
+   "progress": 3
+  },
+  "radarRadius": 10,
+  "groupId": 133008465,
+  "routineType": "ROUTINE_SNOW_MOUNTAIN",
+  "routineId": 10011,
+  "tag": 0,
+  "rewardId": 311001,
   "exitDistance": 30,
-  "condComb": "LOGIC_NONE",
   "enterDistance": 20,
-  "groupId": 133008465
+  "condComb": "LOGIC_NONE",
+  "nameTextMapHash": 130368921
  },
  {
-  "BFHPOECFEAP": [
-   {
-    "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
-   },
-   {
-    "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
-   }
-  ],
-  "finishContent": {
-   "finishType": "ROUTINE_CHALLENGE_FINISH",
-   "param2": 0,
-   "param1": 0,
-   "progress": 1
-  },
-  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_503",
-  "NNCDOEHKCMM": [
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   },
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   }
-  ],
-  "rewardId": 311001,
-  "descTextMapHash": 2737049533,
-  "routineType": "ROUTINE_SNOW_MOUNTAIN",
-  "tag": 0,
-  "routineId": 10012,
-  "nameTextMapHash": 3749299657,
-  "radarRadius": 10,
   "goalTextMapHash": 780290689,
-  "isBackup": false,
-  "exitDistance": 30,
-  "condComb": "LOGIC_NONE",
-  "enterDistance": 20,
-  "groupId": 133008503
- },
- {
-  "BFHPOECFEAP": [
+  "condVec": [
    {
+    "param2": 0,
     "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
+    "param1": 0
    },
    {
+    "param2": 0,
     "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
+    "param1": 0
    }
   ],
+  "isBackup": false,
+  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_503",
+  "actionVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   }
+  ],
+  "descTextMapHash": 2737049533,
   "finishContent": {
-   "finishType": "ROUTINE_CHALLENGE_FINISH",
    "param2": 0,
+   "finishType": "ROUTINE_CHALLENGE_FINISH",
    "param1": 0,
    "progress": 1
   },
-  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_504",
-  "NNCDOEHKCMM": [
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   },
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   }
-  ],
-  "rewardId": 311001,
-  "descTextMapHash": 270618453,
-  "routineType": "ROUTINE_SNOW_MOUNTAIN",
-  "tag": 0,
-  "routineId": 10013,
-  "nameTextMapHash": 1796683825,
   "radarRadius": 10,
+  "groupId": 133008503,
+  "routineType": "ROUTINE_SNOW_MOUNTAIN",
+  "routineId": 10012,
+  "tag": 0,
+  "rewardId": 311001,
+  "exitDistance": 30,
+  "enterDistance": 20,
+  "condComb": "LOGIC_NONE",
+  "nameTextMapHash": 3749299657
+ },
+ {
   "goalTextMapHash": 2187319809,
-  "isBackup": true,
-  "exitDistance": 30,
-  "condComb": "LOGIC_NONE",
-  "enterDistance": 20,
-  "groupId": 133008504
- },
- {
-  "BFHPOECFEAP": [
+  "condVec": [
    {
+    "param2": 0,
     "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
+    "param1": 0
    },
    {
+    "param2": 0,
     "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
+    "param1": 0
    }
   ],
+  "isBackup": true,
+  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_504",
+  "actionVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   }
+  ],
+  "descTextMapHash": 270618453,
   "finishContent": {
-   "finishType": "ROUTINE_CHALLENGE_FINISH",
    "param2": 0,
+   "finishType": "ROUTINE_CHALLENGE_FINISH",
    "param1": 0,
    "progress": 1
   },
-  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_585",
-  "NNCDOEHKCMM": [
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   },
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   }
-  ],
-  "rewardId": 311001,
-  "descTextMapHash": 2295728693,
-  "routineType": "ROUTINE_SNOW_MOUNTAIN",
-  "tag": 0,
-  "routineId": 10014,
-  "nameTextMapHash": 2133565057,
   "radarRadius": 10,
+  "groupId": 133008504,
+  "routineType": "ROUTINE_SNOW_MOUNTAIN",
+  "routineId": 10013,
+  "tag": 0,
+  "rewardId": 311001,
+  "exitDistance": 30,
+  "enterDistance": 20,
+  "condComb": "LOGIC_NONE",
+  "nameTextMapHash": 1796683825
+ },
+ {
   "goalTextMapHash": 3435515025,
-  "isBackup": false,
-  "exitDistance": 30,
-  "condComb": "LOGIC_NONE",
-  "enterDistance": 20,
-  "groupId": 133008585
- },
- {
-  "BFHPOECFEAP": [
+  "condVec": [
    {
+    "param2": 0,
     "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
+    "param1": 0
    },
    {
+    "param2": 0,
     "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
+    "param1": 0
    }
   ],
+  "isBackup": false,
+  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_585",
+  "actionVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   }
+  ],
+  "descTextMapHash": 2295728693,
   "finishContent": {
-   "finishType": "ROUTINE_CHALLENGE_FINISH",
    "param2": 0,
+   "finishType": "ROUTINE_CHALLENGE_FINISH",
    "param1": 0,
    "progress": 1
   },
-  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_588",
-  "NNCDOEHKCMM": [
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   },
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   }
-  ],
-  "rewardId": 311001,
-  "descTextMapHash": 3706576141,
-  "routineType": "ROUTINE_SNOW_MOUNTAIN",
-  "tag": 0,
-  "routineId": 10015,
-  "nameTextMapHash": 2828645345,
   "radarRadius": 10,
+  "groupId": 133008585,
+  "routineType": "ROUTINE_SNOW_MOUNTAIN",
+  "routineId": 10014,
+  "tag": 0,
+  "rewardId": 311001,
+  "exitDistance": 30,
+  "enterDistance": 20,
+  "condComb": "LOGIC_NONE",
+  "nameTextMapHash": 2133565057
+ },
+ {
   "goalTextMapHash": 4112536273,
-  "isBackup": false,
-  "exitDistance": 30,
-  "condComb": "LOGIC_NONE",
-  "enterDistance": 20,
-  "groupId": 133008588
- },
- {
-  "BFHPOECFEAP": [
+  "condVec": [
    {
+    "param2": 0,
     "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
+    "param1": 0
    },
    {
+    "param2": 0,
     "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
+    "param1": 0
    }
   ],
+  "isBackup": false,
+  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_588",
+  "actionVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   }
+  ],
+  "descTextMapHash": 3706576141,
   "finishContent": {
-   "finishType": "ROUTINE_CHALLENGE_FINISH",
    "param2": 0,
+   "finishType": "ROUTINE_CHALLENGE_FINISH",
    "param1": 0,
    "progress": 1
   },
-  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_589",
-  "NNCDOEHKCMM": [
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   },
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   }
-  ],
-  "rewardId": 311001,
-  "descTextMapHash": 1376049821,
-  "routineType": "ROUTINE_SNOW_MOUNTAIN",
-  "tag": 0,
-  "routineId": 10016,
-  "nameTextMapHash": 508122641,
   "radarRadius": 10,
+  "groupId": 133008588,
+  "routineType": "ROUTINE_SNOW_MOUNTAIN",
+  "routineId": 10015,
+  "tag": 0,
+  "rewardId": 311001,
+  "exitDistance": 30,
+  "enterDistance": 20,
+  "condComb": "LOGIC_NONE",
+  "nameTextMapHash": 2828645345
+ },
+ {
   "goalTextMapHash": 1720373049,
+  "condVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_COND_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_COND_NONE",
+    "param1": 0
+   }
+  ],
   "isBackup": false,
+  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_589",
+  "actionVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   }
+  ],
+  "descTextMapHash": 1376049821,
+  "finishContent": {
+   "param2": 0,
+   "finishType": "ROUTINE_CHALLENGE_FINISH",
+   "param1": 0,
+   "progress": 1
+  },
+  "radarRadius": 10,
+  "groupId": 133008589,
+  "routineType": "ROUTINE_SNOW_MOUNTAIN",
+  "routineId": 10016,
+  "tag": 0,
+  "rewardId": 311001,
   "exitDistance": 30,
-  "condComb": "LOGIC_NONE",
   "enterDistance": 20,
-  "groupId": 133008589
+  "condComb": "LOGIC_NONE",
+  "nameTextMapHash": 508122641
  },
  {
-  "BFHPOECFEAP": [
-   {
-    "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
-   },
-   {
-    "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
-   }
-  ],
-  "finishContent": {
-   "finishType": "ROUTINE_FINISH_KILL_MONSTER",
-   "param2": 0,
-   "param1": 0,
-   "progress": 3
-  },
-  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_590",
-  "NNCDOEHKCMM": [
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   },
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   }
-  ],
-  "rewardId": 311001,
-  "descTextMapHash": 1320257397,
-  "routineType": "ROUTINE_SNOW_MOUNTAIN",
-  "tag": 209,
-  "routineId": 10017,
-  "nameTextMapHash": 3858972529,
-  "radarRadius": 10,
   "goalTextMapHash": 2972357889,
+  "condVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_COND_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_COND_NONE",
+    "param1": 0
+   }
+  ],
   "isBackup": false,
-  "exitDistance": 30,
-  "condComb": "LOGIC_NONE",
-  "enterDistance": 20,
-  "groupId": 133008590
- },
- {
-  "BFHPOECFEAP": [
+  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_590",
+  "actionVec": [
    {
-    "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
    },
    {
-    "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
    }
   ],
+  "descTextMapHash": 1320257397,
   "finishContent": {
-   "finishType": "ROUTINE_CHALLENGE_FINISH",
    "param2": 0,
-   "param1": 0,
-   "progress": 1
-  },
-  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_591",
-  "NNCDOEHKCMM": [
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   },
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   }
-  ],
-  "rewardId": 311001,
-  "descTextMapHash": 153347469,
-  "routineType": "ROUTINE_SNOW_MOUNTAIN",
-  "tag": 0,
-  "routineId": 10018,
-  "nameTextMapHash": 4037358785,
-  "radarRadius": 10,
-  "goalTextMapHash": 3280536825,
-  "isBackup": false,
-  "exitDistance": 30,
-  "condComb": "LOGIC_NONE",
-  "enterDistance": 20,
-  "groupId": 133008591
- },
- {
-  "BFHPOECFEAP": [
-   {
-    "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
-   },
-   {
-    "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
-   }
-  ],
-  "finishContent": {
    "finishType": "ROUTINE_FINISH_KILL_MONSTER",
-   "param2": 0,
-   "param1": 0,
-   "progress": 2
-  },
-  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_593",
-  "NNCDOEHKCMM": [
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   },
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   }
-  ],
-  "rewardId": 311001,
-  "descTextMapHash": 3560725197,
-  "routineType": "ROUTINE_SNOW_MOUNTAIN",
-  "tag": 0,
-  "routineId": 10019,
-  "nameTextMapHash": 443194953,
-  "radarRadius": 10,
-  "goalTextMapHash": 1991536441,
-  "isBackup": true,
-  "exitDistance": 30,
-  "condComb": "LOGIC_NONE",
-  "enterDistance": 20,
-  "groupId": 133008593
- },
- {
-  "BFHPOECFEAP": [
-   {
-    "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
-   },
-   {
-    "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
-   }
-  ],
-  "finishContent": {
-   "finishType": "ROUTINE_FINISH_KILL_MONSTER",
-   "param2": 0,
-   "param1": 0,
-   "progress": 2
-  },
-  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_594",
-  "NNCDOEHKCMM": [
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   },
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   }
-  ],
-  "rewardId": 311001,
-  "descTextMapHash": 673031077,
-  "routineType": "ROUTINE_SNOW_MOUNTAIN",
-  "tag": 0,
-  "routineId": 10020,
-  "nameTextMapHash": 2210396625,
-  "radarRadius": 10,
-  "goalTextMapHash": 437339689,
-  "isBackup": false,
-  "exitDistance": 30,
-  "condComb": "LOGIC_NONE",
-  "enterDistance": 20,
-  "groupId": 133008594
- },
- {
-  "BFHPOECFEAP": [
-   {
-    "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
-   },
-   {
-    "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
-   }
-  ],
-  "finishContent": {
-   "finishType": "ROUTINE_FINISH_KILL_MONSTER",
-   "param2": 0,
    "param1": 0,
    "progress": 3
   },
-  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_625",
-  "NNCDOEHKCMM": [
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   },
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   }
-  ],
-  "rewardId": 311001,
-  "descTextMapHash": 2466181909,
+  "radarRadius": 10,
+  "groupId": 133008590,
   "routineType": "ROUTINE_SNOW_MOUNTAIN",
+  "routineId": 10017,
   "tag": 209,
-  "routineId": 10021,
-  "nameTextMapHash": 2355327449,
-  "radarRadius": 10,
-  "goalTextMapHash": 1067720361,
-  "isBackup": false,
-  "exitDistance": 30,
-  "condComb": "LOGIC_NONE",
-  "enterDistance": 20,
-  "groupId": 133008625
- },
- {
-  "BFHPOECFEAP": [
-   {
-    "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
-   },
-   {
-    "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
-   }
-  ],
-  "finishContent": {
-   "finishType": "ROUTINE_FINISH_KILL_MONSTER",
-   "param2": 0,
-   "param1": 0,
-   "progress": 2
-  },
-  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_626",
-  "NNCDOEHKCMM": [
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   },
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   }
-  ],
   "rewardId": 311001,
-  "descTextMapHash": 2735809541,
-  "routineType": "ROUTINE_SNOW_MOUNTAIN",
-  "tag": 209,
-  "routineId": 10022,
-  "nameTextMapHash": 2994145401,
-  "radarRadius": 10,
-  "goalTextMapHash": 2363540129,
+  "exitDistance": 30,
+  "enterDistance": 20,
+  "condComb": "LOGIC_NONE",
+  "nameTextMapHash": 3858972529
+ },
+ {
+  "goalTextMapHash": 3280536825,
+  "condVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_COND_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_COND_NONE",
+    "param1": 0
+   }
+  ],
   "isBackup": false,
-  "exitDistance": 30,
-  "condComb": "LOGIC_NONE",
-  "enterDistance": 20,
-  "groupId": 133008626
- },
- {
-  "BFHPOECFEAP": [
+  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_591",
+  "actionVec": [
    {
-    "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
    },
    {
-    "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
    }
   ],
+  "descTextMapHash": 153347469,
   "finishContent": {
-   "finishType": "ROUTINE_FINISH_KILL_MONSTER",
    "param2": 0,
-   "param1": 0,
-   "progress": 4
-  },
-  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_627",
-  "NNCDOEHKCMM": [
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   },
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   }
-  ],
-  "rewardId": 311001,
-  "descTextMapHash": 1578487669,
-  "routineType": "ROUTINE_SNOW_MOUNTAIN",
-  "tag": 209,
-  "routineId": 10023,
-  "nameTextMapHash": 2765568153,
-  "radarRadius": 10,
-  "goalTextMapHash": 1334949049,
-  "isBackup": false,
-  "exitDistance": 30,
-  "condComb": "LOGIC_NONE",
-  "enterDistance": 20,
-  "groupId": 133008627
- },
- {
-  "BFHPOECFEAP": [
-   {
-    "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
-   },
-   {
-    "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
-   }
-  ],
-  "finishContent": {
-   "finishType": "ROUTINE_FINISH_KILL_MONSTER",
-   "param2": 0,
-   "param1": 0,
-   "progress": 4
-  },
-  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_628",
-  "NNCDOEHKCMM": [
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   },
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   }
-  ],
-  "rewardId": 311001,
-  "descTextMapHash": 3360569357,
-  "routineType": "ROUTINE_SNOW_MOUNTAIN",
-  "tag": 209,
-  "routineId": 10024,
-  "nameTextMapHash": 2472242009,
-  "radarRadius": 10,
-  "goalTextMapHash": 2010132785,
-  "isBackup": false,
-  "exitDistance": 30,
-  "condComb": "LOGIC_NONE",
-  "enterDistance": 20,
-  "groupId": 133008628
- },
- {
-  "BFHPOECFEAP": [
-   {
-    "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
-   },
-   {
-    "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
-   }
-  ],
-  "finishContent": {
-   "finishType": "ROUTINE_FINISH_KILL_MONSTER",
-   "param2": 0,
-   "param1": 0,
-   "progress": 1
-  },
-  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_629",
-  "NNCDOEHKCMM": [
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   },
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   }
-  ],
-  "rewardId": 311001,
-  "descTextMapHash": 840874789,
-  "routineType": "ROUTINE_SNOW_MOUNTAIN",
-  "tag": 0,
-  "routineId": 10025,
-  "nameTextMapHash": 1602583825,
-  "radarRadius": 10,
-  "goalTextMapHash": 3372647497,
-  "isBackup": true,
-  "exitDistance": 30,
-  "condComb": "LOGIC_NONE",
-  "enterDistance": 20,
-  "groupId": 133008629
- },
- {
-  "BFHPOECFEAP": [
-   {
-    "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
-   },
-   {
-    "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
-   }
-  ],
-  "finishContent": {
    "finishType": "ROUTINE_CHALLENGE_FINISH",
-   "param2": 0,
    "param1": 0,
    "progress": 1
   },
-  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_630",
-  "NNCDOEHKCMM": [
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   },
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   }
-  ],
-  "rewardId": 311001,
-  "descTextMapHash": 935396261,
-  "routineType": "ROUTINE_SNOW_MOUNTAIN",
-  "tag": 0,
-  "routineId": 10026,
-  "nameTextMapHash": 3665427041,
   "radarRadius": 10,
-  "goalTextMapHash": 2118967193,
-  "isBackup": false,
+  "groupId": 133008591,
+  "routineType": "ROUTINE_SNOW_MOUNTAIN",
+  "routineId": 10018,
+  "tag": 0,
+  "rewardId": 311001,
   "exitDistance": 30,
-  "condComb": "LOGIC_NONE",
   "enterDistance": 20,
-  "groupId": 133008630
+  "condComb": "LOGIC_NONE",
+  "nameTextMapHash": 4037358785
  },
  {
-  "BFHPOECFEAP": [
+  "goalTextMapHash": 1991536441,
+  "condVec": [
    {
+    "param2": 0,
     "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
+    "param1": 0
    },
    {
+    "param2": 0,
     "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
+    "param1": 0
    }
   ],
+  "isBackup": true,
+  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_593",
+  "actionVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   }
+  ],
+  "descTextMapHash": 3560725197,
   "finishContent": {
-   "finishType": "ROUTINE_FINISH_KILL_MONSTER",
    "param2": 0,
+   "finishType": "ROUTINE_FINISH_KILL_MONSTER",
    "param1": 0,
    "progress": 2
   },
-  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_631",
-  "NNCDOEHKCMM": [
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   },
-   {
-    "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
-   }
-  ],
-  "rewardId": 311001,
-  "descTextMapHash": 2475364749,
-  "routineType": "ROUTINE_SNOW_MOUNTAIN",
-  "tag": 209,
-  "routineId": 10027,
-  "nameTextMapHash": 923728793,
   "radarRadius": 10,
-  "goalTextMapHash": 2997746105,
-  "isBackup": false,
+  "groupId": 133008593,
+  "routineType": "ROUTINE_SNOW_MOUNTAIN",
+  "routineId": 10019,
+  "tag": 0,
+  "rewardId": 311001,
   "exitDistance": 30,
-  "condComb": "LOGIC_NONE",
   "enterDistance": 20,
-  "groupId": 133008631
+  "condComb": "LOGIC_NONE",
+  "nameTextMapHash": 443194953
  },
  {
-  "BFHPOECFEAP": [
+  "goalTextMapHash": 437339689,
+  "condVec": [
    {
+    "param2": 0,
     "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
+    "param1": 0
    },
    {
+    "param2": 0,
     "type": "ROUTINE_COND_NONE",
-    "param1": 0,
-    "param2": 0
+    "param1": 0
    }
   ],
+  "isBackup": false,
+  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_594",
+  "actionVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   }
+  ],
+  "descTextMapHash": 673031077,
   "finishContent": {
-   "finishType": "ROUTINE_FINISH_KILL_MONSTER",
    "param2": 0,
+   "finishType": "ROUTINE_FINISH_KILL_MONSTER",
+   "param1": 0,
+   "progress": 2
+  },
+  "radarRadius": 10,
+  "groupId": 133008594,
+  "routineType": "ROUTINE_SNOW_MOUNTAIN",
+  "routineId": 10020,
+  "tag": 0,
+  "rewardId": 311001,
+  "exitDistance": 30,
+  "enterDistance": 20,
+  "condComb": "LOGIC_NONE",
+  "nameTextMapHash": 2210396625
+ },
+ {
+  "goalTextMapHash": 1067720361,
+  "condVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_COND_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_COND_NONE",
+    "param1": 0
+   }
+  ],
+  "isBackup": false,
+  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_625",
+  "actionVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   }
+  ],
+  "descTextMapHash": 2466181909,
+  "finishContent": {
+   "param2": 0,
+   "finishType": "ROUTINE_FINISH_KILL_MONSTER",
+   "param1": 0,
+   "progress": 3
+  },
+  "radarRadius": 10,
+  "groupId": 133008625,
+  "routineType": "ROUTINE_SNOW_MOUNTAIN",
+  "routineId": 10021,
+  "tag": 209,
+  "rewardId": 311001,
+  "exitDistance": 30,
+  "enterDistance": 20,
+  "condComb": "LOGIC_NONE",
+  "nameTextMapHash": 2355327449
+ },
+ {
+  "goalTextMapHash": 2363540129,
+  "condVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_COND_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_COND_NONE",
+    "param1": 0
+   }
+  ],
+  "isBackup": false,
+  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_626",
+  "actionVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   }
+  ],
+  "descTextMapHash": 2735809541,
+  "finishContent": {
+   "param2": 0,
+   "finishType": "ROUTINE_FINISH_KILL_MONSTER",
+   "param1": 0,
+   "progress": 2
+  },
+  "radarRadius": 10,
+  "groupId": 133008626,
+  "routineType": "ROUTINE_SNOW_MOUNTAIN",
+  "routineId": 10022,
+  "tag": 209,
+  "rewardId": 311001,
+  "exitDistance": 30,
+  "enterDistance": 20,
+  "condComb": "LOGIC_NONE",
+  "nameTextMapHash": 2994145401
+ },
+ {
+  "goalTextMapHash": 1334949049,
+  "condVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_COND_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_COND_NONE",
+    "param1": 0
+   }
+  ],
+  "isBackup": false,
+  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_627",
+  "actionVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   }
+  ],
+  "descTextMapHash": 1578487669,
+  "finishContent": {
+   "param2": 0,
+   "finishType": "ROUTINE_FINISH_KILL_MONSTER",
    "param1": 0,
    "progress": 4
   },
-  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_632",
-  "NNCDOEHKCMM": [
+  "radarRadius": 10,
+  "groupId": 133008627,
+  "routineType": "ROUTINE_SNOW_MOUNTAIN",
+  "routineId": 10023,
+  "tag": 209,
+  "rewardId": 311001,
+  "exitDistance": 30,
+  "enterDistance": 20,
+  "condComb": "LOGIC_NONE",
+  "nameTextMapHash": 2765568153
+ },
+ {
+  "goalTextMapHash": 2010132785,
+  "condVec": [
    {
     "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
+    "type": "ROUTINE_COND_NONE",
+    "param1": 0
    },
    {
     "param2": 0,
-    "param1": 0,
-    "type": "ROUTINE_ACTION_NONE"
+    "type": "ROUTINE_COND_NONE",
+    "param1": 0
    }
   ],
-  "rewardId": 311001,
-  "descTextMapHash": 1264092605,
-  "routineType": "ROUTINE_SNOW_MOUNTAIN",
-  "tag": 209,
-  "routineId": 10028,
-  "nameTextMapHash": 4081102993,
-  "radarRadius": 10,
-  "goalTextMapHash": 397159569,
   "isBackup": false,
+  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_628",
+  "actionVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   }
+  ],
+  "descTextMapHash": 3360569357,
+  "finishContent": {
+   "param2": 0,
+   "finishType": "ROUTINE_FINISH_KILL_MONSTER",
+   "param1": 0,
+   "progress": 4
+  },
+  "radarRadius": 10,
+  "groupId": 133008628,
+  "routineType": "ROUTINE_SNOW_MOUNTAIN",
+  "routineId": 10024,
+  "tag": 209,
+  "rewardId": 311001,
   "exitDistance": 30,
-  "condComb": "LOGIC_NONE",
   "enterDistance": 20,
-  "groupId": 133008632
+  "condComb": "LOGIC_NONE",
+  "nameTextMapHash": 2472242009
+ },
+ {
+  "goalTextMapHash": 3372647497,
+  "condVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_COND_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_COND_NONE",
+    "param1": 0
+   }
+  ],
+  "isBackup": true,
+  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_629",
+  "actionVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   }
+  ],
+  "descTextMapHash": 840874789,
+  "finishContent": {
+   "param2": 0,
+   "finishType": "ROUTINE_FINISH_KILL_MONSTER",
+   "param1": 0,
+   "progress": 1
+  },
+  "radarRadius": 10,
+  "groupId": 133008629,
+  "routineType": "ROUTINE_SNOW_MOUNTAIN",
+  "routineId": 10025,
+  "tag": 0,
+  "rewardId": 311001,
+  "exitDistance": 30,
+  "enterDistance": 20,
+  "condComb": "LOGIC_NONE",
+  "nameTextMapHash": 1602583825
+ },
+ {
+  "goalTextMapHash": 2118967193,
+  "condVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_COND_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_COND_NONE",
+    "param1": 0
+   }
+  ],
+  "isBackup": false,
+  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_630",
+  "actionVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   }
+  ],
+  "descTextMapHash": 935396261,
+  "finishContent": {
+   "param2": 0,
+   "finishType": "ROUTINE_CHALLENGE_FINISH",
+   "param1": 0,
+   "progress": 1
+  },
+  "radarRadius": 10,
+  "groupId": 133008630,
+  "routineType": "ROUTINE_SNOW_MOUNTAIN",
+  "routineId": 10026,
+  "tag": 0,
+  "rewardId": 311001,
+  "exitDistance": 30,
+  "enterDistance": 20,
+  "condComb": "LOGIC_NONE",
+  "nameTextMapHash": 3665427041
+ },
+ {
+  "goalTextMapHash": 2997746105,
+  "condVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_COND_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_COND_NONE",
+    "param1": 0
+   }
+  ],
+  "isBackup": false,
+  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_631",
+  "actionVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   }
+  ],
+  "descTextMapHash": 2475364749,
+  "finishContent": {
+   "param2": 0,
+   "finishType": "ROUTINE_FINISH_KILL_MONSTER",
+   "param1": 0,
+   "progress": 2
+  },
+  "radarRadius": 10,
+  "groupId": 133008631,
+  "routineType": "ROUTINE_SNOW_MOUNTAIN",
+  "routineId": 10027,
+  "tag": 209,
+  "rewardId": 311001,
+  "exitDistance": 30,
+  "enterDistance": 20,
+  "condComb": "LOGIC_NONE",
+  "nameTextMapHash": 923728793
+ },
+ {
+  "goalTextMapHash": 397159569,
+  "condVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_COND_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_COND_NONE",
+    "param1": 0
+   }
+  ],
+  "isBackup": false,
+  "centerPosition": "ROUTINE_SNOW_MOUNTAIN_632",
+  "actionVec": [
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   },
+   {
+    "param2": 0,
+    "type": "ROUTINE_ACTION_NONE",
+    "param1": 0
+   }
+  ],
+  "descTextMapHash": 1264092605,
+  "finishContent": {
+   "param2": 0,
+   "finishType": "ROUTINE_FINISH_KILL_MONSTER",
+   "param1": 0,
+   "progress": 4
+  },
+  "radarRadius": 10,
+  "groupId": 133008632,
+  "routineType": "ROUTINE_SNOW_MOUNTAIN",
+  "routineId": 10028,
+  "tag": 209,
+  "rewardId": 311001,
+  "exitDistance": 30,
+  "enterDistance": 20,
+  "condComb": "LOGIC_NONE",
+  "nameTextMapHash": 4081102993
  }
 ]

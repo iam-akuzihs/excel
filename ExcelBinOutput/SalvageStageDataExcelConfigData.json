@@ -1,9 +1,6 @@
 [
  {
-  "salvageChallengeIdList": [
-   1,
-   2
-  ],
+  "unlockCondId": 2010402,
   "landGroupLinkList": [
    20104101,
    20104102,
@@ -17,15 +14,15 @@
    20104204,
    20104205
   ],
-  "unlockCondId": 2010402,
   "stageId": 1,
-  "startDay": 1
+  "startDay": 1,
+  "salvageChallengeIdList": [
+   1,
+   2
+  ]
  },
  {
-  "salvageChallengeIdList": [
-   3,
-   4
-  ],
+  "unlockCondId": 2010403,
   "landGroupLinkList": [
    20104104,
    20104105,
@@ -42,19 +39,22 @@
    20104212,
    20104213
   ],
-  "unlockCondId": 2010403,
   "stageId": 2,
-  "startDay": 3
+  "startDay": 3,
+  "salvageChallengeIdList": [
+   3,
+   4
+  ]
  },
  {
-  "salvageChallengeIdList": [
-   5
-  ],
+  "unlockCondId": 2010404,
   "landGroupLinkList": [],
   "unlockChallengeGroupLinkList": [],
   "seaGroupLinkList": [],
-  "unlockCondId": 2010404,
   "stageId": 3,
-  "startDay": 7
+  "startDay": 7,
+  "salvageChallengeIdList": [
+   5
+  ]
  }
 ]

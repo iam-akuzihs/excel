@@ -1,776 +1,776 @@
 [
  {
-  "challengeTitleTextMapHash": 2195739106,
   "priority": 0,
+  "challengeTitleTextMapHash": 2195739106,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_ELEMENT_BALL",
+   "paramList": [
+    "",
+    "",
+    ""
+   ]
+  },
   "mpPlayId": 1,
-  "isStore": false,
   "challengeDescTextMapHash": 2654357900,
-  "triggerConfig": {
-   "paramList": [
-    "",
-    "",
-    ""
-   ],
-   "triggerType": "TRIGGER_ELEMENT_BALL"
-  },
-  "progress": 1,
+  "isStore": false,
+  "isDisuse": true,
   "id": 2010101,
-  "isDisuse": true
+  "progress": 1
  },
  {
+  "priority": 99,
   "challengeTitleTextMapHash": 1982232602,
-  "priority": 99,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_CRUCIBLE_MAX_BALL",
+   "paramList": [
+    "",
+    "",
+    ""
+   ]
+  },
   "mpPlayId": 1,
-  "isStore": false,
   "challengeDescTextMapHash": 3769740116,
-  "triggerConfig": {
-   "paramList": [
-    "",
-    "",
-    ""
-   ],
-   "triggerType": "TRIGGER_CRUCIBLE_MAX_BALL"
-  },
-  "progress": 1,
+  "isStore": false,
+  "isDisuse": false,
   "id": 2010102,
-  "isDisuse": false
+  "progress": 1
  },
  {
-  "challengeTitleTextMapHash": 2859821330,
   "priority": 99,
+  "challengeTitleTextMapHash": 2859821330,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_CRUCIBLE_MAX_SCORE",
+   "paramList": [
+    "",
+    "",
+    ""
+   ]
+  },
   "mpPlayId": 1,
-  "isStore": false,
   "challengeDescTextMapHash": 773193068,
-  "triggerConfig": {
-   "paramList": [
-    "",
-    "",
-    ""
-   ],
-   "triggerType": "TRIGGER_CRUCIBLE_MAX_SCORE"
-  },
-  "progress": 1,
+  "isStore": false,
+  "isDisuse": false,
   "id": 2010103,
-  "isDisuse": false
+  "progress": 1
  },
  {
-  "challengeTitleTextMapHash": 1519366290,
   "priority": 9,
+  "challengeTitleTextMapHash": 1519366290,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_KILL_GROUP_MONSTER",
+   "paramList": [
+    "305001001,133003549,133003550,133003554,133003555,133003556,133003557,133003568",
+    "",
+    ""
+   ]
+  },
   "mpPlayId": 1,
-  "isStore": false,
   "challengeDescTextMapHash": 3688133772,
-  "triggerConfig": {
-   "paramList": [
-    "305001001,133003549,133003550,133003554,133003555,133003556,133003557,133003568",
-    "",
-    ""
-   ],
-   "triggerType": "TRIGGER_KILL_GROUP_MONSTER"
-  },
-  "progress": 5,
+  "isStore": false,
+  "isDisuse": false,
   "id": 2010104,
-  "isDisuse": false
+  "progress": 5
  },
  {
-  "challengeTitleTextMapHash": 1898568234,
   "priority": 20,
+  "challengeTitleTextMapHash": 1898568234,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_KILL_GROUP_MONSTER",
+   "paramList": [
+    "305001001,133003549,133003550,133003554,133003555,133003556,133003557,133003568",
+    "",
+    ""
+   ]
+  },
   "mpPlayId": 1,
-  "isStore": false,
   "challengeDescTextMapHash": 845623444,
-  "triggerConfig": {
-   "paramList": [
-    "305001001,133003549,133003550,133003554,133003555,133003556,133003557,133003568",
-    "",
-    ""
-   ],
-   "triggerType": "TRIGGER_KILL_GROUP_MONSTER"
-  },
-  "progress": 10,
+  "isStore": false,
+  "isDisuse": false,
   "id": 2010105,
-  "isDisuse": false
+  "progress": 10
  },
  {
-  "challengeTitleTextMapHash": 2299384682,
   "priority": 40,
-  "mpPlayId": 1,
-  "isStore": false,
-  "challengeDescTextMapHash": 722178940,
+  "challengeTitleTextMapHash": 2299384682,
   "triggerConfig": {
+   "triggerType": "TRIGGER_KILL_GROUP_MONSTER",
    "paramList": [
     "305001001,133003549,133003550,133003554,133003555,133003556,133003557,133003568",
     "",
     ""
-   ],
-   "triggerType": "TRIGGER_KILL_GROUP_MONSTER"
+   ]
   },
-  "progress": 15,
+  "mpPlayId": 1,
+  "challengeDescTextMapHash": 722178940,
+  "isStore": false,
+  "isDisuse": false,
   "id": 2010106,
-  "isDisuse": false
+  "progress": 15
  },
  {
-  "challengeTitleTextMapHash": 3751225258,
   "priority": 8,
+  "challengeTitleTextMapHash": 3751225258,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_CRUCIBLE_SUBMIT_BALL",
+   "paramList": [
+    "0",
+    "",
+    ""
+   ]
+  },
   "mpPlayId": 1,
-  "isStore": false,
   "challengeDescTextMapHash": 1625957476,
-  "triggerConfig": {
-   "paramList": [
-    "0",
-    "",
-    ""
-   ],
-   "triggerType": "TRIGGER_CRUCIBLE_SUBMIT_BALL"
-  },
-  "progress": 10,
+  "isStore": false,
+  "isDisuse": false,
   "id": 2010107,
-  "isDisuse": false
+  "progress": 10
  },
  {
-  "challengeTitleTextMapHash": 2025571994,
   "priority": 19,
+  "challengeTitleTextMapHash": 2025571994,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_CRUCIBLE_SUBMIT_BALL",
+   "paramList": [
+    "0",
+    "",
+    ""
+   ]
+  },
   "mpPlayId": 1,
-  "isStore": false,
   "challengeDescTextMapHash": 2090237156,
-  "triggerConfig": {
-   "paramList": [
-    "0",
-    "",
-    ""
-   ],
-   "triggerType": "TRIGGER_CRUCIBLE_SUBMIT_BALL"
-  },
-  "progress": 15,
+  "isStore": false,
+  "isDisuse": false,
   "id": 2010108,
-  "isDisuse": false
+  "progress": 15
  },
  {
-  "challengeTitleTextMapHash": 1899363362,
   "priority": 30,
-  "mpPlayId": 1,
-  "isStore": false,
-  "challengeDescTextMapHash": 3117588,
+  "challengeTitleTextMapHash": 1899363362,
   "triggerConfig": {
+   "triggerType": "TRIGGER_CRUCIBLE_SUBMIT_BALL",
    "paramList": [
     "0",
     "",
     ""
-   ],
-   "triggerType": "TRIGGER_CRUCIBLE_SUBMIT_BALL"
+   ]
   },
-  "progress": 20,
+  "mpPlayId": 1,
+  "challengeDescTextMapHash": 3117588,
+  "isStore": false,
+  "isDisuse": false,
   "id": 2010109,
-  "isDisuse": false
+  "progress": 20
  },
  {
-  "challengeTitleTextMapHash": 3148143994,
   "priority": 10,
+  "challengeTitleTextMapHash": 3148143994,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_CRUCIBLE_ELEMENT_SCORE",
+   "paramList": [
+    "",
+    "",
+    ""
+   ]
+  },
   "mpPlayId": 1,
-  "isStore": false,
   "challengeDescTextMapHash": 1891962004,
-  "triggerConfig": {
-   "paramList": [
-    "",
-    "",
-    ""
-   ],
-   "triggerType": "TRIGGER_CRUCIBLE_ELEMENT_SCORE"
-  },
-  "progress": 10000,
+  "isStore": false,
+  "isDisuse": false,
   "id": 2010110,
-  "isDisuse": false
+  "progress": 10000
  },
  {
-  "challengeTitleTextMapHash": 593452714,
   "priority": 50,
+  "challengeTitleTextMapHash": 593452714,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_CRUCIBLE_ELEMENT_SCORE",
+   "paramList": [
+    "",
+    "",
+    ""
+   ]
+  },
   "mpPlayId": 1,
-  "isStore": false,
   "challengeDescTextMapHash": 1764768676,
-  "triggerConfig": {
-   "paramList": [
-    "",
-    "",
-    ""
-   ],
-   "triggerType": "TRIGGER_CRUCIBLE_ELEMENT_SCORE"
-  },
-  "progress": 20000,
+  "isStore": false,
+  "isDisuse": false,
   "id": 2010111,
-  "isDisuse": false
+  "progress": 20000
  },
  {
-  "challengeTitleTextMapHash": 4084880994,
   "priority": 100,
-  "mpPlayId": 1,
-  "isStore": false,
-  "challengeDescTextMapHash": 1395777212,
+  "challengeTitleTextMapHash": 4084880994,
   "triggerConfig": {
+   "triggerType": "TRIGGER_CRUCIBLE_ELEMENT_SCORE",
    "paramList": [
     "",
     "",
     ""
-   ],
-   "triggerType": "TRIGGER_CRUCIBLE_ELEMENT_SCORE"
+   ]
   },
-  "progress": 30000,
+  "mpPlayId": 1,
+  "challengeDescTextMapHash": 1395777212,
+  "isStore": false,
+  "isDisuse": false,
   "id": 2010112,
-  "isDisuse": false
+  "progress": 30000
  },
  {
-  "challengeTitleTextMapHash": 3670554322,
   "priority": 31,
-  "mpPlayId": 1,
-  "isStore": false,
-  "challengeDescTextMapHash": 4095657524,
+  "challengeTitleTextMapHash": 3670554322,
   "triggerConfig": {
+   "triggerType": "TRIGGER_CRUCIBLE_SUBMIT_BALL",
    "paramList": [
     "1",
     "",
     ""
-   ],
-   "triggerType": "TRIGGER_CRUCIBLE_SUBMIT_BALL"
+   ]
   },
-  "progress": 10,
+  "mpPlayId": 1,
+  "challengeDescTextMapHash": 4095657524,
+  "isStore": false,
+  "isDisuse": false,
   "id": 2010113,
-  "isDisuse": false
+  "progress": 10
  },
  {
-  "challengeTitleTextMapHash": 3361192866,
   "priority": 31,
-  "mpPlayId": 1,
-  "isStore": false,
-  "challengeDescTextMapHash": 221984292,
+  "challengeTitleTextMapHash": 3361192866,
   "triggerConfig": {
+   "triggerType": "TRIGGER_CRUCIBLE_SUBMIT_BALL",
    "paramList": [
     "2",
     "",
     ""
-   ],
-   "triggerType": "TRIGGER_CRUCIBLE_SUBMIT_BALL"
+   ]
   },
-  "progress": 10,
+  "mpPlayId": 1,
+  "challengeDescTextMapHash": 221984292,
+  "isStore": false,
+  "isDisuse": false,
   "id": 2010114,
-  "isDisuse": false
+  "progress": 10
  },
  {
-  "challengeTitleTextMapHash": 3264693634,
   "priority": 31,
-  "mpPlayId": 1,
-  "isStore": false,
-  "challengeDescTextMapHash": 114528260,
+  "challengeTitleTextMapHash": 3264693634,
   "triggerConfig": {
+   "triggerType": "TRIGGER_CRUCIBLE_SUBMIT_BALL",
    "paramList": [
     "3",
     "",
     ""
-   ],
-   "triggerType": "TRIGGER_CRUCIBLE_SUBMIT_BALL"
+   ]
   },
-  "progress": 10,
+  "mpPlayId": 1,
+  "challengeDescTextMapHash": 114528260,
+  "isStore": false,
+  "isDisuse": false,
   "id": 2010115,
-  "isDisuse": false
+  "progress": 10
  },
  {
-  "challengeTitleTextMapHash": 3094510050,
   "priority": 31,
-  "mpPlayId": 1,
-  "isStore": false,
-  "challengeDescTextMapHash": 4205024628,
+  "challengeTitleTextMapHash": 3094510050,
   "triggerConfig": {
+   "triggerType": "TRIGGER_CRUCIBLE_SUBMIT_BALL",
    "paramList": [
     "4",
     "",
     ""
-   ],
-   "triggerType": "TRIGGER_CRUCIBLE_SUBMIT_BALL"
+   ]
   },
-  "progress": 10,
+  "mpPlayId": 1,
+  "challengeDescTextMapHash": 4205024628,
+  "isStore": false,
+  "isDisuse": false,
   "id": 2010116,
-  "isDisuse": false
+  "progress": 10
  },
  {
-  "challengeTitleTextMapHash": 2091559258,
   "priority": 31,
-  "mpPlayId": 1,
-  "isStore": false,
-  "challengeDescTextMapHash": 1002266324,
+  "challengeTitleTextMapHash": 2091559258,
   "triggerConfig": {
+   "triggerType": "TRIGGER_CRUCIBLE_SUBMIT_BALL",
    "paramList": [
     "5",
     "",
     ""
-   ],
-   "triggerType": "TRIGGER_CRUCIBLE_SUBMIT_BALL"
+   ]
   },
-  "progress": 10,
+  "mpPlayId": 1,
+  "challengeDescTextMapHash": 1002266324,
+  "isStore": false,
+  "isDisuse": false,
   "id": 2010117,
-  "isDisuse": false
+  "progress": 10
  },
  {
-  "challengeTitleTextMapHash": 4072626642,
   "priority": 31,
-  "mpPlayId": 1,
-  "isStore": false,
-  "challengeDescTextMapHash": 2702170444,
+  "challengeTitleTextMapHash": 4072626642,
   "triggerConfig": {
+   "triggerType": "TRIGGER_CRUCIBLE_SUBMIT_BALL",
    "paramList": [
     "7",
     "",
     ""
-   ],
-   "triggerType": "TRIGGER_CRUCIBLE_SUBMIT_BALL"
+   ]
   },
-  "progress": 10,
+  "mpPlayId": 1,
+  "challengeDescTextMapHash": 2702170444,
+  "isStore": false,
+  "isDisuse": false,
   "id": 2010118,
-  "isDisuse": false
+  "progress": 10
  },
  {
-  "challengeTitleTextMapHash": 923190698,
   "priority": 31,
-  "mpPlayId": 1,
-  "isStore": false,
-  "challengeDescTextMapHash": 2430136620,
+  "challengeTitleTextMapHash": 923190698,
   "triggerConfig": {
+   "triggerType": "TRIGGER_CRUCIBLE_SUBMIT_BALL",
    "paramList": [
     "8",
     "",
     ""
-   ],
-   "triggerType": "TRIGGER_CRUCIBLE_SUBMIT_BALL"
+   ]
   },
-  "progress": 10,
+  "mpPlayId": 1,
+  "challengeDescTextMapHash": 2430136620,
+  "isStore": false,
+  "isDisuse": false,
   "id": 2010119,
-  "isDisuse": false
+  "progress": 10
  },
  {
+  "priority": 0,
   "challengeTitleTextMapHash": 3460196562,
-  "priority": 0,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_KILL_GROUP_MONSTER",
+   "paramList": [
+    "133002418",
+    "",
+    ""
+   ]
+  },
   "mpPlayId": 3,
-  "isStore": true,
   "challengeDescTextMapHash": 3516964116,
-  "triggerConfig": {
-   "paramList": [
-    "133002418",
-    "",
-    ""
-   ],
-   "triggerType": "TRIGGER_KILL_GROUP_MONSTER"
-  },
-  "progress": 1,
+  "isStore": true,
+  "isDisuse": false,
   "id": 3010101,
-  "isDisuse": false
+  "progress": 1
  },
  {
+  "priority": 0,
   "challengeTitleTextMapHash": 2131537874,
-  "priority": 0,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_KILL_GROUP_MONSTER",
+   "paramList": [
+    "133002418",
+    "",
+    ""
+   ]
+  },
   "mpPlayId": 3,
-  "isStore": true,
   "challengeDescTextMapHash": 3674651572,
-  "triggerConfig": {
-   "paramList": [
-    "133002418",
-    "",
-    ""
-   ],
-   "triggerType": "TRIGGER_KILL_GROUP_MONSTER"
-  },
-  "progress": 5,
+  "isStore": true,
+  "isDisuse": false,
   "id": 3010102,
-  "isDisuse": false
+  "progress": 5
  },
  {
-  "challengeTitleTextMapHash": 1713981458,
   "priority": 0,
-  "mpPlayId": 3,
-  "isStore": true,
-  "challengeDescTextMapHash": 1359590740,
+  "challengeTitleTextMapHash": 1713981458,
   "triggerConfig": {
+   "triggerType": "TRIGGER_KILL_GROUP_MONSTER",
    "paramList": [
     "133002418",
     "",
     ""
-   ],
-   "triggerType": "TRIGGER_KILL_GROUP_MONSTER"
+   ]
   },
-  "progress": 10,
+  "mpPlayId": 3,
+  "challengeDescTextMapHash": 1359590740,
+  "isStore": true,
+  "isDisuse": false,
   "id": 3010103,
-  "isDisuse": false
+  "progress": 10
  },
  {
+  "priority": 0,
   "challengeTitleTextMapHash": 2543188794,
-  "priority": 0,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
+   "paramList": [
+    "AVATAR_ICESHIELD_KILL_COUNT",
+    "1",
+    "4"
+   ]
+  },
   "mpPlayId": 3,
-  "isStore": true,
   "challengeDescTextMapHash": 2895236060,
-  "triggerConfig": {
-   "paramList": [
-    "AVATAR_ICESHIELD_KILL_COUNT",
-    "1",
-    "4"
-   ],
-   "triggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC"
-  },
-  "progress": 1,
+  "isStore": true,
+  "isDisuse": false,
   "id": 3010104,
-  "isDisuse": false
+  "progress": 1
  },
  {
-  "challengeTitleTextMapHash": 4271030970,
   "priority": 0,
-  "mpPlayId": 3,
-  "isStore": true,
-  "challengeDescTextMapHash": 374794020,
+  "challengeTitleTextMapHash": 4271030970,
   "triggerConfig": {
+   "triggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
    "paramList": [
     "AVATAR_ICESHIELD_KILL_COUNT",
     "2",
     "4"
-   ],
-   "triggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC"
+   ]
   },
-  "progress": 1,
+  "mpPlayId": 3,
+  "challengeDescTextMapHash": 374794020,
+  "isStore": true,
+  "isDisuse": false,
   "id": 3010105,
-  "isDisuse": false
+  "progress": 1
  },
  {
-  "challengeTitleTextMapHash": 1280373154,
   "priority": 0,
-  "mpPlayId": 3,
-  "isStore": true,
-  "challengeDescTextMapHash": 2937262180,
+  "challengeTitleTextMapHash": 1280373154,
   "triggerConfig": {
+   "triggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
    "paramList": [
     "AVATAR_ICESHIELD_KILL_COUNT",
     "3",
     "4"
-   ],
-   "triggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC"
+   ]
   },
-  "progress": 1,
+  "mpPlayId": 3,
+  "challengeDescTextMapHash": 2937262180,
+  "isStore": true,
+  "isDisuse": false,
   "id": 3010106,
-  "isDisuse": false
+  "progress": 1
  },
  {
-  "challengeTitleTextMapHash": 2787777378,
   "priority": 0,
-  "mpPlayId": 3,
-  "isStore": true,
-  "challengeDescTextMapHash": 3982447332,
+  "challengeTitleTextMapHash": 2787777378,
   "triggerConfig": {
+   "triggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
    "paramList": [
     "AVATAR_SPECIALICE_KILL_COUNT",
     "1",
     "4"
-   ],
-   "triggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC"
+   ]
   },
-  "progress": 1,
+  "mpPlayId": 3,
+  "challengeDescTextMapHash": 3982447332,
+  "isStore": true,
+  "isDisuse": false,
   "id": 3010107,
-  "isDisuse": false
+  "progress": 1
  },
  {
-  "challengeTitleTextMapHash": 1639355378,
   "priority": 0,
-  "mpPlayId": 3,
-  "isStore": true,
-  "challengeDescTextMapHash": 3290335052,
+  "challengeTitleTextMapHash": 1639355378,
   "triggerConfig": {
+   "triggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
    "paramList": [
     "AVATAR_SPECIALICE_KILL_COUNT",
     "2",
     "4"
-   ],
-   "triggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC"
+   ]
   },
-  "progress": 1,
+  "mpPlayId": 3,
+  "challengeDescTextMapHash": 3290335052,
+  "isStore": true,
+  "isDisuse": false,
   "id": 3010108,
-  "isDisuse": false
+  "progress": 1
  },
  {
-  "challengeTitleTextMapHash": 1582449522,
   "priority": 0,
-  "mpPlayId": 3,
-  "isStore": true,
-  "challengeDescTextMapHash": 4042852868,
+  "challengeTitleTextMapHash": 1582449522,
   "triggerConfig": {
+   "triggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
    "paramList": [
     "AVATAR_SPECIALICE_KILL_COUNT",
     "3",
     "4"
-   ],
-   "triggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC"
+   ]
   },
-  "progress": 1,
+  "mpPlayId": 3,
+  "challengeDescTextMapHash": 4042852868,
+  "isStore": true,
+  "isDisuse": false,
   "id": 3010109,
-  "isDisuse": false
+  "progress": 1
  },
  {
-  "challengeTitleTextMapHash": 1269146210,
   "priority": 0,
-  "mpPlayId": 3,
-  "isStore": true,
-  "challengeDescTextMapHash": 724364972,
+  "challengeTitleTextMapHash": 1269146210,
   "triggerConfig": {
+   "triggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
    "paramList": [
     "AVATAR_OREDULINSBLOOD_PICK_COUNT",
     "5",
     "4"
-   ],
-   "triggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC"
+   ]
   },
-  "progress": 1,
+  "mpPlayId": 3,
+  "challengeDescTextMapHash": 724364972,
+  "isStore": true,
+  "isDisuse": false,
   "id": 3010110,
-  "isDisuse": false
+  "progress": 1
  },
  {
-  "challengeTitleTextMapHash": 642812298,
   "priority": 0,
-  "mpPlayId": 3,
-  "isStore": true,
-  "challengeDescTextMapHash": 2572443300,
+  "challengeTitleTextMapHash": 642812298,
   "triggerConfig": {
+   "triggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
    "paramList": [
     "AVATAR_OREDULINSBLOOD_PICK_COUNT",
     "10",
     "4"
-   ],
-   "triggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC"
+   ]
   },
-  "progress": 1,
+  "mpPlayId": 3,
+  "challengeDescTextMapHash": 2572443300,
+  "isStore": true,
+  "isDisuse": false,
   "id": 3010111,
-  "isDisuse": false
+  "progress": 1
  },
  {
-  "challengeTitleTextMapHash": 1274703458,
   "priority": 0,
-  "mpPlayId": 3,
-  "isStore": true,
-  "challengeDescTextMapHash": 1906535188,
+  "challengeTitleTextMapHash": 1274703458,
   "triggerConfig": {
+   "triggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
    "paramList": [
     "AVATAR_OREDULINSBLOOD_PICK_COUNT",
     "15",
     "4"
-   ],
-   "triggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC"
+   ]
   },
-  "progress": 1,
+  "mpPlayId": 3,
+  "challengeDescTextMapHash": 1906535188,
+  "isStore": true,
+  "isDisuse": false,
   "id": 3010112,
-  "isDisuse": false
+  "progress": 1
  },
  {
-  "challengeTitleTextMapHash": 2286998394,
   "priority": 0,
-  "mpPlayId": 3,
-  "isStore": true,
-  "challengeDescTextMapHash": 2767320436,
+  "challengeTitleTextMapHash": 2286998394,
   "triggerConfig": {
+   "triggerType": "TRIGGER_KILL_GROUP_SPECIFIC_MONSTER",
    "paramList": [
     "133002418",
     "418001",
     ""
-   ],
-   "triggerType": "TRIGGER_KILL_GROUP_SPECIFIC_MONSTER"
+   ]
   },
-  "progress": 1,
+  "mpPlayId": 3,
+  "challengeDescTextMapHash": 2767320436,
+  "isStore": true,
+  "isDisuse": false,
   "id": 3010113,
-  "isDisuse": false
+  "progress": 1
  },
  {
-  "challengeTitleTextMapHash": 2908718194,
   "priority": 0,
-  "mpPlayId": 3,
-  "isStore": true,
-  "challengeDescTextMapHash": 4016340956,
+  "challengeTitleTextMapHash": 2908718194,
   "triggerConfig": {
+   "triggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
    "paramList": [
     "AVATAR_ICESHIELD_KILL_COUNT",
     "0",
     "1"
-   ],
-   "triggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC"
+   ]
   },
-  "progress": 1,
+  "mpPlayId": 3,
+  "challengeDescTextMapHash": 4016340956,
+  "isStore": true,
+  "isDisuse": false,
   "id": 3010114,
-  "isDisuse": false
+  "progress": 1
  },
  {
-  "challengeTitleTextMapHash": 3398444402,
   "priority": 0,
-  "mpPlayId": 3,
-  "isStore": true,
-  "challengeDescTextMapHash": 2183439764,
+  "challengeTitleTextMapHash": 3398444402,
   "triggerConfig": {
+   "triggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
    "paramList": [
     "AVATAR_SPECIALICE_KILL_COUNT",
     "0",
     "1"
-   ],
-   "triggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC"
+   ]
   },
-  "progress": 1,
+  "mpPlayId": 3,
+  "challengeDescTextMapHash": 2183439764,
+  "isStore": true,
+  "isDisuse": false,
   "id": 3010115,
-  "isDisuse": false
+  "progress": 1
  },
  {
-  "challengeTitleTextMapHash": 96419506,
   "priority": 0,
-  "mpPlayId": 3,
-  "isStore": true,
-  "challengeDescTextMapHash": 955120972,
+  "challengeTitleTextMapHash": 96419506,
   "triggerConfig": {
+   "triggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
    "paramList": [
     "Watcher_SnowMountain_3010116",
     "Watcher_SnowMountain_MPPlay",
     ""
-   ],
-   "triggerType": "TRIGGER_COMBAT_CONFIG_COMMON"
+   ]
   },
-  "progress": 1,
+  "mpPlayId": 3,
+  "challengeDescTextMapHash": 955120972,
+  "isStore": true,
+  "isDisuse": false,
   "id": 3010116,
-  "isDisuse": false
+  "progress": 1
  },
  {
-  "challengeTitleTextMapHash": 2855381586,
   "priority": 0,
-  "mpPlayId": 4,
-  "isStore": true,
-  "challengeDescTextMapHash": 1682418356,
+  "challengeTitleTextMapHash": 2855381586,
   "triggerConfig": {
+   "triggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
    "paramList": [
     "ACT_OCEANID_Use_Lift",
     "1",
     "4"
-   ],
-   "triggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC"
+   ]
   },
-  "progress": 1,
+  "mpPlayId": 4,
+  "challengeDescTextMapHash": 1682418356,
+  "isStore": true,
+  "isDisuse": false,
   "id": 2040401,
-  "isDisuse": false
+  "progress": 1
  },
  {
-  "challengeTitleTextMapHash": 2518001978,
   "priority": 0,
-  "mpPlayId": 4,
-  "isStore": true,
-  "challengeDescTextMapHash": 2694017516,
+  "challengeTitleTextMapHash": 2518001978,
   "triggerConfig": {
+   "triggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
    "paramList": [
     "ACT_OCEANID_Use_Lift",
     "0",
     "1"
-   ],
-   "triggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC"
+   ]
   },
-  "progress": 1,
+  "mpPlayId": 4,
+  "challengeDescTextMapHash": 2694017516,
+  "isStore": true,
+  "isDisuse": false,
   "id": 2040402,
-  "isDisuse": false
+  "progress": 1
  },
  {
-  "challengeTitleTextMapHash": 3789865170,
   "priority": 0,
-  "mpPlayId": 4,
-  "isStore": true,
-  "challengeDescTextMapHash": 137338380,
+  "challengeTitleTextMapHash": 3789865170,
   "triggerConfig": {
+   "triggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
    "paramList": [
     "ACT_OCEANID_Endure_Boss_EX_Skill",
     "1",
     "4"
-   ],
-   "triggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC"
+   ]
   },
-  "progress": 1,
+  "mpPlayId": 4,
+  "challengeDescTextMapHash": 137338380,
+  "isStore": true,
+  "isDisuse": false,
   "id": 2040403,
-  "isDisuse": false
+  "progress": 1
  },
  {
-  "challengeTitleTextMapHash": 4182049682,
   "priority": 0,
-  "mpPlayId": 4,
-  "isStore": true,
-  "challengeDescTextMapHash": 1852056468,
+  "challengeTitleTextMapHash": 4182049682,
   "triggerConfig": {
+   "triggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
    "paramList": [
     "ACT_OCEANID_Summon_In_Advance",
     "1",
     "4"
-   ],
-   "triggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC"
+   ]
   },
-  "progress": 1,
+  "mpPlayId": 4,
+  "challengeDescTextMapHash": 1852056468,
+  "isStore": true,
+  "isDisuse": false,
   "id": 2040404,
-  "isDisuse": false
+  "progress": 1
  },
  {
-  "challengeTitleTextMapHash": 2698668274,
   "priority": 0,
-  "mpPlayId": 4,
-  "isStore": true,
-  "challengeDescTextMapHash": 108125332,
+  "challengeTitleTextMapHash": 2698668274,
   "triggerConfig": {
+   "triggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
    "paramList": [
     "ACT_OCEANID_FallingAttack_Crab",
     "1",
     "4"
-   ],
-   "triggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC"
+   ]
   },
-  "progress": 1,
+  "mpPlayId": 4,
+  "challengeDescTextMapHash": 108125332,
+  "isStore": true,
+  "isDisuse": false,
   "id": 2040405,
-  "isDisuse": false
+  "progress": 1
  },
  {
-  "challengeTitleTextMapHash": 3927958082,
   "priority": 0,
-  "mpPlayId": 4,
-  "isStore": true,
-  "challengeDescTextMapHash": 870088220,
+  "challengeTitleTextMapHash": 3927958082,
   "triggerConfig": {
+   "triggerType": "TRIGGER_KILL_GROUP_SPECIFIC_MONSTER",
    "paramList": [
     "133102112",
     "112011",
     ""
-   ],
-   "triggerType": "TRIGGER_KILL_GROUP_SPECIFIC_MONSTER"
+   ]
   },
-  "progress": 1,
+  "mpPlayId": 4,
+  "challengeDescTextMapHash": 870088220,
+  "isStore": true,
+  "isDisuse": false,
   "id": 2040406,
-  "isDisuse": false
+  "progress": 1
  },
  {
-  "challengeTitleTextMapHash": 3175766426,
   "priority": 0,
-  "mpPlayId": 4,
-  "isStore": true,
-  "challengeDescTextMapHash": 3026277532,
+  "challengeTitleTextMapHash": 3175766426,
   "triggerConfig": {
+   "triggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
    "paramList": [
     "ACT_OCEANID_Endure_Boss_EX_Skill",
     "2",
     "4"
-   ],
-   "triggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC"
+   ]
   },
-  "progress": 1,
+  "mpPlayId": 4,
+  "challengeDescTextMapHash": 3026277532,
+  "isStore": true,
+  "isDisuse": false,
   "id": 2040407,
-  "isDisuse": false
+  "progress": 1
  },
  {
-  "challengeTitleTextMapHash": 2282322490,
   "priority": 0,
-  "mpPlayId": 4,
-  "isStore": true,
-  "challengeDescTextMapHash": 4136851564,
+  "challengeTitleTextMapHash": 2282322490,
   "triggerConfig": {
+   "triggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC",
    "paramList": [
     "ACT_OCEANID_Endure_Boss_EX_Skill",
     "3",
     "4"
-   ],
-   "triggerType": "TRIGGER_MP_PLAY_GROUP_STATISTIC"
+   ]
   },
-  "progress": 1,
+  "mpPlayId": 4,
+  "challengeDescTextMapHash": 4136851564,
+  "isStore": true,
+  "isDisuse": false,
   "id": 2040408,
-  "isDisuse": false
+  "progress": 1
  }
 ]
