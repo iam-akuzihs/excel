@@ -1,467 +1,450 @@
 [
  {
   "id": 1,
-  "radarHintType": "Oculus",
-  "name": "风元素结晶雷达提示",
-  "radius": 80,
+  "GJAJGGFGIGK": "风元素结晶雷达提示",
+  "IGNHBBMGECF": "Oculus",
+  "IOBAIBBNDOL": "Play_ui_feedback_windCrystal_appear",
+  "JJEOOHGKDHI": "BLINK",
   "iconName": "UI_MarkWindCrystal",
-  "audioName": "Play_ui_feedback_windCrystal_appear",
-  "banSubAreaIDList": [],
-  "effectType": "BLINK"
+  "OKJBMLAIPON": 80
  },
  {
   "id": 2,
-  "radarHintType": "Ore",
-  "name": "矿石雷达提示",
-  "radius": 160,
+  "GJAJGGFGIGK": "矿石雷达提示",
+  "IGNHBBMGECF": "Ore",
+  "JJEOOHGKDHI": "NONE",
   "iconName": "UI_MarkPoint_Ore",
-  "audioName": "",
-  "banSubAreaIDList": []
+  "OKJBMLAIPON": 160
  },
  {
   "id": 3,
-  "radarHintType": "HarvetGadget",
-  "name": "采集物雷达提示",
-  "radius": 160,
+  "GGFEIODNNJN": true,
+  "GJAJGGFGIGK": "采集物雷达提示",
+  "IGNHBBMGECF": "HarvetGadget",
+  "JJEOOHGKDHI": "NONE",
   "iconName": "UI_MarkPoint_LocalItem",
-  "audioName": "",
-  "showHeight": true,
-  "banSubAreaIDList": []
+  "OKJBMLAIPON": 160
  },
  {
+  "BBCFBDDJGIE": 20,
   "id": 4,
-  "radarHintType": "SmallMeteorite",
-  "name": "小陨石雷达提示",
-  "radius": 160,
-  "offsetRadius": 20,
-  "areaRadius": 30,
+  "GJAJGGFGIGK": "小陨石雷达提示",
+  "IGNHBBMGECF": "SmallMeteorite",
+  "IOBAIBBNDOL": "Play_ui_feedback_windCrystal_appear",
+  "JJEOOHGKDHI": "BLINK",
+  "KCMJMGONPFB": 30,
   "iconName": "UI_MarkPoint_LocalItem",
-  "audioName": "Play_ui_feedback_windCrystal_appear",
-  "banSubAreaIDList": [],
-  "effectType": "BLINK"
+  "OKJBMLAIPON": 160
  },
  {
   "id": 5,
-  "radarHintType": "General",
-  "name": "绯红玉髓雷达提示",
-  "radius": 80,
+  "GJAJGGFGIGK": "绯红玉髓雷达提示",
+  "IGNHBBMGECF": "General",
+  "IOBAIBBNDOL": "Play_ui_feedback_windCrystal_appear",
+  "JJEOOHGKDHI": "BLINK",
   "iconName": "UI_MarkPoint_DulinsEssence",
-  "audioName": "Play_ui_feedback_windCrystal_appear",
-  "banSubAreaIDList": [],
-  "effectType": "BLINK"
+  "OKJBMLAIPON": 80
  },
  {
   "id": 6,
-  "radarHintType": "General",
-  "name": "躲猫猫能量球雷达提示",
-  "radius": 160,
+  "GCJMJPJHHOA": true,
+  "GJAJGGFGIGK": "躲猫猫能量球雷达提示",
+  "IGNHBBMGECF": "General",
+  "JJEOOHGKDHI": "NONE",
   "iconName": "UI_MarkPoint_EnergyBall",
-  "audioName": "",
-  "banSubAreaIDList": [],
-  "JPNAEKAPOAF": true
+  "OKJBMLAIPON": 160
  },
  {
   "id": 7,
-  "radarHintType": "General",
-  "name": "回声海螺雷达提示",
-  "radius": 160,
+  "GJAJGGFGIGK": "回声海螺雷达提示",
+  "IGNHBBMGECF": "General",
+  "IOBAIBBNDOL": "Play_ui_feedback_windCrystal_appear",
+  "JJEOOHGKDHI": "BLINK",
   "iconName": "UI_MarkPoint_EchoShell",
-  "audioName": "Play_ui_feedback_windCrystal_appear",
-  "banSubAreaIDList": [],
-  "effectType": "BLINK"
+  "OKJBMLAIPON": 160
  },
  {
   "id": 8,
-  "radarHintType": "General",
-  "name": "逐月神瞳雷达提示",
-  "radius": 80,
+  "GJAJGGFGIGK": "逐月神瞳雷达提示",
+  "IGNHBBMGECF": "General",
+  "IOBAIBBNDOL": "Play_ui_feedback_windCrystal_appear",
+  "JJEOOHGKDHI": "BLINK",
   "iconName": "UI_MarkPonint_LunaRiteMoonlitSigil",
-  "audioName": "Play_ui_feedback_windCrystal_appear",
-  "banSubAreaIDList": [],
-  "effectType": "BLINK"
+  "OKJBMLAIPON": 80
  },
  {
   "id": 9,
-  "radarHintType": "ReginFeatherIntact",
-  "name": "鹤观羽毛雷达提示",
-  "radius": 80,
-  "AFMBJCBPNGH": true,
+  "GJAJGGFGIGK": "鹤观羽毛雷达提示",
+  "ICICOGMLEON": true,
+  "IGNHBBMGECF": "ReginFeatherIntact",
+  "IOBAIBBNDOL": "Play_ui_feedback_windCrystal_appear",
+  "JJEOOHGKDHI": "BLINK",
   "iconName": "UI_MarkPoint_ReginFeatherIntact",
-  "audioName": "Play_ui_feedback_windCrystal_appear",
-  "banSubAreaIDList": [],
-  "effectType": "BLINK"
+  "OKJBMLAIPON": 80
  },
  {
   "id": 10,
-  "radarHintType": "General",
-  "name": "鹤观栖木能量体雷达提示",
-  "radius": 80,
+  "GJAJGGFGIGK": "鹤观栖木能量体雷达提示",
+  "IGNHBBMGECF": "General",
+  "IOBAIBBNDOL": "Play_ui_feedback_windCrystal_appear",
+  "JJEOOHGKDHI": "BLINK",
   "iconName": "UI_MarkPoint_ReginEnergyBall",
-  "audioName": "Play_ui_feedback_windCrystal_appear",
-  "banSubAreaIDList": [],
-  "effectType": "BLINK"
+  "OKJBMLAIPON": 80
  },
  {
   "id": 11,
-  "radarHintType": "AbyssalisleHarvest",
-  "name": "渊下宫活动矿石雷达提示",
-  "radius": 160,
+  "GJAJGGFGIGK": "渊下宫活动矿石雷达提示",
+  "IGNHBBMGECF": "AbyssalisleHarvest",
+  "JJEOOHGKDHI": "NONE",
   "iconName": "UI_MarkPoint_Ore",
-  "audioName": "",
-  "banSubAreaIDList": []
+  "OKJBMLAIPON": 160
  },
  {
   "id": 12,
-  "radarHintType": "General",
-  "name": "海灯节群玉阁碎片箱子",
-  "radius": 160,
+  "GJAJGGFGIGK": "海灯节群玉阁碎片箱子",
+  "IGNHBBMGECF": "General",
+  "JJEOOHGKDHI": "BLINK",
   "iconName": "UI_MarkPoint_LanternRiteV2_Salvage_QunyugeDebris",
-  "audioName": "",
-  "banSubAreaIDList": [],
-  "effectType": "BLINK"
+  "OKJBMLAIPON": 160
  },
  {
   "id": 13,
-  "radarHintType": "General",
-  "name": "渊下宫键纹",
-  "radius": 80,
+  "GJAJGGFGIGK": "渊下宫键纹",
+  "IGNHBBMGECF": "General",
+  "IOBAIBBNDOL": "Play_ui_feedback_windCrystal_appear",
+  "JJEOOHGKDHI": "BLINK",
   "iconName": "UI_MarkPoint_Kagimon",
-  "audioName": "Play_ui_feedback_windCrystal_appear",
-  "banSubAreaIDList": [],
-  "effectType": "BLINK"
+  "OKJBMLAIPON": 80
  },
  {
   "id": 14,
-  "radarHintType": "AbyssalislePlant",
-  "name": "渊下宫活动植物雷达提示",
-  "radius": 160,
+  "GJAJGGFGIGK": "渊下宫活动植物雷达提示",
+  "IGNHBBMGECF": "AbyssalislePlant",
+  "JJEOOHGKDHI": "NONE",
   "iconName": "UI_MarkPoint_LocalItem",
-  "audioName": "",
-  "banSubAreaIDList": []
+  "OKJBMLAIPON": 160
  },
  {
   "id": 15,
-  "radarHintType": "General",
-  "name": "天空结晶雷达提示",
-  "radius": 80,
+  "GJAJGGFGIGK": "天空结晶雷达提示",
+  "IGNHBBMGECF": "General",
+  "IOBAIBBNDOL": "Play_ui_feedback_windCrystal_appear",
+  "JJEOOHGKDHI": "BLINK",
   "iconName": "UI_MarkPoint_CelestiaSplinter",
-  "audioName": "Play_ui_feedback_windCrystal_appear",
-  "banSubAreaIDList": [],
-  "effectType": "BLINK"
+  "OKJBMLAIPON": 80
  },
  {
   "id": 16,
-  "radarHintType": "General",
-  "name": "肉鸽地城入口",
-  "radius": 160,
+  "GJAJGGFGIGK": "肉鸽地城入口",
+  "IGNHBBMGECF": "General",
+  "JJEOOHGKDHI": "BLINK",
   "iconName": "UI_MarkPoint_RogueDiaryDungeon",
-  "audioName": "",
-  "banSubAreaIDList": [],
-  "effectType": "BLINK"
+  "OKJBMLAIPON": 160
  },
  {
   "id": 17,
-  "radarHintType": "General",
-  "name": "茧型空间",
-  "radius": 160,
+  "GJAJGGFGIGK": "茧型空间",
+  "IGNHBBMGECF": "General",
+  "JJEOOHGKDHI": "BLINK",
   "iconName": "UI_MarkPoint_RogueDiary",
-  "audioName": "",
-  "banSubAreaIDList": [],
-  "effectType": "BLINK"
+  "OKJBMLAIPON": 160
  },
  {
   "id": 18,
-  "radarHintType": "ActivityTreasureHuntBall",
-  "name": "寻宝仙灵能量球雷达提示",
-  "radius": 160,
+  "GGFEIODNNJN": true,
+  "GJAJGGFGIGK": "寻宝仙灵能量球雷达提示",
+  "IGNHBBMGECF": "ActivityTreasureHuntBall",
+  "IOBAIBBNDOL": "Play_UI_MarkPoint_TreasureHuntBall",
+  "JJEOOHGKDHI": "BLINK",
   "iconName": "UI_MarkPoint_TreasureHuntBall",
-  "audioName": "Play_UI_MarkPoint_TreasureHuntBall",
-  "showHeight": true,
-  "banSubAreaIDList": [],
-  "effectType": "BLINK"
+  "OKJBMLAIPON": 160
  },
  {
   "id": 19,
-  "radarHintType": "EchoShell",
-  "name": "2.8回声海螺",
-  "radius": 160,
+  "GJAJGGFGIGK": "2.8回声海螺",
+  "IGNHBBMGECF": "EchoShell",
+  "IOBAIBBNDOL": "Play_ui_feedback_windCrystal_appear",
+  "JJEOOHGKDHI": "BLINK",
   "iconName": "UI_MarkPoint_EchoShell",
-  "audioName": "Play_ui_feedback_windCrystal_appear",
-  "banSubAreaIDList": [],
-  "effectType": "BLINK"
+  "OKJBMLAIPON": 160
  },
  {
   "id": 20,
-  "radarHintType": "General",
-  "name": "未爆发死域雷达提示",
-  "radius": 160,
+  "GJAJGGFGIGK": "未爆发死域雷达提示",
+  "IGNHBBMGECF": "General",
+  "JJEOOHGKDHI": "BLINK",
   "iconName": "UI_MarkPoint_LensSmoke",
-  "audioName": "",
-  "banSubAreaIDList": [],
-  "effectType": "BLINK"
+  "OKJBMLAIPON": 160
  },
  {
   "id": 21,
-  "radarHintType": "ActivityVintagePresent",
-  "name": "3.1找礼物活动雷达提示",
-  "radius": 30,
+  "GJAJGGFGIGK": "3.1找礼物活动雷达提示",
+  "IGNHBBMGECF": "ActivityVintagePresent",
+  "JJEOOHGKDHI": "BLINK",
   "iconName": "UI_MarkPoint_Vintage1",
-  "audioName": "",
-  "banSubAreaIDList": [],
-  "effectType": "BLINK"
+  "OKJBMLAIPON": 30
  },
  {
   "id": 22,
-  "radarHintType": "General",
-  "name": "3.4精灵台座雷达提示",
-  "defaultDisable": true,
-  "radius": 160,
+  "GHGCBMNHGMN": true,
+  "GJAJGGFGIGK": "3.4精灵台座雷达提示",
+  "IGNHBBMGECF": "General",
+  "JJEOOHGKDHI": "BLINK",
   "iconName": "UI_MarkPoint_Refuge",
-  "audioName": "",
-  "banSubAreaIDList": [],
-  "effectType": "BLINK"
+  "OKJBMLAIPON": 160
  },
  {
   "id": 23,
-  "radarHintType": "General",
-  "name": "3.3短距寻物气球提示",
-  "radius": 160,
+  "GJAJGGFGIGK": "3.3短距寻物气球提示",
+  "IGNHBBMGECF": "General",
+  "JJEOOHGKDHI": "BLINK",
   "iconName": "UI_MarkPoint_CoinCollect_01",
-  "audioName": "",
-  "banSubAreaIDList": [],
-  "effectType": "BLINK"
+  "OKJBMLAIPON": 160
  },
  {
   "id": 24,
-  "radarHintType": "Oculus",
-  "name": "3.6花灵能量羽毛-探索",
-  "radius": 80,
+  "GJAJGGFGIGK": "3.6花灵能量羽毛-探索",
+  "IGNHBBMGECF": "Oculus",
+  "IOBAIBBNDOL": "Play_ui_feedback_windCrystal_appear",
+  "JJEOOHGKDHI": "BLINK",
   "iconName": "UI_MarkPoint_OfferingPari02",
-  "audioName": "Play_ui_feedback_windCrystal_appear",
-  "banSubAreaIDList": [],
-  "effectType": "BLINK"
+  "OKJBMLAIPON": 80
  },
  {
   "id": 25,
-  "radarHintType": "Oculus",
-  "name": "3.6花灵能量羽毛-交互",
-  "radius": 80,
+  "GJAJGGFGIGK": "3.6花灵能量羽毛-交互",
+  "IGNHBBMGECF": "Oculus",
+  "IOBAIBBNDOL": "Play_ui_feedback_windCrystal_appear",
+  "JJEOOHGKDHI": "BLINK",
   "iconName": "UI_MarkPoint_OfferingPari01",
-  "audioName": "Play_ui_feedback_windCrystal_appear",
-  "banSubAreaIDList": [],
-  "effectType": "BLINK"
+  "OKJBMLAIPON": 80
  },
  {
   "id": 26,
-  "radarHintType": "General",
-  "name": "3.6 供奉相关NPC地图Mark",
-  "radius": 80,
+  "GJAJGGFGIGK": "3.6 供奉相关NPC地图Mark",
+  "IGNHBBMGECF": "General",
+  "IOBAIBBNDOL": "Play_ui_feedback_windCrystal_appear",
+  "JJEOOHGKDHI": "BLINK",
   "iconName": "UI_MarkPoint_OfferingPari02",
-  "audioName": "Play_ui_feedback_windCrystal_appear",
-  "banSubAreaIDList": [],
-  "effectType": "BLINK"
+  "OKJBMLAIPON": 80
  },
  {
   "id": 27,
-  "radarHintType": "ActivityJourneySealSeek",
-  "name": "3.7卡牌巡礼活动印章台雷达提示",
-  "radius": 20,
+  "GJAJGGFGIGK": "3.7卡牌巡礼活动印章台雷达提示",
+  "IGNHBBMGECF": "ActivityJourneySealSeek",
+  "IOBAIBBNDOL": "Play_ui_feedback_windCrystal_appear",
+  "JJEOOHGKDHI": "BLINK",
   "iconName": "UI_MarkPoint_JoureySeal",
-  "audioName": "Play_ui_feedback_windCrystal_appear",
-  "banSubAreaIDList": [],
-  "effectType": "BLINK"
+  "OKJBMLAIPON": 20
  },
  {
   "id": 28,
-  "radarHintType": "Oculus",
-  "name": "3.6花灵能量羽毛-追逐移动",
-  "radius": 80,
-  "AFMBJCBPNGH": true,
+  "GJAJGGFGIGK": "3.6花灵能量羽毛-追逐移动",
+  "ICICOGMLEON": true,
+  "IGNHBBMGECF": "Oculus",
+  "IOBAIBBNDOL": "Play_ui_feedback_windCrystal_appear",
+  "JJEOOHGKDHI": "BLINK",
   "iconName": "UI_MarkPoint_OfferingPari02",
-  "audioName": "Play_ui_feedback_windCrystal_appear",
-  "banSubAreaIDList": [],
-  "effectType": "BLINK"
+  "OKJBMLAIPON": 80
  },
  {
   "id": 29,
-  "radarHintType": "ActivityPenAdvRaffleTicketBox",
-  "name": "3.8 奖券盒神瞳",
-  "radius": 80,
+  "GGFEIODNNJN": true,
+  "GJAJGGFGIGK": "3.8 奖券盒神瞳",
+  "IGNHBBMGECF": "ActivityPenAdvRaffleTicketBox",
+  "IOBAIBBNDOL": "Play_ui_feedback_windCrystal_appear",
+  "JJEOOHGKDHI": "BLINK",
   "iconName": "UI_MarkPoint_PenAdvRaffleTicket_Ball",
-  "audioName": "Play_ui_feedback_windCrystal_appear",
-  "showHeight": true,
-  "banSubAreaIDList": [],
-  "effectType": "BLINK"
+  "OKJBMLAIPON": 80
  },
  {
   "id": 30,
-  "radarHintType": "General",
-  "name": "4.0伪采集物雷达提示",
-  "radius": 80,
+  "GJAJGGFGIGK": "4.0伪采集物雷达提示",
+  "IGNHBBMGECF": "General",
+  "JJEOOHGKDHI": "NONE",
   "iconName": "UI_MarkPoint_Gather_Collect",
-  "audioName": "",
-  "banSubAreaIDList": []
+  "OKJBMLAIPON": 80
  },
  {
   "id": 31,
-  "radarHintType": "DivingFish",
-  "name": "体力鱼",
-  "radius": 80,
+  "GJAJGGFGIGK": "体力鱼",
+  "IGNHBBMGECF": "DivingFish",
+  "JJEOOHGKDHI": "NONE",
   "iconName": "UI_MarkPoint_Diving_Fish",
-  "audioName": "",
-  "banSubAreaIDList": []
+  "OKJBMLAIPON": 80
  },
  {
   "id": 32,
-  "radarHintType": "General",
-  "name": "4.2水下探索考古点",
-  "radius": 80,
-  "AFMBJCBPNGH": true,
+  "GJAJGGFGIGK": "4.2水下探索考古点",
+  "ICICOGMLEON": true,
+  "IGNHBBMGECF": "General",
+  "JJEOOHGKDHI": "NONE",
   "iconName": "UI_MarkPoint_Material",
-  "audioName": "",
-  "banSubAreaIDList": []
+  "OKJBMLAIPON": 80
  },
  {
   "id": 33,
-  "radarHintType": "Oculus",
-  "name": "4.4祀珑收集物提示",
-  "radius": 80,
+  "GJAJGGFGIGK": "4.4祀珑收集物提示",
+  "IGNHBBMGECF": "Oculus",
+  "IOBAIBBNDOL": "Play_ui_feedback_windCrystal_appear",
+  "JJEOOHGKDHI": "BLINK",
   "iconName": "UI_MarkPoint_Silong_Small",
-  "audioName": "Play_ui_feedback_windCrystal_appear",
-  "banSubAreaIDList": [],
-  "effectType": "BLINK"
+  "OKJBMLAIPON": 80
  },
  {
   "id": 34,
-  "radarHintType": "General",
-  "name": "4.6大鲸鱼",
-  "radius": 1000,
-  "AFMBJCBPNGH": true,
+  "GCJMJPJHHOA": true,
+  "GGFEIODNNJN": true,
+  "GJAJGGFGIGK": "4.6大鲸鱼",
+  "ICICOGMLEON": true,
+  "IGNHBBMGECF": "General",
+  "JJEOOHGKDHI": "BLINK",
   "iconName": "UI_MarkPoint_Whale",
-  "audioName": "",
-  "showHeight": true,
-  "banSubAreaIDList": [],
-  "effectType": "BLINK",
-  "JPNAEKAPOAF": true
+  "OKJBMLAIPON": 1000
  },
  {
   "id": 35,
-  "radarHintType": "General",
-  "name": "4.6躲猫猫四期-密码机",
-  "radius": 200,
+  "GGFEIODNNJN": true,
+  "GJAJGGFGIGK": "4.6躲猫猫四期-密码机",
+  "IGNHBBMGECF": "General",
+  "JJEOOHGKDHI": "BLINK",
   "iconName": "UI_MarkPoint_HideAndSeekV4_Machine",
-  "audioName": "",
-  "showHeight": true,
-  "banSubAreaIDList": [],
-  "effectType": "BLINK"
+  "OKJBMLAIPON": 200
  },
  {
   "id": 36,
-  "radarHintType": "HarvetGadget",
-  "name": "采集物雷达提示（会移动）",
-  "radius": 160,
-  "AFMBJCBPNGH": true,
+  "GJAJGGFGIGK": "采集物雷达提示（会移动）",
+  "ICICOGMLEON": true,
+  "IGNHBBMGECF": "HarvetGadget",
+  "JJEOOHGKDHI": "NONE",
   "iconName": "UI_MarkPoint_LocalItem",
-  "audioName": "",
-  "banSubAreaIDList": []
+  "OKJBMLAIPON": 160
  },
  {
   "id": 37,
-  "radarHintType": "HideAndSeekV4Hunter",
-  "name": "4.6躲猫猫四期-猎人Mark",
-  "radius": 200,
-  "AFMBJCBPNGH": true,
+  "GGFEIODNNJN": true,
+  "GJAJGGFGIGK": "4.6躲猫猫四期-猎人Mark",
+  "ICICOGMLEON": true,
+  "IGNHBBMGECF": "HideAndSeekV4Hunter",
+  "IOBAIBBNDOL": "Play_Ul_MarkPlaver_Seek_Mark",
+  "JJEOOHGKDHI": "NONE",
   "iconName": "UI_MarkPlayer_Seek",
-  "audioName": "Play_Ul_MarkPlaver_Seek_Mark",
-  "showHeight": true,
-  "banSubAreaIDList": []
+  "OKJBMLAIPON": 200
  },
  {
   "id": 38,
-  "radarHintType": "General",
-  "name": "4.6躲猫猫四期-插眼Mark",
-  "radius": 200,
+  "GGFEIODNNJN": true,
+  "GJAJGGFGIGK": "4.6躲猫猫四期-插眼Mark",
+  "IGNHBBMGECF": "General",
+  "JJEOOHGKDHI": "NONE",
   "iconName": "UI_MarkPoint_HideandSeekV4_Trap",
-  "audioName": "",
-  "showHeight": true,
-  "banSubAreaIDList": []
+  "OKJBMLAIPON": 200
  },
  {
   "id": 39,
-  "radarHintType": "General",
-  "name": "4.6猫猫",
-  "radius": 80,
-  "AFMBJCBPNGH": true,
+  "GGFEIODNNJN": true,
+  "GJAJGGFGIGK": "4.6猫猫",
+  "ICICOGMLEON": true,
+  "IGNHBBMGECF": "General",
+  "JJEOOHGKDHI": "BLINK",
   "iconName": "UI_MarkPoint_CatFavorability",
-  "audioName": "",
-  "showHeight": true,
-  "banSubAreaIDList": [],
-  "effectType": "BLINK"
+  "OKJBMLAIPON": 80
  },
  {
   "id": 40,
-  "radarHintType": "General",
-  "name": "5.0人龙合作",
-  "radius": 200,
-  "AFMBJCBPNGH": true,
+  "GCJMJPJHHOA": true,
+  "GGFEIODNNJN": true,
+  "GJAJGGFGIGK": "5.0人龙合作",
+  "ICICOGMLEON": true,
+  "IGNHBBMGECF": "General",
+  "JJEOOHGKDHI": "NONE",
   "iconName": "UI_MarkPoint_HumanDragonCollaboration_01",
-  "audioName": "",
-  "showHeight": true,
-  "banSubAreaIDList": [],
-  "JPNAEKAPOAF": true
+  "OKJBMLAIPON": 200
  },
  {
   "id": 41,
-  "radarHintType": "Oculus",
-  "name": "4.8魔法书页",
-  "radius": 80,
+  "GGFEIODNNJN": true,
+  "GJAJGGFGIGK": "4.8魔法书页",
+  "IGNHBBMGECF": "Oculus",
+  "IOBAIBBNDOL": "Play_ui_feedback_windCrystal_appear",
+  "JJEOOHGKDHI": "BLINK",
   "iconName": "UI_MarkPoint_FairyTales_RadarIcon_Plane",
-  "audioName": "Play_ui_feedback_windCrystal_appear",
-  "showHeight": true,
-  "banSubAreaIDList": [],
-  "effectType": "BLINK"
+  "OKJBMLAIPON": 80
  },
  {
   "id": 42,
-  "radarHintType": "General",
-  "name": "5.0伪采集物雷达提示",
-  "radius": 80,
+  "GGFEIODNNJN": true,
+  "GJAJGGFGIGK": "5.0伪采集物雷达提示",
+  "IGNHBBMGECF": "General",
+  "JJEOOHGKDHI": "NONE",
   "iconName": "UI_MarkPoint_NatlanTourExplore_Collect",
-  "audioName": "",
-  "showHeight": true,
-  "banSubAreaIDList": []
+  "OKJBMLAIPON": 80
  },
  {
   "id": 43,
-  "radarHintType": "General",
-  "name": "5.3 海灯节吉语钱",
-  "radius": 80,
+  "GGFEIODNNJN": true,
+  "GJAJGGFGIGK": "5.3 海灯节吉语钱",
+  "IGNHBBMGECF": "General",
+  "JJEOOHGKDHI": "BLINK",
   "iconName": "UI_MarkPoint_LanV5_Coins",
-  "audioName": "",
-  "showHeight": true,
-  "banSubAreaIDList": [],
-  "effectType": "BLINK"
+  "OKJBMLAIPON": 80
  },
  {
   "id": 44,
-  "radarHintType": "General",
-  "name": "5.3 海灯节烟花筒",
-  "radius": 80,
+  "GGFEIODNNJN": true,
+  "GJAJGGFGIGK": "5.3 海灯节烟花筒",
+  "IGNHBBMGECF": "General",
+  "JJEOOHGKDHI": "BLINK",
   "iconName": "UI_MarkPoint_LanV5_Firework",
-  "audioName": "",
-  "showHeight": true,
-  "banSubAreaIDList": [],
-  "effectType": "BLINK"
+  "OKJBMLAIPON": 80
  },
  {
   "id": 45,
-  "radarHintType": "General",
-  "name": "5.5 海灯节望远镜",
-  "radius": 80,
+  "GGFEIODNNJN": true,
+  "GJAJGGFGIGK": "5.5 海灯节望远镜",
+  "IGNHBBMGECF": "General",
+  "JJEOOHGKDHI": "BLINK",
   "iconName": "UI_MarkPoint_LanV5_Telescope",
-  "audioName": "",
-  "showHeight": true,
-  "banSubAreaIDList": [],
-  "effectType": "BLINK"
+  "OKJBMLAIPON": 80
+ },
+ {
+  "id": 46,
+  "GJAJGGFGIGK": "5.5活动防守玩法 mark1",
+  "IGNHBBMGECF": "General",
+  "JJEOOHGKDHI": "BLINK",
+  "iconName": "UI_MarkPoint_R1",
+  "OKJBMLAIPON": 160
+ },
+ {
+  "id": 47,
+  "GJAJGGFGIGK": "5.5活动防守玩法 mark2",
+  "IGNHBBMGECF": "General",
+  "JJEOOHGKDHI": "BLINK",
+  "iconName": "UI_MarkPoint_R2",
+  "OKJBMLAIPON": 160
+ },
+ {
+  "id": 48,
+  "GJAJGGFGIGK": "5.5活动防守玩法 mark3",
+  "IGNHBBMGECF": "General",
+  "JJEOOHGKDHI": "BLINK",
+  "iconName": "UI_MarkPoint_NatlanDrill_ADG_Outpost_Us",
+  "OKJBMLAIPON": 160
+ },
+ {
+  "id": 49,
+  "GJAJGGFGIGK": "5.5活动防守玩法 敌人刷新点",
+  "IGNHBBMGECF": "General",
+  "JJEOOHGKDHI": "BLINK",
+  "iconName": "UI_MarkPoint_NatlanDrill_ADG_Monster",
+  "OKJBMLAIPON": 160
+ },
+ {
+  "id": 50,
+  "GJAJGGFGIGK": "5.5活动防守玩法 buff球",
+  "IGNHBBMGECF": "General",
+  "JJEOOHGKDHI": "BLINK",
+  "iconName": "UI_MarkPoint_NatlanDrill_ADG_Buff",
+  "OKJBMLAIPON": 160
  }
 ]

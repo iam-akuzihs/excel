@@ -1,10 +1,10 @@
 [
  {
+  "CFODFLBELOG": 10,
+  "DCPHBGEJLNH": 0.5,
+  "type": "Lo",
   "id": 1,
-  "DGDBJJNIHOK": 2.5,
-  "NPHPALOADIJ": 0.5,
-  "BPFABEKIIKN": 10,
-  "GHJCPDEJKNJ": [
+  "JMCJFGEHPHG": [
    90000,
    90000,
    320,
@@ -12,97 +12,110 @@
    330,
    330
   ],
-  "PNMOCOHPBAA": [
+  "LCJOMDELNFL": 2.5,
+  "POBLDHDCMGK": [
    {
-    "IKDBMEKMFPN": "MATERIAL_NOTICE_ADD_HP"
+    "CMAHCKHFFMI": "MATERIAL_NOTICE_ADD_HP"
    },
    {
-    "IKDBMEKMFPN": "MATERIAL_EXCHANGE"
+    "CMAHCKHFFMI": "MATERIAL_EXCHANGE"
    },
    {
-    "IKDBMEKMFPN": "MATERIAL_WOOD"
+    "CMAHCKHFFMI": "MATERIAL_WOOD"
    }
   ]
  },
  {
-  "id": 2,
+  "CFODFLBELOG": 15,
+  "DCPHBGEJLNH": 1.2,
   "type": "Mid",
-  "DGDBJJNIHOK": 1.2,
-  "NPHPALOADIJ": 1.2,
-  "BPFABEKIIKN": 15,
-  "GHJCPDEJKNJ": [
+  "id": 2,
+  "JMCJFGEHPHG": [
    311,
    317,
    301,
    301
   ],
-  "PNMOCOHPBAA": [
+  "LCJOMDELNFL": 1.2,
+  "POBLDHDCMGK": [
    {
-    "IKDBMEKMFPN": "MATERIAL_EXCHANGE"
+    "CMAHCKHFFMI": "MATERIAL_EXCHANGE"
    },
    {
-    "IKDBMEKMFPN": "MATERIAL_EXCHANGE"
+    "CMAHCKHFFMI": "MATERIAL_EXCHANGE"
    },
-   {}
+   {
+    "CMAHCKHFFMI": "MATERIAL_NONE"
+   }
   ]
  },
  {
-  "id": 3,
+  "CFODFLBELOG": 15,
+  "DCPHBGEJLNH": 1.2,
   "type": "Hi",
-  "DGDBJJNIHOK": 1,
-  "NPHPALOADIJ": 1.2,
-  "BPFABEKIIKN": 15,
-  "GHJCPDEJKNJ": [
+  "id": 3,
+  "JMCJFGEHPHG": [
    341,
    341,
    430001,
    430001
   ],
-  "PNMOCOHPBAA": [
+  "LCJOMDELNFL": 1,
+  "POBLDHDCMGK": [
    {
-    "IKDBMEKMFPN": "MATERIAL_EXCHANGE"
+    "CMAHCKHFFMI": "MATERIAL_EXCHANGE"
    },
    {
-    "IKDBMEKMFPN": "MATERIAL_CONSUME"
+    "CMAHCKHFFMI": "MATERIAL_CONSUME"
    },
-   {}
+   {
+    "CMAHCKHFFMI": "MATERIAL_NONE"
+   }
   ]
  },
  {
-  "id": 4,
+  "CFODFLBELOG": 120,
+  "DCPHBGEJLNH": 5,
   "type": "Top",
-  "DGDBJJNIHOK": 1,
-  "NPHPALOADIJ": 5,
-  "EDALKANDEHP": 1,
-  "BPFABEKIIKN": 120,
-  "GHJCPDEJKNJ": [
+  "id": 4,
+  "JMCJFGEHPHG": [
    420001,
    420021
   ],
-  "PNMOCOHPBAA": [
+  "KIHPCGKNAHF": 1,
+  "LCJOMDELNFL": 1,
+  "POBLDHDCMGK": [
    {
-    "IKDBMEKMFPN": "MATERIAL_ELEM_CRYSTAL"
+    "CMAHCKHFFMI": "MATERIAL_ELEM_CRYSTAL"
    },
-   {},
-   {}
+   {
+    "CMAHCKHFFMI": "MATERIAL_NONE"
+   },
+   {
+    "CMAHCKHFFMI": "MATERIAL_NONE"
+   }
   ]
  },
  {
-  "id": 5,
+  "CFODFLBELOG": 15,
+  "DCPHBGEJLNH": 1,
   "type": "Drop",
-  "DGDBJJNIHOK": 3,
-  "NPHPALOADIJ": 1,
-  "BPFABEKIIKN": 15,
-  "GHJCPDEJKNJ": [
+  "id": 5,
+  "JMCJFGEHPHG": [
    10101,
    10199
   ],
-  "PNMOCOHPBAA": [
+  "LCJOMDELNFL": 3,
+  "POBLDHDCMGK": [
    {
-    "IKDBMEKMFPN": "MATERIAL_AVATAR_MATERIAL"
+    "CMAHCKHFFMI": "MATERIAL_AVATAR_MATERIAL"
    },
-   {},
-   {}
+   {
+    "CMAHCKHFFMI": "MATERIAL_NONE"
+   },
+   {
+    "CMAHCKHFFMI": "MATERIAL_NONE"
+   }
   ]
  }
 ]

@@ -1,1350 +1,1278 @@
 [
  {
-  "offeringId": 1,
   "level": 1,
-  "consumeItemConfigVec": [
-   {},
-   {}
-  ],
-  "rewardId": 311101,
-  "actionVec": [
+  "JICDGOLKLNC": 311101,
+  "JNEJCNGFFDI": 1,
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 1,
   "level": 2,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 311102,
+  "JNEJCNGFFDI": 1,
+  "JOFEEKGDIKG": 18,
+  "MIANHKIINNC": [
    {
     "id": 107010,
     "count": 10
-   },
-   {}
-  ],
-  "rewardId": 311102,
-  "actionVec": [
-   {
-    "param": ""
-   },
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133008191"
    }
   ],
-  "cutSceneId": 18
- },
- {
-  "offeringId": 1,
-  "level": 3,
-  "consumeItemConfigVec": [
+  "NNCDOEHKCMM": [
    {
-    "id": 107010,
-    "count": 10
-   },
-   {}
-  ],
-  "rewardId": 311103,
-  "actionVec": [
-   {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133008191"
-   }
-  ],
-  "cutSceneId": 18
- },
- {
-  "offeringId": 1,
-  "level": 4,
-  "consumeItemConfigVec": [
-   {
-    "id": 107010,
-    "count": 10
-   },
-   {}
-  ],
-  "rewardId": 311104,
-  "actionVec": [
-   {
-    "param": ""
-   },
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133008191"
-   }
-  ],
-  "cutSceneId": 18
- },
- {
-  "offeringId": 1,
-  "level": 5,
-  "consumeItemConfigVec": [
-   {
-    "id": 107010,
-    "count": 10
-   },
-   {}
-  ],
-  "rewardId": 311105,
-  "actionVec": [
-   {
-    "param": ""
-   },
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133008191"
-   }
-  ],
-  "cutSceneId": 18
- },
- {
-  "offeringId": 1,
-  "level": 6,
-  "consumeItemConfigVec": [
-   {
-    "id": 107010,
-    "count": 10
-   },
-   {}
-  ],
-  "rewardId": 311106,
-  "actionVec": [
-   {
-    "param": ""
-   },
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133008191"
-   }
-  ],
-  "cutSceneId": 18
- },
- {
-  "offeringId": 1,
-  "level": 7,
-  "consumeItemConfigVec": [
-   {
-    "id": 107010,
-    "count": 10
-   },
-   {}
-  ],
-  "rewardId": 311107,
-  "actionVec": [
-   {
-    "param": ""
-   },
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133008191"
-   }
-  ],
-  "cutSceneId": 18
- },
- {
-  "offeringId": 1,
-  "level": 8,
-  "consumeItemConfigVec": [
-   {
-    "id": 107010,
-    "count": 10
-   },
-   {}
-  ],
-  "rewardId": 311108,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_OPEN_ROUTINE",
-    "param": "ROUTINE_SNOW_MOUNTAIN"
-   },
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133008191"
-   }
-  ],
-  "cutSceneId": 19
- },
- {
-  "offeringId": 1,
-  "level": 9,
-  "consumeItemConfigVec": [
-   {
-    "id": 107010,
-    "count": 10
-   },
-   {}
-  ],
-  "rewardId": 311109,
-  "actionVec": [
-   {
-    "param": ""
-   },
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133008191"
-   }
-  ],
-  "cutSceneId": 20
- },
- {
-  "offeringId": 1,
-  "level": 10,
-  "consumeItemConfigVec": [
-   {
-    "id": 107010,
-    "count": 10
-   },
-   {}
-  ],
-  "rewardId": 311110,
-  "actionVec": [
-   {
-    "param": ""
-   },
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133008191"
-   }
-  ],
-  "cutSceneId": 20
- },
- {
-  "offeringId": 1,
-  "level": 11,
-  "consumeItemConfigVec": [
-   {
-    "id": 107010,
-    "count": 10
-   },
-   {}
-  ],
-  "rewardId": 311111,
-  "actionVec": [
-   {
-    "param": ""
-   },
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133008191"
-   }
-  ],
-  "cutSceneId": 20
- },
- {
-  "offeringId": 1,
-  "level": 12,
-  "consumeItemConfigVec": [
-   {
-    "id": 107010,
-    "count": 10
-   },
-   {}
-  ],
-  "rewardId": 311112,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_CLOSE_ROUTINE",
-    "param": "ROUTINE_SNOW_MOUNTAIN"
-   },
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133008191"
-   }
-  ],
-  "cutSceneId": 21
- },
- {
-  "offeringId": 2,
-  "consumeItemConfigVec": [
-   {},
-   {}
-  ],
-  "actionVec": [
-   {
-    "param": ""
-   },
-   {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133008191"
    }
   ]
  },
  {
-  "offeringId": 2,
+  "level": 3,
+  "JICDGOLKLNC": 311103,
+  "JNEJCNGFFDI": 1,
+  "JOFEEKGDIKG": 18,
+  "MIANHKIINNC": [
+   {
+    "id": 107010,
+    "count": 10
+   }
+  ],
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133008191"
+   }
+  ]
+ },
+ {
+  "level": 4,
+  "JICDGOLKLNC": 311104,
+  "JNEJCNGFFDI": 1,
+  "JOFEEKGDIKG": 18,
+  "MIANHKIINNC": [
+   {
+    "id": 107010,
+    "count": 10
+   }
+  ],
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133008191"
+   }
+  ]
+ },
+ {
+  "level": 5,
+  "JICDGOLKLNC": 311105,
+  "JNEJCNGFFDI": 1,
+  "JOFEEKGDIKG": 18,
+  "MIANHKIINNC": [
+   {
+    "id": 107010,
+    "count": 10
+   }
+  ],
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133008191"
+   }
+  ]
+ },
+ {
+  "level": 6,
+  "JICDGOLKLNC": 311106,
+  "JNEJCNGFFDI": 1,
+  "JOFEEKGDIKG": 18,
+  "MIANHKIINNC": [
+   {
+    "id": 107010,
+    "count": 10
+   }
+  ],
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133008191"
+   }
+  ]
+ },
+ {
+  "level": 7,
+  "JICDGOLKLNC": 311107,
+  "JNEJCNGFFDI": 1,
+  "JOFEEKGDIKG": 18,
+  "MIANHKIINNC": [
+   {
+    "id": 107010,
+    "count": 10
+   }
+  ],
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133008191"
+   }
+  ]
+ },
+ {
+  "level": 8,
+  "JICDGOLKLNC": 311108,
+  "JNEJCNGFFDI": 1,
+  "JOFEEKGDIKG": 19,
+  "MIANHKIINNC": [
+   {
+    "id": 107010,
+    "count": 10
+   }
+  ],
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_OPEN_ROUTINE",
+    "LJNDHEEHIBD": "ROUTINE_SNOW_MOUNTAIN"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133008191"
+   }
+  ]
+ },
+ {
+  "level": 9,
+  "JICDGOLKLNC": 311109,
+  "JNEJCNGFFDI": 1,
+  "JOFEEKGDIKG": 20,
+  "MIANHKIINNC": [
+   {
+    "id": 107010,
+    "count": 10
+   }
+  ],
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133008191"
+   }
+  ]
+ },
+ {
+  "level": 10,
+  "JICDGOLKLNC": 311110,
+  "JNEJCNGFFDI": 1,
+  "JOFEEKGDIKG": 20,
+  "MIANHKIINNC": [
+   {
+    "id": 107010,
+    "count": 10
+   }
+  ],
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133008191"
+   }
+  ]
+ },
+ {
+  "level": 11,
+  "JICDGOLKLNC": 311111,
+  "JNEJCNGFFDI": 1,
+  "JOFEEKGDIKG": 20,
+  "MIANHKIINNC": [
+   {
+    "id": 107010,
+    "count": 10
+   }
+  ],
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133008191"
+   }
+  ]
+ },
+ {
+  "level": 12,
+  "JICDGOLKLNC": 311112,
+  "JNEJCNGFFDI": 1,
+  "JOFEEKGDIKG": 21,
+  "MIANHKIINNC": [
+   {
+    "id": 107010,
+    "count": 10
+   }
+  ],
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_CLOSE_ROUTINE",
+    "LJNDHEEHIBD": "ROUTINE_SNOW_MOUNTAIN"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133008191"
+   }
+  ]
+ },
+ {
+  "JNEJCNGFFDI": 2,
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
+ },
+ {
   "level": 1,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211001,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211001,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 2,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211002,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211002,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 3,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211003,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211003,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "actionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
-    "param": "100002,2"
+    "DHKEILIEHBC": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+    "LJNDHEEHIBD": "100002,2"
    },
    {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133220200"
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133220200"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 4,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211004,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211004,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 5,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211005,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211005,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 6,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211006,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211006,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 7,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211007,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211007,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "actionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
-    "param": "100002,3"
+    "DHKEILIEHBC": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+    "LJNDHEEHIBD": "100002,3"
    },
    {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133220200"
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133220200"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 8,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211008,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211008,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 9,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211009,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211009,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 10,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211010,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211010,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "actionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
-    "param": "100002,4"
+    "DHKEILIEHBC": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+    "LJNDHEEHIBD": "100002,4"
    },
    {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133220200"
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133220200"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 11,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211011,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211011,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 12,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211012,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211012,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 13,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211013,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211013,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "actionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
-    "param": "100002,5"
+    "DHKEILIEHBC": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+    "LJNDHEEHIBD": "100002,5"
    },
    {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133220200"
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133220200"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 14,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211014,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211014,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 15,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211015,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211015,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 16,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211016,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211016,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 17,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211017,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211017,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "actionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
-    "param": "100002,6"
+    "DHKEILIEHBC": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+    "LJNDHEEHIBD": "100002,6"
    },
    {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133220200"
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133220200"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 18,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211018,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211018,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 19,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211019,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211019,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 20,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211020,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211020,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "actionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
-    "param": "100002,7"
+    "DHKEILIEHBC": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+    "LJNDHEEHIBD": "100002,7"
    },
    {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133220200"
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133220200"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 21,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211021,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211021,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 22,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211022,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211022,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 23,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211023,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211023,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "actionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
-    "param": "100002,8"
+    "DHKEILIEHBC": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+    "LJNDHEEHIBD": "100002,8"
    },
    {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133220200"
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133220200"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 24,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211024,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211024,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 25,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211025,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211025,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 26,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211026,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211026,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 27,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211027,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211027,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "actionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
-    "param": "100002,9"
+    "DHKEILIEHBC": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+    "LJNDHEEHIBD": "100002,9"
    },
    {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133220200"
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133220200"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 28,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211028,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211028,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 29,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211029,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211029,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 30,
-  "isMaxLevel": true,
-  "consumeItemConfigVec": [
+  "EOPIDMDGFIK": true,
+  "JICDGOLKLNC": 211030,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211030,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "actionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
-    "param": "100002,10"
+    "DHKEILIEHBC": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+    "LJNDHEEHIBD": "100002,10"
    },
    {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133220200"
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133220200"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 31,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211031,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211031,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 32,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211032,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211032,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 33,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211033,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211033,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "actionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
-    "param": "100002,11"
+    "DHKEILIEHBC": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+    "LJNDHEEHIBD": "100002,11"
    },
    {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133220200"
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133220200"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 34,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211034,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211034,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 35,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211035,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211035,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 36,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211036,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211036,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 37,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211037,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211037,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "actionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
-    "param": "100002,12"
+    "DHKEILIEHBC": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+    "LJNDHEEHIBD": "100002,12"
    },
    {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133220200"
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133220200"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 38,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211038,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211038,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 39,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211039,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211039,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 40,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211040,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211040,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "actionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
-    "param": "100002,13"
+    "DHKEILIEHBC": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+    "LJNDHEEHIBD": "100002,13"
    },
    {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133220200"
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133220200"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 41,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211041,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211041,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 42,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211042,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211042,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 43,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211043,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211043,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "actionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
-    "param": "100002,14"
+    "DHKEILIEHBC": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+    "LJNDHEEHIBD": "100002,14"
    },
    {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133220200"
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133220200"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 44,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211044,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211044,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 45,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211045,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211045,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 46,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211046,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211046,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 47,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211047,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211047,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "actionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
-    "param": "100002,15"
+    "DHKEILIEHBC": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+    "LJNDHEEHIBD": "100002,15"
    },
    {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133220200"
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133220200"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 48,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211048,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211048,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 49,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211049,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211049,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 2,
   "level": 50,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211050,
+  "JNEJCNGFFDI": 2,
+  "MIANHKIINNC": [
    {
     "id": 304,
     "count": 25
-   },
-   {}
+   }
   ],
-  "rewardId": 211050,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 3,
-  "consumeItemConfigVec": [
-   {},
-   {}
-  ],
-  "actionVec": [
+  "JNEJCNGFFDI": 3,
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 3,
   "level": 1,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 312001,
+  "JNEJCNGFFDI": 3,
+  "MCMMANNNNEC": true,
+  "MIANHKIINNC": [
    {
     "id": 107016,
     "count": 8
-   },
-   {}
-  ],
-  "rewardId": 312001,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
-    "param": "100003,1"
-   },
-   {
-    "param": ""
    }
   ],
-  "isAutoTakeReward": true
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+    "LJNDHEEHIBD": "100003,1"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 3,
   "level": 2,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 312002,
+  "JNEJCNGFFDI": 3,
+  "MCMMANNNNEC": true,
+  "MIANHKIINNC": [
    {
     "id": 107016,
     "count": 8
@@ -1354,88 +1282,85 @@
     "count": 1
    }
   ],
-  "rewardId": 312002,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "actionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
-    "param": "100003,2"
+    "DHKEILIEHBC": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+    "LJNDHEEHIBD": "100003,2"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
-  ],
-  "isAutoTakeReward": true
+  ]
  },
  {
-  "offeringId": 3,
   "level": 3,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 312003,
+  "JNEJCNGFFDI": 3,
+  "MCMMANNNNEC": true,
+  "MIANHKIINNC": [
    {
     "id": 107016,
     "count": 8
-   },
-   {}
-  ],
-  "rewardId": 312003,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
-    "param": "100003,3"
-   },
-   {
-    "param": ""
    }
   ],
-  "isAutoTakeReward": true
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+    "LJNDHEEHIBD": "100003,3"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 3,
   "level": 4,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 312004,
+  "JNEJCNGFFDI": 3,
+  "MCMMANNNNEC": true,
+  "MIANHKIINNC": [
    {
     "id": 107016,
     "count": 8
-   },
-   {}
-  ],
-  "rewardId": 312004,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
-    "param": "100003,4"
-   },
-   {
-    "param": ""
    }
   ],
-  "isAutoTakeReward": true
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+    "LJNDHEEHIBD": "100003,4"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 3,
   "level": 5,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 312005,
+  "JNEJCNGFFDI": 3,
+  "MCMMANNNNEC": true,
+  "MIANHKIINNC": [
    {
     "id": 107016,
     "count": 8
-   },
-   {}
-  ],
-  "rewardId": 312005,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
-    "param": "100003,5"
-   },
-   {
-    "param": ""
    }
   ],
-  "isAutoTakeReward": true
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+    "LJNDHEEHIBD": "100003,5"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 3,
   "level": 6,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 312006,
+  "JNEJCNGFFDI": 3,
+  "MCMMANNNNEC": true,
+  "MIANHKIINNC": [
    {
     "id": 107016,
     "count": 8
@@ -1445,44 +1370,43 @@
     "count": 1
    }
   ],
-  "rewardId": 312006,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "actionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
-    "param": "100003,6"
+    "DHKEILIEHBC": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+    "LJNDHEEHIBD": "100003,6"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
-  ],
-  "isAutoTakeReward": true
+  ]
  },
  {
-  "offeringId": 3,
   "level": 7,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 312007,
+  "JNEJCNGFFDI": 3,
+  "MCMMANNNNEC": true,
+  "MIANHKIINNC": [
    {
     "id": 107016,
     "count": 8
-   },
-   {}
-  ],
-  "rewardId": 312007,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
-    "param": "100003,7"
-   },
-   {
-    "param": ""
    }
   ],
-  "isAutoTakeReward": true
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+    "LJNDHEEHIBD": "100003,7"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 3,
   "level": 8,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 312008,
+  "JNEJCNGFFDI": 3,
+  "MCMMANNNNEC": true,
+  "MIANHKIINNC": [
    {
     "id": 107016,
     "count": 8
@@ -1492,4109 +1416,3900 @@
     "count": 1
    }
   ],
-  "rewardId": 312008,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "actionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
-    "param": "100003,8"
+    "DHKEILIEHBC": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+    "LJNDHEEHIBD": "100003,8"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
-  ],
-  "isAutoTakeReward": true
+  ]
  },
  {
-  "offeringId": 3,
   "level": 9,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 312009,
+  "JNEJCNGFFDI": 3,
+  "MCMMANNNNEC": true,
+  "MIANHKIINNC": [
    {
     "id": 107016,
     "count": 8
-   },
-   {}
-  ],
-  "rewardId": 312009,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
-    "param": "100003,9"
-   },
-   {
-    "param": ""
    }
   ],
-  "isAutoTakeReward": true
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+    "LJNDHEEHIBD": "100003,9"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 3,
   "level": 10,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 312010,
+  "JNEJCNGFFDI": 3,
+  "MCMMANNNNEC": true,
+  "MIANHKIINNC": [
    {
     "id": 107016,
     "count": 8
-   },
-   {}
-  ],
-  "rewardId": 312010,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
-    "param": "100003,10"
-   },
-   {
-    "param": ""
    }
   ],
-  "isAutoTakeReward": true
- },
- {
-  "offeringId": 4,
-  "consumeItemConfigVec": [
-   {},
-   {}
-  ],
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_SET_GADGET_CHAIN_LEVEL",
+    "LJNDHEEHIBD": "100003,10"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 4,
+  "JNEJCNGFFDI": 4,
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
+ },
+ {
   "level": 1,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 3037101,
+  "JNEJCNGFFDI": 4,
+  "MIANHKIINNC": [
    {
     "id": 101692,
     "count": 80
-   },
-   {}
+   }
   ],
-  "rewardId": 3037101,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 4,
   "level": 2,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 3037102,
+  "JNEJCNGFFDI": 4,
+  "MIANHKIINNC": [
    {
     "id": 101692,
     "count": 80
-   },
-   {}
+   }
   ],
-  "rewardId": 3037102,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 4,
   "level": 3,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 3037103,
+  "JNEJCNGFFDI": 4,
+  "MIANHKIINNC": [
    {
     "id": 101692,
     "count": 80
-   },
-   {}
+   }
   ],
-  "rewardId": 3037103,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 4,
   "level": 4,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 3037104,
+  "JNEJCNGFFDI": 4,
+  "MIANHKIINNC": [
    {
     "id": 101692,
     "count": 80
-   },
-   {}
+   }
   ],
-  "rewardId": 3037104,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 4,
   "level": 5,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 3037105,
+  "JNEJCNGFFDI": 4,
+  "MIANHKIINNC": [
    {
     "id": 101692,
     "count": 80
-   },
-   {}
+   }
   ],
-  "rewardId": 3037105,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 4,
   "level": 6,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 3037106,
+  "JNEJCNGFFDI": 4,
+  "MIANHKIINNC": [
    {
     "id": 101692,
     "count": 100
-   },
-   {}
+   }
   ],
-  "rewardId": 3037106,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 4,
   "level": 7,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 3037107,
+  "JNEJCNGFFDI": 4,
+  "MIANHKIINNC": [
    {
     "id": 101692,
     "count": 100
-   },
-   {}
+   }
   ],
-  "rewardId": 3037107,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 4,
   "level": 8,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 3037108,
+  "JNEJCNGFFDI": 4,
+  "MIANHKIINNC": [
    {
     "id": 101692,
     "count": 100
-   },
-   {}
+   }
   ],
-  "rewardId": 3037108,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 4,
   "level": 9,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 3037109,
+  "JNEJCNGFFDI": 4,
+  "MIANHKIINNC": [
    {
     "id": 101692,
     "count": 100
-   },
-   {}
+   }
   ],
-  "rewardId": 3037109,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 4,
   "level": 10,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 3037110,
+  "JNEJCNGFFDI": 4,
+  "MIANHKIINNC": [
    {
     "id": 101692,
     "count": 100
-   },
-   {}
+   }
   ],
-  "rewardId": 3037110,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 4,
   "level": 11,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 3037111,
+  "JNEJCNGFFDI": 4,
+  "MIANHKIINNC": [
    {
     "id": 101692,
     "count": 120
-   },
-   {}
+   }
   ],
-  "rewardId": 3037111,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 4,
   "level": 12,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 3037112,
+  "JNEJCNGFFDI": 4,
+  "MIANHKIINNC": [
    {
     "id": 101692,
     "count": 120
-   },
-   {}
+   }
   ],
-  "rewardId": 3037112,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 4,
   "level": 13,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 3037113,
+  "JNEJCNGFFDI": 4,
+  "MIANHKIINNC": [
    {
     "id": 101692,
     "count": 120
-   },
-   {}
+   }
   ],
-  "rewardId": 3037113,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 4,
   "level": 14,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 3037114,
+  "JNEJCNGFFDI": 4,
+  "MIANHKIINNC": [
    {
     "id": 101692,
     "count": 120
-   },
-   {}
+   }
   ],
-  "rewardId": 3037114,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 4,
   "level": 15,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 3037115,
+  "JNEJCNGFFDI": 4,
+  "MIANHKIINNC": [
    {
     "id": 101692,
     "count": 120
-   },
-   {}
+   }
   ],
-  "rewardId": 3037115,
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 5,
-  "consumeItemConfigVec": [
-   {},
-   {}
-  ],
-  "actionVec": [
+  "JNEJCNGFFDI": 5,
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 5,
   "level": 1,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211101,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211101,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 2,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211102,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211102,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 3,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211103,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211103,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 4,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211104,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211104,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 5,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211105,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211105,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 6,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211106,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211106,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 7,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211107,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211107,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 8,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211108,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211108,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 9,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211109,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211109,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 10,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211110,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211110,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 11,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211111,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211111,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 12,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211112,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211112,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 13,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211113,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211113,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 14,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211114,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211114,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 15,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211115,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211115,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 16,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211116,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211116,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 17,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211117,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211117,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 18,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211118,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211118,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 19,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211119,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211119,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 20,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211120,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211120,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 21,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211121,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211121,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 22,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211122,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211122,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 23,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211123,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211123,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 24,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211124,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211124,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 25,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211125,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211125,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 26,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211126,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211126,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 27,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211127,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211127,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 28,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211128,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211128,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 29,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211129,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211129,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 30,
-  "isMaxLevel": true,
-  "consumeItemConfigVec": [
+  "EOPIDMDGFIK": true,
+  "JICDGOLKLNC": 211130,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211130,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 31,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211131,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211131,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 32,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211132,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211132,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 33,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211133,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211133,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 34,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211134,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211134,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 35,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211135,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211135,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 36,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211136,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211136,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 37,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211137,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211137,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 38,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211138,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211138,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 39,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211139,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211139,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 40,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211140,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211140,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 41,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211141,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211141,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 42,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211142,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211142,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 43,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211143,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211143,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 44,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211144,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211144,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 45,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211145,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211145,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 46,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211146,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211146,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 47,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211147,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211147,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 48,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211148,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211148,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 49,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211149,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211149,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 5,
   "level": 50,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211150,
+  "JNEJCNGFFDI": 5,
+  "JOFEEKGDIKG": 88,
+  "MIANHKIINNC": [
    {
     "id": 303,
     "count": 35
-   },
-   {}
-  ],
-  "rewardId": 211150,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133301220"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 88
- },
- {
-  "offeringId": 6,
-  "consumeItemConfigVec": [
-   {},
-   {}
-  ],
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133301220"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 6,
-  "level": 1,
-  "consumeItemConfigVec": [
+  "JNEJCNGFFDI": 6,
+  "NNCDOEHKCMM": [
    {
-    "id": 107022,
-    "count": 6
-   },
-   {}
-  ],
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133317140"
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
-   }
-  ],
-  "cutSceneId": 118,
-  "isAutoTakeReward": true,
-  "randomRewardId": 1
- },
- {
-  "offeringId": 6,
-  "level": 2,
-  "consumeItemConfigVec": [
-   {
-    "id": 107022,
-    "count": 6
-   },
-   {}
-  ],
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133317140"
-   },
-   {
-    "param": ""
-   }
-  ],
-  "cutSceneId": 118,
-  "isAutoTakeReward": true,
-  "randomRewardId": 1
- },
- {
-  "offeringId": 6,
-  "level": 3,
-  "consumeItemConfigVec": [
-   {
-    "id": 107022,
-    "count": 6
-   },
-   {}
-  ],
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133317140"
-   },
-   {
-    "param": ""
-   }
-  ],
-  "cutSceneId": 118,
-  "isAutoTakeReward": true,
-  "randomRewardId": 1
- },
- {
-  "offeringId": 6,
-  "level": 4,
-  "consumeItemConfigVec": [
-   {
-    "id": 107022,
-    "count": 6
-   },
-   {}
-  ],
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133317140"
-   },
-   {
-    "param": ""
-   }
-  ],
-  "cutSceneId": 118,
-  "isAutoTakeReward": true,
-  "randomRewardId": 1
- },
- {
-  "offeringId": 6,
-  "level": 5,
-  "consumeItemConfigVec": [
-   {
-    "id": 107022,
-    "count": 6
-   },
-   {}
-  ],
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133317140"
-   },
-   {
-    "param": ""
-   }
-  ],
-  "cutSceneId": 118,
-  "isAutoTakeReward": true,
-  "randomRewardId": 1
- },
- {
-  "offeringId": 6,
-  "level": 6,
-  "consumeItemConfigVec": [
-   {
-    "id": 107022,
-    "count": 6
-   },
-   {}
-  ],
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133317140"
-   },
-   {
-    "param": ""
-   }
-  ],
-  "cutSceneId": 119,
-  "isAutoTakeReward": true,
-  "randomRewardId": 1
- },
- {
-  "offeringId": 7,
-  "consumeItemConfigVec": [
-   {},
-   {}
-  ],
-  "actionVec": [
-   {
-    "param": ""
-   },
-   {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 7,
   "level": 1,
-  "consumeItemConfigVec": [
+  "JNEJCNGFFDI": 6,
+  "JOFEEKGDIKG": 118,
+  "MCMMANNNNEC": true,
+  "MIANHKIINNC": [
    {
-    "id": 302,
-    "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211201,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
+    "id": 107022,
+    "count": 6
    }
   ],
-  "cutSceneId": 126
+  "NEFBLPLMPAM": 1,
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133317140"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 2,
-  "consumeItemConfigVec": [
+  "JNEJCNGFFDI": 6,
+  "JOFEEKGDIKG": 118,
+  "MCMMANNNNEC": true,
+  "MIANHKIINNC": [
    {
-    "id": 302,
-    "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211202,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
+    "id": 107022,
+    "count": 6
    }
   ],
-  "cutSceneId": 126
+  "NEFBLPLMPAM": 1,
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133317140"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 3,
-  "consumeItemConfigVec": [
+  "JNEJCNGFFDI": 6,
+  "JOFEEKGDIKG": 118,
+  "MCMMANNNNEC": true,
+  "MIANHKIINNC": [
    {
-    "id": 302,
-    "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211203,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
+    "id": 107022,
+    "count": 6
    }
   ],
-  "cutSceneId": 126
+  "NEFBLPLMPAM": 1,
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133317140"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 4,
-  "consumeItemConfigVec": [
+  "JNEJCNGFFDI": 6,
+  "JOFEEKGDIKG": 118,
+  "MCMMANNNNEC": true,
+  "MIANHKIINNC": [
    {
-    "id": 302,
-    "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211204,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
+    "id": 107022,
+    "count": 6
    }
   ],
-  "cutSceneId": 126
+  "NEFBLPLMPAM": 1,
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133317140"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 5,
-  "consumeItemConfigVec": [
+  "JNEJCNGFFDI": 6,
+  "JOFEEKGDIKG": 118,
+  "MCMMANNNNEC": true,
+  "MIANHKIINNC": [
    {
-    "id": 302,
-    "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211205,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
+    "id": 107022,
+    "count": 6
    }
   ],
-  "cutSceneId": 126
+  "NEFBLPLMPAM": 1,
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133317140"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 6,
-  "consumeItemConfigVec": [
+  "JNEJCNGFFDI": 6,
+  "JOFEEKGDIKG": 119,
+  "MCMMANNNNEC": true,
+  "MIANHKIINNC": [
+   {
+    "id": 107022,
+    "count": 6
+   }
+  ],
+  "NEFBLPLMPAM": 1,
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133317140"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
+ },
+ {
+  "JNEJCNGFFDI": 7,
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
+ },
+ {
+  "level": 1,
+  "JICDGOLKLNC": 211201,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211206,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
+  "level": 2,
+  "JICDGOLKLNC": 211202,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
+   {
+    "id": 302,
+    "count": 30
+   }
+  ],
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
+ },
+ {
+  "level": 3,
+  "JICDGOLKLNC": 211203,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
+   {
+    "id": 302,
+    "count": 30
+   }
+  ],
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
+ },
+ {
+  "level": 4,
+  "JICDGOLKLNC": 211204,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
+   {
+    "id": 302,
+    "count": 30
+   }
+  ],
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
+ },
+ {
+  "level": 5,
+  "JICDGOLKLNC": 211205,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
+   {
+    "id": 302,
+    "count": 30
+   }
+  ],
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
+ },
+ {
+  "level": 6,
+  "JICDGOLKLNC": 211206,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
+   {
+    "id": 302,
+    "count": 30
+   }
+  ],
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
+ },
+ {
   "level": 7,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211207,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211207,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 8,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211208,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211208,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 9,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211209,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211209,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 10,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211210,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211210,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 11,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211211,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211211,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 12,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211212,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211212,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 13,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211213,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211213,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 14,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211214,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211214,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 15,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211215,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211215,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 16,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211216,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211216,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 17,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211217,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211217,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 18,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211218,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211218,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 19,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211219,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211219,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 20,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211220,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211220,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 21,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211221,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211221,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 22,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211222,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211222,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 23,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211223,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211223,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 24,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211224,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211224,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 25,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211225,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211225,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 26,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211226,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211226,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 27,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211227,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211227,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 28,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211228,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211228,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 29,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211229,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211229,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 30,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211230,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211230,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 31,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211231,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211231,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 32,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211232,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211232,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 33,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211233,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211233,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 34,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211234,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211234,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 35,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211235,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211235,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 36,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211236,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211236,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 37,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211237,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211237,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 38,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211238,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211238,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 39,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211239,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211239,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 40,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211240,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211240,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 41,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211241,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211241,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 42,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211242,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211242,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 43,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211243,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211243,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 44,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211244,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211244,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 45,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211245,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211245,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 46,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211246,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211246,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 47,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211247,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211247,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 48,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211248,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211248,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 49,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211249,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 126,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211249,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 126
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 7,
   "level": 50,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211250,
+  "JNEJCNGFFDI": 7,
+  "JOFEEKGDIKG": 151,
+  "MIANHKIINNC": [
    {
     "id": 302,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211250,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133402086"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 151
- },
- {
-  "offeringId": 8,
-  "consumeItemConfigVec": [
-   {},
-   {}
-  ],
-  "actionVec": [
+  "NNCDOEHKCMM": [
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133402086"
    },
    {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 8,
-  "level": 1,
-  "consumeItemConfigVec": [
+  "JNEJCNGFFDI": 8,
+  "NNCDOEHKCMM": [
    {
-    "id": 107026,
-    "count": 5
-   },
-   {}
-  ],
-  "rewardId": 314001,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133116139"
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    },
    {
-    "param": ""
-   }
-  ],
-  "cutSceneId": 148
- },
- {
-  "offeringId": 8,
-  "level": 2,
-  "consumeItemConfigVec": [
-   {
-    "id": 107026,
-    "count": 5
-   },
-   {}
-  ],
-  "rewardId": 314002,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133116139"
-   },
-   {
-    "param": ""
-   }
-  ],
-  "cutSceneId": 148
- },
- {
-  "offeringId": 8,
-  "level": 3,
-  "consumeItemConfigVec": [
-   {
-    "id": 107026,
-    "count": 5
-   },
-   {}
-  ],
-  "rewardId": 314003,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133116139"
-   },
-   {
-    "param": ""
-   }
-  ],
-  "cutSceneId": 148
- },
- {
-  "offeringId": 8,
-  "level": 4,
-  "consumeItemConfigVec": [
-   {
-    "id": 107026,
-    "count": 5
-   },
-   {}
-  ],
-  "rewardId": 314004,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133116139"
-   },
-   {
-    "param": ""
-   }
-  ],
-  "cutSceneId": 148
- },
- {
-  "offeringId": 8,
-  "level": 5,
-  "consumeItemConfigVec": [
-   {
-    "id": 107026,
-    "count": 5
-   },
-   {}
-  ],
-  "rewardId": 314005,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133116139"
-   },
-   {
-    "param": ""
-   }
-  ],
-  "cutSceneId": 148
- },
- {
-  "offeringId": 8,
-  "level": 6,
-  "consumeItemConfigVec": [
-   {
-    "id": 107026,
-    "count": 5
-   },
-   {}
-  ],
-  "rewardId": 314006,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133116139"
-   },
-   {
-    "param": ""
-   }
-  ],
-  "cutSceneId": 148
- },
- {
-  "offeringId": 8,
-  "level": 7,
-  "consumeItemConfigVec": [
-   {
-    "id": 107026,
-    "count": 5
-   },
-   {}
-  ],
-  "rewardId": 314007,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133116139"
-   },
-   {
-    "param": ""
-   }
-  ],
-  "cutSceneId": 148
- },
- {
-  "offeringId": 8,
-  "level": 8,
-  "consumeItemConfigVec": [
-   {
-    "id": 107026,
-    "count": 5
-   },
-   {}
-  ],
-  "rewardId": 314008,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133116139"
-   },
-   {
-    "param": ""
-   }
-  ],
-  "cutSceneId": 148
- },
- {
-  "offeringId": 8,
-  "level": 9,
-  "consumeItemConfigVec": [
-   {
-    "id": 107026,
-    "count": 5
-   },
-   {}
-  ],
-  "rewardId": 314009,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133116139"
-   },
-   {
-    "param": ""
-   }
-  ],
-  "cutSceneId": 148
- },
- {
-  "offeringId": 8,
-  "level": 10,
-  "consumeItemConfigVec": [
-   {
-    "id": 107026,
-    "count": 5
-   },
-   {}
-  ],
-  "rewardId": 314010,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133116139"
-   },
-   {
-    "param": ""
-   }
-  ],
-  "cutSceneId": 149
- },
- {
-  "offeringId": 9,
-  "consumeItemConfigVec": [
-   {},
-   {}
-  ],
-  "actionVec": [
-   {
-    "param": ""
-   },
-   {
-    "param": ""
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
    }
   ]
  },
  {
-  "offeringId": 9,
   "level": 1,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 314001,
+  "JNEJCNGFFDI": 8,
+  "JOFEEKGDIKG": 148,
+  "MIANHKIINNC": [
    {
-    "id": 301,
-    "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211301,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
+    "id": 107026,
+    "count": 5
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133116139"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 2,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 314002,
+  "JNEJCNGFFDI": 8,
+  "JOFEEKGDIKG": 148,
+  "MIANHKIINNC": [
    {
-    "id": 301,
-    "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211302,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
+    "id": 107026,
+    "count": 5
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133116139"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 3,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 314003,
+  "JNEJCNGFFDI": 8,
+  "JOFEEKGDIKG": 148,
+  "MIANHKIINNC": [
    {
-    "id": 301,
-    "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211303,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
+    "id": 107026,
+    "count": 5
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133116139"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 4,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 314004,
+  "JNEJCNGFFDI": 8,
+  "JOFEEKGDIKG": 148,
+  "MIANHKIINNC": [
    {
-    "id": 301,
-    "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211304,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
+    "id": 107026,
+    "count": 5
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133116139"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 5,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 314005,
+  "JNEJCNGFFDI": 8,
+  "JOFEEKGDIKG": 148,
+  "MIANHKIINNC": [
    {
-    "id": 301,
-    "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211305,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
+    "id": 107026,
+    "count": 5
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133116139"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 6,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 314006,
+  "JNEJCNGFFDI": 8,
+  "JOFEEKGDIKG": 148,
+  "MIANHKIINNC": [
    {
-    "id": 301,
-    "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211306,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
+    "id": 107026,
+    "count": 5
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133116139"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 7,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 314007,
+  "JNEJCNGFFDI": 8,
+  "JOFEEKGDIKG": 148,
+  "MIANHKIINNC": [
    {
-    "id": 301,
-    "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211307,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
+    "id": 107026,
+    "count": 5
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133116139"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 8,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 314008,
+  "JNEJCNGFFDI": 8,
+  "JOFEEKGDIKG": 148,
+  "MIANHKIINNC": [
    {
-    "id": 301,
-    "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211308,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
+    "id": 107026,
+    "count": 5
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133116139"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 9,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 314009,
+  "JNEJCNGFFDI": 8,
+  "JOFEEKGDIKG": 148,
+  "MIANHKIINNC": [
    {
-    "id": 301,
-    "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211309,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
+    "id": 107026,
+    "count": 5
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133116139"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 10,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 314010,
+  "JNEJCNGFFDI": 8,
+  "JOFEEKGDIKG": 149,
+  "MIANHKIINNC": [
+   {
+    "id": 107026,
+    "count": 5
+   }
+  ],
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133116139"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
+ },
+ {
+  "JNEJCNGFFDI": 9,
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
+ },
+ {
+  "level": 1,
+  "JICDGOLKLNC": 211301,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211310,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
+  "level": 2,
+  "JICDGOLKLNC": 211302,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
+   {
+    "id": 301,
+    "count": 30
+   }
+  ],
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
+ },
+ {
+  "level": 3,
+  "JICDGOLKLNC": 211303,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
+   {
+    "id": 301,
+    "count": 30
+   }
+  ],
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
+ },
+ {
+  "level": 4,
+  "JICDGOLKLNC": 211304,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
+   {
+    "id": 301,
+    "count": 30
+   }
+  ],
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
+ },
+ {
+  "level": 5,
+  "JICDGOLKLNC": 211305,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
+   {
+    "id": 301,
+    "count": 30
+   }
+  ],
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
+ },
+ {
+  "level": 6,
+  "JICDGOLKLNC": 211306,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
+   {
+    "id": 301,
+    "count": 30
+   }
+  ],
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
+ },
+ {
+  "level": 7,
+  "JICDGOLKLNC": 211307,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
+   {
+    "id": 301,
+    "count": 30
+   }
+  ],
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
+ },
+ {
+  "level": 8,
+  "JICDGOLKLNC": 211308,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
+   {
+    "id": 301,
+    "count": 30
+   }
+  ],
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
+ },
+ {
+  "level": 9,
+  "JICDGOLKLNC": 211309,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
+   {
+    "id": 301,
+    "count": 30
+   }
+  ],
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
+ },
+ {
+  "level": 10,
+  "JICDGOLKLNC": 211310,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
+   {
+    "id": 301,
+    "count": 30
+   }
+  ],
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
+ },
+ {
   "level": 11,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211311,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211311,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 12,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211312,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211312,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 13,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211313,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211313,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 14,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211314,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211314,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 15,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211315,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211315,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 16,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211316,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211316,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 17,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211317,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211317,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 18,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211318,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211318,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 19,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211319,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211319,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 20,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211320,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211320,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 21,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211321,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211321,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 22,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211322,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211322,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 23,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211323,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211323,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 24,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211324,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211324,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 25,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211325,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211325,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 26,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211326,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211326,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 27,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211327,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211327,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 28,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211328,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211328,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 29,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211329,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211329,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 30,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211330,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211330,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 31,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211331,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211331,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 32,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211332,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211332,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 33,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211333,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211333,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 34,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211334,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211334,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 35,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211335,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211335,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 36,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211336,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211336,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 37,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211337,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211337,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 38,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211338,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211338,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 39,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211339,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211339,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 40,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211340,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211340,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 41,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211341,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211341,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 42,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211342,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211342,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 43,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211343,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211343,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 44,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211344,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211344,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 45,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211345,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211345,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 46,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211346,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211346,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 47,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211347,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211347,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 48,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211348,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211348,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 49,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211349,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211349,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  },
  {
-  "offeringId": 9,
   "level": 50,
-  "consumeItemConfigVec": [
+  "JICDGOLKLNC": 211350,
+  "JNEJCNGFFDI": 9,
+  "JOFEEKGDIKG": 158,
+  "MIANHKIINNC": [
    {
     "id": 301,
     "count": 30
-   },
-   {}
-  ],
-  "rewardId": 211350,
-  "actionVec": [
-   {
-    "actionType": "OFFERING_ACTION_NOTIFY_GROUP",
-    "param": "133501230"
-   },
-   {
-    "param": ""
    }
   ],
-  "cutSceneId": 158
+  "NNCDOEHKCMM": [
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NOTIFY_GROUP",
+    "LJNDHEEHIBD": "133501230"
+   },
+   {
+    "DHKEILIEHBC": "OFFERING_ACTION_NONE"
+   }
+  ]
  }
 ]

@@ -1,357 +1,214 @@
 [
  {
-  "id": 1,
+  "ACPKHCFJDID": 1,
+  "BHBMNAFHPAN": 1,
   "type": "GCG_CHALLENGE_WIN",
-  "paramList": [
-   "",
-   "",
-   "",
-   ""
-  ],
-  "progressShow": 1,
-  "progress": 1
+  "id": 1
  },
  {
+  "ACPKHCFJDID": 1,
+  "BHBMNAFHPAN": 1,
+  "type": "GCG_CHALLENGE_DEAD_CHARACTER_NUM",
   "id": 2,
-  "type": "GCG_CHALLENGE_DEAD_CHARACTER_NUM",
-  "paramList": [
-   "",
-   "",
-   "",
-   ""
-  ],
-  "isAchieveFail": true,
-  "progressShow": 1,
-  "progress": 1
+  "KACDDCFCEHA": true
  },
  {
+  "ACPKHCFJDID": 2,
+  "BHBMNAFHPAN": 2,
+  "type": "GCG_CHALLENGE_DEAD_CHARACTER_NUM",
   "id": 3,
-  "type": "GCG_CHALLENGE_DEAD_CHARACTER_NUM",
-  "paramList": [
-   "",
-   "",
-   "",
-   ""
-  ],
-  "isAchieveFail": true,
-  "progressShow": 2,
-  "progress": 2
+  "KACDDCFCEHA": true
  },
  {
+  "ACPKHCFJDID": 3,
+  "BHBMNAFHPAN": 4,
+  "type": "GCG_CHALLENGE_ROUND_NUM",
   "id": 13,
-  "type": "GCG_CHALLENGE_ROUND_NUM",
-  "paramList": [
-   "",
-   "",
-   "",
-   ""
-  ],
-  "isAchieveFail": true,
-  "progressShow": 3,
-  "progress": 4
+  "KACDDCFCEHA": true
  },
  {
+  "ACPKHCFJDID": 4,
+  "BHBMNAFHPAN": 5,
+  "type": "GCG_CHALLENGE_ROUND_NUM",
   "id": 14,
-  "type": "GCG_CHALLENGE_ROUND_NUM",
-  "paramList": [
-   "",
-   "",
-   "",
-   ""
-  ],
-  "isAchieveFail": true,
-  "progressShow": 4,
-  "progress": 5
+  "KACDDCFCEHA": true
  },
  {
+  "ACPKHCFJDID": 5,
+  "BHBMNAFHPAN": 6,
+  "type": "GCG_CHALLENGE_ROUND_NUM",
   "id": 15,
-  "type": "GCG_CHALLENGE_ROUND_NUM",
-  "paramList": [
-   "",
-   "",
-   "",
-   ""
-  ],
-  "isAchieveFail": true,
-  "progressShow": 5,
-  "progress": 6
+  "KACDDCFCEHA": true
  },
  {
+  "ACPKHCFJDID": 6,
+  "BHBMNAFHPAN": 7,
+  "type": "GCG_CHALLENGE_ROUND_NUM",
   "id": 16,
-  "type": "GCG_CHALLENGE_ROUND_NUM",
-  "paramList": [
-   "",
-   "",
-   "",
-   ""
-  ],
-  "isAchieveFail": true,
-  "progressShow": 6,
-  "progress": 7
+  "KACDDCFCEHA": true
  },
  {
+  "ACPKHCFJDID": 7,
+  "BHBMNAFHPAN": 8,
+  "type": "GCG_CHALLENGE_ROUND_NUM",
   "id": 17,
-  "type": "GCG_CHALLENGE_ROUND_NUM",
-  "paramList": [
-   "",
-   "",
-   "",
-   ""
-  ],
-  "isAchieveFail": true,
-  "progressShow": 7,
-  "progress": 8
+  "KACDDCFCEHA": true
  },
  {
-  "id": 101,
-  "type": "GCG_CHALLENGE_PLAY_CARD_WITH_TAG_AND_TYPE_TIMES",
+  "ACPKHCFJDID": 1,
+  "BHBMNAFHPAN": 1,
   "paramList": [
    "GCG_TAG_WEAPON",
-   "GCG_CARD_MODIFY",
-   "",
-   ""
+   "GCG_CARD_MODIFY"
   ],
-  "progressShow": 1,
-  "progress": 1
+  "type": "GCG_CHALLENGE_PLAY_CARD_WITH_TAG_AND_TYPE_TIMES",
+  "id": 101
  },
  {
-  "id": 102,
-  "type": "GCG_CHALLENGE_PLAY_CARD_WITH_TAG_AND_TYPE_TIMES",
+  "ACPKHCFJDID": 1,
+  "BHBMNAFHPAN": 1,
   "paramList": [
    "GCG_TAG_ARTIFACT",
-   "GCG_CARD_MODIFY",
-   "",
-   ""
+   "GCG_CARD_MODIFY"
   ],
-  "progressShow": 1,
-  "progress": 1
+  "type": "GCG_CHALLENGE_PLAY_CARD_WITH_TAG_AND_TYPE_TIMES",
+  "id": 102
  },
  {
-  "id": 103,
-  "type": "GCG_CHALLENGE_PLAY_CARD_WITH_TAG_AND_TYPE_TIMES",
+  "ACPKHCFJDID": 1,
+  "BHBMNAFHPAN": 1,
   "paramList": [
    "GCG_TAG_PLACE",
-   "GCG_CARD_ASSIST",
-   "",
-   ""
+   "GCG_CARD_ASSIST"
   ],
-  "progressShow": 1,
-  "progress": 1
+  "type": "GCG_CHALLENGE_PLAY_CARD_WITH_TAG_AND_TYPE_TIMES",
+  "id": 103
  },
  {
-  "id": 104,
-  "type": "GCG_CHALLENGE_PLAY_CARD_WITH_TAG_AND_TYPE_TIMES",
+  "ACPKHCFJDID": 1,
+  "BHBMNAFHPAN": 1,
   "paramList": [
    "GCG_TAG_FOOD",
-   "GCG_CARD_EVENT",
-   "",
-   ""
+   "GCG_CARD_EVENT"
   ],
-  "progressShow": 1,
-  "progress": 1
- },
- {
-  "id": 105,
   "type": "GCG_CHALLENGE_PLAY_CARD_WITH_TAG_AND_TYPE_TIMES",
-  "paramList": [
-   "",
-   "GCG_CARD_EVENT",
-   "",
-   ""
-  ],
-  "progressShow": 2,
-  "progress": 2
+  "id": 104
  },
  {
-  "id": 106,
+  "ACPKHCFJDID": 2,
+  "BHBMNAFHPAN": 2,
+  "paramList": [
+   "GCG_CARD_EVENT"
+  ],
+  "type": "GCG_CHALLENGE_PLAY_CARD_WITH_TAG_AND_TYPE_TIMES",
+  "id": 105
+ },
+ {
+  "ACPKHCFJDID": 3,
+  "BHBMNAFHPAN": 3,
   "type": "GCG_CHALLENGE_PLAY_CARD_TIMES",
-  "paramList": [
-   "",
-   "",
-   "",
-   ""
-  ],
-  "progressShow": 3,
-  "progress": 3
+  "id": 106
  },
  {
-  "id": 201,
+  "ACPKHCFJDID": 1,
+  "BHBMNAFHPAN": 1,
   "type": "GCG_CHALLENGE_SKILL_TAG_Q_TIMES",
-  "paramList": [
-   "",
-   "",
-   "",
-   ""
-  ],
-  "progressShow": 1,
-  "progress": 1
+  "id": 201
  },
  {
-  "id": 202,
+  "ACPKHCFJDID": 2,
+  "BHBMNAFHPAN": 2,
   "type": "GCG_CHALLENGE_SKILL_TAG_Q_TIMES",
-  "paramList": [
-   "",
-   "",
-   "",
-   ""
-  ],
-  "progressShow": 2,
-  "progress": 2
+  "id": 202
  },
  {
-  "id": 203,
+  "ACPKHCFJDID": 3,
+  "BHBMNAFHPAN": 3,
   "type": "GCG_CHALLENGE_SKILL_TAG_Q_TIMES",
-  "paramList": [
-   "",
-   "",
-   "",
-   ""
-  ],
-  "progressShow": 3,
-  "progress": 3
+  "id": 203
  },
  {
-  "id": 211,
+  "ACPKHCFJDID": 1,
+  "BHBMNAFHPAN": 1,
   "type": "GCG_CHALLENGE_ELEMENT_REACTION_TIMES",
-  "paramList": [
-   "",
-   "",
-   "",
-   ""
-  ],
-  "progressShow": 1,
-  "progress": 1
+  "id": 211
  },
  {
-  "id": 212,
+  "ACPKHCFJDID": 2,
+  "BHBMNAFHPAN": 2,
   "type": "GCG_CHALLENGE_ELEMENT_REACTION_TIMES",
-  "paramList": [
-   "",
-   "",
-   "",
-   ""
-  ],
-  "progressShow": 2,
-  "progress": 2
+  "id": 212
  },
  {
-  "id": 213,
+  "ACPKHCFJDID": 3,
+  "BHBMNAFHPAN": 3,
   "type": "GCG_CHALLENGE_ELEMENT_REACTION_TIMES",
-  "paramList": [
-   "",
-   "",
-   "",
-   ""
-  ],
-  "progressShow": 3,
-  "progress": 3
+  "id": 213
  },
  {
-  "id": 901,
+  "ACPKHCFJDID": 1,
+  "BHBMNAFHPAN": 1,
   "type": "GCG_CHALLENGE_ELEMENT_REACTION_TIMES",
-  "paramList": [
-   "",
-   "",
-   "",
-   ""
-  ],
-  "progressShow": 1,
-  "progress": 1
+  "id": 901
  },
  {
-  "id": 902,
+  "ACPKHCFJDID": 1,
+  "BHBMNAFHPAN": 1,
+  "paramList": [
+   "8"
+  ],
   "type": "GCG_CHALLENGE_ONE_HIT_DAMAGE_TIMES",
-  "paramList": [
-   "8",
-   "",
-   "",
-   ""
-  ],
-  "progressShow": 1,
-  "progress": 1
+  "id": 902
  },
  {
-  "id": 903,
+  "ACPKHCFJDID": 1,
+  "BHBMNAFHPAN": 1,
   "type": "GCG_CHALLENGE_PLAY_CARD_TIMES",
-  "paramList": [
-   "",
-   "",
-   "",
-   ""
-  ],
-  "progressShow": 1,
-  "progress": 1
+  "id": 903
  },
  {
-  "id": 904,
+  "ACPKHCFJDID": 1,
+  "BHBMNAFHPAN": 1,
   "type": "GCG_CHALLENGE_SUMMON_TIMES",
-  "paramList": [
-   "",
-   "",
-   "",
-   ""
-  ],
-  "progressShow": 1,
-  "progress": 1
+  "id": 904
  },
  {
-  "id": 905,
+  "ACPKHCFJDID": 1,
+  "BHBMNAFHPAN": 1,
+  "paramList": [
+   "3"
+  ],
   "type": "GCG_CHALLENGE_SETTLE_WITH_SKILL_TAG_Q_TIMES",
-  "paramList": [
-   "3",
-   "",
-   "",
-   ""
-  ],
-  "progressShow": 1,
-  "progress": 1
+  "id": 905
  },
  {
-  "id": 906,
+  "ACPKHCFJDID": 1,
+  "BHBMNAFHPAN": 1,
   "type": "GCG_CHALLENGE_BEING_HEAL_SUM",
-  "paramList": [
-   "",
-   "",
-   "",
-   ""
-  ],
-  "progressShow": 1,
-  "progress": 1
+  "id": 906
  },
  {
-  "id": 907,
+  "ACPKHCFJDID": 1,
+  "BHBMNAFHPAN": 1,
   "type": "GCG_CHALLENGE_SHIELD_REDUCE_SUM",
-  "paramList": [
-   "",
-   "",
-   "",
-   ""
-  ],
-  "progressShow": 1,
-  "progress": 1
+  "id": 907
  },
  {
-  "id": 908,
+  "ACPKHCFJDID": 1,
+  "BHBMNAFHPAN": 1,
+  "paramList": [
+   "2"
+  ],
   "type": "GCG_CHALLENGE_ONE_OPERATION_KILL_COUNT_TIMES",
-  "paramList": [
-   "2",
-   "",
-   "",
-   ""
-  ],
-  "progressShow": 1,
-  "progress": 1
+  "id": 908
  },
  {
-  "id": 909,
-  "type": "GCG_CHALLENGE_ONE_OPERATION_DAMAGE_SUM_TIMES",
+  "ACPKHCFJDID": 1,
+  "BHBMNAFHPAN": 1,
   "paramList": [
-   "8",
-   "",
-   "",
-   ""
+   "8"
   ],
-  "progressShow": 1,
-  "progress": 1
+  "type": "GCG_CHALLENGE_ONE_OPERATION_DAMAGE_SUM_TIMES",
+  "id": 909
  }
 ]
