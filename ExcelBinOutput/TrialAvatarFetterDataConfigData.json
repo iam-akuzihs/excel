@@ -1,72 +1,72 @@
 [
  {
-  "INJCEGLIPHK": 111,
-  "avatarId": 10000022,
-  "KJIMOFJCPKK": {
-   "condType": "TRIAL_FETTER_CONDITION_COMPLETE_SUB_MISSION",
+  "finishCond": {
    "paramList": [
     39604
-   ]
-  }
+   ],
+   "condType": "TRIAL_FETTER_CONDITION_COMPLETE_SUB_MISSION"
+  },
+  "avatarId": 10000022,
+  "fetterId": 111
  },
  {
-  "INJCEGLIPHK": 118,
-  "avatarId": 10000030,
-  "KJIMOFJCPKK": {
-   "condType": "TRIAL_FETTER_CONDITION_COMPLETE_SUB_MISSION",
+  "finishCond": {
    "paramList": [
     102510
-   ]
-  }
+   ],
+   "condType": "TRIAL_FETTER_CONDITION_COMPLETE_SUB_MISSION"
+  },
+  "avatarId": 10000030,
+  "fetterId": 118
  },
  {
-  "INJCEGLIPHK": 139,
+  "finishCond": {
+   "paramList": [
+    1
+   ],
+   "condType": "TRIAL_FETTER_CONDITION_LEVEL"
+  },
   "avatarId": 10000052,
-  "KJIMOFJCPKK": {
-   "condType": "TRIAL_FETTER_CONDITION_LEVEL",
-   "paramList": [
-    1
-   ]
-  }
+  "fetterId": 139
  },
  {
-  "INJCEGLIPHK": 73600,
+  "finishCond": {
+   "paramList": [
+    1
+   ],
+   "condType": "TRIAL_FETTER_CONDITION_LEVEL"
+  },
   "avatarId": 10000073,
-  "KJIMOFJCPKK": {
-   "condType": "TRIAL_FETTER_CONDITION_LEVEL",
-   "paramList": [
-    1
-   ]
-  }
+  "fetterId": 73600
  },
  {
-  "INJCEGLIPHK": 87600,
-  "avatarId": 10000087,
-  "KJIMOFJCPKK": {
-   "condType": "TRIAL_FETTER_CONDITION_COMPLETE_SUB_MISSION",
+  "finishCond": {
    "paramList": [
     401906
-   ]
-  }
+   ],
+   "condType": "TRIAL_FETTER_CONDITION_COMPLETE_SUB_MISSION"
+  },
+  "avatarId": 10000087,
+  "fetterId": 87600
  },
  {
-  "INJCEGLIPHK": 89600,
-  "avatarId": 10000089,
-  "KJIMOFJCPKK": {
-   "condType": "TRIAL_FETTER_CONDITION_COMPLETE_SUB_MISSION",
+  "finishCond": {
    "paramList": [
     1401209
-   ]
-  }
+   ],
+   "condType": "TRIAL_FETTER_CONDITION_COMPLETE_SUB_MISSION"
+  },
+  "avatarId": 10000089,
+  "fetterId": 89600
  },
  {
-  "INJCEGLIPHK": 106600,
-  "avatarId": 10000106,
-  "KJIMOFJCPKK": {
-   "condType": "TRIAL_FETTER_CONDITION_LEVEL",
+  "finishCond": {
    "paramList": [
     1
-   ]
-  }
+   ],
+   "condType": "TRIAL_FETTER_CONDITION_LEVEL"
+  },
+  "avatarId": 10000106,
+  "fetterId": 106600
  }
 ]

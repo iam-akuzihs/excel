@@ -1,6 +1,6 @@
 [
  {
-  "CFCHDODHJBH": [
+  "sceneIdList": [
    2001,
    2002,
    2003,
@@ -10,262 +10,323 @@
    2007
   ],
   "icon": "UI_MarkSwitch_Homeworld",
-  "DBGAHPIICCC": 2904399338,
-  "type": "HomeWorld",
-  "DKJEMPEJGGG": 30,
-  "nameTextMapHash": 3071628724,
+  "unlockByDefault": false,
+  "hideBeforeUnlock": true,
+  "transPointID": 0,
+  "cityID": 0,
+  "defaultLocateX": 0,
+  "nameWithRubyTextTextMapHash": 2904399338,
   "id": 2,
-  "EMPIBDMFGJG": 10,
-  "NGJFDJPGBKF": true
+  "type": "HomeWorld",
+  "defaultLocateZ": 0,
+  "nameTextMapHash": 3071628724,
+  "sortID": 10,
+  "DKJEMPEJGGG": 30
  },
  {
-  "AKKEHKJMPIK": -655.726,
-  "CFCHDODHJBH": [
+  "sceneIdList": [
    4
   ],
   "icon": "UI_MarkSwitch_GoldenAppleIsles",
-  "DBGAHPIICCC": 4231616786,
-  "type": "Islands",
-  "DKJEMPEJGGG": 40,
-  "nameTextMapHash": 2157852924,
+  "unlockByDefault": false,
+  "hideBeforeUnlock": true,
+  "transPointID": 0,
+  "cityID": 0,
+  "defaultLocateX": -335.314,
+  "nameWithRubyTextTextMapHash": 4231616786,
   "id": 3,
-  "EMPIBDMFGJG": 20,
-  "MINEENKMAKD": -335.314,
-  "NGJFDJPGBKF": true
+  "type": "Islands",
+  "defaultLocateZ": -655.726,
+  "nameTextMapHash": 2157852924,
+  "sortID": 20,
+  "DKJEMPEJGGG": 40
  },
  {
-  "CFCHDODHJBH": [
+  "sceneIdList": [
    3
   ],
-  "CGEFGFLIOIG": 10,
   "icon": "UI_MarkSwitch_Bigworld",
-  "DBGAHPIICCC": 49482922,
-  "type": "BigWorld",
-  "DKJEMPEJGGG": 10,
-  "nameTextMapHash": 706446876,
+  "unlockByDefault": true,
+  "hideBeforeUnlock": false,
+  "transPointID": 10,
+  "cityID": 1,
+  "defaultLocateX": 0,
+  "nameWithRubyTextTextMapHash": 49482922,
   "id": 4,
-  "EMPIBDMFGJG": 100,
-  "MCJGOOAIKMG": 1,
-  "MPJAHFOAMKN": true
+  "type": "BigWorld",
+  "defaultLocateZ": 0,
+  "nameTextMapHash": 706446876,
+  "sortID": 100,
+  "DKJEMPEJGGG": 10
  },
  {
-  "CFCHDODHJBH": [
+  "sceneIdList": [
    3
   ],
-  "CGEFGFLIOIG": 128,
   "icon": "UI_MarkSwitch_Bigworld",
-  "DBGAHPIICCC": 1428887970,
-  "type": "BigWorld",
-  "DKJEMPEJGGG": 10,
-  "nameTextMapHash": 1982412604,
+  "unlockByDefault": false,
+  "hideBeforeUnlock": true,
+  "transPointID": 128,
+  "cityID": 2,
+  "defaultLocateX": 0,
+  "nameWithRubyTextTextMapHash": 1428887970,
   "id": 5,
-  "EMPIBDMFGJG": 100,
-  "MCJGOOAIKMG": 2,
-  "NGJFDJPGBKF": true
+  "type": "BigWorld",
+  "defaultLocateZ": 0,
+  "nameTextMapHash": 1982412604,
+  "sortID": 100,
+  "DKJEMPEJGGG": 10
  },
  {
-  "CFCHDODHJBH": [
+  "sceneIdList": [
    3
   ],
-  "CGEFGFLIOIG": 242,
   "icon": "UI_MarkSwitch_Bigworld",
-  "DBGAHPIICCC": 853904250,
-  "type": "BigWorld",
-  "DKJEMPEJGGG": 10,
-  "nameTextMapHash": 869248244,
+  "unlockByDefault": false,
+  "hideBeforeUnlock": true,
+  "transPointID": 242,
+  "cityID": 3,
+  "defaultLocateX": 0,
+  "nameWithRubyTextTextMapHash": 853904250,
   "id": 6,
-  "EMPIBDMFGJG": 100,
-  "MCJGOOAIKMG": 3,
-  "NGJFDJPGBKF": true
+  "type": "BigWorld",
+  "defaultLocateZ": 0,
+  "nameTextMapHash": 869248244,
+  "sortID": 100,
+  "DKJEMPEJGGG": 10
  },
  {
-  "CFCHDODHJBH": [
+  "sceneIdList": [
    5
   ],
-  "CGEFGFLIOIG": 31,
   "icon": "UI_MarkSwitch_Bigworld",
-  "DBGAHPIICCC": 1002315562,
-  "type": "Abyssalisle",
-  "DKJEMPEJGGG": 20,
-  "nameTextMapHash": 1862653596,
+  "unlockByDefault": false,
+  "hideBeforeUnlock": true,
+  "transPointID": 31,
+  "cityID": 0,
+  "defaultLocateX": 0,
+  "nameWithRubyTextTextMapHash": 1002315562,
   "id": 7,
-  "EMPIBDMFGJG": 70,
-  "NGJFDJPGBKF": true
+  "type": "Abyssalisle",
+  "defaultLocateZ": 0,
+  "nameTextMapHash": 1862653596,
+  "sortID": 70,
+  "DKJEMPEJGGG": 20
  },
  {
-  "CFCHDODHJBH": [
+  "sceneIdList": [
    7
   ],
-  "CGEFGFLIOIG": 2,
   "icon": "UI_MarkSwitch_Bigworld",
-  "DBGAHPIICCC": 2106142714,
-  "type": "MichiaeMatsuri",
-  "DKJEMPEJGGG": 40,
-  "nameTextMapHash": 2887066388,
+  "unlockByDefault": false,
+  "hideBeforeUnlock": true,
+  "transPointID": 2,
+  "cityID": 0,
+  "defaultLocateX": 0,
+  "nameWithRubyTextTextMapHash": 2106142714,
   "id": 8,
-  "EMPIBDMFGJG": 20,
-  "NGJFDJPGBKF": true
+  "type": "MichiaeMatsuri",
+  "defaultLocateZ": 0,
+  "nameTextMapHash": 2887066388,
+  "sortID": 20,
+  "DKJEMPEJGGG": 40
  },
  {
-  "CFCHDODHJBH": [
+  "sceneIdList": [
    6
   ],
-  "CGEFGFLIOIG": 1,
   "icon": "UI_MarkSwitch_Bigworld",
-  "DBGAHPIICCC": 3468523274,
-  "type": "TheChasm",
-  "DKJEMPEJGGG": 20,
-  "nameTextMapHash": 297471884,
+  "unlockByDefault": false,
+  "hideBeforeUnlock": true,
+  "transPointID": 1,
+  "cityID": 0,
+  "defaultLocateX": 0,
+  "nameWithRubyTextTextMapHash": 3468523274,
   "id": 9,
-  "EMPIBDMFGJG": 70,
-  "NGJFDJPGBKF": true
+  "type": "TheChasm",
+  "defaultLocateZ": 0,
+  "nameTextMapHash": 297471884,
+  "sortID": 70,
+  "DKJEMPEJGGG": 20
  },
  {
-  "CFCHDODHJBH": [
+  "sceneIdList": [
    9
   ],
-  "CGEFGFLIOIG": 33,
   "icon": "UI_MarkSwitch_GoldenAppleIsles",
-  "DBGAHPIICCC": 1255928274,
-  "type": "DreamIsland",
-  "DKJEMPEJGGG": 40,
-  "nameTextMapHash": 3682200372,
+  "unlockByDefault": false,
+  "hideBeforeUnlock": true,
+  "transPointID": 33,
+  "cityID": 0,
+  "defaultLocateX": 0,
+  "nameWithRubyTextTextMapHash": 1255928274,
   "id": 10,
-  "EMPIBDMFGJG": 5,
-  "NGJFDJPGBKF": true
+  "type": "DreamIsland",
+  "defaultLocateZ": 0,
+  "nameTextMapHash": 3682200372,
+  "sortID": 5,
+  "DKJEMPEJGGG": 40
  },
  {
-  "CFCHDODHJBH": [
+  "sceneIdList": [
    3
   ],
-  "CGEFGFLIOIG": 482,
   "icon": "UI_MarkSwitch_Bigworld",
-  "DBGAHPIICCC": 2308207546,
-  "type": "BigWorld",
-  "DKJEMPEJGGG": 10,
-  "nameTextMapHash": 1074864084,
+  "unlockByDefault": false,
+  "hideBeforeUnlock": true,
+  "transPointID": 482,
+  "cityID": 4,
+  "defaultLocateX": 0,
+  "nameWithRubyTextTextMapHash": 2308207546,
   "id": 11,
-  "EMPIBDMFGJG": 100,
-  "MCJGOOAIKMG": 4,
-  "NGJFDJPGBKF": true
+  "type": "BigWorld",
+  "defaultLocateZ": 0,
+  "nameTextMapHash": 1074864084,
+  "sortID": 100,
+  "DKJEMPEJGGG": 10
  },
  {
-  "CFCHDODHJBH": [
+  "sceneIdList": [
    1076
   ],
-  "CGEFGFLIOIG": 1,
   "icon": "UI_MarkSwitch_Bigworld",
-  "DBGAHPIICCC": 88855090,
-  "type": "CattailTavern",
-  "DKJEMPEJGGG": 30,
-  "nameTextMapHash": 4293069292,
+  "unlockByDefault": false,
+  "hideBeforeUnlock": true,
+  "transPointID": 1,
+  "cityID": 0,
+  "defaultLocateX": 0,
+  "nameWithRubyTextTextMapHash": 88855090,
   "id": 12,
-  "EMPIBDMFGJG": 5,
-  "NGJFDJPGBKF": true
+  "type": "CattailTavern",
+  "defaultLocateZ": 0,
+  "nameTextMapHash": 4293069292,
+  "sortID": 5,
+  "DKJEMPEJGGG": 30
  },
  {
-  "CFCHDODHJBH": [
+  "sceneIdList": [
    10
   ],
-  "CGEFGFLIOIG": 2,
   "icon": "UI_MarkSwitch_Penumbra",
-  "DBGAHPIICCC": 4273460602,
-  "type": "Penumbra",
-  "DKJEMPEJGGG": 40,
-  "nameTextMapHash": 1719443972,
+  "unlockByDefault": false,
+  "hideBeforeUnlock": true,
+  "transPointID": 2,
+  "cityID": 0,
+  "defaultLocateX": 0,
+  "nameWithRubyTextTextMapHash": 4273460602,
   "id": 13,
-  "EMPIBDMFGJG": 5,
-  "NGJFDJPGBKF": true
+  "type": "Penumbra",
+  "defaultLocateZ": 0,
+  "nameTextMapHash": 1719443972,
+  "sortID": 5,
+  "DKJEMPEJGGG": 40
  },
  {
-  "CFCHDODHJBH": [
+  "sceneIdList": [
    3
   ],
-  "CGEFGFLIOIG": 905,
   "icon": "UI_MarkSwitch_Bigworld",
-  "DBGAHPIICCC": 2073267570,
-  "type": "BigWorld",
-  "DKJEMPEJGGG": 10,
-  "nameTextMapHash": 2386365724,
+  "unlockByDefault": false,
+  "hideBeforeUnlock": true,
+  "transPointID": 905,
+  "cityID": 5,
+  "defaultLocateX": 0,
+  "nameWithRubyTextTextMapHash": 2073267570,
   "id": 14,
-  "EMPIBDMFGJG": 100,
-  "MCJGOOAIKMG": 5,
-  "NGJFDJPGBKF": true
+  "type": "BigWorld",
+  "defaultLocateZ": 0,
+  "nameTextMapHash": 2386365724,
+  "sortID": 100,
+  "DKJEMPEJGGG": 10
  },
  {
-  "AKKEHKJMPIK": 4525.223,
-  "CFCHDODHJBH": [
+  "sceneIdList": [
    11
   ],
-  "CGEFGFLIOIG": 1,
   "icon": "UI_MarkSwitch_Bigworld",
-  "DBGAHPIICCC": 2550451154,
-  "type": "DeepSea",
-  "DKJEMPEJGGG": 20,
-  "nameTextMapHash": 824436964,
+  "unlockByDefault": false,
+  "hideBeforeUnlock": true,
+  "transPointID": 1,
+  "cityID": 0,
+  "defaultLocateX": 1547.87,
+  "nameWithRubyTextTextMapHash": 2550451154,
   "id": 15,
-  "EMPIBDMFGJG": 70,
-  "MINEENKMAKD": 1547.87,
-  "NGJFDJPGBKF": true
+  "type": "DeepSea",
+  "defaultLocateZ": 4525.223,
+  "nameTextMapHash": 824436964,
+  "sortID": 70,
+  "DKJEMPEJGGG": 20
  },
  {
-  "AKKEHKJMPIK": 98.561,
-  "CFCHDODHJBH": [
+  "sceneIdList": [
    100
   ],
-  "CGEFGFLIOIG": 13,
   "icon": "UI_MarkSwitch_FairyTales",
-  "DBGAHPIICCC": 730070956,
-  "type": "Fairybook",
-  "DKJEMPEJGGG": 20,
-  "nameTextMapHash": 1938538708,
+  "unlockByDefault": false,
+  "hideBeforeUnlock": true,
+  "transPointID": 13,
+  "cityID": 0,
+  "defaultLocateX": 228.754,
+  "nameWithRubyTextTextMapHash": 730070956,
   "id": 16,
-  "EMPIBDMFGJG": 5,
-  "MINEENKMAKD": 228.754,
-  "NGJFDJPGBKF": true
+  "type": "Fairybook",
+  "defaultLocateZ": 98.561,
+  "nameTextMapHash": 1938538708,
+  "sortID": 5,
+  "DKJEMPEJGGG": 20
  },
  {
-  "CFCHDODHJBH": [
+  "sceneIdList": [
    48000
   ],
   "icon": "UI_MarkSwitch_RoleCombat",
-  "DBGAHPIICCC": 2141889930,
-  "type": "RoleCombat",
-  "DKJEMPEJGGG": 30,
-  "nameTextMapHash": 2963086156,
+  "unlockByDefault": false,
+  "hideBeforeUnlock": true,
+  "transPointID": 0,
+  "cityID": 0,
+  "defaultLocateX": 0,
+  "nameWithRubyTextTextMapHash": 2141889930,
   "id": 17,
-  "EMPIBDMFGJG": 5,
-  "NGJFDJPGBKF": true
+  "type": "RoleCombat",
+  "defaultLocateZ": 0,
+  "nameTextMapHash": 2963086156,
+  "sortID": 5,
+  "DKJEMPEJGGG": 30
  },
  {
-  "AKKEHKJMPIK": -151,
-  "CFCHDODHJBH": [
+  "sceneIdList": [
    101
   ],
-  "CGEFGFLIOIG": 1,
   "icon": "UI_MarkSwitch_Bigworld",
-  "DBGAHPIICCC": 3397611426,
-  "type": "Volcano",
-  "DKJEMPEJGGG": 20,
-  "nameTextMapHash": 966415828,
+  "unlockByDefault": false,
+  "hideBeforeUnlock": true,
+  "transPointID": 1,
+  "cityID": 0,
+  "defaultLocateX": 309,
+  "nameWithRubyTextTextMapHash": 3397611426,
   "id": 18,
-  "EMPIBDMFGJG": 70,
-  "MINEENKMAKD": 309,
-  "NGJFDJPGBKF": true
+  "type": "Volcano",
+  "defaultLocateZ": -151,
+  "nameTextMapHash": 966415828,
+  "sortID": 70,
+  "DKJEMPEJGGG": 20
  },
  {
-  "CFCHDODHJBH": [
+  "sceneIdList": [
    3
   ],
-  "CGEFGFLIOIG": 1250,
   "icon": "UI_MarkSwitch_Bigworld",
-  "DBGAHPIICCC": 3921510330,
-  "type": "BigWorld",
-  "DKJEMPEJGGG": 10,
-  "nameTextMapHash": 2736148156,
+  "unlockByDefault": false,
+  "hideBeforeUnlock": true,
+  "transPointID": 1250,
+  "cityID": 6,
+  "defaultLocateX": 0,
+  "nameWithRubyTextTextMapHash": 3921510330,
   "id": 19,
-  "EMPIBDMFGJG": 100,
-  "MCJGOOAIKMG": 6,
-  "NGJFDJPGBKF": true
+  "type": "BigWorld",
+  "defaultLocateZ": 0,
+  "nameTextMapHash": 2736148156,
+  "sortID": 100,
+  "DKJEMPEJGGG": 10
  }
 ]

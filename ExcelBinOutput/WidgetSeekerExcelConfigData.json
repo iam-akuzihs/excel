@@ -1,16 +1,6 @@
 [
  {
-  "BCJELBPFJDN": "OPEN_STATE_GUIDE_WIDGET_SEEKER_SEELIE",
-  "BKPMBGIBNOD": true,
-  "CENDJLHJCIN": 13480,
-  "EJPPJHDMLEM": 1,
-  "HNGAJFJPNJN": [
-   70710010,
-   70720217,
-   70310190,
-   70330741
-  ],
-  "JBMHJKGJDBI": "WIDGET_SEEKER_TARGET_SEELIE",
+  "KKGAGFFCMJG": "MarkClientDetectorSeelie",
   "JFMKHBCPJNB": [
    {
     "paramList": [
@@ -19,16 +9,40 @@
     "type": "WIDGET_SEEKER_REMOVE_DISTANCE_LESS"
    },
    {
+    "paramList": [],
     "type": "WIDGET_SEEKER_REMOVE_NONE"
    }
   ],
-  "KKGAGFFCMJG": "MarkClientDetectorSeelie"
+  "HNGAJFJPNJN": [
+   70710010,
+   70720217,
+   70310190,
+   70330741
+  ],
+  "JBMHJKGJDBI": "WIDGET_SEEKER_TARGET_SEELIE",
+  "LJEDCKAFDEE": false,
+  "KCAMNELGKPJ": false,
+  "BKPMBGIBNOD": true,
+  "guideOpenState": "OPEN_STATE_GUIDE_WIDGET_SEEKER_SEELIE",
+  "CENDJLHJCIN": 13480,
+  "id": 1
  },
  {
-  "BCJELBPFJDN": "OPEN_STATE_GUIDE_WIDGET_SEEKER_SEELIE",
-  "BKPMBGIBNOD": true,
-  "CENDJLHJCIN": 13480,
-  "EJPPJHDMLEM": 2,
+  "KKGAGFFCMJG": "MarkClientDetectorChallenge",
+  "JFMKHBCPJNB": [
+   {
+    "paramList": [
+     2
+    ],
+    "type": "WIDGET_SEEKER_REMOVE_DISTANCE_LESS"
+   },
+   {
+    "paramList": [
+     0
+    ],
+    "type": "WIDGET_SEEKER_REMOVE_STATE_ID_INEQUAL"
+   }
+  ],
   "HNGAJFJPNJN": [
    70350082,
    70350457,
@@ -57,6 +71,15 @@
    70330736
   ],
   "JBMHJKGJDBI": "WIDGET_SEEKER_TARGET_CHALLENGE",
+  "LJEDCKAFDEE": true,
+  "KCAMNELGKPJ": false,
+  "BKPMBGIBNOD": true,
+  "guideOpenState": "OPEN_STATE_GUIDE_WIDGET_SEEKER_SEELIE",
+  "CENDJLHJCIN": 13480,
+  "id": 2
+ },
+ {
+  "KKGAGFFCMJG": "MarkClientDetectorSeelie",
   "JFMKHBCPJNB": [
    {
     "paramList": [
@@ -65,21 +88,23 @@
     "type": "WIDGET_SEEKER_REMOVE_DISTANCE_LESS"
    },
    {
-    "type": "WIDGET_SEEKER_REMOVE_STATE_ID_INEQUAL"
+    "paramList": [],
+    "type": "WIDGET_SEEKER_REMOVE_NONE"
    }
   ],
-  "KKGAGFFCMJG": "MarkClientDetectorChallenge",
-  "LJEDCKAFDEE": true
- },
- {
-  "BCJELBPFJDN": "OPEN_STATE_GUIDE_WIDGET_SEEKER_SEELIE",
-  "BKPMBGIBNOD": true,
-  "CENDJLHJCIN": 13480,
-  "EJPPJHDMLEM": 3,
   "HNGAJFJPNJN": [
    70720214
   ],
   "JBMHJKGJDBI": "WIDGET_SEEKER_TARGET_WARM_SEELIE",
+  "LJEDCKAFDEE": false,
+  "KCAMNELGKPJ": false,
+  "BKPMBGIBNOD": true,
+  "guideOpenState": "OPEN_STATE_GUIDE_WIDGET_SEEKER_SEELIE",
+  "CENDJLHJCIN": 13480,
+  "id": 3
+ },
+ {
+  "KKGAGFFCMJG": "MarkClientDetectorSeelie",
   "JFMKHBCPJNB": [
    {
     "paramList": [
@@ -88,20 +113,25 @@
     "type": "WIDGET_SEEKER_REMOVE_DISTANCE_LESS"
    },
    {
-    "type": "WIDGET_SEEKER_REMOVE_NONE"
+    "paramList": [
+     0
+    ],
+    "type": "WIDGET_SEEKER_REMOVE_STATE_ID_INEQUAL"
    }
   ],
-  "KKGAGFFCMJG": "MarkClientDetectorSeelie"
- },
- {
-  "BCJELBPFJDN": "OPEN_STATE_GUIDE_WIDGET_SEEKER_SEELIE",
-  "BKPMBGIBNOD": true,
-  "CENDJLHJCIN": 13480,
-  "EJPPJHDMLEM": 4,
   "HNGAJFJPNJN": [
    70350292
   ],
   "JBMHJKGJDBI": "WIDGET_SEEKER_TARGET_THUNDERSEED",
+  "LJEDCKAFDEE": false,
+  "KCAMNELGKPJ": false,
+  "BKPMBGIBNOD": true,
+  "guideOpenState": "OPEN_STATE_GUIDE_WIDGET_SEEKER_SEELIE",
+  "CENDJLHJCIN": 13480,
+  "id": 4
+ },
+ {
+  "KKGAGFFCMJG": "MarkClientDetectorSeelie",
   "JFMKHBCPJNB": [
    {
     "paramList": [
@@ -110,38 +140,36 @@
     "type": "WIDGET_SEEKER_REMOVE_DISTANCE_LESS"
    },
    {
-    "type": "WIDGET_SEEKER_REMOVE_STATE_ID_INEQUAL"
+    "paramList": [],
+    "type": "WIDGET_SEEKER_REMOVE_NONE"
    }
   ],
-  "KKGAGFFCMJG": "MarkClientDetectorSeelie"
- },
- {
-  "BCJELBPFJDN": "OPEN_STATE_GUIDE_WIDGET_SEEKER_SEELIE",
-  "BKPMBGIBNOD": true,
-  "CENDJLHJCIN": 13480,
-  "EJPPJHDMLEM": 5,
   "HNGAJFJPNJN": [
    70801090,
    70292245
   ],
   "JBMHJKGJDBI": "WIDGET_SEEKER_TARGET_GRAFFITI_SEELIE",
+  "LJEDCKAFDEE": false,
+  "KCAMNELGKPJ": false,
+  "BKPMBGIBNOD": true,
+  "guideOpenState": "OPEN_STATE_GUIDE_WIDGET_SEEKER_SEELIE",
+  "CENDJLHJCIN": 13480,
+  "id": 5
+ },
+ {
+  "KKGAGFFCMJG": "MarkClientDetector",
   "JFMKHBCPJNB": [
    {
     "paramList": [
-     2
+     102
     ],
-    "type": "WIDGET_SEEKER_REMOVE_DISTANCE_LESS"
+    "type": "WIDGET_SEEKER_REMOVE_STATE_ID_EQUAL"
    },
    {
+    "paramList": [],
     "type": "WIDGET_SEEKER_REMOVE_NONE"
    }
   ],
-  "KKGAGFFCMJG": "MarkClientDetectorSeelie"
- },
- {
-  "BCJELBPFJDN": "OPEN_STATE_NONE",
-  "BKPMBGIBNOD": true,
-  "EJPPJHDMLEM": 6,
   "HNGAJFJPNJN": [
    70210063,
    70211001,
@@ -198,18 +226,11 @@
    70220129
   ],
   "JBMHJKGJDBI": "WIDGET_SEEKER_TARGET_CHEST",
-  "JFMKHBCPJNB": [
-   {
-    "paramList": [
-     102
-    ],
-    "type": "WIDGET_SEEKER_REMOVE_STATE_ID_EQUAL"
-   },
-   {
-    "type": "WIDGET_SEEKER_REMOVE_NONE"
-   }
-  ],
+  "LJEDCKAFDEE": false,
   "KCAMNELGKPJ": true,
-  "KKGAGFFCMJG": "MarkClientDetector"
+  "BKPMBGIBNOD": true,
+  "guideOpenState": "OPEN_STATE_NONE",
+  "CENDJLHJCIN": 0,
+  "id": 6
  }
 ]

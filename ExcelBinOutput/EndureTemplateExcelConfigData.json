@@ -1,118 +1,121 @@
 [
  {
-  "AHGAHBDKAPC": 2,
-  "CHACLAAFPCA": 100,
+  "waneSpeed": 10,
+  "endurance": 1,
+  "recoverTime": 2,
   "type": "Default",
-  "MKLDNKNHCGF": 10,
-  "PBLGNEPMPGE": 1
+  "gaugeLength": 100
  },
  {
-  "AHGAHBDKAPC": 2,
-  "CHACLAAFPCA": 100,
+  "waneSpeed": 5,
+  "endurance": 1,
+  "recoverTime": 2,
   "type": "Avatar_Sword",
-  "MKLDNKNHCGF": 5,
-  "PBLGNEPMPGE": 1
+  "gaugeLength": 100
  },
  {
-  "AHGAHBDKAPC": 2,
-  "CHACLAAFPCA": 100,
+  "waneSpeed": 5,
+  "endurance": 1,
+  "recoverTime": 2,
   "type": "Avatar_Pole",
-  "MKLDNKNHCGF": 5,
-  "PBLGNEPMPGE": 1
+  "gaugeLength": 100
  },
  {
-  "AHGAHBDKAPC": 2,
-  "CHACLAAFPCA": 100,
+  "waneSpeed": 5,
+  "endurance": 1,
+  "recoverTime": 2,
   "type": "Avatar_Claymore",
-  "MKLDNKNHCGF": 5,
-  "PBLGNEPMPGE": 1
+  "gaugeLength": 100
  },
  {
-  "AHGAHBDKAPC": 3,
-  "CHACLAAFPCA": 50,
+  "waneSpeed": 3,
+  "endurance": 1,
+  "recoverTime": 3,
   "type": "Avatar_Bow",
-  "MKLDNKNHCGF": 3,
-  "PBLGNEPMPGE": 1
+  "gaugeLength": 50
  },
  {
-  "AHGAHBDKAPC": 3,
-  "CHACLAAFPCA": 50,
+  "waneSpeed": 3,
+  "endurance": 1,
+  "recoverTime": 3,
   "type": "Avatar_Catalyst",
-  "MKLDNKNHCGF": 3,
-  "PBLGNEPMPGE": 1
+  "gaugeLength": 50
  },
  {
-  "AHGAHBDKAPC": 5,
-  "CHACLAAFPCA": 60,
+  "waneSpeed": 5,
+  "endurance": 1.2,
+  "recoverTime": 5,
   "type": "Monster_Minion",
-  "MKLDNKNHCGF": 5,
-  "PBLGNEPMPGE": 1.2
+  "gaugeLength": 60
  },
  {
-  "AHGAHBDKAPC": 3,
-  "CHACLAAFPCA": 100,
+  "waneSpeed": 5,
+  "endurance": 1,
+  "recoverTime": 3,
   "type": "Monster_Grunt_Humanoid",
-  "MKLDNKNHCGF": 5,
-  "PBLGNEPMPGE": 1
+  "gaugeLength": 100
  },
  {
-  "AHGAHBDKAPC": 3,
-  "CHACLAAFPCA": 120,
+  "waneSpeed": 5,
+  "endurance": 0.8,
+  "recoverTime": 3,
   "type": "Monster_Grunt_Other",
-  "MKLDNKNHCGF": 5,
-  "PBLGNEPMPGE": 0.8
+  "gaugeLength": 120
  },
  {
-  "AHGAHBDKAPC": 2,
-  "CHACLAAFPCA": 210,
+  "waneSpeed": 20,
+  "endurance": 1,
+  "recoverTime": 2,
   "type": "Monster_Demiboss_Humanoid",
-  "MKLDNKNHCGF": 20,
-  "PBLGNEPMPGE": 1
+  "gaugeLength": 210
  },
  {
-  "AHGAHBDKAPC": 2,
-  "CHACLAAFPCA": 280,
+  "waneSpeed": 20,
+  "endurance": 0.7,
+  "recoverTime": 2,
   "type": "Monster_Demiboss_Other",
-  "MKLDNKNHCGF": 20,
-  "PBLGNEPMPGE": 0.7
+  "gaugeLength": 280
  },
  {
-  "CHACLAAFPCA": 2000,
+  "waneSpeed": 100,
+  "endurance": 0.5,
+  "recoverTime": 0,
   "type": "Monster_Boss_Humanoid",
-  "MKLDNKNHCGF": 100,
-  "PBLGNEPMPGE": 0.5
+  "gaugeLength": 2000
  },
  {
-  "CHACLAAFPCA": 2000,
+  "waneSpeed": 100,
+  "endurance": 0.5,
+  "recoverTime": 0,
   "type": "Monster_Boss_Other",
-  "MKLDNKNHCGF": 100,
-  "PBLGNEPMPGE": 0.5
+  "gaugeLength": 2000
  },
  {
-  "AHGAHBDKAPC": 5,
-  "CHACLAAFPCA": 30,
+  "waneSpeed": 2,
+  "endurance": 1.5,
+  "recoverTime": 5,
   "type": "Monster_Slime",
-  "MKLDNKNHCGF": 2,
-  "PBLGNEPMPGE": 1.5
+  "gaugeLength": 30
  },
  {
-  "AHGAHBDKAPC": 99999,
-  "CHACLAAFPCA": 500,
+  "waneSpeed": 0,
+  "endurance": 1,
+  "recoverTime": 99999,
   "type": "Monster_Tartaglia",
-  "PBLGNEPMPGE": 1
+  "gaugeLength": 500
  },
  {
-  "AHGAHBDKAPC": 99999,
-  "CHACLAAFPCA": 390,
+  "waneSpeed": 13,
+  "endurance": 1,
+  "recoverTime": 99999,
   "type": "Monster_Shougun",
-  "MKLDNKNHCGF": 13,
-  "PBLGNEPMPGE": 1
+  "gaugeLength": 390
  },
  {
-  "AHGAHBDKAPC": 1,
-  "CHACLAAFPCA": 600,
+  "waneSpeed": 200,
+  "endurance": 1,
+  "recoverTime": 1,
   "type": "Monster_Fungus_Battle",
-  "MKLDNKNHCGF": 200,
-  "PBLGNEPMPGE": 1
+  "gaugeLength": 600
  }
 ]
