@@ -1,326 +1,332 @@
 [
  {
-  "overallMax": 0.4,
+  "propName": "Animator_MoveSpeedRatio",
   "overallMin": -0.4,
-  "propName": "Animator_MoveSpeedRatio"
+  "overallMax": 0.4
  },
  {
-  "overallMax": 0.6,
+  "propName": "Animator_AttackSpeedRatio",
   "overallMin": -0.4,
-  "propName": "Animator_AttackSpeedRatio"
+  "overallMax": 0.6
  },
  {
-  "overallMax": 10,
+  "propName": "Actor_CostStaminaRatio",
   "overallMin": -1,
-  "propName": "Actor_CostStaminaRatio"
+  "overallMax": 10
  },
  {
-  "overallMax": 10,
+  "propName": "Actor_RecoverStaminaRatio",
   "overallMin": -1,
-  "propName": "Actor_RecoverStaminaRatio"
+  "overallMax": 10
  },
  {
-  "overallMax": 10,
-  "propName": "Actor_EndureDelta"
+  "propName": "Actor_EndureDelta",
+  "overallMax": 10
  },
  {
-  "overallMax": 99,
+  "propName": "Actor_AddGravityScale",
   "overallMin": -2,
-  "propName": "Actor_AddGravityScale"
+  "overallMax": 99
  },
  {
-  "overallMax": 99,
+  "propName": "Actor_FallingDamageRatio",
   "overallMin": -1,
-  "propName": "Actor_FallingDamageRatio"
+  "overallMax": 99
  },
  {
-  "overallMax": 9,
+  "propName": "Actor_MaxHPRatio",
   "overallMin": -1,
-  "propName": "Actor_MaxHPRatio"
+  "overallMax": 9
  },
  {
-  "overallMax": 50000,
+  "propName": "Actor_MaxHPDelta",
   "overallMin": -50000,
-  "propName": "Actor_MaxHPDelta"
+  "overallMax": 50000
  },
  {
-  "overallMax": 9,
+  "propName": "Actor_DefenceRatio",
   "overallMin": -1,
-  "propName": "Actor_DefenceRatio"
+  "overallMax": 9
  },
  {
-  "overallMax": 5000,
+  "propName": "Actor_DefenceDelta",
   "overallMin": -5000,
-  "propName": "Actor_DefenceDelta"
+  "overallMax": 5000
  },
  {
-  "overallMax": 9,
+  "propName": "Actor_AttackRatio",
   "overallMin": -1,
-  "propName": "Actor_AttackRatio"
+  "overallMax": 9
  },
  {
-  "overallMax": 4000,
+  "propName": "Actor_AttackDelta",
   "overallMin": -4000,
-  "propName": "Actor_AttackDelta"
+  "overallMax": 4000
  },
  {
-  "overallMax": 3,
+  "propName": "Actor_CriticalDelta",
   "overallMin": -3,
-  "propName": "Actor_CriticalDelta"
+  "overallMax": 3
  },
  {
-  "overallMax": 3,
+  "propName": "Actor_AntiCriticalDelta",
   "overallMin": -3,
-  "propName": "Actor_AntiCriticalDelta"
+  "overallMax": 3
  },
  {
-  "overallMax": 5,
+  "propName": "Actor_CriticalHurtDelta",
   "overallMin": -1,
-  "propName": "Actor_CriticalHurtDelta"
+  "overallMax": 5
  },
  {
-  "overallMax": 3,
+  "propName": "Actor_AddHurtDelta",
   "overallMin": -1,
-  "propName": "Actor_AddHurtDelta"
+  "overallMax": 3
  },
  {
-  "overallMax": 1,
+  "propName": "Actor_SubHurtDelta",
   "overallMin": -3,
-  "propName": "Actor_SubHurtDelta"
+  "overallMax": 1
  },
  {
-  "overallMax": 3,
+  "propName": "Actor_HealAddDelta",
   "overallMin": -1,
-  "propName": "Actor_HealAddDelta"
+  "overallMax": 3
  },
  {
-  "overallMax": 3,
+  "propName": "Actor_HealedAddDelta",
   "overallMin": -1,
-  "propName": "Actor_HealedAddDelta"
+  "overallMax": 3
  },
  {
-  "overallMax": 5,
+  "propName": "Actor_PhysicalAddHurtDelta",
   "overallMin": -1,
-  "propName": "Actor_PhysicalAddHurtDelta"
+  "overallMax": 5
  },
  {
-  "overallMax": 5,
+  "propName": "Actor_FireAddHurtDelta",
   "overallMin": -1,
-  "propName": "Actor_FireAddHurtDelta"
+  "overallMax": 5
  },
  {
-  "overallMax": 5,
+  "propName": "Actor_WaterAddHurtDelta",
   "overallMin": -1,
-  "propName": "Actor_WaterAddHurtDelta"
+  "overallMax": 5
  },
  {
-  "overallMax": 5,
+  "propName": "Actor_GrassAddHurtDelta",
   "overallMin": -1,
-  "propName": "Actor_GrassAddHurtDelta"
+  "overallMax": 5
  },
  {
-  "overallMax": 5,
+  "propName": "Actor_ElecAddHurtDelta",
   "overallMin": -1,
-  "propName": "Actor_ElecAddHurtDelta"
+  "overallMax": 5
  },
  {
-  "overallMax": 5,
+  "propName": "Actor_IceAddHurtDelta",
   "overallMin": -1,
-  "propName": "Actor_IceAddHurtDelta"
+  "overallMax": 5
  },
  {
-  "overallMax": 5,
+  "propName": "Actor_WindAddHurtDelta",
   "overallMin": -1,
-  "propName": "Actor_WindAddHurtDelta"
+  "overallMax": 5
  },
  {
-  "overallMax": 5,
+  "propName": "Actor_RockAddHurtDelta",
   "overallMin": -1,
-  "propName": "Actor_RockAddHurtDelta"
+  "overallMax": 5
  },
  {
-  "overallMax": 5,
+  "propName": "Actor_PhysicalSubHurtDelta",
   "overallMin": -3,
-  "propName": "Actor_PhysicalSubHurtDelta"
+  "overallMax": 5
  },
  {
-  "overallMax": 5,
+  "propName": "Actor_FireSubHurtDelta",
   "overallMin": -3,
-  "propName": "Actor_FireSubHurtDelta"
+  "overallMax": 5
  },
  {
-  "overallMax": 5,
+  "propName": "Actor_WaterSubHurtDelta",
   "overallMin": -3,
-  "propName": "Actor_WaterSubHurtDelta"
+  "overallMax": 5
  },
  {
-  "overallMax": 5,
+  "propName": "Actor_GrassSubHurtDelta",
   "overallMin": -3,
-  "propName": "Actor_GrassSubHurtDelta"
+  "overallMax": 5
  },
  {
-  "overallMax": 5,
+  "propName": "Actor_ElecSubHurtDelta",
   "overallMin": -3,
-  "propName": "Actor_ElecSubHurtDelta"
+  "overallMax": 5
  },
  {
-  "overallMax": 5,
+  "propName": "Actor_IceSubHurtDelta",
   "overallMin": -3,
-  "propName": "Actor_IceSubHurtDelta"
+  "overallMax": 5
  },
  {
-  "overallMax": 5,
+  "propName": "Actor_WindSubHurtDelta",
   "overallMin": -3,
-  "propName": "Actor_WindSubHurtDelta"
+  "overallMax": 5
  },
  {
-  "overallMax": 5,
+  "propName": "Actor_RockSubHurtDelta",
   "overallMin": -3,
-  "propName": "Actor_RockSubHurtDelta"
+  "overallMax": 5
  },
  {
-  "overallMax": 3000,
+  "propName": "Actor_ElemMasteryDelta",
   "overallMin": -3000,
-  "propName": "Actor_ElemMasteryDelta"
+  "overallMax": 3000
  },
  {
-  "overallMax": 5,
+  "propName": "Actor_ElemReactSwirlFireDelta",
   "overallMin": -1,
-  "propName": "Actor_ElemReactSwirlFireDelta"
+  "overallMax": 5
  },
  {
-  "overallMax": 5,
+  "propName": "Actor_ElemReactSwirlIceDelta",
   "overallMin": -1,
-  "propName": "Actor_ElemReactSwirlIceDelta"
+  "overallMax": 5
  },
  {
-  "overallMax": 5,
+  "propName": "Actor_ElemReactSwirlWaterDelta",
   "overallMin": -1,
-  "propName": "Actor_ElemReactSwirlWaterDelta"
+  "overallMax": 5
  },
  {
-  "overallMax": 5,
+  "propName": "Actor_ElemReactSwirlElectricDelta",
   "overallMin": -1,
-  "propName": "Actor_ElemReactSwirlElectricDelta"
+  "overallMax": 5
  },
  {
-  "overallMax": 5,
+  "propName": "Actor_ElemReactSConductDelta",
   "overallMin": -1,
-  "propName": "Actor_ElemReactSConductDelta"
+  "overallMax": 5
  },
  {
-  "overallMax": 5,
+  "propName": "Actor_ElemReactElectricDelta",
   "overallMin": -1,
-  "propName": "Actor_ElemReactElectricDelta"
+  "overallMax": 5
  },
  {
-  "overallMax": 5,
+  "propName": "Actor_ElemReactBurnDelta",
   "overallMin": -1,
-  "propName": "Actor_ElemReactBurnDelta"
+  "overallMax": 5
  },
  {
-  "overallMax": 5,
+  "propName": "Actor_ElemReactFreezeDelta",
   "overallMin": -1,
-  "propName": "Actor_ElemReactFreezeDelta"
+  "overallMax": 5
  },
  {
-  "overallMax": 5,
+  "propName": "Actor_ElemReactExplodeDelta",
   "overallMin": -1,
-  "propName": "Actor_ElemReactExplodeDelta"
+  "overallMax": 5
  },
  {
-  "overallMax": 9,
+  "propName": "Actor_ElemReactFrozenBrokenDelta",
   "overallMin": -1,
-  "propName": "Actor_ElemReactFrozenBrokenDelta"
+  "overallMax": 9
  },
  {
-  "overallMax": 5,
+  "propName": "Actor_ElemReactOvergrowDelta",
   "overallMin": -1,
-  "propName": "Actor_ElemReactOvergrowDelta"
+  "overallMax": 5
  },
  {
-  "overallMax": 5,
+  "propName": "Actor_ElemReactOvergrowFireDelta",
   "overallMin": -1,
-  "propName": "Actor_ElemReactOvergrowFireDelta"
+  "overallMax": 5
  },
  {
-  "overallMax": 5,
+  "propName": "Actor_ElemReactOvergrowElectricDelta",
   "overallMin": -1,
-  "propName": "Actor_ElemReactOvergrowElectricDelta"
+  "overallMax": 5
  },
  {
-  "overallMax": 5,
+  "propName": "Actor_ElemReactSteamDelta",
   "overallMin": -1,
-  "propName": "Actor_ElemReactSteamDelta"
+  "overallMax": 5
  },
  {
-  "overallMax": 5,
+  "propName": "Actor_ElemReactMeltDelta",
   "overallMin": -1,
-  "propName": "Actor_ElemReactMeltDelta"
+  "overallMax": 5
  },
  {
-  "overallMax": 1,
-  "propName": "Actor_DefenseIgnoreRatio"
+  "propName": "Actor_DefenseIgnoreRatio",
+  "overallMax": 1
  },
  {
-  "overallMax": 5000,
-  "propName": "Actor_DefenseIgnoreDelta"
+  "propName": "Actor_DefenseIgnoreDelta",
+  "overallMax": 5000
  },
  {
-  "overallMax": 1,
-  "propName": "Actor_PhysicalMuteHurtDelta"
+  "propName": "Actor_PhysicalMuteHurtDelta",
+  "overallMax": 1
  },
  {
-  "overallMax": 1,
-  "propName": "Actor_FireMuteHurtDelta"
+  "propName": "Actor_FireMuteHurtDelta",
+  "overallMax": 1
  },
  {
-  "overallMax": 1,
-  "propName": "Actor_WaterMuteHurtDelta"
+  "propName": "Actor_WaterMuteHurtDelta",
+  "overallMax": 1
  },
  {
-  "overallMax": 1,
-  "propName": "Actor_GrassMuteHurtDelta"
+  "propName": "Actor_GrassMuteHurtDelta",
+  "overallMax": 1
  },
  {
-  "overallMax": 1,
-  "propName": "Actor_ElecMuteHurtDelta"
+  "propName": "Actor_ElecMuteHurtDelta",
+  "overallMax": 1
  },
  {
-  "overallMax": 1,
-  "propName": "Actor_IceMuteHurtDelta"
+  "propName": "Actor_IceMuteHurtDelta",
+  "overallMax": 1
  },
  {
-  "overallMax": 1,
-  "propName": "Actor_WindMuteHurtDelta"
+  "propName": "Actor_WindMuteHurtDelta",
+  "overallMax": 1
  },
  {
-  "overallMax": 1,
-  "propName": "Actor_RockMuteHurtDelta"
+  "propName": "Actor_RockMuteHurtDelta",
+  "overallMax": 1
  },
  {
-  "overallMax": 0.8,
+  "propName": "Actor_SkillCDMinusRatio",
   "overallMin": -5,
-  "propName": "Actor_SkillCDMinusRatio"
+  "overallMax": 0.8
  },
  {
-  "overallMax": 200,
   "propName": "Duration",
-  "propType": "BEYOND_CELL_ELEMENT_DURATION"
+  "propType": "BEYOND_CELL_ELEMENT_DURATION",
+  "overallMax": 200
  },
  {
-  "overallMax": 5,
+  "propName": "Actor_ElemReactOverdoseElectricDelta",
   "overallMin": -1,
-  "propName": "Actor_ElemReactOverdoseElectricDelta"
+  "overallMax": 5
  },
  {
-  "overallMax": 5,
+  "propName": "Actor_ElemReactOverdoseGrassDelta",
   "overallMin": -1,
-  "propName": "Actor_ElemReactOverdoseGrassDelta"
+  "overallMax": 5
  },
  {
-  "overallMax": 5,
+  "propName": "Actor_ChargeEfficiencyDelta",
   "overallMin": -5,
-  "propName": "Actor_ChargeEfficiencyDelta"
+  "overallMax": 5
+ },
+ {
+  "propName": "FIGHT_PROP_MAX_HP",
+  "propType": "BEYOND_FIGHT_PROPERTY",
+  "overallMin": 1,
+  "INEDMEMEPEI": true
  }
 ]
