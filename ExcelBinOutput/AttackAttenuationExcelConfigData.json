@@ -1,32 +1,61 @@
 [
  {
-  "group": "default",
+  "durabilitySequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 2.5,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "default"
+ },
+ {
   "durabilitySequence": [
    1,
-   0,
-   0,
    1,
-   0,
-   0,
    1,
-   0,
-   0,
    1,
-   0,
-   0,
    1,
-   0,
-   0,
    1,
-   0,
-   0,
    1,
-   0,
-   0,
-   1,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -44,52 +73,36 @@
    1,
    1
   ],
-  "damageSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ]
- },
- {
-  "group": "Ambor",
   "resetCycle": 1,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Ambor"
+ },
+ {
   "durabilitySequence": [
    1,
-   0,
-   0,
    1,
-   0,
-   0,
    1,
-   0,
-   0,
    1,
-   0,
-   0,
    1,
-   0,
-   0,
    1,
-   0,
-   0,
    1,
-   0,
-   0,
-   1,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -107,52 +120,36 @@
    1,
    1
   ],
-  "damageSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ]
- },
- {
-  "group": "Venti",
   "resetCycle": 1,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Venti"
+ },
+ {
   "durabilitySequence": [
    1,
-   0,
-   0,
    1,
-   0,
-   0,
    1,
-   0,
-   0,
    1,
-   0,
-   0,
    1,
-   0,
-   0,
    1,
-   0,
-   0,
    1,
-   0,
-   0,
-   1,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -170,60 +167,34 @@
    1,
    1
   ],
-  "damageSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ]
- },
- {
-  "group": "Fischl",
   "resetCycle": 5,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Fischl"
+ },
+ {
   "durabilitySequence": [
    1,
-   0,
-   0,
-   0,
    1,
-   0,
-   0,
-   0,
    1,
-   0,
-   0,
-   0,
    1,
-   0,
-   0,
-   0,
    1,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -241,58 +212,36 @@
    1,
    1
   ],
-  "damageSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ]
- },
- {
-  "group": "Diluc",
   "resetCycle": 5,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Diluc"
+ },
+ {
   "durabilitySequence": [
    1,
-   0,
-   0,
-   0,
-   0,
    1,
-   0,
-   0,
-   0,
-   0,
    1,
-   0,
-   0,
-   0,
-   0,
    1,
-   0,
-   0,
-   0,
-   0,
    1,
-   0,
-   0,
-   0,
-   0,
    1,
-   0,
-   0,
-   0,
-   0
+   1,
+   1
   ],
   "enbreakSequence": [
    1,
@@ -310,90 +259,17 @@
    1,
    1
   ],
-  "damageSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ]
- },
- {
-  "group": "Hutao_ExtraAttack",
   "resetCycle": 0.8,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
-   0,
-   0,
    1,
-   0,
-   0,
    1,
-   0,
-   0,
    1,
-   0,
-   0,
-   1,
-   0,
-   0
-  ]
+   1
+  ],
+  "group": "Hutao_ExtraAttack"
  },
  {
-  "group": "Skirmisher_Fat_SprayGun_Ice",
-  "resetCycle": 1,
   "durabilitySequence": [
    1,
    1,
@@ -410,6 +286,7 @@
    1,
    1
   ],
+  "resetCycle": 1,
   "damageSequence": [
    1,
    0.5,
@@ -417,18 +294,12 @@
    0.1,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Skirmisher_Fat_SprayGun_Ice"
  },
  {
-  "group": "Mimik_Common",
-  "resetCycle": 0.5,
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -438,25 +309,15 @@
    1,
    1
   ],
+  "resetCycle": 0.5,
   "damageSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
+   1
+  ],
+  "group": "Mimik_Common"
  },
  {
-  "group": "Regisvine_Common",
-  "resetCycle": 0.5,
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -466,18 +327,13 @@
    1,
    1
   ],
+  "resetCycle": 0.5,
   "damageSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
+   1
+  ],
+  "group": "Regisvine_Common"
  },
  {
-  "group": "ElementReaction_Damage_Attenuation_1",
-  "resetCycle": 0.5,
   "durabilitySequence": [
    1,
    1,
@@ -502,22 +358,14 @@
    1,
    1
   ],
+  "resetCycle": 0.5,
   "damageSequence": [
    1,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
+   1
+  ],
+  "group": "ElementReaction_Damage_Attenuation_1"
  },
  {
-  "group": "ElementReaction_Damage_Attenuation_2",
-  "resetCycle": 0.5,
   "durabilitySequence": [
    1,
    1,
@@ -542,38 +390,30 @@
    1,
    1
   ],
+  "resetCycle": 0.5,
   "damageSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
+   1
+  ],
+  "group": "ElementReaction_Damage_Attenuation_2"
  },
  {
-  "group": "Oceanid_Crab_WaterStream",
+  "durabilitySequence": [
+   1,
+   1,
+   1,
+   1,
+   0.1,
+   0.1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1,
+   0.1,
+   0.1
+  ],
   "resetCycle": 1,
-  "durabilitySequence": [
-   1,
-   1,
-   1,
-   1,
-   0.1,
-   0.1
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   0.1,
-   0.1
-  ],
   "damageSequence": [
    1,
    0.25,
@@ -581,39 +421,23 @@
    0.1,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Oceanid_Crab_WaterStream"
  },
  {
-  "group": "Animal_Boar_03_RushAttack",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 2,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
   "damageSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
+   1
+  ],
+  "group": "Animal_Boar_03_RushAttack"
  },
  {
-  "group": "Abyss_Fire_FireEnergy_Attenuation",
-  "resetCycle": 0.5,
   "durabilitySequence": [
    1,
    1,
@@ -630,45 +454,72 @@
    1,
    1
   ],
+  "resetCycle": 0.5,
   "damageSequence": [
    1,
    0.5,
-   0.25,
-   0,
-   0,
-   0
-  ]
+   0.25
+  ],
+  "group": "Abyss_Fire_FireEnergy_Attenuation"
  },
  {
-  "group": "Avatar_Pole_ExtraAttack",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 0.5,
+  "damageSequence": [
+   1
+  ],
+  "group": "Avatar_Pole_ExtraAttack"
+ },
+ {
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
+   1
+  ],
+  "resetCycle": 1,
+  "damageSequence": [
+   1
+  ],
+  "group": "Monster_Tartaglia_Attenuation_1"
+ },
+ {
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
    1,
    1,
    1,
@@ -684,104 +535,42 @@
    1,
    1
   ],
-  "damageSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
- },
- {
-  "group": "Monster_Tartaglia_Attenuation_1",
-  "resetCycle": 1,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "damageSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
- },
- {
-  "group": "Ayaka_ExtraAttack",
   "resetCycle": 0.5,
-  "durabilitySequence": [
+  "damageSequence": [
    1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
+   1,
+   1
+  ],
+  "group": "Ayaka_ExtraAttack"
+ },
+ {
+  "durabilitySequence": [
+   1
   ],
   "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
+   1
+  ],
+  "resetCycle": 0.4,
+  "damageSequence": [
+   1
+  ],
+  "group": "Monster_Konungmathr_Attenuation_1"
+ },
+ {
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
+  "resetCycle": 0.4,
+  "damageSequence": [
+   1
+  ],
+  "group": "Monster_Konungmathr_Attenuation_2"
+ },
+ {
+  "durabilitySequence": [
    1,
    1,
    1,
@@ -792,117 +581,12 @@
    1,
    1
   ],
-  "damageSequence": [
-   1,
-   1,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
- },
- {
-  "group": "Monster_Konungmathr_Attenuation_1",
-  "resetCycle": 0.4,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
   "enbreakSequence": [
    1,
-   0,
-   0,
-   0,
-   0,
-   0
+   1,
+   1
   ],
-  "damageSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
- },
- {
-  "group": "Monster_Konungmathr_Attenuation_2",
-  "resetCycle": 0.4,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "damageSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
- },
- {
-  "group": "Monster_Effigy_Elite_Rock_StoneBall",
   "resetCycle": 1,
-  "durabilitySequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "enbreakSequence": [
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0
-  ],
   "damageSequence": [
    1,
    0.7,
@@ -913,105 +597,83 @@
    0.1,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Monster_Effigy_Elite_Rock_StoneBall"
  },
  {
-  "group": "Xiao_DevilDash",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 0.1,
+  "damageSequence": [
+   1
+  ],
+  "group": "Xiao_DevilDash"
+ },
+ {
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "damageSequence": [
    1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
- },
- {
-  "group": "Monster_Primo_Attenuation_Breathe",
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 0.5,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    0.5,
-   0.25,
-   0,
-   0,
-   0
-  ]
+   0.25
+  ],
+  "group": "Monster_Primo_Attenuation_Breathe"
  },
  {
-  "group": "Monster_Primo_Attenuation_ScaleGadget",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 0.5,
+  "damageSequence": [
+   1
+  ],
+  "group": "Monster_Primo_Attenuation_ScaleGadget"
+ },
+ {
   "durabilitySequence": [
    1,
-   0,
-   0,
-   0,
-   0,
-   0
+   1,
+   1,
+   1,
+   1,
+   1
   ],
   "enbreakSequence": [
    1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "damageSequence": [
    1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
- },
- {
-  "group": "MonsterAffix_GeneralSkill_IceDamage_Prison",
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 1,
+  "damageSequence": [
+   1
+  ],
+  "group": "MonsterAffix_GeneralSkill_IceDamage_Prison"
+ },
+ {
   "durabilitySequence": [
    1,
-   1,
-   1,
-   1,
-   1,
-   1
+   0.5,
+   0.25
   ],
   "enbreakSequence": [
    1,
@@ -1021,25 +683,19 @@
    1,
    1
   ],
-  "damageSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
- },
- {
-  "group": "Monster_Invoker_Deacon_Attenuation_1",
   "resetCycle": 0.5,
+  "damageSequence": [
+   1,
+   0.5,
+   0.25
+  ],
+  "group": "Monster_Invoker_Deacon_Attenuation_1"
+ },
+ {
   "durabilitySequence": [
    1,
    0.5,
-   0.25,
-   0,
-   0,
-   0
+   0.25
   ],
   "enbreakSequence": [
    1,
@@ -1049,62 +705,26 @@
    1,
    1
   ],
+  "resetCycle": 1,
   "damageSequence": [
    1,
    0.5,
-   0.25,
-   0,
-   0,
-   0
-  ]
+   0.25
+  ],
+  "group": "Monster_Invoker_Deacon_Attenuation_2"
  },
  {
-  "group": "Monster_Invoker_Deacon_Attenuation_2",
-  "resetCycle": 1,
   "durabilitySequence": [
-   1,
-   0.5,
-   0.25,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
    1,
    1,
    1
   ],
-  "damageSequence": [
-   1,
-   0.5,
-   0.25,
-   0,
-   0,
-   0
-  ]
- },
- {
-  "group": "Monster_Invoker_Herald_Attenuation_1",
-  "resetCycle": 1,
-  "durabilitySequence": [
-   1,
-   0,
-   1,
-   0,
-   1,
-   0
-  ],
   "enbreakSequence": [
    1,
-   0,
    1,
-   0,
-   1,
-   0
+   1
   ],
+  "resetCycle": 1,
   "damageSequence": [
    1,
    0.5,
@@ -1112,18 +732,32 @@
    0.25,
    0.25,
    0.25
-  ]
+  ],
+  "group": "Monster_Invoker_Herald_Attenuation_1"
  },
  {
-  "group": "Effigy_Ice_Attenuation_1",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 0.5,
+  "damageSequence": [
+   1
+  ],
+  "group": "Effigy_Ice_Attenuation_1"
+ },
+ {
   "durabilitySequence": [
    1,
-   0,
-   0,
-   0,
-   0,
-   0
+   1,
+   1
   ],
   "enbreakSequence": [
    1,
@@ -1133,47 +767,43 @@
    1,
    1
   ],
-  "damageSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
- },
- {
-  "group": "Effigy_Ice_Attenuation_2",
   "resetCycle": 1,
-  "durabilitySequence": [
+  "damageSequence": [
    1,
    1,
-   1,
-   0,
-   0,
-   0
+   1
   ],
-  "enbreakSequence": [
-   1,
-   1,
+  "group": "Effigy_Ice_Attenuation_2"
+ },
+ {
+  "durabilitySequence": [
    1,
    1,
    1,
    1
   ],
-  "damageSequence": [
+  "enbreakSequence": [
    1,
    1,
    1,
-   0,
-   0,
-   0
-  ]
- },
- {
-  "group": "Effigy_Fire_DiveCrush",
+   1
+  ],
   "resetCycle": 4,
+  "damageSequence": [
+   1,
+   0.5,
+   0.2,
+   0.1
+  ],
+  "group": "Effigy_Fire_DiveCrush"
+ },
+ {
   "durabilitySequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
    1,
    1,
    1,
@@ -1183,40 +813,14 @@
    1,
    1,
    1,
+   1,
+   1,
+   1,
+   1,
+   1,
    1
   ],
-  "damageSequence": [
-   1,
-   0.5,
-   0.2,
-   0.1
-  ]
- },
- {
-  "group": "Effigy_Fire_MultiFire",
   "resetCycle": 2,
-  "durabilitySequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    0.5,
@@ -1227,39 +831,28 @@
    0.1,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Effigy_Fire_MultiFire"
  },
  {
-  "group": "Effigy_Fire_RollingCharge",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 0.5,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
+  "damageSequence": [
    1
   ],
-  "damageSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
+  "group": "Effigy_Fire_RollingCharge"
  },
  {
-  "group": "Monster_Dahaka_Breath",
-  "resetCycle": 1,
   "durabilitySequence": [
    1,
    1,
@@ -1274,17 +867,17 @@
    1,
    1
   ],
+  "resetCycle": 1,
   "damageSequence": [
    1,
    0.5,
    0.25,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Monster_Dahaka_Breath"
  },
  {
-  "group": "Monster_Brute_Electric_None",
-  "resetCycle": 1,
   "durabilitySequence": [
    1,
    1,
@@ -1297,61 +890,37 @@
   "enbreakSequence": [
    1,
    1,
-   1,
-   0,
-   0,
-   0,
-   0
+   1
   ],
+  "resetCycle": 1,
   "damageSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
+   1
+  ],
+  "group": "Monster_Brute_Electric_None"
  },
  {
-  "group": "SceneObj_ThunderFloor",
+  "durabilitySequence": [
+   1,
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 5,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    1,
    1,
    1,
    1
-  ]
+  ],
+  "group": "SceneObj_ThunderFloor"
  },
  {
-  "group": "Monster_Shougun_ElectricEye",
-  "resetCycle": 1,
   "durabilitySequence": [
    1,
    1,
@@ -1362,15 +931,15 @@
    1,
    1
   ],
+  "resetCycle": 1,
   "damageSequence": [
    1,
    0.25,
    0.1
-  ]
+  ],
+  "group": "Monster_Shougun_ElectricEye"
  },
  {
-  "group": "Monster_Abyss_Electric_ElectricCircle",
-  "resetCycle": 1,
   "durabilitySequence": [
    1,
    1,
@@ -1385,32 +954,16 @@
   ],
   "enbreakSequence": [
    1,
-   0,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
+   1
   ],
+  "resetCycle": 1,
   "damageSequence": [
    1,
-   0,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ]
+   1
+  ],
+  "group": "Monster_Abyss_Electric_ElectricCircle"
  },
  {
-  "group": "Monster_Effigy_Water_SurgeStrike",
-  "resetCycle": 1,
   "durabilitySequence": [
    1,
    1,
@@ -1423,274 +976,140 @@
    1,
    1
   ],
+  "resetCycle": 1,
   "damageSequence": [
    1,
    0.5,
    0.25,
    0.1
-  ]
+  ],
+  "group": "Monster_Effigy_Water_SurgeStrike"
  },
  {
-  "group": "Monster_LaSignora_Attenuation_Impulse",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 1,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
   "damageSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
+   1
+  ],
+  "group": "Monster_LaSignora_Attenuation_Impulse"
  },
  {
-  "group": "Shenhe_ElementalArt_L_Bullet",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 0.1,
+  "damageSequence": [
+   1
+  ],
+  "group": "Shenhe_ElementalArt_L_Bullet"
+ },
+ {
   "durabilitySequence": [
    1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
+   1,
+   1
   ],
   "enbreakSequence": [
    1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "damageSequence": [
    1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
- },
- {
-  "group": "Monster_ForlornVessel_Lance_ChargeAtk",
+   1
+  ],
   "resetCycle": 0.5,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0
-  ],
   "damageSequence": [
    1,
-   0,
-   0,
    1,
-   0,
-   0,
-   1,
-   0,
-   0
-  ]
+   1
+  ],
+  "group": "Monster_ForlornVessel_Lance_ChargeAtk"
  },
  {
-  "group": "Yae_ExtraAttack",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 0.5,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
   "damageSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
+   1
+  ],
+  "group": "Yae_ExtraAttack"
  },
  {
-  "group": "Monster_ForlornVessel_Warbanner_NormalAtk",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 0.1,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
   "damageSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
+   1
+  ],
+  "group": "Monster_ForlornVessel_Warbanner_NormalAtk"
  },
  {
-  "group": "Monster_ForlornVessel_Chargebow_NormalAtk",
-  "resetCycle": 0.5,
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
+   1
   ],
+  "resetCycle": 0.5,
   "damageSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
+   1
+  ],
+  "group": "Monster_ForlornVessel_Chargebow_NormalAtk"
  },
  {
-  "group": "Monster_Darkwraith_Strong_Wind_ChainAtk02",
-  "resetCycle": 0.5,
   "durabilitySequence": [
    1,
-   0.2,
-   0,
-   0,
-   0,
-   0
+   0.2
   ],
   "enbreakSequence": [
    1,
    0.4,
-   0.1,
-   0,
-   0,
-   0
+   0.1
   ],
+  "resetCycle": 0.5,
   "damageSequence": [
    1,
    0.4,
-   0.1,
-   0,
-   0,
-   0
-  ]
+   0.1
+  ],
+  "group": "Monster_Darkwraith_Strong_Wind_ChainAtk02"
  },
  {
-  "group": "Yelan_ExtraAttack",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 0.3,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0,
-   0,
-   0
-  ],
   "damageSequence": [
-   1,
-   0,
-   0,
-   0
-  ]
+   1
+  ],
+  "group": "Yelan_ExtraAttack"
  },
  {
-  "group": "Yelan_ElementalBurst",
-  "resetCycle": 2,
   "durabilitySequence": [
    1,
-   0,
-   0,
    1,
-   0,
-   0,
    1,
-   0,
-   0,
    1,
-   0,
-   0,
    1,
-   0,
-   0,
    1,
-   0,
-   0,
    1,
-   0,
-   0,
-   1,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -1708,6 +1127,7 @@
    1,
    1
   ],
+  "resetCycle": 2,
   "damageSequence": [
    1,
    1,
@@ -1724,51 +1144,48 @@
    1,
    1,
    1
-  ]
+  ],
+  "group": "Yelan_ElementalBurst"
  },
  {
-  "group": "Fafnir_Air_ChargeAtk",
+  "durabilitySequence": [
+   1,
+   0.5,
+   0.2
+  ],
+  "enbreakSequence": [
+   1,
+   0.5,
+   0.2
+  ],
   "resetCycle": 0.3,
-  "durabilitySequence": [
-   1,
-   0.5,
-   0.2,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0.5,
-   0.2,
-   0
-  ],
   "damageSequence": [
    1,
    0.5,
-   0.2,
-   0
-  ]
+   0.2
+  ],
+  "group": "Fafnir_Air_ChargeAtk"
  },
  {
-  "group": "Fafnir_ElementAtk",
+  "durabilitySequence": [
+   1,
+   0.3,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1
+  ],
+  "enbreakSequence": [
+   1,
+   0.3,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1
+  ],
   "resetCycle": 0.5,
-  "durabilitySequence": [
-   1,
-   0.3,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1
-  ],
-  "enbreakSequence": [
-   1,
-   0.3,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1
-  ],
   "damageSequence": [
    1,
    0.3,
@@ -1777,11 +1194,10 @@
    0.1,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Fafnir_ElementAtk"
  },
  {
-  "group": "Fafnir_Air_ChestAtk",
-  "resetCycle": 2,
   "durabilitySequence": [
    1,
    0.3,
@@ -1800,6 +1216,7 @@
    0.1,
    0.1
   ],
+  "resetCycle": 2,
   "damageSequence": [
    1,
    0.3,
@@ -1828,107 +1245,86 @@
    0.01,
    0.01,
    0.01
-  ]
+  ],
+  "group": "Fafnir_Air_ChestAtk"
  },
  {
-  "group": "Fafnir_Air_WingAtk",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 0.5,
+  "damageSequence": [
+   1
+  ],
+  "group": "Fafnir_Air_WingAtk"
+ },
+ {
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
+  "resetCycle": 0.5,
+  "damageSequence": [
+   1
+  ],
+  "group": "Gargoyle_Airborne_Normalatk"
+ },
+ {
   "durabilitySequence": [
    1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
+   0.5,
+   0.2
   ],
   "enbreakSequence": [
    1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
+   0.5,
+   0.2
   ],
-  "damageSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
- },
- {
-  "group": "Gargoyle_Airborne_Normalatk",
-  "resetCycle": 0.5,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "damageSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
- },
- {
-  "group": "Gargoyle_Ground_ChargeAtk",
   "resetCycle": 0.3,
-  "durabilitySequence": [
-   1,
-   0.5,
-   0.2,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0.5,
-   0.2,
-   0
-  ],
   "damageSequence": [
    1,
    0.5,
-   0.2,
-   0
-  ]
+   0.2
+  ],
+  "group": "Gargoyle_Ground_ChargeAtk"
  },
  {
-  "group": "Gargoyle_ElementAtk",
+  "durabilitySequence": [
+   1,
+   0.3,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1
+  ],
+  "enbreakSequence": [
+   1,
+   0.3,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1
+  ],
   "resetCycle": 0.5,
+  "damageSequence": [
+   1,
+   0.3,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1
+  ],
+  "group": "Gargoyle_ElementAtk"
+ },
+ {
   "durabilitySequence": [
    1,
    0.3,
@@ -1947,37 +1343,7 @@
    0.1,
    0.1
   ],
-  "damageSequence": [
-   1,
-   0.3,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1
-  ]
- },
- {
-  "group": "Airborne_ChestAtk",
   "resetCycle": 0.3,
-  "durabilitySequence": [
-   1,
-   0.3,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1
-  ],
-  "enbreakSequence": [
-   1,
-   0.3,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1
-  ],
   "damageSequence": [
    1,
    0.3,
@@ -1986,171 +1352,56 @@
    0.1,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Airborne_ChestAtk"
  },
  {
-  "group": "Collei_Boomerang_Go",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 5,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
   "damageSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
+   1
+  ],
+  "group": "Collei_Boomerang_Go"
  },
  {
-  "group": "Collei_Boomerang_Back",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 5,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
   "damageSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
+   1
+  ],
+  "group": "Collei_Boomerang_Back"
  },
  {
-  "group": "Fungus_Trois_Atk",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 0.5,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
   "damageSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
+   1
+  ],
+  "group": "Fungus_Trois_Atk"
  },
  {
-  "group": "DendroTornado_Atk",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 2,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
   "damageSequence": [
    1,
    0.1,
@@ -2161,24 +1412,49 @@
    0.1,
    0.1,
    0.1
-  ]
+  ],
+  "group": "DendroTornado_Atk"
  },
  {
-  "group": "Tighnari",
+  "durabilitySequence": [
+   1,
+   1,
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 2.5,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Tighnari"
+ },
+ {
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -2194,37 +1470,26 @@
    1,
    1
   ],
-  "damageSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ]
- },
- {
-  "group": "Collei_Elemental_Burst",
   "resetCycle": 3,
-  "durabilitySequence": [
+  "damageSequence": [
    1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Collei_Elemental_Burst"
+ },
+ {
+  "durabilitySequence": [
+   1
   ],
   "enbreakSequence": [
    1,
@@ -2240,37 +1505,66 @@
    1,
    1
   ],
-  "damageSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ]
- },
- {
-  "group": "Dori_Elemental_Burst",
   "resetCycle": 3,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Dori_Elemental_Burst"
+ },
+ {
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   0.5,
+   0.25,
+   0.1
+  ],
+  "resetCycle": 2,
+  "damageSequence": [
+   1,
+   0.5,
+   0.25,
+   0.1
+  ],
+  "group": "Monster_Nada_EnergyFire_Bullet"
+ },
+ {
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   0.5,
+   0.25,
+   0.1
+  ],
+  "resetCycle": 2,
+  "damageSequence": [
+   1,
+   0.5,
+   0.25,
+   0.1
+  ],
+  "group": "Monster_Nada_EnergySpray"
+ },
+ {
   "durabilitySequence": [
    1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
+   1,
+   1
   ],
   "enbreakSequence": [
    1,
@@ -2286,96 +1580,7 @@
    1,
    1
   ],
-  "damageSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ]
- },
- {
-  "group": "Monster_Nada_EnergyFire_Bullet",
-  "resetCycle": 2,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0.5,
-   0.25,
-   0.1
-  ],
-  "damageSequence": [
-   1,
-   0.5,
-   0.25,
-   0.1
-  ]
- },
- {
-  "group": "Monster_Nada_EnergySpray",
-  "resetCycle": 2,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0.5,
-   0.25,
-   0.1
-  ],
-  "damageSequence": [
-   1,
-   0.5,
-   0.25,
-   0.1
-  ]
- },
- {
-  "group": "Nilou_Sustained_Water",
   "resetCycle": 1.9,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    1,
@@ -2389,18 +1594,35 @@
    1,
    1,
    1
-  ]
+  ],
+  "group": "Nilou_Sustained_Water"
  },
  {
-  "group": "Monster_Nada_Tile_Ice",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 3,
-  "durabilitySequence": [
+  "damageSequence": [
    1,
-   0,
-   0,
-   0,
-   0,
-   0
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Monster_Nada_Tile_Ice"
+ },
+ {
+  "durabilitySequence": [
+   1
   ],
   "enbreakSequence": [
    1,
@@ -2410,34 +1632,7 @@
    1,
    1
   ],
-  "damageSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ]
- },
- {
-  "group": "Monster_Nada_Tile_Fire",
   "resetCycle": 3,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    1,
@@ -2445,43 +1640,43 @@
    1,
    1,
    1
-  ]
+  ],
+  "group": "Monster_Nada_Tile_Fire"
  },
  {
-  "group": "Cyno_ElementalArt",
+  "durabilitySequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 2.5,
-  "durabilitySequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    1,
@@ -2498,127 +1693,67 @@
    1,
    1,
    1
-  ]
+  ],
+  "group": "Cyno_ElementalArt"
  },
  {
-  "group": "Cyno_ElementalArt_Bullet",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 0.2,
+  "damageSequence": [
+   1
+  ],
+  "group": "Cyno_ElementalArt_Bullet"
+ },
+ {
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "damageSequence": [
    1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
- },
- {
-  "group": "Cyno_ElementalArt_Blade",
+   1
+  ],
   "resetCycle": 2.5,
+  "damageSequence": [
+   1,
+   1,
+   1
+  ],
+  "group": "Cyno_ElementalArt_Blade"
+ },
+ {
   "durabilitySequence": [
    1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
   ],
   "enbreakSequence": [
    1,
    1,
    1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
   ],
-  "damageSequence": [
-   1,
-   1,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
- },
- {
-  "group": "Cyno_Constellation_6",
   "resetCycle": 2.5,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    1,
@@ -2635,233 +1770,188 @@
    1,
    1,
    1
-  ]
+  ],
+  "group": "Cyno_Constellation_6"
  },
  {
-  "group": "Fungus_Amanita_Du_Anudatta_ShootBullet",
+  "durabilitySequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 3,
-  "durabilitySequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "damageSequence": [
-   1,
-   0.5,
-   0.5,
-   0.1,
-   0.1,
-   0,
-   0
-  ]
- },
- {
-  "group": "Effigy_Fire_BurningGround_Elite",
-  "resetCycle": 2,
-  "durabilitySequence": [
-   1,
-   0,
-   1,
-   0,
-   1,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "damageSequence": [
-   1,
-   0.5,
-   0.3,
-   0.2,
-   0,
-   0
-  ]
- },
- {
-  "group": "Eremite_Longbow_DropAttack_Wind",
-  "resetCycle": 1,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "damageSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
- },
- {
-  "group": "Eremite_Katar_RockBomb_Rock",
-  "resetCycle": 1,
-  "durabilitySequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  "damageSequence": [
-   1,
-   0.5,
-   0.2,
-   0.2,
-   0.2,
-   0.2,
-   0
-  ]
- },
- {
-  "group": "ElementReaction_Burning_Attenuation",
-  "resetCycle": 2,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "damageSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
- },
- {
-  "group": "Monster_Fungus_Raptor_ChargeAttack",
-  "resetCycle": 3,
-  "durabilitySequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "enbreakSequence": [
-   1,
-   0.4,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0,
-   0
-  ],
-  "damageSequence": [
-   1,
-   0.4,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0,
-   0
-  ]
- },
- {
-  "group": "Monster_Fungus_Raptor_ShootAttack",
-  "resetCycle": 1,
-  "durabilitySequence": [
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    0.5,
    0.5,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Fungus_Amanita_Du_Anudatta_ShootBullet"
  },
  {
-  "group": "Monster_Fungus_Raptor_PowerAttack",
+  "durabilitySequence": [
+   1,
+   1,
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "resetCycle": 2,
+  "damageSequence": [
+   1,
+   0.5,
+   0.3,
+   0.2
+  ],
+  "group": "Effigy_Fire_BurningGround_Elite"
+ },
+ {
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 1,
+  "damageSequence": [
+   1
+  ],
+  "group": "Eremite_Longbow_DropAttack_Wind"
+ },
+ {
+  "durabilitySequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1
+  ],
+  "resetCycle": 1,
+  "damageSequence": [
+   1,
+   0.5,
+   0.2,
+   0.2,
+   0.2,
+   0.2
+  ],
+  "group": "Eremite_Katar_RockBomb_Rock"
+ },
+ {
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "resetCycle": 2,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "ElementReaction_Burning_Attenuation"
+ },
+ {
+  "durabilitySequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   0.4,
+   0.1,
+   0.1,
+   0.1,
+   0.1
+  ],
+  "resetCycle": 3,
+  "damageSequence": [
+   1,
+   0.4,
+   0.1,
+   0.1,
+   0.1,
+   0.1
+  ],
+  "group": "Monster_Fungus_Raptor_ChargeAttack"
+ },
+ {
+  "durabilitySequence": [
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "resetCycle": 1,
+  "damageSequence": [
+   1,
+   0.5,
+   0.5,
+   0.1,
+   0.1
+  ],
+  "group": "Monster_Fungus_Raptor_ShootAttack"
+ },
+ {
   "durabilitySequence": [
    1,
    1,
@@ -2886,6 +1976,7 @@
    1,
    1
   ],
+  "resetCycle": 1,
   "damageSequence": [
    1,
    0.5,
@@ -2897,11 +1988,10 @@
    0.01,
    0.01,
    0.01
-  ]
+  ],
+  "group": "Monster_Fungus_Raptor_PowerAttack"
  },
  {
-  "group": "Monster_Fungus_Raptor_ConfuseMeleeAttack",
-  "resetCycle": 6,
   "durabilitySequence": [
    1,
    1,
@@ -2914,33 +2004,56 @@
    1,
    1
   ],
+  "resetCycle": 6,
   "damageSequence": [
    1,
    0.5,
    0.5,
    0.5
-  ]
+  ],
+  "group": "Monster_Fungus_Raptor_ConfuseMeleeAttack"
  },
  {
-  "group": "FungusFight_General",
+  "durabilitySequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 5,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "FungusFight_General"
+ },
+ {
   "durabilitySequence": [
-   1,
-   0,
-   1,
-   0,
-   1,
-   0,
-   1,
-   0,
-   1,
-   0,
-   1,
-   0,
-   1,
-   0,
-   1,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -2954,56 +2067,7 @@
    1,
    1
   ],
-  "damageSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ]
- },
- {
-  "group": "FungusFight_Trois_FireRing",
   "resetCycle": 4,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    1,
@@ -3015,72 +2079,23 @@
    1,
    1,
    1
-  ]
+  ],
+  "group": "FungusFight_Trois_FireRing"
  },
  {
-  "group": "Monster_Gadget_Attenuation_01",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 0.5,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
   "damageSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
+   1
+  ],
+  "group": "Monster_Gadget_Attenuation_01"
  },
  {
-  "group": "Effigy_Ice_RangeAtk",
-  "resetCycle": 4,
   "durabilitySequence": [
    1,
    1,
@@ -3133,6 +2148,7 @@
    1,
    1
   ],
+  "resetCycle": 4,
   "damageSequence": [
    1,
    1,
@@ -3158,67 +2174,48 @@
    0.05,
    0.05,
    0.05
-  ]
+  ],
+  "group": "Effigy_Ice_RangeAtk"
  },
  {
-  "group": "Effigy_Fire_Elite_MultiAtk1",
+  "durabilitySequence": [
+   1,
+   1,
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1
+  ],
   "resetCycle": 2,
+  "damageSequence": [
+   1,
+   1,
+   1
+  ],
+  "group": "Effigy_Fire_Elite_MultiAtk1"
+ },
+ {
   "durabilitySequence": [
    1,
-   0,
-   1,
-   0,
-   1,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
-   0,
    1,
-   0,
    1,
-   0
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
   ],
-  "damageSequence": [
-   1,
-   0,
-   1,
-   0,
-   1,
-   0
-  ]
- },
- {
-  "group": "Layla_ElementalArt_Bullet",
   "resetCycle": 3,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    1,
@@ -3232,47 +2229,37 @@
    1,
    1,
    1
-  ]
+  ],
+  "group": "Layla_ElementalArt_Bullet"
  },
  {
-  "group": "Nahida_Chain_Normal",
+  "durabilitySequence": [
+   1.5
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 1,
-  "durabilitySequence": [
-   1.5,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    1,
@@ -3295,39 +2282,31 @@
    1,
    1,
    1
-  ]
+  ],
+  "group": "Nahida_Chain_Normal"
  },
  {
-  "group": "Nahida_Chain_Constellation",
+  "durabilitySequence": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 2.5,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    1,
@@ -3341,56 +2320,70 @@
    1,
    1,
    1
-  ]
+  ],
+  "group": "Nahida_Chain_Constellation"
  },
  {
-  "group": "Monster_Nada_LaserArray",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   0.5,
+   0.25
+  ],
   "resetCycle": 1.6,
-  "durabilitySequence": [
-   1,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0.5,
-   0.25,
-   0
-  ],
   "damageSequence": [
    1,
    0.5,
    0.25
-  ]
+  ],
+  "group": "Monster_Nada_LaserArray"
  },
  {
-  "group": "Barbara_WetShield",
+  "durabilitySequence": [
+   1,
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 2.5,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Barbara_WetShield"
+ },
+ {
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -3408,48 +2401,29 @@
    1,
    1
   ],
-  "damageSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ]
- },
- {
-  "group": "Wanderer_PermanentSkill_2",
   "resetCycle": 1,
-  "durabilitySequence": [
+  "damageSequence": [
    1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Wanderer_PermanentSkill_2"
+ },
+ {
+  "durabilitySequence": [
+   1
   ],
   "enbreakSequence": [
    1,
@@ -3467,65 +2441,7 @@
    1,
    1
   ],
-  "damageSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ]
- },
- {
-  "group": "Wanderer_Constellation_6",
   "resetCycle": 2,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    1,
@@ -3542,11 +2458,10 @@
    1,
    1,
    1
-  ]
+  ],
+  "group": "Wanderer_Constellation_6"
  },
  {
-  "group": "Sandworm_Stage02_TailStormAttack",
-  "resetCycle": 4,
   "durabilitySequence": [
    1,
    1,
@@ -3571,6 +2486,7 @@
    1,
    1
   ],
+  "resetCycle": 4,
   "damageSequence": [
    1,
    0.25,
@@ -3582,11 +2498,10 @@
    0.01,
    0.01,
    0.01
-  ]
+  ],
+  "group": "Sandworm_Stage02_TailStormAttack"
  },
  {
-  "group": "Sandworm_Stage02_DrillRushAttackBullet",
-  "resetCycle": 2,
   "durabilitySequence": [
    1,
    1,
@@ -3603,6 +2518,7 @@
    1,
    1
   ],
+  "resetCycle": 2,
   "damageSequence": [
    1,
    0.5,
@@ -3610,11 +2526,10 @@
    0.1,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Sandworm_Stage02_DrillRushAttackBullet"
  },
  {
-  "group": "Sandworm_Stage02_TailVerticalShootBullet",
-  "resetCycle": 2,
   "durabilitySequence": [
    1,
    1,
@@ -3635,6 +2550,7 @@
    1,
    1
   ],
+  "resetCycle": 2,
   "damageSequence": [
    1,
    0.25,
@@ -3644,29 +2560,29 @@
    0.01,
    0.01,
    0.01
-  ]
+  ],
+  "group": "Sandworm_Stage02_TailVerticalShootBullet"
  },
  {
-  "group": "Sandworm_Stage02_FlyingAttackBullet",
+  "durabilitySequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 7,
-  "durabilitySequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    0.5,
@@ -3675,11 +2591,10 @@
    0.1,
    0.1,
    0.01
-  ]
+  ],
+  "group": "Sandworm_Stage02_FlyingAttackBullet"
  },
  {
-  "group": "Sandworm_Stage01_ShootAttackBullet",
-  "resetCycle": 3,
   "durabilitySequence": [
    1,
    1,
@@ -3696,6 +2611,7 @@
    1,
    1
   ],
+  "resetCycle": 3,
   "damageSequence": [
    1,
    1,
@@ -3703,27 +2619,26 @@
    0.5,
    0.01,
    0.01
-  ]
+  ],
+  "group": "Sandworm_Stage01_ShootAttackBullet"
  },
  {
-  "group": "Eremite_Dancer_BoomerangBullet",
+  "durabilitySequence": [
+   1,
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1
+  ],
   "resetCycle": 0.5,
-  "durabilitySequence": [
-   1,
-   1
-  ],
-  "enbreakSequence": [
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    0.25
-  ]
+  ],
+  "group": "Eremite_Dancer_BoomerangBullet"
  },
  {
-  "group": "Eremite_Chrysopelea_ComboAttack",
-  "resetCycle": 2,
   "durabilitySequence": [
    1,
    1,
@@ -3742,6 +2657,7 @@
    1,
    1
   ],
+  "resetCycle": 2,
   "damageSequence": [
    1,
    1,
@@ -3750,11 +2666,10 @@
    0.1,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Eremite_Chrysopelea_ComboAttack"
  },
  {
-  "group": "Eremite_Oracle_FunneAttack",
-  "resetCycle": 2,
   "durabilitySequence": [
    1,
    0.25,
@@ -3767,16 +2682,16 @@
    1,
    1
   ],
+  "resetCycle": 2,
   "damageSequence": [
    1,
    0.25,
    0.25,
    0.25
-  ]
+  ],
+  "group": "Eremite_Oracle_FunneAttack"
  },
  {
-  "group": "Vulture_Sacred_Attack05",
-  "resetCycle": 2,
   "durabilitySequence": [
    1,
    1,
@@ -3813,6 +2728,7 @@
    0.1,
    0.1
   ],
+  "resetCycle": 2,
   "damageSequence": [
    1,
    1,
@@ -3830,99 +2746,68 @@
    0.1,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Vulture_Sacred_Attack05"
  },
  {
-  "group": "Hilistray_Water_SlimeAtk",
+  "durabilitySequence": [
+   1,
+   0.5,
+   0.25
+  ],
+  "enbreakSequence": [
+   1,
+   0.5,
+   0.25
+  ],
   "resetCycle": 1,
-  "durabilitySequence": [
-   1,
-   0.5,
-   0.25,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0.5,
-   0.25,
-   0
-  ],
   "damageSequence": [
    1,
    0.5,
-   0.25,
-   0
-  ]
+   0.25
+  ],
+  "group": "Hilistray_Water_SlimeAtk"
  },
  {
-  "group": "Hilistray_Water_SpecialAtk_Bubble",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 0.2,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0,
-   0,
-   0
-  ],
   "damageSequence": [
-   1,
-   0,
-   0,
-   0
-  ]
+   1
+  ],
+  "group": "Hilistray_Water_SpecialAtk_Bubble"
  },
  {
-  "group": "Hilistray_Wind_Syuriken01",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 0.5,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0,
-   0,
-   0
-  ],
   "damageSequence": [
-   1,
-   0,
-   0,
-   0
-  ]
+   1
+  ],
+  "group": "Hilistray_Wind_Syuriken01"
  },
  {
-  "group": "Hilistray_Wind_SpecialAtk",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 0.2,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0,
-   0,
-   0
-  ],
   "damageSequence": [
-   1,
-   0,
-   0,
-   0
-  ]
+   1
+  ],
+  "group": "Hilistray_Wind_SpecialAtk"
  },
  {
-  "group": "Darkwraith_Fat_Rock_Whirlwind",
-  "resetCycle": 4,
   "durabilitySequence": [
    1,
    1,
@@ -3937,99 +2822,61 @@
    1,
    1
   ],
+  "resetCycle": 4,
   "damageSequence": [
    1,
    0.15,
    0.15,
    0.15,
    0.15
-  ]
+  ],
+  "group": "Darkwraith_Fat_Rock_Whirlwind"
  },
  {
-  "group": "Universal_RushAttack",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 0.6,
+  "damageSequence": [
+   1
+  ],
+  "group": "Universal_RushAttack"
+ },
+ {
   "durabilitySequence": [
    1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
   ],
   "enbreakSequence": [
    1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "damageSequence": [
    1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
- },
- {
-  "group": "Alhatham_ForlornLotus",
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 12,
-  "durabilitySequence": [
-   1,
-   0,
-   1,
-   0,
-   1,
-   0,
-   1,
-   0,
-   1,
-   0,
-   1,
-   0,
-   1,
-   0,
-   1,
-   0,
-   1,
-   0,
-   1,
-   0,
-   1,
-   0,
-   1,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    1,
@@ -4046,11 +2893,10 @@
    1,
    1,
    1
-  ]
+  ],
+  "group": "Alhatham_ForlornLotus"
  },
  {
-  "group": "Invoker_Archdeacon_MagicBall",
-  "resetCycle": 2,
   "durabilitySequence": [
    1,
    1,
@@ -4063,23 +2909,18 @@
    1,
    1
   ],
+  "resetCycle": 2,
   "damageSequence": [
    1,
    0.5,
    0.2,
    0.2
-  ]
+  ],
+  "group": "Invoker_Archdeacon_MagicBall"
  },
  {
-  "group": "Yaoyao_GrassAttack",
-  "resetCycle": 2.5,
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -4089,6 +2930,7 @@
    1,
    1
   ],
+  "resetCycle": 2.5,
   "damageSequence": [
    1,
    1,
@@ -4096,27 +2938,22 @@
    1,
    1,
    1
-  ]
+  ],
+  "group": "Yaoyao_GrassAttack"
  },
  {
-  "group": "Yaoyao_ElementalBurst",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 1.5,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    1,
@@ -4124,44 +2961,30 @@
    1,
    1,
    1
-  ]
+  ],
+  "group": "Yaoyao_ElementalBurst"
  },
  {
-  "group": "Alhatham_ExtraAttack",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 2,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    1,
@@ -4178,19 +3001,38 @@
    1,
    1,
    1
-  ]
+  ],
+  "group": "Alhatham_ExtraAttack"
  },
  {
-  "group": "FungusFightV2_Seq1",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 2.5,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "FungusFightV2_Seq1"
+ },
+ {
   "durabilitySequence": [
    1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -4201,37 +3043,7 @@
    1,
    1
   ],
-  "damageSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ]
- },
- {
-  "group": "FungusFightV2_Seq2",
   "resetCycle": 2.5,
-  "durabilitySequence": [
-   1,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    1,
@@ -4240,55 +3052,48 @@
    1,
    1,
    1
-  ]
+  ],
+  "group": "FungusFightV2_Seq2"
  },
  {
-  "group": "Tortoise_Attack",
+  "durabilitySequence": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 2,
-  "durabilitySequence": [
-   1,
-   1,
-   1,
-   1
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    0.5,
    0.2,
    0.1
-  ]
+  ],
+  "group": "Tortoise_Attack"
  },
  {
-  "group": "Apep_Stage1_CrashAttack",
-  "resetCycle": 5,
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
-   1,
-   0,
-   0,
-   0
+   1
   ],
+  "resetCycle": 5,
   "damageSequence": [
    1,
    0.5,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Apep_Stage1_CrashAttack"
  },
  {
-  "group": "Apep_Bullet_Attenuation",
-  "resetCycle": 5,
   "durabilitySequence": [
    1,
    0.5,
@@ -4323,6 +3128,7 @@
    0.1,
    0.1
   ],
+  "resetCycle": 5,
   "damageSequence": [
    1,
    0.5,
@@ -4339,129 +3145,60 @@
    0.1,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Apep_Bullet_Attenuation"
  },
  {
-  "group": "Apep_Stage3_UltAttack",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 3,
+  "damageSequence": [
+   1
+  ],
+  "group": "Apep_Stage3_UltAttack"
+ },
+ {
   "durabilitySequence": [
    1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
+   1,
+   0.5,
+   0.25,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1
   ],
   "enbreakSequence": [
    1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "damageSequence": [
    1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
- },
- {
-  "group": "Nutcracker_Stage1_ThrowFemale",
+   0.5,
+   0.25,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1
+  ],
   "resetCycle": 2,
-  "durabilitySequence": [
-   1,
-   1,
-   0.5,
-   0.25,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   0.5,
-   0.25,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1
-  ],
   "damageSequence": [
    1,
    1,
@@ -4479,77 +3216,49 @@
    0.1,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Nutcracker_Stage1_ThrowFemale"
  },
  {
-  "group": "Nutcracker_Stage1_MaleCircle1",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 1,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0,
-   0,
-   0
-  ],
   "damageSequence": [
-   1,
-   0,
-   0,
-   0
-  ]
+   1
+  ],
+  "group": "Nutcracker_Stage1_MaleCircle1"
  },
  {
-  "group": "Nutcracker_Stage1_MaleCircle2",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 1,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0,
-   0,
-   0
-  ],
   "damageSequence": [
-   1,
-   0,
-   0,
-   0
-  ]
+   1
+  ],
+  "group": "Nutcracker_Stage1_MaleCircle2"
  },
  {
-  "group": "Nutcracker_Stage1_IcePierce",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 0.5,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0,
-   0,
-   0
-  ],
   "damageSequence": [
-   1,
-   0,
-   0,
-   0
-  ]
+   1
+  ],
+  "group": "Nutcracker_Stage1_IcePierce"
  },
  {
-  "group": "Nutcracker_Stage2_Route1_Start",
-  "resetCycle": 2,
   "durabilitySequence": [
    1,
    1,
@@ -4560,15 +3269,15 @@
    1,
    1
   ],
+  "resetCycle": 2,
   "damageSequence": [
    1,
    0.2,
    0.2
-  ]
+  ],
+  "group": "Nutcracker_Stage2_Route1_Start"
  },
  {
-  "group": "Nutcracker_Stage2_Route1_Back",
-  "resetCycle": 2,
   "durabilitySequence": [
    1,
    1,
@@ -4579,15 +3288,15 @@
    1,
    1
   ],
+  "resetCycle": 2,
   "damageSequence": [
    1,
    0.2,
    0.2
-  ]
+  ],
+  "group": "Nutcracker_Stage2_Route1_Back"
  },
  {
-  "group": "Nutcracker_Stage2_Route2_Start",
-  "resetCycle": 4,
   "durabilitySequence": [
    1,
    1,
@@ -4604,6 +3313,7 @@
    0.5,
    0.5
   ],
+  "resetCycle": 4,
   "damageSequence": [
    1,
    1,
@@ -4611,11 +3321,10 @@
    0.5,
    0.2,
    0.1
-  ]
+  ],
+  "group": "Nutcracker_Stage2_Route2_Start"
  },
  {
-  "group": "Nutcracker_Stage2_Route2_Far",
-  "resetCycle": 1,
   "durabilitySequence": [
    1,
    1
@@ -4624,14 +3333,14 @@
    1,
    0.5
   ],
+  "resetCycle": 1,
   "damageSequence": [
    1,
    0.25
-  ]
+  ],
+  "group": "Nutcracker_Stage2_Route2_Far"
  },
  {
-  "group": "Nutcracker_Stage2_Route2_Back1",
-  "resetCycle": 2,
   "durabilitySequence": [
    1,
    0.5,
@@ -4644,16 +3353,16 @@
    0.5,
    0.5
   ],
+  "resetCycle": 2,
   "damageSequence": [
    1,
    0.5,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Nutcracker_Stage2_Route2_Back1"
  },
  {
-  "group": "Nutcracker_Stage2_Route2_Back2",
-  "resetCycle": 1,
   "durabilitySequence": [
    1,
    0.1
@@ -4662,51 +3371,33 @@
    1,
    1
   ],
+  "resetCycle": 1,
   "damageSequence": [
    1,
    0.1
-  ]
+  ],
+  "group": "Nutcracker_Stage2_Route2_Back2"
  },
  {
-  "group": "Panther_Sacred_Attack03",
-  "resetCycle": 1,
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
-   1,
-   0,
-   0,
-   0,
-   0
+   1
   ],
+  "resetCycle": 1,
   "damageSequence": [
    1,
    0.5,
    0.2,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Panther_Sacred_Attack03"
  },
  {
-  "group": "Baizhuer_ElementalArt",
-  "resetCycle": 2,
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -4724,6 +3415,7 @@
    1,
    1
   ],
+  "resetCycle": 2,
   "damageSequence": [
    1,
    1,
@@ -4740,40 +3432,30 @@
    1,
    1,
    1
-  ]
+  ],
+  "group": "Baizhuer_ElementalArt"
  },
  {
-  "group": "Baizhuer_Talent",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 4,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    1,
@@ -4790,16 +3472,12 @@
    1,
    1,
    1
-  ]
+  ],
+  "group": "Baizhuer_Talent"
  },
  {
-  "group": "Apep_Underling_ChaseAttack",
-  "resetCycle": 2,
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -4807,40 +3485,40 @@
    1,
    1
   ],
+  "resetCycle": 2,
   "damageSequence": [
    1,
    0.5,
    0.3,
    0.2
-  ]
+  ],
+  "group": "Apep_Underling_ChaseAttack"
  },
  {
-  "group": "Bradamante_Attack01",
+  "durabilitySequence": [
+   1,
+   0.5,
+   0.2,
+   0.1,
+   0.1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 2.5,
-  "durabilitySequence": [
-   1,
-   0.5,
-   0.2,
-   0.1,
-   0.1
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    0.5,
    0.2,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Bradamante_Attack01"
  },
  {
-  "group": "Bradamante_Attack03",
-  "resetCycle": 2,
   "durabilitySequence": [
    1,
    0.3,
@@ -4853,16 +3531,16 @@
    1,
    1
   ],
+  "resetCycle": 2,
   "damageSequence": [
    1,
    0.3,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Bradamante_Attack03"
  },
  {
-  "group": "Ruggiero02_Attack01",
-  "resetCycle": 2,
   "durabilitySequence": [
    1,
    0.5,
@@ -4878,6 +3556,7 @@
    1,
    1
   ],
+  "resetCycle": 2,
   "damageSequence": [
    1,
    0.5,
@@ -4886,11 +3565,10 @@
    0.1,
    0.1,
    0.01
-  ]
+  ],
+  "group": "Ruggiero02_Attack01"
  },
  {
-  "group": "Ruggiero02_Attack02",
-  "resetCycle": 2,
   "durabilitySequence": [
    1,
    0.7,
@@ -4903,76 +3581,74 @@
    1,
    1
   ],
+  "resetCycle": 2,
   "damageSequence": [
    1,
    0.7,
    0.5,
    0.2
-  ]
+  ],
+  "group": "Ruggiero02_Attack02"
  },
  {
-  "group": "Fafnir_Air_NormalAtk_Area",
+  "durabilitySequence": [
+   1,
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1
+  ],
   "resetCycle": 0.5,
-  "durabilitySequence": [
-   1,
-   1
-  ],
-  "enbreakSequence": [
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    0.25
-  ]
+  ],
+  "group": "Fafnir_Air_NormalAtk_Area"
  },
  {
-  "group": "Fafnir_Air_NormalAtk_RockBullet",
-  "resetCycle": 0.5,
   "durabilitySequence": [
    1,
    1,
    1
   ],
   "enbreakSequence": [
-   1,
-   0,
-   0
+   1
   ],
+  "resetCycle": 0.5,
   "damageSequence": [
    1,
    0.2,
    0.05
-  ]
+  ],
+  "group": "Fafnir_Air_NormalAtk_RockBullet"
  },
  {
-  "group": "Excavator_Ousia_MeleeAttack01",
+  "durabilitySequence": [
+   1,
+   0.2,
+   0.1,
+   0.1,
+   0.01
+  ],
+  "enbreakSequence": [
+   1,
+   0.2,
+   0.1,
+   0.1,
+   0.01
+  ],
   "resetCycle": 2,
-  "durabilitySequence": [
-   1,
-   0.2,
-   0.1,
-   0.1,
-   0.01
-  ],
-  "enbreakSequence": [
-   1,
-   0.2,
-   0.1,
-   0.1,
-   0.01
-  ],
   "damageSequence": [
    1,
    0.2,
    0.1,
    0.1,
    0.01
-  ]
+  ],
+  "group": "Excavator_Ousia_MeleeAttack01"
  },
  {
-  "group": "Excavator_Ousia_NoramlAttack01",
-  "resetCycle": 1,
   "durabilitySequence": [
    1,
    0.5
@@ -4981,20 +3657,16 @@
    1,
    0.5
   ],
+  "resetCycle": 1,
   "damageSequence": [
    1,
    0.5
-  ]
+  ],
+  "group": "Excavator_Ousia_NoramlAttack01"
  },
  {
-  "group": "Excavator_Pneuma_RangeAttack01",
-  "resetCycle": 1,
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -5003,17 +3675,17 @@
    0.1,
    0.1
   ],
+  "resetCycle": 1,
   "damageSequence": [
    1,
    0.5,
    0.25,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Excavator_Pneuma_RangeAttack01"
  },
  {
-  "group": "Excavator_Normal_NormalAttack01",
-  "resetCycle": 2,
   "durabilitySequence": [
    1,
    0.3,
@@ -5026,94 +3698,95 @@
    0.1,
    0.1
   ],
+  "resetCycle": 2,
   "damageSequence": [
    1,
    0.3,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Excavator_Normal_NormalAttack01"
  },
  {
-  "group": "Assimilator_Pneumal_RangeAttack01",
+  "durabilitySequence": [
+   1,
+   0.3,
+   0.04,
+   0.01
+  ],
+  "enbreakSequence": [
+   1,
+   0.3,
+   0.04,
+   0.01
+  ],
   "resetCycle": 1.5,
-  "durabilitySequence": [
-   1,
-   0.3,
-   0.04,
-   0.01
-  ],
-  "enbreakSequence": [
-   1,
-   0.3,
-   0.04,
-   0.01
-  ],
   "damageSequence": [
    1,
    0.3,
    0.04,
    0.01
-  ]
+  ],
+  "group": "Assimilator_Pneumal_RangeAttack01"
  },
  {
-  "group": "Assimilator_Ousia_MeleeAttack01",
+  "durabilitySequence": [
+   1,
+   0.25,
+   0.1,
+   0.1
+  ],
+  "enbreakSequence": [
+   1,
+   0.25,
+   0.1,
+   0.1
+  ],
   "resetCycle": 2,
-  "durabilitySequence": [
-   1,
-   0.25,
-   0.1,
-   0.1
-  ],
-  "enbreakSequence": [
-   1,
-   0.25,
-   0.1,
-   0.1
-  ],
   "damageSequence": [
    1,
    0.25,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Assimilator_Ousia_MeleeAttack01"
  },
  {
-  "group": "FauneAbyssale_HermitCrab_Primo_FireBullet",
+  "durabilitySequence": [
+   1,
+   0.5,
+   0.25,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1
+  ],
+  "enbreakSequence": [
+   1,
+   0.5,
+   0.25,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1
+  ],
   "resetCycle": 3,
-  "durabilitySequence": [
-   1,
-   0.5,
-   0.25,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1
-  ],
-  "enbreakSequence": [
-   1,
-   0.5,
-   0.25,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1
-  ],
   "damageSequence": [
    1,
    0.5,
@@ -5130,76 +3803,58 @@
    0.1,
    0.1,
    0.1
-  ]
+  ],
+  "group": "FauneAbyssale_HermitCrab_Primo_FireBullet"
  },
  {
-  "group": "FauneAbyssale_HermitCrab_Primo_NormalAttack",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 2,
+  "damageSequence": [
+   1
+  ],
+  "group": "FauneAbyssale_HermitCrab_Primo_NormalAttack"
+ },
+ {
   "durabilitySequence": [
    1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1
   ],
   "enbreakSequence": [
    1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1
   ],
-  "damageSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
- },
- {
-  "group": "FauneAbyssale_HermitCrab_Primo_FireAttack",
   "resetCycle": 3,
-  "durabilitySequence": [
-   1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1
-  ],
-  "enbreakSequence": [
-   1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1
-  ],
   "damageSequence": [
    1,
    0.1,
@@ -5216,62 +3871,37 @@
    0.1,
    0.1,
    0.1
-  ]
+  ],
+  "group": "FauneAbyssale_HermitCrab_Primo_FireAttack"
  },
  {
-  "group": "FauneAbyssale_HermitCrab_Primo_Tile",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 0.5,
+  "damageSequence": [
+   1
+  ],
+  "group": "FauneAbyssale_HermitCrab_Primo_Tile"
+ },
+ {
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "damageSequence": [
    1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
- },
- {
-  "group": "Player_Water_Sustained_Shooting",
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 1.5,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    1,
@@ -5281,39 +3911,30 @@
    1,
    1,
    1
-  ]
+  ],
+  "group": "Player_Water_Sustained_Shooting"
  },
  {
-  "group": "Player_Water_Burst_Bullet",
+  "durabilitySequence": [
+   1,
+   1,
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 8,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    1,
@@ -5327,50 +3948,59 @@
    1,
    1,
    1
-  ]
+  ],
+  "group": "Player_Water_Burst_Bullet"
  },
  {
-  "group": "Ovacua_Chaos_HeavyShoot",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 3,
-  "durabilitySequence": [
+  "damageSequence": [
    1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
+   1,
+   0.5,
+   0.5,
+   0.2,
+   0.2,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1
   ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
+  "group": "Ovacua_Chaos_HeavyShoot"
+ },
+ {
+  "durabilitySequence": [
    1
   ],
-  "damageSequence": [
-   1,
+  "enbreakSequence": [
    1,
    0.5,
-   0.5,
    0.2,
-   0.2,
+   0.1,
+   0.1,
+   0.1,
    0.1,
    0.1,
    0.1,
@@ -5379,43 +4009,8 @@
    0.1,
    0.1,
    0.1
-  ]
- },
- {
-  "group": "Ovacua_Chaos_GrowthBullet",
+  ],
   "resetCycle": 2,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0.5,
-   0.2,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1
-  ],
   "damageSequence": [
    1,
    0.5,
@@ -5431,134 +4026,102 @@
    0.1,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Ovacua_Chaos_GrowthBullet"
  },
  {
-  "group": "SeaHorse_Primo_HitProtection",
+  "durabilitySequence": [
+   1,
+   0.5
+  ],
+  "enbreakSequence": [
+   1,
+   0.5
+  ],
   "resetCycle": 1.2,
-  "durabilitySequence": [
-   1,
-   0.5,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0.5,
-   0,
-   0,
-   0
-  ],
   "damageSequence": [
    1,
-   0.5,
-   0,
-   0,
-   0
-  ]
+   0.5
+  ],
+  "group": "SeaHorse_Primo_HitProtection"
  },
  {
-  "group": "ElementReaction_Damage_Attenuation_Furnace",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 0.25,
+  "damageSequence": [
+   1
+  ],
+  "group": "ElementReaction_Damage_Attenuation_Furnace"
+ },
+ {
   "durabilitySequence": [
    1,
-   0,
-   0,
-   0
+   0.2,
+   0.05
   ],
   "enbreakSequence": [
    1,
-   0,
-   0,
-   0
+   0.2,
+   0.05
   ],
-  "damageSequence": [
-   1,
-   0,
-   0,
-   0
-  ]
- },
- {
-  "group": "FauneAbyssale_HermitCrab_Mature_Whirl",
   "resetCycle": 2,
-  "durabilitySequence": [
-   1,
-   0.2,
-   0.05
-  ],
-  "enbreakSequence": [
-   1,
-   0.2,
-   0.05
-  ],
   "damageSequence": [
    1,
    0.2,
    0.05
-  ]
+  ],
+  "group": "FauneAbyssale_HermitCrab_Mature_Whirl"
  },
  {
-  "group": "FauneAbyssale_Seal_Attack",
+  "durabilitySequence": [
+   1,
+   0.3,
+   0.2
+  ],
+  "enbreakSequence": [
+   1,
+   0.3,
+   0.2
+  ],
   "resetCycle": 1,
-  "durabilitySequence": [
-   1,
-   0.3,
-   0.2
-  ],
-  "enbreakSequence": [
-   1,
-   0.3,
-   0.2
-  ],
   "damageSequence": [
    1,
    0.3,
    0.2
-  ]
+  ],
+  "group": "FauneAbyssale_Seal_Attack"
  },
  {
-  "group": "Activity_InspirationSpurt_CJB",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 5,
+  "damageSequence": [
+   1
+  ],
+  "group": "Activity_InspirationSpurt_CJB"
+ },
+ {
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
-   0,
-   0,
-   0
-  ],
-  "damageSequence": [
    1,
-   0,
-   0,
-   0
-  ]
- },
- {
-  "group": "Avatar_Liney_ExtraAttack",
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 1,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    1,
@@ -5566,69 +4129,41 @@
    1,
    1,
    1
-  ]
+  ],
+  "group": "Avatar_Liney_ExtraAttack"
  },
  {
-  "group": "SeaHorse_Primo_FishBarrage",
+  "durabilitySequence": [
+   1,
+   0.5,
+   0.18,
+   0.16,
+   0.14,
+   0.12,
+   0.1
+  ],
+  "enbreakSequence": [
+   1,
+   0.5,
+   0.18,
+   0.16,
+   0.14,
+   0.12,
+   0.1
+  ],
   "resetCycle": 4,
-  "durabilitySequence": [
+  "damageSequence": [
    1,
-   0,
    0.5,
-   0,
    0.18,
-   0,
    0.16,
-   0,
    0.14,
-   0,
    0.12,
-   0,
-   0.1,
-   0,
-   0,
-   0
+   0.1
   ],
-  "enbreakSequence": [
-   1,
-   0,
-   0.5,
-   0,
-   0.18,
-   0,
-   0.16,
-   0,
-   0.14,
-   0,
-   0.12,
-   0,
-   0.1,
-   0,
-   0,
-   0
-  ],
-  "damageSequence": [
-   1,
-   0,
-   0.5,
-   0,
-   0.18,
-   0,
-   0.16,
-   0,
-   0.14,
-   0,
-   0.12,
-   0,
-   0.1,
-   0,
-   0,
-   0
-  ]
+  "group": "SeaHorse_Primo_FishBarrage"
  },
  {
-  "group": "Gravitas_MissilesAttack01_Bullet",
-  "resetCycle": 2,
   "durabilitySequence": [
    1,
    0.5,
@@ -5679,6 +4214,7 @@
    0.1,
    0.1
   ],
+  "resetCycle": 2,
   "damageSequence": [
    1,
    0.5,
@@ -5703,11 +4239,10 @@
    0.1,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Gravitas_MissilesAttack01_Bullet"
  },
  {
-  "group": "Gravitas_LayerAttack01_Bullet",
-  "resetCycle": 2,
   "durabilitySequence": [
    1,
    0.5,
@@ -5758,6 +4293,7 @@
    0.1,
    0.1
   ],
+  "resetCycle": 2,
   "damageSequence": [
    1,
    0.5,
@@ -5782,11 +4318,10 @@
    0.1,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Gravitas_LayerAttack01_Bullet"
  },
  {
-  "group": "Gravitas_BoomingArea_Bullet",
-  "resetCycle": 2,
   "durabilitySequence": [
    1,
    0.5,
@@ -5837,6 +4372,7 @@
    0.1,
    0.1
   ],
+  "resetCycle": 2,
   "damageSequence": [
    1,
    0.5,
@@ -5861,11 +4397,10 @@
    0.1,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Gravitas_BoomingArea_Bullet"
  },
  {
-  "group": "Gravitas_RockBullet",
-  "resetCycle": 2,
   "durabilitySequence": [
    1,
    0.2,
@@ -5898,6 +4433,7 @@
    0.1,
    0.1
   ],
+  "resetCycle": 2,
   "damageSequence": [
    1,
    0.2,
@@ -5913,11 +4449,10 @@
    0.1,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Gravitas_RockBullet"
  },
  {
-  "group": "Gravitas_ImpactAttack01",
-  "resetCycle": 2,
   "durabilitySequence": [
    1,
    0.5,
@@ -5928,15 +4463,37 @@
    0.5,
    0.5
   ],
+  "resetCycle": 2,
   "damageSequence": [
    1,
    0.5,
    0.5
-  ]
+  ],
+  "group": "Gravitas_ImpactAttack01"
  },
  {
-  "group": "Pylon_Gravitas_RangeAttack",
+  "durabilitySequence": [
+   1,
+   0.5,
+   0.1,
+   0.1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 0.8,
+  "damageSequence": [
+   1,
+   0.5,
+   0.1,
+   0.1
+  ],
+  "group": "Pylon_Gravitas_RangeAttack"
+ },
+ {
   "durabilitySequence": [
    1,
    0.5,
@@ -5949,107 +4506,55 @@
    1,
    1
   ],
-  "damageSequence": [
-   1,
-   0.5,
-   0.1,
-   0.1
-  ]
- },
- {
-  "group": "Pylon_Gravitas_RockWaveAttack",
   "resetCycle": 1,
-  "durabilitySequence": [
-   1,
-   0.5,
-   0.1,
-   0.1
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    0.5,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Pylon_Gravitas_RockWaveAttack"
  },
  {
-  "group": "FauneAbyssale_SeaHorse_Primo_Tile",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 3,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   0
-  ],
   "damageSequence": [
    1,
    1,
    1,
    1,
    1,
-   1,
-   0
-  ]
+   1
+  ],
+  "group": "FauneAbyssale_SeaHorse_Primo_Tile"
  },
  {
-  "group": "SeaHorse_Primo_HitProtection_Multi",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 1,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
   "damageSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
+   1
+  ],
+  "group": "SeaHorse_Primo_HitProtection_Multi"
  },
  {
-  "group": "FungusFightV3_Seq3",
-  "resetCycle": 2.5,
   "durabilitySequence": [
    1,
-   0,
-   0,
-   1,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -6059,43 +4564,29 @@
    1,
    1
   ],
+  "resetCycle": 2.5,
   "damageSequence": [
    1,
    0.5,
    0.25,
-   0.25,
-   0,
-   0
-  ]
+   0.25
+  ],
+  "group": "FungusFightV3_Seq3"
  },
  {
-  "group": "Furina_Octopus",
-  "resetCycle": 30,
   "durabilitySequence": [
    1,
-   0,
    1,
-   0,
    1,
-   0,
    1,
-   0,
    1,
-   0,
    1,
-   0,
    1,
-   0,
    1,
-   0,
    1,
-   0,
    1,
-   0,
    1,
-   0,
-   1,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -6111,6 +4602,7 @@
    1,
    1
   ],
+  "resetCycle": 30,
   "damageSequence": [
    1,
    1,
@@ -6124,36 +4616,23 @@
    1,
    1,
    1
-  ]
+  ],
+  "group": "Furina_Octopus"
  },
  {
-  "group": "Furina_SeaHorse",
-  "resetCycle": 30,
   "durabilitySequence": [
    1,
-   0,
    1,
-   0,
    1,
-   0,
    1,
-   0,
    1,
-   0,
    1,
-   0,
    1,
-   0,
    1,
-   0,
    1,
-   0,
    1,
-   0,
    1,
-   0,
-   1,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -6169,6 +4648,7 @@
    1,
    1
   ],
+  "resetCycle": 30,
   "damageSequence": [
    1,
    1,
@@ -6182,22 +4662,52 @@
    1,
    1,
    1
-  ]
+  ],
+  "group": "Furina_SeaHorse"
  },
  {
-  "group": "Charlotte_ArtDot",
+  "durabilitySequence": [
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 12,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Charlotte_ArtDot"
+ },
+ {
   "durabilitySequence": [
    1,
-   0,
-   1,
-   0,
-   1,
-   0,
-   1,
-   0,
-   1,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -6213,48 +4723,7 @@
    1,
    1
   ],
-  "damageSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ]
- },
- {
-  "group": "Charlotte_BurstCamera",
   "resetCycle": 4,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    1,
@@ -6268,16 +4737,12 @@
    1,
    1,
    1
-  ]
+  ],
+  "group": "Charlotte_BurstCamera"
  },
  {
-  "group": "Bradamante_Attack02",
-  "resetCycle": 3,
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -6285,30 +4750,18 @@
    1,
    1
   ],
+  "resetCycle": 3,
   "damageSequence": [
    1,
    0.25,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Bradamante_Attack02"
  },
  {
-  "group": "Ptahur_Devourer_BackFire_Bullet",
-  "resetCycle": 3,
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -6325,39 +4778,52 @@
    1,
    1
   ],
+  "resetCycle": 3,
   "damageSequence": [
    1,
    0.5,
    0.5,
    0.5,
-   0.5,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
+   0.5
+  ],
+  "group": "Ptahur_Devourer_BackFire_Bullet"
  },
  {
-  "group": "Ptahur_Devourer_WideRangeAttack_Bullet",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 5,
-  "durabilitySequence": [
+  "damageSequence": [
    1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
+   0.5,
+   0.5,
+   0.5,
+   0.5,
+   0.5,
+   0.5,
+   0.5,
+   0.5
+  ],
+  "group": "Ptahur_Devourer_WideRangeAttack_Bullet"
+ },
+ {
+  "durabilitySequence": [
+   1
   ],
   "enbreakSequence": [
    1,
@@ -6368,129 +4834,54 @@
    1,
    1,
    1,
-   1,
-   1,
-   1,
-   1,
    1
   ],
-  "damageSequence": [
-   1,
-   0.5,
-   0.5,
-   0.5,
-   0.5,
-   0.5,
-   0.5,
-   0.5,
-   0.5,
-   0,
-   0,
-   0,
-   0
-  ]
- },
- {
-  "group": "Monster_Ptahur_Panther_Attack",
   "resetCycle": 1,
+  "damageSequence": [
+   1
+  ],
+  "group": "Monster_Ptahur_Panther_Attack"
+ },
+ {
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
    1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
    1
   ],
-  "damageSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
- },
- {
-  "group": "Monster_Rocky_ElectricBomb",
   "resetCycle": 1,
-  "durabilitySequence": [
-   1,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
+  "damageSequence": [
    1
   ],
-  "damageSequence": [
-   1,
-   0,
-   0
-  ]
+  "group": "Monster_Rocky_ElectricBomb"
  },
  {
-  "group": "Narcissusborn_SingleAttack",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 0.5,
+  "damageSequence": [
+   1
+  ],
+  "group": "Narcissusborn_SingleAttack"
+ },
+ {
   "durabilitySequence": [
    1,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
-   0,
-   0,
-   0
-  ],
-  "damageSequence": [
    1,
-   0,
-   0,
-   0
-  ]
- },
- {
-  "group": "Chevreuse_ElementalBurst",
+   1,
+   1
+  ],
   "resetCycle": 3,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
   "damageSequence": [
    1,
    1,
@@ -6500,16 +4891,31 @@
    1,
    1,
    1
-  ]
+  ],
+  "group": "Chevreuse_ElementalBurst"
  },
  {
-  "group": "Golem_Centaur_Attack02",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 1,
-  "durabilitySequence": [
+  "damageSequence": [
    1,
-   0,
-   0,
-   0
+   0.1,
+   0.1,
+   0.1
+  ],
+  "group": "Golem_Centaur_Attack02"
+ },
+ {
+  "durabilitySequence": [
+   1
   ],
   "enbreakSequence": [
    1,
@@ -6517,23 +4923,18 @@
    1,
    1
   ],
-  "damageSequence": [
-   1,
-   0.1,
-   0.1,
-   0.1,
-   0,
-   0
-  ]
- },
- {
-  "group": "Golem_Centaur_Attack03",
   "resetCycle": 1,
-  "durabilitySequence": [
+  "damageSequence": [
    1,
-   0,
-   0,
-   0
+   0.1,
+   0.1,
+   0.1
+  ],
+  "group": "Golem_Centaur_Attack03"
+ },
+ {
+  "durabilitySequence": [
+   1
   ],
   "enbreakSequence": [
    1,
@@ -6541,94 +4942,53 @@
    1,
    1
   ],
-  "damageSequence": [
-   1,
-   0.1,
-   0.1,
-   0.1,
-   0,
-   0
-  ]
- },
- {
-  "group": "Golem_Centaur_Attack05",
   "resetCycle": 1,
+  "damageSequence": [
+   1,
+   0.1,
+   0.1,
+   0.1
+  ],
+  "group": "Golem_Centaur_Attack05"
+ },
+ {
   "durabilitySequence": [
    1,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
+   1,
+   1,
+   1,
    1,
    1,
    1,
    1
   ],
-  "damageSequence": [
+  "enbreakSequence": [
    1,
-   0.1,
-   0.1,
-   0.1,
-   0,
-   0
-  ]
- },
- {
-  "group": "Avatar_Navia_Burst",
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 12,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    1,
@@ -6654,25 +5014,12 @@
    1,
    1,
    1
-  ]
+  ],
+  "group": "Avatar_Navia_Burst"
  },
  {
-  "group": "Drake_Rock_Fire_Breathe",
-  "resetCycle": 2.5,
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -6689,6 +5036,7 @@
    0.1,
    0.1
   ],
+  "resetCycle": 2.5,
   "damageSequence": [
    1,
    1,
@@ -6703,25 +5051,12 @@
    0.01,
    0.01,
    0.01
-  ]
+  ],
+  "group": "Drake_Rock_Fire_Breathe"
  },
  {
-  "group": "Drake_Rock_Fire_CrushAtk",
-  "resetCycle": 2,
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -6738,6 +5073,7 @@
    1,
    1
   ],
+  "resetCycle": 2,
   "damageSequence": [
    1,
    0.5,
@@ -6752,25 +5088,12 @@
    0.01,
    0.01,
    0.01
-  ]
+  ],
+  "group": "Drake_Rock_Fire_CrushAtk"
  },
  {
-  "group": "Drake_Rock_Ice_Breathe",
-  "resetCycle": 2.5,
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -6787,6 +5110,7 @@
    0.1,
    0.1
   ],
+  "resetCycle": 2.5,
   "damageSequence": [
    1,
    1,
@@ -6801,25 +5125,12 @@
    0.01,
    0.01,
    0.01
-  ]
+  ],
+  "group": "Drake_Rock_Ice_Breathe"
  },
  {
-  "group": "Drake_Rock_Ice_CrushAtk",
-  "resetCycle": 2,
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -6836,6 +5147,7 @@
    1,
    1
   ],
+  "resetCycle": 2,
   "damageSequence": [
    1,
    0.5,
@@ -6850,72 +5162,46 @@
    0.01,
    0.01,
    0.01
-  ]
+  ],
+  "group": "Drake_Rock_Ice_CrushAtk"
  },
  {
-  "group": "Drake_Rock_Ice_GadgetExplode",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 1,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    0.4,
    0.1,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Drake_Rock_Ice_GadgetExplode"
  },
  {
-  "group": "Liuyun_ExtraAttack",
-  "resetCycle": 0.5,
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
+   1
   ],
+  "resetCycle": 0.5,
   "damageSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
+   1
+  ],
+  "group": "Liuyun_ExtraAttack"
  },
  {
-  "group": "Hermit_WindAttack_Blade",
-  "resetCycle": 2,
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -6923,92 +5209,77 @@
    1,
    1
   ],
+  "resetCycle": 2,
   "damageSequence": [
    1,
    0.5,
    0.2,
    0.1
-  ]
+  ],
+  "group": "Hermit_WindAttack_Blade"
  },
  {
-  "group": "Striped_Attack03",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 0.5,
+  "damageSequence": [
+   1
+  ],
+  "group": "Striped_Attack03"
+ },
+ {
   "durabilitySequence": [
-   1,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
-   0
-  ],
-  "damageSequence": [
    1,
-   0
-  ]
- },
- {
-  "group": "Chiori_ElementArt",
+   1,
+   1,
+   1
+  ],
   "resetCycle": 1.9,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    1,
    1,
    1,
    1
-  ]
+  ],
+  "group": "Chiori_ElementArt"
  },
  {
-  "group": "Drake_Deepsea_WaterBall",
-  "resetCycle": 1,
   "durabilitySequence": [
-   1,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
-   1,
-   0,
-   0
+   1
   ],
+  "resetCycle": 1,
   "damageSequence": [
    1,
    0.5,
    0.5
-  ]
+  ],
+  "group": "Drake_Deepsea_WaterBall"
  },
  {
-  "group": "Monster_MvM",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 5,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    1,
@@ -7016,79 +5287,40 @@
    1,
    1,
    1
-  ]
+  ],
+  "group": "Monster_MvM"
  },
  {
-  "group": "Fungus_Raptor_BossEvent_DecayExplode",
-  "resetCycle": 3,
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
+   1
   ],
+  "resetCycle": 3,
   "damageSequence": [
    1,
    0.3,
    0.2,
    0.1,
-   0.1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
+   0.1
+  ],
+  "group": "Fungus_Raptor_BossEvent_DecayExplode"
  },
  {
-  "group": "Hermit_UltAttack_FinalPulse",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 2,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
   "damageSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
+   1
+  ],
+  "group": "Hermit_UltAttack_FinalPulse"
  },
  {
-  "group": "Nihil_NormalAttack",
-  "resetCycle": 1,
   "durabilitySequence": [
    1,
    1,
@@ -7099,15 +5331,15 @@
    1,
    1
   ],
+  "resetCycle": 1,
   "damageSequence": [
    1,
    0.25,
    0.25
-  ]
+  ],
+  "group": "Nihil_NormalAttack"
  },
  {
-  "group": "Nihil_RageAttack",
-  "resetCycle": 1,
   "durabilitySequence": [
    1,
    1,
@@ -7122,128 +5354,90 @@
    1,
    1
   ],
+  "resetCycle": 1,
   "damageSequence": [
    1,
    0.5,
    0.5,
    0.25,
    0.25
-  ]
+  ],
+  "group": "Nihil_RageAttack"
  },
  {
-  "group": "Animal_Tortoise_Electric_RushAtk",
-  "resetCycle": 1,
   "durabilitySequence": [
-   1,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
    1,
    1
   ],
+  "resetCycle": 1,
   "damageSequence": [
    1,
    0.5,
    0.1
-  ]
+  ],
+  "group": "Animal_Tortoise_Electric_RushAtk"
  },
  {
-  "group": "Regisvine_SurroundingFire",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 1,
+  "damageSequence": [
+   1,
+   0.3
+  ],
+  "group": "Regisvine_SurroundingFire"
+ },
+ {
   "durabilitySequence": [
    1,
-   0,
-   0,
-   0
+   1,
+   1
   ],
   "enbreakSequence": [
    1,
-   0,
-   0,
-   0
-  ],
-  "damageSequence": [
    1,
-   0.3,
-   0,
-   0
-  ]
- },
- {
-  "group": "Arlecchino_ElementalArt",
+   1,
+   1,
+   1
+  ],
   "resetCycle": 10,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    1,
    1,
    1,
    1
-  ]
+  ],
+  "group": "Arlecchino_ElementalArt"
  },
  {
-  "group": "Sigewinne_ElementalArt",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 2,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    1,
@@ -7258,41 +5452,29 @@
    1,
    1,
    1
-  ]
+  ],
+  "group": "Sigewinne_ElementalArt"
  },
  {
-  "group": "Sigewinne_ElementalBurst",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   0.5,
+   0.5,
+   0.5,
+   0.5,
+   0.5,
+   0.5,
+   0.5,
+   0.5,
+   0.5,
+   0.5,
+   0.5,
+   0.5
+  ],
   "resetCycle": 1.9,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0.5,
-   0.5,
-   0.5,
-   0.5,
-   0.5,
-   0.5,
-   0.5,
-   0.5,
-   0.5,
-   0.5,
-   0.5,
-   0.5
-  ],
   "damageSequence": [
    1,
    1,
@@ -7307,53 +5489,30 @@
    1,
    1,
    1
-  ]
+  ],
+  "group": "Sigewinne_ElementalBurst"
  },
  {
-  "group": "Clorinde_ElementalArt",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 1,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    1,
@@ -7368,44 +5527,25 @@
    1,
    1,
    1
-  ]
+  ],
+  "group": "Clorinde_ElementalArt"
  },
  {
-  "group": "Lava_Common",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 0.5,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
   "damageSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
+   1
+  ],
+  "group": "Lava_Common"
  },
  {
-  "group": "Animal_Tortoise_Electric_Lightning",
-  "resetCycle": 1,
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -7413,21 +5553,18 @@
    1,
    1
   ],
+  "resetCycle": 1,
   "damageSequence": [
    1,
    0.25,
    0.25,
    0.1
-  ]
+  ],
+  "group": "Animal_Tortoise_Electric_Lightning"
  },
  {
-  "group": "ToothTrap_Attack02",
-  "resetCycle": 1,
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -7435,109 +5572,84 @@
    1,
    1
   ],
+  "resetCycle": 1,
   "damageSequence": [
    1,
    0.1,
    0.1,
    0.1
-  ]
+  ],
+  "group": "ToothTrap_Attack02"
  },
  {
-  "group": "ToothTrap_Attack03",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 3,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    0.5,
    0.2,
    0.2,
    0.1
-  ]
+  ],
+  "group": "ToothTrap_Attack03"
  },
  {
-  "group": "Emilie_ElementalArt_Bullet",
-  "resetCycle": 2,
   "durabilitySequence": [
-   1,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
    1
   ],
+  "resetCycle": 2,
   "damageSequence": [
    1,
    1
-  ]
+  ],
+  "group": "Emilie_ElementalArt_Bullet"
  },
  {
-  "group": "Emilie_ElementalArt_Bullet_Talent",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 1.3,
-  "durabilitySequence": [
-   1,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0
-  ],
   "damageSequence": [
-   1,
-   0
-  ]
+   1
+  ],
+  "group": "Emilie_ElementalArt_Bullet_Talent"
  },
  {
-  "group": "Sethos_LightningArrow",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 0.1,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0,
-   0,
-   0
-  ],
   "damageSequence": [
-   1,
-   0,
-   0,
-   0
-  ]
+   1
+  ],
+  "group": "Sethos_LightningArrow"
  },
  {
-  "group": "Lava_Liquid_MagmaJet",
-  "resetCycle": 0.5,
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
+   1
   ],
+  "resetCycle": 0.5,
   "damageSequence": [
    1,
    0.5,
@@ -7545,117 +5657,87 @@
    0.1,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Lava_Liquid_MagmaJet"
  },
  {
-  "group": "Lava_Solid_SmashAttack",
-  "resetCycle": 0.5,
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
+   1
   ],
+  "resetCycle": 0.5,
   "damageSequence": [
    1,
    0.5,
    0.1
-  ]
+  ],
+  "group": "Lava_Solid_SmashAttack"
  },
  {
-  "group": "Flamingo_Primo_NormalAtk01",
-  "resetCycle": 1,
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
-   1,
-   0,
-   0,
-   0
+   1
   ],
+  "resetCycle": 1,
   "damageSequence": [
-   1,
-   0,
-   0,
-   0
-  ]
+   1
+  ],
+  "group": "Flamingo_Primo_NormalAtk01"
  },
  {
-  "group": "Flamingo_Primo_NormalAtk03_Circle",
-  "resetCycle": 1,
   "durabilitySequence": [
-   1,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
    0.5
   ],
+  "resetCycle": 1,
   "damageSequence": [
    1,
    0.5
-  ]
+  ],
+  "group": "Flamingo_Primo_NormalAtk03_Circle"
  },
  {
-  "group": "Flamingo_Primo_NormalAtk03_Rush",
-  "resetCycle": 2,
   "durabilitySequence": [
-   1,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
    0.2,
    0.2
   ],
+  "resetCycle": 2,
   "damageSequence": [
    1,
    0.2,
    0.2
-  ]
+  ],
+  "group": "Flamingo_Primo_NormalAtk03_Rush"
  },
  {
-  "group": "Flamingo_Primo_ChargeAtk",
-  "resetCycle": 1,
   "durabilitySequence": [
-   1,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
    0.5
   ],
+  "resetCycle": 1,
   "damageSequence": [
    1,
    0.5
-  ]
+  ],
+  "group": "Flamingo_Primo_ChargeAtk"
  },
  {
-  "group": "Flamingo_Primo_Shoot",
-  "resetCycle": 2,
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -7666,6 +5748,7 @@
    0.1,
    0.1
   ],
+  "resetCycle": 2,
   "damageSequence": [
    1,
    0.4,
@@ -7694,16 +5777,12 @@
    0.01,
    0.01,
    0.01
-  ]
+  ],
+  "group": "Flamingo_Primo_Shoot"
  },
  {
-  "group": "Flamingo_Primo_Swoop_Damage",
-  "resetCycle": 1,
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -7711,32 +5790,23 @@
    0.1,
    0.1
   ],
+  "resetCycle": 1,
   "damageSequence": [
    1,
    0.2,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Flamingo_Primo_Swoop_Damage"
  },
  {
-  "group": "Monster_Slingshot_ShrapnelShoot",
-  "resetCycle": 1,
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
+   1
   ],
+  "resetCycle": 1,
   "damageSequence": [
    1,
    0.5,
@@ -7744,64 +5814,48 @@
    0.1,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Monster_Slingshot_ShrapnelShoot"
  },
  {
-  "group": "HookWalker_Primo_Whirl",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1
+  ],
   "resetCycle": 1.5,
-  "durabilitySequence": [
-   1,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    0.1,
    0.1
-  ]
+  ],
+  "group": "HookWalker_Primo_Whirl"
  },
  {
-  "group": "Tribalwarrior_Female_Standard_Launcher_HookWalker_TribalUlt",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   0.5,
+   0.25,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1
+  ],
   "resetCycle": 3,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0.5,
-   0.25,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1
-  ],
   "damageSequence": [
    1,
    0.5,
@@ -7818,29 +5872,23 @@
    0.1,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Tribalwarrior_Female_Standard_Launcher_HookWalker_TribalUlt"
  },
  {
-  "group": "Tribalwarrior_Female_Standard_Launcher_HookWalker_Shoot",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   0.5,
+   0.25,
+   0.1,
+   0.1,
+   0.1
+  ],
   "resetCycle": 1,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   0.5,
-   0.25,
-   0.1,
-   0.1,
-   0.1
-  ],
   "damageSequence": [
    1,
    1,
@@ -7849,36 +5897,23 @@
    0.1,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Tribalwarrior_Female_Standard_Launcher_HookWalker_Shoot"
  },
  {
-  "group": "Natsaurus_Mosasaurus_ShootAttackBullet",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 1,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
   "damageSequence": [
-   1,
-   0,
-   0,
-   0,
-   0
-  ]
+   1
+  ],
+  "group": "Natsaurus_Mosasaurus_ShootAttackBullet"
  },
  {
-  "group": "Wayob_Flamingo_02_SummonAttack2",
-  "resetCycle": 2,
   "durabilitySequence": [
    1,
    1,
@@ -7915,6 +5950,7 @@
    0.1,
    0.1
   ],
+  "resetCycle": 2,
   "damageSequence": [
    1,
    1,
@@ -7932,16 +5968,12 @@
    0.1,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Wayob_Flamingo_02_SummonAttack2"
  },
  {
-  "group": "Kinich_Eart_Normal_Bullet",
-  "resetCycle": 2,
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -7949,6 +5981,7 @@
    1,
    1
   ],
+  "resetCycle": 2,
   "damageSequence": [
    1,
    1,
@@ -7958,88 +5991,69 @@
    1,
    1,
    1
-  ]
+  ],
+  "group": "Kinich_Eart_Normal_Bullet"
  },
  {
-  "group": "Kinich_Eart_Final_Bullet",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 1.2,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    1,
    1,
    1
-  ]
+  ],
+  "group": "Kinich_Eart_Final_Bullet"
  },
  {
-  "group": "Monster_Launcher_Mosasaurus_RangedAttack01",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1
+  ],
   "resetCycle": 0.5,
-  "durabilitySequence": [
-   1,
-   0
-  ],
-  "enbreakSequence": [
-   1,
+  "damageSequence": [
    1
   ],
-  "damageSequence": [
-   1,
-   0
-  ]
+  "group": "Monster_Launcher_Mosasaurus_RangedAttack01"
  },
  {
-  "group": "Shougun_Pole_ElectricEye",
-  "resetCycle": 1,
   "durabilitySequence": [
-   1,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
    1,
    1
   ],
+  "resetCycle": 1,
   "damageSequence": [
    1,
    0.25,
    0.1
-  ]
+  ],
+  "group": "Shougun_Pole_ElectricEye"
  },
  {
-  "group": "Tribalwarrior_Shamansaurus_GuidanceShot",
-  "resetCycle": 3,
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
-   0,
-   0,
    1,
-   0,
-   0,
-   1,
-   0
+   1
   ],
+  "resetCycle": 3,
   "damageSequence": [
    1,
    1,
@@ -8049,17 +6063,12 @@
    0.1,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Tribalwarrior_Shamansaurus_GuidanceShot"
  },
  {
-  "group": "DragonClaw_ClawCombo_Bullet",
-  "resetCycle": 2,
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -8068,23 +6077,19 @@
    0.1,
    0.1
   ],
+  "resetCycle": 2,
   "damageSequence": [
    1,
    1,
    1,
    0.5,
    0.1
-  ]
+  ],
+  "group": "DragonClaw_ClawCombo_Bullet"
  },
  {
-  "group": "DragonClaw_TrackingLaser_Bullet",
-  "resetCycle": 1,
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -8093,6 +6098,7 @@
    0.1,
    0.1
   ],
+  "resetCycle": 1,
   "damageSequence": [
    1,
    0.5,
@@ -8100,244 +6106,155 @@
    0.1,
    0.1,
    0.01
-  ]
+  ],
+  "group": "DragonClaw_TrackingLaser_Bullet"
  },
  {
-  "group": "DragonClaw_Common",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 0.5,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
   "damageSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
+   1
+  ],
+  "group": "DragonClaw_Common"
  },
  {
-  "group": "Monster_TribalWarrior_Male_Standard_Powermaul_Drillhead_TribalUlt",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 1,
-  "durabilitySequence": [
-   1,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0
-  ],
   "damageSequence": [
-   1,
-   0
-  ]
+   1
+  ],
+  "group": "Monster_TribalWarrior_Male_Standard_Powermaul_Drillhead_TribalUlt"
  },
  {
-  "group": "Monster_TribalWarrior_Male_Strong_Chainsword_Drillhead_TribalUlt",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 1,
-  "durabilitySequence": [
-   1,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0
-  ],
   "damageSequence": [
-   1,
-   0
-  ]
+   1
+  ],
+  "group": "Monster_TribalWarrior_Male_Strong_Chainsword_Drillhead_TribalUlt"
  },
  {
-  "group": "Monster_Natsaurus_Mosasaurus_RushAttack",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
   "resetCycle": 3.6,
+  "damageSequence": [
+   1
+  ],
+  "group": "Monster_Natsaurus_Mosasaurus_RushAttack"
+ },
+ {
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
+   0.5,
+   0.25,
+   0.1,
+   0.1
   ],
-  "damageSequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ]
- },
- {
-  "group": "Tribalwarrior_Female_Slim_Slingshot_Flamingo_ShrapnelShoot",
   "resetCycle": 2,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0.5,
-   0.25,
-   0.1,
-   0.1
-  ],
   "damageSequence": [
    1,
    0.5,
    0.25,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Tribalwarrior_Female_Slim_Slingshot_Flamingo_ShrapnelShoot"
  },
  {
-  "group": "Flamingo_Small_NormalAtk",
-  "resetCycle": 0.5,
   "durabilitySequence": [
-   1,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
    1
   ],
+  "resetCycle": 0.5,
   "damageSequence": [
    1,
    1
-  ]
+  ],
+  "group": "Flamingo_Small_NormalAtk"
  },
  {
-  "group": "Flamingo_Normal_NormalAtk",
-  "resetCycle": 0.5,
   "durabilitySequence": [
-   1,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
    1
   ],
+  "resetCycle": 0.5,
   "damageSequence": [
    1,
    1
-  ]
+  ],
+  "group": "Flamingo_Normal_NormalAtk"
  },
  {
-  "group": "Activity_RoleCombat_Blessing_RockAOE",
+  "durabilitySequence": [
+   1,
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 2.5,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    1,
    1,
    1
-  ]
+  ],
+  "group": "Activity_RoleCombat_Blessing_RockAOE"
  },
  {
-  "group": "Vulture_Sacred_Attack05_MvM",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   0.5,
+   0.25,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1
+  ],
   "resetCycle": 2,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   0.5,
-   0.25,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1
-  ],
   "damageSequence": [
    1,
    1,
@@ -8355,19 +6272,47 @@
    0.1,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Vulture_Sacred_Attack05_MvM"
  },
  {
-  "group": "Olorun_ElementalArt",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 8,
-  "durabilitySequence": [
+  "damageSequence": [
    1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Olorun_ElementalArt"
+ },
+ {
+  "durabilitySequence": [
+   1
   ],
   "enbreakSequence": [
    1,
@@ -8383,47 +6328,7 @@
    1,
    1
   ],
-  "damageSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ]
- },
- {
-  "group": "Olorun_ElementalBurst",
   "resetCycle": 3,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    1,
@@ -8437,27 +6342,24 @@
    1,
    1,
    1
-  ]
+  ],
+  "group": "Olorun_ElementalBurst"
  },
  {
-  "group": "Chasca_MultiAimAttack_Base",
+  "durabilitySequence": [
+   1,
+   1,
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 1.5,
-  "durabilitySequence": [
-   1,
-   0,
-   1,
-   0,
-   1,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    1,
@@ -8465,43 +6367,39 @@
    1,
    1,
    1
-  ]
+  ],
+  "group": "Chasca_MultiAimAttack_Base"
  },
  {
-  "group": "Chasca_MultiAimAttack_Extra",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1
+  ],
   "resetCycle": 1.5,
-  "durabilitySequence": [
-   1,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    1
-  ]
+  ],
+  "group": "Chasca_MultiAimAttack_Extra"
  },
  {
-  "group": "Chasca_MultiAimAttack_ElementalBurst",
+  "durabilitySequence": [
+   1,
+   1,
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 1.5,
-  "durabilitySequence": [
-   1,
-   0,
-   1,
-   0,
-   1,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    1,
@@ -8509,16 +6407,32 @@
    1,
    1,
    1
-  ]
+  ],
+  "group": "Chasca_MultiAimAttack_ElementalBurst"
  },
  {
-  "group": "RoleCombat_Blessing_SwirlElectric_Thunder",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 3,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "RoleCombat_Blessing_SwirlElectric_Thunder"
+ },
+ {
   "durabilitySequence": [
    1,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -8526,136 +6440,113 @@
    1,
    1
   ],
-  "damageSequence": [
-   1,
-   1,
-   1,
-   1
-  ]
- },
- {
-  "group": "RoleCombat_Blessing_SwirlWater_Tornado",
   "resetCycle": 4,
-  "durabilitySequence": [
-   1,
-   0,
-   1,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    1,
    1,
    1
-  ]
+  ],
+  "group": "RoleCombat_Blessing_SwirlWater_Tornado"
  },
  {
-  "group": "Citlali_Storm",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1
+  ],
   "resetCycle": 1.5,
+  "damageSequence": [
+   1
+  ],
+  "group": "Vehicle_Bisonsaurus_SprintAttack"
+ },
+ {
   "durabilitySequence": [
-   1,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
    1
   ],
+  "resetCycle": 1.5,
   "damageSequence": [
    1,
    1
-  ]
+  ],
+  "group": "Citlali_Storm"
  },
  {
-  "group": "Tribalwarrior_Launcher_Shamansaurus",
-  "resetCycle": 3,
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
-   0,
-   1,
-   0,
-   0
+   1
   ],
+  "resetCycle": 3,
   "damageSequence": [
    1,
    1,
    0.2,
    0.2,
    0.2
-  ]
+  ],
+  "group": "Tribalwarrior_Launcher_Shamansaurus"
  },
  {
-  "group": "Natsaurus_Shamansaurus_Normal",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1
+  ],
   "resetCycle": 1,
-  "durabilitySequence": [
+  "damageSequence": [
    1,
-   0,
-   0
+   0.1,
+   0.1
+  ],
+  "group": "Natsaurus_Shamansaurus_Normal"
+ },
+ {
+  "durabilitySequence": [
+   1
   ],
   "enbreakSequence": [
+   1,
+   0.25,
+   0.1,
+   0.1
+  ],
+  "resetCycle": 3,
+  "damageSequence": [
+   1,
+   0.25,
+   0.1,
+   0.1
+  ],
+  "group": "Monster_TheAbyssXiuhcoatl_RangeAtk_OnGround"
+ },
+ {
+  "durabilitySequence": [
+   1,
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
    1,
    1,
    1
   ],
-  "damageSequence": [
-   1,
-   0.1,
-   0.1
-  ]
- },
- {
-  "group": "Monster_TheAbyssXiuhcoatl_RangeAtk_OnGround",
-  "resetCycle": 3,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   0.25,
-   0.1,
-   0.1
-  ],
-  "damageSequence": [
-   1,
-   0.25,
-   0.1,
-   0.1
-  ]
- },
- {
-  "group": "Monster_TheAbyssXiuhcoatl_FireBlast",
   "resetCycle": 10,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   1,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    0.25,
@@ -8663,35 +6554,48 @@
    0.1,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Monster_TheAbyssXiuhcoatl_FireBlast"
  },
  {
-  "group": "TheAbyssXiuhcoatl_Summon_Underling_RangeAtkBulletHit",
-  "resetCycle": 3,
   "durabilitySequence": [
-   1,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
    1,
    1
   ],
+  "resetCycle": 3,
   "damageSequence": [
    1,
    0.1,
    0.1
-  ]
+  ],
+  "group": "TheAbyssXiuhcoatl_Summon_Underling_RangeAtkBulletHit"
  },
  {
-  "group": "Monster_TheAbyssXiuhcoatl_FireCut_Bullet01",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 2,
-  "durabilitySequence": [
+  "damageSequence": [
    1,
-   0,
-   0,
-   0
+   0.25,
+   0.1,
+   0.1
+  ],
+  "group": "Monster_TheAbyssXiuhcoatl_FireCut_Bullet01"
+ },
+ {
+  "durabilitySequence": [
+   1
   ],
   "enbreakSequence": [
    1,
@@ -8699,43 +6603,18 @@
    1,
    1
   ],
-  "damageSequence": [
-   1,
-   0.25,
-   0.1,
-   0.1
-  ]
- },
- {
-  "group": "Monster_TheAbyssXiuhcoatl_FireCut_Bullet02",
   "resetCycle": 2,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    0.25,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Monster_TheAbyssXiuhcoatl_FireCut_Bullet02"
  },
  {
-  "group": "TheAbyssXiuhcoatl_RangeAtk_InAir_Damage",
-  "resetCycle": 3,
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -8743,23 +6622,18 @@
    0.1,
    0.1
   ],
+  "resetCycle": 3,
   "damageSequence": [
    1,
    0.25,
    0.1,
    0.1
-  ]
+  ],
+  "group": "TheAbyssXiuhcoatl_RangeAtk_InAir_Damage"
  },
  {
-  "group": "Monster_TheAbyssXiuhcoatl_Tile_Fire",
-  "resetCycle": 3,
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -8769,6 +6643,7 @@
    1,
    1
   ],
+  "resetCycle": 3,
   "damageSequence": [
    1,
    1,
@@ -8776,18 +6651,12 @@
    1,
    1,
    1
-  ]
+  ],
+  "group": "Monster_TheAbyssXiuhcoatl_Tile_Fire"
  },
  {
-  "group": "Monster_TheAbyssXiuhcoatl_Tile_Abyss",
-  "resetCycle": 3,
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -8797,6 +6666,7 @@
    1,
    1
   ],
+  "resetCycle": 3,
   "damageSequence": [
    1,
    1,
@@ -8804,16 +6674,12 @@
    1,
    1,
    1
-  ]
+  ],
+  "group": "Monster_TheAbyssXiuhcoatl_Tile_Abyss"
  },
  {
-  "group": "Monster_TheAbyssXiuhcoatl_LoseHp_MultiAtkBullet",
-  "resetCycle": 3,
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -8821,6 +6687,7 @@
    1,
    1
   ],
+  "resetCycle": 3,
   "damageSequence": [
    1,
    1,
@@ -8831,16 +6698,12 @@
    0.1,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Monster_TheAbyssXiuhcoatl_LoseHp_MultiAtkBullet"
  },
  {
-  "group": "Monster_TheAbyssXiuhcoatl_LoseHp_RushAtk_InAir_AreaAtk",
-  "resetCycle": 3,
   "durabilitySequence": [
-   1,
-   0,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -8848,63 +6711,153 @@
    1,
    1
   ],
+  "resetCycle": 3,
   "damageSequence": [
    1,
    0.25,
    0.1,
    0.1
-  ]
+  ],
+  "group": "Monster_TheAbyssXiuhcoatl_LoseHp_RushAtk_InAir_AreaAtk"
  },
  {
-  "group": "Mizuki_Eart_Attack",
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1
+  ],
+  "resetCycle": 3,
+  "damageSequence": [
+   1,
+   0.5
+  ],
+  "group": "Tribalwarrior_Male_Strong_Powermaul_Bisonsaurus_WhrilAttack1"
+ },
+ {
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1
+  ],
+  "resetCycle": 3,
+  "damageSequence": [
+   1,
+   0.5
+  ],
+  "group": "Tribalwarrior_Male_Strong_Powermaul_Bisonsaurus_WhrilAttack2"
+ },
+ {
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1
+  ],
+  "resetCycle": 3,
+  "damageSequence": [
+   1,
+   0.5
+  ],
+  "group": "Tribalwarrior_Male_Strong_Powermaul_Bisonsaurus_WhrilAttack3"
+ },
+ {
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1
+  ],
+  "resetCycle": 1,
+  "damageSequence": [
+   1,
+   0.5
+  ],
+  "group": "Tribalwarrior_Male_Strong_Powermaul_Bisonsaurus_TribalUlt"
+ },
+ {
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "resetCycle": 0.8,
+  "damageSequence": [
+   1
+  ],
+  "group": "Tribalwarrior_Bisonsaurus_TribeUlt"
+ },
+ {
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1
+  ],
+  "resetCycle": 1,
+  "damageSequence": [
+   1,
+   0.5,
+   0.1
+  ],
+  "group": "Animal_Penguin_03_RotateAtk"
+ },
+ {
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
+  "resetCycle": 1,
+  "damageSequence": [
+   1,
+   0.2,
+   0.2
+  ],
+  "group": "Animal_Penguin_03_NormalAtk_Triple"
+ },
+ {
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1,
+   1
+  ],
   "resetCycle": 1.2,
-  "durabilitySequence": [
-   1,
-   0,
-   0,
-   0
-  ],
-  "enbreakSequence": [
-   1,
-   1,
-   1,
-   1
-  ],
   "damageSequence": [
    1,
    1,
    1,
    1
-  ]
+  ],
+  "group": "Mizuki_Eart_Attack"
  },
  {
-  "group": "Lanyan_ElementalArt",
-  "resetCycle": 2.5,
   "durabilitySequence": [
    1,
-   0,
-   0,
    1,
-   0,
-   0,
    1,
-   0,
-   0,
    1,
-   0,
-   0,
    1,
-   0,
-   0,
    1,
-   0,
-   0,
    1,
-   0,
-   0,
-   1,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -8922,6 +6875,7 @@
    1,
    1
   ],
+  "resetCycle": 2.5,
   "damageSequence": [
    1,
    1,
@@ -8938,36 +6892,19 @@
    1,
    1,
    1
-  ]
+  ],
+  "group": "Lanyan_ElementalArt"
  },
  {
-  "group": "Lanyan_ElementalArt_Mix",
-  "resetCycle": 2.5,
   "durabilitySequence": [
    1,
-   0,
-   0,
    1,
-   0,
-   0,
    1,
-   0,
-   0,
    1,
-   0,
-   0,
    1,
-   0,
-   0,
    1,
-   0,
-   0,
    1,
-   0,
-   0,
-   1,
-   0,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -8985,6 +6922,7 @@
    1,
    1
   ],
+  "resetCycle": 2.5,
   "damageSequence": [
    1,
    1,
@@ -9001,16 +6939,13 @@
    1,
    1,
    1
-  ]
+  ],
+  "group": "Lanyan_ElementalArt_Mix"
  },
  {
-  "group": "RoleCombat_Blessing_Freeze_Impact",
-  "resetCycle": 2.5,
   "durabilitySequence": [
    1,
-   0,
-   1,
-   0
+   1
   ],
   "enbreakSequence": [
    1,
@@ -9018,11 +6953,56 @@
    1,
    1
   ],
+  "resetCycle": 2.5,
   "damageSequence": [
    1,
    1,
    1,
    1
-  ]
+  ],
+  "group": "RoleCombat_Blessing_Freeze_Impact"
+ },
+ {
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
+  "resetCycle": 2.5,
+  "damageSequence": [
+   1
+  ],
+  "group": "Monster_LavaTitan_Common"
+ },
+ {
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   0.5,
+   0.25,
+   0.1
+  ],
+  "resetCycle": 2,
+  "damageSequence": [
+   1,
+   0.15
+  ],
+  "group": "Monster_LavaTitan_BallCannon"
+ },
+ {
+  "durabilitySequence": [
+   1
+  ],
+  "enbreakSequence": [
+   1
+  ],
+  "resetCycle": 1,
+  "damageSequence": [
+   1
+  ],
+  "group": "Monster_Bisonsaurus_RushAttack"
  }
 ]

@@ -1,452 +1,467 @@
 [
  {
-  "guideName": "GuideWeaponChange",
+  "BOBJPMJEEFD": "OPEN_STATE_WEAPON_CHANGE_GUIDE",
   "type": "GET_NEW_ITEM",
-  "openState": "OPEN_STATE_WEAPON_CHANGE_GUIDE"
+  "KEBCEOBCGMF": "GuideWeaponChange"
  },
  {
-  "guideName": "GuideAvatarUpgrade",
+  "BOBJPMJEEFD": "OPEN_STATE_PLAYER_LVUP_GUIDE",
   "type": "GET_NEW_ITEM",
-  "openState": "OPEN_STATE_PLAYER_LVUP_GUIDE"
+  "KEBCEOBCGMF": "GuideAvatarUpgrade"
  },
  {
-  "guideName": "GuideRelic",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_RELIC",
   "type": "GET_NEW_ITEM",
-  "openState": "OPEN_STATE_GUIDE_RELIC"
+  "KEBCEOBCGMF": "GuideRelic"
  },
  {
-  "guideName": "GuideWeaponUpgrade",
+  "BOBJPMJEEFD": "OPEN_STATE_WEAPON_PROMOTE_GUIDE",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_WEAPON_PROMOTE_GUIDE"
+  "KEBCEOBCGMF": "GuideWeaponUpgrade"
  },
  {
-  "guideName": "GuideTalent",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_TALENT",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_TALENT"
+  "KEBCEOBCGMF": "GuideTalent"
  },
  {
-  "guideName": "GuideRelicPromote",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_RELIC_PROM",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_RELIC_PROM"
+  "KEBCEOBCGMF": "GuideRelicPromote"
  },
  {
-  "guideName": "GuideGacha",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_GACHA",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_GACHA"
+  "KEBCEOBCGMF": "GuideGacha"
  },
  {
-  "guideName": "GuideTeam",
+  "BOBJPMJEEFD": "OPEN_STATE_NONE",
   "type": "HAS_AVATAR_NUM",
-  "param1": 5
+  "FBMPKCPHNPH": 5,
+  "KEBCEOBCGMF": "GuideTeam"
  },
  {
-  "guideName": "GuideAvatarPromote",
+  "BOBJPMJEEFD": "OPEN_STATE_NONE",
   "type": "ANY_AVATAR_LEVEL",
-  "param1": 20
+  "FBMPKCPHNPH": 20,
+  "KEBCEOBCGMF": "GuideAvatarPromote"
  },
  {
-  "guideName": "GuideBag",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_BAG",
   "type": "GET_NEW_ITEM",
-  "openState": "OPEN_STATE_GUIDE_BAG"
+  "KEBCEOBCGMF": "GuideBag"
  },
  {
-  "guideName": "GuideMultiplayer",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_MULTIPLAYER",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_MULTIPLAYER"
+  "KEBCEOBCGMF": "GuideMultiplayer"
  },
  {
-  "guideName": "GuideDungeonReward",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_DUNGEONREWARD",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_DUNGEONREWARD"
+  "KEBCEOBCGMF": "GuideDungeonReward"
  },
  {
-  "guideName": "GuidePersonalLine",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_PERSONAL_LINE",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_PERSONAL_LINE"
+  "KEBCEOBCGMF": "GuidePersonalLine"
  },
  {
-  "guideName": "GuideAppearance",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_APPEARANCE",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_APPEARANCE"
+  "KEBCEOBCGMF": "GuideAppearance"
  },
  {
-  "guideName": "GuidePersonalLineKey",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_PERSONAL_LINE_KEY",
   "type": "PERSONALLINE_KEY",
-  "openState": "OPEN_STATE_GUIDE_PERSONAL_LINE_KEY"
+  "KEBCEOBCGMF": "GuidePersonalLineKey"
  },
  {
-  "guideName": "GuideProcess",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_PROCESS",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_PROCESS"
+  "KEBCEOBCGMF": "GuideProcess"
  },
  {
-  "guideName": "GuideWidget",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_WIDGET",
   "type": "GET_NEW_ITEM",
-  "openState": "OPEN_STATE_GUIDE_WIDGET"
+  "KEBCEOBCGMF": "GuideWidget"
  },
  {
-  "guideName": "GuideExitMultiplayer",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_EXITMULTIPLAYER",
   "type": "WORLDPLAYER_UPDATE",
-  "openState": "OPEN_STATE_GUIDE_EXITMULTIPLAYER"
+  "KEBCEOBCGMF": "GuideExitMultiplayer"
  },
  {
-  "guideName": "GuideColdClimateEntry",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_COLDCLIMATE",
   "type": "CLIMATE_TYPE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_COLDCLIMATE"
+  "KEBCEOBCGMF": "GuideColdClimateEntry"
  },
  {
-  "guideName": "GuideTheatreMachanicusBuildios",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_THEATREMACHANICUS_BUILD",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_BUILD"
+  "KEBCEOBCGMF": "GuideTheatreMachanicusBuildios"
  },
  {
-  "guideName": "GuideTheatreMachanicusRebuildios",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_THEATREMACHANICUS_REBUILD",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_REBUILD"
+  "KEBCEOBCGMF": "GuideTheatreMachanicusRebuildios"
  },
  {
-  "guideName": "GuideTheatreMachanicusCardios",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_THEATREMACHANICUS_CARD",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_CARD"
+  "KEBCEOBCGMF": "GuideTheatreMachanicusCardios"
  },
  {
-  "guideName": "GuideTheatreMachanicusMissionCheck",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_THEATREMACHANICUS_MISSION_CHECK",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_MISSION_CHECK"
+  "KEBCEOBCGMF": "GuideTheatreMachanicusMissionCheck"
  },
  {
-  "guideName": "GuideTheatreMachanicusBuildSelect",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_THEATREMACHANICUS_BUILD_SELECT",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_BUILD_SELECT"
+  "KEBCEOBCGMF": "GuideTheatreMachanicusBuildSelect"
  },
  {
-  "guideName": "GuideTheatreMachanicusChallegeStart",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_THEATREMACHANICUS_CHALLENGE_START",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_CHALLENGE_START"
+  "KEBCEOBCGMF": "GuideTheatreMachanicusChallegeStart"
  },
  {
-  "guideName": "GuideTheatreMachanicusMonsterios",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_THEATREMACHANICUS_MONSTER",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_MONSTER"
+  "KEBCEOBCGMF": "GuideTheatreMachanicusMonsterios"
  },
  {
-  "guideName": "GuideSynthesisConvert",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_CONVERT",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_CONVERT"
+  "KEBCEOBCGMF": "GuideSynthesisConvert"
  },
  {
-  "guideName": "GuideTheatreMachanicusMultiplayerios",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_THEATREMACHANICUS_MULTIPLAYER",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_MULTIPLAYER"
+  "KEBCEOBCGMF": "GuideTheatreMachanicusMultiplayerios"
  },
  {
-  "guideName": "GuideCoopTask",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_COOP_TASK",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_COOP_TASK"
+  "KEBCEOBCGMF": "GuideCoopTask"
  },
  {
-  "guideName": "GuideAdeptiAbode",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_HOMEWORLD_ADEPTIABODE",
   "type": "GET_NEW_ITEM",
-  "openState": "OPEN_STATE_GUIDE_HOMEWORLD_ADEPTIABODE"
+  "KEBCEOBCGMF": "GuideAdeptiAbode"
  },
  {
-  "guideName": "GuideChannellerSlabEquip",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_CHANNELLERSLAB_EQUIP",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_CHANNELLERSLAB_EQUIP"
+  "KEBCEOBCGMF": "GuideChannellerSlabEquip"
  },
  {
-  "guideName": "GuideChannellerSlabMpSolution",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_CHANNELLERSLAB_MP_SOLUTION",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_CHANNELLERSLAB_MP_SOLUTION"
+  "KEBCEOBCGMF": "GuideChannellerSlabMpSolution"
  },
  {
-  "guideName": "GuideChannellerSlabPower",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_CHANNELLERSLAB_POWER",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_CHANNELLERSLAB_POWER"
+  "KEBCEOBCGMF": "GuideChannellerSlabPower"
  },
  {
-  "guideName": "GuideHomeMapList",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_HOMEWORLD_MAPLIST",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_HOMEWORLD_MAPLIST"
+  "KEBCEOBCGMF": "GuideHomeMapList"
  },
  {
-  "guideName": "GuideRelicResolve",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_RELICRESOLVE",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_RELICRESOLVE"
+  "KEBCEOBCGMF": "GuideRelicResolve"
  },
  {
-  "guideName": "GuideGguideHint",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_GGUIDE_HINT",
   "type": "PUSHTIPS_NOTIFY_FINISH",
-  "openState": "OPEN_STATE_GUIDE_GGUIDE_HINT"
+  "KEBCEOBCGMF": "GuideGguideHint"
  },
  {
-  "guideName": "GuideGguide",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_GGUIDE",
   "type": "NEW_PUSHTIPS",
-  "openState": "OPEN_STATE_GUIDE_GGUIDE"
+  "KEBCEOBCGMF": "GuideGguide"
  },
  {
-  "guideName": "GuidePlayerLvInfo",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_PAIMON_LVINFO",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_PAIMON_LVINFO"
+  "KEBCEOBCGMF": "GuidePlayerLvInfo"
  },
  {
-  "guideName": "GuideFlyStart",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_FLY_SECOND",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_FLY_SECOND"
+  "KEBCEOBCGMF": "GuideFlyStart"
  },
  {
-  "guideName": "GuideSumoTeamSkill",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_SUMO_TEAM_SKILL",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_SUMO_TEAM_SKILL"
+  "KEBCEOBCGMF": "GuideSumoTeamSkill"
  },
  {
-  "guideName": "GuideFishRecipe",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_FISH_RECIPE",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_FISH_RECIPE"
+  "KEBCEOBCGMF": "GuideFishRecipe"
  },
  {
-  "guideName": "GuideQuickTeamMemberChange",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_QUICK_TEAMMEMBERCHANGE",
   "type": "HAS_AVATAR_NUM",
-  "param1": 5,
-  "openState": "OPEN_STATE_GUIDE_QUICK_TEAMMEMBERCHANGE"
+  "FBMPKCPHNPH": 5,
+  "KEBCEOBCGMF": "GuideQuickTeamMemberChange"
  },
  {
-  "guideName": "GuideFragileResin",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_FRAGILE_RESIN",
   "type": "GET_NEW_ITEM",
-  "openState": "OPEN_STATE_GUIDE_FRAGILE_RESIN"
+  "KEBCEOBCGMF": "GuideFragileResin"
  },
  {
-  "guideName": "GuideWidgetQuickSwitch1",
+  "BOBJPMJEEFD": "OPEN_STATE_WIDGET_QUICK_SWITCH_GUIDE",
   "type": "GET_NEW_ITEM",
-  "openState": "OPEN_STATE_WIDGET_QUICK_SWITCH_GUIDE"
+  "KEBCEOBCGMF": "GuideWidgetQuickSwitch1"
  },
  {
-  "guideName": "GuideWidgetQuickSwitch2ios",
+  "BOBJPMJEEFD": "OPEN_STATE_WIDGET_QUICK_SWITCH_GUIDE_IOS",
   "type": "GET_NEW_ITEM",
-  "openState": "OPEN_STATE_WIDGET_QUICK_SWITCH_GUIDE_IOS"
+  "KEBCEOBCGMF": "GuideWidgetQuickSwitch2ios"
  },
  {
-  "guideName": "GuideWidgetQuickSwitch2PC",
+  "BOBJPMJEEFD": "OPEN_STATE_WIDGET_QUICK_SWITCH_GUIDE_PC",
   "type": "GET_NEW_ITEM",
-  "openState": "OPEN_STATE_WIDGET_QUICK_SWITCH_GUIDE_PC"
+  "KEBCEOBCGMF": "GuideWidgetQuickSwitch2PC"
  },
  {
-  "guideName": "GuideWidgetQuickSwitch2PS",
+  "BOBJPMJEEFD": "OPEN_STATE_WIDGET_QUICK_SWITCH_GUIDE_PS",
   "type": "GET_NEW_ITEM",
-  "openState": "OPEN_STATE_WIDGET_QUICK_SWITCH_GUIDE_PS"
+  "KEBCEOBCGMF": "GuideWidgetQuickSwitch2PS"
  },
  {
-  "guideName": "GuideDive",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_DIVE",
   "type": "CAN_DIVE_UNLOCK",
-  "openState": "OPEN_STATE_GUIDE_DIVE"
+  "KEBCEOBCGMF": "GuideDive"
  },
  {
-  "guideName": "GuideAbilityFish",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_ABILITY_FISH",
   "type": "CAN_DIVE_UNLOCK",
-  "openState": "OPEN_STATE_GUIDE_ABILITY_FISH"
+  "KEBCEOBCGMF": "GuideAbilityFish"
  },
  {
-  "guideName": "GuideRancourUpgrade",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_RANCOUR_UPGRADE",
   "type": "GET_NEW_ITEM",
-  "openState": "OPEN_STATE_GUIDE_RANCOUR_UPGRADE"
+  "KEBCEOBCGMF": "GuideRancourUpgrade"
  },
  {
-  "guideName": "GuideRancourPromote",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_RANCOUR_PROMOTE",
   "type": "GET_NEW_ITEM",
-  "openState": "OPEN_STATE_GUIDE_RANCOUR_PROMOTE"
+  "KEBCEOBCGMF": "GuideRancourPromote"
  },
  {
-  "guideName": "GuideWeaponUpgradeHighlevel",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_WEAPON_UPGRADE_HIGHLEVEL",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_WEAPON_UPGRADE_HIGHLEVEL"
+  "KEBCEOBCGMF": "GuideWeaponUpgradeHighlevel"
  },
  {
-  "guideName": "GuideOceanCurrent",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_OCEANCURRENT",
   "type": "CAN_DIVE_UNLOCK",
-  "openState": "OPEN_STATE_GUIDE_OCEANCURRENT"
+  "KEBCEOBCGMF": "GuideOceanCurrent"
  },
  {
-  "guideName": "GuideDiveButton",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_DIVEAXISBUTTON",
   "type": "CAN_DIVE_UNLOCK",
-  "openState": "OPEN_STATE_GUIDE_DIVEAXISBUTTON"
+  "KEBCEOBCGMF": "GuideDiveButton"
  },
  {
-  "guideName": "GuideDailyAttendanceLevel",
+  "BOBJPMJEEFD": "OPEN_STATE_DAILY_ATTENDANCE_GUIDE_PRE",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_DAILY_ATTENDANCE_GUIDE_PRE"
+  "KEBCEOBCGMF": "GuideDailyAttendanceLevel"
  },
  {
-  "guideName": "GuideDailyAttendanceQuest",
+  "BOBJPMJEEFD": "OPEN_STATE_DAILY_ATTENDANCE_GUIDE_PRE",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_DAILY_ATTENDANCE_GUIDE_PRE"
+  "KEBCEOBCGMF": "GuideDailyAttendanceQuest"
  },
  {
-  "guideName": "GuideGCGHandbookButton",
+  "BOBJPMJEEFD": "OPEN_STATE_GCG_HANDBOOK_GUIDE",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GCG_HANDBOOK_GUIDE"
+  "KEBCEOBCGMF": "GuideGCGHandbookButton"
  },
  {
-  "guideName": "GuideGCGDeckCodeButton",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_GCG_DECKCODE",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_GCG_DECKCODE"
+  "KEBCEOBCGMF": "GuideGCGDeckCodeButton"
  },
  {
-  "guideName": "GuideNeuvilletteSkill",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_NEUVILLETTE_SKILL",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_NEUVILLETTE_SKILL"
+  "KEBCEOBCGMF": "GuideNeuvilletteSkill"
  },
  {
-  "guideName": "GuideFungusFighterV3Setting",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_FUNGUSFIGHTERV3_CONTROL_SWITCH",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_FUNGUSFIGHTERV3_CONTROL_SWITCH"
+  "KEBCEOBCGMF": "GuideFungusFighterV3Setting"
  },
  {
-  "guideName": "GuideTrainGuideDailyFailTip",
+  "BOBJPMJEEFD": "OPEN_STATE_TRAINGUIDE_DAILY_FAIL_TIP_ISFINISHED",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_TRAINGUIDE_DAILY_FAIL_TIP_ISFINISHED"
+  "KEBCEOBCGMF": "GuideTrainGuideDailyFailTip"
  },
  {
-  "guideName": "GuideTrainGuideLevelBreakFail25",
+  "BOBJPMJEEFD": "OPEN_STATE_TRAINGUIDE_LEVELBREAK_FAIL_25_ISFINISHED",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_TRAINGUIDE_LEVELBREAK_FAIL_25_ISFINISHED"
+  "KEBCEOBCGMF": "GuideTrainGuideLevelBreakFail25"
  },
  {
-  "guideName": "GuideTrainGuideLevelBreakFail35",
+  "BOBJPMJEEFD": "OPEN_STATE_TRAINGUIDE_LEVELBREAK_FAIL_35_ISFINISHED",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_TRAINGUIDE_LEVELBREAK_FAIL_35_ISFINISHED"
+  "KEBCEOBCGMF": "GuideTrainGuideLevelBreakFail35"
  },
  {
-  "guideName": "GuideTrainGuideLevelBreakFail45",
+  "BOBJPMJEEFD": "OPEN_STATE_TRAINGUIDE_LEVELBREAK_FAIL_45_ISFINISHED",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_TRAINGUIDE_LEVELBREAK_FAIL_45_ISFINISHED"
+  "KEBCEOBCGMF": "GuideTrainGuideLevelBreakFail45"
  },
  {
-  "guideName": "GuideTrainGuideFirstLevelUp",
-  "param1": 12
+  "BOBJPMJEEFD": "OPEN_STATE_NONE",
+  "type": "PLAYER_LEVEL",
+  "FBMPKCPHNPH": 12,
+  "KEBCEOBCGMF": "GuideTrainGuideFirstLevelUp"
  },
  {
-  "guideName": "GuideTrainGuideCharacterEntryTip",
+  "BOBJPMJEEFD": "OPEN_STATE_TRAINGUIDE_CHARACTER_ENTRY_TIP",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_TRAINGUIDE_CHARACTER_ENTRY_TIP"
+  "KEBCEOBCGMF": "GuideTrainGuideCharacterEntryTip"
  },
  {
-  "guideName": "GuideQuestFocusMode",
+  "BOBJPMJEEFD": "OPEN_STATE_QUEST_FOCUS_GUIDE",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_QUEST_FOCUS_GUIDE"
+  "KEBCEOBCGMF": "GuideQuestFocusMode"
  },
  {
-  "guideName": "GuideRemusDashSwitch",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_REMUS_DASH_QTE_SWITCH",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_REMUS_DASH_QTE_SWITCH"
+  "KEBCEOBCGMF": "GuideRemusDashSwitch"
  },
  {
-  "guideName": "GuideRoleCombat01",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_ROLE_COMBAT_01",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_ROLE_COMBAT_01"
+  "KEBCEOBCGMF": "GuideRoleCombat01"
  },
  {
-  "guideName": "GuideRoleCombat02",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_ROLE_COMBAT_02",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_ROLE_COMBAT_02"
+  "KEBCEOBCGMF": "GuideRoleCombat02"
  },
  {
-  "guideName": "GuideRoleCombat03",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_ROLE_COMBAT_03",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_ROLE_COMBAT_03"
+  "KEBCEOBCGMF": "GuideRoleCombat03"
  },
  {
-  "guideName": "GuideReunionV2",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_REUNION_ENTRY",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_REUNION_ENTRY"
+  "KEBCEOBCGMF": "GuideReunionV2"
  },
  {
-  "guideName": "GuideXilonenSkill",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_Xilonen_Skill",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_Xilonen_Skill"
+  "KEBCEOBCGMF": "GuideXilonenSkill"
  },
  {
-  "guideName": "GuideCombineCalculate",
+  "BOBJPMJEEFD": "OPEN_STATE_COMBINE_CALCULATE",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_COMBINE_CALCULATE"
+  "KEBCEOBCGMF": "GuideCombineCalculate"
  },
  {
-  "guideName": "GuideRoleCombatBuild",
+  "BOBJPMJEEFD": "OPEN_STATE_ROLE_COMBAT_GUIDE_BUILD_CARD",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_ROLE_COMBAT_GUIDE_BUILD_CARD"
+  "KEBCEOBCGMF": "GuideRoleCombatBuild"
  },
  {
-  "guideName": "GuideQuestAbyssWar",
+  "BOBJPMJEEFD": "OPEN_STATE_ABYSSWAR_MAP",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_ABYSSWAR_MAP"
+  "KEBCEOBCGMF": "GuideQuestAbyssWar"
  },
  {
-  "guideName": "GuideBoltbugNet",
+  "BOBJPMJEEFD": "OPEN_STATE_BOLTBUG_NET",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_BOLTBUG_NET"
+  "KEBCEOBCGMF": "GuideBoltbugNet"
  },
  {
-  "guideName": "GuideInstrumentSet",
+  "BOBJPMJEEFD": "OPEN_STATE_INSTRUMENT_SETTING",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_INSTRUMENT_SETTING"
+  "KEBCEOBCGMF": "GuideInstrumentSet"
  },
  {
-  "guideName": "GuideMusicUgc_01",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_MUSIC_GAME_BOOK_EDITOR_EDIT",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_MUSIC_GAME_BOOK_EDITOR_EDIT"
+  "KEBCEOBCGMF": "GuideMusicUgc_01"
  },
  {
-  "guideName": "GuideMusicUgc_02",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_MUSIC_GAME_BOOK_TIMELINE_EDIT",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_MUSIC_GAME_BOOK_TIMELINE_EDIT"
+  "KEBCEOBCGMF": "GuideMusicUgc_02"
  },
  {
-  "guideName": "GuideMusicSetting",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_MUSIC_GAME_BOOK_SETTING",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_MUSIC_GAME_BOOK_SETTING"
+  "KEBCEOBCGMF": "GuideMusicSetting"
  },
  {
-  "guideName": "GuideMusicPerference",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_MUSIC_GAME_BOOK_PERFERENCE",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_MUSIC_GAME_BOOK_PERFERENCE"
+  "KEBCEOBCGMF": "GuideMusicPerference"
  },
  {
-  "guideName": "GuideCoChallenge",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_COCHALLENGE",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_COCHALLENGE"
+  "KEBCEOBCGMF": "GuideCoChallenge"
  },
  {
-  "guideName": "GuideArtifactLock1",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_ARTIFACT_LOCK",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_ARTIFACT_LOCK"
+  "KEBCEOBCGMF": "GuideArtifactLock1"
  },
  {
-  "guideName": "GuideArtifactLock2",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_ARTIFACT_LOCK",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_ARTIFACT_LOCK"
+  "KEBCEOBCGMF": "GuideArtifactLock2"
  },
  {
-  "guideName": "GuideTaskSelectSwitch",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_TALK_SELECT_SWITCH",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_TALK_SELECT_SWITCH"
+  "KEBCEOBCGMF": "GuideTaskSelectSwitch"
  },
  {
-  "guideName": "GuideCharacterWeaponScreen1",
-  "param1": 40,
-  "openState": "OPEN_STATE_CHARACTER_WEAPON_SCREEN"
+  "BOBJPMJEEFD": "OPEN_STATE_CHARACTER_WEAPON_SCREEN",
+  "type": "PLAYER_LEVEL",
+  "FBMPKCPHNPH": 40,
+  "KEBCEOBCGMF": "GuideCharacterWeaponScreen1"
  },
  {
-  "guideName": "GuideCharacterWeaponScreen2",
+  "BOBJPMJEEFD": "OPEN_STATE_CHARACTER_WEAPON_SCREEN",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_CHARACTER_WEAPON_SCREEN"
+  "KEBCEOBCGMF": "GuideCharacterWeaponScreen2"
  },
  {
-  "guideName": "GuideGreetingCard",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_GREETINGCARD",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_GREETINGCARD"
+  "KEBCEOBCGMF": "GuideGreetingCard"
  },
  {
-  "guideName": "GuideFishingJoy",
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_FISHINGJOY",
   "type": "OPENSTATE_CHANGE",
-  "openState": "OPEN_STATE_GUIDE_FISHINGJOY"
+  "KEBCEOBCGMF": "GuideFishingJoy"
+ },
+ {
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_T_BUTTON_CONTINUOUS_CLICK_PS",
+  "type": "OPENSTATE_CHANGE",
+  "KEBCEOBCGMF": "GuideTButtonContinuousClickPS"
+ },
+ {
+  "BOBJPMJEEFD": "OPEN_STATE_GUIDE_BRICKBREAKERV2_TUTORIAL",
+  "type": "OPENSTATE_CHANGE",
+  "KEBCEOBCGMF": "GuideBrickBreakerV2Tutorial"
  }
 ]

@@ -1,62 +1,53 @@
 [
  {
+  "DHKEILIEHBC": "OpenInfoPage",
   "id": 1,
-  "FDLDNAALBOM": "SGV_EnergyCaster_QRCode",
-  "triggerType": "Loading",
-  "OOKOBFCEDIN": 2,
-  "actionType": "OpenInfoPage",
-  "BHNCPOEDDNF": [],
-  "abilityName": ""
+  "HEBNAFBCDMJ": 2,
+  "JDGCLCFGDKO": "SGV_EnergyCaster_QRCode",
+  "KMFGILOBGDJ": "Loading"
  },
  {
+  "DHKEILIEHBC": "ChangeCamera",
   "id": 2,
-  "FDLDNAALBOM": "SGV_EnergyCaster_Camera",
-  "triggerType": "Loading",
-  "OOKOBFCEDIN": 2,
-  "actionType": "ChangeCamera",
-  "BHNCPOEDDNF": [],
-  "abilityName": ""
+  "HEBNAFBCDMJ": 2,
+  "JDGCLCFGDKO": "SGV_EnergyCaster_Camera",
+  "KMFGILOBGDJ": "Loading"
  },
  {
+  "DHKEILIEHBC": "TriggerAbility",
   "id": 3,
-  "FDLDNAALBOM": "SGV_EnergyCaster_Camera",
-  "triggerType": "Loading",
-  "OOKOBFCEDIN": 2,
-  "actionType": "TriggerAbility",
-  "BHNCPOEDDNF": [],
+  "HEBNAFBCDMJ": 2,
+  "JDGCLCFGDKO": "SGV_EnergyCaster_Camera",
+  "KMFGILOBGDJ": "Loading",
   "abilityName": "SceneObj_Area_Fd_Property_Ani_Prop_EnergyCaster_Operator_01_CameraAim_Ability"
  },
  {
+  "DHKEILIEHBC": "TriggerAbility",
   "id": 4,
-  "FDLDNAALBOM": "SGV_EnergyCaster_Cell",
-  "triggerType": "Clicking",
-  "actionType": "TriggerAbility",
-  "BHNCPOEDDNF": [],
+  "JDGCLCFGDKO": "SGV_EnergyCaster_Cell",
+  "KMFGILOBGDJ": "Clicking",
   "abilityName": "SceneObj_Area_Fd_Property_Ani_Prop_EnergyCaster_Operator_01_CellClick_Ability"
  },
  {
+  "DHKEILIEHBC": "TriggerAbility",
   "id": 5,
-  "FDLDNAALBOM": "SGV_EnergyCaster_Cell",
-  "triggerType": "Aiming",
-  "actionType": "TriggerAbility",
-  "BHNCPOEDDNF": [],
+  "JDGCLCFGDKO": "SGV_EnergyCaster_Cell",
+  "KMFGILOBGDJ": "Aiming",
   "abilityName": "SceneObj_Area_Fd_Property_Ani_Prop_EnergyCaster_Operator_01_CellAim_Ability"
  },
  {
+  "DHKEILIEHBC": "TriggerAbility",
   "id": 6,
-  "FDLDNAALBOM": "SGV_EnergyCaster_Cell",
-  "triggerType": "Exit",
-  "actionType": "TriggerAbility",
-  "BHNCPOEDDNF": [],
+  "JDGCLCFGDKO": "SGV_EnergyCaster_Cell",
+  "KMFGILOBGDJ": "Exit",
   "abilityName": "SceneObj_Area_Fd_Property_Ani_Prop_EnergyCaster_Operator_01_CellExit_Ability"
  },
  {
+  "DHKEILIEHBC": "TriggerAbility",
   "id": 7,
-  "FDLDNAALBOM": "SGV_EnergyCaster_QRCode",
-  "triggerType": "Loading",
-  "OOKOBFCEDIN": 2,
-  "actionType": "TriggerAbility",
-  "BHNCPOEDDNF": [],
+  "HEBNAFBCDMJ": 2,
+  "JDGCLCFGDKO": "SGV_EnergyCaster_QRCode",
+  "KMFGILOBGDJ": "Loading",
   "abilityName": "SceneObj_Area_Fd_Property_Ani_Prop_EnergyCaster_Operator_01_QRCode_Ability"
  }
 ]

@@ -1,48 +1,60 @@
 [
  {
   "id": 1,
-  "LCODPOBOLPH": [
+  "IGDNKPKICKF": [
    {
-    "param": ""
+    "type": "NONE"
    }
-  ],
-  "NBJJABAMCMG": []
+  ]
  },
  {
   "id": 2,
-  "LCODPOBOLPH": [
-   {
-    "type": "QUEST_GLOBAL_VAR_EQ",
-    "param": "10004,1"
-   }
-  ],
-  "NBJJABAMCMG": [
+  "IBPIKCILNBB": [
    1,
    2
+  ],
+  "IGDNKPKICKF": [
+   {
+    "type": "QUEST_GLOBAL_VAR_EQ",
+    "LJNDHEEHIBD": "10004,1"
+   }
   ]
  },
  {
   "id": 75048,
-  "LCODPOBOLPH": [
+  "IBPIKCILNBB": [
+   75002
+  ],
+  "IGDNKPKICKF": [
    {
     "type": "QUEST_GLOBAL_VAR_EQ",
-    "param": "7500204,1"
+    "LJNDHEEHIBD": "7500204,1"
    }
-  ],
-  "NBJJABAMCMG": [
-   75002
   ]
  },
  {
   "id": 75002,
-  "LCODPOBOLPH": [
+  "IBPIKCILNBB": [
+   75048
+  ],
+  "IGDNKPKICKF": [
    {
     "type": "QUEST_GLOBAL_VAR_EQ",
-    "param": "7500203,1"
+    "LJNDHEEHIBD": "7500203,1"
    }
-  ],
-  "NBJJABAMCMG": [
+  ]
+ },
+ {
+  "id": 75151,
+  "IBPIKCILNBB": [
+   75002,
    75048
+  ],
+  "IGDNKPKICKF": [
+   {
+    "type": "QUEST_GLOBAL_VAR_EQ",
+    "LJNDHEEHIBD": "7515101,1"
+   }
   ]
  }
 ]
