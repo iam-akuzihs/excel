@@ -1,0 +1,97 @@
+name: ci-translate
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '0 * * * *'
+
+concurrency:
+  group: ${{ github.workflow }}
+
+jobs:
+  ci-translate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    outputs:
+      cache-hit: ${{ steps.translate-cache.outputs.cache-hit }}
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          fetch-depth: 0
+
+      - name: Checkout translate-dm
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          ssh-key: ${{ secrets.SSH_KEY }}
+          repository: iam-akuzihs/translate-dm
+          path: git/translate-dm
+
+      - uses: nixbuild/nix-quick-install-action@5bb6a3b3abe66fd09bbf250dce8ada94f856a703 # v30
+      - uses: nix-community/cache-nix-action@dab0514428ae3988852b7787a6d86a6fc571cc9d # v6.0.0
+        id: nix-cache
+        with:
+          primary-key: ${{ runner.os }}-nix-${{ hashFiles('**/*.nix', 'flake.lock') }}
+      - name: Prefetch nix shell
+        if: steps.nix-cache.outputs.hit-primary-key != 'true'
+        run: nix develop -c true
+
+      - name: Setup go cache
+        uses: actions/cache@d4323d4df104b026a6aa633fdb11d772146be0bf # v4.2.2
+        with:
+          path: |
+            ~/.cache/go-build
+            ~/go/pkg/mod
+          key: ${{ runner.os }}-go-${{ hashFiles('**/go.sum') }}
+          restore-keys: |
+            ${{ runner.os }}-go-
+
+      - name: Setup translate cache
+        uses: actions/cache@d4323d4df104b026a6aa633fdb11d772146be0bf # v4.2.2
+        id: translate-cache
+        with:
+          path: ~/checksum
+          key: checksum-${{ hashFiles('checkout.mk', 'git/translate-dm/**', '!**/.git', '!**/queries/*.yml') }}-${{ hashFiles('**/queries/*.yml') }}
+          restore-keys: |
+            checksum-${{ hashFiles('checkout.mk', 'git/translate-dm/**', '!**/.git', '!**/queries/*.yml') }}-
+
+      - name: Run ci-translate
+        if: steps.translate-cache.outputs.cache-hit != 'true'
+        run: |
+          set -eu
+
+          mv git/translate-dm ..
+          git config user.name 'akuzihs'
+          git config user.email '<>'
+          rm -d git
+
+          [ -e "$HOME/checksum" ] && sha256sum --check -- "$HOME/checksum" && exit 0
+          sha256sum ../translate-dm/queries/excel.yml > "$HOME/checksum"
+
+          nix develop -c make TRANSLATE_DM=../translate-dm translate 2>/dev/null
+
+          git push origin master
+
+  ci-rebuild:
+    runs-on: ubuntu-latest
+    needs: [ci-translate]
+    if: needs.ci-translate.outputs.cache-hit != 'true'
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          ref: master
+
+      - name: Rebuild live branch
+        run: |
+          set -eu
+
+          git config user.name 'akuzihs'
+          git config user.email '<>'
+
+          make rebuild
+
+          git push -f origin live

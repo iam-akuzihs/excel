@@ -1,0 +1,29 @@
+#!/bin/sh
+
+set -eu
+
+[ -d ".git" ]
+
+BRANCH=master
+git switch --orphan live
+
+export GIT_AUTHOR_DATE='1970-01-01T0:00:00Z'
+export GIT_COMMITTER_DATE="$GIT_AUTHOR_DATE"
+
+for dir in $(git ls-tree --name-only "$BRANCH"); do
+	case "$dir" in
+		v*) ;;
+		*) continue ;;
+	esac
+
+	printf '%s\n' "$dir"
+	git rm -r ExcelBinOutput > /dev/null 2>&1 || :
+	git checkout "$BRANCH" -- "$dir"
+	git rm -f -- "$dir/info" || :
+	git mv -- "$dir/ExcelBinOutput" ExcelBinOutput
+	rm -d -- "$dir"
+
+	git commit -m "$dir" -- ExcelBinOutput
+done
+
+git switch -- "$BRANCH"
