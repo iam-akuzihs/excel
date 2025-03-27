@@ -1,4303 +1,4303 @@
 [
-  {
-    "skills": [
-      10011,
-      10012
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10300,
-      10101,
-      10102,
-      10001
-    ],
-    "id": 101,
-    "energySkill": 10014
-  },
-  {
-    "skills": [
-      10024,
-      10018,
-      10013
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10020,
-      10021,
-      10052,
-      10053,
-      10111,
-      10001,
-      5002010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 221,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 222,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 223
-      }
-    ],
-    "id": 201,
-    "energySkill": 10019,
-    "talents": [
-      21,
-      22,
-      23,
-      24,
-      25,
-      26
-    ],
-    "talentStarName": "Talent_Ayaka",
-    "leaderTalent": 211
-  },
-  {
-    "skills": [
-      10031,
-      10033
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10101,
-      10001,
-      10102,
-      5003010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 321,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 322,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 323
-      }
-    ],
-    "id": 301,
-    "energySkill": 10034,
-    "talents": [
-      31,
-      32,
-      33,
-      34,
-      35,
-      36
-    ],
-    "talentStarName": "Talent_Qin",
-    "leaderTalent": 1300
-  },
-  {
-    "skills": [
-      100540
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10035,
-      10101,
-      10001,
-      10102,
-      5005010
-    ],
-    "id": 501,
-    "skillDepotAbilityGroup": "Avatar_Player_AbilityGroup_Boy_Common"
-  },
-  {
-    "skills": [
-      100541,
-      10097
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10001,
-      10054,
-      5005010,
-      10099
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 521,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 522,
-        "needAvatarPromoteLevel": 4
-      }
-    ],
-    "id": 502,
-    "energySkill": 10098,
-    "talents": [
-      51,
-      52,
-      53,
-      54,
-      55,
-      56
-    ],
-    "talentStarName": "Talent_PlayerBoy_Fire",
-    "skillDepotAbilityGroup": "Avatar_Player_AbilityGroup_Boy_Fire"
-  },
-  {
-    "skills": [
-      100542,
-      10087
-    ],
-    "__exp_arkheType": "Ousia",
-    "subSkills": [
-      10001,
-      10054,
-      5005010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 621,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 622,
-        "needAvatarPromoteLevel": 4
-      }
-    ],
-    "id": 503,
-    "energySkill": 10088,
-    "talents": [
-      61,
-      62,
-      63,
-      64,
-      65,
-      66
-    ],
-    "talentStarName": "Talent_PlayerBoy_Water",
-    "skillDepotAbilityGroup": "Avatar_Player_AbilityGroup_Boy_Water"
-  },
-  {
-    "skills": [
-      100543,
-      10067
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10101,
-      10001,
-      10102,
-      10006,
-      5005010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 721,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 722,
-        "needAvatarPromoteLevel": 4
-      }
-    ],
-    "id": 504,
-    "energySkill": 10068,
-    "talents": [
-      71,
-      72,
-      73,
-      74,
-      75,
-      76
-    ],
-    "talentStarName": "Talent_PlayerBoy_Wind",
-    "skillDepotAbilityGroup": "Avatar_Player_AbilityGroup_Boy_Wind",
-    "leaderTalent": 1481
-  },
-  {
-    "skills": [
-      100544
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10101,
-      10001,
-      10102,
-      10054,
-      5005010
-    ],
-    "id": 505,
-    "talentStarName": "Talent_PlayerBoy_Ice"
-  },
-  {
-    "skills": [
-      100545,
-      10077
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10101,
-      10001,
-      10102,
-      5005010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 921,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 922,
-        "needAvatarPromoteLevel": 4
-      }
-    ],
-    "id": 506,
-    "energySkill": 10078,
-    "talents": [
-      91,
-      92,
-      93,
-      94,
-      95,
-      96
-    ],
-    "talentStarName": "Talent_PlayerBoy_Rock",
-    "skillDepotAbilityGroup": "Avatar_Player_AbilityGroup_Boy_Rock",
-    "leaderTalent": 1641
-  },
-  {
-    "skills": [
-      100546,
-      10602
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10001,
-      10054,
-      5005010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 1021,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 1022,
-        "needAvatarPromoteLevel": 4
-      }
-    ],
-    "id": 507,
-    "energySkill": 10605,
-    "talents": [
-      101,
-      102,
-      103,
-      104,
-      105,
-      106
-    ],
-    "talentStarName": "Talent_PlayerBoy_Electric",
-    "skillDepotAbilityGroup": "Avatar_Player_AbilityGroup_Boy_Electric"
-  },
-  {
-    "skills": [
-      100547,
-      10117
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10001,
-      10054,
-      5005010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 1121,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 1122,
-        "needAvatarPromoteLevel": 4
-      }
-    ],
-    "id": 508,
-    "energySkill": 10118,
-    "talents": [
-      111,
-      112,
-      113,
-      114,
-      115,
-      116
-    ],
-    "talentStarName": "Talent_PlayerBoy_Grass",
-    "skillDepotAbilityGroup": "Avatar_Player_AbilityGroup_Boy_Grass"
-  },
-  {
-    "skills": [
-      10060,
-      10061
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10101,
-      10102,
-      10003,
-      5006010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 421,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 422,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 423
-      }
-    ],
-    "id": 601,
-    "energySkill": 10062,
-    "talents": [
-      41,
-      42,
-      43,
-      44,
-      45,
-      46
-    ],
-    "talentStarName": "Talent_Lisa",
-    "leaderTalent": 1100
-  },
-  {
-    "skills": [
-      100550
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10035,
-      10101,
-      10001,
-      10102,
-      5007010
-    ],
-    "id": 701,
-    "skillDepotAbilityGroup": "Avatar_Player_AbilityGroup_Girl_Common"
-  },
-  {
-    "skills": [
-      100551,
-      10097
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10001,
-      10055,
-      5007010,
-      10096
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 521,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 522,
-        "needAvatarPromoteLevel": 4
-      }
-    ],
-    "id": 702,
-    "energySkill": 10098,
-    "talents": [
-      51,
-      52,
-      53,
-      54,
-      55,
-      56
-    ],
-    "talentStarName": "Talent_PlayerGirl_Fire",
-    "skillDepotAbilityGroup": "Avatar_Player_AbilityGroup_Girl_Fire"
-  },
-  {
-    "skills": [
-      100552,
-      10087
-    ],
-    "__exp_arkheType": "Ousia",
-    "subSkills": [
-      10001,
-      10055,
-      5007010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 621,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 622,
-        "needAvatarPromoteLevel": 4
-      }
-    ],
-    "id": 703,
-    "energySkill": 10088,
-    "talents": [
-      61,
-      62,
-      63,
-      64,
-      65,
-      66
-    ],
-    "talentStarName": "Talent_PlayerGirl_Water",
-    "skillDepotAbilityGroup": "Avatar_Player_AbilityGroup_Girl_Water"
-  },
-  {
-    "skills": [
-      100553,
-      10067
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10101,
-      10001,
-      10102,
-      10006,
-      5007010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 721,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 722,
-        "needAvatarPromoteLevel": 4
-      }
-    ],
-    "id": 704,
-    "energySkill": 10068,
-    "talents": [
-      71,
-      72,
-      73,
-      74,
-      75,
-      76
-    ],
-    "talentStarName": "Talent_PlayerGirl_Wind",
-    "skillDepotAbilityGroup": "Avatar_Player_AbilityGroup_Girl_Wind",
-    "leaderTalent": 1481
-  },
-  {
-    "skills": [
-      100554
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10101,
-      10001,
-      10102,
-      10055,
-      5007010
-    ],
-    "id": 705,
-    "talentStarName": "Talent_PlayerGirl_Ice"
-  },
-  {
-    "skills": [
-      100555,
-      10077
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10101,
-      10001,
-      10102,
-      5007010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 921,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 922,
-        "needAvatarPromoteLevel": 4
-      }
-    ],
-    "id": 706,
-    "energySkill": 10078,
-    "talents": [
-      91,
-      92,
-      93,
-      94,
-      95,
-      96
-    ],
-    "talentStarName": "Talent_PlayerGirl_Rock",
-    "skillDepotAbilityGroup": "Avatar_Player_AbilityGroup_Girl_Rock",
-    "leaderTalent": 1641
-  },
-  {
-    "skills": [
-      100556,
-      10602
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10001,
-      10055,
-      5007010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 1021,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 1022,
-        "needAvatarPromoteLevel": 4
-      }
-    ],
-    "id": 707,
-    "energySkill": 10605,
-    "talents": [
-      101,
-      102,
-      103,
-      104,
-      105,
-      106
-    ],
-    "talentStarName": "Talent_PlayerGirl_Electric",
-    "skillDepotAbilityGroup": "Avatar_Player_AbilityGroup_Girl_Electric"
-  },
-  {
-    "skills": [
-      100557,
-      10117
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10001,
-      10055,
-      5007010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 1121,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 1122,
-        "needAvatarPromoteLevel": 4
-      }
-    ],
-    "id": 708,
-    "energySkill": 10118,
-    "talents": [
-      111,
-      112,
-      113,
-      114,
-      115,
-      116
-    ],
-    "talentStarName": "Talent_PlayerGirl_Grass",
-    "skillDepotAbilityGroup": "Avatar_Player_AbilityGroup_Girl_Grass"
-  },
-  {
-    "skills": [
-      10070,
-      10071
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10076,
-      10079,
-      10080,
-      10101,
-      10102,
-      10003,
-      5014010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 1421,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 1422,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 1423
-      }
-    ],
-    "id": 1401,
-    "energySkill": 10072,
-    "talents": [
-      141,
-      142,
-      143,
-      144,
-      145,
-      146
-    ],
-    "talentStarName": "Talent_Barbara",
-    "leaderTalent": 1560
-  },
-  {
-    "skills": [
-      10073,
-      10074
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10081,
-      10101,
-      10001,
-      10102,
-      5015010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 1521,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 1522,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 1523
-      }
-    ],
-    "id": 1501,
-    "energySkill": 10075,
-    "talents": [
-      151,
-      152,
-      153,
-      154,
-      155,
-      156
-    ],
-    "talentStarName": "Talent_Kaeya",
-    "leaderTalent": 1050
-  },
-  {
-    "skills": [
-      10160,
-      10161
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10162,
-      10163,
-      10101,
-      10102,
-      5016010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 1621,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 1622,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 1623
-      }
-    ],
-    "id": 1601,
-    "energySkill": 10165,
-    "talents": [
-      161,
-      162,
-      163,
-      164,
-      165,
-      166
-    ],
-    "talentStarName": "Talent_Diluc",
-    "leaderTalent": 1400
-  },
-  {
-    "skills": [
-      10201,
-      10202
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10204,
-      10101,
-      10102,
-      5020010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 2021,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 2022,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 2023
-      }
-    ],
-    "id": 2001,
-    "energySkill": 10203,
-    "talents": [
-      201,
-      202,
-      203,
-      204,
-      205,
-      206
-    ],
-    "talentStarName": "Talent_Razor",
-    "leaderTalent": 2011
-  },
-  {
-    "skills": [
-      10041,
-      10032
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10042,
-      10043,
-      10211,
-      10101,
-      10102,
-      5021010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 2121,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 2122,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 2123
-      }
-    ],
-    "id": 2101,
-    "energySkill": 10017,
-    "talents": [
-      211,
-      212,
-      213,
-      214,
-      215,
-      216
-    ],
-    "talentStarName": "Talent_Ambor",
-    "attackModeSkill": 20000,
-    "leaderTalent": 1000
-  },
-  {
-    "skills": [
-      10221,
-      10224
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10222,
-      10223,
-      10101,
-      10102,
-      5022010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 2221,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 2222,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 2223
-      }
-    ],
-    "id": 2201,
-    "energySkill": 10225,
-    "talents": [
-      221,
-      222,
-      223,
-      224,
-      225,
-      226
-    ],
-    "talentStarName": "Talent_Venti",
-    "attackModeSkill": 20000,
-    "leaderTalent": 2211
-  },
-  {
-    "skills": [
-      10231,
-      10232
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10101,
-      10002,
-      10102,
-      5023010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 2321,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 2322,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 2323
-      }
-    ],
-    "id": 2301,
-    "energySkill": 10235,
-    "talents": [
-      231,
-      232,
-      233,
-      234,
-      235,
-      236
-    ],
-    "talentStarName": "Talent_Xiangling",
-    "leaderTalent": 2311
-  },
-  {
-    "skills": [
-      10241,
-      10242
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10101,
-      10102,
-      5024010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 2421,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 2422,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 2423
-      }
-    ],
-    "id": 2401,
-    "energySkill": 10245,
-    "talents": [
-      241,
-      242,
-      243,
-      244,
-      245,
-      246
-    ],
-    "talentStarName": "Talent_Beidou"
-  },
-  {
-    "skills": [
-      10381,
-      10382
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10101,
-      10102,
-      10001,
-      5025010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 2521,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 2522,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 2523
-      }
-    ],
-    "id": 2501,
-    "energySkill": 10385,
-    "talents": [
-      251,
-      252,
-      253,
-      254,
-      255,
-      256
-    ],
-    "talentStarName": "Talent_Xingqiu"
-  },
-  {
-    "skills": [
-      10261,
-      10262
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10101,
-      10102,
-      10002,
-      10263,
-      10264
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 2621,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 2622,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 2623
-      }
-    ],
-    "id": 2601,
-    "energySkill": 10265,
-    "talents": [
-      261,
-      262,
-      263,
-      264,
-      265,
-      266
-    ],
-    "talentStarName": "Talent_Xiao"
-  },
-  {
-    "skills": [
-      10271,
-      10272
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10101,
-      10102,
-      10003,
-      10273,
-      10275,
-      5027010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 2721,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 2722,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 2723
-      }
-    ],
-    "id": 2701,
-    "energySkill": 10274,
-    "talents": [
-      271,
-      272,
-      273,
-      274,
-      275,
-      276
-    ],
-    "talentStarName": "Talent_Ningguang"
-  },
-  {
-    "skills": [
-      10291,
-      10292
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10300,
-      10101,
-      10102,
-      10003,
-      5029010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 2921,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 2922,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 2923
-      }
-    ],
-    "id": 2901,
-    "energySkill": 10295,
-    "talents": [
-      291,
-      292,
-      293,
-      294,
-      295,
-      296
-    ],
-    "talentStarName": "Talent_Klee"
-  },
-  {
-    "skills": [
-      10301,
-      10302
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10101,
-      10102,
-      10002,
-      5030010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 3021,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 3022,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 3023
-      }
-    ],
-    "id": 3001,
-    "energySkill": 10303,
-    "talents": [
-      301,
-      302,
-      303,
-      304,
-      305,
-      306
-    ],
-    "talentStarName": "Talent_Zhongli"
-  },
-  {
-    "skills": [
-      10311,
-      10312
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10314,
-      10315,
-      10316,
-      10101,
-      10102,
-      5031010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 3121,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 3122,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 3123
-      }
-    ],
-    "id": 3101,
-    "energySkill": 10313,
-    "talents": [
-      311,
-      312,
-      313,
-      314,
-      315,
-      316
-    ],
-    "talentStarName": "Talent_Fischl",
-    "attackModeSkill": 20000
-  },
-  {
-    "skills": [
-      10321,
-      10322
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10101,
-      10102,
-      10001,
-      5032010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 3221,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 3222,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 3223
-      }
-    ],
-    "id": 3201,
-    "energySkill": 10323,
-    "talents": [
-      321,
-      322,
-      323,
-      324,
-      325,
-      326
-    ],
-    "talentStarName": "Talent_Bennett"
-  },
-  {
-    "skills": [
-      10331,
-      10332
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10334,
-      10335,
-      10336,
-      10337,
-      10101,
-      10102,
-      10001,
-      5033010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 3321,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 3322,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 3323
-      }
-    ],
-    "id": 3301,
-    "energySkill": 10333,
-    "talents": [
-      331,
-      332,
-      333,
-      334,
-      335,
-      336
-    ],
-    "talentStarName": "Talent_Tartaglia",
-    "attackModeSkill": 20000
-  },
-  {
-    "skills": [
-      10341,
-      10342
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10344,
-      10101,
-      10102,
-      5034010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 3421,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 3422,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 3423
-      }
-    ],
-    "id": 3401,
-    "energySkill": 10343,
-    "talents": [
-      341,
-      342,
-      343,
-      344,
-      345,
-      346
-    ],
-    "talentStarName": "Talent_Noel"
-  },
-  {
-    "skills": [
-      10351,
-      10352
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10101,
-      10102,
-      10355,
-      10001,
-      5035010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 3521,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 3522,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 3523
-      }
-    ],
-    "id": 3501,
-    "energySkill": 10353,
-    "talents": [
-      351,
-      352,
-      353,
-      354,
-      355,
-      356
-    ],
-    "talentStarName": "Talent_Qiqi"
-  },
-  {
-    "skills": [
-      10401,
-      10402
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10101,
-      10102,
-      5036010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 3621,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 3622,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 3623
-      }
-    ],
-    "id": 3601,
-    "energySkill": 10403,
-    "talents": [
-      361,
-      362,
-      363,
-      364,
-      365,
-      366
-    ],
-    "talentStarName": "Talent_Chongyun"
-  },
-  {
-    "skills": [
-      10371,
-      10372
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10374,
-      10101,
-      10102,
-      5037010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 3721,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 3722,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 3723
-      }
-    ],
-    "id": 3701,
-    "energySkill": 10373,
-    "talents": [
-      371,
-      372,
-      373,
-      374,
-      375,
-      376
-    ],
-    "talentStarName": "Talent_Ganyu",
-    "attackModeSkill": 20000
-  },
-  {
-    "skills": [
-      10386,
-      10387
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10101,
-      10102,
-      5038010,
-      10001
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 3821,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 3822,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 3823
-      }
-    ],
-    "id": 3801,
-    "energySkill": 10388,
-    "talents": [
-      381,
-      382,
-      383,
-      384,
-      385,
-      386
-    ],
-    "talentStarName": "Talent_Albedo"
-  },
-  {
-    "skills": [
-      10391,
-      10392
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10101,
-      10102,
-      10393,
-      10394,
-      5039010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 3921,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 3922,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 3923
-      }
-    ],
-    "id": 3901,
-    "energySkill": 10395,
-    "talents": [
-      391,
-      392,
-      393,
-      394,
-      395,
-      396
-    ],
-    "talentStarName": "Talent_Diona",
-    "attackModeSkill": 20000
-  },
-  {
-    "skills": [
-      10411,
-      10412,
-      10413
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10101,
-      10102,
-      10003,
-      5041010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 4121,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 4122,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 4123
-      }
-    ],
-    "id": 4101,
-    "energySkill": 10415,
-    "talents": [
-      411,
-      412,
-      413,
-      414,
-      415,
-      416
-    ],
-    "talentStarName": "Talent_Mona"
-  },
-  {
-    "skills": [
-      10421,
-      10422
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10001,
-      10101,
-      10102,
-      10423,
-      5042010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 4221,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 4222,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 4223
-      }
-    ],
-    "id": 4201,
-    "energySkill": 10425,
-    "talents": [
-      421,
-      422,
-      423,
-      424,
-      425,
-      426
-    ],
-    "talentStarName": "Talent_Keqing"
-  },
-  {
-    "skills": [
-      10431,
-      10432
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10101,
-      10102,
-      10003,
-      10433,
-      5043010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 4321,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 4322,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 4323
-      }
-    ],
-    "id": 4301,
-    "energySkill": 10435,
-    "talents": [
-      431,
-      432,
-      433,
-      434,
-      435,
-      436
-    ],
-    "talentStarName": "Talent_Sucrose"
-  },
-  {
-    "skills": [
-      10441,
-      10442
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10101,
-      10102,
-      5044010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 4421,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 4422,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 4423
-      }
-    ],
-    "id": 4401,
-    "energySkill": 10443,
-    "talents": [
-      441,
-      442,
-      443,
-      444,
-      445,
-      446
-    ],
-    "talentStarName": "Talent_Xinyan"
-  },
-  {
-    "skills": [
-      10451,
-      10452
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10101,
-      10102,
-      10002,
-      5045010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 4521,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 4522,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 4523
-      }
-    ],
-    "id": 4501,
-    "energySkill": 10453,
-    "talents": [
-      451,
-      452,
-      453,
-      454,
-      455,
-      456
-    ],
-    "talentStarName": "Talent_Rosaria"
-  },
-  {
-    "skills": [
-      10461,
-      10462
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10101,
-      10002,
-      10102,
-      10464,
-      5046010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 4621,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 4622,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 4623
-      }
-    ],
-    "id": 4601,
-    "energySkill": 10463,
-    "talents": [
-      461,
-      462,
-      463,
-      464,
-      465,
-      466
-    ],
-    "talentStarName": "Talent_Hutao"
-  },
-  {
-    "skills": [
-      10471,
-      10472
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10101,
-      10102,
-      10001,
-      10473,
-      10474,
-      5047010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 4721,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 4722,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 4723
-      }
-    ],
-    "id": 4701,
-    "energySkill": 10475,
-    "talents": [
-      471,
-      472,
-      473,
-      474,
-      475,
-      476
-    ],
-    "talentStarName": "Talent_Kazuha"
-  },
-  {
-    "skills": [
-      10481,
-      10482
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10101,
-      10102,
-      10003,
-      10473,
-      5048010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 4821,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 4822,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 4823
-      }
-    ],
-    "id": 4801,
-    "energySkill": 10485,
-    "talents": [
-      481,
-      482,
-      483,
-      484,
-      485,
-      486
-    ],
-    "talentStarName": "Talent_Feiyan"
-  },
-  {
-    "skills": [
-      10491,
-      10492
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10493,
-      5049010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 4921,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 4922,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 4923
-      }
-    ],
-    "id": 4901,
-    "energySkill": 10495,
-    "talents": [
-      491,
-      492,
-      493,
-      494,
-      495,
-      496
-    ],
-    "talentStarName": "Talent_Yoimiya",
-    "attackModeSkill": 20000
-  },
-  {
-    "skills": [
-      10501,
-      10502
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10002,
-      5050010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 5021,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 5022,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 5023
-      }
-    ],
-    "id": 5001,
-    "energySkill": 10505,
-    "talents": [
-      501,
-      502,
-      503,
-      504,
-      505,
-      506
-    ],
-    "talentStarName": "Talent_Tohma"
-  },
-  {
-    "skills": [
-      10511,
-      10512
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10101,
-      10102,
-      5051010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 5121,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 5122,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 5123
-      }
-    ],
-    "id": 5101,
-    "energySkill": 10515,
-    "talents": [
-      511,
-      512,
-      513,
-      514,
-      515,
-      516
-    ],
-    "talentStarName": "Talent_Eula"
-  },
-  {
-    "skills": [
-      10521,
-      10522
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10001,
-      10002,
-      5052010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 5221,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 5222,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 5223
-      },
-      {
-        "proudSkillGroupId": 5225
-      }
-    ],
-    "id": 5201,
-    "energySkill": 10525,
-    "talents": [
-      521,
-      522,
-      523,
-      524,
-      525,
-      526
-    ],
-    "talentStarName": "Talent_Shougun"
-  },
-  {
-    "skills": [
-      10531,
-      10532
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10533,
-      5053010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 5321,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 5322,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 5323
-      }
-    ],
-    "id": 5301,
-    "energySkill": 10535,
-    "talents": [
-      531,
-      532,
-      533,
-      534,
-      535,
-      536
-    ],
-    "talentStarName": "Talent_Sayu"
-  },
-  {
-    "skills": [
-      10541,
-      10542
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10003,
-      5054010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 5421,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 5422,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 5423
-      },
-      {
-        "proudSkillGroupId": 5425
-      }
-    ],
-    "id": 5401,
-    "energySkill": 10545,
-    "talents": [
-      541,
-      542,
-      543,
-      544,
-      545,
-      546
-    ],
-    "talentStarName": "Talent_Kokomi"
-  },
-  {
-    "skills": [
-      10551,
-      10552
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10553,
-      10554,
-      5055010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 5521,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 5522,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 5523
-      }
-    ],
-    "id": 5501,
-    "energySkill": 10555,
-    "talents": [
-      551,
-      552,
-      553,
-      554,
-      555,
-      556
-    ],
-    "talentStarName": "Talent_Gorou",
-    "attackModeSkill": 20000
-  },
-  {
-    "skills": [
-      10561,
-      10562
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10563,
-      10564,
-      5056010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 5621,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 5622,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 5623
-      }
-    ],
-    "id": 5601,
-    "energySkill": 10565,
-    "talents": [
-      561,
-      562,
-      563,
-      564,
-      565,
-      566
-    ],
-    "talentStarName": "Talent_Sara",
-    "attackModeSkill": 20000
-  },
-  {
-    "skills": [
-      10571,
-      10572
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10004,
-      10102,
-      5057010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 5721,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 5722,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 5723
-      }
-    ],
-    "id": 5701,
-    "energySkill": 10575,
-    "talents": [
-      571,
-      572,
-      573,
-      574,
-      575,
-      576
-    ],
-    "talentStarName": "Talent_Itto"
-  },
-  {
-    "skills": [
-      10581,
-      10582
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10583,
-      10003,
-      5058010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 5821,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 5822,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 5823
-      }
-    ],
-    "id": 5801,
-    "energySkill": 10585,
-    "talents": [
-      581,
-      582,
-      583,
-      584,
-      585,
-      586
-    ],
-    "talentStarName": "Talent_Yae"
-  },
-  {
-    "skills": [
-      10591,
-      10592
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10003,
-      5059010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 5921,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 5922,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 5923
-      }
-    ],
-    "id": 5901,
-    "energySkill": 10595,
-    "talents": [
-      591,
-      592,
-      593,
-      594,
-      595,
-      596
-    ],
-    "talentStarName": "Talent_Heizo"
-  },
-  {
-    "skills": [
-      10606,
-      10607
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10608,
-      10609,
-      5060010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 6021,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 6022,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 6023
-      }
-    ],
-    "id": 6001,
-    "energySkill": 10610,
-    "talents": [
-      601,
-      602,
-      603,
-      604,
-      605,
-      606
-    ],
-    "talentStarName": "Talent_Yelan",
-    "attackModeSkill": 20000
-  },
-  {
-    "skills": [
-      10611,
-      10612
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10101,
-      10102,
-      10001,
-      10613,
-      5061010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 6121,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 6122,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 6123
-      }
-    ],
-    "id": 6101,
-    "energySkill": 10615,
-    "talents": [
-      611,
-      612,
-      613,
-      614,
-      615,
-      616
-    ],
-    "talentStarName": "Talent_Momoka"
-  },
-  {
-    "skills": [
-      10621,
-      10622
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10623,
-      10624,
-      5062010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 6221,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 6222,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 6223
-      }
-    ],
-    "id": 6201,
-    "energySkill": 10625,
-    "talents": [
-      621,
-      622,
-      623,
-      624,
-      625,
-      626
-    ],
-    "talentStarName": "Talent_Aloy",
-    "attackModeSkill": 20000
-  },
-  {
-    "skills": [
-      10641,
-      10642
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10002,
-      5064010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 6421,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 6422,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 6423
-      }
-    ],
-    "id": 6401,
-    "energySkill": 10643,
-    "talents": [
-      641,
-      642,
-      643,
-      644,
-      645,
-      646
-    ],
-    "talentStarName": "Talent_Yunjin"
-  },
-  {
-    "skills": [
-      10631,
-      10632
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10101,
-      10102,
-      10002,
-      5063010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 6321,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 6322,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 6323
-      }
-    ],
-    "id": 6301,
-    "energySkill": 10635,
-    "talents": [
-      631,
-      632,
-      633,
-      634,
-      635,
-      636
-    ],
-    "talentStarName": "Talent_Shenhe"
-  },
-  {
-    "skills": [
-      10651,
-      10652
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10101,
-      10102,
-      10001,
-      10656,
-      10657,
-      5065010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 6521,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 6522,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 6523
-      }
-    ],
-    "id": 6501,
-    "energySkill": 10655,
-    "talents": [
-      651,
-      652,
-      653,
-      654,
-      655,
-      656
-    ],
-    "talentStarName": "Talent_Shinobu"
-  },
-  {
-    "skills": [
-      10661,
-      10662
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10001,
-      10663,
-      5066010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 6621,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 6622,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 6623
-      }
-    ],
-    "id": 6601,
-    "energySkill": 10665,
-    "talents": [
-      661,
-      662,
-      663,
-      664,
-      665,
-      666
-    ],
-    "talentStarName": "Talent_Ayato"
-  },
-  {
-    "skills": [
-      10671,
-      10672
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10674,
-      5067010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 6721,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 6722,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 6723
-      }
-    ],
-    "id": 6701,
-    "energySkill": 10675,
-    "talents": [
-      671,
-      672,
-      673,
-      674,
-      675,
-      676
-    ],
-    "talentStarName": "Talent_Collei",
-    "attackModeSkill": 20000
-  },
-  {
-    "skills": [
-      10681,
-      10682
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      5068010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 6821,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 6822,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 6823
-      }
-    ],
-    "id": 6801,
-    "energySkill": 10685,
-    "talents": [
-      681,
-      682,
-      683,
-      684,
-      685,
-      686
-    ],
-    "talentStarName": "Talent_Dori"
-  },
-  {
-    "skills": [
-      10691,
-      10692
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10693,
-      5069010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 6921,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 6922,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 6923
-      }
-    ],
-    "id": 6901,
-    "energySkill": 10695,
-    "talents": [
-      691,
-      692,
-      693,
-      694,
-      695,
-      696
-    ],
-    "talentStarName": "Talent_Tighnari",
-    "attackModeSkill": 20000
-  },
-  {
-    "skills": [
-      10701,
-      10702
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10703,
-      10704,
-      10706,
-      10707,
-      10708,
-      10001,
-      10101,
-      10102,
-      5070010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 7021,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 7022,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 7023
-      }
-    ],
-    "id": 7001,
-    "energySkill": 10705,
-    "talents": [
-      701,
-      702,
-      703,
-      704,
-      705,
-      706
-    ],
-    "talentStarName": "Talent_Nilou"
-  },
-  {
-    "skills": [
-      10711,
-      10712
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10002,
-      10713,
-      5071010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 7121,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 7122,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 7123
-      }
-    ],
-    "id": 7101,
-    "energySkill": 10715,
-    "talents": [
-      711,
-      712,
-      713,
-      714,
-      715,
-      716
-    ],
-    "talentStarName": "Talent_Cyno"
-  },
-  {
-    "skills": [
-      10721,
-      10722
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10002,
-      5072010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 7221,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 7222,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 7223
-      }
-    ],
-    "id": 7201,
-    "energySkill": 10725,
-    "talents": [
-      721,
-      722,
-      723,
-      724,
-      725,
-      726
-    ],
-    "talentStarName": "Talent_Candace"
-  },
-  {
-    "skills": [
-      10731,
-      10732
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10003,
-      5073010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 7321,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 7322,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 7323
-      }
-    ],
-    "id": 7301,
-    "energySkill": 10735,
-    "talents": [
-      731,
-      732,
-      733,
-      734,
-      735,
-      736
-    ],
-    "talentStarName": "Talent_Nahida"
-  },
-  {
-    "skills": [
-      10741,
-      10742
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10001,
-      5074010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 7421,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 7422,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 7423
-      }
-    ],
-    "id": 7401,
-    "energySkill": 10745,
-    "talents": [
-      741,
-      742,
-      743,
-      744,
-      745,
-      746
-    ],
-    "talentStarName": "Talent_Layla"
-  },
-  {
-    "skills": [
-      10751,
-      10752
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10753,
-      10756,
-      10757,
-      10758,
-      10759,
-      10750,
-      10003,
-      5075010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 7521,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 7522,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 7523
-      }
-    ],
-    "id": 7501,
-    "energySkill": 10755,
-    "talents": [
-      751,
-      752,
-      753,
-      754,
-      755,
-      756
-    ],
-    "talentStarName": "Talent_Wanderer"
-  },
-  {
-    "skills": [
-      10761,
-      10762
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10764,
-      10101,
-      10102,
-      5076010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 7621,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 7622,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 7623
-      }
-    ],
-    "id": 7601,
-    "energySkill": 10765,
-    "talents": [
-      761,
-      762,
-      763,
-      764,
-      765,
-      766
-    ],
-    "talentStarName": "Talent_Faruzan",
-    "attackModeSkill": 20000
-  },
-  {
-    "skills": [
-      10771,
-      10772
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10101,
-      10102,
-      10002,
-      5077010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 7721,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 7722,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 7723
-      }
-    ],
-    "id": 7701,
-    "energySkill": 10775,
-    "talents": [
-      771,
-      772,
-      773,
-      774,
-      775,
-      776
-    ],
-    "talentStarName": "Talent_Yaoyao"
-  },
-  {
-    "skills": [
-      10781,
-      10782
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10001,
-      5078010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 7821,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 7822,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 7823
-      }
-    ],
-    "id": 7801,
-    "energySkill": 10785,
-    "talents": [
-      781,
-      782,
-      783,
-      784,
-      785,
-      786
-    ],
-    "talentStarName": "Talent_Alhatham"
-  },
-  {
-    "skills": [
-      10791,
-      10792
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10004,
-      10102,
-      10793,
-      10794,
-      5079010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 7921,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 7922,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 7923
-      }
-    ],
-    "id": 7901,
-    "energySkill": 10795,
-    "talents": [
-      791,
-      792,
-      793,
-      794,
-      795,
-      796
-    ],
-    "talentStarName": "Talent_Dehya"
-  },
-  {
-    "skills": [
-      10801,
-      10802
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10002,
-      5080010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 8021,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 8022,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 8023
-      }
-    ],
-    "id": 8001,
-    "energySkill": 10805,
-    "talents": [
-      801,
-      802,
-      803,
-      804,
-      805,
-      806
-    ],
-    "talentStarName": "Talent_Mika"
-  },
-  {
-    "skills": [
-      10811,
-      10812
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10004,
-      10102,
-      5081010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 8121,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 8122,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 8123
-      }
-    ],
-    "id": 8101,
-    "energySkill": 10815,
-    "talents": [
-      811,
-      812,
-      813,
-      814,
-      815,
-      816
-    ],
-    "talentStarName": "Talent_Kaveh"
-  },
-  {
-    "skills": [
-      10821,
-      10822
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10003,
-      5082010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 8221,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 8222,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 8223
-      }
-    ],
-    "id": 8201,
-    "energySkill": 10825,
-    "talents": [
-      821,
-      822,
-      823,
-      824,
-      825,
-      826
-    ],
-    "talentStarName": "Talent_Baizhuer"
-  },
-  {
-    "skills": [
-      10831,
-      10832
-    ],
-    "__exp_arkheType": "Pneuma",
-    "subSkills": [
-      10833,
-      10001,
-      5083010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 8321,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 8322,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 8323
-      }
-    ],
-    "id": 8301,
-    "energySkill": 10835,
-    "talents": [
-      831,
-      832,
-      833,
-      834,
-      835,
-      836
-    ],
-    "talentStarName": "Talent_Linette"
-  },
-  {
-    "skills": [
-      10841,
-      10842
-    ],
-    "__exp_arkheType": "Ousia",
-    "subSkills": [
-      10843,
-      10844,
-      5084010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 8421,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 8422,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 8423
-      }
-    ],
-    "id": 8401,
-    "energySkill": 10845,
-    "talents": [
-      841,
-      842,
-      843,
-      844,
-      845,
-      846
-    ],
-    "talentStarName": "Talent_Liney",
-    "attackModeSkill": 20000
-  },
-  {
-    "skills": [
-      10851,
-      10852
-    ],
-    "__exp_arkheType": "Ousia",
-    "subSkills": [
-      10004,
-      10853,
-      10854,
-      5085010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 8521,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 8522,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 8523
-      }
-    ],
-    "id": 8501,
-    "energySkill": 10855,
-    "talents": [
-      851,
-      852,
-      853,
-      854,
-      855,
-      856
-    ],
-    "talentStarName": "Talent_Freminet"
-  },
-  {
-    "skills": [
-      10861,
-      10862
-    ],
-    "__exp_arkheType": "Pneuma",
-    "subSkills": [
-      10003,
-      5086010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 8621,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 8622,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 8623
-      }
-    ],
-    "id": 8601,
-    "energySkill": 10865,
-    "talents": [
-      861,
-      862,
-      863,
-      864,
-      865,
-      866
-    ],
-    "talentStarName": "Talent_Wriothesley"
-  },
-  {
-    "skills": [
-      10871,
-      10872
-    ],
-    "__exp_arkheType": "Ousia",
-    "subSkills": [
-      10003,
-      5087010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 8721,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 8722,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 8723
-      }
-    ],
-    "id": 8701,
-    "energySkill": 10875,
-    "talents": [
-      871,
-      872,
-      873,
-      874,
-      875,
-      876
-    ],
-    "talentStarName": "Talent_Neuvillette"
-  },
-  {
-    "skills": [
-      10881,
-      10882
-    ],
-    "__exp_arkheType": "Ousia",
-    "subSkills": [
-      10003,
-      5088010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 8821,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 8822,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 8823
-      }
-    ],
-    "id": 8801,
-    "energySkill": 10885,
-    "talents": [
-      881,
-      882,
-      883,
-      884,
-      885,
-      886
-    ],
-    "talentStarName": "Talent_Charlotte"
-  },
-  {
-    "skills": [
-      10891,
-      10892
-    ],
-    "__exp_arkheType": "Furina",
-    "subSkills": [
-      10001,
-      5089010,
-      10893
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 8921,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 8922,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 8923
-      }
-    ],
-    "id": 8901,
-    "energySkill": 10895,
-    "talents": [
-      891,
-      892,
-      893,
-      894,
-      895,
-      896
-    ],
-    "talentStarName": "Talent_Furina"
-  },
-  {
-    "skills": [
-      10901,
-      10902
-    ],
-    "__exp_arkheType": "Pneuma",
-    "subSkills": [
-      10002,
-      5090010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 9021,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 9022,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 9023
-      }
-    ],
-    "id": 9001,
-    "energySkill": 10905,
-    "talents": [
-      901,
-      902,
-      903,
-      904,
-      905,
-      906
-    ],
-    "talentStarName": "Talent_Chevreuse"
-  },
-  {
-    "skills": [
-      10911,
-      10912
-    ],
-    "__exp_arkheType": "Pneuma",
-    "subSkills": [
-      10004,
-      10102,
-      5091010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 9121,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 9122,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 9123
-      }
-    ],
-    "id": 9101,
-    "energySkill": 10915,
-    "talents": [
-      911,
-      912,
-      913,
-      914,
-      915,
-      916
-    ],
-    "talentStarName": "Talent_Navia"
-  },
-  {
-    "skills": [
-      10921,
-      10922
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10004,
-      10102,
-      10923,
-      5092010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 9221,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 9222,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 9223
-      }
-    ],
-    "id": 9201,
-    "energySkill": 10925,
-    "talents": [
-      921,
-      922,
-      923,
-      924,
-      925,
-      926
-    ],
-    "talentStarName": "Talent_Gaming"
-  },
-  {
-    "skills": [
-      10931,
-      10932
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10003,
-      10933,
-      10936,
-      10937,
-      10934,
-      5093010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 9321,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 9322,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 9323
-      }
-    ],
-    "id": 9301,
-    "energySkill": 10935,
-    "talents": [
-      931,
-      932,
-      933,
-      934,
-      935,
-      936
-    ],
-    "talentStarName": "Talent_Liuyun"
-  },
-  {
-    "skills": [
-      10941,
-      10942
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10001,
-      10944,
-      5094010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 9421,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 9422,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 9423
-      }
-    ],
-    "id": 9401,
-    "energySkill": 10945,
-    "talents": [
-      941,
-      942,
-      943,
-      944,
-      945,
-      946
-    ],
-    "talentStarName": "Talent_Chiori"
-  },
-  {
-    "skills": [
-      10971,
-      10972
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10974,
-      5097010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 9721,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 9722,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 9723
-      }
-    ],
-    "id": 9701,
-    "energySkill": 10975,
-    "talents": [
-      971,
-      972,
-      973,
-      974,
-      975,
-      976
-    ],
-    "talentStarName": "Talent_Sethos",
-    "attackModeSkill": 20000
-  },
-  {
-    "skills": [
-      10951,
-      10952
-    ],
-    "__exp_arkheType": "Pneuma",
-    "subSkills": [
-      10953,
-      5095010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 9521,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 9522,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 9523
-      }
-    ],
-    "id": 9501,
-    "energySkill": 10955,
-    "talents": [
-      951,
-      952,
-      953,
-      954,
-      955,
-      956
-    ],
-    "talentStarName": "Talent_Sigewinne",
-    "attackModeSkill": 20000
-  },
-  {
-    "skills": [
-      10961,
-      10962
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10002,
-      10966,
-      10967,
-      5096010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 9621,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 9622,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 9623
-      }
-    ],
-    "id": 9601,
-    "energySkill": 10965,
-    "talents": [
-      961,
-      962,
-      963,
-      964,
-      965,
-      966
-    ],
-    "talentStarName": "Talent_Arlecchino"
-  },
-  {
-    "skills": [
-      10981,
-      10982
-    ],
-    "__exp_arkheType": "Pneuma",
-    "subSkills": [
-      10001,
-      10983,
-      10984,
-      5098010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 9821,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 9822,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 9823
-      }
-    ],
-    "id": 9801,
-    "energySkill": 10985,
-    "talents": [
-      981,
-      982,
-      983,
-      984,
-      985,
-      986
-    ],
-    "talentStarName": "Talent_Clorinde"
-  },
-  {
-    "skills": [
-      10991,
-      10992
-    ],
-    "__exp_arkheType": "Ousia",
-    "subSkills": [
-      10002,
-      5099010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 9921,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 9922,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 9923
-      }
-    ],
-    "id": 9901,
-    "energySkill": 10995,
-    "talents": [
-      991,
-      992,
-      993,
-      994,
-      995,
-      996
-    ],
-    "talentStarName": "Talent_Emilie"
-  },
-  {
-    "skills": [
-      11001,
-      11002
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      11003,
-      11004,
-      11006,
-      11007,
-      11008,
-      10002,
-      5100010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 10021,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 10022,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 10023
-      },
-      {
-        "proudSkillGroupId": 10025
-      }
-    ],
-    "id": 10001,
-    "energySkill": 11005,
-    "talents": [
-      1001,
-      1002,
-      1003,
-      1004,
-      1005,
-      1006
-    ],
-    "talentStarName": "Talent_Kachina"
-  },
-  {
-    "skills": [
-      11011,
-      11012
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10004,
-      11013,
-      11014,
-      11016,
-      11017,
-      11018,
-      11019,
-      5101010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 10121,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 10122,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 10123
-      },
-      {
-        "proudSkillGroupId": 10125
-      }
-    ],
-    "id": 10101,
-    "energySkill": 11015,
-    "talents": [
-      1011,
-      1012,
-      1013,
-      1014,
-      1015,
-      1016
-    ],
-    "talentStarName": "Talent_Kinich"
-  },
-  {
-    "skills": [
-      30000,
-      30002
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      30003,
-      30004,
-      30005,
-      30006,
-      30008,
-      30009,
-      30010,
-      30011,
-      10003,
-      5102010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 10221,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 10222,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 10223
-      },
-      {
-        "proudSkillGroupId": 10225
-      }
-    ],
-    "id": 10201,
-    "energySkill": 30007,
-    "talents": [
-      1021,
-      1022,
-      1023,
-      1024,
-      1025,
-      1026
-    ],
-    "talentStarName": "Talent_Mualani"
-  },
-  {
-    "skills": [
-      11041,
-      11042
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      11043,
-      11044,
-      11046,
-      11047,
-      11048,
-      11049,
-      11040,
-      5104010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 10421,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 10422,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 10423
-      },
-      {
-        "proudSkillGroupId": 10425
-      }
-    ],
-    "id": 10401,
-    "energySkill": 11045,
-    "talents": [
-      1041,
-      1042,
-      1043,
-      1044,
-      1045,
-      1046
-    ],
-    "talentStarName": "Talent_Chasca",
-    "attackModeSkill": 20000
-  },
-  {
-    "skills": [
-      11031,
-      11032
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10001,
-      11033,
-      11034,
-      11036,
-      11037,
-      5103010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 10321,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 10322,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 10323
-      },
-      {
-        "proudSkillGroupId": 10325
-      }
-    ],
-    "id": 10301,
-    "energySkill": 11035,
-    "talents": [
-      1031,
-      1032,
-      1033,
-      1034,
-      1035,
-      1036
-    ],
-    "talentStarName": "Talent_Xilonen"
-  },
-  {
-    "skills": [
-      30501,
-      30502,
-      30506
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      30503,
-      30504,
-      5105010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 10521,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 10522,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 10523
-      },
-      {
-        "proudSkillGroupId": 10525
-      }
-    ],
-    "id": 10501,
-    "energySkill": 30505,
-    "talents": [
-      1051,
-      1052,
-      1053,
-      1054,
-      1055,
-      1056
-    ],
-    "talentStarName": "Talent_Olorun",
-    "attackModeSkill": 20000
-  },
-  {
-    "skills": [
-      11061,
-      11062
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10004,
-      11063,
-      11064,
-      11066,
-      11067,
-      11068,
-      11069,
-      5106010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 10621,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 10622,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 10623
-      },
-      {
-        "proudSkillGroupId": 10625
-      }
-    ],
-    "id": 10601,
-    "energySkill": 11065,
-    "talents": [
-      1061,
-      1062,
-      1063,
-      1064,
-      1065,
-      1066
-    ],
-    "talentStarName": "Talent_Mavuika"
-  },
-  {
-    "skills": [
-      11071,
-      11072,
-      11076
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10003,
-      11073,
-      5107010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 10721,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 10722,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 10723
-      },
-      {
-        "proudSkillGroupId": 10725
-      }
-    ],
-    "id": 10701,
-    "energySkill": 11075,
-    "talents": [
-      1071,
-      1072,
-      1073,
-      1074,
-      1075,
-      1076
-    ],
-    "talentStarName": "Talent_Citlali"
-  },
-  {
-    "skills": [
-      11081,
-      11082
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10003,
-      11083,
-      5108010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 10821,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 10822,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 10823
-      }
-    ],
-    "id": 10801,
-    "energySkill": 11085,
-    "talents": [
-      1081,
-      1082,
-      1083,
-      1084,
-      1085,
-      1086
-    ],
-    "talentStarName": "Talent_Lanyan"
-  },
-  {
-    "skills": [
-      11091,
-      11092
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10003,
-      11093,
-      11094,
-      11096,
-      5109010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 10921,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 10922,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 10923
-      }
-    ],
-    "id": 10901,
-    "energySkill": 11095,
-    "talents": [
-      1091,
-      1092,
-      1093,
-      1094,
-      1095,
-      1096
-    ],
-    "talentStarName": "Talent_Mizuki"
-  },
-  {
-    "skills": [
-      11101,
-      11102
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10002,
-      11103,
-      11104,
-      11106,
-      11107,
-      11108,
-      5110010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 11021,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 11022,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 11023
-      },
-      {
-        "proudSkillGroupId": 11025
-      }
-    ],
-    "id": 11001,
-    "energySkill": 11105,
-    "talents": [
-      1101,
-      1102,
-      1103,
-      1104,
-      1105,
-      1106
-    ],
-    "talentStarName": "Talent_Iansan"
-  },
-  {
-    "skills": [
-      11111,
-      11112
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10003,
-      11113,
-      11114,
-      11116,
-      11117,
-      11118,
-      11119,
-      5111010
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 11121,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 11122,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 11123
-      },
-      {
-        "proudSkillGroupId": 11125
-      }
-    ],
-    "id": 11101,
-    "energySkill": 11115,
-    "talents": [
-      1111,
-      1112,
-      1113,
-      1114,
-      1115,
-      1116
-    ],
-    "talentStarName": "Talent_Varesa"
-  },
-  {
-    "__exp_arkheType": "None",
-    "id": 8011
-  },
-  {
-    "__exp_arkheType": "None",
-    "id": 9011
-  },
-  {
-    "__exp_arkheType": "None",
-    "id": 10011
-  },
-  {
-    "__exp_arkheType": "None",
-    "id": 12011
-  },
-  {
-    "__exp_arkheType": "None",
-    "id": 13011
-  },
-  {
-    "skills": [
-      10251,
-      10362
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10252,
-      10253,
-      10101,
-      10102
-    ],
-    "id": 25011,
-    "energySkill": 10255,
-    "attackModeSkill": 20000
-  },
-  {
-    "skills": [
-      10281,
-      10282
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10101,
-      10102
-    ],
-    "id": 28011,
-    "energySkill": 10283
-  },
-  {
-    "skills": [
-      30000,
-      30002
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      30003,
-      30004,
-      30005,
-      30006,
-      30008,
-      30009,
-      30010,
-      30011,
-      10003
-    ],
-    "id": 40001,
-    "energySkill": 30007
-  },
-  {
-    "skills": [
-      30101,
-      30102
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      30103,
-      30104
-    ],
-    "id": 40002,
-    "energySkill": 30105
-  },
-  {
-    "skills": [
-      30201,
-      30202
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      30203,
-      30204,
-      30206
-    ],
-    "id": 40003,
-    "energySkill": 30205
-  },
-  {
-    "skills": [
-      11301,
-      11302
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10101,
-      10102
-    ],
-    "inherentProudSkillOpens": [
-      {
-        "proudSkillGroupId": 3121,
-        "needAvatarPromoteLevel": 1
-      },
-      {
-        "proudSkillGroupId": 3122,
-        "needAvatarPromoteLevel": 4
-      },
-      {
-        "proudSkillGroupId": 3123
-      }
-    ],
-    "id": 30011,
-    "energySkill": 11305,
-    "talents": [
-      311,
-      312,
-      313,
-      314,
-      315,
-      316
-    ]
-  },
-  {
-    "skills": [
-      11371,
-      11372
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      11374,
-      11375,
-      10101,
-      10102
-    ],
-    "id": 37011,
-    "energySkill": 11373,
-    "talentStarName": "Talent_Test_NoStar",
-    "attackModeSkill": 20000
-  },
-  {
-    "skills": [
-      100540,
-      10365
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10101,
-      10102,
-      10364
-    ],
-    "id": 38001,
-    "energySkill": 10362
-  },
-  {
-    "skills": [
-      10461,
-      10462
-    ],
-    "__exp_arkheType": "None",
-    "subSkills": [
-      10081,
-      10101,
-      10001,
-      10102
-    ],
-    "id": 46011,
-    "energySkill": 10463,
-    "talentStarName": "Talent_Kaeya"
-  }
+ {
+  "CBJGLADMBHG": [
+   10011,
+   10012
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10300,
+   10101,
+   10102,
+   10001
+  ],
+  "ELKKIAIGOBK": 101,
+  "GIEFGHHKGDD": 10014
+ },
+ {
+  "CBJGLADMBHG": [
+   10024,
+   10018,
+   10013
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10020,
+   10021,
+   10052,
+   10053,
+   10111,
+   10001,
+   5002010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 221,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 222,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 223
+   }
+  ],
+  "ELKKIAIGOBK": 201,
+  "GIEFGHHKGDD": 10019,
+  "IAGMADCJGIA": [
+   21,
+   22,
+   23,
+   24,
+   25,
+   26
+  ],
+  "IDLNEHLBGAJ": "Talent_Ayaka",
+  "OEJNCGDIBID": 211
+ },
+ {
+  "CBJGLADMBHG": [
+   10031,
+   10033
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10101,
+   10001,
+   10102,
+   5003010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 321,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 322,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 323
+   }
+  ],
+  "ELKKIAIGOBK": 301,
+  "GIEFGHHKGDD": 10034,
+  "IAGMADCJGIA": [
+   31,
+   32,
+   33,
+   34,
+   35,
+   36
+  ],
+  "IDLNEHLBGAJ": "Talent_Qin",
+  "OEJNCGDIBID": 1300
+ },
+ {
+  "CBJGLADMBHG": [
+   100540
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10035,
+   10101,
+   10001,
+   10102,
+   5005010
+  ],
+  "ELKKIAIGOBK": 501,
+  "KFKBPILIJAH": "Avatar_Player_AbilityGroup_Boy_Common"
+ },
+ {
+  "CBJGLADMBHG": [
+   100541,
+   10097
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10001,
+   10054,
+   5005010,
+   10099
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 521,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 522,
+    "ECKFGHMJDJK": 4
+   }
+  ],
+  "ELKKIAIGOBK": 502,
+  "GIEFGHHKGDD": 10098,
+  "IAGMADCJGIA": [
+   51,
+   52,
+   53,
+   54,
+   55,
+   56
+  ],
+  "IDLNEHLBGAJ": "Talent_PlayerBoy_Fire",
+  "KFKBPILIJAH": "Avatar_Player_AbilityGroup_Boy_Fire"
+ },
+ {
+  "CBJGLADMBHG": [
+   100542,
+   10087
+  ],
+  "CDKFLDLHCAD": "Ousia",
+  "DPEGKJDJEPK": [
+   10001,
+   10054,
+   5005010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 621,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 622,
+    "ECKFGHMJDJK": 4
+   }
+  ],
+  "ELKKIAIGOBK": 503,
+  "GIEFGHHKGDD": 10088,
+  "IAGMADCJGIA": [
+   61,
+   62,
+   63,
+   64,
+   65,
+   66
+  ],
+  "IDLNEHLBGAJ": "Talent_PlayerBoy_Water",
+  "KFKBPILIJAH": "Avatar_Player_AbilityGroup_Boy_Water"
+ },
+ {
+  "CBJGLADMBHG": [
+   100543,
+   10067
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10101,
+   10001,
+   10102,
+   10006,
+   5005010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 721,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 722,
+    "ECKFGHMJDJK": 4
+   }
+  ],
+  "ELKKIAIGOBK": 504,
+  "GIEFGHHKGDD": 10068,
+  "IAGMADCJGIA": [
+   71,
+   72,
+   73,
+   74,
+   75,
+   76
+  ],
+  "IDLNEHLBGAJ": "Talent_PlayerBoy_Wind",
+  "KFKBPILIJAH": "Avatar_Player_AbilityGroup_Boy_Wind",
+  "OEJNCGDIBID": 1481
+ },
+ {
+  "CBJGLADMBHG": [
+   100544
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10101,
+   10001,
+   10102,
+   10054,
+   5005010
+  ],
+  "ELKKIAIGOBK": 505,
+  "IDLNEHLBGAJ": "Talent_PlayerBoy_Ice"
+ },
+ {
+  "CBJGLADMBHG": [
+   100545,
+   10077
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10101,
+   10001,
+   10102,
+   5005010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 921,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 922,
+    "ECKFGHMJDJK": 4
+   }
+  ],
+  "ELKKIAIGOBK": 506,
+  "GIEFGHHKGDD": 10078,
+  "IAGMADCJGIA": [
+   91,
+   92,
+   93,
+   94,
+   95,
+   96
+  ],
+  "IDLNEHLBGAJ": "Talent_PlayerBoy_Rock",
+  "KFKBPILIJAH": "Avatar_Player_AbilityGroup_Boy_Rock",
+  "OEJNCGDIBID": 1641
+ },
+ {
+  "CBJGLADMBHG": [
+   100546,
+   10602
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10001,
+   10054,
+   5005010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 1021,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 1022,
+    "ECKFGHMJDJK": 4
+   }
+  ],
+  "ELKKIAIGOBK": 507,
+  "GIEFGHHKGDD": 10605,
+  "IAGMADCJGIA": [
+   101,
+   102,
+   103,
+   104,
+   105,
+   106
+  ],
+  "IDLNEHLBGAJ": "Talent_PlayerBoy_Electric",
+  "KFKBPILIJAH": "Avatar_Player_AbilityGroup_Boy_Electric"
+ },
+ {
+  "CBJGLADMBHG": [
+   100547,
+   10117
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10001,
+   10054,
+   5005010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 1121,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 1122,
+    "ECKFGHMJDJK": 4
+   }
+  ],
+  "ELKKIAIGOBK": 508,
+  "GIEFGHHKGDD": 10118,
+  "IAGMADCJGIA": [
+   111,
+   112,
+   113,
+   114,
+   115,
+   116
+  ],
+  "IDLNEHLBGAJ": "Talent_PlayerBoy_Grass",
+  "KFKBPILIJAH": "Avatar_Player_AbilityGroup_Boy_Grass"
+ },
+ {
+  "CBJGLADMBHG": [
+   10060,
+   10061
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10101,
+   10102,
+   10003,
+   5006010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 421,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 422,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 423
+   }
+  ],
+  "ELKKIAIGOBK": 601,
+  "GIEFGHHKGDD": 10062,
+  "IAGMADCJGIA": [
+   41,
+   42,
+   43,
+   44,
+   45,
+   46
+  ],
+  "IDLNEHLBGAJ": "Talent_Lisa",
+  "OEJNCGDIBID": 1100
+ },
+ {
+  "CBJGLADMBHG": [
+   100550
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10035,
+   10101,
+   10001,
+   10102,
+   5007010
+  ],
+  "ELKKIAIGOBK": 701,
+  "KFKBPILIJAH": "Avatar_Player_AbilityGroup_Girl_Common"
+ },
+ {
+  "CBJGLADMBHG": [
+   100551,
+   10097
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10001,
+   10055,
+   5007010,
+   10096
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 521,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 522,
+    "ECKFGHMJDJK": 4
+   }
+  ],
+  "ELKKIAIGOBK": 702,
+  "GIEFGHHKGDD": 10098,
+  "IAGMADCJGIA": [
+   51,
+   52,
+   53,
+   54,
+   55,
+   56
+  ],
+  "IDLNEHLBGAJ": "Talent_PlayerGirl_Fire",
+  "KFKBPILIJAH": "Avatar_Player_AbilityGroup_Girl_Fire"
+ },
+ {
+  "CBJGLADMBHG": [
+   100552,
+   10087
+  ],
+  "CDKFLDLHCAD": "Ousia",
+  "DPEGKJDJEPK": [
+   10001,
+   10055,
+   5007010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 621,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 622,
+    "ECKFGHMJDJK": 4
+   }
+  ],
+  "ELKKIAIGOBK": 703,
+  "GIEFGHHKGDD": 10088,
+  "IAGMADCJGIA": [
+   61,
+   62,
+   63,
+   64,
+   65,
+   66
+  ],
+  "IDLNEHLBGAJ": "Talent_PlayerGirl_Water",
+  "KFKBPILIJAH": "Avatar_Player_AbilityGroup_Girl_Water"
+ },
+ {
+  "CBJGLADMBHG": [
+   100553,
+   10067
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10101,
+   10001,
+   10102,
+   10006,
+   5007010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 721,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 722,
+    "ECKFGHMJDJK": 4
+   }
+  ],
+  "ELKKIAIGOBK": 704,
+  "GIEFGHHKGDD": 10068,
+  "IAGMADCJGIA": [
+   71,
+   72,
+   73,
+   74,
+   75,
+   76
+  ],
+  "IDLNEHLBGAJ": "Talent_PlayerGirl_Wind",
+  "KFKBPILIJAH": "Avatar_Player_AbilityGroup_Girl_Wind",
+  "OEJNCGDIBID": 1481
+ },
+ {
+  "CBJGLADMBHG": [
+   100554
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10101,
+   10001,
+   10102,
+   10055,
+   5007010
+  ],
+  "ELKKIAIGOBK": 705,
+  "IDLNEHLBGAJ": "Talent_PlayerGirl_Ice"
+ },
+ {
+  "CBJGLADMBHG": [
+   100555,
+   10077
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10101,
+   10001,
+   10102,
+   5007010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 921,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 922,
+    "ECKFGHMJDJK": 4
+   }
+  ],
+  "ELKKIAIGOBK": 706,
+  "GIEFGHHKGDD": 10078,
+  "IAGMADCJGIA": [
+   91,
+   92,
+   93,
+   94,
+   95,
+   96
+  ],
+  "IDLNEHLBGAJ": "Talent_PlayerGirl_Rock",
+  "KFKBPILIJAH": "Avatar_Player_AbilityGroup_Girl_Rock",
+  "OEJNCGDIBID": 1641
+ },
+ {
+  "CBJGLADMBHG": [
+   100556,
+   10602
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10001,
+   10055,
+   5007010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 1021,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 1022,
+    "ECKFGHMJDJK": 4
+   }
+  ],
+  "ELKKIAIGOBK": 707,
+  "GIEFGHHKGDD": 10605,
+  "IAGMADCJGIA": [
+   101,
+   102,
+   103,
+   104,
+   105,
+   106
+  ],
+  "IDLNEHLBGAJ": "Talent_PlayerGirl_Electric",
+  "KFKBPILIJAH": "Avatar_Player_AbilityGroup_Girl_Electric"
+ },
+ {
+  "CBJGLADMBHG": [
+   100557,
+   10117
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10001,
+   10055,
+   5007010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 1121,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 1122,
+    "ECKFGHMJDJK": 4
+   }
+  ],
+  "ELKKIAIGOBK": 708,
+  "GIEFGHHKGDD": 10118,
+  "IAGMADCJGIA": [
+   111,
+   112,
+   113,
+   114,
+   115,
+   116
+  ],
+  "IDLNEHLBGAJ": "Talent_PlayerGirl_Grass",
+  "KFKBPILIJAH": "Avatar_Player_AbilityGroup_Girl_Grass"
+ },
+ {
+  "CBJGLADMBHG": [
+   10070,
+   10071
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10076,
+   10079,
+   10080,
+   10101,
+   10102,
+   10003,
+   5014010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 1421,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 1422,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 1423
+   }
+  ],
+  "ELKKIAIGOBK": 1401,
+  "GIEFGHHKGDD": 10072,
+  "IAGMADCJGIA": [
+   141,
+   142,
+   143,
+   144,
+   145,
+   146
+  ],
+  "IDLNEHLBGAJ": "Talent_Barbara",
+  "OEJNCGDIBID": 1560
+ },
+ {
+  "CBJGLADMBHG": [
+   10073,
+   10074
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10081,
+   10101,
+   10001,
+   10102,
+   5015010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 1521,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 1522,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 1523
+   }
+  ],
+  "ELKKIAIGOBK": 1501,
+  "GIEFGHHKGDD": 10075,
+  "IAGMADCJGIA": [
+   151,
+   152,
+   153,
+   154,
+   155,
+   156
+  ],
+  "IDLNEHLBGAJ": "Talent_Kaeya",
+  "OEJNCGDIBID": 1050
+ },
+ {
+  "CBJGLADMBHG": [
+   10160,
+   10161
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10162,
+   10163,
+   10101,
+   10102,
+   5016010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 1621,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 1622,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 1623
+   }
+  ],
+  "ELKKIAIGOBK": 1601,
+  "GIEFGHHKGDD": 10165,
+  "IAGMADCJGIA": [
+   161,
+   162,
+   163,
+   164,
+   165,
+   166
+  ],
+  "IDLNEHLBGAJ": "Talent_Diluc",
+  "OEJNCGDIBID": 1400
+ },
+ {
+  "CBJGLADMBHG": [
+   10201,
+   10202
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10204,
+   10101,
+   10102,
+   5020010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 2021,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 2022,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 2023
+   }
+  ],
+  "ELKKIAIGOBK": 2001,
+  "GIEFGHHKGDD": 10203,
+  "IAGMADCJGIA": [
+   201,
+   202,
+   203,
+   204,
+   205,
+   206
+  ],
+  "IDLNEHLBGAJ": "Talent_Razor",
+  "OEJNCGDIBID": 2011
+ },
+ {
+  "CBJGLADMBHG": [
+   10041,
+   10032
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10042,
+   10043,
+   10211,
+   10101,
+   10102,
+   5021010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 2121,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 2122,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 2123
+   }
+  ],
+  "ELKKIAIGOBK": 2101,
+  "GIEFGHHKGDD": 10017,
+  "IAGMADCJGIA": [
+   211,
+   212,
+   213,
+   214,
+   215,
+   216
+  ],
+  "IDLNEHLBGAJ": "Talent_Ambor",
+  "NEMHOCMDGNM": 20000,
+  "OEJNCGDIBID": 1000
+ },
+ {
+  "CBJGLADMBHG": [
+   10221,
+   10224
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10222,
+   10223,
+   10101,
+   10102,
+   5022010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 2221,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 2222,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 2223
+   }
+  ],
+  "ELKKIAIGOBK": 2201,
+  "GIEFGHHKGDD": 10225,
+  "IAGMADCJGIA": [
+   221,
+   222,
+   223,
+   224,
+   225,
+   226
+  ],
+  "IDLNEHLBGAJ": "Talent_Venti",
+  "NEMHOCMDGNM": 20000,
+  "OEJNCGDIBID": 2211
+ },
+ {
+  "CBJGLADMBHG": [
+   10231,
+   10232
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10101,
+   10002,
+   10102,
+   5023010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 2321,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 2322,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 2323
+   }
+  ],
+  "ELKKIAIGOBK": 2301,
+  "GIEFGHHKGDD": 10235,
+  "IAGMADCJGIA": [
+   231,
+   232,
+   233,
+   234,
+   235,
+   236
+  ],
+  "IDLNEHLBGAJ": "Talent_Xiangling",
+  "OEJNCGDIBID": 2311
+ },
+ {
+  "CBJGLADMBHG": [
+   10241,
+   10242
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10101,
+   10102,
+   5024010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 2421,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 2422,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 2423
+   }
+  ],
+  "ELKKIAIGOBK": 2401,
+  "GIEFGHHKGDD": 10245,
+  "IAGMADCJGIA": [
+   241,
+   242,
+   243,
+   244,
+   245,
+   246
+  ],
+  "IDLNEHLBGAJ": "Talent_Beidou"
+ },
+ {
+  "CBJGLADMBHG": [
+   10381,
+   10382
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10101,
+   10102,
+   10001,
+   5025010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 2521,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 2522,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 2523
+   }
+  ],
+  "ELKKIAIGOBK": 2501,
+  "GIEFGHHKGDD": 10385,
+  "IAGMADCJGIA": [
+   251,
+   252,
+   253,
+   254,
+   255,
+   256
+  ],
+  "IDLNEHLBGAJ": "Talent_Xingqiu"
+ },
+ {
+  "CBJGLADMBHG": [
+   10261,
+   10262
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10101,
+   10102,
+   10002,
+   10263,
+   10264
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 2621,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 2622,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 2623
+   }
+  ],
+  "ELKKIAIGOBK": 2601,
+  "GIEFGHHKGDD": 10265,
+  "IAGMADCJGIA": [
+   261,
+   262,
+   263,
+   264,
+   265,
+   266
+  ],
+  "IDLNEHLBGAJ": "Talent_Xiao"
+ },
+ {
+  "CBJGLADMBHG": [
+   10271,
+   10272
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10101,
+   10102,
+   10003,
+   10273,
+   10275,
+   5027010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 2721,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 2722,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 2723
+   }
+  ],
+  "ELKKIAIGOBK": 2701,
+  "GIEFGHHKGDD": 10274,
+  "IAGMADCJGIA": [
+   271,
+   272,
+   273,
+   274,
+   275,
+   276
+  ],
+  "IDLNEHLBGAJ": "Talent_Ningguang"
+ },
+ {
+  "CBJGLADMBHG": [
+   10291,
+   10292
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10300,
+   10101,
+   10102,
+   10003,
+   5029010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 2921,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 2922,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 2923
+   }
+  ],
+  "ELKKIAIGOBK": 2901,
+  "GIEFGHHKGDD": 10295,
+  "IAGMADCJGIA": [
+   291,
+   292,
+   293,
+   294,
+   295,
+   296
+  ],
+  "IDLNEHLBGAJ": "Talent_Klee"
+ },
+ {
+  "CBJGLADMBHG": [
+   10301,
+   10302
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10101,
+   10102,
+   10002,
+   5030010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 3021,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 3022,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 3023
+   }
+  ],
+  "ELKKIAIGOBK": 3001,
+  "GIEFGHHKGDD": 10303,
+  "IAGMADCJGIA": [
+   301,
+   302,
+   303,
+   304,
+   305,
+   306
+  ],
+  "IDLNEHLBGAJ": "Talent_Zhongli"
+ },
+ {
+  "CBJGLADMBHG": [
+   10311,
+   10312
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10314,
+   10315,
+   10316,
+   10101,
+   10102,
+   5031010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 3121,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 3122,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 3123
+   }
+  ],
+  "ELKKIAIGOBK": 3101,
+  "GIEFGHHKGDD": 10313,
+  "IAGMADCJGIA": [
+   311,
+   312,
+   313,
+   314,
+   315,
+   316
+  ],
+  "IDLNEHLBGAJ": "Talent_Fischl",
+  "NEMHOCMDGNM": 20000
+ },
+ {
+  "CBJGLADMBHG": [
+   10321,
+   10322
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10101,
+   10102,
+   10001,
+   5032010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 3221,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 3222,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 3223
+   }
+  ],
+  "ELKKIAIGOBK": 3201,
+  "GIEFGHHKGDD": 10323,
+  "IAGMADCJGIA": [
+   321,
+   322,
+   323,
+   324,
+   325,
+   326
+  ],
+  "IDLNEHLBGAJ": "Talent_Bennett"
+ },
+ {
+  "CBJGLADMBHG": [
+   10331,
+   10332
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10334,
+   10335,
+   10336,
+   10337,
+   10101,
+   10102,
+   10001,
+   5033010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 3321,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 3322,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 3323
+   }
+  ],
+  "ELKKIAIGOBK": 3301,
+  "GIEFGHHKGDD": 10333,
+  "IAGMADCJGIA": [
+   331,
+   332,
+   333,
+   334,
+   335,
+   336
+  ],
+  "IDLNEHLBGAJ": "Talent_Tartaglia",
+  "NEMHOCMDGNM": 20000
+ },
+ {
+  "CBJGLADMBHG": [
+   10341,
+   10342
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10344,
+   10101,
+   10102,
+   5034010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 3421,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 3422,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 3423
+   }
+  ],
+  "ELKKIAIGOBK": 3401,
+  "GIEFGHHKGDD": 10343,
+  "IAGMADCJGIA": [
+   341,
+   342,
+   343,
+   344,
+   345,
+   346
+  ],
+  "IDLNEHLBGAJ": "Talent_Noel"
+ },
+ {
+  "CBJGLADMBHG": [
+   10351,
+   10352
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10101,
+   10102,
+   10355,
+   10001,
+   5035010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 3521,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 3522,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 3523
+   }
+  ],
+  "ELKKIAIGOBK": 3501,
+  "GIEFGHHKGDD": 10353,
+  "IAGMADCJGIA": [
+   351,
+   352,
+   353,
+   354,
+   355,
+   356
+  ],
+  "IDLNEHLBGAJ": "Talent_Qiqi"
+ },
+ {
+  "CBJGLADMBHG": [
+   10401,
+   10402
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10101,
+   10102,
+   5036010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 3621,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 3622,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 3623
+   }
+  ],
+  "ELKKIAIGOBK": 3601,
+  "GIEFGHHKGDD": 10403,
+  "IAGMADCJGIA": [
+   361,
+   362,
+   363,
+   364,
+   365,
+   366
+  ],
+  "IDLNEHLBGAJ": "Talent_Chongyun"
+ },
+ {
+  "CBJGLADMBHG": [
+   10371,
+   10372
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10374,
+   10101,
+   10102,
+   5037010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 3721,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 3722,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 3723
+   }
+  ],
+  "ELKKIAIGOBK": 3701,
+  "GIEFGHHKGDD": 10373,
+  "IAGMADCJGIA": [
+   371,
+   372,
+   373,
+   374,
+   375,
+   376
+  ],
+  "IDLNEHLBGAJ": "Talent_Ganyu",
+  "NEMHOCMDGNM": 20000
+ },
+ {
+  "CBJGLADMBHG": [
+   10386,
+   10387
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10101,
+   10102,
+   5038010,
+   10001
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 3821,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 3822,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 3823
+   }
+  ],
+  "ELKKIAIGOBK": 3801,
+  "GIEFGHHKGDD": 10388,
+  "IAGMADCJGIA": [
+   381,
+   382,
+   383,
+   384,
+   385,
+   386
+  ],
+  "IDLNEHLBGAJ": "Talent_Albedo"
+ },
+ {
+  "CBJGLADMBHG": [
+   10391,
+   10392
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10101,
+   10102,
+   10393,
+   10394,
+   5039010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 3921,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 3922,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 3923
+   }
+  ],
+  "ELKKIAIGOBK": 3901,
+  "GIEFGHHKGDD": 10395,
+  "IAGMADCJGIA": [
+   391,
+   392,
+   393,
+   394,
+   395,
+   396
+  ],
+  "IDLNEHLBGAJ": "Talent_Diona",
+  "NEMHOCMDGNM": 20000
+ },
+ {
+  "CBJGLADMBHG": [
+   10411,
+   10412,
+   10413
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10101,
+   10102,
+   10003,
+   5041010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 4121,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 4122,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 4123
+   }
+  ],
+  "ELKKIAIGOBK": 4101,
+  "GIEFGHHKGDD": 10415,
+  "IAGMADCJGIA": [
+   411,
+   412,
+   413,
+   414,
+   415,
+   416
+  ],
+  "IDLNEHLBGAJ": "Talent_Mona"
+ },
+ {
+  "CBJGLADMBHG": [
+   10421,
+   10422
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10001,
+   10101,
+   10102,
+   10423,
+   5042010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 4221,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 4222,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 4223
+   }
+  ],
+  "ELKKIAIGOBK": 4201,
+  "GIEFGHHKGDD": 10425,
+  "IAGMADCJGIA": [
+   421,
+   422,
+   423,
+   424,
+   425,
+   426
+  ],
+  "IDLNEHLBGAJ": "Talent_Keqing"
+ },
+ {
+  "CBJGLADMBHG": [
+   10431,
+   10432
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10101,
+   10102,
+   10003,
+   10433,
+   5043010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 4321,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 4322,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 4323
+   }
+  ],
+  "ELKKIAIGOBK": 4301,
+  "GIEFGHHKGDD": 10435,
+  "IAGMADCJGIA": [
+   431,
+   432,
+   433,
+   434,
+   435,
+   436
+  ],
+  "IDLNEHLBGAJ": "Talent_Sucrose"
+ },
+ {
+  "CBJGLADMBHG": [
+   10441,
+   10442
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10101,
+   10102,
+   5044010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 4421,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 4422,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 4423
+   }
+  ],
+  "ELKKIAIGOBK": 4401,
+  "GIEFGHHKGDD": 10443,
+  "IAGMADCJGIA": [
+   441,
+   442,
+   443,
+   444,
+   445,
+   446
+  ],
+  "IDLNEHLBGAJ": "Talent_Xinyan"
+ },
+ {
+  "CBJGLADMBHG": [
+   10451,
+   10452
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10101,
+   10102,
+   10002,
+   5045010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 4521,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 4522,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 4523
+   }
+  ],
+  "ELKKIAIGOBK": 4501,
+  "GIEFGHHKGDD": 10453,
+  "IAGMADCJGIA": [
+   451,
+   452,
+   453,
+   454,
+   455,
+   456
+  ],
+  "IDLNEHLBGAJ": "Talent_Rosaria"
+ },
+ {
+  "CBJGLADMBHG": [
+   10461,
+   10462
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10101,
+   10002,
+   10102,
+   10464,
+   5046010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 4621,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 4622,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 4623
+   }
+  ],
+  "ELKKIAIGOBK": 4601,
+  "GIEFGHHKGDD": 10463,
+  "IAGMADCJGIA": [
+   461,
+   462,
+   463,
+   464,
+   465,
+   466
+  ],
+  "IDLNEHLBGAJ": "Talent_Hutao"
+ },
+ {
+  "CBJGLADMBHG": [
+   10471,
+   10472
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10101,
+   10102,
+   10001,
+   10473,
+   10474,
+   5047010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 4721,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 4722,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 4723
+   }
+  ],
+  "ELKKIAIGOBK": 4701,
+  "GIEFGHHKGDD": 10475,
+  "IAGMADCJGIA": [
+   471,
+   472,
+   473,
+   474,
+   475,
+   476
+  ],
+  "IDLNEHLBGAJ": "Talent_Kazuha"
+ },
+ {
+  "CBJGLADMBHG": [
+   10481,
+   10482
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10101,
+   10102,
+   10003,
+   10473,
+   5048010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 4821,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 4822,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 4823
+   }
+  ],
+  "ELKKIAIGOBK": 4801,
+  "GIEFGHHKGDD": 10485,
+  "IAGMADCJGIA": [
+   481,
+   482,
+   483,
+   484,
+   485,
+   486
+  ],
+  "IDLNEHLBGAJ": "Talent_Feiyan"
+ },
+ {
+  "CBJGLADMBHG": [
+   10491,
+   10492
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10493,
+   5049010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 4921,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 4922,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 4923
+   }
+  ],
+  "ELKKIAIGOBK": 4901,
+  "GIEFGHHKGDD": 10495,
+  "IAGMADCJGIA": [
+   491,
+   492,
+   493,
+   494,
+   495,
+   496
+  ],
+  "IDLNEHLBGAJ": "Talent_Yoimiya",
+  "NEMHOCMDGNM": 20000
+ },
+ {
+  "CBJGLADMBHG": [
+   10501,
+   10502
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10002,
+   5050010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 5021,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 5022,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 5023
+   }
+  ],
+  "ELKKIAIGOBK": 5001,
+  "GIEFGHHKGDD": 10505,
+  "IAGMADCJGIA": [
+   501,
+   502,
+   503,
+   504,
+   505,
+   506
+  ],
+  "IDLNEHLBGAJ": "Talent_Tohma"
+ },
+ {
+  "CBJGLADMBHG": [
+   10511,
+   10512
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10101,
+   10102,
+   5051010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 5121,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 5122,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 5123
+   }
+  ],
+  "ELKKIAIGOBK": 5101,
+  "GIEFGHHKGDD": 10515,
+  "IAGMADCJGIA": [
+   511,
+   512,
+   513,
+   514,
+   515,
+   516
+  ],
+  "IDLNEHLBGAJ": "Talent_Eula"
+ },
+ {
+  "CBJGLADMBHG": [
+   10521,
+   10522
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10001,
+   10002,
+   5052010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 5221,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 5222,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 5223
+   },
+   {
+    "DGIJCGLPDPI": 5225
+   }
+  ],
+  "ELKKIAIGOBK": 5201,
+  "GIEFGHHKGDD": 10525,
+  "IAGMADCJGIA": [
+   521,
+   522,
+   523,
+   524,
+   525,
+   526
+  ],
+  "IDLNEHLBGAJ": "Talent_Shougun"
+ },
+ {
+  "CBJGLADMBHG": [
+   10531,
+   10532
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10533,
+   5053010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 5321,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 5322,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 5323
+   }
+  ],
+  "ELKKIAIGOBK": 5301,
+  "GIEFGHHKGDD": 10535,
+  "IAGMADCJGIA": [
+   531,
+   532,
+   533,
+   534,
+   535,
+   536
+  ],
+  "IDLNEHLBGAJ": "Talent_Sayu"
+ },
+ {
+  "CBJGLADMBHG": [
+   10541,
+   10542
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10003,
+   5054010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 5421,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 5422,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 5423
+   },
+   {
+    "DGIJCGLPDPI": 5425
+   }
+  ],
+  "ELKKIAIGOBK": 5401,
+  "GIEFGHHKGDD": 10545,
+  "IAGMADCJGIA": [
+   541,
+   542,
+   543,
+   544,
+   545,
+   546
+  ],
+  "IDLNEHLBGAJ": "Talent_Kokomi"
+ },
+ {
+  "CBJGLADMBHG": [
+   10551,
+   10552
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10553,
+   10554,
+   5055010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 5521,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 5522,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 5523
+   }
+  ],
+  "ELKKIAIGOBK": 5501,
+  "GIEFGHHKGDD": 10555,
+  "IAGMADCJGIA": [
+   551,
+   552,
+   553,
+   554,
+   555,
+   556
+  ],
+  "IDLNEHLBGAJ": "Talent_Gorou",
+  "NEMHOCMDGNM": 20000
+ },
+ {
+  "CBJGLADMBHG": [
+   10561,
+   10562
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10563,
+   10564,
+   5056010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 5621,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 5622,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 5623
+   }
+  ],
+  "ELKKIAIGOBK": 5601,
+  "GIEFGHHKGDD": 10565,
+  "IAGMADCJGIA": [
+   561,
+   562,
+   563,
+   564,
+   565,
+   566
+  ],
+  "IDLNEHLBGAJ": "Talent_Sara",
+  "NEMHOCMDGNM": 20000
+ },
+ {
+  "CBJGLADMBHG": [
+   10571,
+   10572
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10004,
+   10102,
+   5057010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 5721,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 5722,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 5723
+   }
+  ],
+  "ELKKIAIGOBK": 5701,
+  "GIEFGHHKGDD": 10575,
+  "IAGMADCJGIA": [
+   571,
+   572,
+   573,
+   574,
+   575,
+   576
+  ],
+  "IDLNEHLBGAJ": "Talent_Itto"
+ },
+ {
+  "CBJGLADMBHG": [
+   10581,
+   10582
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10583,
+   10003,
+   5058010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 5821,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 5822,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 5823
+   }
+  ],
+  "ELKKIAIGOBK": 5801,
+  "GIEFGHHKGDD": 10585,
+  "IAGMADCJGIA": [
+   581,
+   582,
+   583,
+   584,
+   585,
+   586
+  ],
+  "IDLNEHLBGAJ": "Talent_Yae"
+ },
+ {
+  "CBJGLADMBHG": [
+   10591,
+   10592
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10003,
+   5059010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 5921,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 5922,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 5923
+   }
+  ],
+  "ELKKIAIGOBK": 5901,
+  "GIEFGHHKGDD": 10595,
+  "IAGMADCJGIA": [
+   591,
+   592,
+   593,
+   594,
+   595,
+   596
+  ],
+  "IDLNEHLBGAJ": "Talent_Heizo"
+ },
+ {
+  "CBJGLADMBHG": [
+   10606,
+   10607
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10608,
+   10609,
+   5060010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 6021,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 6022,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 6023
+   }
+  ],
+  "ELKKIAIGOBK": 6001,
+  "GIEFGHHKGDD": 10610,
+  "IAGMADCJGIA": [
+   601,
+   602,
+   603,
+   604,
+   605,
+   606
+  ],
+  "IDLNEHLBGAJ": "Talent_Yelan",
+  "NEMHOCMDGNM": 20000
+ },
+ {
+  "CBJGLADMBHG": [
+   10611,
+   10612
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10101,
+   10102,
+   10001,
+   10613,
+   5061010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 6121,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 6122,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 6123
+   }
+  ],
+  "ELKKIAIGOBK": 6101,
+  "GIEFGHHKGDD": 10615,
+  "IAGMADCJGIA": [
+   611,
+   612,
+   613,
+   614,
+   615,
+   616
+  ],
+  "IDLNEHLBGAJ": "Talent_Momoka"
+ },
+ {
+  "CBJGLADMBHG": [
+   10621,
+   10622
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10623,
+   10624,
+   5062010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 6221,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 6222,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 6223
+   }
+  ],
+  "ELKKIAIGOBK": 6201,
+  "GIEFGHHKGDD": 10625,
+  "IAGMADCJGIA": [
+   621,
+   622,
+   623,
+   624,
+   625,
+   626
+  ],
+  "IDLNEHLBGAJ": "Talent_Aloy",
+  "NEMHOCMDGNM": 20000
+ },
+ {
+  "CBJGLADMBHG": [
+   10641,
+   10642
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10002,
+   5064010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 6421,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 6422,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 6423
+   }
+  ],
+  "ELKKIAIGOBK": 6401,
+  "GIEFGHHKGDD": 10643,
+  "IAGMADCJGIA": [
+   641,
+   642,
+   643,
+   644,
+   645,
+   646
+  ],
+  "IDLNEHLBGAJ": "Talent_Yunjin"
+ },
+ {
+  "CBJGLADMBHG": [
+   10631,
+   10632
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10101,
+   10102,
+   10002,
+   5063010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 6321,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 6322,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 6323
+   }
+  ],
+  "ELKKIAIGOBK": 6301,
+  "GIEFGHHKGDD": 10635,
+  "IAGMADCJGIA": [
+   631,
+   632,
+   633,
+   634,
+   635,
+   636
+  ],
+  "IDLNEHLBGAJ": "Talent_Shenhe"
+ },
+ {
+  "CBJGLADMBHG": [
+   10651,
+   10652
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10101,
+   10102,
+   10001,
+   10656,
+   10657,
+   5065010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 6521,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 6522,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 6523
+   }
+  ],
+  "ELKKIAIGOBK": 6501,
+  "GIEFGHHKGDD": 10655,
+  "IAGMADCJGIA": [
+   651,
+   652,
+   653,
+   654,
+   655,
+   656
+  ],
+  "IDLNEHLBGAJ": "Talent_Shinobu"
+ },
+ {
+  "CBJGLADMBHG": [
+   10661,
+   10662
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10001,
+   10663,
+   5066010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 6621,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 6622,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 6623
+   }
+  ],
+  "ELKKIAIGOBK": 6601,
+  "GIEFGHHKGDD": 10665,
+  "IAGMADCJGIA": [
+   661,
+   662,
+   663,
+   664,
+   665,
+   666
+  ],
+  "IDLNEHLBGAJ": "Talent_Ayato"
+ },
+ {
+  "CBJGLADMBHG": [
+   10671,
+   10672
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10674,
+   5067010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 6721,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 6722,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 6723
+   }
+  ],
+  "ELKKIAIGOBK": 6701,
+  "GIEFGHHKGDD": 10675,
+  "IAGMADCJGIA": [
+   671,
+   672,
+   673,
+   674,
+   675,
+   676
+  ],
+  "IDLNEHLBGAJ": "Talent_Collei",
+  "NEMHOCMDGNM": 20000
+ },
+ {
+  "CBJGLADMBHG": [
+   10681,
+   10682
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   5068010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 6821,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 6822,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 6823
+   }
+  ],
+  "ELKKIAIGOBK": 6801,
+  "GIEFGHHKGDD": 10685,
+  "IAGMADCJGIA": [
+   681,
+   682,
+   683,
+   684,
+   685,
+   686
+  ],
+  "IDLNEHLBGAJ": "Talent_Dori"
+ },
+ {
+  "CBJGLADMBHG": [
+   10691,
+   10692
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10693,
+   5069010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 6921,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 6922,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 6923
+   }
+  ],
+  "ELKKIAIGOBK": 6901,
+  "GIEFGHHKGDD": 10695,
+  "IAGMADCJGIA": [
+   691,
+   692,
+   693,
+   694,
+   695,
+   696
+  ],
+  "IDLNEHLBGAJ": "Talent_Tighnari",
+  "NEMHOCMDGNM": 20000
+ },
+ {
+  "CBJGLADMBHG": [
+   10701,
+   10702
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10703,
+   10704,
+   10706,
+   10707,
+   10708,
+   10001,
+   10101,
+   10102,
+   5070010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 7021,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 7022,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 7023
+   }
+  ],
+  "ELKKIAIGOBK": 7001,
+  "GIEFGHHKGDD": 10705,
+  "IAGMADCJGIA": [
+   701,
+   702,
+   703,
+   704,
+   705,
+   706
+  ],
+  "IDLNEHLBGAJ": "Talent_Nilou"
+ },
+ {
+  "CBJGLADMBHG": [
+   10711,
+   10712
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10002,
+   10713,
+   5071010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 7121,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 7122,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 7123
+   }
+  ],
+  "ELKKIAIGOBK": 7101,
+  "GIEFGHHKGDD": 10715,
+  "IAGMADCJGIA": [
+   711,
+   712,
+   713,
+   714,
+   715,
+   716
+  ],
+  "IDLNEHLBGAJ": "Talent_Cyno"
+ },
+ {
+  "CBJGLADMBHG": [
+   10721,
+   10722
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10002,
+   5072010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 7221,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 7222,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 7223
+   }
+  ],
+  "ELKKIAIGOBK": 7201,
+  "GIEFGHHKGDD": 10725,
+  "IAGMADCJGIA": [
+   721,
+   722,
+   723,
+   724,
+   725,
+   726
+  ],
+  "IDLNEHLBGAJ": "Talent_Candace"
+ },
+ {
+  "CBJGLADMBHG": [
+   10731,
+   10732
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10003,
+   5073010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 7321,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 7322,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 7323
+   }
+  ],
+  "ELKKIAIGOBK": 7301,
+  "GIEFGHHKGDD": 10735,
+  "IAGMADCJGIA": [
+   731,
+   732,
+   733,
+   734,
+   735,
+   736
+  ],
+  "IDLNEHLBGAJ": "Talent_Nahida"
+ },
+ {
+  "CBJGLADMBHG": [
+   10741,
+   10742
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10001,
+   5074010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 7421,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 7422,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 7423
+   }
+  ],
+  "ELKKIAIGOBK": 7401,
+  "GIEFGHHKGDD": 10745,
+  "IAGMADCJGIA": [
+   741,
+   742,
+   743,
+   744,
+   745,
+   746
+  ],
+  "IDLNEHLBGAJ": "Talent_Layla"
+ },
+ {
+  "CBJGLADMBHG": [
+   10751,
+   10752
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10753,
+   10756,
+   10757,
+   10758,
+   10759,
+   10750,
+   10003,
+   5075010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 7521,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 7522,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 7523
+   }
+  ],
+  "ELKKIAIGOBK": 7501,
+  "GIEFGHHKGDD": 10755,
+  "IAGMADCJGIA": [
+   751,
+   752,
+   753,
+   754,
+   755,
+   756
+  ],
+  "IDLNEHLBGAJ": "Talent_Wanderer"
+ },
+ {
+  "CBJGLADMBHG": [
+   10761,
+   10762
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10764,
+   10101,
+   10102,
+   5076010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 7621,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 7622,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 7623
+   }
+  ],
+  "ELKKIAIGOBK": 7601,
+  "GIEFGHHKGDD": 10765,
+  "IAGMADCJGIA": [
+   761,
+   762,
+   763,
+   764,
+   765,
+   766
+  ],
+  "IDLNEHLBGAJ": "Talent_Faruzan",
+  "NEMHOCMDGNM": 20000
+ },
+ {
+  "CBJGLADMBHG": [
+   10771,
+   10772
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10101,
+   10102,
+   10002,
+   5077010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 7721,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 7722,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 7723
+   }
+  ],
+  "ELKKIAIGOBK": 7701,
+  "GIEFGHHKGDD": 10775,
+  "IAGMADCJGIA": [
+   771,
+   772,
+   773,
+   774,
+   775,
+   776
+  ],
+  "IDLNEHLBGAJ": "Talent_Yaoyao"
+ },
+ {
+  "CBJGLADMBHG": [
+   10781,
+   10782
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10001,
+   5078010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 7821,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 7822,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 7823
+   }
+  ],
+  "ELKKIAIGOBK": 7801,
+  "GIEFGHHKGDD": 10785,
+  "IAGMADCJGIA": [
+   781,
+   782,
+   783,
+   784,
+   785,
+   786
+  ],
+  "IDLNEHLBGAJ": "Talent_Alhatham"
+ },
+ {
+  "CBJGLADMBHG": [
+   10791,
+   10792
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10004,
+   10102,
+   10793,
+   10794,
+   5079010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 7921,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 7922,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 7923
+   }
+  ],
+  "ELKKIAIGOBK": 7901,
+  "GIEFGHHKGDD": 10795,
+  "IAGMADCJGIA": [
+   791,
+   792,
+   793,
+   794,
+   795,
+   796
+  ],
+  "IDLNEHLBGAJ": "Talent_Dehya"
+ },
+ {
+  "CBJGLADMBHG": [
+   10801,
+   10802
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10002,
+   5080010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 8021,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 8022,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 8023
+   }
+  ],
+  "ELKKIAIGOBK": 8001,
+  "GIEFGHHKGDD": 10805,
+  "IAGMADCJGIA": [
+   801,
+   802,
+   803,
+   804,
+   805,
+   806
+  ],
+  "IDLNEHLBGAJ": "Talent_Mika"
+ },
+ {
+  "CBJGLADMBHG": [
+   10811,
+   10812
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10004,
+   10102,
+   5081010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 8121,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 8122,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 8123
+   }
+  ],
+  "ELKKIAIGOBK": 8101,
+  "GIEFGHHKGDD": 10815,
+  "IAGMADCJGIA": [
+   811,
+   812,
+   813,
+   814,
+   815,
+   816
+  ],
+  "IDLNEHLBGAJ": "Talent_Kaveh"
+ },
+ {
+  "CBJGLADMBHG": [
+   10821,
+   10822
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10003,
+   5082010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 8221,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 8222,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 8223
+   }
+  ],
+  "ELKKIAIGOBK": 8201,
+  "GIEFGHHKGDD": 10825,
+  "IAGMADCJGIA": [
+   821,
+   822,
+   823,
+   824,
+   825,
+   826
+  ],
+  "IDLNEHLBGAJ": "Talent_Baizhuer"
+ },
+ {
+  "CBJGLADMBHG": [
+   10831,
+   10832
+  ],
+  "CDKFLDLHCAD": "Pneuma",
+  "DPEGKJDJEPK": [
+   10833,
+   10001,
+   5083010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 8321,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 8322,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 8323
+   }
+  ],
+  "ELKKIAIGOBK": 8301,
+  "GIEFGHHKGDD": 10835,
+  "IAGMADCJGIA": [
+   831,
+   832,
+   833,
+   834,
+   835,
+   836
+  ],
+  "IDLNEHLBGAJ": "Talent_Linette"
+ },
+ {
+  "CBJGLADMBHG": [
+   10841,
+   10842
+  ],
+  "CDKFLDLHCAD": "Ousia",
+  "DPEGKJDJEPK": [
+   10843,
+   10844,
+   5084010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 8421,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 8422,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 8423
+   }
+  ],
+  "ELKKIAIGOBK": 8401,
+  "GIEFGHHKGDD": 10845,
+  "IAGMADCJGIA": [
+   841,
+   842,
+   843,
+   844,
+   845,
+   846
+  ],
+  "IDLNEHLBGAJ": "Talent_Liney",
+  "NEMHOCMDGNM": 20000
+ },
+ {
+  "CBJGLADMBHG": [
+   10851,
+   10852
+  ],
+  "CDKFLDLHCAD": "Ousia",
+  "DPEGKJDJEPK": [
+   10004,
+   10853,
+   10854,
+   5085010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 8521,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 8522,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 8523
+   }
+  ],
+  "ELKKIAIGOBK": 8501,
+  "GIEFGHHKGDD": 10855,
+  "IAGMADCJGIA": [
+   851,
+   852,
+   853,
+   854,
+   855,
+   856
+  ],
+  "IDLNEHLBGAJ": "Talent_Freminet"
+ },
+ {
+  "CBJGLADMBHG": [
+   10861,
+   10862
+  ],
+  "CDKFLDLHCAD": "Pneuma",
+  "DPEGKJDJEPK": [
+   10003,
+   5086010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 8621,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 8622,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 8623
+   }
+  ],
+  "ELKKIAIGOBK": 8601,
+  "GIEFGHHKGDD": 10865,
+  "IAGMADCJGIA": [
+   861,
+   862,
+   863,
+   864,
+   865,
+   866
+  ],
+  "IDLNEHLBGAJ": "Talent_Wriothesley"
+ },
+ {
+  "CBJGLADMBHG": [
+   10871,
+   10872
+  ],
+  "CDKFLDLHCAD": "Ousia",
+  "DPEGKJDJEPK": [
+   10003,
+   5087010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 8721,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 8722,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 8723
+   }
+  ],
+  "ELKKIAIGOBK": 8701,
+  "GIEFGHHKGDD": 10875,
+  "IAGMADCJGIA": [
+   871,
+   872,
+   873,
+   874,
+   875,
+   876
+  ],
+  "IDLNEHLBGAJ": "Talent_Neuvillette"
+ },
+ {
+  "CBJGLADMBHG": [
+   10881,
+   10882
+  ],
+  "CDKFLDLHCAD": "Ousia",
+  "DPEGKJDJEPK": [
+   10003,
+   5088010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 8821,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 8822,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 8823
+   }
+  ],
+  "ELKKIAIGOBK": 8801,
+  "GIEFGHHKGDD": 10885,
+  "IAGMADCJGIA": [
+   881,
+   882,
+   883,
+   884,
+   885,
+   886
+  ],
+  "IDLNEHLBGAJ": "Talent_Charlotte"
+ },
+ {
+  "CBJGLADMBHG": [
+   10891,
+   10892
+  ],
+  "CDKFLDLHCAD": "Furina",
+  "DPEGKJDJEPK": [
+   10001,
+   5089010,
+   10893
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 8921,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 8922,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 8923
+   }
+  ],
+  "ELKKIAIGOBK": 8901,
+  "GIEFGHHKGDD": 10895,
+  "IAGMADCJGIA": [
+   891,
+   892,
+   893,
+   894,
+   895,
+   896
+  ],
+  "IDLNEHLBGAJ": "Talent_Furina"
+ },
+ {
+  "CBJGLADMBHG": [
+   10901,
+   10902
+  ],
+  "CDKFLDLHCAD": "Pneuma",
+  "DPEGKJDJEPK": [
+   10002,
+   5090010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 9021,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 9022,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 9023
+   }
+  ],
+  "ELKKIAIGOBK": 9001,
+  "GIEFGHHKGDD": 10905,
+  "IAGMADCJGIA": [
+   901,
+   902,
+   903,
+   904,
+   905,
+   906
+  ],
+  "IDLNEHLBGAJ": "Talent_Chevreuse"
+ },
+ {
+  "CBJGLADMBHG": [
+   10911,
+   10912
+  ],
+  "CDKFLDLHCAD": "Pneuma",
+  "DPEGKJDJEPK": [
+   10004,
+   10102,
+   5091010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 9121,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 9122,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 9123
+   }
+  ],
+  "ELKKIAIGOBK": 9101,
+  "GIEFGHHKGDD": 10915,
+  "IAGMADCJGIA": [
+   911,
+   912,
+   913,
+   914,
+   915,
+   916
+  ],
+  "IDLNEHLBGAJ": "Talent_Navia"
+ },
+ {
+  "CBJGLADMBHG": [
+   10921,
+   10922
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10004,
+   10102,
+   10923,
+   5092010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 9221,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 9222,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 9223
+   }
+  ],
+  "ELKKIAIGOBK": 9201,
+  "GIEFGHHKGDD": 10925,
+  "IAGMADCJGIA": [
+   921,
+   922,
+   923,
+   924,
+   925,
+   926
+  ],
+  "IDLNEHLBGAJ": "Talent_Gaming"
+ },
+ {
+  "CBJGLADMBHG": [
+   10931,
+   10932
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10003,
+   10933,
+   10936,
+   10937,
+   10934,
+   5093010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 9321,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 9322,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 9323
+   }
+  ],
+  "ELKKIAIGOBK": 9301,
+  "GIEFGHHKGDD": 10935,
+  "IAGMADCJGIA": [
+   931,
+   932,
+   933,
+   934,
+   935,
+   936
+  ],
+  "IDLNEHLBGAJ": "Talent_Liuyun"
+ },
+ {
+  "CBJGLADMBHG": [
+   10941,
+   10942
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10001,
+   10944,
+   5094010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 9421,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 9422,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 9423
+   }
+  ],
+  "ELKKIAIGOBK": 9401,
+  "GIEFGHHKGDD": 10945,
+  "IAGMADCJGIA": [
+   941,
+   942,
+   943,
+   944,
+   945,
+   946
+  ],
+  "IDLNEHLBGAJ": "Talent_Chiori"
+ },
+ {
+  "CBJGLADMBHG": [
+   10971,
+   10972
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10974,
+   5097010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 9721,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 9722,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 9723
+   }
+  ],
+  "ELKKIAIGOBK": 9701,
+  "GIEFGHHKGDD": 10975,
+  "IAGMADCJGIA": [
+   971,
+   972,
+   973,
+   974,
+   975,
+   976
+  ],
+  "IDLNEHLBGAJ": "Talent_Sethos",
+  "NEMHOCMDGNM": 20000
+ },
+ {
+  "CBJGLADMBHG": [
+   10951,
+   10952
+  ],
+  "CDKFLDLHCAD": "Pneuma",
+  "DPEGKJDJEPK": [
+   10953,
+   5095010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 9521,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 9522,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 9523
+   }
+  ],
+  "ELKKIAIGOBK": 9501,
+  "GIEFGHHKGDD": 10955,
+  "IAGMADCJGIA": [
+   951,
+   952,
+   953,
+   954,
+   955,
+   956
+  ],
+  "IDLNEHLBGAJ": "Talent_Sigewinne",
+  "NEMHOCMDGNM": 20000
+ },
+ {
+  "CBJGLADMBHG": [
+   10961,
+   10962
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10002,
+   10966,
+   10967,
+   5096010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 9621,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 9622,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 9623
+   }
+  ],
+  "ELKKIAIGOBK": 9601,
+  "GIEFGHHKGDD": 10965,
+  "IAGMADCJGIA": [
+   961,
+   962,
+   963,
+   964,
+   965,
+   966
+  ],
+  "IDLNEHLBGAJ": "Talent_Arlecchino"
+ },
+ {
+  "CBJGLADMBHG": [
+   10981,
+   10982
+  ],
+  "CDKFLDLHCAD": "Pneuma",
+  "DPEGKJDJEPK": [
+   10001,
+   10983,
+   10984,
+   5098010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 9821,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 9822,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 9823
+   }
+  ],
+  "ELKKIAIGOBK": 9801,
+  "GIEFGHHKGDD": 10985,
+  "IAGMADCJGIA": [
+   981,
+   982,
+   983,
+   984,
+   985,
+   986
+  ],
+  "IDLNEHLBGAJ": "Talent_Clorinde"
+ },
+ {
+  "CBJGLADMBHG": [
+   10991,
+   10992
+  ],
+  "CDKFLDLHCAD": "Ousia",
+  "DPEGKJDJEPK": [
+   10002,
+   5099010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 9921,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 9922,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 9923
+   }
+  ],
+  "ELKKIAIGOBK": 9901,
+  "GIEFGHHKGDD": 10995,
+  "IAGMADCJGIA": [
+   991,
+   992,
+   993,
+   994,
+   995,
+   996
+  ],
+  "IDLNEHLBGAJ": "Talent_Emilie"
+ },
+ {
+  "CBJGLADMBHG": [
+   11001,
+   11002
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   11003,
+   11004,
+   11006,
+   11007,
+   11008,
+   10002,
+   5100010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 10021,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 10022,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 10023
+   },
+   {
+    "DGIJCGLPDPI": 10025
+   }
+  ],
+  "ELKKIAIGOBK": 10001,
+  "GIEFGHHKGDD": 11005,
+  "IAGMADCJGIA": [
+   1001,
+   1002,
+   1003,
+   1004,
+   1005,
+   1006
+  ],
+  "IDLNEHLBGAJ": "Talent_Kachina"
+ },
+ {
+  "CBJGLADMBHG": [
+   11011,
+   11012
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10004,
+   11013,
+   11014,
+   11016,
+   11017,
+   11018,
+   11019,
+   5101010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 10121,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 10122,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 10123
+   },
+   {
+    "DGIJCGLPDPI": 10125
+   }
+  ],
+  "ELKKIAIGOBK": 10101,
+  "GIEFGHHKGDD": 11015,
+  "IAGMADCJGIA": [
+   1011,
+   1012,
+   1013,
+   1014,
+   1015,
+   1016
+  ],
+  "IDLNEHLBGAJ": "Talent_Kinich"
+ },
+ {
+  "CBJGLADMBHG": [
+   30000,
+   30002
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   30003,
+   30004,
+   30005,
+   30006,
+   30008,
+   30009,
+   30010,
+   30011,
+   10003,
+   5102010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 10221,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 10222,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 10223
+   },
+   {
+    "DGIJCGLPDPI": 10225
+   }
+  ],
+  "ELKKIAIGOBK": 10201,
+  "GIEFGHHKGDD": 30007,
+  "IAGMADCJGIA": [
+   1021,
+   1022,
+   1023,
+   1024,
+   1025,
+   1026
+  ],
+  "IDLNEHLBGAJ": "Talent_Mualani"
+ },
+ {
+  "CBJGLADMBHG": [
+   11041,
+   11042
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   11043,
+   11044,
+   11046,
+   11047,
+   11048,
+   11049,
+   11040,
+   5104010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 10421,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 10422,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 10423
+   },
+   {
+    "DGIJCGLPDPI": 10425
+   }
+  ],
+  "ELKKIAIGOBK": 10401,
+  "GIEFGHHKGDD": 11045,
+  "IAGMADCJGIA": [
+   1041,
+   1042,
+   1043,
+   1044,
+   1045,
+   1046
+  ],
+  "IDLNEHLBGAJ": "Talent_Chasca",
+  "NEMHOCMDGNM": 20000
+ },
+ {
+  "CBJGLADMBHG": [
+   11031,
+   11032
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10001,
+   11033,
+   11034,
+   11036,
+   11037,
+   5103010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 10321,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 10322,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 10323
+   },
+   {
+    "DGIJCGLPDPI": 10325
+   }
+  ],
+  "ELKKIAIGOBK": 10301,
+  "GIEFGHHKGDD": 11035,
+  "IAGMADCJGIA": [
+   1031,
+   1032,
+   1033,
+   1034,
+   1035,
+   1036
+  ],
+  "IDLNEHLBGAJ": "Talent_Xilonen"
+ },
+ {
+  "CBJGLADMBHG": [
+   30501,
+   30502,
+   30506
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   30503,
+   30504,
+   5105010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 10521,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 10522,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 10523
+   },
+   {
+    "DGIJCGLPDPI": 10525
+   }
+  ],
+  "ELKKIAIGOBK": 10501,
+  "GIEFGHHKGDD": 30505,
+  "IAGMADCJGIA": [
+   1051,
+   1052,
+   1053,
+   1054,
+   1055,
+   1056
+  ],
+  "IDLNEHLBGAJ": "Talent_Olorun",
+  "NEMHOCMDGNM": 20000
+ },
+ {
+  "CBJGLADMBHG": [
+   11061,
+   11062
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10004,
+   11063,
+   11064,
+   11066,
+   11067,
+   11068,
+   11069,
+   5106010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 10621,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 10622,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 10623
+   },
+   {
+    "DGIJCGLPDPI": 10625
+   }
+  ],
+  "ELKKIAIGOBK": 10601,
+  "GIEFGHHKGDD": 11065,
+  "IAGMADCJGIA": [
+   1061,
+   1062,
+   1063,
+   1064,
+   1065,
+   1066
+  ],
+  "IDLNEHLBGAJ": "Talent_Mavuika"
+ },
+ {
+  "CBJGLADMBHG": [
+   11071,
+   11072,
+   11076
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10003,
+   11073,
+   5107010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 10721,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 10722,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 10723
+   },
+   {
+    "DGIJCGLPDPI": 10725
+   }
+  ],
+  "ELKKIAIGOBK": 10701,
+  "GIEFGHHKGDD": 11075,
+  "IAGMADCJGIA": [
+   1071,
+   1072,
+   1073,
+   1074,
+   1075,
+   1076
+  ],
+  "IDLNEHLBGAJ": "Talent_Citlali"
+ },
+ {
+  "CBJGLADMBHG": [
+   11081,
+   11082
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10003,
+   11083,
+   5108010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 10821,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 10822,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 10823
+   }
+  ],
+  "ELKKIAIGOBK": 10801,
+  "GIEFGHHKGDD": 11085,
+  "IAGMADCJGIA": [
+   1081,
+   1082,
+   1083,
+   1084,
+   1085,
+   1086
+  ],
+  "IDLNEHLBGAJ": "Talent_Lanyan"
+ },
+ {
+  "CBJGLADMBHG": [
+   11091,
+   11092
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10003,
+   11093,
+   11094,
+   11096,
+   5109010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 10921,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 10922,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 10923
+   }
+  ],
+  "ELKKIAIGOBK": 10901,
+  "GIEFGHHKGDD": 11095,
+  "IAGMADCJGIA": [
+   1091,
+   1092,
+   1093,
+   1094,
+   1095,
+   1096
+  ],
+  "IDLNEHLBGAJ": "Talent_Mizuki"
+ },
+ {
+  "CBJGLADMBHG": [
+   11101,
+   11102
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10002,
+   11103,
+   11104,
+   11106,
+   11107,
+   11108,
+   5110010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 11021,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 11022,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 11023
+   },
+   {
+    "DGIJCGLPDPI": 11025
+   }
+  ],
+  "ELKKIAIGOBK": 11001,
+  "GIEFGHHKGDD": 11105,
+  "IAGMADCJGIA": [
+   1101,
+   1102,
+   1103,
+   1104,
+   1105,
+   1106
+  ],
+  "IDLNEHLBGAJ": "Talent_Iansan"
+ },
+ {
+  "CBJGLADMBHG": [
+   11111,
+   11112
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10003,
+   11113,
+   11114,
+   11116,
+   11117,
+   11118,
+   11119,
+   5111010
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 11121,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 11122,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 11123
+   },
+   {
+    "DGIJCGLPDPI": 11125
+   }
+  ],
+  "ELKKIAIGOBK": 11101,
+  "GIEFGHHKGDD": 11115,
+  "IAGMADCJGIA": [
+   1111,
+   1112,
+   1113,
+   1114,
+   1115,
+   1116
+  ],
+  "IDLNEHLBGAJ": "Talent_Varesa"
+ },
+ {
+  "CDKFLDLHCAD": "None",
+  "ELKKIAIGOBK": 8011
+ },
+ {
+  "CDKFLDLHCAD": "None",
+  "ELKKIAIGOBK": 9011
+ },
+ {
+  "CDKFLDLHCAD": "None",
+  "ELKKIAIGOBK": 10011
+ },
+ {
+  "CDKFLDLHCAD": "None",
+  "ELKKIAIGOBK": 12011
+ },
+ {
+  "CDKFLDLHCAD": "None",
+  "ELKKIAIGOBK": 13011
+ },
+ {
+  "CBJGLADMBHG": [
+   10251,
+   10362
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10252,
+   10253,
+   10101,
+   10102
+  ],
+  "ELKKIAIGOBK": 25011,
+  "GIEFGHHKGDD": 10255,
+  "NEMHOCMDGNM": 20000
+ },
+ {
+  "CBJGLADMBHG": [
+   10281,
+   10282
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10101,
+   10102
+  ],
+  "ELKKIAIGOBK": 28011,
+  "GIEFGHHKGDD": 10283
+ },
+ {
+  "CBJGLADMBHG": [
+   30000,
+   30002
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   30003,
+   30004,
+   30005,
+   30006,
+   30008,
+   30009,
+   30010,
+   30011,
+   10003
+  ],
+  "ELKKIAIGOBK": 40001,
+  "GIEFGHHKGDD": 30007
+ },
+ {
+  "CBJGLADMBHG": [
+   30101,
+   30102
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   30103,
+   30104
+  ],
+  "ELKKIAIGOBK": 40002,
+  "GIEFGHHKGDD": 30105
+ },
+ {
+  "CBJGLADMBHG": [
+   30201,
+   30202
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   30203,
+   30204,
+   30206
+  ],
+  "ELKKIAIGOBK": 40003,
+  "GIEFGHHKGDD": 30205
+ },
+ {
+  "CBJGLADMBHG": [
+   11301,
+   11302
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10101,
+   10102
+  ],
+  "DPEHDGNEIDM": [
+   {
+    "DGIJCGLPDPI": 3121,
+    "ECKFGHMJDJK": 1
+   },
+   {
+    "DGIJCGLPDPI": 3122,
+    "ECKFGHMJDJK": 4
+   },
+   {
+    "DGIJCGLPDPI": 3123
+   }
+  ],
+  "ELKKIAIGOBK": 30011,
+  "GIEFGHHKGDD": 11305,
+  "IAGMADCJGIA": [
+   311,
+   312,
+   313,
+   314,
+   315,
+   316
+  ]
+ },
+ {
+  "CBJGLADMBHG": [
+   11371,
+   11372
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   11374,
+   11375,
+   10101,
+   10102
+  ],
+  "ELKKIAIGOBK": 37011,
+  "GIEFGHHKGDD": 11373,
+  "IDLNEHLBGAJ": "Talent_Test_NoStar",
+  "NEMHOCMDGNM": 20000
+ },
+ {
+  "CBJGLADMBHG": [
+   100540,
+   10365
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10101,
+   10102,
+   10364
+  ],
+  "ELKKIAIGOBK": 38001,
+  "GIEFGHHKGDD": 10362
+ },
+ {
+  "CBJGLADMBHG": [
+   10461,
+   10462
+  ],
+  "CDKFLDLHCAD": "None",
+  "DPEGKJDJEPK": [
+   10081,
+   10101,
+   10001,
+   10102
+  ],
+  "ELKKIAIGOBK": 46011,
+  "GIEFGHHKGDD": 10463,
+  "IDLNEHLBGAJ": "Talent_Kaeya"
+ }
 ]
