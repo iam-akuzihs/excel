@@ -1,0 +1,65 @@
+[
+ {
+  "BNHKNAAIEEL": [],
+  "abilityName": "",
+  "JDGCLCFGDKO": "SGV_EnergyCaster_QRCode",
+  "HEBNAFBCDMJ": 2,
+  "id": 1,
+  "actionType": "OpenInfoPage",
+  "triggerType": "Loading"
+ },
+ {
+  "BNHKNAAIEEL": [],
+  "abilityName": "",
+  "JDGCLCFGDKO": "SGV_EnergyCaster_Camera",
+  "HEBNAFBCDMJ": 2,
+  "id": 2,
+  "actionType": "ChangeCamera",
+  "triggerType": "Loading"
+ },
+ {
+  "BNHKNAAIEEL": [],
+  "abilityName": "SceneObj_Area_Fd_Property_Ani_Prop_EnergyCaster_Operator_01_CameraAim_Ability",
+  "JDGCLCFGDKO": "SGV_EnergyCaster_Camera",
+  "HEBNAFBCDMJ": 2,
+  "id": 3,
+  "actionType": "TriggerAbility",
+  "triggerType": "Loading"
+ },
+ {
+  "BNHKNAAIEEL": [],
+  "abilityName": "SceneObj_Area_Fd_Property_Ani_Prop_EnergyCaster_Operator_01_CellClick_Ability",
+  "JDGCLCFGDKO": "SGV_EnergyCaster_Cell",
+  "HEBNAFBCDMJ": 0,
+  "id": 4,
+  "actionType": "TriggerAbility",
+  "triggerType": "Clicking"
+ },
+ {
+  "BNHKNAAIEEL": [],
+  "abilityName": "SceneObj_Area_Fd_Property_Ani_Prop_EnergyCaster_Operator_01_CellAim_Ability",
+  "JDGCLCFGDKO": "SGV_EnergyCaster_Cell",
+  "HEBNAFBCDMJ": 0,
+  "id": 5,
+  "actionType": "TriggerAbility",
+  "triggerType": "Aiming"
+ },
+ {
+  "BNHKNAAIEEL": [],
+  "abilityName": "SceneObj_Area_Fd_Property_Ani_Prop_EnergyCaster_Operator_01_CellExit_Ability",
+  "JDGCLCFGDKO": "SGV_EnergyCaster_Cell",
+  "HEBNAFBCDMJ": 0,
+  "id": 6,
+  "actionType": "TriggerAbility",
+  "triggerType": "Exit"
+ },
+ {
+  "BNHKNAAIEEL": [],
+  "abilityName": "SceneObj_Area_Fd_Property_Ani_Prop_EnergyCaster_Operator_01_QRCode_Ability",
+  "JDGCLCFGDKO": "SGV_EnergyCaster_QRCode",
+  "HEBNAFBCDMJ": 2,
+  "id": 7,
+  "actionType": "TriggerAbility",
+  "triggerType": "Loading"
+ }
+]

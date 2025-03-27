@@ -1,0 +1,554 @@
+[
+ {
+  "guideName": "GuideWeaponChange",
+  "openState": "OPEN_STATE_WEAPON_CHANGE_GUIDE",
+  "type": "GET_NEW_ITEM",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideAvatarUpgrade",
+  "openState": "OPEN_STATE_PLAYER_LVUP_GUIDE",
+  "type": "GET_NEW_ITEM",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideRelic",
+  "openState": "OPEN_STATE_GUIDE_RELIC",
+  "type": "GET_NEW_ITEM",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideWeaponUpgrade",
+  "openState": "OPEN_STATE_WEAPON_PROMOTE_GUIDE",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideTalent",
+  "openState": "OPEN_STATE_GUIDE_TALENT",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideRelicPromote",
+  "openState": "OPEN_STATE_GUIDE_RELIC_PROM",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideGacha",
+  "openState": "OPEN_STATE_GUIDE_GACHA",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideTeam",
+  "openState": "OPEN_STATE_NONE",
+  "type": "HAS_AVATAR_NUM",
+  "param1": 5
+ },
+ {
+  "guideName": "GuideAvatarPromote",
+  "openState": "OPEN_STATE_NONE",
+  "type": "ANY_AVATAR_LEVEL",
+  "param1": 20
+ },
+ {
+  "guideName": "GuideBag",
+  "openState": "OPEN_STATE_GUIDE_BAG",
+  "type": "GET_NEW_ITEM",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideMultiplayer",
+  "openState": "OPEN_STATE_GUIDE_MULTIPLAYER",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideDungeonReward",
+  "openState": "OPEN_STATE_GUIDE_DUNGEONREWARD",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuidePersonalLine",
+  "openState": "OPEN_STATE_GUIDE_PERSONAL_LINE",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideAppearance",
+  "openState": "OPEN_STATE_GUIDE_APPEARANCE",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuidePersonalLineKey",
+  "openState": "OPEN_STATE_GUIDE_PERSONAL_LINE_KEY",
+  "type": "PERSONALLINE_KEY",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideProcess",
+  "openState": "OPEN_STATE_GUIDE_PROCESS",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideWidget",
+  "openState": "OPEN_STATE_GUIDE_WIDGET",
+  "type": "GET_NEW_ITEM",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideExitMultiplayer",
+  "openState": "OPEN_STATE_GUIDE_EXITMULTIPLAYER",
+  "type": "WORLDPLAYER_UPDATE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideColdClimateEntry",
+  "openState": "OPEN_STATE_GUIDE_COLDCLIMATE",
+  "type": "CLIMATE_TYPE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideTheatreMachanicusBuildios",
+  "openState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_BUILD",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideTheatreMachanicusRebuildios",
+  "openState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_REBUILD",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideTheatreMachanicusCardios",
+  "openState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_CARD",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideTheatreMachanicusMissionCheck",
+  "openState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_MISSION_CHECK",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideTheatreMachanicusBuildSelect",
+  "openState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_BUILD_SELECT",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideTheatreMachanicusChallegeStart",
+  "openState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_CHALLENGE_START",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideTheatreMachanicusMonsterios",
+  "openState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_MONSTER",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideSynthesisConvert",
+  "openState": "OPEN_STATE_GUIDE_CONVERT",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideTheatreMachanicusMultiplayerios",
+  "openState": "OPEN_STATE_GUIDE_THEATREMACHANICUS_MULTIPLAYER",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideCoopTask",
+  "openState": "OPEN_STATE_GUIDE_COOP_TASK",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideAdeptiAbode",
+  "openState": "OPEN_STATE_GUIDE_HOMEWORLD_ADEPTIABODE",
+  "type": "GET_NEW_ITEM",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideChannellerSlabEquip",
+  "openState": "OPEN_STATE_GUIDE_CHANNELLERSLAB_EQUIP",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideChannellerSlabMpSolution",
+  "openState": "OPEN_STATE_GUIDE_CHANNELLERSLAB_MP_SOLUTION",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideChannellerSlabPower",
+  "openState": "OPEN_STATE_GUIDE_CHANNELLERSLAB_POWER",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideHomeMapList",
+  "openState": "OPEN_STATE_GUIDE_HOMEWORLD_MAPLIST",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideRelicResolve",
+  "openState": "OPEN_STATE_GUIDE_RELICRESOLVE",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideGguideHint",
+  "openState": "OPEN_STATE_GUIDE_GGUIDE_HINT",
+  "type": "PUSHTIPS_NOTIFY_FINISH",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideGguide",
+  "openState": "OPEN_STATE_GUIDE_GGUIDE",
+  "type": "NEW_PUSHTIPS",
+  "param1": 0
+ },
+ {
+  "guideName": "GuidePlayerLvInfo",
+  "openState": "OPEN_STATE_GUIDE_PAIMON_LVINFO",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideFlyStart",
+  "openState": "OPEN_STATE_GUIDE_FLY_SECOND",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideSumoTeamSkill",
+  "openState": "OPEN_STATE_GUIDE_SUMO_TEAM_SKILL",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideFishRecipe",
+  "openState": "OPEN_STATE_GUIDE_FISH_RECIPE",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideQuickTeamMemberChange",
+  "openState": "OPEN_STATE_GUIDE_QUICK_TEAMMEMBERCHANGE",
+  "type": "HAS_AVATAR_NUM",
+  "param1": 5
+ },
+ {
+  "guideName": "GuideFragileResin",
+  "openState": "OPEN_STATE_GUIDE_FRAGILE_RESIN",
+  "type": "GET_NEW_ITEM",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideWidgetQuickSwitch1",
+  "openState": "OPEN_STATE_WIDGET_QUICK_SWITCH_GUIDE",
+  "type": "GET_NEW_ITEM",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideWidgetQuickSwitch2ios",
+  "openState": "OPEN_STATE_WIDGET_QUICK_SWITCH_GUIDE_IOS",
+  "type": "GET_NEW_ITEM",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideWidgetQuickSwitch2PC",
+  "openState": "OPEN_STATE_WIDGET_QUICK_SWITCH_GUIDE_PC",
+  "type": "GET_NEW_ITEM",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideWidgetQuickSwitch2PS",
+  "openState": "OPEN_STATE_WIDGET_QUICK_SWITCH_GUIDE_PS",
+  "type": "GET_NEW_ITEM",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideDive",
+  "openState": "OPEN_STATE_GUIDE_DIVE",
+  "type": "CAN_DIVE_UNLOCK",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideAbilityFish",
+  "openState": "OPEN_STATE_GUIDE_ABILITY_FISH",
+  "type": "CAN_DIVE_UNLOCK",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideRancourUpgrade",
+  "openState": "OPEN_STATE_GUIDE_RANCOUR_UPGRADE",
+  "type": "GET_NEW_ITEM",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideRancourPromote",
+  "openState": "OPEN_STATE_GUIDE_RANCOUR_PROMOTE",
+  "type": "GET_NEW_ITEM",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideWeaponUpgradeHighlevel",
+  "openState": "OPEN_STATE_GUIDE_WEAPON_UPGRADE_HIGHLEVEL",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideOceanCurrent",
+  "openState": "OPEN_STATE_GUIDE_OCEANCURRENT",
+  "type": "CAN_DIVE_UNLOCK",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideDiveButton",
+  "openState": "OPEN_STATE_GUIDE_DIVEAXISBUTTON",
+  "type": "CAN_DIVE_UNLOCK",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideDailyAttendanceLevel",
+  "openState": "OPEN_STATE_DAILY_ATTENDANCE_GUIDE_PRE",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideDailyAttendanceQuest",
+  "openState": "OPEN_STATE_DAILY_ATTENDANCE_GUIDE_PRE",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideGCGHandbookButton",
+  "openState": "OPEN_STATE_GCG_HANDBOOK_GUIDE",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideGCGDeckCodeButton",
+  "openState": "OPEN_STATE_GUIDE_GCG_DECKCODE",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideNeuvilletteSkill",
+  "openState": "OPEN_STATE_GUIDE_NEUVILLETTE_SKILL",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideFungusFighterV3Setting",
+  "openState": "OPEN_STATE_GUIDE_FUNGUSFIGHTERV3_CONTROL_SWITCH",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideTrainGuideDailyFailTip",
+  "openState": "OPEN_STATE_TRAINGUIDE_DAILY_FAIL_TIP_ISFINISHED",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideTrainGuideLevelBreakFail25",
+  "openState": "OPEN_STATE_TRAINGUIDE_LEVELBREAK_FAIL_25_ISFINISHED",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideTrainGuideLevelBreakFail35",
+  "openState": "OPEN_STATE_TRAINGUIDE_LEVELBREAK_FAIL_35_ISFINISHED",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideTrainGuideLevelBreakFail45",
+  "openState": "OPEN_STATE_TRAINGUIDE_LEVELBREAK_FAIL_45_ISFINISHED",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideTrainGuideFirstLevelUp",
+  "openState": "OPEN_STATE_NONE",
+  "type": "PLAYER_LEVEL",
+  "param1": 12
+ },
+ {
+  "guideName": "GuideTrainGuideCharacterEntryTip",
+  "openState": "OPEN_STATE_TRAINGUIDE_CHARACTER_ENTRY_TIP",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideQuestFocusMode",
+  "openState": "OPEN_STATE_QUEST_FOCUS_GUIDE",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideRemusDashSwitch",
+  "openState": "OPEN_STATE_GUIDE_REMUS_DASH_QTE_SWITCH",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideRoleCombat01",
+  "openState": "OPEN_STATE_GUIDE_ROLE_COMBAT_01",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideRoleCombat02",
+  "openState": "OPEN_STATE_GUIDE_ROLE_COMBAT_02",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideRoleCombat03",
+  "openState": "OPEN_STATE_GUIDE_ROLE_COMBAT_03",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideReunionV2",
+  "openState": "OPEN_STATE_GUIDE_REUNION_ENTRY",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideXilonenSkill",
+  "openState": "OPEN_STATE_GUIDE_Xilonen_Skill",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideCombineCalculate",
+  "openState": "OPEN_STATE_COMBINE_CALCULATE",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideRoleCombatBuild",
+  "openState": "OPEN_STATE_ROLE_COMBAT_GUIDE_BUILD_CARD",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideQuestAbyssWar",
+  "openState": "OPEN_STATE_ABYSSWAR_MAP",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideBoltbugNet",
+  "openState": "OPEN_STATE_BOLTBUG_NET",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideInstrumentSet",
+  "openState": "OPEN_STATE_INSTRUMENT_SETTING",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideMusicUgc_01",
+  "openState": "OPEN_STATE_GUIDE_MUSIC_GAME_BOOK_EDITOR_EDIT",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideMusicUgc_02",
+  "openState": "OPEN_STATE_GUIDE_MUSIC_GAME_BOOK_TIMELINE_EDIT",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideMusicSetting",
+  "openState": "OPEN_STATE_GUIDE_MUSIC_GAME_BOOK_SETTING",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideMusicPerference",
+  "openState": "OPEN_STATE_GUIDE_MUSIC_GAME_BOOK_PERFERENCE",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideCoChallenge",
+  "openState": "OPEN_STATE_GUIDE_COCHALLENGE",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideArtifactLock1",
+  "openState": "OPEN_STATE_GUIDE_ARTIFACT_LOCK",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideArtifactLock2",
+  "openState": "OPEN_STATE_GUIDE_ARTIFACT_LOCK",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideTaskSelectSwitch",
+  "openState": "OPEN_STATE_GUIDE_TALK_SELECT_SWITCH",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideCharacterWeaponScreen1",
+  "openState": "OPEN_STATE_CHARACTER_WEAPON_SCREEN",
+  "type": "PLAYER_LEVEL",
+  "param1": 40
+ },
+ {
+  "guideName": "GuideCharacterWeaponScreen2",
+  "openState": "OPEN_STATE_CHARACTER_WEAPON_SCREEN",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideGreetingCard",
+  "openState": "OPEN_STATE_GUIDE_GREETINGCARD",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideFishingJoy",
+  "openState": "OPEN_STATE_GUIDE_FISHINGJOY",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideTButtonContinuousClickPS",
+  "openState": "OPEN_STATE_GUIDE_T_BUTTON_CONTINUOUS_CLICK_PS",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ },
+ {
+  "guideName": "GuideBrickBreakerV2Tutorial",
+  "openState": "OPEN_STATE_GUIDE_BRICKBREAKERV2_TUTORIAL",
+  "type": "OPENSTATE_CHANGE",
+  "param1": 0
+ }
+]

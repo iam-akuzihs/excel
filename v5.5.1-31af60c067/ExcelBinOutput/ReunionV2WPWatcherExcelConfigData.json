@@ -1,0 +1,82 @@
+[
+ {
+  "KDCNNGNJFHH": "REUNION_V2_WP_JUMP_TYPE_HANDBOOK",
+  "KEAMJFCJNFK": 10001,
+  "EIAPFMNOFAI": 2566639381,
+  "HIODAAOJKBE": 14,
+  "EHIALDGDBBJ": true,
+  "HNFAHAKCINN": 40,
+  "descTextMapHash": 3629418988,
+  "triggerConfig": {
+   "paramList": [
+    "106",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_COST_MATERIAL"
+  },
+  "progress": 100,
+  "id": 53101,
+  "isDisuse": false
+ },
+ {
+  "KDCNNGNJFHH": "REUNION_V2_WP_JUMP_TYPE_AREA",
+  "KEAMJFCJNFK": 10001,
+  "EIAPFMNOFAI": 2191489109,
+  "HIODAAOJKBE": 18,
+  "EHIALDGDBBJ": false,
+  "HNFAHAKCINN": 30,
+  "descTextMapHash": 182147084,
+  "triggerConfig": {
+   "paramList": [
+    "1",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_REUNION_FINISH_WATCHER"
+  },
+  "progress": 1,
+  "id": 53103,
+  "isDisuse": false
+ },
+ {
+  "KDCNNGNJFHH": "REUNION_V2_WP_JUMP_TYPE_AVATAR",
+  "KEAMJFCJNFK": 10001,
+  "EIAPFMNOFAI": 2165463501,
+  "HIODAAOJKBE": 6,
+  "EHIALDGDBBJ": false,
+  "HNFAHAKCINN": 40,
+  "descTextMapHash": 2094869916,
+  "triggerConfig": {
+   "paramList": [
+    "3",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_REUNION_FINISH_WATCHER"
+  },
+  "progress": 1,
+  "id": 53104,
+  "isDisuse": false
+ },
+ {
+  "KDCNNGNJFHH": "REUNION_V2_WP_JUMP_TYPE_QUEST",
+  "KEAMJFCJNFK": 10001,
+  "EIAPFMNOFAI": 3549700157,
+  "HIODAAOJKBE": 1,
+  "EHIALDGDBBJ": false,
+  "HNFAHAKCINN": 60,
+  "descTextMapHash": 1171138916,
+  "triggerConfig": {
+   "paramList": [
+    "2",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_REUNION_FINISH_WATCHER"
+  },
+  "progress": 1,
+  "id": 53102,
+  "isDisuse": false
+ }
+]
