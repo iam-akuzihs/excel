@@ -1,0 +1,216 @@
+[
+  {
+    "id": 1,
+    "OGBJLDHEDDI": "WIDGET_SEEKER_TARGET_SEELIE",
+    "IADFGMBPGHN": "MarkClientDetectorSeelie",
+    "JKJLONAKGCL": [
+      70710010,
+      70720217,
+      70310190,
+      70330741
+    ],
+    "NAKELKNNHJL": [
+      {
+        "type": "WIDGET_SEEKER_REMOVE_DISTANCE_LESS",
+        "paramList": [
+          2
+        ]
+      },
+      {
+        "paramList": []
+      }
+    ],
+    "JCEEKJDHKPB": true,
+    "guideOpenState": "OPEN_STATE_GUIDE_WIDGET_SEEKER_SEELIE",
+    "GGFKEANMFEO": 13480
+  },
+  {
+    "id": 2,
+    "OGBJLDHEDDI": "WIDGET_SEEKER_TARGET_CHALLENGE",
+    "IADFGMBPGHN": "MarkClientDetectorChallenge",
+    "JKJLONAKGCL": [
+      70350082,
+      70350457,
+      70350084,
+      70350083,
+      70330334,
+      70330344,
+      70330343,
+      70350092,
+      70350094,
+      70350357,
+      70350093,
+      70350250,
+      70350458,
+      70330438,
+      70330440,
+      70330439,
+      70330763,
+      70330658,
+      70330735,
+      70330765,
+      70330660,
+      70330737,
+      70330764,
+      70330659,
+      70330736
+    ],
+    "NAKELKNNHJL": [
+      {
+        "type": "WIDGET_SEEKER_REMOVE_DISTANCE_LESS",
+        "paramList": [
+          2
+        ]
+      },
+      {
+        "type": "WIDGET_SEEKER_REMOVE_STATE_ID_INEQUAL",
+        "paramList": [
+          0
+        ]
+      }
+    ],
+    "JCEEKJDHKPB": true,
+    "guideOpenState": "OPEN_STATE_GUIDE_WIDGET_SEEKER_SEELIE",
+    "GGFKEANMFEO": 13480,
+    "BGMMHLECAAA": true
+  },
+  {
+    "id": 3,
+    "OGBJLDHEDDI": "WIDGET_SEEKER_TARGET_WARM_SEELIE",
+    "IADFGMBPGHN": "MarkClientDetectorSeelie",
+    "JKJLONAKGCL": [
+      70720214
+    ],
+    "NAKELKNNHJL": [
+      {
+        "type": "WIDGET_SEEKER_REMOVE_DISTANCE_LESS",
+        "paramList": [
+          2
+        ]
+      },
+      {
+        "paramList": []
+      }
+    ],
+    "JCEEKJDHKPB": true,
+    "guideOpenState": "OPEN_STATE_GUIDE_WIDGET_SEEKER_SEELIE",
+    "GGFKEANMFEO": 13480
+  },
+  {
+    "id": 4,
+    "OGBJLDHEDDI": "WIDGET_SEEKER_TARGET_THUNDERSEED",
+    "IADFGMBPGHN": "MarkClientDetectorSeelie",
+    "JKJLONAKGCL": [
+      70350292
+    ],
+    "NAKELKNNHJL": [
+      {
+        "type": "WIDGET_SEEKER_REMOVE_DISTANCE_LESS",
+        "paramList": [
+          2
+        ]
+      },
+      {
+        "type": "WIDGET_SEEKER_REMOVE_STATE_ID_INEQUAL",
+        "paramList": [
+          0
+        ]
+      }
+    ],
+    "JCEEKJDHKPB": true,
+    "guideOpenState": "OPEN_STATE_GUIDE_WIDGET_SEEKER_SEELIE",
+    "GGFKEANMFEO": 13480
+  },
+  {
+    "id": 5,
+    "OGBJLDHEDDI": "WIDGET_SEEKER_TARGET_GRAFFITI_SEELIE",
+    "IADFGMBPGHN": "MarkClientDetectorSeelie",
+    "JKJLONAKGCL": [
+      70801090
+    ],
+    "NAKELKNNHJL": [
+      {
+        "type": "WIDGET_SEEKER_REMOVE_DISTANCE_LESS",
+        "paramList": [
+          2
+        ]
+      },
+      {
+        "paramList": []
+      }
+    ],
+    "JCEEKJDHKPB": true,
+    "guideOpenState": "OPEN_STATE_GUIDE_WIDGET_SEEKER_SEELIE",
+    "GGFKEANMFEO": 13480
+  },
+  {
+    "id": 6,
+    "OGBJLDHEDDI": "WIDGET_SEEKER_TARGET_CHEST",
+    "IADFGMBPGHN": "MarkClientDetector",
+    "JKJLONAKGCL": [
+      70210063,
+      70211001,
+      70211002,
+      70211011,
+      70211012,
+      70211021,
+      70211022,
+      70211031,
+      70211032,
+      70211101,
+      70211102,
+      70211103,
+      70211104,
+      70211111,
+      70211112,
+      70211121,
+      70211122,
+      70211123,
+      70211131,
+      70211132,
+      70211150,
+      70211151,
+      70292108,
+      70292111,
+      70292112,
+      70211185,
+      70211186,
+      70211187,
+      70211188,
+      70211189,
+      70211190,
+      70211191,
+      70211192,
+      70211193,
+      70211194,
+      70211195,
+      70211196,
+      70211197,
+      70211198,
+      70211199,
+      70211200,
+      70211201,
+      70211202,
+      70210136,
+      70801130,
+      73005116,
+      73005118,
+      73005120,
+      73005122,
+      73005141,
+      73005236
+    ],
+    "NAKELKNNHJL": [
+      {
+        "type": "WIDGET_SEEKER_REMOVE_STATE_ID_EQUAL",
+        "paramList": [
+          102
+        ]
+      },
+      {
+        "paramList": []
+      }
+    ],
+    "JCEEKJDHKPB": true
+  }
+]

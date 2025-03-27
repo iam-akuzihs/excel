@@ -1,0 +1,36 @@
+[
+  {
+    "scheduleId": 2010001,
+    "sensitivityFreeRotation": 180,
+    "sensitivitySingleAxisRotation": 180,
+    "sensitivitySingleAxisTranslation": 5,
+    "sensitivityFreeRotationJoypad": 2,
+    "sensitivitySingleAxisRotationJoypad": 4,
+    "sensitivitySingleAxisTranslationJoypad": 0.03,
+    "pushTipsIdJoypad": 11019,
+    "pushTipsIdTouch": 11020,
+    "pushTipsIdMouse": 11021,
+    "timeThresholdUnlockAnswer": 120,
+    "timeThresholdShowStandbyPrompt": 10,
+    "timeThresholdShowContinuousProgress": 120,
+    "leadGuides": [
+      "GuideProjectionGameRotationXYpc",
+      "GuideProjectionGameRotationXYios",
+      "GuideProjectionGameRotationXYps4"
+    ],
+    "guides": [
+      "GuideProjectionGameRotationXYpc",
+      "GuideProjectionGameRotationXYios",
+      "GuideProjectionGameRotationXYps4",
+      "GuideProjectionGameRotationZpc",
+      "GuideProjectionGameRotationZios",
+      "GuideProjectionGameRotationZps4",
+      "GuideProjectionGameSwitchpc",
+      "GuideProjectionGameSwitchios",
+      "GuideProjectionGameSwitchps4"
+    ],
+    "guideQuestId": 40040,
+    "nameTextMapHash": 1376840672,
+    "descTextMapHash": 3157102895
+  }
+]
