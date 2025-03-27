@@ -1,4350 +1,4350 @@
 [
-  {
-    "id": 1001,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_hengzhundating",
-    "regionType": "SUBAREA",
-    "regionID": "2706",
-    "upFlowPass": [
-      {
-        "id": 1002,
-        "pathPoint": ""
-      },
-      {
-        "id": 1050,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
+ {
+  "id": 1001,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_hengzhundating",
+  "regionType": "SUBAREA",
+  "regionID": "2706",
+  "upFlowPass": [
+   {
     "id": 1002,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_dueting",
-    "regionType": "SUBAREA",
-    "regionID": "2705",
-    "upFlowPass": [
-      {
-        "id": 1003,
-        "pathPoint": ""
-      },
-      {
-        "id": 1050,
-        "pathPoint": ""
-      },
-      {
-        "id": 1001,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1003,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_duetingchuansong",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_duetingchuansong",
-    "upFlowPass": [
-      {
-        "id": 1004,
-        "pathPoint": ""
-      },
-      {
-        "id": 1002,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ],
-    "isTransport": true,
-    "unlockWatcher": 9016
-  },
-  {
-    "id": 1004,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_duetingrukou03",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_duetingrukou03",
-    "upFlowPass": [
-      {
-        "id": 1005,
-        "pathPoint": ""
-      },
-      {
-        "id": 1003,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1005,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_duetingrukou02",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_duetingrukou02",
-    "upFlowPass": [
-      {
-        "id": 1006,
-        "pathPoint": ""
-      },
-      {
-        "id": 1004,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1006,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_duetingrukou01",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_duetingrukou01",
-    "upFlowPass": [
-      {
-        "id": 1007,
-        "pathPoint": ""
-      },
-      {
-        "id": 1005,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1007,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_rukouchuansong",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_rukouchuansong",
-    "upFlowPass": [
-      {
-        "id": 1011,
-        "pathPoint": ""
-      },
-      {
-        "id": 1018,
-        "pathPoint": ""
-      },
-      {
-        "id": 1006,
-        "pathPoint": ""
-      },
-      {
-        "id": 1024,
-        "pathPoint": ""
-      },
-      {
-        "id": 1025,
-        "pathPoint": ""
-      },
-      {
-        "id": 1010,
-        "pathPoint": ""
-      }
-    ],
-    "isTransport": true,
-    "unlockWatcher": 9017
-  },
-  {
-    "id": 1008,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_mushroomentry",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_mushroomentry",
-    "upFlowPass": [
-      {
-        "id": 1007,
-        "pathPoint": ""
-      },
-      {
-        "id": 1009,
-        "pathPoint": ""
-      },
-      {
-        "id": 1010,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1009,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_mushroom",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_mushroom",
-    "upFlowPass": [
-      {
-        "id": 1008,
-        "pathPoint": ""
-      },
-      {
-        "id": 1010,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1010,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_mushroomexit",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_mushroomexit",
-    "upFlowPass": [
-      {
-        "id": 1009,
-        "pathPoint": ""
-      },
-      {
-        "id": 1007,
-        "pathPoint": ""
-      },
-      {
-        "id": 1025,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1011,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_rukoutopyramid",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_rukoutopyramid",
-    "upFlowPass": [
-      {
-        "id": 1012,
-        "pathPoint": ""
-      },
-      {
-        "id": 1007,
-        "pathPoint": ""
-      },
-      {
-        "id": 1008,
-        "pathPoint": ""
-      },
-      {
-        "id": 1010,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1012,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_rukouroute01",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_rukouroute01",
-    "upFlowPass": [
-      {
-        "id": 1013,
-        "pathPoint": ""
-      },
-      {
-        "id": 1011,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1013,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_rukouroute02",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_rukouroute02",
-    "upFlowPass": [
-      {
-        "id": 1014,
-        "pathPoint": ""
-      },
-      {
-        "id": 1012,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1014,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_rukouroute03",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_rukouroute03",
-    "upFlowPass": [
-      {
-        "id": 1015,
-        "pathPoint": ""
-      },
-      {
-        "id": 1013,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1015,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_pyramid01",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_pyramid01",
-    "upFlowPass": [
-      {
-        "id": 1016,
-        "pathPoint": ""
-      },
-      {
-        "id": 1014,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1016,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_pyramid02",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_pyramid02",
-    "upFlowPass": [
-      {
-        "id": 1017,
-        "pathPoint": ""
-      },
-      {
-        "id": 1015,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1017,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_pyramidchuansong",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_pyramidchuansong",
-    "upFlowPass": [
-      {
-        "id": 1029,
-        "pathPoint": ""
-      },
-      {
-        "id": 1016,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ],
-    "isTransport": true,
-    "unlockWatcher": 9020
-  },
-  {
-    "id": 1018,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_rukoutojinrudown01",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_rukoutojinrudown01",
-    "upFlowPass": [
-      {
-        "id": 1007,
-        "pathPoint": ""
-      },
-      {
-        "id": 1019,
-        "pathPoint": ""
-      },
-      {
-        "id": 1010,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1019,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_rukoutojinrudown02",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_rukoutojinrudown02",
-    "upFlowPass": [
-      {
-        "id": 1018,
-        "pathPoint": ""
-      },
-      {
-        "id": 1020,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1020,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_rukoutojinrudown03",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_rukoutojinrudown03",
-    "upFlowPass": [
-      {
-        "id": 1019,
-        "pathPoint": ""
-      },
-      {
-        "id": 1021,
-        "pathPoint": ""
-      },
-      {
-        "id": 1032,
-        "unlockWatcher": 9052,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1021,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_underwaterentrydown",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_underwaterentrydown",
-    "upFlowPass": [
-      {
-        "id": 1020,
-        "pathPoint": ""
-      },
-      {
-        "id": 1028,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1022,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_underwaterentryup01",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_underwaterentryup01",
-    "upFlowPass": [
-      {
-        "id": 1023,
-        "pathPoint": ""
-      },
-      {
-        "id": 1028,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1023,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_underwaterentryup02",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_underwaterentryup02",
-    "upFlowPass": [
-      {
-        "id": 1024,
-        "pathPoint": ""
-      },
-      {
-        "id": 1022,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1024,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_underwaterentryup03",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_underwaterentryup03",
-    "upFlowPass": [
-      {
-        "id": 1007,
-        "pathPoint": ""
-      },
-      {
-        "id": 1006,
-        "pathPoint": ""
-      },
-      {
-        "id": 1023,
-        "pathPoint": ""
-      },
-      {
-        "id": 1025,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1025,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_rukoutojinruup01",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_rukoutojinruup01",
-    "upFlowPass": [
-      {
-        "id": 1007,
-        "pathPoint": ""
-      },
-      {
-        "id": 1026,
-        "pathPoint": ""
-      },
-      {
-        "id": 1024,
-        "pathPoint": ""
-      },
-      {
-        "id": 1006,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1026,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_rukoutojinruup02",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_rukoutojinruup02",
-    "upFlowPass": [
-      {
-        "id": 1025,
-        "pathPoint": ""
-      },
-      {
-        "id": 1027,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1027,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_rukoutojinruup03",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_rukoutojinruup03",
-    "upFlowPass": [
-      {
-        "id": 1026,
-        "pathPoint": ""
-      },
-      {
-        "id": 1034,
-        "unlockWatcher": 9053,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1028,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_shuimozhijian",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_shuimozhijian",
-    "upFlowPass": [
-      {
-        "id": 1021,
-        "pathPoint": ""
-      },
-      {
-        "id": 1022,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1029,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "",
-    "regionType": "BIGWORLD",
-    "regionID": "",
-    "upFlowPass": [
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1030,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_jinruchuansong",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_jinruchuansong",
-    "upFlowPass": [
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ],
-    "isTransport": true,
-    "unlockWatcher": 9013
-  },
-  {
-    "id": 1031,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_jinrudongku",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_jinrudongku",
-    "upFlowPass": [
-      {
-        "id": 1030,
-        "pathPoint": "DeshretPoint_jinruzhiyin01"
-      },
-      {
-        "id": 1032,
-        "pathPoint": ""
-      },
-      {
-        "id": 1033,
-        "pathPoint": ""
-      },
-      {
-        "id": 1035,
-        "pathPoint": ""
-      },
-      {
-        "id": 1036,
-        "pathPoint": ""
-      },
-      {
-        "id": 1037,
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1032,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_jinrutorukoudown",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_jinrutorukoudown",
-    "upFlowPass": [
-      {
-        "id": 1031,
-        "pathPoint": ""
-      },
-      {
-        "id": 1020,
-        "unlockWatcher": 9052,
-        "pathPoint": "DeshretPoint_jinruzhiyin02"
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1033,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_jinrutorukouup01",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_jinrutorukouup01",
-    "upFlowPass": [
-      {
-        "id": 1031,
-        "pathPoint": ""
-      },
-      {
-        "id": 1034,
-        "pathPoint": ""
-      },
-      {
-        "id": 1035,
-        "pathPoint": ""
-      },
-      {
-        "id": 1036,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1034,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_jinrutorukouup02",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_jinrutorukouup02",
-    "upFlowPass": [
-      {
-        "id": 1033,
-        "pathPoint": "DeshretPoint_jinruzhiyin03"
-      },
-      {
-        "id": 1027,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1035,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_jinruuproom",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_jinruuproom",
-    "upFlowPass": [
-      {
-        "id": 1031,
-        "pathPoint": ""
-      },
-      {
-        "id": 1033,
-        "pathPoint": ""
-      },
-      {
-        "id": 1036,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1036,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_jinrutosiyu",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_jinrutosiyu",
-    "upFlowPass": [
-      {
-        "id": 1031,
-        "pathPoint": ""
-      },
-      {
-        "id": 1033,
-        "pathPoint": ""
-      },
-      {
-        "id": 1035,
-        "pathPoint": ""
-      },
-      {
-        "id": 1053,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1037,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_jinrutomishi01",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_jinrutomishi01",
-    "upFlowPass": [
-      {
-        "id": 1031,
-        "pathPoint": ""
-      },
-      {
-        "id": 1033,
-        "pathPoint": ""
-      },
-      {
-        "id": 1035,
-        "pathPoint": ""
-      },
-      {
-        "id": 1036,
-        "pathPoint": ""
-      },
-      {
-        "id": 1038,
-        "unlockWatcher": 9054,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1038,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_jinrutomishi02",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_jinrutomishi02",
-    "upFlowPass": [
-      {
-        "id": 1037,
-        "unlockWatcher": 9054,
-        "pathPoint": ""
-      },
-      {
-        "id": 1039,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1039,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_jinrutomishi03",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_jinrutomishi03",
-    "upFlowPass": [
-      {
-        "id": 1038,
-        "pathPoint": ""
-      },
-      {
-        "id": 1040,
-        "unlockWatcher": 9055,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1040,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_jinrutomishi04",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_jinrutomishi04",
-    "upFlowPass": [
-      {
-        "id": 1039,
-        "unlockWatcher": 9055,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1041,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_jinrutoyuren01",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_jinrutoyuren01",
-    "upFlowPass": [
-      {
-        "id": 1031,
-        "pathPoint": ""
-      },
-      {
-        "id": 1035,
-        "pathPoint": ""
-      },
-      {
-        "id": 1036,
-        "pathPoint": ""
-      },
-      {
-        "id": 1037,
-        "pathPoint": ""
-      },
-      {
-        "id": 1042,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1042,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_jinrutoyuren02",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_jinrutoyuren02",
-    "upFlowPass": [
-      {
-        "id": 1041,
-        "pathPoint": ""
-      },
-      {
-        "id": 1043,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1043,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_jinrutoyuren03",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_jinrutoyuren03",
-    "upFlowPass": [
-      {
-        "id": 1042,
-        "pathPoint": ""
-      },
-      {
-        "id": 1044,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1044,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_jinrutoyuren04",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_jinrutoyuren04",
-    "upFlowPass": [
-      {
-        "id": 1043,
-        "pathPoint": ""
-      },
-      {
-        "id": 1045,
-        "pathPoint": ""
-      },
-      {
-        "id": 1049,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1045,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_jinrutoyuren05",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_jinrutoyuren05",
-    "upFlowPass": [
-      {
-        "id": 1044,
-        "pathPoint": ""
-      },
-      {
-        "id": 1046,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1046,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_jinrutoyurenroom",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_jinrutoyurenroom",
-    "upFlowPass": [
-      {
-        "id": 1045,
-        "pathPoint": ""
-      },
-      {
-        "id": 1047,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1047,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_jinrutoyuren06",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_jinrutoyuren06",
-    "upFlowPass": [
-      {
-        "id": 1046,
-        "pathPoint": ""
-      },
-      {
-        "id": 1048,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1048,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_yurentojinru",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_yurentojinru",
-    "upFlowPass": [
-      {
-        "id": 1047,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1049,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_jinrutojisi",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_jinrutojisi",
-    "upFlowPass": [
-      {
-        "id": 1044,
-        "pathPoint": ""
-      },
-      {
-        "id": 1074,
-        "unlockWatcher": 9043,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
+    "pathPoint": ""
+   },
+   {
     "id": 1050,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_xukongzhijianentry",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_xukongzhijianentry",
-    "upFlowPass": [
-      {
-        "id": 1001,
-        "pathPoint": ""
-      },
-      {
-        "id": 1002,
-        "pathPoint": ""
-      },
-      {
-        "id": 1051,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1051,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_xukongzhijianmid",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_xukongzhijianmid",
-    "upFlowPass": [
-      {
-        "id": 1050,
-        "pathPoint": ""
-      },
-      {
-        "id": 1052,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1052,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_xukongzhijian",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_xukongzhijian",
-    "upFlowPass": [
-      {
-        "id": 1051,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1002,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_dueting",
+  "regionType": "SUBAREA",
+  "regionID": "2705",
+  "upFlowPass": [
+   {
+    "id": 1003,
+    "pathPoint": ""
+   },
+   {
+    "id": 1050,
+    "pathPoint": ""
+   },
+   {
+    "id": 1001,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1003,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_duetingchuansong",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_duetingchuansong",
+  "upFlowPass": [
+   {
+    "id": 1004,
+    "pathPoint": ""
+   },
+   {
+    "id": 1002,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ],
+  "isTransport": true,
+  "unlockWatcher": 9016
+ },
+ {
+  "id": 1004,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_duetingrukou03",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_duetingrukou03",
+  "upFlowPass": [
+   {
+    "id": 1005,
+    "pathPoint": ""
+   },
+   {
+    "id": 1003,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1005,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_duetingrukou02",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_duetingrukou02",
+  "upFlowPass": [
+   {
+    "id": 1006,
+    "pathPoint": ""
+   },
+   {
+    "id": 1004,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1006,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_duetingrukou01",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_duetingrukou01",
+  "upFlowPass": [
+   {
+    "id": 1007,
+    "pathPoint": ""
+   },
+   {
+    "id": 1005,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1007,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_rukouchuansong",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_rukouchuansong",
+  "upFlowPass": [
+   {
+    "id": 1011,
+    "pathPoint": ""
+   },
+   {
+    "id": 1018,
+    "pathPoint": ""
+   },
+   {
+    "id": 1006,
+    "pathPoint": ""
+   },
+   {
+    "id": 1024,
+    "pathPoint": ""
+   },
+   {
+    "id": 1025,
+    "pathPoint": ""
+   },
+   {
+    "id": 1010,
+    "pathPoint": ""
+   }
+  ],
+  "isTransport": true,
+  "unlockWatcher": 9017
+ },
+ {
+  "id": 1008,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_mushroomentry",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_mushroomentry",
+  "upFlowPass": [
+   {
+    "id": 1007,
+    "pathPoint": ""
+   },
+   {
+    "id": 1009,
+    "pathPoint": ""
+   },
+   {
+    "id": 1010,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1009,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_mushroom",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_mushroom",
+  "upFlowPass": [
+   {
+    "id": 1008,
+    "pathPoint": ""
+   },
+   {
+    "id": 1010,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1010,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_mushroomexit",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_mushroomexit",
+  "upFlowPass": [
+   {
+    "id": 1009,
+    "pathPoint": ""
+   },
+   {
+    "id": 1007,
+    "pathPoint": ""
+   },
+   {
+    "id": 1025,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1011,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_rukoutopyramid",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_rukoutopyramid",
+  "upFlowPass": [
+   {
+    "id": 1012,
+    "pathPoint": ""
+   },
+   {
+    "id": 1007,
+    "pathPoint": ""
+   },
+   {
+    "id": 1008,
+    "pathPoint": ""
+   },
+   {
+    "id": 1010,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1012,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_rukouroute01",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_rukouroute01",
+  "upFlowPass": [
+   {
+    "id": 1013,
+    "pathPoint": ""
+   },
+   {
+    "id": 1011,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1013,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_rukouroute02",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_rukouroute02",
+  "upFlowPass": [
+   {
+    "id": 1014,
+    "pathPoint": ""
+   },
+   {
+    "id": 1012,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1014,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_rukouroute03",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_rukouroute03",
+  "upFlowPass": [
+   {
+    "id": 1015,
+    "pathPoint": ""
+   },
+   {
+    "id": 1013,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1015,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_pyramid01",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_pyramid01",
+  "upFlowPass": [
+   {
+    "id": 1016,
+    "pathPoint": ""
+   },
+   {
+    "id": 1014,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1016,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_pyramid02",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_pyramid02",
+  "upFlowPass": [
+   {
+    "id": 1017,
+    "pathPoint": ""
+   },
+   {
+    "id": 1015,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1017,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_pyramidchuansong",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_pyramidchuansong",
+  "upFlowPass": [
+   {
+    "id": 1029,
+    "pathPoint": ""
+   },
+   {
+    "id": 1016,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ],
+  "isTransport": true,
+  "unlockWatcher": 9020
+ },
+ {
+  "id": 1018,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_rukoutojinrudown01",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_rukoutojinrudown01",
+  "upFlowPass": [
+   {
+    "id": 1007,
+    "pathPoint": ""
+   },
+   {
+    "id": 1019,
+    "pathPoint": ""
+   },
+   {
+    "id": 1010,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1019,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_rukoutojinrudown02",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_rukoutojinrudown02",
+  "upFlowPass": [
+   {
+    "id": 1018,
+    "pathPoint": ""
+   },
+   {
+    "id": 1020,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1020,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_rukoutojinrudown03",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_rukoutojinrudown03",
+  "upFlowPass": [
+   {
+    "id": 1019,
+    "pathPoint": ""
+   },
+   {
+    "id": 1021,
+    "pathPoint": ""
+   },
+   {
+    "id": 1032,
+    "unlockWatcher": 9052,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1021,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_underwaterentrydown",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_underwaterentrydown",
+  "upFlowPass": [
+   {
+    "id": 1020,
+    "pathPoint": ""
+   },
+   {
+    "id": 1028,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1022,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_underwaterentryup01",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_underwaterentryup01",
+  "upFlowPass": [
+   {
+    "id": 1023,
+    "pathPoint": ""
+   },
+   {
+    "id": 1028,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1023,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_underwaterentryup02",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_underwaterentryup02",
+  "upFlowPass": [
+   {
+    "id": 1024,
+    "pathPoint": ""
+   },
+   {
+    "id": 1022,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1024,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_underwaterentryup03",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_underwaterentryup03",
+  "upFlowPass": [
+   {
+    "id": 1007,
+    "pathPoint": ""
+   },
+   {
+    "id": 1006,
+    "pathPoint": ""
+   },
+   {
+    "id": 1023,
+    "pathPoint": ""
+   },
+   {
+    "id": 1025,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1025,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_rukoutojinruup01",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_rukoutojinruup01",
+  "upFlowPass": [
+   {
+    "id": 1007,
+    "pathPoint": ""
+   },
+   {
+    "id": 1026,
+    "pathPoint": ""
+   },
+   {
+    "id": 1024,
+    "pathPoint": ""
+   },
+   {
+    "id": 1006,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1026,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_rukoutojinruup02",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_rukoutojinruup02",
+  "upFlowPass": [
+   {
+    "id": 1025,
+    "pathPoint": ""
+   },
+   {
+    "id": 1027,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1027,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_rukoutojinruup03",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_rukoutojinruup03",
+  "upFlowPass": [
+   {
+    "id": 1026,
+    "pathPoint": ""
+   },
+   {
+    "id": 1034,
+    "unlockWatcher": 9053,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1028,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_shuimozhijian",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_shuimozhijian",
+  "upFlowPass": [
+   {
+    "id": 1021,
+    "pathPoint": ""
+   },
+   {
+    "id": 1022,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1029,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "",
+  "regionType": "BIGWORLD",
+  "regionID": "",
+  "upFlowPass": [
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1030,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_jinruchuansong",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_jinruchuansong",
+  "upFlowPass": [
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ],
+  "isTransport": true,
+  "unlockWatcher": 9013
+ },
+ {
+  "id": 1031,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_jinrudongku",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_jinrudongku",
+  "upFlowPass": [
+   {
+    "id": 1030,
+    "pathPoint": "DeshretPoint_jinruzhiyin01"
+   },
+   {
+    "id": 1032,
+    "pathPoint": ""
+   },
+   {
+    "id": 1033,
+    "pathPoint": ""
+   },
+   {
+    "id": 1035,
+    "pathPoint": ""
+   },
+   {
+    "id": 1036,
+    "pathPoint": ""
+   },
+   {
+    "id": 1037,
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1032,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_jinrutorukoudown",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_jinrutorukoudown",
+  "upFlowPass": [
+   {
+    "id": 1031,
+    "pathPoint": ""
+   },
+   {
+    "id": 1020,
+    "unlockWatcher": 9052,
+    "pathPoint": "DeshretPoint_jinruzhiyin02"
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1033,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_jinrutorukouup01",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_jinrutorukouup01",
+  "upFlowPass": [
+   {
+    "id": 1031,
+    "pathPoint": ""
+   },
+   {
+    "id": 1034,
+    "pathPoint": ""
+   },
+   {
+    "id": 1035,
+    "pathPoint": ""
+   },
+   {
+    "id": 1036,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1034,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_jinrutorukouup02",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_jinrutorukouup02",
+  "upFlowPass": [
+   {
+    "id": 1033,
+    "pathPoint": "DeshretPoint_jinruzhiyin03"
+   },
+   {
+    "id": 1027,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1035,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_jinruuproom",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_jinruuproom",
+  "upFlowPass": [
+   {
+    "id": 1031,
+    "pathPoint": ""
+   },
+   {
+    "id": 1033,
+    "pathPoint": ""
+   },
+   {
+    "id": 1036,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1036,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_jinrutosiyu",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_jinrutosiyu",
+  "upFlowPass": [
+   {
+    "id": 1031,
+    "pathPoint": ""
+   },
+   {
+    "id": 1033,
+    "pathPoint": ""
+   },
+   {
+    "id": 1035,
+    "pathPoint": ""
+   },
+   {
     "id": 1053,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_jinrutosiyuentry",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_jinrutosiyuentry",
-    "upFlowPass": [
-      {
-        "id": 1036,
-        "pathPoint": ""
-      },
-      {
-        "id": 1054,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1054,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_siyu",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_siyu",
-    "upFlowPass": [
-      {
-        "id": 1053,
-        "pathPoint": "DeshretPoint_siyuzhiyin03"
-      },
-      {
-        "id": 1055,
-        "pathPoint": "DeshretPoint_siyuzhiyin02"
-      },
-      {
-        "id": 1058,
-        "pathPoint": "DeshretPoint_siyuzhiyin01"
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1055,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_siyutoyuren",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_siyutoyuren",
-    "upFlowPass": [
-      {
-        "id": 1054,
-        "pathPoint": "DeshretPoint_yurenzhiyin01"
-      },
-      {
-        "id": 1056,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1056,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_siyutoyurendown",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_siyutoyurendown",
-    "upFlowPass": [
-      {
-        "id": 1055,
-        "pathPoint": ""
-      },
-      {
-        "id": 1057,
-        "pathPoint": "DeshretPoint_yurendownzhiyin01"
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1057,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_yurenup",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_yurenup",
-    "upFlowPass": [
-      {
-        "id": 1056,
-        "pathPoint": "DeshretPoint_yurenupzhiyin01"
-      },
-      {
-        "id": 1065,
-        "pathPoint": "DeshretPoint_yurenzhiyin"
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1058,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_siyutotouming",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_siyutotouming",
-    "upFlowPass": [
-      {
-        "id": 1054,
-        "pathPoint": "DeshretPoint_toumingzhiyin01"
-      },
-      {
-        "id": 1059,
-        "pathPoint": "DeshretPoint_toumingzhiyin02"
-      },
-      {
-        "id": 1060,
-        "pathPoint": "DeshretPoint_toumingzhiyin02"
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1059,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_toumingdown",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_toumingdown",
-    "upFlowPass": [
-      {
-        "id": 1058,
-        "pathPoint": ""
-      },
-      {
-        "id": 1060,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1060,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_toumingup",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_toumingup",
-    "upFlowPass": [
-      {
-        "id": 1058,
-        "pathPoint": ""
-      },
-      {
-        "id": 1059,
-        "pathPoint": ""
-      },
-      {
-        "id": 1061,
-        "pathPoint": ""
-      },
-      {
-        "id": 1057,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1061,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_yurendown01",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_yurendown01",
-    "upFlowPass": [
-      {
-        "id": 1057,
-        "pathPoint": ""
-      },
-      {
-        "id": 1060,
-        "pathPoint": ""
-      },
-      {
-        "id": 1062,
-        "pathPoint": ""
-      },
-      {
-        "id": 1048,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1062,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_yurendown02",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_yurendown02",
-    "upFlowPass": [
-      {
-        "id": 1057,
-        "pathPoint": ""
-      },
-      {
-        "id": 1061,
-        "pathPoint": ""
-      },
-      {
-        "id": 1048,
-        "pathPoint": ""
-      },
-      {
-        "id": 1063,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1063,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_yurentojisiup",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_yurentojisiup",
-    "upFlowPass": [
-      {
-        "id": 1062,
-        "pathPoint": ""
-      },
-      {
-        "id": 1064,
-        "pathPoint": ""
-      },
-      {
-        "id": 1068,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1064,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_yurentojisidown",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_yurentojisidown",
-    "upFlowPass": [
-      {
-        "id": 1063,
-        "pathPoint": ""
-      },
-      {
-        "id": 1068,
-        "pathPoint": ""
-      },
-      {
-        "id": 1071,
-        "unlockWatcher": 9042,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1065,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_yurendamen",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_yurendamen",
-    "upFlowPass": [
-      {
-        "id": 1057,
-        "pathPoint": ""
-      },
-      {
-        "id": 1066,
-        "unlockWatcher": 9051,
-        "pathPoint": "DeshretPoint_yurendamenzhiyin"
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1066,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_yurenchuansongdown",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_yurenchuansongdown",
-    "upFlowPass": [
-      {
-        "id": 1065,
-        "unlockWatcher": 9051,
-        "pathPoint": ""
-      },
-      {
-        "id": 1067,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1067,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_yurenchuansong",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_yurenchuansong",
-    "upFlowPass": [
-      {
-        "id": 1029,
-        "pathPoint": ""
-      },
-      {
-        "id": 1066,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ],
-    "isTransport": true,
-    "unlockWatcher": 9019
-  },
-  {
-    "id": 1068,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_yurentojisiuproute",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_yurentojisiuproute",
-    "upFlowPass": [
-      {
-        "id": 1063,
-        "pathPoint": ""
-      },
-      {
-        "id": 1064,
-        "pathPoint": ""
-      },
-      {
-        "id": 1070,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1069,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_jisichuansong",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_jisichuansong",
-    "upFlowPass": [
-      {
-        "id": 1070,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ],
-    "isTransport": true,
-    "unlockWatcher": 9014
-  },
-  {
-    "id": 1070,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_jisichuansongentry",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_jisichuansongentry",
-    "upFlowPass": [
-      {
-        "id": 1068,
-        "pathPoint": ""
-      },
-      {
-        "id": 1069,
-        "pathPoint": ""
-      },
-      {
-        "id": 1078,
-        "unlockWatcher": 9057,
-        "pathPoint": "DeshretPoint_jisichuansongzhiyin"
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1071,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_jisidongkudown",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_jisidongkudown",
-    "upFlowPass": [
-      {
-        "id": 1069,
-        "pathPoint": ""
-      },
-      {
-        "id": 1072,
-        "pathPoint": ""
-      },
-      {
-        "id": 1064,
-        "unlockWatcher": 9042,
-        "pathPoint": ""
-      },
-      {
-        "id": 1074,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1072,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_jisidongkuup",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_jisidongkuup",
-    "upFlowPass": [
-      {
-        "id": 1069,
-        "pathPoint": ""
-      },
-      {
-        "id": 1071,
-        "pathPoint": ""
-      },
-      {
-        "id": 1073,
-        "pathPoint": ""
-      },
-      {
-        "id": 1077,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1073,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_chiwangzhixin",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_chiwangzhixin",
-    "upFlowPass": [
-      {
-        "id": 1072,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1037,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_jinrutomishi01",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_jinrutomishi01",
+  "upFlowPass": [
+   {
+    "id": 1031,
+    "pathPoint": ""
+   },
+   {
+    "id": 1033,
+    "pathPoint": ""
+   },
+   {
+    "id": 1035,
+    "pathPoint": ""
+   },
+   {
+    "id": 1036,
+    "pathPoint": ""
+   },
+   {
+    "id": 1038,
+    "unlockWatcher": 9054,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1038,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_jinrutomishi02",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_jinrutomishi02",
+  "upFlowPass": [
+   {
+    "id": 1037,
+    "unlockWatcher": 9054,
+    "pathPoint": ""
+   },
+   {
+    "id": 1039,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1039,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_jinrutomishi03",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_jinrutomishi03",
+  "upFlowPass": [
+   {
+    "id": 1038,
+    "pathPoint": ""
+   },
+   {
+    "id": 1040,
+    "unlockWatcher": 9055,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1040,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_jinrutomishi04",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_jinrutomishi04",
+  "upFlowPass": [
+   {
+    "id": 1039,
+    "unlockWatcher": 9055,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1041,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_jinrutoyuren01",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_jinrutoyuren01",
+  "upFlowPass": [
+   {
+    "id": 1031,
+    "pathPoint": ""
+   },
+   {
+    "id": 1035,
+    "pathPoint": ""
+   },
+   {
+    "id": 1036,
+    "pathPoint": ""
+   },
+   {
+    "id": 1037,
+    "pathPoint": ""
+   },
+   {
+    "id": 1042,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1042,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_jinrutoyuren02",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_jinrutoyuren02",
+  "upFlowPass": [
+   {
+    "id": 1041,
+    "pathPoint": ""
+   },
+   {
+    "id": 1043,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1043,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_jinrutoyuren03",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_jinrutoyuren03",
+  "upFlowPass": [
+   {
+    "id": 1042,
+    "pathPoint": ""
+   },
+   {
+    "id": 1044,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1044,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_jinrutoyuren04",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_jinrutoyuren04",
+  "upFlowPass": [
+   {
+    "id": 1043,
+    "pathPoint": ""
+   },
+   {
+    "id": 1045,
+    "pathPoint": ""
+   },
+   {
+    "id": 1049,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1045,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_jinrutoyuren05",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_jinrutoyuren05",
+  "upFlowPass": [
+   {
+    "id": 1044,
+    "pathPoint": ""
+   },
+   {
+    "id": 1046,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1046,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_jinrutoyurenroom",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_jinrutoyurenroom",
+  "upFlowPass": [
+   {
+    "id": 1045,
+    "pathPoint": ""
+   },
+   {
+    "id": 1047,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1047,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_jinrutoyuren06",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_jinrutoyuren06",
+  "upFlowPass": [
+   {
+    "id": 1046,
+    "pathPoint": ""
+   },
+   {
+    "id": 1048,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1048,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_yurentojinru",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_yurentojinru",
+  "upFlowPass": [
+   {
+    "id": 1047,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1049,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_jinrutojisi",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_jinrutojisi",
+  "upFlowPass": [
+   {
+    "id": 1044,
+    "pathPoint": ""
+   },
+   {
     "id": 1074,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_jisidatingentry",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_jisidatingentry",
-    "upFlowPass": [
-      {
-        "id": 1071,
-        "pathPoint": ""
-      },
-      {
-        "id": 1075,
-        "pathPoint": ""
-      },
-      {
-        "id": 1049,
-        "unlockWatcher": 9043,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1075,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_jisidating01",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_jisidating01",
-    "upFlowPass": [
-      {
-        "id": 1074,
-        "pathPoint": ""
-      },
-      {
-        "id": 1076,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1076,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_jisidating02",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_jisidating02",
-    "upFlowPass": [
-      {
-        "id": 1075,
-        "pathPoint": ""
-      },
-      {
-        "id": 1077,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1077,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_jisidating03",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_jisidating03",
-    "upFlowPass": [
-      {
-        "id": 1076,
-        "pathPoint": ""
-      },
-      {
-        "id": 1072,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
+    "unlockWatcher": 9043,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1050,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_xukongzhijianentry",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_xukongzhijianentry",
+  "upFlowPass": [
+   {
+    "id": 1001,
+    "pathPoint": ""
+   },
+   {
+    "id": 1002,
+    "pathPoint": ""
+   },
+   {
+    "id": 1051,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1051,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_xukongzhijianmid",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_xukongzhijianmid",
+  "upFlowPass": [
+   {
+    "id": 1050,
+    "pathPoint": ""
+   },
+   {
+    "id": 1052,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1052,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_xukongzhijian",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_xukongzhijian",
+  "upFlowPass": [
+   {
+    "id": 1051,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1053,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_jinrutosiyuentry",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_jinrutosiyuentry",
+  "upFlowPass": [
+   {
+    "id": 1036,
+    "pathPoint": ""
+   },
+   {
+    "id": 1054,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1054,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_siyu",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_siyu",
+  "upFlowPass": [
+   {
+    "id": 1053,
+    "pathPoint": "DeshretPoint_siyuzhiyin03"
+   },
+   {
+    "id": 1055,
+    "pathPoint": "DeshretPoint_siyuzhiyin02"
+   },
+   {
+    "id": 1058,
+    "pathPoint": "DeshretPoint_siyuzhiyin01"
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1055,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_siyutoyuren",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_siyutoyuren",
+  "upFlowPass": [
+   {
+    "id": 1054,
+    "pathPoint": "DeshretPoint_yurenzhiyin01"
+   },
+   {
+    "id": 1056,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1056,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_siyutoyurendown",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_siyutoyurendown",
+  "upFlowPass": [
+   {
+    "id": 1055,
+    "pathPoint": ""
+   },
+   {
+    "id": 1057,
+    "pathPoint": "DeshretPoint_yurendownzhiyin01"
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1057,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_yurenup",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_yurenup",
+  "upFlowPass": [
+   {
+    "id": 1056,
+    "pathPoint": "DeshretPoint_yurenupzhiyin01"
+   },
+   {
+    "id": 1065,
+    "pathPoint": "DeshretPoint_yurenzhiyin"
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1058,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_siyutotouming",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_siyutotouming",
+  "upFlowPass": [
+   {
+    "id": 1054,
+    "pathPoint": "DeshretPoint_toumingzhiyin01"
+   },
+   {
+    "id": 1059,
+    "pathPoint": "DeshretPoint_toumingzhiyin02"
+   },
+   {
+    "id": 1060,
+    "pathPoint": "DeshretPoint_toumingzhiyin02"
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1059,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_toumingdown",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_toumingdown",
+  "upFlowPass": [
+   {
+    "id": 1058,
+    "pathPoint": ""
+   },
+   {
+    "id": 1060,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1060,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_toumingup",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_toumingup",
+  "upFlowPass": [
+   {
+    "id": 1058,
+    "pathPoint": ""
+   },
+   {
+    "id": 1059,
+    "pathPoint": ""
+   },
+   {
+    "id": 1061,
+    "pathPoint": ""
+   },
+   {
+    "id": 1057,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1061,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_yurendown01",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_yurendown01",
+  "upFlowPass": [
+   {
+    "id": 1057,
+    "pathPoint": ""
+   },
+   {
+    "id": 1060,
+    "pathPoint": ""
+   },
+   {
+    "id": 1062,
+    "pathPoint": ""
+   },
+   {
+    "id": 1048,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1062,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_yurendown02",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_yurendown02",
+  "upFlowPass": [
+   {
+    "id": 1057,
+    "pathPoint": ""
+   },
+   {
+    "id": 1061,
+    "pathPoint": ""
+   },
+   {
+    "id": 1048,
+    "pathPoint": ""
+   },
+   {
+    "id": 1063,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1063,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_yurentojisiup",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_yurentojisiup",
+  "upFlowPass": [
+   {
+    "id": 1062,
+    "pathPoint": ""
+   },
+   {
+    "id": 1064,
+    "pathPoint": ""
+   },
+   {
+    "id": 1068,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1064,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_yurentojisidown",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_yurentojisidown",
+  "upFlowPass": [
+   {
+    "id": 1063,
+    "pathPoint": ""
+   },
+   {
+    "id": 1068,
+    "pathPoint": ""
+   },
+   {
+    "id": 1071,
+    "unlockWatcher": 9042,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1065,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_yurendamen",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_yurendamen",
+  "upFlowPass": [
+   {
+    "id": 1057,
+    "pathPoint": ""
+   },
+   {
+    "id": 1066,
+    "unlockWatcher": 9051,
+    "pathPoint": "DeshretPoint_yurendamenzhiyin"
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1066,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_yurenchuansongdown",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_yurenchuansongdown",
+  "upFlowPass": [
+   {
+    "id": 1065,
+    "unlockWatcher": 9051,
+    "pathPoint": ""
+   },
+   {
+    "id": 1067,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1067,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_yurenchuansong",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_yurenchuansong",
+  "upFlowPass": [
+   {
+    "id": 1029,
+    "pathPoint": ""
+   },
+   {
+    "id": 1066,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ],
+  "isTransport": true,
+  "unlockWatcher": 9019
+ },
+ {
+  "id": 1068,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_yurentojisiuproute",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_yurentojisiuproute",
+  "upFlowPass": [
+   {
+    "id": 1063,
+    "pathPoint": ""
+   },
+   {
+    "id": 1064,
+    "pathPoint": ""
+   },
+   {
+    "id": 1070,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1069,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_jisichuansong",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_jisichuansong",
+  "upFlowPass": [
+   {
+    "id": 1070,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ],
+  "isTransport": true,
+  "unlockWatcher": 9014
+ },
+ {
+  "id": 1070,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_jisichuansongentry",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_jisichuansongentry",
+  "upFlowPass": [
+   {
+    "id": 1068,
+    "pathPoint": ""
+   },
+   {
+    "id": 1069,
+    "pathPoint": ""
+   },
+   {
     "id": 1078,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_jisitoliantong",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_jisitoliantong",
-    "upFlowPass": [
-      {
-        "id": 1069,
-        "unlockWatcher": 9058,
-        "pathPoint": "DeshretPoint_jisitoliantongzhiyin01"
-      },
-      {
-        "id": 1070,
-        "unlockWatcher": 9057,
-        "pathPoint": "DeshretPoint_jisitoliantongzhiyin01"
-      },
-      {
-        "id": 1079,
-        "pathPoint": "DeshretPoint_jisitoliantongzhiyin02"
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
+    "unlockWatcher": 9057,
+    "pathPoint": "DeshretPoint_jisichuansongzhiyin"
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1071,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_jisidongkudown",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_jisidongkudown",
+  "upFlowPass": [
+   {
+    "id": 1069,
+    "pathPoint": ""
+   },
+   {
+    "id": 1072,
+    "pathPoint": ""
+   },
+   {
+    "id": 1064,
+    "unlockWatcher": 9042,
+    "pathPoint": ""
+   },
+   {
+    "id": 1074,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1072,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_jisidongkuup",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_jisidongkuup",
+  "upFlowPass": [
+   {
+    "id": 1069,
+    "pathPoint": ""
+   },
+   {
+    "id": 1071,
+    "pathPoint": ""
+   },
+   {
+    "id": 1073,
+    "pathPoint": ""
+   },
+   {
+    "id": 1077,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1073,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_chiwangzhixin",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_chiwangzhixin",
+  "upFlowPass": [
+   {
+    "id": 1072,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1074,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_jisidatingentry",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_jisidatingentry",
+  "upFlowPass": [
+   {
+    "id": 1071,
+    "pathPoint": ""
+   },
+   {
+    "id": 1075,
+    "pathPoint": ""
+   },
+   {
+    "id": 1049,
+    "unlockWatcher": 9043,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1075,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_jisidating01",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_jisidating01",
+  "upFlowPass": [
+   {
+    "id": 1074,
+    "pathPoint": ""
+   },
+   {
+    "id": 1076,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1076,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_jisidating02",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_jisidating02",
+  "upFlowPass": [
+   {
+    "id": 1075,
+    "pathPoint": ""
+   },
+   {
+    "id": 1077,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1077,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_jisidating03",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_jisidating03",
+  "upFlowPass": [
+   {
+    "id": 1076,
+    "pathPoint": ""
+   },
+   {
+    "id": 1072,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1078,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_jisitoliantong",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_jisitoliantong",
+  "upFlowPass": [
+   {
+    "id": 1069,
+    "unlockWatcher": 9058,
+    "pathPoint": "DeshretPoint_jisitoliantongzhiyin01"
+   },
+   {
+    "id": 1070,
+    "unlockWatcher": 9057,
+    "pathPoint": "DeshretPoint_jisitoliantongzhiyin01"
+   },
+   {
     "id": 1079,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_liantong",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_liantong",
-    "upFlowPass": [
-      {
-        "id": 1078,
-        "pathPoint": ""
-      },
-      {
-        "id": 1080,
-        "unlockWatcher": 9044,
-        "pathPoint": ""
-      },
-      {
-        "id": 1096,
-        "unlockWatcher": 9045,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
+    "pathPoint": "DeshretPoint_jisitoliantongzhiyin02"
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1079,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_liantong",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_liantong",
+  "upFlowPass": [
+   {
+    "id": 1078,
+    "pathPoint": ""
+   },
+   {
     "id": 1080,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_liantongtodicheng",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_liantongtodicheng",
-    "upFlowPass": [
-      {
-        "id": 1079,
-        "unlockWatcher": 9044,
-        "pathPoint": ""
-      },
-      {
-        "id": 1081,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1081,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_dicheng",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_dicheng",
-    "upFlowPass": [
-      {
-        "id": 1080,
-        "pathPoint": ""
-      },
-      {
-        "id": 1082,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ],
-    "isTransport": true,
-    "unlockWatcher": 9018
-  },
-  {
-    "id": 1082,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_miyitodicheng",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_miyitodicheng",
-    "upFlowPass": [
-      {
-        "id": 1083,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1083,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_miyiright01",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_miyiright01",
-    "upFlowPass": [
-      {
-        "id": 1082,
-        "pathPoint": ""
-      },
-      {
-        "id": 1084,
-        "pathPoint": ""
-      },
-      {
-        "id": 1093,
-        "unlockWatcher": 9041,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1084,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_miyiright02",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_miyiright02",
-    "upFlowPass": [
-      {
-        "id": 1083,
-        "pathPoint": ""
-      },
-      {
-        "id": 1087,
-        "pathPoint": ""
-      },
-      {
-        "id": 1088,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1085,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_miyiright03",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_miyiright03",
-    "upFlowPass": [
-      {
-        "id": 1084,
-        "pathPoint": ""
-      },
-      {
-        "id": 1088,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1086,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_miyiright04",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_miyiright04",
-    "upFlowPass": [
-      {
-        "id": 1085,
-        "pathPoint": ""
-      },
-      {
-        "id": 1087,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1087,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_miyiright05",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_miyiright05",
-    "upFlowPass": [
-      {
-        "id": 1086,
-        "pathPoint": ""
-      },
-      {
-        "id": 1084,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1088,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_miyichuansong",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_miyichuansong",
-    "upFlowPass": [
-      {
-        "id": 1084,
-        "pathPoint": ""
-      },
-      {
-        "id": 1089,
-        "pathPoint": ""
-      },
-      {
-        "id": 1093,
-        "pathPoint": ""
-      },
-      {
-        "id": 1128,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ],
-    "isTransport": true,
-    "unlockWatcher": 9021
-  },
-  {
-    "id": 1089,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_miyileft01",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_miyileft01",
-    "upFlowPass": [
-      {
-        "id": 1088,
-        "pathPoint": ""
-      },
-      {
-        "id": 1090,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1090,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_miyileft02",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_miyileft02",
-    "upFlowPass": [
-      {
-        "id": 1089,
-        "pathPoint": ""
-      },
-      {
-        "id": 1091,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1091,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_miyileft03",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_miyileft03",
-    "upFlowPass": [
-      {
-        "id": 1090,
-        "pathPoint": ""
-      },
-      {
-        "id": 1092,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1092,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_miyileft04",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_miyileft04",
-    "upFlowPass": [
-      {
-        "id": 1091,
-        "pathPoint": ""
-      },
-      {
-        "id": 1093,
-        "unlockWatcher": 9040,
-        "pathPoint": ""
-      },
-      {
-        "id": 1095,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1093,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_miyimid",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_miyimid",
-    "upFlowPass": [
-      {
-        "id": 1088,
-        "pathPoint": ""
-      },
-      {
-        "id": 1083,
-        "pathPoint": ""
-      },
-      {
-        "id": 1092,
-        "pathPoint": ""
-      },
-      {
-        "id": 1094,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1094,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_miyidown",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_miyidown",
-    "upFlowPass": [
-      {
-        "id": 1093,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1095,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_miyitokuangdongentry",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_miyitokuangdongentry",
-    "upFlowPass": [
-      {
-        "id": 1092,
-        "pathPoint": ""
-      },
-      {
-        "id": 1124,
-        "unlockWatcher": 9049,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
+    "unlockWatcher": 9044,
+    "pathPoint": ""
+   },
+   {
     "id": 1096,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_liantongtoquanzhang",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_liantongtoquanzhang",
-    "upFlowPass": [
-      {
-        "id": 1079,
-        "unlockWatcher": 9045,
-        "pathPoint": ""
-      },
-      {
-        "id": 1097,
-        "pathPoint": ""
-      },
-      {
-        "id": 1098,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1097,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_liantongtoquanzhangdown",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_liantongtoquanzhangdown",
-    "upFlowPass": [
-      {
-        "id": 1096,
-        "pathPoint": ""
-      },
-      {
-        "id": 1098,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1098,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_quanzhang",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_quanzhang",
-    "upFlowPass": [
-      {
-        "id": 1096,
-        "pathPoint": "DeshretPoint_quanzhangzhiyin01"
-      },
-      {
-        "id": 1099,
-        "pathPoint": "DeshretPoint_quanzhangzhiyin04"
-      },
-      {
-        "id": 1122,
-        "unlockWatcher": 9048,
-        "pathPoint": ""
-      },
-      {
-        "id": 1106,
-        "pathPoint": "DeshretPoint_quanzhangzhiyin06"
-      },
-      {
-        "id": 1102,
-        "unlockWatcher": 9046,
-        "pathPoint": "DeshretPoint_quanzhangzhiyin02"
-      },
-      {
-        "id": 1107,
-        "pathPoint": "DeshretPoint_quanzhangzhiyin07"
-      }
-    ]
-  },
-  {
-    "id": 1099,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_quanzhangchuansong",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_quanzhangchuansong",
-    "upFlowPass": [
-      {
-        "id": 1098,
-        "pathPoint": ""
-      },
-      {
-        "id": 1100,
-        "pathPoint": ""
-      },
-      {
-        "id": 1103,
-        "pathPoint": ""
-      },
-      {
-        "id": 1109,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ],
-    "isTransport": true,
-    "unlockWatcher": 9015
-  },
-  {
-    "id": 1100,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_quanzhangzhijianentry01",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_quanzhangzhijianentry01",
-    "upFlowPass": [
-      {
-        "id": 1098,
-        "pathPoint": ""
-      },
-      {
-        "id": 1101,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1101,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_quanzhangzhijian",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_quanzhangzhijian",
-    "upFlowPass": [
-      {
-        "id": 1100,
-        "pathPoint": ""
-      },
-      {
-        "id": 1102,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1102,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_quanzhangzhijianentry02",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_quanzhangzhijianentry02",
-    "upFlowPass": [
-      {
-        "id": 1101,
-        "pathPoint": ""
-      },
-      {
-        "id": 1098,
-        "unlockWatcher": 9046,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1103,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_quanzhangstair01",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_quanzhangstair01",
-    "upFlowPass": [
-      {
-        "id": 1098,
-        "pathPoint": ""
-      },
-      {
-        "id": 1104,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1104,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_quanzhangstair02",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_quanzhangstair02",
-    "upFlowPass": [
-      {
-        "id": 1103,
-        "pathPoint": ""
-      },
-      {
-        "id": 1105,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1105,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_quanzhangstair03",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_quanzhangstair03",
-    "upFlowPass": [
-      {
-        "id": 1104,
-        "pathPoint": ""
-      },
-      {
-        "id": 1106,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1106,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_quanzhangstair04",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_quanzhangstair04",
-    "upFlowPass": [
-      {
-        "id": 1105,
-        "pathPoint": ""
-      },
-      {
-        "id": 1098,
-        "pathPoint": ""
-      },
-      {
-        "id": 1107,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1107,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_quanzhangstair05",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_quanzhangstair05",
-    "upFlowPass": [
-      {
-        "id": 1106,
-        "pathPoint": ""
-      },
-      {
-        "id": 1108,
-        "unlockWatcher": 9047,
-        "pathPoint": ""
-      },
-      {
-        "id": 1098,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1108,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_quanzhangstair06",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_quanzhangstair06",
-    "upFlowPass": [
-      {
-        "id": 1107,
-        "unlockWatcher": 9047,
-        "pathPoint": ""
-      },
-      {
-        "id": 1098,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1109,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_quanzhangtokuangdong",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_quanzhangtokuangdong",
-    "upFlowPass": [
-      {
-        "id": 1099,
-        "pathPoint": "DeshretPoint_kuangdongzhiyin01"
-      },
-      {
-        "id": 1110,
-        "pathPoint": "DeshretPoint_kuangdongzhiyin02"
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1110,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_quanzhangtokuangdongentryup",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_quanzhangtokuangdongentryup",
-    "upFlowPass": [
-      {
-        "id": 1109,
-        "pathPoint": "DeshretPoint_kuangdongzhiyin03"
-      },
-      {
-        "id": 1111,
-        "pathPoint": ""
-      },
-      {
-        "id": 1125,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1111,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_kuangdongup01",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_kuangdongup01",
-    "upFlowPass": [
-      {
-        "id": 1110,
-        "pathPoint": ""
-      },
-      {
-        "id": 1112,
-        "pathPoint": ""
-      },
-      {
-        "id": 1114,
-        "pathPoint": ""
-      },
-      {
-        "id": 1115,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1112,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_kuangdongup02",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_kuangdongup02",
-    "upFlowPass": [
-      {
-        "id": 1111,
-        "pathPoint": ""
-      },
-      {
-        "id": 1113,
-        "pathPoint": ""
-      },
-      {
-        "id": 1114,
-        "pathPoint": ""
-      },
-      {
-        "id": 1116,
-        "pathPoint": ""
-      },
-      {
-        "id": 1117,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1113,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_kuangdongup03",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_kuangdongup03",
-    "upFlowPass": [
-      {
-        "id": 1112,
-        "pathPoint": ""
-      },
-      {
-        "id": 1114,
-        "pathPoint": ""
-      },
-      {
-        "id": 1116,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1114,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_kuangdongup04",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_kuangdongup04",
-    "upFlowPass": [
-      {
-        "id": 1111,
-        "pathPoint": ""
-      },
-      {
-        "id": 1112,
-        "pathPoint": ""
-      },
-      {
-        "id": 1113,
-        "pathPoint": ""
-      },
-      {
-        "id": 1115,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1115,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_kuangdongup05",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_kuangdongup05",
-    "upFlowPass": [
-      {
-        "id": 1111,
-        "pathPoint": ""
-      },
-      {
-        "id": 1112,
-        "pathPoint": ""
-      },
-      {
-        "id": 1114,
-        "pathPoint": ""
-      },
-      {
-        "id": 1124,
-        "unlockWatcher": 9050,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1116,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_kuangdongup06",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_kuangdongup06",
-    "upFlowPass": [
-      {
-        "id": 1113,
-        "pathPoint": ""
-      },
-      {
-        "id": 1117,
-        "pathPoint": ""
-      },
-      {
-        "id": 1125,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1117,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_kuangdongdown01",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_kuangdongdown01",
-    "upFlowPass": [
-      {
-        "id": 1112,
-        "pathPoint": ""
-      },
-      {
-        "id": 1113,
-        "pathPoint": ""
-      },
-      {
-        "id": 1116,
-        "pathPoint": ""
-      },
-      {
-        "id": 1118,
-        "pathPoint": ""
-      },
-      {
-        "id": 1125,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1118,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_kuangdongdown02",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_kuangdongdown02",
-    "upFlowPass": [
-      {
-        "id": 1117,
-        "pathPoint": ""
-      },
-      {
-        "id": 1125,
-        "pathPoint": ""
-      },
-      {
-        "id": 1119,
-        "pathPoint": ""
-      },
-      {
-        "id": 1116,
-        "pathPoint": ""
-      },
-      {
-        "id": 1120,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1119,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_kuangdong",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_kuangdong",
-    "upFlowPass": [
-      {
-        "id": 1110,
-        "pathPoint": ""
-      },
-      {
-        "id": 1111,
-        "pathPoint": ""
-      },
-      {
-        "id": 1112,
-        "pathPoint": ""
-      },
-      {
-        "id": 1116,
-        "pathPoint": ""
-      },
-      {
-        "id": 1117,
-        "pathPoint": ""
-      },
-      {
-        "id": 1120,
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1120,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_kuangdongdown04",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_kuangdongdown04",
-    "upFlowPass": [
-      {
-        "id": 1118,
-        "pathPoint": ""
-      },
-      {
-        "id": 1119,
-        "pathPoint": ""
-      },
-      {
-        "id": 1125,
-        "pathPoint": ""
-      },
-      {
-        "id": 1121,
-        "pathPoint": ""
-      },
-      {
-        "id": 1110,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1121,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_kuangdongdown05",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_kuangdongdown05",
-    "upFlowPass": [
-      {
-        "id": 1120,
-        "pathPoint": "DeshretPoint_kuangdongzhiyin04"
-      },
-      {
-        "id": 1122,
-        "pathPoint": ""
-      },
-      {
-        "id": 1123,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1122,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_quanzhangtokuangdongentrydown",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_quanzhangtokuangdongentrydown",
-    "upFlowPass": [
-      {
-        "id": 1098,
-        "unlockWatcher": 9048,
-        "pathPoint": ""
-      },
-      {
-        "id": 1121,
-        "pathPoint": "DeshretPoint_kuangdongzhiyin05"
-      },
-      {
-        "id": 1123,
-        "pathPoint": "DeshretPoint_kuangdongzhiyin05"
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1123,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_kuangdongdown06",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_kuangdongdown06",
-    "upFlowPass": [
-      {
-        "id": 1121,
-        "pathPoint": "DeshretPoint_kuangdongzhiyin06"
-      },
-      {
-        "id": 1122,
-        "pathPoint": "DeshretPoint_kuangdongzhiyin06"
-      },
-      {
-        "id": 1124,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1124,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_miyitokuangdong",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_miyitokuangdong",
-    "upFlowPass": [
-      {
-        "id": 1095,
-        "pathPoint": ""
-      },
-      {
-        "id": 1115,
-        "unlockWatcher": 9050,
-        "pathPoint": ""
-      },
-      {
-        "id": 1123,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1125,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_kuangdongup07",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_kuangdongup07",
-    "upFlowPass": [
-      {
-        "id": 1110,
-        "pathPoint": ""
-      },
-      {
-        "id": 1116,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1126,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_bigpyramidchuansong",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_bigpyramidchuansong",
-    "upFlowPass": [
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ],
-    "isTransport": true,
-    "unlockWatcher": 9025
-  },
-  {
-    "id": 1127,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_bigpyramid",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_bigpyramid",
-    "upFlowPass": [
-      {
-        "id": 1126,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
+    "unlockWatcher": 9045,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1080,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_liantongtodicheng",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_liantongtodicheng",
+  "upFlowPass": [
+   {
+    "id": 1079,
+    "unlockWatcher": 9044,
+    "pathPoint": ""
+   },
+   {
+    "id": 1081,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1081,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_dicheng",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_dicheng",
+  "upFlowPass": [
+   {
+    "id": 1080,
+    "pathPoint": ""
+   },
+   {
+    "id": 1082,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ],
+  "isTransport": true,
+  "unlockWatcher": 9018
+ },
+ {
+  "id": 1082,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_miyitodicheng",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_miyitodicheng",
+  "upFlowPass": [
+   {
+    "id": 1083,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1083,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_miyiright01",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_miyiright01",
+  "upFlowPass": [
+   {
+    "id": 1082,
+    "pathPoint": ""
+   },
+   {
+    "id": 1084,
+    "pathPoint": ""
+   },
+   {
+    "id": 1093,
+    "unlockWatcher": 9041,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1084,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_miyiright02",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_miyiright02",
+  "upFlowPass": [
+   {
+    "id": 1083,
+    "pathPoint": ""
+   },
+   {
+    "id": 1087,
+    "pathPoint": ""
+   },
+   {
+    "id": 1088,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1085,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_miyiright03",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_miyiright03",
+  "upFlowPass": [
+   {
+    "id": 1084,
+    "pathPoint": ""
+   },
+   {
+    "id": 1088,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1086,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_miyiright04",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_miyiright04",
+  "upFlowPass": [
+   {
+    "id": 1085,
+    "pathPoint": ""
+   },
+   {
+    "id": 1087,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1087,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_miyiright05",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_miyiright05",
+  "upFlowPass": [
+   {
+    "id": 1086,
+    "pathPoint": ""
+   },
+   {
+    "id": 1084,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1088,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_miyichuansong",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_miyichuansong",
+  "upFlowPass": [
+   {
+    "id": 1084,
+    "pathPoint": ""
+   },
+   {
+    "id": 1089,
+    "pathPoint": ""
+   },
+   {
+    "id": 1093,
+    "pathPoint": ""
+   },
+   {
     "id": 1128,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_miyidimian",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_miyidimian",
-    "upFlowPass": [
-      {
-        "id": 1029,
-        "pathPoint": ""
-      },
-      {
-        "id": 1129,
-        "pathPoint": ""
-      },
-      {
-        "id": 1088,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ],
+  "isTransport": true,
+  "unlockWatcher": 9021
+ },
+ {
+  "id": 1089,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_miyileft01",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_miyileft01",
+  "upFlowPass": [
+   {
+    "id": 1088,
+    "pathPoint": ""
+   },
+   {
+    "id": 1090,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1090,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_miyileft02",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_miyileft02",
+  "upFlowPass": [
+   {
+    "id": 1089,
+    "pathPoint": ""
+   },
+   {
+    "id": 1091,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1091,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_miyileft03",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_miyileft03",
+  "upFlowPass": [
+   {
+    "id": 1090,
+    "pathPoint": ""
+   },
+   {
+    "id": 1092,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1092,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_miyileft04",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_miyileft04",
+  "upFlowPass": [
+   {
+    "id": 1091,
+    "pathPoint": ""
+   },
+   {
+    "id": 1093,
+    "unlockWatcher": 9040,
+    "pathPoint": ""
+   },
+   {
+    "id": 1095,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1093,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_miyimid",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_miyimid",
+  "upFlowPass": [
+   {
+    "id": 1088,
+    "pathPoint": ""
+   },
+   {
+    "id": 1083,
+    "pathPoint": ""
+   },
+   {
+    "id": 1092,
+    "pathPoint": ""
+   },
+   {
+    "id": 1094,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1094,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_miyidown",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_miyidown",
+  "upFlowPass": [
+   {
+    "id": 1093,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1095,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_miyitokuangdongentry",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_miyitokuangdongentry",
+  "upFlowPass": [
+   {
+    "id": 1092,
+    "pathPoint": ""
+   },
+   {
+    "id": 1124,
+    "unlockWatcher": 9049,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1096,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_liantongtoquanzhang",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_liantongtoquanzhang",
+  "upFlowPass": [
+   {
+    "id": 1079,
+    "unlockWatcher": 9045,
+    "pathPoint": ""
+   },
+   {
+    "id": 1097,
+    "pathPoint": ""
+   },
+   {
+    "id": 1098,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1097,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_liantongtoquanzhangdown",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_liantongtoquanzhangdown",
+  "upFlowPass": [
+   {
+    "id": 1096,
+    "pathPoint": ""
+   },
+   {
+    "id": 1098,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1098,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_quanzhang",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_quanzhang",
+  "upFlowPass": [
+   {
+    "id": 1096,
+    "pathPoint": "DeshretPoint_quanzhangzhiyin01"
+   },
+   {
+    "id": 1099,
+    "pathPoint": "DeshretPoint_quanzhangzhiyin04"
+   },
+   {
+    "id": 1122,
+    "unlockWatcher": 9048,
+    "pathPoint": ""
+   },
+   {
+    "id": 1106,
+    "pathPoint": "DeshretPoint_quanzhangzhiyin06"
+   },
+   {
+    "id": 1102,
+    "unlockWatcher": 9046,
+    "pathPoint": "DeshretPoint_quanzhangzhiyin02"
+   },
+   {
+    "id": 1107,
+    "pathPoint": "DeshretPoint_quanzhangzhiyin07"
+   }
+  ]
+ },
+ {
+  "id": 1099,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_quanzhangchuansong",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_quanzhangchuansong",
+  "upFlowPass": [
+   {
+    "id": 1098,
+    "pathPoint": ""
+   },
+   {
+    "id": 1100,
+    "pathPoint": ""
+   },
+   {
+    "id": 1103,
+    "pathPoint": ""
+   },
+   {
+    "id": 1109,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ],
+  "isTransport": true,
+  "unlockWatcher": 9015
+ },
+ {
+  "id": 1100,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_quanzhangzhijianentry01",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_quanzhangzhijianentry01",
+  "upFlowPass": [
+   {
+    "id": 1098,
+    "pathPoint": ""
+   },
+   {
+    "id": 1101,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1101,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_quanzhangzhijian",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_quanzhangzhijian",
+  "upFlowPass": [
+   {
+    "id": 1100,
+    "pathPoint": ""
+   },
+   {
+    "id": 1102,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1102,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_quanzhangzhijianentry02",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_quanzhangzhijianentry02",
+  "upFlowPass": [
+   {
+    "id": 1101,
+    "pathPoint": ""
+   },
+   {
+    "id": 1098,
+    "unlockWatcher": 9046,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1103,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_quanzhangstair01",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_quanzhangstair01",
+  "upFlowPass": [
+   {
+    "id": 1098,
+    "pathPoint": ""
+   },
+   {
+    "id": 1104,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1104,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_quanzhangstair02",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_quanzhangstair02",
+  "upFlowPass": [
+   {
+    "id": 1103,
+    "pathPoint": ""
+   },
+   {
+    "id": 1105,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1105,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_quanzhangstair03",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_quanzhangstair03",
+  "upFlowPass": [
+   {
+    "id": 1104,
+    "pathPoint": ""
+   },
+   {
+    "id": 1106,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1106,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_quanzhangstair04",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_quanzhangstair04",
+  "upFlowPass": [
+   {
+    "id": 1105,
+    "pathPoint": ""
+   },
+   {
+    "id": 1098,
+    "pathPoint": ""
+   },
+   {
+    "id": 1107,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1107,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_quanzhangstair05",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_quanzhangstair05",
+  "upFlowPass": [
+   {
+    "id": 1106,
+    "pathPoint": ""
+   },
+   {
+    "id": 1108,
+    "unlockWatcher": 9047,
+    "pathPoint": ""
+   },
+   {
+    "id": 1098,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1108,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_quanzhangstair06",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_quanzhangstair06",
+  "upFlowPass": [
+   {
+    "id": 1107,
+    "unlockWatcher": 9047,
+    "pathPoint": ""
+   },
+   {
+    "id": 1098,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1109,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_quanzhangtokuangdong",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_quanzhangtokuangdong",
+  "upFlowPass": [
+   {
+    "id": 1099,
+    "pathPoint": "DeshretPoint_kuangdongzhiyin01"
+   },
+   {
+    "id": 1110,
+    "pathPoint": "DeshretPoint_kuangdongzhiyin02"
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1110,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_quanzhangtokuangdongentryup",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_quanzhangtokuangdongentryup",
+  "upFlowPass": [
+   {
+    "id": 1109,
+    "pathPoint": "DeshretPoint_kuangdongzhiyin03"
+   },
+   {
+    "id": 1111,
+    "pathPoint": ""
+   },
+   {
+    "id": 1125,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1111,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_kuangdongup01",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_kuangdongup01",
+  "upFlowPass": [
+   {
+    "id": 1110,
+    "pathPoint": ""
+   },
+   {
+    "id": 1112,
+    "pathPoint": ""
+   },
+   {
+    "id": 1114,
+    "pathPoint": ""
+   },
+   {
+    "id": 1115,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1112,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_kuangdongup02",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_kuangdongup02",
+  "upFlowPass": [
+   {
+    "id": 1111,
+    "pathPoint": ""
+   },
+   {
+    "id": 1113,
+    "pathPoint": ""
+   },
+   {
+    "id": 1114,
+    "pathPoint": ""
+   },
+   {
+    "id": 1116,
+    "pathPoint": ""
+   },
+   {
+    "id": 1117,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1113,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_kuangdongup03",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_kuangdongup03",
+  "upFlowPass": [
+   {
+    "id": 1112,
+    "pathPoint": ""
+   },
+   {
+    "id": 1114,
+    "pathPoint": ""
+   },
+   {
+    "id": 1116,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1114,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_kuangdongup04",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_kuangdongup04",
+  "upFlowPass": [
+   {
+    "id": 1111,
+    "pathPoint": ""
+   },
+   {
+    "id": 1112,
+    "pathPoint": ""
+   },
+   {
+    "id": 1113,
+    "pathPoint": ""
+   },
+   {
+    "id": 1115,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1115,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_kuangdongup05",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_kuangdongup05",
+  "upFlowPass": [
+   {
+    "id": 1111,
+    "pathPoint": ""
+   },
+   {
+    "id": 1112,
+    "pathPoint": ""
+   },
+   {
+    "id": 1114,
+    "pathPoint": ""
+   },
+   {
+    "id": 1124,
+    "unlockWatcher": 9050,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1116,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_kuangdongup06",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_kuangdongup06",
+  "upFlowPass": [
+   {
+    "id": 1113,
+    "pathPoint": ""
+   },
+   {
+    "id": 1117,
+    "pathPoint": ""
+   },
+   {
+    "id": 1125,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1117,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_kuangdongdown01",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_kuangdongdown01",
+  "upFlowPass": [
+   {
+    "id": 1112,
+    "pathPoint": ""
+   },
+   {
+    "id": 1113,
+    "pathPoint": ""
+   },
+   {
+    "id": 1116,
+    "pathPoint": ""
+   },
+   {
+    "id": 1118,
+    "pathPoint": ""
+   },
+   {
+    "id": 1125,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1118,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_kuangdongdown02",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_kuangdongdown02",
+  "upFlowPass": [
+   {
+    "id": 1117,
+    "pathPoint": ""
+   },
+   {
+    "id": 1125,
+    "pathPoint": ""
+   },
+   {
+    "id": 1119,
+    "pathPoint": ""
+   },
+   {
+    "id": 1116,
+    "pathPoint": ""
+   },
+   {
+    "id": 1120,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1119,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_kuangdong",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_kuangdong",
+  "upFlowPass": [
+   {
+    "id": 1110,
+    "pathPoint": ""
+   },
+   {
+    "id": 1111,
+    "pathPoint": ""
+   },
+   {
+    "id": 1112,
+    "pathPoint": ""
+   },
+   {
+    "id": 1116,
+    "pathPoint": ""
+   },
+   {
+    "id": 1117,
+    "pathPoint": ""
+   },
+   {
+    "id": 1120,
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1120,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_kuangdongdown04",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_kuangdongdown04",
+  "upFlowPass": [
+   {
+    "id": 1118,
+    "pathPoint": ""
+   },
+   {
+    "id": 1119,
+    "pathPoint": ""
+   },
+   {
+    "id": 1125,
+    "pathPoint": ""
+   },
+   {
+    "id": 1121,
+    "pathPoint": ""
+   },
+   {
+    "id": 1110,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1121,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_kuangdongdown05",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_kuangdongdown05",
+  "upFlowPass": [
+   {
+    "id": 1120,
+    "pathPoint": "DeshretPoint_kuangdongzhiyin04"
+   },
+   {
+    "id": 1122,
+    "pathPoint": ""
+   },
+   {
+    "id": 1123,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1122,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_quanzhangtokuangdongentrydown",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_quanzhangtokuangdongentrydown",
+  "upFlowPass": [
+   {
+    "id": 1098,
+    "unlockWatcher": 9048,
+    "pathPoint": ""
+   },
+   {
+    "id": 1121,
+    "pathPoint": "DeshretPoint_kuangdongzhiyin05"
+   },
+   {
+    "id": 1123,
+    "pathPoint": "DeshretPoint_kuangdongzhiyin05"
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1123,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_kuangdongdown06",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_kuangdongdown06",
+  "upFlowPass": [
+   {
+    "id": 1121,
+    "pathPoint": "DeshretPoint_kuangdongzhiyin06"
+   },
+   {
+    "id": 1122,
+    "pathPoint": "DeshretPoint_kuangdongzhiyin06"
+   },
+   {
+    "id": 1124,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1124,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_miyitokuangdong",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_miyitokuangdong",
+  "upFlowPass": [
+   {
+    "id": 1095,
+    "pathPoint": ""
+   },
+   {
+    "id": 1115,
+    "unlockWatcher": 9050,
+    "pathPoint": ""
+   },
+   {
+    "id": 1123,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1125,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_kuangdongup07",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_kuangdongup07",
+  "upFlowPass": [
+   {
+    "id": 1110,
+    "pathPoint": ""
+   },
+   {
+    "id": 1116,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1126,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_bigpyramidchuansong",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_bigpyramidchuansong",
+  "upFlowPass": [
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ],
+  "isTransport": true,
+  "unlockWatcher": 9025
+ },
+ {
+  "id": 1127,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_bigpyramid",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_bigpyramid",
+  "upFlowPass": [
+   {
+    "id": 1126,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1128,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_miyidimian",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_miyidimian",
+  "upFlowPass": [
+   {
+    "id": 1029,
+    "pathPoint": ""
+   },
+   {
     "id": 1129,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_miyientry",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_miyientry",
-    "upFlowPass": [
-      {
-        "id": 1029,
-        "pathPoint": ""
-      },
-      {
-        "id": 1128,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1130,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_liushaexit",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_liushaexit",
-    "upFlowPass": [
-      {
-        "id": 1029,
-        "pathPoint": ""
-      },
-      {
-        "id": 1133,
-        "pathPoint": ""
-      },
-      {
-        "id": 1131,
-        "unlockWatcher": 9039,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1131,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_liushaexitroute",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_liushaexitroute",
-    "upFlowPass": [
-      {
-        "id": 1029,
-        "pathPoint": ""
-      },
-      {
-        "id": 1130,
-        "unlockWatcher": 9039,
-        "pathPoint": ""
-      },
-      {
-        "id": 1132,
-        "unlockWatcher": 9039,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1132,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_liushaexitchuansong",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_liushaexitchuansong",
-    "upFlowPass": [
-      {
-        "id": 1029,
-        "pathPoint": ""
-      },
-      {
-        "id": 1131,
-        "unlockWatcher": 9039,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ],
-    "isTransport": true,
-    "unlockWatcher": 9024
-  },
-  {
+    "pathPoint": ""
+   },
+   {
+    "id": 1088,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1129,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_miyientry",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_miyientry",
+  "upFlowPass": [
+   {
+    "id": 1029,
+    "pathPoint": ""
+   },
+   {
+    "id": 1128,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1130,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_liushaexit",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_liushaexit",
+  "upFlowPass": [
+   {
+    "id": 1029,
+    "pathPoint": ""
+   },
+   {
     "id": 1133,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_liusha",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_liusha",
-    "upFlowPass": [
-      {
-        "id": 1130,
-        "pathPoint": ""
-      },
-      {
-        "id": 1134,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
+    "pathPoint": ""
+   },
+   {
+    "id": 1131,
+    "unlockWatcher": 9039,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1131,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_liushaexitroute",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_liushaexitroute",
+  "upFlowPass": [
+   {
+    "id": 1029,
+    "pathPoint": ""
+   },
+   {
+    "id": 1130,
+    "unlockWatcher": 9039,
+    "pathPoint": ""
+   },
+   {
+    "id": 1132,
+    "unlockWatcher": 9039,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1132,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_liushaexitchuansong",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_liushaexitchuansong",
+  "upFlowPass": [
+   {
+    "id": 1029,
+    "pathPoint": ""
+   },
+   {
+    "id": 1131,
+    "unlockWatcher": 9039,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ],
+  "isTransport": true,
+  "unlockWatcher": 9024
+ },
+ {
+  "id": 1133,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_liusha",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_liusha",
+  "upFlowPass": [
+   {
+    "id": 1130,
+    "pathPoint": ""
+   },
+   {
     "id": 1134,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_liushaentry",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_liushaentry",
-    "upFlowPass": [
-      {
-        "id": 1135,
-        "pathPoint": ""
-      },
-      {
-        "id": 1133,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1134,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_liushaentry",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_liushaentry",
+  "upFlowPass": [
+   {
     "id": 1135,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_liushaentrychuansong",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_liushaentrychuansong",
-    "upFlowPass": [
-      {
-        "id": 1029,
-        "pathPoint": ""
-      },
-      {
-        "id": 1134,
-        "pathPoint": ""
-      },
-      {
-        "id": 1136,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ],
-    "isTransport": true,
-    "unlockWatcher": 9023
-  },
-  {
+    "pathPoint": ""
+   },
+   {
+    "id": 1133,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1135,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_liushaentrychuansong",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_liushaentrychuansong",
+  "upFlowPass": [
+   {
+    "id": 1029,
+    "pathPoint": ""
+   },
+   {
+    "id": 1134,
+    "pathPoint": ""
+   },
+   {
     "id": 1136,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_liushadicheng",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_liushadicheng",
-    "upFlowPass": [
-      {
-        "id": 1029,
-        "pathPoint": ""
-      },
-      {
-        "id": 1135,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ],
-    "isTransport": true,
-    "unlockWatcher": 9022
-  },
-  {
-    "id": 1137,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_shengxian",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_shengxian",
-    "upFlowPass": [
-      {
-        "id": 1029,
-        "pathPoint": ""
-      },
-      {
-        "id": 1138,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ],
+  "isTransport": true,
+  "unlockWatcher": 9023
+ },
+ {
+  "id": 1136,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_liushadicheng",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_liushadicheng",
+  "upFlowPass": [
+   {
+    "id": 1029,
+    "pathPoint": ""
+   },
+   {
+    "id": 1135,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ],
+  "isTransport": true,
+  "unlockWatcher": 9022
+ },
+ {
+  "id": 1137,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_shengxian",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_shengxian",
+  "upFlowPass": [
+   {
+    "id": 1029,
+    "pathPoint": ""
+   },
+   {
     "id": 1138,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_shengxianchuansong",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_shengxianchuansong",
-    "upFlowPass": [
-      {
-        "id": 1029,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ],
-    "isTransport": true,
-    "unlockWatcher": 9026
-  },
-  {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1138,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_shengxianchuansong",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_shengxianchuansong",
+  "upFlowPass": [
+   {
+    "id": 1029,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ],
+  "isTransport": true,
+  "unlockWatcher": 9026
+ },
+ {
+  "id": 1139,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_warpgate",
+  "regionType": "POLYGON",
+  "regionID": "BigWorld_DeshretGuide_warpgate",
+  "upFlowPass": [
+   {
+    "id": 1001,
+    "weight": 10,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ },
+ {
+  "id": 1140,
+  "sceneid": 3,
+  "passGroup": 1,
+  "targetPoint": "DeshretPoint_arudaoying",
+  "regionType": "SUBAREA",
+  "regionID": "2707",
+  "upFlowPass": [
+   {
     "id": 1139,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_warpgate",
-    "regionType": "POLYGON",
-    "regionID": "BigWorld_DeshretGuide_warpgate",
-    "upFlowPass": [
-      {
-        "id": 1001,
-        "weight": 10,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  },
-  {
-    "id": 1140,
-    "sceneid": 3,
-    "passGroup": 1,
-    "targetPoint": "DeshretPoint_arudaoying",
-    "regionType": "SUBAREA",
-    "regionID": "2707",
-    "upFlowPass": [
-      {
-        "id": 1139,
-        "weight": 10,
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      },
-      {
-        "pathPoint": ""
-      }
-    ]
-  }
+    "weight": 10,
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   },
+   {
+    "pathPoint": ""
+   }
+  ]
+ }
 ]

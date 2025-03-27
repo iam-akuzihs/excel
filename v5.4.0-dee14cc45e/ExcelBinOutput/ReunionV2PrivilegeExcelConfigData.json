@@ -1,48 +1,48 @@
 [
-  {
-    "id": 1,
-    "dailyNum": 4,
-    "totalNum": 28,
-    "privilegeType": [
-      {
-        "type": "REUNION_V2_PRIVILEGE_TYPE_DUNGEON",
-        "subType": "DUNGEON_DAILY_FIGHT",
-        "FIFINDEGOLH": true
-      },
-      {
-        "type": "REUNION_V2_PRIVILEGE_TYPE_BLOSSOM",
-        "subType": "BLOSSOM_REFRESH_SCOIN;BLOSSOM_REFRESH_EXP",
-        "FIFINDEGOLH": true
-      },
-      {
-        "type": "REUNION_V2_PRIVILEGE_TYPE_PERSONALLINE_OR_COOP",
-        "subType": "",
-        "dailyNum": 3,
-        "totalNum": 3
-      }
-    ]
-  },
-  {
-    "id": 2,
+ {
+  "id": 1,
+  "dailyNum": 4,
+  "totalNum": 28,
+  "privilegeType": [
+   {
+    "type": "REUNION_V2_PRIVILEGE_TYPE_DUNGEON",
+    "subType": "DUNGEON_DAILY_FIGHT",
+    "FIFINDEGOLH": true
+   },
+   {
+    "type": "REUNION_V2_PRIVILEGE_TYPE_BLOSSOM",
+    "subType": "BLOSSOM_REFRESH_SCOIN;BLOSSOM_REFRESH_EXP",
+    "FIFINDEGOLH": true
+   },
+   {
+    "type": "REUNION_V2_PRIVILEGE_TYPE_PERSONALLINE_OR_COOP",
+    "subType": "",
     "dailyNum": 3,
-    "totalNum": 21,
-    "privilegeType": [
-      {
-        "type": "REUNION_V2_PRIVILEGE_TYPE_DUNGEON",
-        "subType": "DUNGEON_DAILY_FIGHT",
-        "FIFINDEGOLH": true
-      },
-      {
-        "type": "REUNION_V2_PRIVILEGE_TYPE_BLOSSOM",
-        "subType": "BLOSSOM_REFRESH_SCOIN;BLOSSOM_REFRESH_EXP",
-        "FIFINDEGOLH": true
-      },
-      {
-        "type": "REUNION_V2_PRIVILEGE_TYPE_PERSONALLINE_OR_COOP",
-        "subType": "",
-        "dailyNum": 3,
-        "totalNum": 3
-      }
-    ]
-  }
+    "totalNum": 3
+   }
+  ]
+ },
+ {
+  "id": 2,
+  "dailyNum": 3,
+  "totalNum": 21,
+  "privilegeType": [
+   {
+    "type": "REUNION_V2_PRIVILEGE_TYPE_DUNGEON",
+    "subType": "DUNGEON_DAILY_FIGHT",
+    "FIFINDEGOLH": true
+   },
+   {
+    "type": "REUNION_V2_PRIVILEGE_TYPE_BLOSSOM",
+    "subType": "BLOSSOM_REFRESH_SCOIN;BLOSSOM_REFRESH_EXP",
+    "FIFINDEGOLH": true
+   },
+   {
+    "type": "REUNION_V2_PRIVILEGE_TYPE_PERSONALLINE_OR_COOP",
+    "subType": "",
+    "dailyNum": 3,
+    "totalNum": 3
+   }
+  ]
+ }
 ]

@@ -1,866 +1,866 @@
 [
-  {
-    "levelId": 1,
-    "stageId": 1,
-    "watcherId": 12010601,
-    "levelNameTextMapHash": 1270069152,
-    "iconSilhouette": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_01",
-    "iconNormal": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_01",
-    "endDialogIconOffsetX": 0.001484,
-    "endDialogIconOffsetY": 0.068889,
-    "endDialogIconScale": 0.669306,
-    "sceneSuiteId": 2,
-    "rootPointCorrectPose": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
+ {
+  "levelId": 1,
+  "stageId": 1,
+  "watcherId": 12010601,
+  "levelNameTextMapHash": 1270069152,
+  "iconSilhouette": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_01",
+  "iconNormal": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_01",
+  "endDialogIconOffsetX": 0.001484,
+  "endDialogIconOffsetY": 0.068889,
+  "endDialogIconScale": 0.669306,
+  "sceneSuiteId": 2,
+  "rootPointCorrectPose": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "rootPointInitialPose": [],
+  "rootPointFreeRotationTolerance": [],
+  "rootPointSingleAxisRotationAxis": [],
+  "rootPointSingleAxisRotationLimit": [],
+  "hierarchy": [
+   [],
+   []
+  ],
+  "elementConfigs": [
+   {
+    "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_03_Vo",
+    "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_25_Vo",
+    "correctPose": [
+     0,
+     0,
+     0,
+     90,
+     180,
+     0
     ],
-    "rootPointInitialPose": [],
-    "rootPointFreeRotationTolerance": [],
-    "rootPointSingleAxisRotationAxis": [],
-    "rootPointSingleAxisRotationLimit": [],
-    "hierarchy": [
-      [],
-      []
+    "initialPose": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
     ],
-    "elementConfigs": [
-      {
-        "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_03_Vo",
-        "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_25_Vo",
-        "correctPose": [
-          0,
-          0,
-          0,
-          90,
-          180,
-          0
-        ],
-        "initialPose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "freeRotationTolerance": [
-          50,
-          5
-        ],
-        "singleAxisMotionAxis": [],
-        "singleAxisMotionLimit": []
-      },
-      {
-        "prefabPath": "",
-        "shadowPrefabPath": "",
-        "correctPose": [],
-        "initialPose": [],
-        "freeRotationTolerance": [],
-        "singleAxisMotionAxis": [],
-        "singleAxisMotionLimit": []
-      },
-      {
-        "prefabPath": "",
-        "shadowPrefabPath": "",
-        "correctPose": [],
-        "initialPose": [],
-        "freeRotationTolerance": [],
-        "singleAxisMotionAxis": [],
-        "singleAxisMotionLimit": []
-      }
-    ]
-  },
-  {
-    "levelId": 2,
-    "stageId": 1,
-    "watcherId": 12010602,
-    "levelNameTextMapHash": 1399174272,
-    "iconSilhouette": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_02",
-    "iconNormal": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_02",
-    "endDialogIconOffsetX": 0.005694,
-    "endDialogIconOffsetY": 0.01825,
-    "endDialogIconScale": 0.637917,
-    "sceneSuiteId": 2,
-    "rootPointCorrectPose": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
+    "freeRotationTolerance": [
+     50,
+     5
     ],
-    "rootPointInitialPose": [],
-    "rootPointFreeRotationTolerance": [],
-    "rootPointSingleAxisRotationAxis": [],
-    "rootPointSingleAxisRotationLimit": [],
-    "hierarchy": [
-      [],
-      []
+    "singleAxisMotionAxis": [],
+    "singleAxisMotionLimit": []
+   },
+   {
+    "prefabPath": "",
+    "shadowPrefabPath": "",
+    "correctPose": [],
+    "initialPose": [],
+    "freeRotationTolerance": [],
+    "singleAxisMotionAxis": [],
+    "singleAxisMotionLimit": []
+   },
+   {
+    "prefabPath": "",
+    "shadowPrefabPath": "",
+    "correctPose": [],
+    "initialPose": [],
+    "freeRotationTolerance": [],
+    "singleAxisMotionAxis": [],
+    "singleAxisMotionLimit": []
+   }
+  ]
+ },
+ {
+  "levelId": 2,
+  "stageId": 1,
+  "watcherId": 12010602,
+  "levelNameTextMapHash": 1399174272,
+  "iconSilhouette": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_02",
+  "iconNormal": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_02",
+  "endDialogIconOffsetX": 0.005694,
+  "endDialogIconOffsetY": 0.01825,
+  "endDialogIconScale": 0.637917,
+  "sceneSuiteId": 2,
+  "rootPointCorrectPose": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "rootPointInitialPose": [],
+  "rootPointFreeRotationTolerance": [],
+  "rootPointSingleAxisRotationAxis": [],
+  "rootPointSingleAxisRotationLimit": [],
+  "hierarchy": [
+   [],
+   []
+  ],
+  "elementConfigs": [
+   {
+    "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_02_Vo",
+    "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_21_Vo",
+    "correctPose": [
+     0,
+     0,
+     0,
+     90,
+     180,
+     0
     ],
-    "elementConfigs": [
-      {
-        "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_02_Vo",
-        "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_21_Vo",
-        "correctPose": [
-          0,
-          0,
-          0,
-          90,
-          180,
-          0
-        ],
-        "initialPose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "freeRotationTolerance": [
-          30,
-          5
-        ],
-        "singleAxisMotionAxis": [],
-        "singleAxisMotionLimit": []
-      },
-      {
-        "prefabPath": "",
-        "shadowPrefabPath": "",
-        "correctPose": [],
-        "initialPose": [],
-        "freeRotationTolerance": [],
-        "singleAxisMotionAxis": [],
-        "singleAxisMotionLimit": []
-      },
-      {
-        "prefabPath": "",
-        "shadowPrefabPath": "",
-        "correctPose": [],
-        "initialPose": [],
-        "freeRotationTolerance": [],
-        "singleAxisMotionAxis": [],
-        "singleAxisMotionLimit": []
-      }
-    ]
-  },
-  {
-    "levelId": 3,
-    "stageId": 1,
-    "watcherId": 12010603,
-    "levelNameTextMapHash": 1627081888,
-    "iconSilhouette": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_03",
-    "iconNormal": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_03",
-    "endDialogIconOffsetX": 0.006847,
-    "endDialogIconOffsetY": -0.016194,
-    "endDialogIconScale": 0.641944,
-    "sceneSuiteId": 2,
-    "rootPointCorrectPose": [
-      0,
-      0,
-      0,
-      0,
-      0,
-      0
+    "initialPose": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
     ],
-    "rootPointInitialPose": [],
-    "rootPointFreeRotationTolerance": [],
-    "rootPointSingleAxisRotationAxis": [],
-    "rootPointSingleAxisRotationLimit": [],
-    "hierarchy": [
-      [],
-      []
+    "freeRotationTolerance": [
+     30,
+     5
     ],
-    "elementConfigs": [
-      {
-        "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_01_Vo",
-        "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_20_Vo",
-        "correctPose": [
-          0,
-          0,
-          0,
-          -90,
-          0,
-          0
-        ],
-        "initialPose": [
-          0,
-          0,
-          0,
-          0,
-          30,
-          0
-        ],
-        "freeRotationTolerance": [
-          50,
-          5
-        ],
-        "singleAxisMotionAxis": [],
-        "singleAxisMotionLimit": []
-      },
-      {
-        "prefabPath": "",
-        "shadowPrefabPath": "",
-        "correctPose": [],
-        "initialPose": [],
-        "freeRotationTolerance": [],
-        "singleAxisMotionAxis": [],
-        "singleAxisMotionLimit": []
-      },
-      {
-        "prefabPath": "",
-        "shadowPrefabPath": "",
-        "correctPose": [],
-        "initialPose": [],
-        "freeRotationTolerance": [],
-        "singleAxisMotionAxis": [],
-        "singleAxisMotionLimit": []
-      }
-    ]
-  },
-  {
-    "levelId": 4,
-    "stageId": 2,
-    "watcherId": 12010604,
-    "levelNameTextMapHash": 2254330752,
-    "iconSilhouette": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_04",
-    "iconNormal": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_04",
-    "endDialogIconOffsetY": 0.067778,
-    "endDialogIconScale": 0.524389,
-    "sceneSuiteId": 1,
-    "rootPointCorrectPose": [
-      0,
-      0,
-      0,
-      90,
-      180,
-      0
+    "singleAxisMotionAxis": [],
+    "singleAxisMotionLimit": []
+   },
+   {
+    "prefabPath": "",
+    "shadowPrefabPath": "",
+    "correctPose": [],
+    "initialPose": [],
+    "freeRotationTolerance": [],
+    "singleAxisMotionAxis": [],
+    "singleAxisMotionLimit": []
+   },
+   {
+    "prefabPath": "",
+    "shadowPrefabPath": "",
+    "correctPose": [],
+    "initialPose": [],
+    "freeRotationTolerance": [],
+    "singleAxisMotionAxis": [],
+    "singleAxisMotionLimit": []
+   }
+  ]
+ },
+ {
+  "levelId": 3,
+  "stageId": 1,
+  "watcherId": 12010603,
+  "levelNameTextMapHash": 1627081888,
+  "iconSilhouette": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_03",
+  "iconNormal": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_03",
+  "endDialogIconOffsetX": 0.006847,
+  "endDialogIconOffsetY": -0.016194,
+  "endDialogIconScale": 0.641944,
+  "sceneSuiteId": 2,
+  "rootPointCorrectPose": [
+   0,
+   0,
+   0,
+   0,
+   0,
+   0
+  ],
+  "rootPointInitialPose": [],
+  "rootPointFreeRotationTolerance": [],
+  "rootPointSingleAxisRotationAxis": [],
+  "rootPointSingleAxisRotationLimit": [],
+  "hierarchy": [
+   [],
+   []
+  ],
+  "elementConfigs": [
+   {
+    "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_01_Vo",
+    "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_20_Vo",
+    "correctPose": [
+     0,
+     0,
+     0,
+     -90,
+     0,
+     0
     ],
-    "rootPointInitialPose": [],
-    "rootPointFreeRotationTolerance": [],
-    "rootPointSingleAxisRotationAxis": [],
-    "rootPointSingleAxisRotationLimit": [],
-    "hierarchy": [
-      [
-        1,
-        0
-      ],
-      []
+    "initialPose": [
+     0,
+     0,
+     0,
+     0,
+     30,
+     0
     ],
-    "elementConfigs": [
-      {
-        "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_17_Vo",
-        "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_27_Vo",
-        "switchButtonConfigId": 11,
-        "correctPose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "initialPose": [
-          0,
-          0,
-          0,
-          341,
-          271,
-          278
-        ],
-        "freeRotationTolerance": [
-          180,
-          10
-        ],
-        "singleAxisMotionAxis": [],
-        "singleAxisMotionLimit": []
-      },
-      {
-        "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_18_Vo",
-        "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_26_Vo",
-        "switchButtonConfigId": 2,
-        "correctPose": [
-          -0.31,
-          -0.14,
-          0.69,
-          0,
-          0,
-          0
-        ],
-        "initialPose": [
-          0.2,
-          -0.14,
-          1.1,
-          0,
-          0,
-          0
-        ],
-        "motionType": "SingleAxisTranslation",
-        "freeRotationTolerance": [],
-        "singleAxisMotionAxis": [
-          1,
-          0,
-          0.8
-        ],
-        "singleAxisMotionLimit": [
-          -0.1,
-          0.67
-        ],
-        "singleAxisMotionTolerance": 0.1
-      },
-      {
-        "prefabPath": "",
-        "shadowPrefabPath": "",
-        "correctPose": [],
-        "initialPose": [],
-        "freeRotationTolerance": [],
-        "singleAxisMotionAxis": [],
-        "singleAxisMotionLimit": []
-      }
-    ]
-  },
-  {
-    "levelId": 5,
-    "stageId": 2,
-    "watcherId": 12010605,
-    "levelNameTextMapHash": 532233104,
-    "iconSilhouette": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_05",
-    "iconNormal": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_05",
-    "endDialogIconOffsetY": 0.044833,
-    "endDialogIconScale": 0.592917,
-    "sceneSuiteId": 1,
-    "rootPointCorrectPose": [
-      0,
-      0,
-      0,
-      90,
-      180,
-      0
+    "freeRotationTolerance": [
+     50,
+     5
     ],
-    "rootPointInitialPose": [],
-    "rootPointFreeRotationTolerance": [],
-    "rootPointSingleAxisRotationAxis": [],
-    "rootPointSingleAxisRotationLimit": [],
-    "hierarchy": [
-      [
-        1,
-        0
-      ],
-      []
+    "singleAxisMotionAxis": [],
+    "singleAxisMotionLimit": []
+   },
+   {
+    "prefabPath": "",
+    "shadowPrefabPath": "",
+    "correctPose": [],
+    "initialPose": [],
+    "freeRotationTolerance": [],
+    "singleAxisMotionAxis": [],
+    "singleAxisMotionLimit": []
+   },
+   {
+    "prefabPath": "",
+    "shadowPrefabPath": "",
+    "correctPose": [],
+    "initialPose": [],
+    "freeRotationTolerance": [],
+    "singleAxisMotionAxis": [],
+    "singleAxisMotionLimit": []
+   }
+  ]
+ },
+ {
+  "levelId": 4,
+  "stageId": 2,
+  "watcherId": 12010604,
+  "levelNameTextMapHash": 2254330752,
+  "iconSilhouette": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_04",
+  "iconNormal": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_04",
+  "endDialogIconOffsetY": 0.067778,
+  "endDialogIconScale": 0.524389,
+  "sceneSuiteId": 1,
+  "rootPointCorrectPose": [
+   0,
+   0,
+   0,
+   90,
+   180,
+   0
+  ],
+  "rootPointInitialPose": [],
+  "rootPointFreeRotationTolerance": [],
+  "rootPointSingleAxisRotationAxis": [],
+  "rootPointSingleAxisRotationLimit": [],
+  "hierarchy": [
+   [
+    1,
+    0
+   ],
+   []
+  ],
+  "elementConfigs": [
+   {
+    "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_17_Vo",
+    "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_27_Vo",
+    "switchButtonConfigId": 11,
+    "correctPose": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
     ],
-    "elementConfigs": [
-      {
-        "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_16_Vo",
-        "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_29_Vo",
-        "switchButtonConfigId": 11,
-        "correctPose": [
-          0,
-          0.5,
-          0,
-          0,
-          0,
-          0
-        ],
-        "initialPose": [
-          0,
-          0.5,
-          0,
-          0,
-          0,
-          90
-        ],
-        "freeRotationTolerance": [
-          30,
-          10
-        ],
-        "singleAxisMotionAxis": [],
-        "singleAxisMotionLimit": []
-      },
-      {
-        "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_15_Vo",
-        "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_28_Vo",
-        "switchButtonConfigId": 2,
-        "correctPose": [
-          0,
-          -1,
-          0.32,
-          0,
-          0,
-          0
-        ],
-        "initialPose": [
-          0,
-          -1,
-          0.32,
-          90,
-          0,
-          0
-        ],
-        "motionType": "SingleAxisRotation",
-        "freeRotationTolerance": [],
-        "singleAxisMotionAxis": [
-          1,
-          0,
-          0
-        ],
-        "singleAxisMotionLimit": [],
-        "singleAxisMotionTolerance": 10
-      },
-      {
-        "prefabPath": "",
-        "shadowPrefabPath": "",
-        "correctPose": [],
-        "initialPose": [],
-        "freeRotationTolerance": [],
-        "singleAxisMotionAxis": [],
-        "singleAxisMotionLimit": []
-      }
-    ]
-  },
-  {
-    "levelId": 6,
-    "stageId": 2,
-    "watcherId": 12010606,
-    "levelNameTextMapHash": 1775689848,
-    "iconSilhouette": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_06s",
-    "iconNormal": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_06",
-    "endDialogIconOffsetY": 0.050417,
-    "endDialogIconScale": 0.569444,
-    "sceneSuiteId": 1,
-    "rootPointCorrectPose": [
-      0,
-      0,
-      0,
-      90,
-      180,
-      0
+    "initialPose": [
+     0,
+     0,
+     0,
+     341,
+     271,
+     278
     ],
-    "rootPointInitialPose": [],
-    "rootPointFreeRotationTolerance": [],
-    "rootPointSingleAxisRotationAxis": [],
-    "rootPointSingleAxisRotationLimit": [],
-    "hierarchy": [
-      [
-        1,
-        0
-      ],
-      []
+    "freeRotationTolerance": [
+     180,
+     10
     ],
-    "elementConfigs": [
-      {
-        "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_14_Vo",
-        "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_30_Vo",
-        "switchButtonConfigId": 11,
-        "correctPose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "initialPose": [
-          0,
-          0,
-          0,
-          16,
-          22,
-          81
-        ],
-        "freeRotationTolerance": [
-          180,
-          10
-        ],
-        "singleAxisMotionAxis": [],
-        "singleAxisMotionLimit": []
-      },
-      {
-        "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_13_Vo",
-        "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_31_Vo",
-        "switchButtonConfigId": 2,
-        "correctPose": [
-          -0.41,
-          0.68,
-          0,
-          0,
-          0,
-          0
-        ],
-        "initialPose": [
-          -0.41,
-          0.68,
-          0,
-          81,
-          2,
-          162
-        ],
-        "freeRotationTolerance": [
-          10,
-          10
-        ],
-        "singleAxisMotionAxis": [],
-        "singleAxisMotionLimit": []
-      },
-      {
-        "prefabPath": "",
-        "shadowPrefabPath": "",
-        "correctPose": [],
-        "initialPose": [],
-        "freeRotationTolerance": [],
-        "singleAxisMotionAxis": [],
-        "singleAxisMotionLimit": []
-      }
-    ]
-  },
-  {
-    "levelId": 7,
-    "stageId": 3,
-    "watcherId": 12010608,
-    "levelNameTextMapHash": 3747915856,
-    "iconSilhouette": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_07",
-    "iconNormal": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_07",
-    "endDialogIconOffsetX": -0.001797,
-    "endDialogIconOffsetY": 0.035139,
-    "endDialogIconScale": 0.664861,
-    "sceneSuiteId": 3,
-    "rootPointSwitchButtonConfigId": 11,
-    "rootPointCorrectPose": [
-      -0.2,
-      0,
-      0,
-      90,
-      180,
-      0
+    "singleAxisMotionAxis": [],
+    "singleAxisMotionLimit": []
+   },
+   {
+    "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_18_Vo",
+    "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_26_Vo",
+    "switchButtonConfigId": 2,
+    "correctPose": [
+     -0.31,
+     -0.14,
+     0.69,
+     0,
+     0,
+     0
     ],
-    "rootPointInitialPose": [
-      -0.2,
-      0,
-      0,
-      90,
-      90,
-      0
+    "initialPose": [
+     0.2,
+     -0.14,
+     1.1,
+     0,
+     0,
+     0
     ],
-    "rootPointMotionType": "SingleAxisRotation",
-    "rootPointFreeRotationTolerance": [],
-    "rootPointSingleAxisRotationAxis": [
-      0,
-      1,
-      0
+    "motionType": "SingleAxisTranslation",
+    "freeRotationTolerance": [],
+    "singleAxisMotionAxis": [
+     1,
+     0,
+     0.8
     ],
-    "rootPointSingleAxisRotationLimit": [
-      -90,
-      90
+    "singleAxisMotionLimit": [
+     -0.1,
+     0.67
     ],
-    "rootPointSingleAxisRotationTolerance": 20,
-    "hierarchy": [
-      [],
-      []
+    "singleAxisMotionTolerance": 0.1
+   },
+   {
+    "prefabPath": "",
+    "shadowPrefabPath": "",
+    "correctPose": [],
+    "initialPose": [],
+    "freeRotationTolerance": [],
+    "singleAxisMotionAxis": [],
+    "singleAxisMotionLimit": []
+   }
+  ]
+ },
+ {
+  "levelId": 5,
+  "stageId": 2,
+  "watcherId": 12010605,
+  "levelNameTextMapHash": 532233104,
+  "iconSilhouette": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_05",
+  "iconNormal": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_05",
+  "endDialogIconOffsetY": 0.044833,
+  "endDialogIconScale": 0.592917,
+  "sceneSuiteId": 1,
+  "rootPointCorrectPose": [
+   0,
+   0,
+   0,
+   90,
+   180,
+   0
+  ],
+  "rootPointInitialPose": [],
+  "rootPointFreeRotationTolerance": [],
+  "rootPointSingleAxisRotationAxis": [],
+  "rootPointSingleAxisRotationLimit": [],
+  "hierarchy": [
+   [
+    1,
+    0
+   ],
+   []
+  ],
+  "elementConfigs": [
+   {
+    "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_16_Vo",
+    "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_29_Vo",
+    "switchButtonConfigId": 11,
+    "correctPose": [
+     0,
+     0.5,
+     0,
+     0,
+     0,
+     0
     ],
-    "elementConfigs": [
-      {
-        "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_10_Vo",
-        "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_34_Vo",
-        "switchButtonConfigId": 1,
-        "correctPose": [
-          -0.2,
-          1,
-          0.46,
-          0,
-          0,
-          0
-        ],
-        "initialPose": [
-          -0.2,
-          1,
-          0.46,
-          45,
-          277,
-          137
-        ],
-        "freeRotationTolerance": [
-          25,
-          25
-        ],
-        "singleAxisMotionAxis": [],
-        "singleAxisMotionLimit": []
-      },
-      {
-        "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_12_Vo",
-        "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_35_Vo",
-        "switchButtonConfigId": 2,
-        "correctPose": [
-          0.2,
-          -1,
-          -0.46,
-          0,
-          0,
-          0
-        ],
-        "initialPose": [
-          0.2,
-          -1,
-          -0.46,
-          328,
-          74,
-          57
-        ],
-        "freeRotationTolerance": [
-          25,
-          20
-        ],
-        "singleAxisMotionAxis": [],
-        "singleAxisMotionLimit": []
-      },
-      {
-        "prefabPath": "",
-        "shadowPrefabPath": "",
-        "correctPose": [],
-        "initialPose": [],
-        "freeRotationTolerance": [],
-        "singleAxisMotionAxis": [],
-        "singleAxisMotionLimit": []
-      }
-    ]
-  },
-  {
-    "levelId": 8,
-    "stageId": 3,
-    "watcherId": 12010607,
-    "levelNameTextMapHash": 1322719296,
-    "iconSilhouette": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_08",
-    "iconNormal": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_08",
-    "endDialogIconOffsetX": 0.019167,
-    "endDialogIconOffsetY": 0.019444,
-    "endDialogIconScale": 0.535972,
-    "sceneSuiteId": 3,
-    "rootPointSwitchButtonConfigId": 11,
-    "rootPointCorrectPose": [
-      0,
-      0,
-      0,
-      90,
-      180,
-      0
+    "initialPose": [
+     0,
+     0.5,
+     0,
+     0,
+     0,
+     90
     ],
-    "rootPointInitialPose": [
-      0,
-      0,
-      0,
-      90,
-      90,
-      0
+    "freeRotationTolerance": [
+     30,
+     10
     ],
-    "rootPointMotionType": "SingleAxisRotation",
-    "rootPointFreeRotationTolerance": [],
-    "rootPointSingleAxisRotationAxis": [
-      0,
-      1,
-      0
+    "singleAxisMotionAxis": [],
+    "singleAxisMotionLimit": []
+   },
+   {
+    "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_15_Vo",
+    "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_28_Vo",
+    "switchButtonConfigId": 2,
+    "correctPose": [
+     0,
+     -1,
+     0.32,
+     0,
+     0,
+     0
     ],
-    "rootPointSingleAxisRotationLimit": [
-      -90,
-      90
+    "initialPose": [
+     0,
+     -1,
+     0.32,
+     90,
+     0,
+     0
     ],
-    "rootPointSingleAxisRotationTolerance": 20,
-    "hierarchy": [
-      [],
-      []
+    "motionType": "SingleAxisRotation",
+    "freeRotationTolerance": [],
+    "singleAxisMotionAxis": [
+     1,
+     0,
+     0
     ],
-    "elementConfigs": [
-      {
-        "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_07_Vo",
-        "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_33_Vo",
-        "switchButtonConfigId": 1,
-        "correctPose": [
-          0.21,
-          -1,
-          -0.12,
-          0,
-          0,
-          0
-        ],
-        "initialPose": [
-          0.21,
-          -1,
-          -0.12,
-          284,
-          166,
-          63
-        ],
-        "freeRotationTolerance": [
-          35,
-          20
-        ],
-        "singleAxisMotionAxis": [],
-        "singleAxisMotionLimit": []
-      },
-      {
-        "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_08_Vo",
-        "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_32_Vo",
-        "switchButtonConfigId": 2,
-        "correctPose": [
-          -0.21,
-          1,
-          0.12,
-          0,
-          0,
-          0
-        ],
-        "initialPose": [
-          -0.21,
-          1,
-          0.12,
-          326,
-          322,
-          220
-        ],
-        "freeRotationTolerance": [
-          35,
-          20
-        ],
-        "singleAxisMotionAxis": [],
-        "singleAxisMotionLimit": []
-      },
-      {
-        "prefabPath": "",
-        "shadowPrefabPath": "",
-        "correctPose": [],
-        "initialPose": [],
-        "freeRotationTolerance": [],
-        "singleAxisMotionAxis": [],
-        "singleAxisMotionLimit": []
-      }
-    ]
-  },
-  {
-    "levelId": 9,
-    "stageId": 3,
-    "watcherId": 12010609,
-    "levelNameTextMapHash": 4258426304,
-    "iconSilhouette": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_09",
-    "iconNormal": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_09",
-    "endDialogIconOffsetX": -0.092556,
-    "endDialogIconOffsetY": 0.05,
-    "endDialogIconScale": 0.612444,
-    "sceneSuiteId": 3,
-    "rootPointSwitchButtonConfigId": 11,
-    "rootPointCorrectPose": [
-      0,
-      0,
-      0,
-      90,
-      180,
-      0
+    "singleAxisMotionLimit": [],
+    "singleAxisMotionTolerance": 10
+   },
+   {
+    "prefabPath": "",
+    "shadowPrefabPath": "",
+    "correctPose": [],
+    "initialPose": [],
+    "freeRotationTolerance": [],
+    "singleAxisMotionAxis": [],
+    "singleAxisMotionLimit": []
+   }
+  ]
+ },
+ {
+  "levelId": 6,
+  "stageId": 2,
+  "watcherId": 12010606,
+  "levelNameTextMapHash": 1775689848,
+  "iconSilhouette": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_06s",
+  "iconNormal": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_06",
+  "endDialogIconOffsetY": 0.050417,
+  "endDialogIconScale": 0.569444,
+  "sceneSuiteId": 1,
+  "rootPointCorrectPose": [
+   0,
+   0,
+   0,
+   90,
+   180,
+   0
+  ],
+  "rootPointInitialPose": [],
+  "rootPointFreeRotationTolerance": [],
+  "rootPointSingleAxisRotationAxis": [],
+  "rootPointSingleAxisRotationLimit": [],
+  "hierarchy": [
+   [
+    1,
+    0
+   ],
+   []
+  ],
+  "elementConfigs": [
+   {
+    "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_14_Vo",
+    "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_30_Vo",
+    "switchButtonConfigId": 11,
+    "correctPose": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
     ],
-    "rootPointInitialPose": [
-      0,
-      0,
-      0,
-      90,
-      270,
-      0
+    "initialPose": [
+     0,
+     0,
+     0,
+     16,
+     22,
+     81
     ],
-    "rootPointMotionType": "SingleAxisRotation",
-    "rootPointFreeRotationTolerance": [],
-    "rootPointSingleAxisRotationAxis": [
-      0,
-      1,
-      0
+    "freeRotationTolerance": [
+     180,
+     10
     ],
-    "rootPointSingleAxisRotationLimit": [
-      -90,
-      90
+    "singleAxisMotionAxis": [],
+    "singleAxisMotionLimit": []
+   },
+   {
+    "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_13_Vo",
+    "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_31_Vo",
+    "switchButtonConfigId": 2,
+    "correctPose": [
+     -0.41,
+     0.68,
+     0,
+     0,
+     0,
+     0
     ],
-    "rootPointSingleAxisRotationTolerance": 20,
-    "hierarchy": [
-      [],
-      []
+    "initialPose": [
+     -0.41,
+     0.68,
+     0,
+     81,
+     2,
+     162
     ],
-    "elementConfigs": [
-      {
-        "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_04_Vo",
-        "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_36_Vo",
-        "switchButtonConfigId": 1,
-        "correctPose": [
-          -0.19,
-          -1.14,
-          -0.6,
-          0,
-          0,
-          0
-        ],
-        "initialPose": [
-          -0.19,
-          -1.14,
-          -0.6,
-          28,
-          315,
-          135
-        ],
-        "freeRotationTolerance": [
-          40,
-          20
-        ],
-        "singleAxisMotionAxis": [],
-        "singleAxisMotionLimit": []
-      },
-      {
-        "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_05_Vo",
-        "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_37_Vo",
-        "switchButtonConfigId": 2,
-        "correctPose": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "initialPose": [
-          0,
-          0,
-          0,
-          350,
-          310,
-          321
-        ],
-        "freeRotationTolerance": [
-          40,
-          20
-        ],
-        "singleAxisMotionAxis": [],
-        "singleAxisMotionLimit": []
-      },
-      {
-        "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_06_Vo",
-        "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_38_Vo",
-        "switchButtonConfigId": 3,
-        "correctPose": [
-          0.18,
-          1.06,
-          0.56,
-          0,
-          0,
-          0
-        ],
-        "initialPose": [
-          0.18,
-          1.06,
-          0.56,
-          9,
-          338,
-          359
-        ],
-        "freeRotationTolerance": [
-          20,
-          20
-        ],
-        "singleAxisMotionAxis": [],
-        "singleAxisMotionLimit": []
-      }
-    ]
-  }
+    "freeRotationTolerance": [
+     10,
+     10
+    ],
+    "singleAxisMotionAxis": [],
+    "singleAxisMotionLimit": []
+   },
+   {
+    "prefabPath": "",
+    "shadowPrefabPath": "",
+    "correctPose": [],
+    "initialPose": [],
+    "freeRotationTolerance": [],
+    "singleAxisMotionAxis": [],
+    "singleAxisMotionLimit": []
+   }
+  ]
+ },
+ {
+  "levelId": 7,
+  "stageId": 3,
+  "watcherId": 12010608,
+  "levelNameTextMapHash": 3747915856,
+  "iconSilhouette": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_07",
+  "iconNormal": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_07",
+  "endDialogIconOffsetX": -0.001797,
+  "endDialogIconOffsetY": 0.035139,
+  "endDialogIconScale": 0.664861,
+  "sceneSuiteId": 3,
+  "rootPointSwitchButtonConfigId": 11,
+  "rootPointCorrectPose": [
+   -0.2,
+   0,
+   0,
+   90,
+   180,
+   0
+  ],
+  "rootPointInitialPose": [
+   -0.2,
+   0,
+   0,
+   90,
+   90,
+   0
+  ],
+  "rootPointMotionType": "SingleAxisRotation",
+  "rootPointFreeRotationTolerance": [],
+  "rootPointSingleAxisRotationAxis": [
+   0,
+   1,
+   0
+  ],
+  "rootPointSingleAxisRotationLimit": [
+   -90,
+   90
+  ],
+  "rootPointSingleAxisRotationTolerance": 20,
+  "hierarchy": [
+   [],
+   []
+  ],
+  "elementConfigs": [
+   {
+    "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_10_Vo",
+    "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_34_Vo",
+    "switchButtonConfigId": 1,
+    "correctPose": [
+     -0.2,
+     1,
+     0.46,
+     0,
+     0,
+     0
+    ],
+    "initialPose": [
+     -0.2,
+     1,
+     0.46,
+     45,
+     277,
+     137
+    ],
+    "freeRotationTolerance": [
+     25,
+     25
+    ],
+    "singleAxisMotionAxis": [],
+    "singleAxisMotionLimit": []
+   },
+   {
+    "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_12_Vo",
+    "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_35_Vo",
+    "switchButtonConfigId": 2,
+    "correctPose": [
+     0.2,
+     -1,
+     -0.46,
+     0,
+     0,
+     0
+    ],
+    "initialPose": [
+     0.2,
+     -1,
+     -0.46,
+     328,
+     74,
+     57
+    ],
+    "freeRotationTolerance": [
+     25,
+     20
+    ],
+    "singleAxisMotionAxis": [],
+    "singleAxisMotionLimit": []
+   },
+   {
+    "prefabPath": "",
+    "shadowPrefabPath": "",
+    "correctPose": [],
+    "initialPose": [],
+    "freeRotationTolerance": [],
+    "singleAxisMotionAxis": [],
+    "singleAxisMotionLimit": []
+   }
+  ]
+ },
+ {
+  "levelId": 8,
+  "stageId": 3,
+  "watcherId": 12010607,
+  "levelNameTextMapHash": 1322719296,
+  "iconSilhouette": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_08",
+  "iconNormal": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_08",
+  "endDialogIconOffsetX": 0.019167,
+  "endDialogIconOffsetY": 0.019444,
+  "endDialogIconScale": 0.535972,
+  "sceneSuiteId": 3,
+  "rootPointSwitchButtonConfigId": 11,
+  "rootPointCorrectPose": [
+   0,
+   0,
+   0,
+   90,
+   180,
+   0
+  ],
+  "rootPointInitialPose": [
+   0,
+   0,
+   0,
+   90,
+   90,
+   0
+  ],
+  "rootPointMotionType": "SingleAxisRotation",
+  "rootPointFreeRotationTolerance": [],
+  "rootPointSingleAxisRotationAxis": [
+   0,
+   1,
+   0
+  ],
+  "rootPointSingleAxisRotationLimit": [
+   -90,
+   90
+  ],
+  "rootPointSingleAxisRotationTolerance": 20,
+  "hierarchy": [
+   [],
+   []
+  ],
+  "elementConfigs": [
+   {
+    "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_07_Vo",
+    "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_33_Vo",
+    "switchButtonConfigId": 1,
+    "correctPose": [
+     0.21,
+     -1,
+     -0.12,
+     0,
+     0,
+     0
+    ],
+    "initialPose": [
+     0.21,
+     -1,
+     -0.12,
+     284,
+     166,
+     63
+    ],
+    "freeRotationTolerance": [
+     35,
+     20
+    ],
+    "singleAxisMotionAxis": [],
+    "singleAxisMotionLimit": []
+   },
+   {
+    "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_08_Vo",
+    "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_32_Vo",
+    "switchButtonConfigId": 2,
+    "correctPose": [
+     -0.21,
+     1,
+     0.12,
+     0,
+     0,
+     0
+    ],
+    "initialPose": [
+     -0.21,
+     1,
+     0.12,
+     326,
+     322,
+     220
+    ],
+    "freeRotationTolerance": [
+     35,
+     20
+    ],
+    "singleAxisMotionAxis": [],
+    "singleAxisMotionLimit": []
+   },
+   {
+    "prefabPath": "",
+    "shadowPrefabPath": "",
+    "correctPose": [],
+    "initialPose": [],
+    "freeRotationTolerance": [],
+    "singleAxisMotionAxis": [],
+    "singleAxisMotionLimit": []
+   }
+  ]
+ },
+ {
+  "levelId": 9,
+  "stageId": 3,
+  "watcherId": 12010609,
+  "levelNameTextMapHash": 4258426304,
+  "iconSilhouette": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_09",
+  "iconNormal": "ART/UI/Atlas/LanternRiteV2/UI_LanternRiteV2_LampExplore_Projection_09",
+  "endDialogIconOffsetX": -0.092556,
+  "endDialogIconOffsetY": 0.05,
+  "endDialogIconScale": 0.612444,
+  "sceneSuiteId": 3,
+  "rootPointSwitchButtonConfigId": 11,
+  "rootPointCorrectPose": [
+   0,
+   0,
+   0,
+   90,
+   180,
+   0
+  ],
+  "rootPointInitialPose": [
+   0,
+   0,
+   0,
+   90,
+   270,
+   0
+  ],
+  "rootPointMotionType": "SingleAxisRotation",
+  "rootPointFreeRotationTolerance": [],
+  "rootPointSingleAxisRotationAxis": [
+   0,
+   1,
+   0
+  ],
+  "rootPointSingleAxisRotationLimit": [
+   -90,
+   90
+  ],
+  "rootPointSingleAxisRotationTolerance": 20,
+  "hierarchy": [
+   [],
+   []
+  ],
+  "elementConfigs": [
+   {
+    "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_04_Vo",
+    "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_36_Vo",
+    "switchButtonConfigId": 1,
+    "correctPose": [
+     -0.19,
+     -1.14,
+     -0.6,
+     0,
+     0,
+     0
+    ],
+    "initialPose": [
+     -0.19,
+     -1.14,
+     -0.6,
+     28,
+     315,
+     135
+    ],
+    "freeRotationTolerance": [
+     40,
+     20
+    ],
+    "singleAxisMotionAxis": [],
+    "singleAxisMotionLimit": []
+   },
+   {
+    "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_05_Vo",
+    "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_37_Vo",
+    "switchButtonConfigId": 2,
+    "correctPose": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ],
+    "initialPose": [
+     0,
+     0,
+     0,
+     350,
+     310,
+     321
+    ],
+    "freeRotationTolerance": [
+     40,
+     20
+    ],
+    "singleAxisMotionAxis": [],
+    "singleAxisMotionLimit": []
+   },
+   {
+    "prefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_06_Vo",
+    "shadowPrefabPath": "ART/Others/Gadget/Static/Prop/Property_Prop_ProjectionParts_01_38_Vo",
+    "switchButtonConfigId": 3,
+    "correctPose": [
+     0.18,
+     1.06,
+     0.56,
+     0,
+     0,
+     0
+    ],
+    "initialPose": [
+     0.18,
+     1.06,
+     0.56,
+     9,
+     338,
+     359
+    ],
+    "freeRotationTolerance": [
+     20,
+     20
+    ],
+    "singleAxisMotionAxis": [],
+    "singleAxisMotionLimit": []
+   }
+  ]
+ }
 ]
