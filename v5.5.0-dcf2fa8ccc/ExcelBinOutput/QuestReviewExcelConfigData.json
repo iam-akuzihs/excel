@@ -1,58 +1,58 @@
 [
   {
-    "ELKKIAIGOBK": 1,
+    "id": 1,
     "IGDNKPKICKF": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
-    "ELKKIAIGOBK": 2,
+    "id": 2,
     "IBPIKCILNBB": [
       1,
       2
     ],
     "IGDNKPKICKF": [
       {
-        "DELBOOLKFAO": "QUEST_GLOBAL_VAR_EQ",
+        "type": "QUEST_GLOBAL_VAR_EQ",
         "LJNDHEEHIBD": "10004,1"
       }
     ]
   },
   {
-    "ELKKIAIGOBK": 75048,
+    "id": 75048,
     "IBPIKCILNBB": [
       75002
     ],
     "IGDNKPKICKF": [
       {
-        "DELBOOLKFAO": "QUEST_GLOBAL_VAR_EQ",
+        "type": "QUEST_GLOBAL_VAR_EQ",
         "LJNDHEEHIBD": "7500204,1"
       }
     ]
   },
   {
-    "ELKKIAIGOBK": 75002,
+    "id": 75002,
     "IBPIKCILNBB": [
       75048
     ],
     "IGDNKPKICKF": [
       {
-        "DELBOOLKFAO": "QUEST_GLOBAL_VAR_EQ",
+        "type": "QUEST_GLOBAL_VAR_EQ",
         "LJNDHEEHIBD": "7500203,1"
       }
     ]
   },
   {
-    "ELKKIAIGOBK": 75151,
+    "id": 75151,
     "IBPIKCILNBB": [
       75002,
       75048
     ],
     "IGDNKPKICKF": [
       {
-        "DELBOOLKFAO": "QUEST_GLOBAL_VAR_EQ",
+        "type": "QUEST_GLOBAL_VAR_EQ",
         "LJNDHEEHIBD": "7515101,1"
       }
     ]

@@ -1,8 +1,8 @@
 [
   {
     "DKOJKNDENFL": 1,
-    "ELKKIAIGOBK": 11001,
-    "FLEHOIGKBPG": 5,
+    "id": 11001,
+    "scoinCost": 5,
     "GFLGKIFGEID": 2,
     "GFOCGMPEKBM": 101001,
     "HAILCPJFODJ": 400,
@@ -13,8 +13,8 @@
     "JODGGAMOIFK": 40,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101001,
-        "HKJMLLBFLOL": 2
+        "id": 101001,
+        "count": 2
       }
     ],
     "MCCPLJGDOOK": 104011,
@@ -34,8 +34,8 @@
   },
   {
     "DKOJKNDENFL": 1,
-    "ELKKIAIGOBK": 11002,
-    "FLEHOIGKBPG": 10,
+    "id": 11002,
+    "scoinCost": 10,
     "GFLGKIFGEID": 2,
     "GFOCGMPEKBM": 101002,
     "HAILCPJFODJ": 2000,
@@ -46,8 +46,8 @@
     "JODGGAMOIFK": 20,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101002,
-        "HKJMLLBFLOL": 3
+        "id": 101002,
+        "count": 3
       }
     ],
     "MCCPLJGDOOK": 104012,
@@ -67,8 +67,8 @@
   },
   {
     "DKOJKNDENFL": 1,
-    "ELKKIAIGOBK": 11003,
-    "FLEHOIGKBPG": 50,
+    "id": 11003,
+    "scoinCost": 50,
     "GFLGKIFGEID": 5,
     "GFOCGMPEKBM": 101003,
     "HAILCPJFODJ": 10000,
@@ -79,8 +79,8 @@
     "JODGGAMOIFK": 10,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101003,
-        "HKJMLLBFLOL": 4
+        "id": 101003,
+        "count": 4
       }
     ],
     "MCCPLJGDOOK": 104013,
@@ -100,8 +100,8 @@
   },
   {
     "DKOJKNDENFL": 1,
-    "ELKKIAIGOBK": 11004,
-    "FLEHOIGKBPG": 10,
+    "id": 11004,
+    "scoinCost": 10,
     "GFLGKIFGEID": 2,
     "GFOCGMPEKBM": 101006,
     "HAILCPJFODJ": 2000,
@@ -112,8 +112,8 @@
     "JODGGAMOIFK": 20,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101006,
-        "HKJMLLBFLOL": 3
+        "id": 101006,
+        "count": 3
       }
     ],
     "MCCPLJGDOOK": 104012,
@@ -133,8 +133,8 @@
   },
   {
     "DKOJKNDENFL": 1,
-    "ELKKIAIGOBK": 11005,
-    "FLEHOIGKBPG": 50,
+    "id": 11005,
+    "scoinCost": 50,
     "GFLGKIFGEID": 5,
     "GFOCGMPEKBM": 101008,
     "HAILCPJFODJ": 10000,
@@ -145,8 +145,8 @@
     "JODGGAMOIFK": 10,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101008,
-        "HKJMLLBFLOL": 4
+        "id": 101008,
+        "count": 4
       }
     ],
     "MCCPLJGDOOK": 104013,
@@ -166,8 +166,8 @@
   },
   {
     "DKOJKNDENFL": 1,
-    "ELKKIAIGOBK": 11006,
-    "FLEHOIGKBPG": 50,
+    "id": 11006,
+    "scoinCost": 50,
     "GFLGKIFGEID": 5,
     "GFOCGMPEKBM": 101009,
     "HAILCPJFODJ": 10000,
@@ -178,8 +178,8 @@
     "JODGGAMOIFK": 10,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101009,
-        "HKJMLLBFLOL": 4
+        "id": 101009,
+        "count": 4
       }
     ],
     "MCCPLJGDOOK": 104013,
@@ -199,8 +199,8 @@
   },
   {
     "DKOJKNDENFL": 3,
-    "ELKKIAIGOBK": 18001,
-    "FLEHOIGKBPG": 500,
+    "id": 18001,
+    "scoinCost": 500,
     "GFLGKIFGEID": 10,
     "GPBAKEHNGBD": true,
     "IHKJOCMFOMP": 11431,
@@ -209,16 +209,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101116,
-        "HKJMLLBFLOL": 1
+        "id": 101116,
+        "count": 1
       },
       {
-        "ELKKIAIGOBK": 101009,
-        "HKJMLLBFLOL": 50
+        "id": 101009,
+        "count": 50
       },
       {
-        "ELKKIAIGOBK": 101002,
-        "HKJMLLBFLOL": 50
+        "id": 101002,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 11431,
@@ -238,8 +238,8 @@
   },
   {
     "DKOJKNDENFL": 4,
-    "ELKKIAIGOBK": 18002,
-    "FLEHOIGKBPG": 500,
+    "id": 18002,
+    "scoinCost": 500,
     "GFLGKIFGEID": 10,
     "GPBAKEHNGBD": true,
     "IHKJOCMFOMP": 15431,
@@ -248,16 +248,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101117,
-        "HKJMLLBFLOL": 1
+        "id": 101117,
+        "count": 1
       },
       {
-        "ELKKIAIGOBK": 101009,
-        "HKJMLLBFLOL": 50
+        "id": 101009,
+        "count": 50
       },
       {
-        "ELKKIAIGOBK": 101002,
-        "HKJMLLBFLOL": 50
+        "id": 101002,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 15431,
@@ -277,8 +277,8 @@
   },
   {
     "DKOJKNDENFL": 5,
-    "ELKKIAIGOBK": 18003,
-    "FLEHOIGKBPG": 500,
+    "id": 18003,
+    "scoinCost": 500,
     "GFLGKIFGEID": 10,
     "GPBAKEHNGBD": true,
     "IHKJOCMFOMP": 12431,
@@ -287,16 +287,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101118,
-        "HKJMLLBFLOL": 1
+        "id": 101118,
+        "count": 1
       },
       {
-        "ELKKIAIGOBK": 101009,
-        "HKJMLLBFLOL": 50
+        "id": 101009,
+        "count": 50
       },
       {
-        "ELKKIAIGOBK": 101002,
-        "HKJMLLBFLOL": 50
+        "id": 101002,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 12431,
@@ -316,8 +316,8 @@
   },
   {
     "DKOJKNDENFL": 6,
-    "ELKKIAIGOBK": 18004,
-    "FLEHOIGKBPG": 500,
+    "id": 18004,
+    "scoinCost": 500,
     "GFLGKIFGEID": 10,
     "GPBAKEHNGBD": true,
     "IHKJOCMFOMP": 14431,
@@ -326,16 +326,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101119,
-        "HKJMLLBFLOL": 1
+        "id": 101119,
+        "count": 1
       },
       {
-        "ELKKIAIGOBK": 101009,
-        "HKJMLLBFLOL": 50
+        "id": 101009,
+        "count": 50
       },
       {
-        "ELKKIAIGOBK": 101002,
-        "HKJMLLBFLOL": 50
+        "id": 101002,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 14431,
@@ -355,8 +355,8 @@
   },
   {
     "DKOJKNDENFL": 7,
-    "ELKKIAIGOBK": 18005,
-    "FLEHOIGKBPG": 500,
+    "id": 18005,
+    "scoinCost": 500,
     "GFLGKIFGEID": 10,
     "GPBAKEHNGBD": true,
     "IHKJOCMFOMP": 13431,
@@ -365,16 +365,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101120,
-        "HKJMLLBFLOL": 1
+        "id": 101120,
+        "count": 1
       },
       {
-        "ELKKIAIGOBK": 101009,
-        "HKJMLLBFLOL": 50
+        "id": 101009,
+        "count": 50
       },
       {
-        "ELKKIAIGOBK": 101002,
-        "HKJMLLBFLOL": 50
+        "id": 101002,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 13431,
@@ -394,8 +394,8 @@
   },
   {
     "DKOJKNDENFL": 1,
-    "ELKKIAIGOBK": 12001,
-    "FLEHOIGKBPG": 100,
+    "id": 12001,
+    "scoinCost": 100,
     "GFLGKIFGEID": 30,
     "GFOCGMPEKBM": 106,
     "ICOIFECLBMG": true,
@@ -405,12 +405,12 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101004,
-        "HKJMLLBFLOL": 3
+        "id": 101004,
+        "count": 3
       },
       {
-        "ELKKIAIGOBK": 106,
-        "HKJMLLBFLOL": 10
+        "id": 106,
+        "count": 10
       }
     ],
     "LPEBKHAJNCH": 208001500,
@@ -428,8 +428,8 @@
   },
   {
     "DKOJKNDENFL": 3,
-    "ELKKIAIGOBK": 13001,
-    "FLEHOIGKBPG": 500,
+    "id": 13001,
+    "scoinCost": 500,
     "GFLGKIFGEID": 5,
     "ICOIFECLBMG": true,
     "IHKJOCMFOMP": 11406,
@@ -438,16 +438,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101101,
-        "HKJMLLBFLOL": 1
+        "id": 101101,
+        "count": 1
       },
       {
-        "ELKKIAIGOBK": 101003,
-        "HKJMLLBFLOL": 50
+        "id": 101003,
+        "count": 50
       },
       {
-        "ELKKIAIGOBK": 101002,
-        "HKJMLLBFLOL": 50
+        "id": 101002,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 11406,
@@ -467,8 +467,8 @@
   },
   {
     "DKOJKNDENFL": 3,
-    "ELKKIAIGOBK": 13002,
-    "FLEHOIGKBPG": 500,
+    "id": 13002,
+    "scoinCost": 500,
     "GFLGKIFGEID": 5,
     "ICOIFECLBMG": true,
     "IHKJOCMFOMP": 11407,
@@ -477,16 +477,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101101,
-        "HKJMLLBFLOL": 1
+        "id": 101101,
+        "count": 1
       },
       {
-        "ELKKIAIGOBK": 101003,
-        "HKJMLLBFLOL": 50
+        "id": 101003,
+        "count": 50
       },
       {
-        "ELKKIAIGOBK": 101002,
-        "HKJMLLBFLOL": 50
+        "id": 101002,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 11407,
@@ -506,8 +506,8 @@
   },
   {
     "DKOJKNDENFL": 4,
-    "ELKKIAIGOBK": 13003,
-    "FLEHOIGKBPG": 500,
+    "id": 13003,
+    "scoinCost": 500,
     "GFLGKIFGEID": 5,
     "ICOIFECLBMG": true,
     "IHKJOCMFOMP": 15406,
@@ -516,16 +516,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101102,
-        "HKJMLLBFLOL": 1
+        "id": 101102,
+        "count": 1
       },
       {
-        "ELKKIAIGOBK": 101003,
-        "HKJMLLBFLOL": 50
+        "id": 101003,
+        "count": 50
       },
       {
-        "ELKKIAIGOBK": 101002,
-        "HKJMLLBFLOL": 50
+        "id": 101002,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 15406,
@@ -545,8 +545,8 @@
   },
   {
     "DKOJKNDENFL": 4,
-    "ELKKIAIGOBK": 13004,
-    "FLEHOIGKBPG": 500,
+    "id": 13004,
+    "scoinCost": 500,
     "GFLGKIFGEID": 5,
     "ICOIFECLBMG": true,
     "IHKJOCMFOMP": 15407,
@@ -555,16 +555,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101102,
-        "HKJMLLBFLOL": 1
+        "id": 101102,
+        "count": 1
       },
       {
-        "ELKKIAIGOBK": 101003,
-        "HKJMLLBFLOL": 50
+        "id": 101003,
+        "count": 50
       },
       {
-        "ELKKIAIGOBK": 101002,
-        "HKJMLLBFLOL": 50
+        "id": 101002,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 15407,
@@ -584,8 +584,8 @@
   },
   {
     "DKOJKNDENFL": 5,
-    "ELKKIAIGOBK": 13005,
-    "FLEHOIGKBPG": 500,
+    "id": 13005,
+    "scoinCost": 500,
     "GFLGKIFGEID": 5,
     "ICOIFECLBMG": true,
     "IHKJOCMFOMP": 12406,
@@ -594,16 +594,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101103,
-        "HKJMLLBFLOL": 1
+        "id": 101103,
+        "count": 1
       },
       {
-        "ELKKIAIGOBK": 101003,
-        "HKJMLLBFLOL": 50
+        "id": 101003,
+        "count": 50
       },
       {
-        "ELKKIAIGOBK": 101002,
-        "HKJMLLBFLOL": 50
+        "id": 101002,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 12406,
@@ -623,8 +623,8 @@
   },
   {
     "DKOJKNDENFL": 5,
-    "ELKKIAIGOBK": 13006,
-    "FLEHOIGKBPG": 500,
+    "id": 13006,
+    "scoinCost": 500,
     "GFLGKIFGEID": 5,
     "ICOIFECLBMG": true,
     "IHKJOCMFOMP": 12407,
@@ -633,16 +633,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101103,
-        "HKJMLLBFLOL": 1
+        "id": 101103,
+        "count": 1
       },
       {
-        "ELKKIAIGOBK": 101003,
-        "HKJMLLBFLOL": 50
+        "id": 101003,
+        "count": 50
       },
       {
-        "ELKKIAIGOBK": 101002,
-        "HKJMLLBFLOL": 50
+        "id": 101002,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 12407,
@@ -662,8 +662,8 @@
   },
   {
     "DKOJKNDENFL": 6,
-    "ELKKIAIGOBK": 13007,
-    "FLEHOIGKBPG": 500,
+    "id": 13007,
+    "scoinCost": 500,
     "GFLGKIFGEID": 5,
     "ICOIFECLBMG": true,
     "IHKJOCMFOMP": 14406,
@@ -672,16 +672,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101104,
-        "HKJMLLBFLOL": 1
+        "id": 101104,
+        "count": 1
       },
       {
-        "ELKKIAIGOBK": 101003,
-        "HKJMLLBFLOL": 50
+        "id": 101003,
+        "count": 50
       },
       {
-        "ELKKIAIGOBK": 101002,
-        "HKJMLLBFLOL": 50
+        "id": 101002,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 14406,
@@ -701,8 +701,8 @@
   },
   {
     "DKOJKNDENFL": 6,
-    "ELKKIAIGOBK": 13008,
-    "FLEHOIGKBPG": 500,
+    "id": 13008,
+    "scoinCost": 500,
     "GFLGKIFGEID": 5,
     "ICOIFECLBMG": true,
     "IHKJOCMFOMP": 14407,
@@ -711,16 +711,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101104,
-        "HKJMLLBFLOL": 1
+        "id": 101104,
+        "count": 1
       },
       {
-        "ELKKIAIGOBK": 101003,
-        "HKJMLLBFLOL": 50
+        "id": 101003,
+        "count": 50
       },
       {
-        "ELKKIAIGOBK": 101002,
-        "HKJMLLBFLOL": 50
+        "id": 101002,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 14407,
@@ -740,8 +740,8 @@
   },
   {
     "DKOJKNDENFL": 7,
-    "ELKKIAIGOBK": 13009,
-    "FLEHOIGKBPG": 500,
+    "id": 13009,
+    "scoinCost": 500,
     "GFLGKIFGEID": 5,
     "ICOIFECLBMG": true,
     "IHKJOCMFOMP": 13402,
@@ -750,16 +750,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101105,
-        "HKJMLLBFLOL": 1
+        "id": 101105,
+        "count": 1
       },
       {
-        "ELKKIAIGOBK": 101003,
-        "HKJMLLBFLOL": 50
+        "id": 101003,
+        "count": 50
       },
       {
-        "ELKKIAIGOBK": 101002,
-        "HKJMLLBFLOL": 50
+        "id": 101002,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 13402,
@@ -779,8 +779,8 @@
   },
   {
     "DKOJKNDENFL": 7,
-    "ELKKIAIGOBK": 13010,
-    "FLEHOIGKBPG": 500,
+    "id": 13010,
+    "scoinCost": 500,
     "GFLGKIFGEID": 5,
     "ICOIFECLBMG": true,
     "IHKJOCMFOMP": 13403,
@@ -789,16 +789,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101105,
-        "HKJMLLBFLOL": 1
+        "id": 101105,
+        "count": 1
       },
       {
-        "ELKKIAIGOBK": 101003,
-        "HKJMLLBFLOL": 50
+        "id": 101003,
+        "count": 50
       },
       {
-        "ELKKIAIGOBK": 101002,
-        "HKJMLLBFLOL": 50
+        "id": 101002,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 13403,
@@ -818,8 +818,8 @@
   },
   {
     "DKOJKNDENFL": 5,
-    "ELKKIAIGOBK": 13011,
-    "FLEHOIGKBPG": 500,
+    "id": 13011,
+    "scoinCost": 500,
     "GFLGKIFGEID": 10,
     "IHKJOCMFOMP": 12411,
     "JCPKDGGCGCK": 10,
@@ -827,16 +827,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101103,
-        "HKJMLLBFLOL": 1
+        "id": 101103,
+        "count": 1
       },
       {
-        "ELKKIAIGOBK": 101003,
-        "HKJMLLBFLOL": 50
+        "id": 101003,
+        "count": 50
       },
       {
-        "ELKKIAIGOBK": 101006,
-        "HKJMLLBFLOL": 50
+        "id": 101006,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 12411,
@@ -856,8 +856,8 @@
   },
   {
     "DKOJKNDENFL": 6,
-    "ELKKIAIGOBK": 13012,
-    "FLEHOIGKBPG": 500,
+    "id": 13012,
+    "scoinCost": 500,
     "GFLGKIFGEID": 10,
     "IHKJOCMFOMP": 14412,
     "JCPKDGGCGCK": 10,
@@ -865,16 +865,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101104,
-        "HKJMLLBFLOL": 1
+        "id": 101104,
+        "count": 1
       },
       {
-        "ELKKIAIGOBK": 101003,
-        "HKJMLLBFLOL": 50
+        "id": 101003,
+        "count": 50
       },
       {
-        "ELKKIAIGOBK": 101006,
-        "HKJMLLBFLOL": 50
+        "id": 101006,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 14412,
@@ -894,8 +894,8 @@
   },
   {
     "DKOJKNDENFL": 7,
-    "ELKKIAIGOBK": 13013,
-    "FLEHOIGKBPG": 500,
+    "id": 13013,
+    "scoinCost": 500,
     "GFLGKIFGEID": 10,
     "IHKJOCMFOMP": 13409,
     "JCPKDGGCGCK": 10,
@@ -903,16 +903,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101105,
-        "HKJMLLBFLOL": 1
+        "id": 101105,
+        "count": 1
       },
       {
-        "ELKKIAIGOBK": 101006,
-        "HKJMLLBFLOL": 50
+        "id": 101006,
+        "count": 50
       },
       {
-        "ELKKIAIGOBK": 100619,
-        "HKJMLLBFLOL": 8
+        "id": 100619,
+        "count": 8
       }
     ],
     "MCCPLJGDOOK": 13409,
@@ -932,8 +932,8 @@
   },
   {
     "DKOJKNDENFL": 8,
-    "ELKKIAIGOBK": 14003,
-    "FLEHOIGKBPG": 50000,
+    "id": 14003,
+    "scoinCost": 50000,
     "GFLGKIFGEID": 10,
     "IHKJOCMFOMP": 220003,
     "JCPKDGGCGCK": 30,
@@ -941,16 +941,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 112037,
-        "HKJMLLBFLOL": 10
+        "id": 112037,
+        "count": 10
       },
       {
-        "ELKKIAIGOBK": 100058,
-        "HKJMLLBFLOL": 30
+        "id": 100058,
+        "count": 30
       },
       {
-        "ELKKIAIGOBK": 101003,
-        "HKJMLLBFLOL": 50
+        "id": 101003,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 220003,
@@ -970,8 +970,8 @@
   },
   {
     "DKOJKNDENFL": 8,
-    "ELKKIAIGOBK": 14004,
-    "FLEHOIGKBPG": 50000,
+    "id": 14004,
+    "scoinCost": 50000,
     "GFLGKIFGEID": 10,
     "IHKJOCMFOMP": 220004,
     "JCPKDGGCGCK": 30,
@@ -979,16 +979,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 113001,
-        "HKJMLLBFLOL": 10
+        "id": 113001,
+        "count": 10
       },
       {
-        "ELKKIAIGOBK": 100024,
-        "HKJMLLBFLOL": 30
+        "id": 100024,
+        "count": 30
       },
       {
-        "ELKKIAIGOBK": 101003,
-        "HKJMLLBFLOL": 50
+        "id": 101003,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 220004,
@@ -1008,8 +1008,8 @@
   },
   {
     "DKOJKNDENFL": 8,
-    "ELKKIAIGOBK": 14006,
-    "FLEHOIGKBPG": 500,
+    "id": 14006,
+    "scoinCost": 500,
     "GFLGKIFGEID": 10,
     "IHKJOCMFOMP": 220006,
     "JCPKDGGCGCK": 10,
@@ -1017,16 +1017,16 @@
     "JODGGAMOIFK": 5,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 111013,
-        "HKJMLLBFLOL": 1
+        "id": 111013,
+        "count": 1
       },
       {
-        "ELKKIAIGOBK": 100085,
-        "HKJMLLBFLOL": 2
+        "id": 100085,
+        "count": 2
       },
       {
-        "ELKKIAIGOBK": 101001,
-        "HKJMLLBFLOL": 2
+        "id": 101001,
+        "count": 2
       }
     ],
     "MCCPLJGDOOK": 220006,
@@ -1046,8 +1046,8 @@
   },
   {
     "DKOJKNDENFL": 8,
-    "ELKKIAIGOBK": 14008,
-    "FLEHOIGKBPG": 50000,
+    "id": 14008,
+    "scoinCost": 50000,
     "GFLGKIFGEID": 10,
     "IHKJOCMFOMP": 220008,
     "JCPKDGGCGCK": 30,
@@ -1055,16 +1055,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 100083,
-        "HKJMLLBFLOL": 20
+        "id": 100083,
+        "count": 20
       },
       {
-        "ELKKIAIGOBK": 112024,
-        "HKJMLLBFLOL": 20
+        "id": 112024,
+        "count": 20
       },
       {
-        "ELKKIAIGOBK": 100054,
-        "HKJMLLBFLOL": 50
+        "id": 100054,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 220008,
@@ -1084,8 +1084,8 @@
   },
   {
     "DKOJKNDENFL": 8,
-    "ELKKIAIGOBK": 14009,
-    "FLEHOIGKBPG": 50000,
+    "id": 14009,
+    "scoinCost": 50000,
     "GFLGKIFGEID": 10,
     "IHKJOCMFOMP": 220009,
     "JCPKDGGCGCK": 30,
@@ -1093,16 +1093,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 112037,
-        "HKJMLLBFLOL": 10
+        "id": 112037,
+        "count": 10
       },
       {
-        "ELKKIAIGOBK": 100025,
-        "HKJMLLBFLOL": 30
+        "id": 100025,
+        "count": 30
       },
       {
-        "ELKKIAIGOBK": 101003,
-        "HKJMLLBFLOL": 50
+        "id": 101003,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 220009,
@@ -1122,8 +1122,8 @@
   },
   {
     "DKOJKNDENFL": 8,
-    "ELKKIAIGOBK": 14017,
-    "FLEHOIGKBPG": 500,
+    "id": 14017,
+    "scoinCost": 500,
     "GFLGKIFGEID": 10,
     "IHKJOCMFOMP": 220017,
     "JCPKDGGCGCK": 10,
@@ -1131,12 +1131,12 @@
     "JODGGAMOIFK": 5,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 100053,
-        "HKJMLLBFLOL": 2
+        "id": 100053,
+        "count": 2
       },
       {
-        "ELKKIAIGOBK": 101006,
-        "HKJMLLBFLOL": 2
+        "id": 101006,
+        "count": 2
       }
     ],
     "MCCPLJGDOOK": 220017,
@@ -1156,8 +1156,8 @@
   },
   {
     "DKOJKNDENFL": 8,
-    "ELKKIAIGOBK": 14034,
-    "FLEHOIGKBPG": 50000,
+    "id": 14034,
+    "scoinCost": 50000,
     "GFLGKIFGEID": 10,
     "IHKJOCMFOMP": 220034,
     "JCPKDGGCGCK": 30,
@@ -1165,16 +1165,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 112037,
-        "HKJMLLBFLOL": 10
+        "id": 112037,
+        "count": 10
       },
       {
-        "ELKKIAIGOBK": 101201,
-        "HKJMLLBFLOL": 30
+        "id": 101201,
+        "count": 30
       },
       {
-        "ELKKIAIGOBK": 101003,
-        "HKJMLLBFLOL": 50
+        "id": 101003,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 220034,
@@ -1194,8 +1194,8 @@
   },
   {
     "DKOJKNDENFL": 8,
-    "ELKKIAIGOBK": 14058,
-    "FLEHOIGKBPG": 50000,
+    "id": 14058,
+    "scoinCost": 50000,
     "GFLGKIFGEID": 10,
     "IHKJOCMFOMP": 220058,
     "JCPKDGGCGCK": 30,
@@ -1203,16 +1203,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 112037,
-        "HKJMLLBFLOL": 10
+        "id": 112037,
+        "count": 10
       },
       {
-        "ELKKIAIGOBK": 101214,
-        "HKJMLLBFLOL": 30
+        "id": 101214,
+        "count": 30
       },
       {
-        "ELKKIAIGOBK": 101003,
-        "HKJMLLBFLOL": 50
+        "id": 101003,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 220058,
@@ -1232,8 +1232,8 @@
   },
   {
     "DKOJKNDENFL": 8,
-    "ELKKIAIGOBK": 14087,
-    "FLEHOIGKBPG": 50000,
+    "id": 14087,
+    "scoinCost": 50000,
     "GFLGKIFGEID": 10,
     "IHKJOCMFOMP": 220087,
     "JCPKDGGCGCK": 30,
@@ -1241,16 +1241,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 112037,
-        "HKJMLLBFLOL": 10
+        "id": 112037,
+        "count": 10
       },
       {
-        "ELKKIAIGOBK": 101232,
-        "HKJMLLBFLOL": 30
+        "id": 101232,
+        "count": 30
       },
       {
-        "ELKKIAIGOBK": 101003,
-        "HKJMLLBFLOL": 50
+        "id": 101003,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 220087,
@@ -1270,8 +1270,8 @@
   },
   {
     "DKOJKNDENFL": 8,
-    "ELKKIAIGOBK": 14104,
-    "FLEHOIGKBPG": 50000,
+    "id": 14104,
+    "scoinCost": 50000,
     "GFLGKIFGEID": 10,
     "IHKJOCMFOMP": 220104,
     "JCPKDGGCGCK": 30,
@@ -1279,16 +1279,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 112037,
-        "HKJMLLBFLOL": 10
+        "id": 112037,
+        "count": 10
       },
       {
-        "ELKKIAIGOBK": 101250,
-        "HKJMLLBFLOL": 30
+        "id": 101250,
+        "count": 30
       },
       {
-        "ELKKIAIGOBK": 101003,
-        "HKJMLLBFLOL": 50
+        "id": 101003,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 220104,
@@ -1308,8 +1308,8 @@
   },
   {
     "DKOJKNDENFL": 3,
-    "ELKKIAIGOBK": 15001,
-    "FLEHOIGKBPG": 500,
+    "id": 15001,
+    "scoinCost": 500,
     "GFLGKIFGEID": 10,
     "IHKJOCMFOMP": 11414,
     "JCPKDGGCGCK": 10,
@@ -1317,16 +1317,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101101,
-        "HKJMLLBFLOL": 1
+        "id": 101101,
+        "count": 1
       },
       {
-        "ELKKIAIGOBK": 101008,
-        "HKJMLLBFLOL": 50
+        "id": 101008,
+        "count": 50
       },
       {
-        "ELKKIAIGOBK": 101002,
-        "HKJMLLBFLOL": 50
+        "id": 101002,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 11414,
@@ -1346,8 +1346,8 @@
   },
   {
     "DKOJKNDENFL": 4,
-    "ELKKIAIGOBK": 15002,
-    "FLEHOIGKBPG": 500,
+    "id": 15002,
+    "scoinCost": 500,
     "GFLGKIFGEID": 10,
     "IHKJOCMFOMP": 15414,
     "JCPKDGGCGCK": 10,
@@ -1355,16 +1355,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101102,
-        "HKJMLLBFLOL": 1
+        "id": 101102,
+        "count": 1
       },
       {
-        "ELKKIAIGOBK": 101008,
-        "HKJMLLBFLOL": 50
+        "id": 101008,
+        "count": 50
       },
       {
-        "ELKKIAIGOBK": 101002,
-        "HKJMLLBFLOL": 50
+        "id": 101002,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 15414,
@@ -1384,8 +1384,8 @@
   },
   {
     "DKOJKNDENFL": 5,
-    "ELKKIAIGOBK": 15003,
-    "FLEHOIGKBPG": 500,
+    "id": 15003,
+    "scoinCost": 500,
     "GFLGKIFGEID": 10,
     "IHKJOCMFOMP": 12414,
     "JCPKDGGCGCK": 10,
@@ -1393,16 +1393,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101103,
-        "HKJMLLBFLOL": 1
+        "id": 101103,
+        "count": 1
       },
       {
-        "ELKKIAIGOBK": 101008,
-        "HKJMLLBFLOL": 50
+        "id": 101008,
+        "count": 50
       },
       {
-        "ELKKIAIGOBK": 101002,
-        "HKJMLLBFLOL": 50
+        "id": 101002,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 12414,
@@ -1422,8 +1422,8 @@
   },
   {
     "DKOJKNDENFL": 6,
-    "ELKKIAIGOBK": 15004,
-    "FLEHOIGKBPG": 500,
+    "id": 15004,
+    "scoinCost": 500,
     "GFLGKIFGEID": 10,
     "IHKJOCMFOMP": 14414,
     "JCPKDGGCGCK": 10,
@@ -1431,16 +1431,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101104,
-        "HKJMLLBFLOL": 1
+        "id": 101104,
+        "count": 1
       },
       {
-        "ELKKIAIGOBK": 101008,
-        "HKJMLLBFLOL": 50
+        "id": 101008,
+        "count": 50
       },
       {
-        "ELKKIAIGOBK": 101002,
-        "HKJMLLBFLOL": 50
+        "id": 101002,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 14414,
@@ -1460,8 +1460,8 @@
   },
   {
     "DKOJKNDENFL": 7,
-    "ELKKIAIGOBK": 15005,
-    "FLEHOIGKBPG": 500,
+    "id": 15005,
+    "scoinCost": 500,
     "GFLGKIFGEID": 10,
     "IHKJOCMFOMP": 13414,
     "JCPKDGGCGCK": 10,
@@ -1469,16 +1469,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101105,
-        "HKJMLLBFLOL": 1
+        "id": 101105,
+        "count": 1
       },
       {
-        "ELKKIAIGOBK": 101008,
-        "HKJMLLBFLOL": 50
+        "id": 101008,
+        "count": 50
       },
       {
-        "ELKKIAIGOBK": 101002,
-        "HKJMLLBFLOL": 50
+        "id": 101002,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 13414,
@@ -1498,8 +1498,8 @@
   },
   {
     "DKOJKNDENFL": 3,
-    "ELKKIAIGOBK": 16001,
-    "FLEHOIGKBPG": 500,
+    "id": 16001,
+    "scoinCost": 500,
     "GFLGKIFGEID": 10,
     "IHKJOCMFOMP": 11417,
     "JCPKDGGCGCK": 10,
@@ -1507,16 +1507,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101111,
-        "HKJMLLBFLOL": 1
+        "id": 101111,
+        "count": 1
       },
       {
-        "ELKKIAIGOBK": 101003,
-        "HKJMLLBFLOL": 50
+        "id": 101003,
+        "count": 50
       },
       {
-        "ELKKIAIGOBK": 101002,
-        "HKJMLLBFLOL": 50
+        "id": 101002,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 11417,
@@ -1536,8 +1536,8 @@
   },
   {
     "DKOJKNDENFL": 4,
-    "ELKKIAIGOBK": 16002,
-    "FLEHOIGKBPG": 500,
+    "id": 16002,
+    "scoinCost": 500,
     "GFLGKIFGEID": 10,
     "IHKJOCMFOMP": 15417,
     "JCPKDGGCGCK": 10,
@@ -1545,16 +1545,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101112,
-        "HKJMLLBFLOL": 1
+        "id": 101112,
+        "count": 1
       },
       {
-        "ELKKIAIGOBK": 101003,
-        "HKJMLLBFLOL": 50
+        "id": 101003,
+        "count": 50
       },
       {
-        "ELKKIAIGOBK": 101002,
-        "HKJMLLBFLOL": 50
+        "id": 101002,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 15417,
@@ -1574,8 +1574,8 @@
   },
   {
     "DKOJKNDENFL": 5,
-    "ELKKIAIGOBK": 16003,
-    "FLEHOIGKBPG": 500,
+    "id": 16003,
+    "scoinCost": 500,
     "GFLGKIFGEID": 10,
     "IHKJOCMFOMP": 12417,
     "JCPKDGGCGCK": 10,
@@ -1583,16 +1583,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101113,
-        "HKJMLLBFLOL": 1
+        "id": 101113,
+        "count": 1
       },
       {
-        "ELKKIAIGOBK": 101003,
-        "HKJMLLBFLOL": 50
+        "id": 101003,
+        "count": 50
       },
       {
-        "ELKKIAIGOBK": 101002,
-        "HKJMLLBFLOL": 50
+        "id": 101002,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 12417,
@@ -1612,8 +1612,8 @@
   },
   {
     "DKOJKNDENFL": 6,
-    "ELKKIAIGOBK": 16004,
-    "FLEHOIGKBPG": 500,
+    "id": 16004,
+    "scoinCost": 500,
     "GFLGKIFGEID": 10,
     "IHKJOCMFOMP": 14417,
     "JCPKDGGCGCK": 10,
@@ -1621,16 +1621,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101114,
-        "HKJMLLBFLOL": 1
+        "id": 101114,
+        "count": 1
       },
       {
-        "ELKKIAIGOBK": 101003,
-        "HKJMLLBFLOL": 50
+        "id": 101003,
+        "count": 50
       },
       {
-        "ELKKIAIGOBK": 101002,
-        "HKJMLLBFLOL": 50
+        "id": 101002,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 14417,
@@ -1650,8 +1650,8 @@
   },
   {
     "DKOJKNDENFL": 7,
-    "ELKKIAIGOBK": 16005,
-    "FLEHOIGKBPG": 500,
+    "id": 16005,
+    "scoinCost": 500,
     "GFLGKIFGEID": 10,
     "IHKJOCMFOMP": 13417,
     "JCPKDGGCGCK": 10,
@@ -1659,16 +1659,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101115,
-        "HKJMLLBFLOL": 1
+        "id": 101115,
+        "count": 1
       },
       {
-        "ELKKIAIGOBK": 101003,
-        "HKJMLLBFLOL": 50
+        "id": 101003,
+        "count": 50
       },
       {
-        "ELKKIAIGOBK": 101002,
-        "HKJMLLBFLOL": 50
+        "id": 101002,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 13417,
@@ -1688,8 +1688,8 @@
   },
   {
     "DKOJKNDENFL": 3,
-    "ELKKIAIGOBK": 17001,
-    "FLEHOIGKBPG": 500,
+    "id": 17001,
+    "scoinCost": 500,
     "GFLGKIFGEID": 10,
     "GPBAKEHNGBD": true,
     "IHKJOCMFOMP": 11425,
@@ -1698,16 +1698,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101111,
-        "HKJMLLBFLOL": 1
+        "id": 101111,
+        "count": 1
       },
       {
-        "ELKKIAIGOBK": 101009,
-        "HKJMLLBFLOL": 50
+        "id": 101009,
+        "count": 50
       },
       {
-        "ELKKIAIGOBK": 101002,
-        "HKJMLLBFLOL": 50
+        "id": 101002,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 11425,
@@ -1727,8 +1727,8 @@
   },
   {
     "DKOJKNDENFL": 4,
-    "ELKKIAIGOBK": 17002,
-    "FLEHOIGKBPG": 500,
+    "id": 17002,
+    "scoinCost": 500,
     "GFLGKIFGEID": 10,
     "GPBAKEHNGBD": true,
     "IHKJOCMFOMP": 15425,
@@ -1737,16 +1737,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101112,
-        "HKJMLLBFLOL": 1
+        "id": 101112,
+        "count": 1
       },
       {
-        "ELKKIAIGOBK": 101009,
-        "HKJMLLBFLOL": 50
+        "id": 101009,
+        "count": 50
       },
       {
-        "ELKKIAIGOBK": 101002,
-        "HKJMLLBFLOL": 50
+        "id": 101002,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 15425,
@@ -1766,8 +1766,8 @@
   },
   {
     "DKOJKNDENFL": 5,
-    "ELKKIAIGOBK": 17003,
-    "FLEHOIGKBPG": 500,
+    "id": 17003,
+    "scoinCost": 500,
     "GFLGKIFGEID": 10,
     "GPBAKEHNGBD": true,
     "IHKJOCMFOMP": 12425,
@@ -1776,16 +1776,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101113,
-        "HKJMLLBFLOL": 1
+        "id": 101113,
+        "count": 1
       },
       {
-        "ELKKIAIGOBK": 101009,
-        "HKJMLLBFLOL": 50
+        "id": 101009,
+        "count": 50
       },
       {
-        "ELKKIAIGOBK": 101002,
-        "HKJMLLBFLOL": 50
+        "id": 101002,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 12425,
@@ -1805,8 +1805,8 @@
   },
   {
     "DKOJKNDENFL": 6,
-    "ELKKIAIGOBK": 17004,
-    "FLEHOIGKBPG": 500,
+    "id": 17004,
+    "scoinCost": 500,
     "GFLGKIFGEID": 10,
     "GPBAKEHNGBD": true,
     "IHKJOCMFOMP": 14425,
@@ -1815,16 +1815,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101114,
-        "HKJMLLBFLOL": 1
+        "id": 101114,
+        "count": 1
       },
       {
-        "ELKKIAIGOBK": 101009,
-        "HKJMLLBFLOL": 50
+        "id": 101009,
+        "count": 50
       },
       {
-        "ELKKIAIGOBK": 101002,
-        "HKJMLLBFLOL": 50
+        "id": 101002,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 14425,
@@ -1844,8 +1844,8 @@
   },
   {
     "DKOJKNDENFL": 7,
-    "ELKKIAIGOBK": 17005,
-    "FLEHOIGKBPG": 500,
+    "id": 17005,
+    "scoinCost": 500,
     "GFLGKIFGEID": 10,
     "GPBAKEHNGBD": true,
     "IHKJOCMFOMP": 13425,
@@ -1854,16 +1854,16 @@
     "JODGGAMOIFK": 1,
     "KDBEOLPALAB": [
       {
-        "ELKKIAIGOBK": 101115,
-        "HKJMLLBFLOL": 1
+        "id": 101115,
+        "count": 1
       },
       {
-        "ELKKIAIGOBK": 101009,
-        "HKJMLLBFLOL": 50
+        "id": 101009,
+        "count": 50
       },
       {
-        "ELKKIAIGOBK": 101002,
-        "HKJMLLBFLOL": 50
+        "id": 101002,
+        "count": 50
       }
     ],
     "MCCPLJGDOOK": 13425,

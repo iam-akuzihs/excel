@@ -6,14 +6,14 @@
     ],
     "BFHPOECFEAP": [
       {
-        "DELBOOLKFAO": "REPUTATION_ENTRANCE_COND_TRIBAL_REPUTATION_LEVEL",
+        "type": "REPUTATION_ENTRANCE_COND_TRIBAL_REPUTATION_LEVEL",
         "FBMPKCPHNPH": 1
       }
     ],
     "DJDFGENEFCE": 1,
-    "ELKKIAIGOBK": 1,
+    "id": 1,
     "LNHNDMIGEGC": "LOGIC_NONE",
-    "OCNPJGGMLLO": "UI_ReputationPic_Natlan_Hookwalker_1"
+    "iconName": "UI_ReputationPic_Natlan_Hookwalker_1"
   },
   {
     "AINIOONFMAP": "REPUTATION_ENTRANCE_DONATION",
@@ -22,14 +22,14 @@
     ],
     "BFHPOECFEAP": [
       {
-        "DELBOOLKFAO": "REPUTATION_ENTRANCE_COND_TRIBAL_REPUTATION_LEVEL",
+        "type": "REPUTATION_ENTRANCE_COND_TRIBAL_REPUTATION_LEVEL",
         "FBMPKCPHNPH": 1
       }
     ],
     "DJDFGENEFCE": 1,
-    "ELKKIAIGOBK": 2,
+    "id": 2,
     "LNHNDMIGEGC": "LOGIC_NONE",
-    "OCNPJGGMLLO": "UI_ReputationPic_Natlan_Hookwalker_2"
+    "iconName": "UI_ReputationPic_Natlan_Hookwalker_2"
   },
   {
     "AINIOONFMAP": "REPUTATION_ENTRANCE_EXPLORE",
@@ -38,13 +38,13 @@
     ],
     "BFHPOECFEAP": [
       {
-        "DELBOOLKFAO": "REPUTATION_ENTRANCE_COND_NONE"
+        "type": "REPUTATION_ENTRANCE_COND_NONE"
       }
     ],
     "DJDFGENEFCE": 1,
-    "ELKKIAIGOBK": 3,
+    "id": 3,
     "LNHNDMIGEGC": "LOGIC_NONE",
-    "OCNPJGGMLLO": "UI_ReputationPic_Natlan_Hookwalker_3"
+    "iconName": "UI_ReputationPic_Natlan_Hookwalker_3"
   },
   {
     "AINIOONFMAP": "REPUTATION_ENTRANCE_QUEST",
@@ -53,13 +53,13 @@
     ],
     "BFHPOECFEAP": [
       {
-        "DELBOOLKFAO": "REPUTATION_ENTRANCE_COND_NONE"
+        "type": "REPUTATION_ENTRANCE_COND_NONE"
       }
     ],
     "DJDFGENEFCE": 1,
-    "ELKKIAIGOBK": 4,
+    "id": 4,
     "LNHNDMIGEGC": "LOGIC_NONE",
-    "OCNPJGGMLLO": "UI_ReputationPic_Natlan_Hookwalker_4"
+    "iconName": "UI_ReputationPic_Natlan_Hookwalker_4"
   },
   {
     "AINIOONFMAP": "REPUTATION_ENTRANCE_HUNTER",
@@ -68,14 +68,14 @@
     ],
     "BFHPOECFEAP": [
       {
-        "DELBOOLKFAO": "REPUTATION_ENTRANCE_COND_TRIBAL_REPUTATION_LEVEL",
+        "type": "REPUTATION_ENTRANCE_COND_TRIBAL_REPUTATION_LEVEL",
         "FBMPKCPHNPH": 1
       }
     ],
     "DJDFGENEFCE": 2,
-    "ELKKIAIGOBK": 5,
+    "id": 5,
     "LNHNDMIGEGC": "LOGIC_NONE",
-    "OCNPJGGMLLO": "UI_ReputationPic_Natlan_Mosasaurus_1"
+    "iconName": "UI_ReputationPic_Natlan_Mosasaurus_1"
   },
   {
     "AINIOONFMAP": "REPUTATION_ENTRANCE_DONATION",
@@ -84,14 +84,14 @@
     ],
     "BFHPOECFEAP": [
       {
-        "DELBOOLKFAO": "REPUTATION_ENTRANCE_COND_TRIBAL_REPUTATION_LEVEL",
+        "type": "REPUTATION_ENTRANCE_COND_TRIBAL_REPUTATION_LEVEL",
         "FBMPKCPHNPH": 1
       }
     ],
     "DJDFGENEFCE": 2,
-    "ELKKIAIGOBK": 6,
+    "id": 6,
     "LNHNDMIGEGC": "LOGIC_NONE",
-    "OCNPJGGMLLO": "UI_ReputationPic_Natlan_Mosasaurus_2"
+    "iconName": "UI_ReputationPic_Natlan_Mosasaurus_2"
   },
   {
     "AINIOONFMAP": "REPUTATION_ENTRANCE_EXPLORE",
@@ -100,13 +100,13 @@
     ],
     "BFHPOECFEAP": [
       {
-        "DELBOOLKFAO": "REPUTATION_ENTRANCE_COND_NONE"
+        "type": "REPUTATION_ENTRANCE_COND_NONE"
       }
     ],
     "DJDFGENEFCE": 2,
-    "ELKKIAIGOBK": 7,
+    "id": 7,
     "LNHNDMIGEGC": "LOGIC_NONE",
-    "OCNPJGGMLLO": "UI_ReputationPic_Natlan_Mosasaurus_3"
+    "iconName": "UI_ReputationPic_Natlan_Mosasaurus_3"
   },
   {
     "AINIOONFMAP": "REPUTATION_ENTRANCE_QUEST",
@@ -115,13 +115,13 @@
     ],
     "BFHPOECFEAP": [
       {
-        "DELBOOLKFAO": "REPUTATION_ENTRANCE_COND_NONE"
+        "type": "REPUTATION_ENTRANCE_COND_NONE"
       }
     ],
     "DJDFGENEFCE": 2,
-    "ELKKIAIGOBK": 8,
+    "id": 8,
     "LNHNDMIGEGC": "LOGIC_NONE",
-    "OCNPJGGMLLO": "UI_ReputationPic_Natlan_Mosasaurus_4"
+    "iconName": "UI_ReputationPic_Natlan_Mosasaurus_4"
   },
   {
     "AINIOONFMAP": "REPUTATION_ENTRANCE_HUNTER",
@@ -130,14 +130,14 @@
     ],
     "BFHPOECFEAP": [
       {
-        "DELBOOLKFAO": "REPUTATION_ENTRANCE_COND_TRIBAL_REPUTATION_LEVEL",
+        "type": "REPUTATION_ENTRANCE_COND_TRIBAL_REPUTATION_LEVEL",
         "FBMPKCPHNPH": 1
       }
     ],
     "DJDFGENEFCE": 3,
-    "ELKKIAIGOBK": 9,
+    "id": 9,
     "LNHNDMIGEGC": "LOGIC_NONE",
-    "OCNPJGGMLLO": "UI_ReputationPic_Natlan_Drillhead_1"
+    "iconName": "UI_ReputationPic_Natlan_Drillhead_1"
   },
   {
     "AINIOONFMAP": "REPUTATION_ENTRANCE_DONATION",
@@ -146,14 +146,14 @@
     ],
     "BFHPOECFEAP": [
       {
-        "DELBOOLKFAO": "REPUTATION_ENTRANCE_COND_TRIBAL_REPUTATION_LEVEL",
+        "type": "REPUTATION_ENTRANCE_COND_TRIBAL_REPUTATION_LEVEL",
         "FBMPKCPHNPH": 1
       }
     ],
     "DJDFGENEFCE": 3,
-    "ELKKIAIGOBK": 10,
+    "id": 10,
     "LNHNDMIGEGC": "LOGIC_NONE",
-    "OCNPJGGMLLO": "UI_ReputationPic_Natlan_Drillhead_2"
+    "iconName": "UI_ReputationPic_Natlan_Drillhead_2"
   },
   {
     "AINIOONFMAP": "REPUTATION_ENTRANCE_EXPLORE",
@@ -162,13 +162,13 @@
     ],
     "BFHPOECFEAP": [
       {
-        "DELBOOLKFAO": "REPUTATION_ENTRANCE_COND_NONE"
+        "type": "REPUTATION_ENTRANCE_COND_NONE"
       }
     ],
     "DJDFGENEFCE": 3,
-    "ELKKIAIGOBK": 11,
+    "id": 11,
     "LNHNDMIGEGC": "LOGIC_NONE",
-    "OCNPJGGMLLO": "UI_ReputationPic_Natlan_Drillhead_3"
+    "iconName": "UI_ReputationPic_Natlan_Drillhead_3"
   },
   {
     "AINIOONFMAP": "REPUTATION_ENTRANCE_QUEST",
@@ -177,13 +177,13 @@
     ],
     "BFHPOECFEAP": [
       {
-        "DELBOOLKFAO": "REPUTATION_ENTRANCE_COND_NONE"
+        "type": "REPUTATION_ENTRANCE_COND_NONE"
       }
     ],
     "DJDFGENEFCE": 3,
-    "ELKKIAIGOBK": 12,
+    "id": 12,
     "LNHNDMIGEGC": "LOGIC_NONE",
-    "OCNPJGGMLLO": "UI_ReputationPic_Natlan_Drillhead_4"
+    "iconName": "UI_ReputationPic_Natlan_Drillhead_4"
   },
   {
     "AINIOONFMAP": "REPUTATION_ENTRANCE_HUNTER",
@@ -192,14 +192,14 @@
     ],
     "BFHPOECFEAP": [
       {
-        "DELBOOLKFAO": "REPUTATION_ENTRANCE_COND_TRIBAL_REPUTATION_LEVEL",
+        "type": "REPUTATION_ENTRANCE_COND_TRIBAL_REPUTATION_LEVEL",
         "FBMPKCPHNPH": 1
       }
     ],
     "DJDFGENEFCE": 4,
-    "ELKKIAIGOBK": 13,
+    "id": 13,
     "LNHNDMIGEGC": "LOGIC_NONE",
-    "OCNPJGGMLLO": "UI_ReputationPic_Natlan_Flamingo_1"
+    "iconName": "UI_ReputationPic_Natlan_Flamingo_1"
   },
   {
     "AINIOONFMAP": "REPUTATION_ENTRANCE_DONATION",
@@ -208,14 +208,14 @@
     ],
     "BFHPOECFEAP": [
       {
-        "DELBOOLKFAO": "REPUTATION_ENTRANCE_COND_TRIBAL_REPUTATION_LEVEL",
+        "type": "REPUTATION_ENTRANCE_COND_TRIBAL_REPUTATION_LEVEL",
         "FBMPKCPHNPH": 1
       }
     ],
     "DJDFGENEFCE": 4,
-    "ELKKIAIGOBK": 14,
+    "id": 14,
     "LNHNDMIGEGC": "LOGIC_NONE",
-    "OCNPJGGMLLO": "UI_ReputationPic_Natlan_Flamingo_2"
+    "iconName": "UI_ReputationPic_Natlan_Flamingo_2"
   },
   {
     "AINIOONFMAP": "REPUTATION_ENTRANCE_EXPLORE",
@@ -224,13 +224,13 @@
     ],
     "BFHPOECFEAP": [
       {
-        "DELBOOLKFAO": "REPUTATION_ENTRANCE_COND_NONE"
+        "type": "REPUTATION_ENTRANCE_COND_NONE"
       }
     ],
     "DJDFGENEFCE": 4,
-    "ELKKIAIGOBK": 15,
+    "id": 15,
     "LNHNDMIGEGC": "LOGIC_NONE",
-    "OCNPJGGMLLO": "UI_ReputationPic_Natlan_Flamingo_3"
+    "iconName": "UI_ReputationPic_Natlan_Flamingo_3"
   },
   {
     "AINIOONFMAP": "REPUTATION_ENTRANCE_QUEST",
@@ -239,13 +239,13 @@
     ],
     "BFHPOECFEAP": [
       {
-        "DELBOOLKFAO": "REPUTATION_ENTRANCE_COND_NONE"
+        "type": "REPUTATION_ENTRANCE_COND_NONE"
       }
     ],
     "DJDFGENEFCE": 4,
-    "ELKKIAIGOBK": 16,
+    "id": 16,
     "LNHNDMIGEGC": "LOGIC_NONE",
-    "OCNPJGGMLLO": "UI_ReputationPic_Natlan_Flamingo_4"
+    "iconName": "UI_ReputationPic_Natlan_Flamingo_4"
   },
   {
     "AINIOONFMAP": "REPUTATION_ENTRANCE_HUNTER",
@@ -254,14 +254,14 @@
     ],
     "BFHPOECFEAP": [
       {
-        "DELBOOLKFAO": "REPUTATION_ENTRANCE_COND_TRIBAL_REPUTATION_LEVEL",
+        "type": "REPUTATION_ENTRANCE_COND_TRIBAL_REPUTATION_LEVEL",
         "FBMPKCPHNPH": 1
       }
     ],
     "DJDFGENEFCE": 5,
-    "ELKKIAIGOBK": 17,
+    "id": 17,
     "LNHNDMIGEGC": "LOGIC_NONE",
-    "OCNPJGGMLLO": "UI_ReputationPic_Natlan_Shamansaurus_1"
+    "iconName": "UI_ReputationPic_Natlan_Shamansaurus_1"
   },
   {
     "AINIOONFMAP": "REPUTATION_ENTRANCE_DONATION",
@@ -270,14 +270,14 @@
     ],
     "BFHPOECFEAP": [
       {
-        "DELBOOLKFAO": "REPUTATION_ENTRANCE_COND_TRIBAL_REPUTATION_LEVEL",
+        "type": "REPUTATION_ENTRANCE_COND_TRIBAL_REPUTATION_LEVEL",
         "FBMPKCPHNPH": 1
       }
     ],
     "DJDFGENEFCE": 5,
-    "ELKKIAIGOBK": 18,
+    "id": 18,
     "LNHNDMIGEGC": "LOGIC_NONE",
-    "OCNPJGGMLLO": "UI_ReputationPic_Natlan_Shamansaurus_2"
+    "iconName": "UI_ReputationPic_Natlan_Shamansaurus_2"
   },
   {
     "AINIOONFMAP": "REPUTATION_ENTRANCE_EXPLORE",
@@ -286,13 +286,13 @@
     ],
     "BFHPOECFEAP": [
       {
-        "DELBOOLKFAO": "REPUTATION_ENTRANCE_COND_NONE"
+        "type": "REPUTATION_ENTRANCE_COND_NONE"
       }
     ],
     "DJDFGENEFCE": 5,
-    "ELKKIAIGOBK": 19,
+    "id": 19,
     "LNHNDMIGEGC": "LOGIC_NONE",
-    "OCNPJGGMLLO": "UI_ReputationPic_Natlan_Shamansaurus_3"
+    "iconName": "UI_ReputationPic_Natlan_Shamansaurus_3"
   },
   {
     "AINIOONFMAP": "REPUTATION_ENTRANCE_QUEST",
@@ -301,13 +301,13 @@
     ],
     "BFHPOECFEAP": [
       {
-        "DELBOOLKFAO": "REPUTATION_ENTRANCE_COND_NONE"
+        "type": "REPUTATION_ENTRANCE_COND_NONE"
       }
     ],
     "DJDFGENEFCE": 5,
-    "ELKKIAIGOBK": 20,
+    "id": 20,
     "LNHNDMIGEGC": "LOGIC_NONE",
-    "OCNPJGGMLLO": "UI_ReputationPic_Natlan_Shamansaurus_4"
+    "iconName": "UI_ReputationPic_Natlan_Shamansaurus_4"
   },
   {
     "AINIOONFMAP": "REPUTATION_ENTRANCE_HUNTER",
@@ -316,14 +316,14 @@
     ],
     "BFHPOECFEAP": [
       {
-        "DELBOOLKFAO": "REPUTATION_ENTRANCE_COND_TRIBAL_REPUTATION_LEVEL",
+        "type": "REPUTATION_ENTRANCE_COND_TRIBAL_REPUTATION_LEVEL",
         "FBMPKCPHNPH": 1
       }
     ],
     "DJDFGENEFCE": 6,
-    "ELKKIAIGOBK": 21,
+    "id": 21,
     "LNHNDMIGEGC": "LOGIC_NONE",
-    "OCNPJGGMLLO": "UI_ReputationPic_Natlan_Bisonsaurus_1"
+    "iconName": "UI_ReputationPic_Natlan_Bisonsaurus_1"
   },
   {
     "AINIOONFMAP": "REPUTATION_ENTRANCE_DONATION",
@@ -332,14 +332,14 @@
     ],
     "BFHPOECFEAP": [
       {
-        "DELBOOLKFAO": "REPUTATION_ENTRANCE_COND_TRIBAL_REPUTATION_LEVEL",
+        "type": "REPUTATION_ENTRANCE_COND_TRIBAL_REPUTATION_LEVEL",
         "FBMPKCPHNPH": 1
       }
     ],
     "DJDFGENEFCE": 6,
-    "ELKKIAIGOBK": 22,
+    "id": 22,
     "LNHNDMIGEGC": "LOGIC_NONE",
-    "OCNPJGGMLLO": "UI_ReputationPic_Natlan_Bisonsaurus_2"
+    "iconName": "UI_ReputationPic_Natlan_Bisonsaurus_2"
   },
   {
     "AINIOONFMAP": "REPUTATION_ENTRANCE_EXPLORE",
@@ -348,13 +348,13 @@
     ],
     "BFHPOECFEAP": [
       {
-        "DELBOOLKFAO": "REPUTATION_ENTRANCE_COND_NONE"
+        "type": "REPUTATION_ENTRANCE_COND_NONE"
       }
     ],
     "DJDFGENEFCE": 6,
-    "ELKKIAIGOBK": 23,
+    "id": 23,
     "LNHNDMIGEGC": "LOGIC_NONE",
-    "OCNPJGGMLLO": "UI_ReputationPic_Natlan_Bisonsaurus_3"
+    "iconName": "UI_ReputationPic_Natlan_Bisonsaurus_3"
   },
   {
     "AINIOONFMAP": "REPUTATION_ENTRANCE_QUEST",
@@ -363,12 +363,12 @@
     ],
     "BFHPOECFEAP": [
       {
-        "DELBOOLKFAO": "REPUTATION_ENTRANCE_COND_NONE"
+        "type": "REPUTATION_ENTRANCE_COND_NONE"
       }
     ],
     "DJDFGENEFCE": 6,
-    "ELKKIAIGOBK": 24,
+    "id": 24,
     "LNHNDMIGEGC": "LOGIC_NONE",
-    "OCNPJGGMLLO": "UI_ReputationPic_Natlan_Bisonsaurus_4"
+    "iconName": "UI_ReputationPic_Natlan_Bisonsaurus_4"
   }
 ]

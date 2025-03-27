@@ -1,23 +1,23 @@
 [
   {
     "AJFELCGFPND": true,
-    "DELBOOLKFAO": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+    "type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1,
+    "id": 1,
     "GIEHBAPBJEA": 48,
     "GKPDFELBLNJ": 3,
     "LBMIINHONIA": true,
     "NELAFLHMJPF": 220404,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_Cubic_Normal",
-    "PGEPICIANFN": 1612886129
+    "descTextMapHash": 1612886129
   },
   {
     "AJFELCGFPND": true,
@@ -55,18 +55,18 @@
         114012
       ]
     ],
-    "DELBOOLKFAO": "DUNGEN_ENTRY_TYPE_WEAPON_PROMOTE",
+    "type": "DUNGEN_ENTRY_TYPE_WEAPON_PROMOTE",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
         "FBMPKCPHNPH": 10
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "type": "DUNGEON_ENTRY_CONDITION_QUEST",
         "FBMPKCPHNPH": 35802
       }
     ],
-    "ELKKIAIGOBK": 2,
+    "id": 2,
     "GIEHBAPBJEA": 50,
     "GKPDFELBLNJ": 3,
     "IPEAEIOIBNB": true,
@@ -74,7 +74,7 @@
     "NELAFLHMJPF": 220402,
     "OFJMCLBFCJK": "LOGIC_OR",
     "OJHPBFNGAEN": "UI_DungeonPic_Water",
-    "PGEPICIANFN": 3914992809
+    "descTextMapHash": 3914992809
   },
   {
     "AJFELCGFPND": true,
@@ -112,128 +112,128 @@
         114024
       ]
     ],
-    "DELBOOLKFAO": "DUNGEN_ENTRY_TYPE_WEAPON_PROMOTE",
+    "type": "DUNGEN_ENTRY_TYPE_WEAPON_PROMOTE",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
         "FBMPKCPHNPH": 10
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "type": "DUNGEON_ENTRY_CONDITION_QUEST",
         "FBMPKCPHNPH": 35802
       }
     ],
-    "ELKKIAIGOBK": 3,
+    "id": 3,
     "GIEHBAPBJEA": 135,
     "GKPDFELBLNJ": 3,
     "IPEAEIOIBNB": true,
     "NELAFLHMJPF": 220407,
     "OFJMCLBFCJK": "LOGIC_OR",
     "OJHPBFNGAEN": "UI_DungeonPic_Thunder",
-    "PGEPICIANFN": 1293176289
+    "descTextMapHash": 1293176289
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "type": "DUNGEON_ENTRY_TYPE_NORMAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 4,
+    "id": 4,
     "GIEHBAPBJEA": 117,
     "GKPDFELBLNJ": 3,
     "NELAFLHMJPF": 220406,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_HuZhongTian",
-    "PGEPICIANFN": 77310385
+    "descTextMapHash": 77310385
   },
   {
     "AJFELCGFPND": true,
-    "DELBOOLKFAO": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+    "type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
         "FBMPKCPHNPH": 10
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "type": "DUNGEON_ENTRY_CONDITION_QUEST",
         "FBMPKCPHNPH": 35802
       }
     ],
-    "ELKKIAIGOBK": 6,
+    "id": 6,
     "GIEHBAPBJEA": 42,
     "GKPDFELBLNJ": 3,
     "MOPBHINHBCL": 4,
     "NELAFLHMJPF": 220405,
     "OFJMCLBFCJK": "LOGIC_OR",
     "OJHPBFNGAEN": "UI_DungeonPic_Cubic_Normal_1",
-    "PGEPICIANFN": 2667941777
+    "descTextMapHash": 2667941777
   },
   {
     "AJFELCGFPND": true,
-    "DELBOOLKFAO": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+    "type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
         "FBMPKCPHNPH": 10
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "type": "DUNGEON_ENTRY_CONDITION_QUEST",
         "FBMPKCPHNPH": 35802
       }
     ],
-    "ELKKIAIGOBK": 7,
+    "id": 7,
     "GIEHBAPBJEA": 137,
     "GKPDFELBLNJ": 3,
     "NELAFLHMJPF": 220409,
     "OFJMCLBFCJK": "LOGIC_OR",
     "OJHPBFNGAEN": "UI_DungeonPic_Cubic_Normal_2",
-    "PGEPICIANFN": 767933225
+    "descTextMapHash": 767933225
   },
   {
     "AJFELCGFPND": true,
-    "DELBOOLKFAO": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+    "type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
         "FBMPKCPHNPH": 10
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "type": "DUNGEON_ENTRY_CONDITION_QUEST",
         "FBMPKCPHNPH": 35802
       }
     ],
-    "ELKKIAIGOBK": 8,
+    "id": 8,
     "GIEHBAPBJEA": 107,
     "GKPDFELBLNJ": 3,
     "NELAFLHMJPF": 220410,
     "OFJMCLBFCJK": "LOGIC_OR",
     "OJHPBFNGAEN": "UI_DungeonPic_Cubic_Normal_3",
-    "PGEPICIANFN": 692041689
+    "descTextMapHash": 692041689
   },
   {
     "AJFELCGFPND": true,
-    "DELBOOLKFAO": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+    "type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
         "FBMPKCPHNPH": 10
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "type": "DUNGEON_ENTRY_CONDITION_QUEST",
         "FBMPKCPHNPH": 35802
       }
     ],
-    "ELKKIAIGOBK": 9,
+    "id": 9,
     "GIEHBAPBJEA": 139,
     "GKPDFELBLNJ": 3,
     "NELAFLHMJPF": 220411,
     "OFJMCLBFCJK": "LOGIC_OR",
     "OJHPBFNGAEN": "UI_DungeonPic_Cubic_Normal_4",
-    "PGEPICIANFN": 142290817
+    "descTextMapHash": 142290817
   },
   {
     "AJFELCGFPND": true,
@@ -265,18 +265,18 @@
         104309
       ]
     ],
-    "DELBOOLKFAO": "DUNGEN_ENTRY_TYPE_AVATAR_TALENT",
+    "type": "DUNGEN_ENTRY_TYPE_AVATAR_TALENT",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
         "FBMPKCPHNPH": 10
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "type": "DUNGEON_ENTRY_CONDITION_QUEST",
         "FBMPKCPHNPH": 35802
       }
     ],
-    "ELKKIAIGOBK": 10,
+    "id": 10,
     "GIEHBAPBJEA": 44,
     "GKPDFELBLNJ": 3,
     "IPEAEIOIBNB": true,
@@ -284,7 +284,7 @@
     "NELAFLHMJPF": 220403,
     "OFJMCLBFCJK": "LOGIC_OR",
     "OJHPBFNGAEN": "UI_DungeonPic_Ice",
-    "PGEPICIANFN": 2905358345
+    "descTextMapHash": 2905358345
   },
   {
     "AJFELCGFPND": true,
@@ -316,67 +316,67 @@
         104318
       ]
     ],
-    "DELBOOLKFAO": "DUNGEN_ENTRY_TYPE_AVATAR_TALENT",
+    "type": "DUNGEN_ENTRY_TYPE_AVATAR_TALENT",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
         "FBMPKCPHNPH": 10
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "type": "DUNGEON_ENTRY_CONDITION_QUEST",
         "FBMPKCPHNPH": 35802
       }
     ],
-    "ELKKIAIGOBK": 11,
+    "id": 11,
     "GIEHBAPBJEA": 131,
     "GKPDFELBLNJ": 3,
     "IPEAEIOIBNB": true,
     "NELAFLHMJPF": 220408,
     "OFJMCLBFCJK": "LOGIC_OR",
     "OJHPBFNGAEN": "UI_DungeonPic_Fire",
-    "PGEPICIANFN": 2189301337
+    "descTextMapHash": 2189301337
   },
   {
     "AJFELCGFPND": true,
-    "DELBOOLKFAO": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+    "type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
         "FBMPKCPHNPH": 10
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "type": "DUNGEON_ENTRY_CONDITION_QUEST",
         "FBMPKCPHNPH": 35802
       }
     ],
-    "ELKKIAIGOBK": 12,
+    "id": 12,
     "GIEHBAPBJEA": 221,
     "GKPDFELBLNJ": 3,
     "NELAFLHMJPF": 220414,
     "OFJMCLBFCJK": "LOGIC_OR",
     "OJHPBFNGAEN": "UI_DungeonPic_Cubic_Cold_1",
-    "PGEPICIANFN": 4215300953
+    "descTextMapHash": 4215300953
   },
   {
     "AJFELCGFPND": true,
-    "DELBOOLKFAO": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+    "type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
         "FBMPKCPHNPH": 10
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "type": "DUNGEON_ENTRY_CONDITION_QUEST",
         "FBMPKCPHNPH": 35802
       }
     ],
-    "ELKKIAIGOBK": 13,
+    "id": 13,
     "GIEHBAPBJEA": 282,
     "GKPDFELBLNJ": 3,
     "NELAFLHMJPF": 220415,
     "OFJMCLBFCJK": "LOGIC_OR",
     "OJHPBFNGAEN": "UI_DungeonPic_Cubic_Normal_1",
-    "PGEPICIANFN": 407495801
+    "descTextMapHash": 407495801
   },
   {
     "AJFELCGFPND": true,
@@ -414,25 +414,25 @@
         114036
       ]
     ],
-    "DELBOOLKFAO": "DUNGEN_ENTRY_TYPE_WEAPON_PROMOTE",
+    "type": "DUNGEN_ENTRY_TYPE_WEAPON_PROMOTE",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
         "FBMPKCPHNPH": 10
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "type": "DUNGEON_ENTRY_CONDITION_QUEST",
         "FBMPKCPHNPH": 35802
       }
     ],
-    "ELKKIAIGOBK": 14,
+    "id": 14,
     "GIEHBAPBJEA": 368,
     "GKPDFELBLNJ": 3,
     "IPEAEIOIBNB": true,
     "NELAFLHMJPF": 220416,
     "OFJMCLBFCJK": "LOGIC_OR",
     "OJHPBFNGAEN": "UI_DungeonPic_Rock",
-    "PGEPICIANFN": 3563711113
+    "descTextMapHash": 3563711113
   },
   {
     "AJFELCGFPND": true,
@@ -464,88 +464,88 @@
         104328
       ]
     ],
-    "DELBOOLKFAO": "DUNGEN_ENTRY_TYPE_AVATAR_TALENT",
+    "type": "DUNGEN_ENTRY_TYPE_AVATAR_TALENT",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
         "FBMPKCPHNPH": 10
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "type": "DUNGEON_ENTRY_CONDITION_QUEST",
         "FBMPKCPHNPH": 35802
       }
     ],
-    "ELKKIAIGOBK": 15,
+    "id": 15,
     "GIEHBAPBJEA": 310,
     "GKPDFELBLNJ": 3,
     "IPEAEIOIBNB": true,
     "NELAFLHMJPF": 220417,
     "OFJMCLBFCJK": "LOGIC_OR",
     "OJHPBFNGAEN": "UI_DungeonPic_Thunder_Dq",
-    "PGEPICIANFN": 1335742113
+    "descTextMapHash": 1335742113
   },
   {
     "AJFELCGFPND": true,
-    "DELBOOLKFAO": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+    "type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
         "FBMPKCPHNPH": 10
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "type": "DUNGEON_ENTRY_CONDITION_QUEST",
         "FBMPKCPHNPH": 35802
       }
     ],
-    "ELKKIAIGOBK": 16,
+    "id": 16,
     "GIEHBAPBJEA": 361,
     "GKPDFELBLNJ": 3,
     "NELAFLHMJPF": 220418,
     "OFJMCLBFCJK": "LOGIC_OR",
     "OJHPBFNGAEN": "UI_DungeonPic_ThunderCave_Dq",
-    "PGEPICIANFN": 2252726481
+    "descTextMapHash": 2252726481
   },
   {
     "AJFELCGFPND": true,
-    "DELBOOLKFAO": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+    "type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
         "FBMPKCPHNPH": 10
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "type": "DUNGEON_ENTRY_CONDITION_QUEST",
         "FBMPKCPHNPH": 35802
       }
     ],
-    "ELKKIAIGOBK": 17,
+    "id": 17,
     "GIEHBAPBJEA": 433,
     "GKPDFELBLNJ": 3,
     "NELAFLHMJPF": 220419,
     "OFJMCLBFCJK": "LOGIC_OR",
     "OJHPBFNGAEN": "UI_DungeonPic_ThunderCave_Dq",
-    "PGEPICIANFN": 831946953
+    "descTextMapHash": 831946953
   },
   {
     "AJFELCGFPND": true,
-    "DELBOOLKFAO": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+    "type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
         "FBMPKCPHNPH": 10
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "type": "DUNGEON_ENTRY_CONDITION_QUEST",
         "FBMPKCPHNPH": 35802
       }
     ],
-    "ELKKIAIGOBK": 18,
+    "id": 18,
     "GIEHBAPBJEA": 516,
     "GKPDFELBLNJ": 3,
     "NELAFLHMJPF": 220420,
     "OFJMCLBFCJK": "LOGIC_OR",
     "OJHPBFNGAEN": "UI_DungeonPic_CycleDungeonChasm",
-    "PGEPICIANFN": 2021257257
+    "descTextMapHash": 2021257257
   },
   {
     "AJFELCGFPND": true,
@@ -577,46 +577,46 @@
         104337
       ]
     ],
-    "DELBOOLKFAO": "DUNGEN_ENTRY_TYPE_AVATAR_TALENT",
+    "type": "DUNGEN_ENTRY_TYPE_AVATAR_TALENT",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
         "FBMPKCPHNPH": 10
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "type": "DUNGEON_ENTRY_CONDITION_QUEST",
         "FBMPKCPHNPH": 35802
       }
     ],
-    "ELKKIAIGOBK": 19,
+    "id": 19,
     "GIEHBAPBJEA": 505,
     "GKPDFELBLNJ": 3,
     "IPEAEIOIBNB": true,
     "NELAFLHMJPF": 220422,
     "OFJMCLBFCJK": "LOGIC_OR",
     "OJHPBFNGAEN": "UI_DungeonPic_XMCharacter01",
-    "PGEPICIANFN": 3613595857
+    "descTextMapHash": 3613595857
   },
   {
     "AJFELCGFPND": true,
-    "DELBOOLKFAO": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+    "type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
         "FBMPKCPHNPH": 10
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "type": "DUNGEON_ENTRY_CONDITION_QUEST",
         "FBMPKCPHNPH": 35802
       }
     ],
-    "ELKKIAIGOBK": 20,
+    "id": 20,
     "GIEHBAPBJEA": 507,
     "GKPDFELBLNJ": 3,
     "NELAFLHMJPF": 220423,
     "OFJMCLBFCJK": "LOGIC_OR",
     "OJHPBFNGAEN": "UI_DungeonPic_XMRelic01",
-    "PGEPICIANFN": 3394002473
+    "descTextMapHash": 3394002473
   },
   {
     "AJFELCGFPND": true,
@@ -654,67 +654,67 @@
         114048
       ]
     ],
-    "DELBOOLKFAO": "DUNGEN_ENTRY_TYPE_WEAPON_PROMOTE",
+    "type": "DUNGEN_ENTRY_TYPE_WEAPON_PROMOTE",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
         "FBMPKCPHNPH": 10
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "type": "DUNGEON_ENTRY_CONDITION_QUEST",
         "FBMPKCPHNPH": 35802
       }
     ],
-    "ELKKIAIGOBK": 21,
+    "id": 21,
     "GIEHBAPBJEA": 509,
     "GKPDFELBLNJ": 3,
     "IPEAEIOIBNB": true,
     "NELAFLHMJPF": 220421,
     "OFJMCLBFCJK": "LOGIC_OR",
     "OJHPBFNGAEN": "UI_DungeonPic_XMWeapon01",
-    "PGEPICIANFN": 1711971481
+    "descTextMapHash": 1711971481
   },
   {
     "AJFELCGFPND": true,
-    "DELBOOLKFAO": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+    "type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
         "FBMPKCPHNPH": 10
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "type": "DUNGEON_ENTRY_CONDITION_QUEST",
         "FBMPKCPHNPH": 35802
       }
     ],
-    "ELKKIAIGOBK": 22,
+    "id": 22,
     "GIEHBAPBJEA": 758,
     "GKPDFELBLNJ": 3,
     "NELAFLHMJPF": 220424,
     "OFJMCLBFCJK": "LOGIC_OR",
     "OJHPBFNGAEN": "UI_DungeonPic_XMRelic02",
-    "PGEPICIANFN": 3121112609
+    "descTextMapHash": 3121112609
   },
   {
     "AJFELCGFPND": true,
-    "DELBOOLKFAO": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+    "type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
         "FBMPKCPHNPH": 10
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "type": "DUNGEON_ENTRY_CONDITION_QUEST",
         "FBMPKCPHNPH": 35802
       }
     ],
-    "ELKKIAIGOBK": 23,
+    "id": 23,
     "GIEHBAPBJEA": 803,
     "GKPDFELBLNJ": 3,
     "NELAFLHMJPF": 220425,
     "OFJMCLBFCJK": "LOGIC_OR",
     "OJHPBFNGAEN": "UI_DungeonPic_XMRelic02",
-    "PGEPICIANFN": 2902665865
+    "descTextMapHash": 2902665865
   },
   {
     "AJFELCGFPND": true,
@@ -746,25 +746,25 @@
         104346
       ]
     ],
-    "DELBOOLKFAO": "DUNGEN_ENTRY_TYPE_AVATAR_TALENT",
+    "type": "DUNGEN_ENTRY_TYPE_AVATAR_TALENT",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
         "FBMPKCPHNPH": 10
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "type": "DUNGEON_ENTRY_CONDITION_QUEST",
         "FBMPKCPHNPH": 35802
       }
     ],
-    "ELKKIAIGOBK": 24,
+    "id": 24,
     "GIEHBAPBJEA": 865,
     "GKPDFELBLNJ": 3,
     "IPEAEIOIBNB": true,
     "NELAFLHMJPF": 220426,
     "OFJMCLBFCJK": "LOGIC_OR",
     "OJHPBFNGAEN": "UI_DungeonPic_FDCharacter01",
-    "PGEPICIANFN": 4245884321
+    "descTextMapHash": 4245884321
   },
   {
     "AJFELCGFPND": true,
@@ -802,88 +802,88 @@
         114060
       ]
     ],
-    "DELBOOLKFAO": "DUNGEN_ENTRY_TYPE_WEAPON_PROMOTE",
+    "type": "DUNGEN_ENTRY_TYPE_WEAPON_PROMOTE",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
         "FBMPKCPHNPH": 10
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "type": "DUNGEON_ENTRY_CONDITION_QUEST",
         "FBMPKCPHNPH": 35802
       }
     ],
-    "ELKKIAIGOBK": 25,
+    "id": 25,
     "GIEHBAPBJEA": 859,
     "GKPDFELBLNJ": 3,
     "IPEAEIOIBNB": true,
     "NELAFLHMJPF": 220427,
     "OFJMCLBFCJK": "LOGIC_OR",
     "OJHPBFNGAEN": "UI_DungeonPic_FDWeapon01",
-    "PGEPICIANFN": 2142072001
+    "descTextMapHash": 2142072001
   },
   {
     "AJFELCGFPND": true,
-    "DELBOOLKFAO": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+    "type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
         "FBMPKCPHNPH": 10
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "type": "DUNGEON_ENTRY_CONDITION_QUEST",
         "FBMPKCPHNPH": 35802
       }
     ],
-    "ELKKIAIGOBK": 26,
+    "id": 26,
     "GIEHBAPBJEA": 982,
     "GKPDFELBLNJ": 3,
     "NELAFLHMJPF": 220428,
     "OFJMCLBFCJK": "LOGIC_OR",
     "OJHPBFNGAEN": "UI_DungeonPic_FDRelic01",
-    "PGEPICIANFN": 716421649
+    "descTextMapHash": 716421649
   },
   {
     "AJFELCGFPND": true,
-    "DELBOOLKFAO": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+    "type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
         "FBMPKCPHNPH": 10
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "type": "DUNGEON_ENTRY_CONDITION_QUEST",
         "FBMPKCPHNPH": 35802
       }
     ],
-    "ELKKIAIGOBK": 27,
+    "id": 27,
     "GIEHBAPBJEA": 1142,
     "GKPDFELBLNJ": 3,
     "NELAFLHMJPF": 220429,
     "OFJMCLBFCJK": "LOGIC_OR",
     "OJHPBFNGAEN": "UI_DungeonPic_FDRelic01",
-    "PGEPICIANFN": 3472944297
+    "descTextMapHash": 3472944297
   },
   {
     "AJFELCGFPND": true,
-    "DELBOOLKFAO": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+    "type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
         "FBMPKCPHNPH": 10
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "type": "DUNGEON_ENTRY_CONDITION_QUEST",
         "FBMPKCPHNPH": 35802
       }
     ],
-    "ELKKIAIGOBK": 28,
+    "id": 28,
     "GIEHBAPBJEA": 1151,
     "GKPDFELBLNJ": 3,
     "NELAFLHMJPF": 220430,
     "OFJMCLBFCJK": "LOGIC_OR",
     "OJHPBFNGAEN": "UI_DungeonPic_FDRelic01",
-    "PGEPICIANFN": 3225616529
+    "descTextMapHash": 3225616529
   },
   {
     "AJFELCGFPND": true,
@@ -915,25 +915,25 @@
         104355
       ]
     ],
-    "DELBOOLKFAO": "DUNGEN_ENTRY_TYPE_AVATAR_TALENT",
+    "type": "DUNGEN_ENTRY_TYPE_AVATAR_TALENT",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
         "FBMPKCPHNPH": 10
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "type": "DUNGEON_ENTRY_CONDITION_QUEST",
         "FBMPKCPHNPH": 35802
       }
     ],
-    "ELKKIAIGOBK": 29,
+    "id": 29,
     "GIEHBAPBJEA": 1186,
     "GKPDFELBLNJ": 3,
     "IPEAEIOIBNB": true,
     "NELAFLHMJPF": 220431,
     "OFJMCLBFCJK": "LOGIC_OR",
     "OJHPBFNGAEN": "UI_DungeonPic_NTDungeon_Cycle01",
-    "PGEPICIANFN": 654373681
+    "descTextMapHash": 654373681
   },
   {
     "AJFELCGFPND": true,
@@ -971,168 +971,168 @@
         114072
       ]
     ],
-    "DELBOOLKFAO": "DUNGEN_ENTRY_TYPE_WEAPON_PROMOTE",
+    "type": "DUNGEN_ENTRY_TYPE_WEAPON_PROMOTE",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
         "FBMPKCPHNPH": 10
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "type": "DUNGEON_ENTRY_CONDITION_QUEST",
         "FBMPKCPHNPH": 35802
       }
     ],
-    "ELKKIAIGOBK": 30,
+    "id": 30,
     "GIEHBAPBJEA": 1188,
     "GKPDFELBLNJ": 3,
     "IPEAEIOIBNB": true,
     "NELAFLHMJPF": 220432,
     "OFJMCLBFCJK": "LOGIC_OR",
     "OJHPBFNGAEN": "UI_DungeonPic_NTCycle02",
-    "PGEPICIANFN": 2254078289
+    "descTextMapHash": 2254078289
   },
   {
     "AJFELCGFPND": true,
-    "DELBOOLKFAO": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+    "type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
         "FBMPKCPHNPH": 10
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "type": "DUNGEON_ENTRY_CONDITION_QUEST",
         "FBMPKCPHNPH": 35802
       }
     ],
-    "ELKKIAIGOBK": 31,
+    "id": 31,
     "GIEHBAPBJEA": 1190,
     "GKPDFELBLNJ": 3,
     "NELAFLHMJPF": 220433,
     "OFJMCLBFCJK": "LOGIC_OR",
     "OJHPBFNGAEN": "UI_DungeonPic_NTCycle03",
-    "PGEPICIANFN": 2343235209
+    "descTextMapHash": 2343235209
   },
   {
     "AJFELCGFPND": true,
-    "DELBOOLKFAO": "DUNGEN_ENTRY_TYPE_RELIQUARY",
+    "type": "DUNGEN_ENTRY_TYPE_RELIQUARY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
         "FBMPKCPHNPH": 10
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_QUEST",
+        "type": "DUNGEON_ENTRY_CONDITION_QUEST",
         "FBMPKCPHNPH": 35802
       }
     ],
-    "ELKKIAIGOBK": 32,
+    "id": 32,
     "GIEHBAPBJEA": 1473,
     "GKPDFELBLNJ": 3,
     "NELAFLHMJPF": 220434,
     "OFJMCLBFCJK": "LOGIC_OR",
     "OJHPBFNGAEN": "UI_DungeonPic_NTDungeon_Cycle01",
-    "PGEPICIANFN": 3588888673
+    "descTextMapHash": 3588888673
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_OBSCURAE",
+    "type": "DUNGEON_ENTRY_TYPE_OBSCURAE",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_LEVEL",
+        "type": "DUNGEON_ENTRY_CONDITION_LEVEL",
         "FBMPKCPHNPH": 20
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1001,
+    "id": 1001,
     "GIEHBAPBJEA": 45,
     "GKPDFELBLNJ": 3,
     "MOPBHINHBCL": 3,
     "NELAFLHMJPF": 220412,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_Tower_Normal",
-    "PGEPICIANFN": 2708589641
+    "descTextMapHash": 2708589641
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "type": "DUNGEON_ENTRY_TYPE_NORMAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1002,
+    "id": 1002,
     "GIEHBAPBJEA": 1,
     "GKPDFELBLNJ": 3,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_Kaeya",
-    "PGEPICIANFN": 3239234745
+    "descTextMapHash": 3239234745
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "type": "DUNGEON_ENTRY_TYPE_NORMAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1003,
+    "id": 1003,
     "GIEHBAPBJEA": 20,
     "GKPDFELBLNJ": 3,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_Amber",
-    "PGEPICIANFN": 1162985985
+    "descTextMapHash": 1162985985
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "type": "DUNGEON_ENTRY_TYPE_NORMAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1004,
+    "id": 1004,
     "GIEHBAPBJEA": 22,
     "GKPDFELBLNJ": 3,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_Lise",
-    "PGEPICIANFN": 3920998985
+    "descTextMapHash": 3920998985
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "type": "DUNGEON_ENTRY_TYPE_NORMAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1005,
+    "id": 1005,
     "GIEHBAPBJEA": 40,
     "GKPDFELBLNJ": 3,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_DragonTear",
-    "PGEPICIANFN": 1972150497
+    "descTextMapHash": 1972150497
   },
   {
     "AJFELCGFPND": true,
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_TRIAL",
+    "type": "DUNGEON_ENTRY_TYPE_TRIAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1006,
+    "id": 1006,
     "GIEHBAPBJEA": 38,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -1146,174 +1146,174 @@
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_Stormterror",
-    "PGEPICIANFN": 792448241
+    "descTextMapHash": 792448241
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "type": "DUNGEON_ENTRY_TYPE_NORMAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1007,
+    "id": 1007,
     "GIEHBAPBJEA": 52,
     "GKPDFELBLNJ": 3,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_Kaeya",
-    "PGEPICIANFN": 3246634345
+    "descTextMapHash": 3246634345
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "type": "DUNGEON_ENTRY_TYPE_NORMAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1008,
+    "id": 1008,
     "GIEHBAPBJEA": 113,
     "GKPDFELBLNJ": 3,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_Fatui",
-    "PGEPICIANFN": 332916601
+    "descTextMapHash": 332916601
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "type": "DUNGEON_ENTRY_TYPE_NORMAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1009,
+    "id": 1009,
     "GIEHBAPBJEA": 102,
     "GKPDFELBLNJ": 3,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_Diluc",
-    "PGEPICIANFN": 1575215929
+    "descTextMapHash": 1575215929
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "type": "DUNGEON_ENTRY_TYPE_NORMAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1010,
+    "id": 1010,
     "GIEHBAPBJEA": 89,
     "GKPDFELBLNJ": 3,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_Diluc",
-    "PGEPICIANFN": 2484444193
+    "descTextMapHash": 2484444193
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "type": "DUNGEON_ENTRY_TYPE_NORMAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1011,
+    "id": 1011,
     "GIEHBAPBJEA": 119,
     "GKPDFELBLNJ": 3,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_Diluc",
-    "PGEPICIANFN": 4121744817
+    "descTextMapHash": 4121744817
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "type": "DUNGEON_ENTRY_TYPE_NORMAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1012,
+    "id": 1012,
     "GIEHBAPBJEA": 125,
     "GKPDFELBLNJ": 3,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_XiangLing",
-    "PGEPICIANFN": 692976025
+    "descTextMapHash": 692976025
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "type": "DUNGEON_ENTRY_TYPE_NORMAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1013,
+    "id": 1013,
     "GIEHBAPBJEA": 129,
     "GKPDFELBLNJ": 3,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_Diluc",
-    "PGEPICIANFN": 2511450889
+    "descTextMapHash": 2511450889
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "type": "DUNGEON_ENTRY_TYPE_NORMAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1014,
+    "id": 1014,
     "GIEHBAPBJEA": 146,
     "GKPDFELBLNJ": 3,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_YunHai",
-    "PGEPICIANFN": 3994909113
+    "descTextMapHash": 3994909113
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "type": "DUNGEON_ENTRY_TYPE_NORMAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1015,
+    "id": 1015,
     "GIEHBAPBJEA": 133,
     "GKPDFELBLNJ": 3,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_YunHai",
-    "PGEPICIANFN": 3007793081
+    "descTextMapHash": 3007793081
   },
   {
     "AJFELCGFPND": true,
     "CICOPKDJIMC": 40,
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_TRIAL",
+    "type": "DUNGEON_ENTRY_TYPE_TRIAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1016,
+    "id": 1016,
     "GIEHBAPBJEA": 218,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -1325,37 +1325,37 @@
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_Goldenhouse",
-    "PGEPICIANFN": 1047671777
+    "descTextMapHash": 1047671777
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_EFFIGY",
+    "type": "DUNGEON_ENTRY_TYPE_EFFIGY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1017,
+    "id": 1017,
     "GIEHBAPBJEA": 223,
     "GKPDFELBLNJ": 3,
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_EffigyChallenge",
-    "PGEPICIANFN": 2923105409
+    "descTextMapHash": 2923105409
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_FLEUR_FAIR",
+    "type": "DUNGEON_ENTRY_TYPE_FLEUR_FAIR",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1018,
+    "id": 1018,
     "GIEHBAPBJEA": 265,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -1364,19 +1364,19 @@
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_FleurFair",
-    "PGEPICIANFN": 3303313457
+    "descTextMapHash": 3303313457
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_CHANNELLER_SLAB_ONE_OFF",
+    "type": "DUNGEON_ENTRY_TYPE_CHANNELLER_SLAB_ONE_OFF",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1019,
+    "id": 1019,
     "GIEHBAPBJEA": 274,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -1385,19 +1385,19 @@
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_Kaeya",
-    "PGEPICIANFN": 2262718049
+    "descTextMapHash": 2262718049
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_CHANNELLER_SLAB_ONE_OFF",
+    "type": "DUNGEON_ENTRY_TYPE_CHANNELLER_SLAB_ONE_OFF",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1020,
+    "id": 1020,
     "GIEHBAPBJEA": 276,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -1406,19 +1406,19 @@
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_XiangLing",
-    "PGEPICIANFN": 2797072865
+    "descTextMapHash": 2797072865
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_CHANNELLER_SLAB_ONE_OFF",
+    "type": "DUNGEON_ENTRY_TYPE_CHANNELLER_SLAB_ONE_OFF",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1021,
+    "id": 1021,
     "GIEHBAPBJEA": 278,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -1427,19 +1427,19 @@
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_DragonTear",
-    "PGEPICIANFN": 2491644225
+    "descTextMapHash": 2491644225
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_CHANNELLER_SLAB_LOOP",
+    "type": "DUNGEON_ENTRY_TYPE_CHANNELLER_SLAB_LOOP",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1022,
+    "id": 1022,
     "GIEHBAPBJEA": 280,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -1448,21 +1448,21 @@
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_ChannellerSlab",
-    "PGEPICIANFN": 350839273
+    "descTextMapHash": 350839273
   },
   {
     "AJFELCGFPND": true,
     "CICOPKDJIMC": 40,
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_TRIAL",
+    "type": "DUNGEON_ENTRY_TYPE_TRIAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1023,
+    "id": 1023,
     "GIEHBAPBJEA": 271,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -1486,37 +1486,37 @@
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_DahakaBoss_1",
-    "PGEPICIANFN": 3790866161
+    "descTextMapHash": 3790866161
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_EFFIGY",
+    "type": "DUNGEON_ENTRY_TYPE_EFFIGY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1024,
+    "id": 1024,
     "GIEHBAPBJEA": 294,
     "GKPDFELBLNJ": 3,
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_EffigyChallenge_01",
-    "PGEPICIANFN": 3135140769
+    "descTextMapHash": 3135140769
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_BLITZ_RUSH",
+    "type": "DUNGEON_ENTRY_TYPE_BLITZ_RUSH",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1025,
+    "id": 1025,
     "GIEHBAPBJEA": 334,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -1525,19 +1525,19 @@
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_Perpetual",
-    "PGEPICIANFN": 3528534825
+    "descTextMapHash": 3528534825
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_SUMO",
+    "type": "DUNGEON_ENTRY_TYPE_SUMO",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1026,
+    "id": 1026,
     "GIEHBAPBJEA": 357,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -1546,72 +1546,72 @@
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_Sumo",
-    "PGEPICIANFN": 1657396761
+    "descTextMapHash": 1657396761
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "type": "DUNGEON_ENTRY_TYPE_NORMAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1027,
+    "id": 1027,
     "GIEHBAPBJEA": 350,
     "GKPDFELBLNJ": 3,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_HFDungeon01",
-    "PGEPICIANFN": 268653081
+    "descTextMapHash": 268653081
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "type": "DUNGEON_ENTRY_TYPE_NORMAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1028,
+    "id": 1028,
     "GIEHBAPBJEA": 308,
     "GKPDFELBLNJ": 3,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_HFDungeon02_01",
-    "PGEPICIANFN": 2309605713
+    "descTextMapHash": 2309605713
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "type": "DUNGEON_ENTRY_TYPE_NORMAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1029,
+    "id": 1029,
     "GIEHBAPBJEA": 359,
     "GKPDFELBLNJ": 3,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_HFDungeon02_02",
-    "PGEPICIANFN": 2262274449
+    "descTextMapHash": 2262274449
   },
   {
     "AJFELCGFPND": true,
     "CICOPKDJIMC": 40,
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_TRIAL",
+    "type": "DUNGEON_ENTRY_TYPE_TRIAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1030,
+    "id": 1030,
     "GIEHBAPBJEA": 396,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -1623,54 +1623,54 @@
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_DonjonBattle",
-    "PGEPICIANFN": 1251280409
+    "descTextMapHash": 1251280409
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "type": "DUNGEON_ENTRY_TYPE_NORMAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1031,
+    "id": 1031,
     "GIEHBAPBJEA": 351,
     "GKPDFELBLNJ": 3,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_HFDungeon01_02",
-    "PGEPICIANFN": 2428969633
+    "descTextMapHash": 2428969633
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1032,
+    "id": 1032,
     "GIEHBAPBJEA": 417,
     "GKPDFELBLNJ": 3,
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_OnmyoMaze",
-    "PGEPICIANFN": 3512394897
+    "descTextMapHash": 3512394897
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_HACHI",
+    "type": "DUNGEON_ENTRY_TYPE_HACHI",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1033,
+    "id": 1033,
     "GIEHBAPBJEA": 426,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -1679,36 +1679,36 @@
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_Hachi",
-    "PGEPICIANFN": 746465721
+    "descTextMapHash": 746465721
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "type": "DUNGEON_ENTRY_TYPE_NORMAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1034,
+    "id": 1034,
     "GIEHBAPBJEA": 424,
     "GKPDFELBLNJ": 3,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_HFDungeon02_02",
-    "PGEPICIANFN": 2323875993
+    "descTextMapHash": 2323875993
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_CHANNELLER_SLAB_LOOP",
+    "type": "DUNGEON_ENTRY_TYPE_CHANNELLER_SLAB_LOOP",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1035,
+    "id": 1035,
     "GIEHBAPBJEA": 436,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -1717,19 +1717,19 @@
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_ChannellerSlab",
-    "PGEPICIANFN": 76103177
+    "descTextMapHash": 76103177
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1036,
+    "id": 1036,
     "GIEHBAPBJEA": 447,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -1738,19 +1738,19 @@
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_Qiqi",
-    "PGEPICIANFN": 433396889
+    "descTextMapHash": 433396889
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1037,
+    "id": 1037,
     "GIEHBAPBJEA": 449,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -1759,19 +1759,19 @@
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_XiangLing",
-    "PGEPICIANFN": 512326977
+    "descTextMapHash": 512326977
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1038,
+    "id": 1038,
     "GIEHBAPBJEA": 451,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -1780,19 +1780,19 @@
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_YunHai",
-    "PGEPICIANFN": 3872861745
+    "descTextMapHash": 3872861745
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1039,
+    "id": 1039,
     "GIEHBAPBJEA": 457,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -1801,19 +1801,19 @@
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_Eldritch_Minor01",
-    "PGEPICIANFN": 474765937
+    "descTextMapHash": 474765937
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_SUMO",
+    "type": "DUNGEON_ENTRY_TYPE_SUMO",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1040,
+    "id": 1040,
     "GIEHBAPBJEA": 469,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -1822,19 +1822,19 @@
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_Sumo",
-    "PGEPICIANFN": 916511777
+    "descTextMapHash": 916511777
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1041,
+    "id": 1041,
     "GIEHBAPBJEA": 512,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -1847,39 +1847,39 @@
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_Steeplechase_1",
-    "PGEPICIANFN": 1872280993
+    "descTextMapHash": 1872280993
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1042,
+    "id": 1042,
     "GIEHBAPBJEA": 520,
     "GKPDFELBLNJ": 3,
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_CrystalLink",
-    "PGEPICIANFN": 3392902889
+    "descTextMapHash": 3392902889
   },
   {
     "AJFELCGFPND": true,
     "CICOPKDJIMC": 40,
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_TRIAL",
+    "type": "DUNGEON_ENTRY_TYPE_TRIAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1043,
+    "id": 1043,
     "GIEHBAPBJEA": 503,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -1891,19 +1891,19 @@
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_WeekDungeon_Baal",
-    "PGEPICIANFN": 1825844521
+    "descTextMapHash": 1825844521
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1044,
+    "id": 1044,
     "GIEHBAPBJEA": 18,
     "GKPDFELBLNJ": 6,
     "HDCOAOEIGOH": [
@@ -1929,259 +1929,259 @@
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "DungeonPic_RogueDiary_4",
-    "PGEPICIANFN": 15951913
+    "descTextMapHash": 15951913
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1045,
+    "id": 1045,
     "GIEHBAPBJEA": 9,
     "GKPDFELBLNJ": 9,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_SummerTimeV2_Character_01_1",
-    "PGEPICIANFN": 1672606017
+    "descTextMapHash": 1672606017
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1046,
+    "id": 1046,
     "GIEHBAPBJEA": 48,
     "GKPDFELBLNJ": 9,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_SummerTimeV2_Character_01_4",
-    "PGEPICIANFN": 2432468609
+    "descTextMapHash": 2432468609
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1047,
+    "id": 1047,
     "GIEHBAPBJEA": 50,
     "GKPDFELBLNJ": 9,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_SummerTimeV2_Character_03_4",
-    "PGEPICIANFN": 3819188313
+    "descTextMapHash": 3819188313
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1048,
+    "id": 1048,
     "GIEHBAPBJEA": 52,
     "GKPDFELBLNJ": 9,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_SummerTimeV2_Character_02_2",
-    "PGEPICIANFN": 3815529809
+    "descTextMapHash": 3815529809
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1049,
+    "id": 1049,
     "GIEHBAPBJEA": 54,
     "GKPDFELBLNJ": 9,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_SummerTimeV2_Character_04_2",
-    "PGEPICIANFN": 1635795273
+    "descTextMapHash": 1635795273
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1050,
+    "id": 1050,
     "GIEHBAPBJEA": 11,
     "GKPDFELBLNJ": 9,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_SummerTimeV2_Character_01_2",
-    "PGEPICIANFN": 4117405465
+    "descTextMapHash": 4117405465
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1051,
+    "id": 1051,
     "GIEHBAPBJEA": 13,
     "GKPDFELBLNJ": 9,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_SummerTimeV2_Character_01_3",
-    "PGEPICIANFN": 3793477353
+    "descTextMapHash": 3793477353
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1052,
+    "id": 1052,
     "GIEHBAPBJEA": 15,
     "GKPDFELBLNJ": 9,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_SummerTimeV2_Character_03_1",
-    "PGEPICIANFN": 1581179913
+    "descTextMapHash": 1581179913
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1053,
+    "id": 1053,
     "GIEHBAPBJEA": 17,
     "GKPDFELBLNJ": 9,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_SummerTimeV2_Character_03_2",
-    "PGEPICIANFN": 3136096641
+    "descTextMapHash": 3136096641
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1054,
+    "id": 1054,
     "GIEHBAPBJEA": 19,
     "GKPDFELBLNJ": 9,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_SummerTimeV2_Character_03_3",
-    "PGEPICIANFN": 2666163025
+    "descTextMapHash": 2666163025
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1055,
+    "id": 1055,
     "GIEHBAPBJEA": 27,
     "GKPDFELBLNJ": 9,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_SummerTimeV2_Character_02_1",
-    "PGEPICIANFN": 3840739633
+    "descTextMapHash": 3840739633
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1056,
+    "id": 1056,
     "GIEHBAPBJEA": 29,
     "GKPDFELBLNJ": 9,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_SummerTimeV2_Character_04_1",
-    "PGEPICIANFN": 1305580185
+    "descTextMapHash": 1305580185
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1057,
+    "id": 1057,
     "GIEHBAPBJEA": 613,
     "GKPDFELBLNJ": 3,
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_ActivityInstableSpray01",
-    "PGEPICIANFN": 705732569
+    "descTextMapHash": 705732569
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1058,
+    "id": 1058,
     "GIEHBAPBJEA": 620,
     "GKPDFELBLNJ": 3,
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_YunHai",
-    "PGEPICIANFN": 2408826137
+    "descTextMapHash": 2408826137
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_SUMO",
+    "type": "DUNGEON_ENTRY_TYPE_SUMO",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1059,
+    "id": 1059,
     "GIEHBAPBJEA": 627,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -2190,37 +2190,37 @@
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_Sumo",
-    "PGEPICIANFN": 4193037505
+    "descTextMapHash": 4193037505
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1060,
+    "id": 1060,
     "GIEHBAPBJEA": 656,
     "GKPDFELBLNJ": 3,
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_WindFildDungeon01",
-    "PGEPICIANFN": 2811700257
+    "descTextMapHash": 2811700257
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "type": "DUNGEON_ENTRY_TYPE_NORMAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1061,
+    "id": 1061,
     "GIEHBAPBJEA": 607,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -2228,19 +2228,19 @@
     ],
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_XMChallenge01",
-    "PGEPICIANFN": 2522783185
+    "descTextMapHash": 2522783185
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "type": "DUNGEON_ENTRY_TYPE_NORMAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1062,
+    "id": 1062,
     "GIEHBAPBJEA": 646,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -2248,19 +2248,19 @@
     ],
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_XMChallenge02",
-    "PGEPICIANFN": 2603966985
+    "descTextMapHash": 2603966985
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "type": "DUNGEON_ENTRY_TYPE_NORMAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1063,
+    "id": 1063,
     "GIEHBAPBJEA": 618,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -2268,19 +2268,19 @@
     ],
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_XMChallenge03",
-    "PGEPICIANFN": 1453158609
+    "descTextMapHash": 1453158609
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "type": "DUNGEON_ENTRY_TYPE_NORMAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1064,
+    "id": 1064,
     "GIEHBAPBJEA": 600,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -2288,37 +2288,37 @@
     ],
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_XMChallenge04",
-    "PGEPICIANFN": 1399948745
+    "descTextMapHash": 1399948745
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_EFFIGY",
+    "type": "DUNGEON_ENTRY_TYPE_EFFIGY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1065,
+    "id": 1065,
     "GIEHBAPBJEA": 699,
     "GKPDFELBLNJ": 3,
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_ActivityBoss02",
-    "PGEPICIANFN": 3456698345
+    "descTextMapHash": 3456698345
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1066,
+    "id": 1066,
     "GIEHBAPBJEA": 704,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -2335,19 +2335,19 @@
     ],
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_EffigyChallenge_01",
-    "PGEPICIANFN": 2936190593
+    "descTextMapHash": 2936190593
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "type": "DUNGEON_ENTRY_TYPE_NORMAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1067,
+    "id": 1067,
     "GIEHBAPBJEA": 675,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -2355,19 +2355,19 @@
     ],
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_XMChallenge01",
-    "PGEPICIANFN": 4192782753
+    "descTextMapHash": 4192782753
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "type": "DUNGEON_ENTRY_TYPE_NORMAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1068,
+    "id": 1068,
     "GIEHBAPBJEA": 671,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -2375,19 +2375,19 @@
     ],
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_XMChallenge05",
-    "PGEPICIANFN": 199077425
+    "descTextMapHash": 199077425
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "type": "DUNGEON_ENTRY_TYPE_NORMAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1069,
+    "id": 1069,
     "GIEHBAPBJEA": 674,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -2395,36 +2395,36 @@
     ],
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_XMChallenge05",
-    "PGEPICIANFN": 4154774401
+    "descTextMapHash": 4154774401
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1070,
+    "id": 1070,
     "GIEHBAPBJEA": 682,
     "GKPDFELBLNJ": 3,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_EffigyChallenge_01",
-    "PGEPICIANFN": 1236255169
+    "descTextMapHash": 1236255169
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1071,
+    "id": 1071,
     "GIEHBAPBJEA": 724,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -2435,21 +2435,21 @@
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_BrickBreaker",
-    "PGEPICIANFN": 1858100521
+    "descTextMapHash": 1858100521
   },
   {
     "AJFELCGFPND": true,
     "CICOPKDJIMC": 40,
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_TRIAL",
+    "type": "DUNGEON_ENTRY_TYPE_TRIAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1072,
+    "id": 1072,
     "GIEHBAPBJEA": 731,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -2461,19 +2461,19 @@
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_ScaramoucheBoss",
-    "PGEPICIANFN": 2682450177
+    "descTextMapHash": 2682450177
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1073,
+    "id": 1073,
     "GIEHBAPBJEA": 742,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -2486,19 +2486,19 @@
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_TeamChain",
-    "PGEPICIANFN": 3088276025
+    "descTextMapHash": 3088276025
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "type": "DUNGEON_ENTRY_TYPE_NORMAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1074,
+    "id": 1074,
     "GIEHBAPBJEA": 727,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -2506,19 +2506,19 @@
     ],
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_Smr_LostCity02",
-    "PGEPICIANFN": 2031023649
+    "descTextMapHash": 2031023649
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "type": "DUNGEON_ENTRY_TYPE_NORMAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1075,
+    "id": 1075,
     "GIEHBAPBJEA": 729,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -2526,75 +2526,75 @@
     ],
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_Smr_LostCity03",
-    "PGEPICIANFN": 409366177
+    "descTextMapHash": 409366177
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1076,
+    "id": 1076,
     "GIEHBAPBJEA": 774,
     "GKPDFELBLNJ": 3,
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_CrystalLink",
-    "PGEPICIANFN": 2569448665
+    "descTextMapHash": 2569448665
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1077,
+    "id": 1077,
     "GIEHBAPBJEA": 812,
     "GKPDFELBLNJ": 3,
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_ActivityInstableSpray01",
-    "PGEPICIANFN": 72245937
+    "descTextMapHash": 72245937
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1078,
+    "id": 1078,
     "GIEHBAPBJEA": 838,
     "GKPDFELBLNJ": 3,
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_ActivityInstableSpray01",
-    "PGEPICIANFN": 46761281
+    "descTextMapHash": 46761281
   },
   {
     "AJFELCGFPND": true,
     "CICOPKDJIMC": 40,
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_TRIAL",
+    "type": "DUNGEON_ENTRY_TYPE_TRIAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1079,
+    "id": 1079,
     "GIEHBAPBJEA": 848,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -2606,19 +2606,19 @@
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_WeekDungeon_Apep",
-    "PGEPICIANFN": 2021755697
+    "descTextMapHash": 2021755697
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "type": "DUNGEON_ENTRY_TYPE_NORMAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1080,
+    "id": 1080,
     "GIEHBAPBJEA": 807,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -2626,19 +2626,19 @@
     ],
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_TeamChain",
-    "PGEPICIANFN": 485860713
+    "descTextMapHash": 485860713
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "type": "DUNGEON_ENTRY_TYPE_NORMAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1081,
+    "id": 1081,
     "GIEHBAPBJEA": 805,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -2646,19 +2646,19 @@
     ],
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_ActivityInstableSpray01",
-    "PGEPICIANFN": 1049040513
+    "descTextMapHash": 1049040513
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_EFFIGY",
+    "type": "DUNGEON_ENTRY_TYPE_EFFIGY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1082,
+    "id": 1082,
     "GIEHBAPBJEA": 890,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -2669,36 +2669,36 @@
     ],
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_Tower_Moon_01",
-    "PGEPICIANFN": 1465640785
+    "descTextMapHash": 1465640785
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1083,
+    "id": 1083,
     "GIEHBAPBJEA": 907,
     "GKPDFELBLNJ": 3,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_YunHai",
-    "PGEPICIANFN": 2840833649
+    "descTextMapHash": 2840833649
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1084,
+    "id": 1084,
     "GIEHBAPBJEA": 913,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -2708,36 +2708,36 @@
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_Steeplechase_1",
-    "PGEPICIANFN": 1520167441
+    "descTextMapHash": 1520167441
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1085,
+    "id": 1085,
     "GIEHBAPBJEA": 969,
     "GKPDFELBLNJ": 3,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_ActivityInstableSpray01",
-    "PGEPICIANFN": 535868601
+    "descTextMapHash": 535868601
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1086,
+    "id": 1086,
     "GIEHBAPBJEA": 16,
     "GKPDFELBLNJ": 10,
     "HDCOAOEIGOH": [
@@ -2748,19 +2748,19 @@
     ],
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_ActivityCircus",
-    "PGEPICIANFN": 2426576353
+    "descTextMapHash": 2426576353
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1087,
+    "id": 1087,
     "GIEHBAPBJEA": 1033,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -2772,19 +2772,19 @@
     ],
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_FDBattle01",
-    "PGEPICIANFN": 2976062273
+    "descTextMapHash": 2976062273
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1088,
+    "id": 1088,
     "GIEHBAPBJEA": 1094,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -2794,19 +2794,19 @@
     ],
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_YunHai",
-    "PGEPICIANFN": 1199326497
+    "descTextMapHash": 1199326497
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1089,
+    "id": 1089,
     "GIEHBAPBJEA": 1090,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -2818,19 +2818,19 @@
     ],
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_FDBattle01",
-    "PGEPICIANFN": 1942903593
+    "descTextMapHash": 1942903593
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1090,
+    "id": 1090,
     "GIEHBAPBJEA": 1106,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -2841,21 +2841,21 @@
     ],
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_Combat_Fd_Studio",
-    "PGEPICIANFN": 172395185
+    "descTextMapHash": 172395185
   },
   {
     "AJFELCGFPND": true,
     "CICOPKDJIMC": 40,
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_TRIAL",
+    "type": "DUNGEON_ENTRY_TYPE_TRIAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1091,
+    "id": 1091,
     "GIEHBAPBJEA": 1085,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -2867,19 +2867,19 @@
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_Devourer_01",
-    "PGEPICIANFN": 598556049
+    "descTextMapHash": 598556049
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1092,
+    "id": 1092,
     "GIEHBAPBJEA": 1077,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -2891,36 +2891,36 @@
     ],
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPicActivityRainbow",
-    "PGEPICIANFN": 905532681
+    "descTextMapHash": 905532681
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1093,
+    "id": 1093,
     "GIEHBAPBJEA": 1156,
     "GKPDFELBLNJ": 3,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_LOSTSAMACHURLBOSS",
-    "PGEPICIANFN": 1130288353
+    "descTextMapHash": 1130288353
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1094,
+    "id": 1094,
     "GIEHBAPBJEA": 1197,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -2935,74 +2935,74 @@
     ],
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_TeamChain",
-    "PGEPICIANFN": 3861411121
+    "descTextMapHash": 3861411121
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1095,
+    "id": 1095,
     "GIEHBAPBJEA": 1207,
     "GKPDFELBLNJ": 3,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_SlimeCannon01",
-    "PGEPICIANFN": 529033337
+    "descTextMapHash": 529033337
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ROLE_COMBAT",
+    "type": "DUNGEON_ENTRY_TYPE_ROLE_COMBAT",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1096,
+    "id": 1096,
     "GIEHBAPBJEA": 1218,
     "GKPDFELBLNJ": 3,
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_TowerV2_Lounge01",
-    "PGEPICIANFN": 930817937
+    "descTextMapHash": 930817937
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1097,
+    "id": 1097,
     "GIEHBAPBJEA": 1231,
     "GKPDFELBLNJ": 3,
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_CrystalLink",
-    "PGEPICIANFN": 3907001401
+    "descTextMapHash": 3907001401
   },
   {
     "AJFELCGFPND": true,
     "CICOPKDJIMC": 40,
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_TRIAL",
+    "type": "DUNGEON_ENTRY_TYPE_TRIAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1098,
+    "id": 1098,
     "GIEHBAPBJEA": 1241,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -3014,70 +3014,70 @@
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_NihilBoss01",
-    "PGEPICIANFN": 2722959465
+    "descTextMapHash": 2722959465
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1099,
+    "id": 1099,
     "GIEHBAPBJEA": 1309,
     "GKPDFELBLNJ": 3,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_MvM",
-    "PGEPICIANFN": 38426761
+    "descTextMapHash": 38426761
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1100,
+    "id": 1100,
     "GIEHBAPBJEA": 25,
     "GKPDFELBLNJ": 100,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_Tale01",
-    "PGEPICIANFN": 1068047873
+    "descTextMapHash": 1068047873
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1101,
+    "id": 1101,
     "GIEHBAPBJEA": 1344,
     "GKPDFELBLNJ": 3,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_FDBattle01",
-    "PGEPICIANFN": 3441714881
+    "descTextMapHash": 3441714881
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1102,
+    "id": 1102,
     "GIEHBAPBJEA": 1366,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -3089,19 +3089,19 @@
     ],
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_NatlanBattle01",
-    "PGEPICIANFN": 3136777049
+    "descTextMapHash": 3136777049
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1103,
+    "id": 1103,
     "GIEHBAPBJEA": 1450,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -3109,19 +3109,19 @@
     ],
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_MvM",
-    "PGEPICIANFN": 2300508537
+    "descTextMapHash": 2300508537
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_ACTIVITY",
+    "type": "DUNGEON_ENTRY_TYPE_ACTIVITY",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1104,
+    "id": 1104,
     "GIEHBAPBJEA": 1455,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -3132,21 +3132,21 @@
     ],
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_NatlanBattle01",
-    "PGEPICIANFN": 3554640969
+    "descTextMapHash": 3554640969
   },
   {
     "AJFELCGFPND": true,
     "CICOPKDJIMC": 40,
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_TRIAL",
+    "type": "DUNGEON_ENTRY_TYPE_TRIAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1105,
+    "id": 1105,
     "GIEHBAPBJEA": 1488,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -3158,19 +3158,19 @@
     "LBMIINHONIA": true,
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_NTDungeon_RedDragon01",
-    "PGEPICIANFN": 3181261929
+    "descTextMapHash": 3181261929
   },
   {
-    "DELBOOLKFAO": "DUNGEON_ENTRY_TYPE_NORMAL",
+    "type": "DUNGEON_ENTRY_TYPE_NORMAL",
     "EEGNNHDEBJJ": [
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       },
       {
-        "DELBOOLKFAO": "DUNGEON_ENTRY_CONDITION_NONE"
+        "type": "DUNGEON_ENTRY_CONDITION_NONE"
       }
     ],
-    "ELKKIAIGOBK": 1106,
+    "id": 1106,
     "GIEHBAPBJEA": 1500,
     "GKPDFELBLNJ": 3,
     "HDCOAOEIGOH": [
@@ -3178,6 +3178,6 @@
     ],
     "OFJMCLBFCJK": "LOGIC_NONE",
     "OJHPBFNGAEN": "UI_DungeonPic_DqDungeon_Mizuki",
-    "PGEPICIANFN": 1672084633
+    "descTextMapHash": 1672084633
   }
 ]

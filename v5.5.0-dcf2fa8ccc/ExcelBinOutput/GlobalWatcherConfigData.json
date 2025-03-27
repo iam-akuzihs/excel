@@ -2,7 +2,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           35101
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -12,9 +12,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1001,
+    "id": 1001,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:watcher_test_modifier"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -23,7 +23,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           35403
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -33,9 +33,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1002,
+    "id": 1002,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_EleReaction_Wet"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -51,9 +51,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1003,
+    "id": 1003,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_EleReaction_Ice"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -62,7 +62,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           35403
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -72,9 +72,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1004,
+    "id": 1004,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_EleReaction_Fire"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -90,9 +90,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1005,
+    "id": 1005,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_EleReaction_StickRock"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -101,7 +101,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           35403
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -111,9 +111,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1006,
+    "id": 1006,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_EleReaction_Frozen"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -129,9 +129,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1007,
+    "id": 1007,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_EleReaction_FreezeWater"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -140,7 +140,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           35403
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -150,9 +150,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1008,
+    "id": 1008,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_EleReaction_Stream_ByModifierAdd"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -161,7 +161,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           35403
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -171,9 +171,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1009,
+    "id": 1009,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_EleReaction_Stream_ByHit"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -182,7 +182,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           35403
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -192,9 +192,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1010,
+    "id": 1010,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_EleReaction_Shock"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -203,7 +203,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           35403
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -213,9 +213,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1011,
+    "id": 1011,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_EleReaction_ConductShock"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -224,7 +224,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           35403
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -234,9 +234,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1012,
+    "id": 1012,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_EleReaction_Electrified_Water"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -245,7 +245,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           35403
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -255,9 +255,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1013,
+    "id": 1013,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_EleReaction_Explode"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -266,7 +266,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           35403
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -276,9 +276,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1014,
+    "id": 1014,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_EleReaction_Superconductor"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -287,7 +287,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           35403
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -297,9 +297,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1015,
+    "id": 1015,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_EleReaction_Burning"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -308,7 +308,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           35403
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -318,9 +318,9 @@
       }
     ],
     "BHBMNAFHPAN": 2,
-    "ELKKIAIGOBK": 1016,
+    "id": 1016,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_EleReaction_Swirl"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -329,7 +329,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           35311
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -339,9 +339,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1018,
+    "id": 1018,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_Avatar_Use_ElementalBurst"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -350,7 +350,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           35311
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -360,7 +360,7 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1019,
+    "id": 1019,
     "NBDKMEKPPDN": {
       "KMFGILOBGDJ": "TRIGGER_ELEMENT_BALL"
     }
@@ -375,9 +375,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1020,
+    "id": 1020,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_Avatar_Hit_Ore"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -393,9 +393,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1021,
+    "id": 1021,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_Avatar_AddShield"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -404,7 +404,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           2,
           12
         ],
@@ -415,9 +415,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1022,
+    "id": 1022,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_Avatar_HitHead"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -426,7 +426,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           2,
           12
         ],
@@ -437,9 +437,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1023,
+    "id": 1023,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_Avatar_Weakness"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -448,7 +448,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           1,
           10000021
         ],
@@ -459,9 +459,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1025,
+    "id": 1025,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_Avatar_Use_ElementalArt"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -470,7 +470,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           35725
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -480,7 +480,7 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1026,
+    "id": 1026,
     "NBDKMEKPPDN": {
       "KMFGILOBGDJ": "TRIGGER_ENTER_AIRFLOW"
     }
@@ -495,9 +495,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1027,
+    "id": 1027,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_Avatar_HP_Change"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -506,7 +506,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           35403
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -516,9 +516,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1028,
+    "id": 1028,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_EleReaction_Melt_ByModifierAdd"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -527,7 +527,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           35403
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -537,9 +537,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1029,
+    "id": 1029,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_EleReaction_Melt_ByHit"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -555,9 +555,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1030,
+    "id": 1030,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70900340",
         "20"
       ],
@@ -574,9 +574,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1031,
+    "id": 1031,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_GetSecondWindBullet"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -592,9 +592,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1032,
+    "id": 1032,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_SpawnWindFieldByWindBullet"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -610,9 +610,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1033,
+    "id": 1033,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70710010",
         "20"
       ],
@@ -622,7 +622,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           35403
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -632,9 +632,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1034,
+    "id": 1034,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_EleReaction_Crystallize"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -650,9 +650,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1035,
+    "id": 1035,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_Avatar_FallingAnthem"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -668,9 +668,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1036,
+    "id": 1036,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_WeaponElementOverride"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -679,7 +679,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           35403
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -689,9 +689,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1037,
+    "id": 1037,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_EleReaction_Overdose"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -700,7 +700,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           35403
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -710,9 +710,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1038,
+    "id": 1038,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_EleReaction_Overgrow"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -721,7 +721,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           35403
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -731,9 +731,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1039,
+    "id": 1039,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_EleReaction_Shock"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -749,9 +749,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1040,
+    "id": 1040,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_AbilityAnimal_MantaRay"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -767,9 +767,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1041,
+    "id": 1041,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_AbilityAnimal_HermitCrab"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -785,9 +785,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1042,
+    "id": 1042,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_AbilityAnimal_Seal"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -803,9 +803,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1043,
+    "id": 1043,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_Avatar_HPDebts_Add"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -821,9 +821,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1044,
+    "id": 1044,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_Annihilate"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -839,9 +839,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1045,
+    "id": 1045,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_AbilityAnimal_Jellyfish"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -857,9 +857,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1046,
+    "id": 1046,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_AbilityAnimal_Octopus"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -875,9 +875,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1047,
+    "id": 1047,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher_1:Watcher_NyxFever",
         "Watcher_Avatar_NyxState"
       ],
@@ -894,9 +894,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1048,
+    "id": 1048,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher_1:Watcher_NyxSwitch"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -912,9 +912,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1049,
+    "id": 1049,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher_1:Watcher_NyxState"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -930,9 +930,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1100,
+    "id": 1100,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70720214"
       ],
       "KMFGILOBGDJ": "TRIGGER_PLATFORM_START_MOVE"
@@ -948,9 +948,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1101,
+    "id": 1101,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "101005"
       ],
       "KMFGILOBGDJ": "TRIGGER_USE_ITEM"
@@ -966,9 +966,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1102,
+    "id": 1102,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_SnowMountain_1102"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -984,9 +984,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1103,
+    "id": 1103,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_SnowMountain_1103"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -1002,9 +1002,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1104,
+    "id": 1104,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "100671"
       ],
       "KMFGILOBGDJ": "TRIGGER_USE_ITEM"
@@ -1020,9 +1020,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1105,
+    "id": 1105,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "2"
       ],
       "KMFGILOBGDJ": "TRIGGER_ENTER_VEHICLE"
@@ -1038,9 +1038,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1106,
+    "id": 1106,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "72182"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_PARENT_QUEST_OR"
@@ -1056,9 +1056,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1107,
+    "id": 1107,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "8"
       ],
       "KMFGILOBGDJ": "TRIGGER_ENTER_CLIMATE_AREA"
@@ -1074,9 +1074,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1108,
+    "id": 1108,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_Inazuma_Gadget_1108"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -1092,9 +1092,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1109,
+    "id": 1109,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7001,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -1110,9 +1110,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1110,
+    "id": 1110,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7001,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -1128,9 +1128,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1111,
+    "id": 1111,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_Inazuma_Gadget_1111"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -1146,9 +1146,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1112,
+    "id": 1112,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "72168"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_PARENT_QUEST_OR"
@@ -1164,9 +1164,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1113,
+    "id": 1113,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "72168"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_PARENT_QUEST_OR"
@@ -1182,9 +1182,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1114,
+    "id": 1114,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "72176"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_PARENT_QUEST_OR"
@@ -1200,9 +1200,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1115,
+    "id": 1115,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_Inazuma_Gadget_1115"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -1218,9 +1218,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1116,
+    "id": 1116,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_Inazuma_Gadget_1116"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -1236,9 +1236,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1117,
+    "id": 1117,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_Inazuma_Gadget_1117"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -1254,9 +1254,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1118,
+    "id": 1118,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70950095"
       ],
       "KMFGILOBGDJ": "TRIGGER_PLATFORM_START_MOVE"
@@ -1272,9 +1272,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1119,
+    "id": 1119,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_Inazuma_Gadget_1119"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -1290,9 +1290,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1120,
+    "id": 1120,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7005,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -1308,9 +1308,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1121,
+    "id": 1121,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7006,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -1326,9 +1326,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1122,
+    "id": 1122,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7007,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -1344,10 +1344,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 1123,
+    "isDisuse": true,
+    "id": 1123,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_Inazuma_Gadget_1117"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -1363,10 +1363,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 1124,
+    "isDisuse": true,
+    "id": 1124,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7008,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -1382,9 +1382,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1125,
+    "id": 1125,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7004,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -1400,9 +1400,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1126,
+    "id": 1126,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7008,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -1418,9 +1418,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1127,
+    "id": 1127,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7009,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -1436,9 +1436,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1128,
+    "id": 1128,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7010,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -1454,9 +1454,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1129,
+    "id": 1129,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7011,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -1472,9 +1472,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1130,
+    "id": 1130,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_AbyssalPalace_Gadget_1130"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -1490,9 +1490,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1131,
+    "id": 1131,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_AbyssalPalace_Gadget_1131"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -1508,9 +1508,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1132,
+    "id": 1132,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_AbyssalPalace_Gadget_1132"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -1526,9 +1526,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1133,
+    "id": 1133,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_AbyssalPalace_Gadget_1133"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -1544,9 +1544,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1134,
+    "id": 1134,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_AbyssalPalace_Gadget_1134"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -1562,10 +1562,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 1135,
+    "isDisuse": true,
+    "id": 1135,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "72168"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_PARENT_QUEST_OR"
@@ -1581,9 +1581,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1136,
+    "id": 1136,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7012,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -1599,9 +1599,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1137,
+    "id": 1137,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_AbyssalPalace_Gadget_1137"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -1617,9 +1617,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1138,
+    "id": 1138,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7104409"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_AND"
@@ -1635,9 +1635,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1139,
+    "id": 1139,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_AbyssalPalace_Gadget_1139"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -1653,9 +1653,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1140,
+    "id": 1140,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_AbyssalPalace_Gadget_1140"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -1671,9 +1671,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1141,
+    "id": 1141,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_AbyssalPalace_Gadget_1141"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -1689,9 +1689,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1142,
+    "id": 1142,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7013,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -1707,10 +1707,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 1143,
+    "isDisuse": true,
+    "id": 1143,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7014,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -1726,9 +1726,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 1144,
+    "id": 1144,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7309802"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_AND"
@@ -1744,9 +1744,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2009,
+    "id": 2009,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "20010901"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -1762,9 +1762,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2015,
+    "id": 2015,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "20011501"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -1780,9 +1780,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2016,
+    "id": 2016,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "20020101"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -1798,9 +1798,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2019,
+    "id": 2019,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "21010301"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -1816,9 +1816,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2027,
+    "id": 2027,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "21020101"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -1834,9 +1834,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2032,
+    "id": 2032,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "22010101"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -1852,9 +1852,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2033,
+    "id": 2033,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "22010201"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -1870,9 +1870,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2034,
+    "id": 2034,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "22010301"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -1888,9 +1888,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2035,
+    "id": 2035,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "24010101"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -1906,9 +1906,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2036,
+    "id": 2036,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "20040101"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -1924,9 +1924,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2039,
+    "id": 2039,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "24010201"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -1942,9 +1942,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2042,
+    "id": 2042,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "21011201"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -1960,9 +1960,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2043,
+    "id": 2043,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "21020301"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -1978,9 +1978,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2044,
+    "id": 2044,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "20040201"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -1996,9 +1996,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2045,
+    "id": 2045,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "20040301"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2014,9 +2014,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2046,
+    "id": 2046,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "21030401"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2032,9 +2032,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2047,
+    "id": 2047,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "23010101"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2050,9 +2050,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2048,
+    "id": 2048,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "23010201"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2068,9 +2068,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2049,
+    "id": 2049,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "23010301"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2086,9 +2086,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2050,
+    "id": 2050,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "23010401"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2104,9 +2104,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2051,
+    "id": 2051,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "23010501"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2122,9 +2122,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2052,
+    "id": 2052,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "23010601"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2140,9 +2140,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2053,
+    "id": 2053,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "26020101"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2158,9 +2158,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2054,
+    "id": 2054,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "26020201"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2176,9 +2176,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2055,
+    "id": 2055,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "26030101"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2194,9 +2194,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2056,
+    "id": 2056,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "20050101"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2212,9 +2212,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2057,
+    "id": 2057,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "21020601"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2230,9 +2230,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2058,
+    "id": 2058,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "24010301"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2248,9 +2248,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2059,
+    "id": 2059,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "26040101,26040102,26040103,26040104"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2266,9 +2266,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2060,
+    "id": 2060,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "26050101,26050201,26050301,26050401"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2284,9 +2284,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2061,
+    "id": 2061,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "22020101,22020102"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2302,9 +2302,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2062,
+    "id": 2062,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "22030101,22030102"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2320,9 +2320,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2063,
+    "id": 2063,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "20040501"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2338,9 +2338,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2064,
+    "id": 2064,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "23050101"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2356,9 +2356,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2065,
+    "id": 2065,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "20040601"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2374,9 +2374,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2066,
+    "id": 2066,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "24021101"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2392,9 +2392,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2067,
+    "id": 2067,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "20040401"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2410,9 +2410,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2068,
+    "id": 2068,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "20070101"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2428,9 +2428,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2069,
+    "id": 2069,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "20060101"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2446,9 +2446,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2070,
+    "id": 2070,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "20060201"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2464,9 +2464,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2071,
+    "id": 2071,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "20060301"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2482,9 +2482,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2072,
+    "id": 2072,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "22040101"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2500,9 +2500,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2073,
+    "id": 2073,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "22040201"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2518,9 +2518,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2074,
+    "id": 2074,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "22050101"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2536,9 +2536,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2075,
+    "id": 2075,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "22050201"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2554,9 +2554,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2076,
+    "id": 2076,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "22060101"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2572,9 +2572,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2077,
+    "id": 2077,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "20060401"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2590,9 +2590,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2078,
+    "id": 2078,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "20060501"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2608,9 +2608,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2079,
+    "id": 2079,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "20060601"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2626,9 +2626,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2080,
+    "id": 2080,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "26050601,26050901"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2644,9 +2644,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2081,
+    "id": 2081,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "26050701,26051001,26050702"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2662,9 +2662,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2082,
+    "id": 2082,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "26050801,26051101,26050802"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2680,9 +2680,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2083,
+    "id": 2083,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "22030201,22030202"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2698,9 +2698,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2084,
+    "id": 2084,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "22070101,22070102"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2716,9 +2716,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2085,
+    "id": 2085,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "22070201,22070202"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2734,9 +2734,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2086,
+    "id": 2086,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "22070301,22070302"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2752,9 +2752,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2087,
+    "id": 2087,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "24010401"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2770,9 +2770,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2088,
+    "id": 2088,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "22080101"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2788,9 +2788,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2089,
+    "id": 2089,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "20060701"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2806,9 +2806,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2090,
+    "id": 2090,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "26090201,26090301,26090401,26090501,26090601,26090701,26090801,26090901,26091001,26120101,26120201,26120301,26120401"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2824,9 +2824,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2091,
+    "id": 2091,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "26110101"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2842,9 +2842,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2092,
+    "id": 2092,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "24030201"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2860,9 +2860,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2093,
+    "id": 2093,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "24030101"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2878,9 +2878,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2094,
+    "id": 2094,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "25310101"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2896,9 +2896,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2095,
+    "id": 2095,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "25310201"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2914,9 +2914,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2096,
+    "id": 2096,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "25310301"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2932,9 +2932,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2097,
+    "id": 2097,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "26020301"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2950,9 +2950,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2098,
+    "id": 2098,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "24030301"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2968,9 +2968,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2099,
+    "id": 2099,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "24040101,24040201,24040301"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -2986,9 +2986,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2100,
+    "id": 2100,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "24050101"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3004,9 +3004,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2101,
+    "id": 2101,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "25410101"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3022,9 +3022,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2102,
+    "id": 2102,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "25410201"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3040,9 +3040,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2103,
+    "id": 2103,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "20040701"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3058,9 +3058,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2104,
+    "id": 2104,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "26100301"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3076,9 +3076,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2105,
+    "id": 2105,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "26100401"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3094,9 +3094,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2106,
+    "id": 2106,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "26100501"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3112,9 +3112,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2107,
+    "id": 2107,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "26130101"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3130,9 +3130,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2108,
+    "id": 2108,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "25410301"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3148,9 +3148,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2109,
+    "id": 2109,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "25410401"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3166,9 +3166,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2110,
+    "id": 2110,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "22080201"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3184,9 +3184,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2111,
+    "id": 2111,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "22020201"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3202,9 +3202,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2112,
+    "id": 2112,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "26100101"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3220,9 +3220,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2113,
+    "id": 2113,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "26100201"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3238,9 +3238,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2114,
+    "id": 2114,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "21040101"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3256,9 +3256,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2115,
+    "id": 2115,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "21040201"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3274,9 +3274,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2116,
+    "id": 2116,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "22100101,22100201,22100301,22100401"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3292,9 +3292,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2117,
+    "id": 2117,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "24070201,24070202"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3310,9 +3310,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2118,
+    "id": 2118,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "24070101,24070102"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3328,9 +3328,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2119,
+    "id": 2119,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "24070199"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3346,9 +3346,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2120,
+    "id": 2120,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "22110101,22110102"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3364,9 +3364,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2121,
+    "id": 2121,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "22110201,22110202"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3382,9 +3382,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2122,
+    "id": 2122,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "22110301,22110302"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3400,9 +3400,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2123,
+    "id": 2123,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "22110402,22110403"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3418,9 +3418,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2124,
+    "id": 2124,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "24060101,24060102,24065101,24065102"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3436,9 +3436,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2125,
+    "id": 2125,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "24060201,24060202,24065201,24065202"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3454,9 +3454,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2126,
+    "id": 2126,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "24060301,24060302,24065301,24065302"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3472,9 +3472,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2127,
+    "id": 2127,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "24060401,24060402,24065401,24065402"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3490,9 +3490,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2128,
+    "id": 2128,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "24060501,24060502,24065501,24065502"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3508,9 +3508,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2129,
+    "id": 2129,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "24060701,24060702,24065701,24065702"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3526,9 +3526,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2130,
+    "id": 2130,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "24060801,24060802,24065801,24065802"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3544,9 +3544,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2131,
+    "id": 2131,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "24060901,24060902,24065901,24065902"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3562,9 +3562,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2132,
+    "id": 2132,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "24061001,24061002,24066001,24066002"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3580,9 +3580,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2133,
+    "id": 2133,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "24061101,24061102,24061105,24061106,24066101,24066102,24066105,24066106,24061109,24061110,24066109,24066110"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3598,9 +3598,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2134,
+    "id": 2134,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "24061201,24061202,24066201,24066202"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3616,9 +3616,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2135,
+    "id": 2135,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "26160101,26160102"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3634,9 +3634,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2136,
+    "id": 2136,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "26160301,26160302"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3652,9 +3652,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2137,
+    "id": 2137,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "26160201,26160202"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3670,9 +3670,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2138,
+    "id": 2138,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "26170101"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3688,9 +3688,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2139,
+    "id": 2139,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "24060601,24060602,24065601,24065602"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3706,9 +3706,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2140,
+    "id": 2140,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "23060101"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3724,9 +3724,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2141,
+    "id": 2141,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "23060201"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3742,9 +3742,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2142,
+    "id": 2142,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "26180101"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3760,9 +3760,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2143,
+    "id": 2143,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "24080101,24080102"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3778,9 +3778,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2144,
+    "id": 2144,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "20051201"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3796,9 +3796,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2145,
+    "id": 2145,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "_LocalLegendTag_:1"
       ],
       "KMFGILOBGDJ": "TRIGGER_MONSTER_WITH_GV"
@@ -3814,9 +3814,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2146,
+    "id": 2146,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "26190101"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3832,9 +3832,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2147,
+    "id": 2147,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "26190201"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3850,9 +3850,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2148,
+    "id": 2148,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "26140101"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3868,9 +3868,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2149,
+    "id": 2149,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "26140201"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3886,9 +3886,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2150,
+    "id": 2150,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "_FrequencyShieldLabel_:1"
       ],
       "KMFGILOBGDJ": "TRIGGER_MONSTER_WITH_GV"
@@ -3904,9 +3904,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2151,
+    "id": 2151,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "26260101"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3922,9 +3922,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2152,
+    "id": 2152,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "26260201"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3940,9 +3940,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2153,
+    "id": 2153,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "26260301"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3958,9 +3958,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2154,
+    "id": 2154,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "26270201"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3976,9 +3976,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2155,
+    "id": 2155,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "24090101"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -3994,9 +3994,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2156,
+    "id": 2156,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "26230301"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -4012,9 +4012,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2157,
+    "id": 2157,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "26220301"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -4030,9 +4030,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2158,
+    "id": 2158,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "24090201"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -4048,9 +4048,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2159,
+    "id": 2159,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "22120201,22120301,22120401,22120501,22120601,22120701,22120801,22120901,22121001,22121101,22121201,22121301,22121401,22121501"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -4066,9 +4066,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2160,
+    "id": 2160,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "26260801"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -4084,9 +4084,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2161,
+    "id": 2161,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "26260901"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -4102,9 +4102,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2162,
+    "id": 2162,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "22120101,22121601,22121701"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -4120,9 +4120,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2163,
+    "id": 2163,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "25520101"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -4138,9 +4138,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2164,
+    "id": 2164,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "26290101,26290102"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -4156,9 +4156,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2165,
+    "id": 2165,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "26270301,26270302"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -4174,9 +4174,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 2166,
+    "id": 2166,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "26261101,26261102"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_MONSTER"
@@ -4192,9 +4192,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 3001,
+    "id": 3001,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "1"
       ],
       "KMFGILOBGDJ": "TRIGGER_WORLD_LEVEL_UP"
@@ -4210,9 +4210,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 3002,
+    "id": 3002,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "2"
       ],
       "KMFGILOBGDJ": "TRIGGER_WORLD_LEVEL_UP"
@@ -4228,9 +4228,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 3003,
+    "id": 3003,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "3"
       ],
       "KMFGILOBGDJ": "TRIGGER_WORLD_LEVEL_UP"
@@ -4246,9 +4246,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 3004,
+    "id": 3004,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "4"
       ],
       "KMFGILOBGDJ": "TRIGGER_WORLD_LEVEL_UP"
@@ -4264,9 +4264,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 3005,
+    "id": 3005,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "5"
       ],
       "KMFGILOBGDJ": "TRIGGER_WORLD_LEVEL_UP"
@@ -4282,9 +4282,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 3006,
+    "id": 3006,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "6"
       ],
       "KMFGILOBGDJ": "TRIGGER_WORLD_LEVEL_UP"
@@ -4300,9 +4300,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 3007,
+    "id": 3007,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7"
       ],
       "KMFGILOBGDJ": "TRIGGER_WORLD_LEVEL_UP"
@@ -4318,9 +4318,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 3008,
+    "id": 3008,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "8"
       ],
       "KMFGILOBGDJ": "TRIGGER_WORLD_LEVEL_UP"
@@ -4336,9 +4336,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 3009,
+    "id": 3009,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "50"
       ],
       "KMFGILOBGDJ": "TRIGGER_DUNGEON_ENTRY_TO_BE_EXPLORED"
@@ -4347,7 +4347,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           35311
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -4357,9 +4357,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 3010,
+    "id": 3010,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "2"
       ],
       "KMFGILOBGDJ": "TRIGGER_CHANGE_INPUT_DEVICE_TYPE"
@@ -4375,9 +4375,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 3011,
+    "id": 3011,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "60"
       ],
       "KMFGILOBGDJ": "TRIGGER_PLAYER_LEVEL"
@@ -4393,9 +4393,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 3012,
+    "id": 3012,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "3"
       ],
       "KMFGILOBGDJ": "TRIGGER_WORLD_LEVEL_UP"
@@ -4411,9 +4411,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 3101,
+    "id": 3101,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7165403,7165408,7165411,7165414"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -4429,9 +4429,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 3102,
+    "id": 3102,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "101301;101302;101303;101304;101305;101306;101307;101308;101309;101310;101311;101312;101313;101314;101315;101316;101317;101318;101319;101320;101321;101322;101323;101324;101325;101326"
       ],
       "KMFGILOBGDJ": "TRIGGER_OBTAIN_MATERIAL_NUM"
@@ -4447,9 +4447,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 3103,
+    "id": 3103,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7066103"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -4465,9 +4465,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 3104,
+    "id": 3104,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7066106,7066109"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -4483,9 +4483,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 3105,
+    "id": 3105,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7066108,7066109"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -4501,9 +4501,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 4001,
+    "id": 4001,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "1028"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_AFFIX"
@@ -4519,9 +4519,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 4002,
+    "id": 4002,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "1029"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_AFFIX"
@@ -4537,9 +4537,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 4003,
+    "id": 4003,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "1027"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_AFFIX"
@@ -4555,9 +4555,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 4004,
+    "id": 4004,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "1026"
       ],
       "KMFGILOBGDJ": "TRIGGER_NEW_AFFIX"
@@ -4573,9 +4573,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 5001,
+    "id": 5001,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "106"
       ],
       "KMFGILOBGDJ": "TRIGGER_COST_MATERIAL"
@@ -4591,9 +4591,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 5002,
+    "id": 5002,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "8"
       ],
       "KMFGILOBGDJ": "TRIGGER_PLAYER_LEVEL"
@@ -4609,9 +4609,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 7001,
+    "id": 7001,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "220008"
       ],
       "KMFGILOBGDJ": "TRIGGER_OBTAIN_MATERIAL_NUM"
@@ -4627,9 +4627,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 7002,
+    "id": 7002,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "220005"
       ],
       "KMFGILOBGDJ": "TRIGGER_OBTAIN_MATERIAL_NUM"
@@ -4645,9 +4645,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 7003,
+    "id": 7003,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "220004"
       ],
       "KMFGILOBGDJ": "TRIGGER_OBTAIN_MATERIAL_NUM"
@@ -4663,7 +4663,7 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 7004,
+    "id": 7004,
     "NBDKMEKPPDN": {
       "KMFGILOBGDJ": "TRIGGER_MIRACLE_RING_DELIVER_ITEM"
     }
@@ -4678,9 +4678,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 7005,
+    "id": 7005,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "220021"
       ],
       "KMFGILOBGDJ": "TRIGGER_OBTAIN_MATERIAL_NUM"
@@ -4696,9 +4696,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 7006,
+    "id": 7006,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "220043"
       ],
       "KMFGILOBGDJ": "TRIGGER_OBTAIN_MATERIAL_NUM"
@@ -4714,9 +4714,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 7007,
+    "id": 7007,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "220047"
       ],
       "KMFGILOBGDJ": "TRIGGER_OBTAIN_MATERIAL_NUM"
@@ -4732,9 +4732,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 7008,
+    "id": 7008,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "220048"
       ],
       "KMFGILOBGDJ": "TRIGGER_OBTAIN_MATERIAL_NUM"
@@ -4750,9 +4750,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 7009,
+    "id": 7009,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "220065"
       ],
       "KMFGILOBGDJ": "TRIGGER_OBTAIN_MATERIAL_NUM"
@@ -4768,9 +4768,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 7010,
+    "id": 7010,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "220088"
       ],
       "KMFGILOBGDJ": "TRIGGER_OBTAIN_MATERIAL_NUM"
@@ -4786,9 +4786,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 7011,
+    "id": 7011,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "220093"
       ],
       "KMFGILOBGDJ": "TRIGGER_OBTAIN_MATERIAL_NUM"
@@ -4804,9 +4804,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 7012,
+    "id": 7012,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "220097"
       ],
       "KMFGILOBGDJ": "TRIGGER_OBTAIN_MATERIAL_NUM"
@@ -4822,9 +4822,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 7013,
+    "id": 7013,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "220109"
       ],
       "KMFGILOBGDJ": "TRIGGER_OBTAIN_MATERIAL_NUM"
@@ -4840,9 +4840,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 7014,
+    "id": 7014,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "220112"
       ],
       "KMFGILOBGDJ": "TRIGGER_OBTAIN_MATERIAL_NUM"
@@ -4858,7 +4858,7 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 8001,
+    "id": 8001,
     "NBDKMEKPPDN": {
       "KMFGILOBGDJ": "TRIGGER_WIND_CRYSTAL"
     }
@@ -4873,9 +4873,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9001,
+    "id": 9001,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7300309"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -4891,10 +4891,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 9002,
+    "isDisuse": true,
+    "id": 9002,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "1200010"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -4910,10 +4910,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 9003,
+    "isDisuse": true,
+    "id": 9003,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "1200108"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -4929,9 +4929,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9004,
+    "id": 9004,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7307301"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -4947,9 +4947,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9005,
+    "id": 9005,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7306905"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -4965,9 +4965,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9006,
+    "id": 9006,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7307407"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -4983,9 +4983,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9007,
+    "id": 9007,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7307011"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -5001,9 +5001,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9008,
+    "id": 9008,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7301822"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -5019,9 +5019,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9009,
+    "id": 9009,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7306904"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -5037,9 +5037,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9010,
+    "id": 9010,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7307402"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -5055,9 +5055,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9011,
+    "id": 9011,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7307005"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -5073,9 +5073,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9012,
+    "id": 9012,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7306126"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -5091,9 +5091,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9013,
+    "id": 9013,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "3",
         "547"
       ],
@@ -5110,9 +5110,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9014,
+    "id": 9014,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "3",
         "548"
       ],
@@ -5129,9 +5129,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9015,
+    "id": 9015,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "3",
         "549"
       ],
@@ -5148,9 +5148,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9016,
+    "id": 9016,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "3",
         "546"
       ],
@@ -5167,9 +5167,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9017,
+    "id": 9017,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "3",
         "653"
       ],
@@ -5186,9 +5186,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9018,
+    "id": 9018,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "3",
         "671"
       ],
@@ -5205,9 +5205,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9019,
+    "id": 9019,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "3",
         "551"
       ],
@@ -5224,9 +5224,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9020,
+    "id": 9020,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "3",
         "550"
       ],
@@ -5243,9 +5243,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9021,
+    "id": 9021,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "3",
         "544"
       ],
@@ -5262,9 +5262,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9022,
+    "id": 9022,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "3",
         "674"
       ],
@@ -5281,9 +5281,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9023,
+    "id": 9023,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "3",
         "558"
       ],
@@ -5300,9 +5300,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9024,
+    "id": 9024,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "3",
         "539"
       ],
@@ -5319,9 +5319,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9025,
+    "id": 9025,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "3",
         "552"
       ],
@@ -5338,9 +5338,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9026,
+    "id": 9026,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "3",
         "542"
       ],
@@ -5357,9 +5357,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9027,
+    "id": 9027,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7305227"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -5375,9 +5375,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9028,
+    "id": 9028,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7305310"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -5393,9 +5393,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9029,
+    "id": 9029,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7305403"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -5411,9 +5411,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9030,
+    "id": 9030,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7305430"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -5429,9 +5429,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9031,
+    "id": 9031,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7305436"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -5447,9 +5447,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9032,
+    "id": 9032,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7308321"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -5465,9 +5465,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9033,
+    "id": 9033,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7308302"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -5483,9 +5483,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9034,
+    "id": 9034,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7308304"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -5501,9 +5501,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9035,
+    "id": 9035,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7308301"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -5519,9 +5519,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9036,
+    "id": 9036,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7308301"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -5537,9 +5537,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9037,
+    "id": 9037,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7308301"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -5555,9 +5555,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9038,
+    "id": 9038,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7308316"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -5573,9 +5573,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9039,
+    "id": 9039,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "5010,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -5591,9 +5591,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9040,
+    "id": 9040,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "5011,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -5609,9 +5609,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9041,
+    "id": 9041,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "5012,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -5627,9 +5627,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9042,
+    "id": 9042,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "5013,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -5645,9 +5645,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9043,
+    "id": 9043,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "5014,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -5663,9 +5663,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9044,
+    "id": 9044,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "5015,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -5681,9 +5681,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9045,
+    "id": 9045,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "5016,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -5699,9 +5699,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9046,
+    "id": 9046,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "5017,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -5717,9 +5717,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9047,
+    "id": 9047,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "5018,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -5735,9 +5735,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9048,
+    "id": 9048,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "5019,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -5753,9 +5753,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9049,
+    "id": 9049,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "5020,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -5771,9 +5771,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9050,
+    "id": 9050,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "5021,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -5789,9 +5789,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9051,
+    "id": 9051,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "5022,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -5807,9 +5807,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9052,
+    "id": 9052,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "5023,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -5825,9 +5825,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9053,
+    "id": 9053,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "5024,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -5843,9 +5843,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9054,
+    "id": 9054,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "5025,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -5861,9 +5861,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9055,
+    "id": 9055,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "5026,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -5879,9 +5879,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9056,
+    "id": 9056,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "5027,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -5897,9 +5897,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9057,
+    "id": 9057,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "5028,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -5915,9 +5915,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 9058,
+    "id": 9058,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "5029,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -5933,9 +5933,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10001,
+    "id": 10001,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7018,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -5951,9 +5951,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10002,
+    "id": 10002,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7307301"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -5969,9 +5969,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10003,
+    "id": 10003,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7306906"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -5987,9 +5987,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10004,
+    "id": 10004,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7307403"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -6005,9 +6005,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10005,
+    "id": 10005,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7307006"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -6023,9 +6023,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10006,
+    "id": 10006,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7301822"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -6041,9 +6041,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10007,
+    "id": 10007,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7019,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -6059,9 +6059,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10008,
+    "id": 10008,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7302516"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -6077,9 +6077,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10009,
+    "id": 10009,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_Sumeru_Gadget_DendroSeed"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -6095,9 +6095,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10010,
+    "id": 10010,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_Sumeru_Gadget_Manara"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -6113,9 +6113,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10011,
+    "id": 10011,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_Sumeru_Gadget_ManaraDanger"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -6131,9 +6131,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10012,
+    "id": 10012,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7014,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -6149,9 +6149,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10013,
+    "id": 10013,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7302603"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -6167,9 +6167,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10014,
+    "id": 10014,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_Sumeru_Gadget_GrapplingHook"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -6185,9 +6185,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10015,
+    "id": 10015,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330229",
         "5"
       ],
@@ -6204,9 +6204,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10016,
+    "id": 10016,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330197",
         "5"
       ],
@@ -6223,9 +6223,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10017,
+    "id": 10017,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_Sumeru_Gadget_Invisible"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -6241,9 +6241,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10018,
+    "id": 10018,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330200",
         "5"
       ],
@@ -6260,9 +6260,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10019,
+    "id": 10019,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70290422",
         "10"
       ],
@@ -6279,9 +6279,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10020,
+    "id": 10020,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7015,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -6297,9 +6297,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10021,
+    "id": 10021,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7016,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -6315,9 +6315,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10022,
+    "id": 10022,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7017,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -6333,9 +6333,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10023,
+    "id": 10023,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7020,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -6351,9 +6351,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10024,
+    "id": 10024,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "101226;101227"
       ],
       "KMFGILOBGDJ": "TRIGGER_OBTAIN_MATERIAL_NUM"
@@ -6369,9 +6369,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10025,
+    "id": 10025,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7306644"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -6387,9 +6387,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10026,
+    "id": 10026,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7306126"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -6405,9 +6405,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10027,
+    "id": 10027,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330244",
         "5"
       ],
@@ -6424,9 +6424,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10028,
+    "id": 10028,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330283",
         "10"
       ],
@@ -6443,9 +6443,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10029,
+    "id": 10029,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330282",
         "10"
       ],
@@ -6462,9 +6462,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10030,
+    "id": 10030,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330280",
         "10"
       ],
@@ -6481,9 +6481,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10031,
+    "id": 10031,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7021,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -6499,9 +6499,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10032,
+    "id": 10032,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_Sumeru_Gadget_TransparencyGenerator"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -6517,9 +6517,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10033,
+    "id": 10033,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_Sumeru_Gadget_TransparencyWattle"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -6535,9 +6535,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10034,
+    "id": 10034,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_Sumeru_Gadget_Engineer"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -6553,9 +6553,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10035,
+    "id": 10035,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330288",
         "5"
       ],
@@ -6572,9 +6572,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10036,
+    "id": 10036,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7022,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -6590,9 +6590,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10037,
+    "id": 10037,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7023,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -6608,10 +6608,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10038,
+    "isDisuse": true,
+    "id": 10038,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330266",
         "5"
       ],
@@ -6628,10 +6628,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10039,
+    "isDisuse": true,
+    "id": 10039,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330265",
         "5"
       ],
@@ -6648,9 +6648,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10040,
+    "id": 10040,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7024,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -6666,9 +6666,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10041,
+    "id": 10041,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330263",
         "10"
       ],
@@ -6685,9 +6685,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10042,
+    "id": 10042,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7025,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -6703,9 +6703,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10043,
+    "id": 10043,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7308416"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -6721,9 +6721,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10044,
+    "id": 10044,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7026,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -6739,9 +6739,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10045,
+    "id": 10045,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7305227"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -6757,9 +6757,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10046,
+    "id": 10046,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7305415"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -6775,10 +6775,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10047,
+    "isDisuse": true,
+    "id": 10047,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7052603"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -6794,9 +6794,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10048,
+    "id": 10048,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7066523"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -6812,9 +6812,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10049,
+    "id": 10049,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330266,70330430",
         "5"
       ],
@@ -6831,9 +6831,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10050,
+    "id": 10050,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7066510"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -6849,9 +6849,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10051,
+    "id": 10051,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7066603"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -6867,10 +6867,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10052,
+    "isDisuse": true,
+    "id": 10052,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7066703"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -6879,7 +6879,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           2
         ],
         "EIJIBEOADBI": "PREDICATE_GCG_LEVEL"
@@ -6889,7 +6889,7 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10053,
+    "id": 10053,
     "NBDKMEKPPDN": {
       "KMFGILOBGDJ": "TRIGGER_ENTER_SCENE_NOT_DUNGEON"
     }
@@ -6897,7 +6897,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           4
         ],
         "EIJIBEOADBI": "PREDICATE_GCG_LEVEL"
@@ -6907,7 +6907,7 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10054,
+    "id": 10054,
     "NBDKMEKPPDN": {
       "KMFGILOBGDJ": "TRIGGER_ENTER_SCENE_NOT_DUNGEON"
     }
@@ -6922,9 +6922,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10055,
+    "id": 10055,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7066505"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -6940,9 +6940,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10056,
+    "id": 10056,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7066507"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -6958,9 +6958,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10057,
+    "id": 10057,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7027,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -6976,9 +6976,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10058,
+    "id": 10058,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7028,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -6994,9 +6994,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10059,
+    "id": 10059,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70290635,70290636,70290637",
         "5"
       ],
@@ -7013,9 +7013,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10060,
+    "id": 10060,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70290866,70290922",
         "5"
       ],
@@ -7032,9 +7032,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10061,
+    "id": 10061,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7029,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -7050,9 +7050,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10062,
+    "id": 10062,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_Sumeru_Gadget_Sandworm"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -7068,9 +7068,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10063,
+    "id": 10063,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70290624",
         "5"
       ],
@@ -7087,9 +7087,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10064,
+    "id": 10064,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7030,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -7105,9 +7105,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10065,
+    "id": 10065,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7321907"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -7123,9 +7123,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10066,
+    "id": 10066,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7321913"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -7141,9 +7141,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10067,
+    "id": 10067,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70290756,70290757",
         "5"
       ],
@@ -7160,9 +7160,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10068,
+    "id": 10068,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70290606,70290607",
         "5"
       ],
@@ -7179,10 +7179,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10069,
+    "isDisuse": true,
+    "id": 10069,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7321939"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -7198,9 +7198,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10070,
+    "id": 10070,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70290601",
         "5"
       ],
@@ -7217,9 +7217,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10071,
+    "id": 10071,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70290602",
         "15"
       ],
@@ -7236,9 +7236,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10072,
+    "id": 10072,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70290600",
         "5"
       ],
@@ -7255,9 +7255,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10073,
+    "id": 10073,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7032,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -7273,9 +7273,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10074,
+    "id": 10074,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7321939"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -7291,9 +7291,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10075,
+    "id": 10075,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7318617"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -7309,9 +7309,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10076,
+    "id": 10076,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7322013"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -7327,9 +7327,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10077,
+    "id": 10077,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7031,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -7345,10 +7345,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10078,
+    "isDisuse": true,
+    "id": 10078,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70220142",
         "5"
       ],
@@ -7365,10 +7365,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10079,
+    "isDisuse": true,
+    "id": 10079,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330463",
         "5"
       ],
@@ -7385,10 +7385,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10080,
+    "isDisuse": true,
+    "id": 10080,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330460",
         "5"
       ],
@@ -7405,9 +7405,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10081,
+    "id": 10081,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70291053",
         "20"
       ],
@@ -7424,9 +7424,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10082,
+    "id": 10082,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70220133,70220134,70220135,70350467",
         "10"
       ],
@@ -7443,10 +7443,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10083,
+    "isDisuse": true,
+    "id": 10083,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70310498",
         "5"
       ],
@@ -7463,9 +7463,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10084,
+    "id": 10084,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70310499,70310500,70310501,70310502,70310507,70310508,70310509,70310510",
         "10"
       ],
@@ -7482,9 +7482,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10085,
+    "id": 10085,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7332207,7333502,7334201,7334301"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -7500,9 +7500,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10086,
+    "id": 10086,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "220076"
       ],
       "KMFGILOBGDJ": "TRIGGER_OBTAIN_MATERIAL_NUM"
@@ -7518,10 +7518,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10087,
+    "isDisuse": true,
+    "id": 10087,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70290727,70290728",
         "15"
       ],
@@ -7538,10 +7538,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10088,
+    "isDisuse": true,
+    "id": 10088,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70350469",
         "15"
       ],
@@ -7558,10 +7558,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10089,
+    "isDisuse": true,
+    "id": 10089,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7323116"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -7577,10 +7577,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10090,
+    "isDisuse": true,
+    "id": 10090,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70220141,70360399",
         "15"
       ],
@@ -7597,9 +7597,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10091,
+    "id": 10091,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330486",
         "10"
       ],
@@ -7616,9 +7616,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10092,
+    "id": 10092,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7330903,7331003,7331203,7331403,7331503,7331603,7331703,7331803,7333203,7333403"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -7634,9 +7634,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10093,
+    "id": 10093,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7325111"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -7652,9 +7652,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10094,
+    "id": 10094,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7325615"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -7670,9 +7670,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10095,
+    "id": 10095,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70800422",
         "5"
       ],
@@ -7689,10 +7689,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10096,
+    "isDisuse": true,
+    "id": 10096,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70290775,70290776",
         "15"
       ],
@@ -7709,9 +7709,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10097,
+    "id": 10097,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330464,70330495,70330496,70330497,70330498,70330499",
         "5"
       ],
@@ -7728,9 +7728,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10098,
+    "id": 10098,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70360387",
         "5"
       ],
@@ -7740,7 +7740,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           7323206
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -7750,9 +7750,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10099,
+    "id": 10099,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70350487,70350488,70350489",
         "15"
       ],
@@ -7769,9 +7769,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10100,
+    "id": 10100,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7325612"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -7787,9 +7787,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10101,
+    "id": 10101,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70310498,70310532,70310533",
         "10"
       ],
@@ -7806,9 +7806,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10102,
+    "id": 10102,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7325617"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -7824,10 +7824,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10103,
+    "isDisuse": true,
+    "id": 10103,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330463,70330505",
         "5"
       ],
@@ -7844,10 +7844,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10104,
+    "isDisuse": true,
+    "id": 10104,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70220142",
         "15"
       ],
@@ -7857,7 +7857,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           7323817
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -7867,9 +7867,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10105,
+    "id": 10105,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330460",
         "20"
       ],
@@ -7879,7 +7879,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           7323817
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -7889,9 +7889,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10106,
+    "id": 10106,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70290727,70290728",
         "15"
       ],
@@ -7901,7 +7901,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           7323817
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -7911,9 +7911,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10107,
+    "id": 10107,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70350469",
         "15"
       ],
@@ -7923,7 +7923,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           7323817
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -7933,9 +7933,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10108,
+    "id": 10108,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70310496",
         "15"
       ],
@@ -7945,7 +7945,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           7323817
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -7955,9 +7955,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10109,
+    "id": 10109,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70220141,70360399,70220149",
         "15"
       ],
@@ -7967,7 +7967,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           7323817
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -7977,9 +7977,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10110,
+    "id": 10110,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70290775,70290776",
         "15"
       ],
@@ -7989,7 +7989,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           7323817
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -7999,9 +7999,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10111,
+    "id": 10111,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330463,70330505",
         "10"
       ],
@@ -8011,7 +8011,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           7323817
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -8021,9 +8021,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10112,
+    "id": 10112,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70220142",
         "15"
       ],
@@ -8033,7 +8033,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           7323817
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -8043,10 +8043,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10113,
+    "isDisuse": true,
+    "id": 10113,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70350491",
         "20"
       ],
@@ -8056,7 +8056,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           7325144
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -8066,9 +8066,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10114,
+    "id": 10114,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70350468",
         "15"
       ],
@@ -8085,9 +8085,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10115,
+    "id": 10115,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7325126"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -8096,7 +8096,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           7323206
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -8106,9 +8106,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10116,
+    "id": 10116,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7033,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -8117,7 +8117,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           7323817
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -8127,9 +8127,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10117,
+    "id": 10117,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7034,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -8145,9 +8145,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10118,
+    "id": 10118,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7466801"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -8163,9 +8163,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10119,
+    "id": 10119,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330490",
         "20"
       ],
@@ -8182,9 +8182,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10120,
+    "id": 10120,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7035,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -8200,9 +8200,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10121,
+    "id": 10121,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330523",
         "10"
       ],
@@ -8219,9 +8219,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10122,
+    "id": 10122,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330551,70330552,70330553,70330554",
         "10"
       ],
@@ -8238,9 +8238,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10123,
+    "id": 10123,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_Fontaine_Gadget_BallOP"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -8256,9 +8256,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10124,
+    "id": 10124,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330516",
         "10"
       ],
@@ -8275,9 +8275,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10125,
+    "id": 10125,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330680",
         "20"
       ],
@@ -8294,9 +8294,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10126,
+    "id": 10126,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330546,70330547,70330548",
         "10"
       ],
@@ -8313,9 +8313,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10127,
+    "id": 10127,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7400521"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -8331,9 +8331,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10128,
+    "id": 10128,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_Fontaine_Gadget_HydroSeed"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -8349,9 +8349,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10129,
+    "id": 10129,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330563,70330564,70330681,70330724",
         "10"
       ],
@@ -8368,9 +8368,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10130,
+    "id": 10130,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330540",
         "10"
       ],
@@ -8387,9 +8387,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10131,
+    "id": 10131,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_BigWorldUnderSea_10131"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -8405,9 +8405,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10132,
+    "id": 10132,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7036,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -8423,9 +8423,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10133,
+    "id": 10133,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7400203"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -8441,9 +8441,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10134,
+    "id": 10134,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330494",
         "10"
       ],
@@ -8460,9 +8460,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10135,
+    "id": 10135,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330542,70330609,70330610",
         "10"
       ],
@@ -8479,9 +8479,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10136,
+    "id": 10136,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_Diving_Absorb"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -8497,9 +8497,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10137,
+    "id": 10137,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_SnowMountain_1103"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -8515,9 +8515,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10138,
+    "id": 10138,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_SnowMountain_1103"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -8533,9 +8533,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10139,
+    "id": 10139,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_SnowMountain_1103"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -8551,7 +8551,7 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10140,
+    "id": 10140,
     "NBDKMEKPPDN": {
       "KMFGILOBGDJ": "TRIGGER_OPEN_MAP_LAYER"
     }
@@ -8566,9 +8566,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10141,
+    "id": 10141,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330507",
         "20"
       ],
@@ -8585,9 +8585,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10142,
+    "id": 10142,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330488",
         "20"
       ],
@@ -8604,9 +8604,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10143,
+    "id": 10143,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330572,70330692",
         "20"
       ],
@@ -8623,9 +8623,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10144,
+    "id": 10144,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_Diving_Absorb_ArkheGrade"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -8641,9 +8641,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10145,
+    "id": 10145,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70320089",
         "4"
       ],
@@ -8660,9 +8660,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10146,
+    "id": 10146,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70320091,70320092",
         "10"
       ],
@@ -8679,9 +8679,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10147,
+    "id": 10147,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70291561",
         "10"
       ],
@@ -8698,7 +8698,7 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10148,
+    "id": 10148,
     "NBDKMEKPPDN": {
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
     }
@@ -8713,10 +8713,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10149,
+    "isDisuse": true,
+    "id": 10149,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70291522,70291523,70291527,70291524",
         "20"
       ],
@@ -8733,9 +8733,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10150,
+    "id": 10150,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7037,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -8751,9 +8751,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10151,
+    "id": 10151,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7038,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -8769,9 +8769,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10152,
+    "id": 10152,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7040,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -8787,9 +8787,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10153,
+    "id": 10153,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7402618"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -8805,9 +8805,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10154,
+    "id": 10154,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7039,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -8823,10 +8823,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10155,
+    "isDisuse": true,
+    "id": 10155,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70291521",
         "20"
       ],
@@ -8843,9 +8843,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10156,
+    "id": 10156,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70220152",
         "10"
       ],
@@ -8862,9 +8862,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10157,
+    "id": 10157,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "401210"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -8880,9 +8880,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10158,
+    "id": 10158,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "401514"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -8898,8 +8898,8 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10159,
+    "isDisuse": true,
+    "id": 10159,
     "NBDKMEKPPDN": {
       "KMFGILOBGDJ": "TRIGGER_OPEN_MAP_LAYER"
     }
@@ -8914,9 +8914,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10160,
+    "id": 10160,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_UnderseaBac_FakeDeath"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -8932,9 +8932,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10161,
+    "id": 10161,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_TransparentEel_Death"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -8950,9 +8950,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10162,
+    "id": 10162,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7407813"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -8968,10 +8968,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10163,
+    "isDisuse": true,
+    "id": 10163,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70900523,70900607",
         "10"
       ],
@@ -8988,9 +8988,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10164,
+    "id": 10164,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70900530,70900531,70900562,70900563,70900535,70900546,70900547,70900532",
         "10"
       ],
@@ -9007,10 +9007,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10165,
+    "isDisuse": true,
+    "id": 10165,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70900517,70900518,70291462",
         "5"
       ],
@@ -9027,9 +9027,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10166,
+    "id": 10166,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_AbilityAnimal_Octopus"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -9045,9 +9045,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10167,
+    "id": 10167,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70900600,70900603,70900606",
         "5"
       ],
@@ -9064,9 +9064,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10168,
+    "id": 10168,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70900520,70900521,70900523,70900607",
         "5"
       ],
@@ -9083,9 +9083,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10169,
+    "id": 10169,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70291484,70291485,70291489,70291492,70291513,70291514",
         "5"
       ],
@@ -9102,9 +9102,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10170,
+    "id": 10170,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70900536,70900537,70900538,70900539,70900583,70900584,70900585",
         "5"
       ],
@@ -9121,10 +9121,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10171,
+    "isDisuse": true,
+    "id": 10171,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70291493,70291494,70291490",
         "5"
       ],
@@ -9141,9 +9141,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10172,
+    "id": 10172,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70900525,70900526",
         "15"
       ],
@@ -9160,9 +9160,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10173,
+    "id": 10173,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70291515",
         "10"
       ],
@@ -9179,9 +9179,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10174,
+    "id": 10174,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70900508,70900731",
         "5"
       ],
@@ -9198,9 +9198,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10175,
+    "id": 10175,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70900507,70900730",
         "5"
       ],
@@ -9217,9 +9217,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10176,
+    "id": 10176,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70900611",
         "5"
       ],
@@ -9236,9 +9236,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10177,
+    "id": 10177,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70900591,70900594,70900580",
         "5"
       ],
@@ -9255,9 +9255,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10178,
+    "id": 10178,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70900570,70900571,70900572,70900574,70900575,70900581,70900582,70900573",
         "5"
       ],
@@ -9274,9 +9274,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10179,
+    "id": 10179,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70900614,70900712",
         "15"
       ],
@@ -9293,9 +9293,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10180,
+    "id": 10180,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70900576,70900577,70900578,70900579",
         "5"
       ],
@@ -9312,10 +9312,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10181,
+    "isDisuse": true,
+    "id": 10181,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7041,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -9331,9 +9331,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10182,
+    "id": 10182,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70900543,70900544,70900545",
         "5"
       ],
@@ -9350,10 +9350,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10183,
+    "isDisuse": true,
+    "id": 10183,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "5"
       ],
       "KMFGILOBGDJ": "TRIGGER_GENERAL_GADGET_OR"
@@ -9369,9 +9369,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10184,
+    "id": 10184,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70900542",
         "5"
       ],
@@ -9388,9 +9388,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10185,
+    "id": 10185,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70900592,70900593",
         "5"
       ],
@@ -9407,9 +9407,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10186,
+    "id": 10186,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70900517,70900518,70291462",
         "5"
       ],
@@ -9426,9 +9426,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10187,
+    "id": 10187,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7407223"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -9444,9 +9444,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10188,
+    "id": 10188,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_Hairpin"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -9462,10 +9462,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10189,
+    "isDisuse": true,
+    "id": 10189,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_Yunqi"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -9481,9 +9481,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10190,
+    "id": 10190,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70292091,70292122,70292123,70292124,70292125,70292126,70292127",
         "40"
       ],
@@ -9500,9 +9500,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10191,
+    "id": 10191,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_SpectacleBuild"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -9518,9 +9518,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10192,
+    "id": 10192,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_Candle"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -9536,9 +9536,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10193,
+    "id": 10193,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_Lotus"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -9554,9 +9554,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10194,
+    "id": 10194,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_Run_Bird_Run"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -9572,9 +9572,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10195,
+    "id": 10195,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_Talk_Statue"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -9590,9 +9590,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10196,
+    "id": 10196,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_ShootingStatue"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -9608,9 +9608,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10197,
+    "id": 10197,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_CarpJump"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -9626,10 +9626,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10198,
+    "isDisuse": true,
+    "id": 10198,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7418413"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -9645,9 +9645,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10199,
+    "id": 10199,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7418432"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -9663,9 +9663,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10200,
+    "id": 10200,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7419402"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -9681,9 +9681,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10201,
+    "id": 10201,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330926",
         "15"
       ],
@@ -9700,10 +9700,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10202,
+    "isDisuse": true,
+    "id": 10202,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330980,70330937",
         "10"
       ],
@@ -9720,10 +9720,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10203,
+    "isDisuse": true,
+    "id": 10203,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330937,70330950",
         "10"
       ],
@@ -9740,9 +9740,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10204,
+    "id": 10204,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330923",
         "5"
       ],
@@ -9752,7 +9752,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           7418432
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -9762,10 +9762,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10205,
+    "isDisuse": true,
+    "id": 10205,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330924",
         "5"
       ],
@@ -9775,7 +9775,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           7419511
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -9785,9 +9785,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10206,
+    "id": 10206,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330968",
         "5"
       ],
@@ -9804,9 +9804,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10207,
+    "id": 10207,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330949,70330901",
         "12"
       ],
@@ -9823,9 +9823,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10208,
+    "id": 10208,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330932,70330977,70330978",
         "20"
       ],
@@ -9842,9 +9842,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10209,
+    "id": 10209,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330930",
         "20"
       ],
@@ -9861,9 +9861,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10210,
+    "id": 10210,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330947,70330945",
         "20"
       ],
@@ -9880,9 +9880,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10211,
+    "id": 10211,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330960,70330961",
         "20"
       ],
@@ -9899,10 +9899,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10212,
+    "isDisuse": true,
+    "id": 10212,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7067601"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -9918,10 +9918,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10213,
+    "isDisuse": true,
+    "id": 10213,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7067601"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -9937,10 +9937,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10214,
+    "isDisuse": true,
+    "id": 10214,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7067601"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -9949,7 +9949,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           7067601
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -9959,10 +9959,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10215,
+    "isDisuse": true,
+    "id": 10215,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70350506",
         "5"
       ],
@@ -9979,9 +9979,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10217,
+    "id": 10217,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7418603,7418705,7418707,7418801"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -9997,9 +9997,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10219,
+    "id": 10219,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7418435"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -10008,7 +10008,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           7418432
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -10018,10 +10018,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10220,
+    "isDisuse": true,
+    "id": 10220,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330924,70331521",
         "5"
       ],
@@ -10031,7 +10031,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           7418432
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -10041,9 +10041,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10221,
+    "id": 10221,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70330924,70331521",
         "10"
       ],
@@ -10053,7 +10053,7 @@
   {
     "BBANKAHFDDD": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           7067602
         ],
         "EIJIBEOADBI": "PREDICATE_QUEST_FINISH"
@@ -10063,9 +10063,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10216,
+    "id": 10216,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70350519,70350507",
         "10"
       ],
@@ -10082,7 +10082,7 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10218,
+    "id": 10218,
     "NBDKMEKPPDN": {
       "KMFGILOBGDJ": "TRIGGER_ROLE_COMBAT_OPEN_CARD_EVENT_CASE"
     }
@@ -10097,9 +10097,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10222,
+    "id": 10222,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7067602"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -10115,7 +10115,7 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10223,
+    "id": 10223,
     "NBDKMEKPPDN": {
       "KMFGILOBGDJ": "TRIGGER_ROLE_COMBAT_OPEN_SHOP"
     }
@@ -10130,9 +10130,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10224,
+    "id": 10224,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7067701"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -10148,7 +10148,7 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10225,
+    "id": 10225,
     "NBDKMEKPPDN": {
       "KMFGILOBGDJ": "TRIGGER_CHAR_MASTER_OPEN_DETAIL_PAGE"
     }
@@ -10163,7 +10163,7 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10226,
+    "id": 10226,
     "NBDKMEKPPDN": {
       "KMFGILOBGDJ": "TRIGGER_OPEN_TEAM_SIDE_SELECT_DIALOG"
     }
@@ -10178,9 +10178,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10227,
+    "id": 10227,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70801014,70801039,70801102,70801140,70801141",
         "40"
       ],
@@ -10197,9 +10197,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10228,
+    "id": 10228,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70801003,70801106",
         "20"
       ],
@@ -10216,9 +10216,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10229,
+    "id": 10229,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70801005,70801007,70801008,70801009,70801010,70801011,70801012,70801013",
         "20"
       ],
@@ -10235,9 +10235,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10230,
+    "id": 10230,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70801032,70801055,70801056,70801057",
         "15"
       ],
@@ -10254,9 +10254,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10231,
+    "id": 10231,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70801021,70801022",
         "10"
       ],
@@ -10273,9 +10273,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10232,
+    "id": 10232,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "1500103"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -10291,9 +10291,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10233,
+    "id": 10233,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70294002",
         "5"
       ],
@@ -10310,9 +10310,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10234,
+    "id": 10234,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Achievement_Watcher_3:Watcher_Achievement_10234"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -10328,9 +10328,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10235,
+    "id": 10235,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7046,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -10346,9 +10346,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10236,
+    "id": 10236,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "Natsaurus_Transfer"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -10364,9 +10364,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10237,
+    "id": 10237,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "Natsaurus_Drillhead"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -10382,9 +10382,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10238,
+    "id": 10238,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "Natsaurus_Hookwalker"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -10400,9 +10400,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10239,
+    "id": 10239,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "Natsaurus_Mosasaurus"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -10418,9 +10418,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10240,
+    "id": 10240,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Achievement_Watcher_3:Watcher_Achievement_10240"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -10436,9 +10436,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10241,
+    "id": 10241,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70294005",
         "10"
       ],
@@ -10455,9 +10455,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10242,
+    "id": 10242,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7042,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -10473,9 +10473,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10243,
+    "id": 10243,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70331402,70331403,73002079,70331561",
         "10"
       ],
@@ -10492,9 +10492,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10244,
+    "id": 10244,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Achievement_Watcher_3:Watcher_Achievement_10244"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -10510,9 +10510,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10245,
+    "id": 10245,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70331069,70331070,70331075,70331079,70331080,70331083,70331104,70331105,70331106,70331107,70331108,70331109,70331110,70331111,70331112,70331113,70331417,70331106,70331418,73018037",
         "10"
       ],
@@ -10529,9 +10529,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10246,
+    "id": 10246,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7043,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -10547,9 +10547,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10247,
+    "id": 10247,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7500605"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -10565,9 +10565,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10248,
+    "id": 10248,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70801090,73005227,73005282",
         "10"
       ],
@@ -10584,9 +10584,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10249,
+    "id": 10249,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70331092,70331150",
         "10"
       ],
@@ -10603,9 +10603,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10250,
+    "id": 10250,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7500203"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -10621,9 +10621,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10251,
+    "id": 10251,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7044,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -10639,9 +10639,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10252,
+    "id": 10252,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70801117",
         "10"
       ],
@@ -10658,9 +10658,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10253,
+    "id": 10253,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70331135",
         "10"
       ],
@@ -10677,9 +10677,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10254,
+    "id": 10254,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "73002002,73002003,73002004,73002005,70331093",
         "10"
       ],
@@ -10696,9 +10696,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10255,
+    "id": 10255,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "73007011,73007012",
         "10"
       ],
@@ -10715,9 +10715,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10256,
+    "id": 10256,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7045,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -10733,9 +10733,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10257,
+    "id": 10257,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "73002107",
         "15"
       ],
@@ -10752,7 +10752,7 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10258,
+    "id": 10258,
     "NBDKMEKPPDN": {
       "KMFGILOBGDJ": "TRIGGER_ROLE_COMBAT_OPEN_BUILD_EVENT_DETAIL"
     }
@@ -10767,9 +10767,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10259,
+    "id": 10259,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7504808"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -10785,9 +10785,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10260,
+    "id": 10260,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7513402"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -10803,9 +10803,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10261,
+    "id": 10261,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7513402"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -10821,9 +10821,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10262,
+    "id": 10262,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7047,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -10839,9 +10839,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10263,
+    "id": 10263,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7513402"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -10857,9 +10857,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10264,
+    "id": 10264,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70331374,70331375,73005015,73005081,73005092,73005093,73005238,73005017,73005016,73005018",
         "15"
       ],
@@ -10876,9 +10876,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10265,
+    "id": 10265,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "73005054",
         "15"
       ],
@@ -10895,9 +10895,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10266,
+    "id": 10266,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7513402"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -10913,9 +10913,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10267,
+    "id": 10267,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "73005055",
         "15"
       ],
@@ -10932,9 +10932,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10268,
+    "id": 10268,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "73005095",
         "15"
       ],
@@ -10951,9 +10951,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10269,
+    "id": 10269,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "73005010",
         "15"
       ],
@@ -10970,9 +10970,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10270,
+    "id": 10270,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "Natsaurus_Flamingo"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -10988,9 +10988,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10271,
+    "id": 10271,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "73009016,73009021,73009073,73009084,73009085,73009086,73009087,73009017,73009022",
         "15"
       ],
@@ -11007,9 +11007,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10272,
+    "id": 10272,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70331308,70331309,73009008,73009009,73009083",
         "12"
       ],
@@ -11026,9 +11026,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10273,
+    "id": 10273,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Achievement_Watcher_4:Watcher_Achievement_10273"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -11044,9 +11044,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10274,
+    "id": 10274,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "73005061,73005313",
         "15"
       ],
@@ -11063,9 +11063,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10275,
+    "id": 10275,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70331387,73009004",
         "15"
       ],
@@ -11082,9 +11082,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10276,
+    "id": 10276,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "Natsaurus_Shamansaurus"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -11100,9 +11100,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10277,
+    "id": 10277,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70331266,70331267,70331268,70331269,70331270,73005112,73005113,73005129,73005144,73005201,73005202,73005203,73005204,73005225,73005243,73005305",
         "12"
       ],
@@ -11119,9 +11119,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10278,
+    "id": 10278,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "73005197,73005198,73005226,73005268",
         "12"
       ],
@@ -11138,9 +11138,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10279,
+    "id": 10279,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "Watcher_PhlogistonTagGuide"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -11156,9 +11156,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10280,
+    "id": 10280,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "73005027,73005028,73005029,73005030,73005128",
         "10"
       ],
@@ -11175,10 +11175,10 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10281,
+    "isDisuse": true,
+    "id": 10281,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7049,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -11194,9 +11194,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10282,
+    "id": 10282,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70331312,70331313,70331314",
         "10"
       ],
@@ -11213,9 +11213,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10283,
+    "id": 10283,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7051,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -11231,9 +11231,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10284,
+    "id": 10284,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "73005060",
         "5"
       ],
@@ -11250,9 +11250,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10285,
+    "id": 10285,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "73005033,73004102",
         "8"
       ],
@@ -11269,9 +11269,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10286,
+    "id": 10286,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "73005006,73005059,73005196,73005140,73005168",
         "15"
       ],
@@ -11288,9 +11288,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10287,
+    "id": 10287,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7050,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"
@@ -11306,9 +11306,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10288,
+    "id": 10288,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "1502414"
       ],
       "KMFGILOBGDJ": "TRIGGER_FINISH_QUEST_OR"
@@ -11324,9 +11324,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10289,
+    "id": 10289,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70331319",
         "15"
       ],
@@ -11343,9 +11343,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10290,
+    "id": 10290,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "73009027",
         "15"
       ],
@@ -11362,9 +11362,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10291,
+    "id": 10291,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70331340",
         "16"
       ],
@@ -11381,7 +11381,7 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10292,
+    "id": 10292,
     "NBDKMEKPPDN": {
       "KMFGILOBGDJ": "TRIGGER_MUSIC_GAME_BOOK_OPEN"
     }
@@ -11396,7 +11396,7 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10293,
+    "id": 10293,
     "NBDKMEKPPDN": {
       "KMFGILOBGDJ": "TRIGGER_MUSIC_GAME_BOOK_BEAT_OPEN"
     }
@@ -11411,7 +11411,7 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10294,
+    "id": 10294,
     "NBDKMEKPPDN": {
       "KMFGILOBGDJ": "TRIGGER_MUSIC_GAME_BOOK_ALBUM_OPEN"
     }
@@ -11426,7 +11426,7 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10295,
+    "id": 10295,
     "NBDKMEKPPDN": {
       "KMFGILOBGDJ": "TRIGGER_MUSIC_GAME_BOOK_FIRST_PLAY"
     }
@@ -11440,10 +11440,10 @@
         "EIJIBEOADBI": "PREDICATE_NONE"
       }
     ],
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10296,
+    "isDisuse": true,
+    "id": 10296,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "Natsaurus_Shamansaurus"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -11458,10 +11458,10 @@
         "EIJIBEOADBI": "PREDICATE_NONE"
       }
     ],
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10297,
+    "isDisuse": true,
+    "id": 10297,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70292245"
       ],
       "KMFGILOBGDJ": "TRIGGER_GENERAL_GADGET"
@@ -11476,10 +11476,10 @@
         "EIJIBEOADBI": "PREDICATE_NONE"
       }
     ],
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10298,
+    "isDisuse": true,
+    "id": 10298,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70292225,70292303,73019109,73019120"
       ],
       "KMFGILOBGDJ": "TRIGGER_GENERAL_GADGET"
@@ -11494,10 +11494,10 @@
         "EIJIBEOADBI": "PREDICATE_NONE"
       }
     ],
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10299,
+    "isDisuse": true,
+    "id": 10299,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70292243,70292270"
       ],
       "KMFGILOBGDJ": "TRIGGER_GENERAL_GADGET"
@@ -11512,10 +11512,10 @@
         "EIJIBEOADBI": "PREDICATE_NONE"
       }
     ],
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10300,
+    "isDisuse": true,
+    "id": 10300,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "73019001,73019002,73019003,73019045,73019062,73019063"
       ],
       "KMFGILOBGDJ": "TRIGGER_GENERAL_GADGET"
@@ -11530,10 +11530,10 @@
         "EIJIBEOADBI": "PREDICATE_NONE"
       }
     ],
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10301,
+    "isDisuse": true,
+    "id": 10301,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "73004034,73004013"
       ],
       "KMFGILOBGDJ": "TRIGGER_GENERAL_GADGET"
@@ -11548,10 +11548,10 @@
         "EIJIBEOADBI": "PREDICATE_NONE"
       }
     ],
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10302,
+    "isDisuse": true,
+    "id": 10302,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "73004012,73004019"
       ],
       "KMFGILOBGDJ": "TRIGGER_GENERAL_GADGET"
@@ -11566,10 +11566,10 @@
         "EIJIBEOADBI": "PREDICATE_NONE"
       }
     ],
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10303,
+    "isDisuse": true,
+    "id": 10303,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70292233,70292280"
       ],
       "KMFGILOBGDJ": "TRIGGER_GENERAL_GADGET"
@@ -11584,10 +11584,10 @@
         "EIJIBEOADBI": "PREDICATE_NONE"
       }
     ],
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10304,
+    "isDisuse": true,
+    "id": 10304,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70290233"
       ],
       "KMFGILOBGDJ": "TRIGGER_GENERAL_GADGET"
@@ -11602,10 +11602,10 @@
         "EIJIBEOADBI": "PREDICATE_NONE"
       }
     ],
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10305,
+    "isDisuse": true,
+    "id": 10305,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "Natsaurus_Shamansaurus"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -11620,10 +11620,10 @@
         "EIJIBEOADBI": "PREDICATE_NONE"
       }
     ],
-    "ECCONDIOCKF": true,
-    "ELKKIAIGOBK": 10306,
+    "isDisuse": true,
+    "id": 10306,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70292262"
       ],
       "KMFGILOBGDJ": "TRIGGER_GENERAL_GADGET"
@@ -11639,9 +11639,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10307,
+    "id": 10307,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "Natsaurus_Bisonsaurus"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -11657,9 +11657,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10308,
+    "id": 10308,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70292245",
         "10"
       ],
@@ -11676,9 +11676,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10309,
+    "id": 10309,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70292225,70292303,73019109,73019120,73019163,73019139",
         "10"
       ],
@@ -11695,9 +11695,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10310,
+    "id": 10310,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70292243,70292270",
         "10"
       ],
@@ -11714,9 +11714,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10311,
+    "id": 10311,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "73019001,73019002,73019003,73019045,73019062,73019063,73019087",
         "10"
       ],
@@ -11733,9 +11733,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10312,
+    "id": 10312,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "73004034,73004013",
         "10"
       ],
@@ -11752,9 +11752,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10313,
+    "id": 10313,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "73004012,73004019",
         "10"
       ],
@@ -11771,9 +11771,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10314,
+    "id": 10314,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70292233,70292280,70292453,70292452",
         "10"
       ],
@@ -11790,9 +11790,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10315,
+    "id": 10315,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "LevelAbility_Combat_Watcher:Watcher_AbyssalPalace_Gadget_10315"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -11808,9 +11808,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10316,
+    "id": 10316,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "Watcher_LongyiwuCannon"
       ],
       "KMFGILOBGDJ": "TRIGGER_COMBAT_CONFIG_COMMON"
@@ -11826,9 +11826,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10317,
+    "id": 10317,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "70292262,70292421,70292420,70292269",
         "10"
       ],
@@ -11845,9 +11845,9 @@
       }
     ],
     "BHBMNAFHPAN": 1,
-    "ELKKIAIGOBK": 10318,
+    "id": 10318,
     "NBDKMEKPPDN": {
-      "CAAIICCCNKH": [
+      "paramList": [
         "7052,3,1"
       ],
       "KMFGILOBGDJ": "TRIGGER_GROUP_NOTIFY"

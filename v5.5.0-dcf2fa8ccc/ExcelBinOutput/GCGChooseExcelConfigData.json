@@ -1,15 +1,15 @@
 [
   {
     "ABIPJAONMEF": 1938774220,
-    "AFDGJFKDNCJ": 101,
+    "id": 101,
     "AGEFPDNDGIK": [
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "CHARACTER_ORDER",
+        "type": "CHARACTER_ORDER",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -24,18 +24,18 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 303300,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE"
+        "value": 303300,
+        "type": "NOT_HAS_MODIFY_STATE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -44,24 +44,24 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 2327303172,
-    "AFDGJFKDNCJ": 102,
+    "id": 102,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -76,18 +76,18 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -96,23 +96,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1150336436,
-    "AFDGJFKDNCJ": 103,
+    "id": 103,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "HP",
+        "type": "HP",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -127,19 +127,19 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 303300,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE"
+        "value": 303300,
+        "type": "NOT_HAS_MODIFY_STATE"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "CHARACTER_HURT_MIN"
+        "value": 1,
+        "type": "CHARACTER_HURT_MIN"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -148,23 +148,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 408186852,
-    "AFDGJFKDNCJ": 104,
+    "id": 104,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -179,17 +179,17 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "DELBOOLKFAO": "ONSTAGE"
+        "type": "ONSTAGE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -198,23 +198,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 2365195396,
-    "AFDGJFKDNCJ": 105,
+    "id": 105,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -229,16 +229,16 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -247,23 +247,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 4178679012,
-    "AFDGJFKDNCJ": 106,
+    "id": 106,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -278,18 +278,18 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -298,25 +298,25 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "CHARACTER_NOT_CHARGED_MIN"
+        "value": 1,
+        "type": "CHARACTER_NOT_CHARGED_MIN"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "CHARACTER_NOT_CHARGED_MAX"
+        "value": 1,
+        "type": "CHARACTER_NOT_CHARGED_MAX"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1018474292,
-    "AFDGJFKDNCJ": 107,
+    "id": 107,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -331,18 +331,18 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -351,25 +351,25 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "CHARACTER_NOT_CHARGED_MIN"
+        "value": 1,
+        "type": "CHARACTER_NOT_CHARGED_MIN"
       },
       {
-        "CMEOJJCIBDE": 2,
-        "DELBOOLKFAO": "CHARACTER_NOT_CHARGED_MAX"
+        "value": 2,
+        "type": "CHARACTER_NOT_CHARGED_MAX"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1315855148,
-    "AFDGJFKDNCJ": 108,
+    "id": 108,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -384,19 +384,19 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -405,23 +405,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 2474045668,
-    "AFDGJFKDNCJ": 109,
+    "id": 109,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -436,18 +436,18 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "DELBOOLKFAO": "ONSTAGE"
+        "type": "ONSTAGE"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -456,24 +456,24 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 343151572,
-    "AFDGJFKDNCJ": 110,
+    "id": 110,
     "AGEFPDNDGIK": [
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "CHARACTER_ORDER",
+        "type": "CHARACTER_ORDER",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -488,17 +488,17 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -507,24 +507,24 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 3364576692,
-    "AFDGJFKDNCJ": 111,
+    "id": 111,
     "AGEFPDNDGIK": [
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "CHARACTER_ORDER",
+        "type": "CHARACTER_ORDER",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -539,17 +539,17 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -558,24 +558,24 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 2633066588,
-    "AFDGJFKDNCJ": 112,
+    "id": 112,
     "AGEFPDNDGIK": [
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "CHARACTER_ORDER",
+        "type": "CHARACTER_ORDER",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -590,17 +590,17 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -609,24 +609,24 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 2360075052,
-    "AFDGJFKDNCJ": 113,
+    "id": 113,
     "AGEFPDNDGIK": [
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "CHARACTER_ORDER",
+        "type": "CHARACTER_ORDER",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -641,17 +641,17 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -660,24 +660,24 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 3688410436,
-    "AFDGJFKDNCJ": 114,
+    "id": 114,
     "AGEFPDNDGIK": [
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "CHARACTER_ORDER",
+        "type": "CHARACTER_ORDER",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -692,17 +692,17 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -711,24 +711,24 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 4107010156,
-    "AFDGJFKDNCJ": 115,
+    "id": 115,
     "AGEFPDNDGIK": [
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "CHARACTER_ORDER",
+        "type": "CHARACTER_ORDER",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -743,17 +743,17 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -762,25 +762,25 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1498887420,
-    "AFDGJFKDNCJ": 121,
+    "id": 121,
     "AGEFPDNDGIK": [
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "HAS_TAG",
+        "type": "HAS_TAG",
         "FCIIEJJBDLP": "GCG_TAG_ELEMENT_CRYO"
       },
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "CHARACTER_ORDER",
+        "type": "CHARACTER_ORDER",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -795,17 +795,17 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -814,25 +814,25 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1901741212,
-    "AFDGJFKDNCJ": 122,
+    "id": 122,
     "AGEFPDNDGIK": [
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "HAS_TAG",
+        "type": "HAS_TAG",
         "FCIIEJJBDLP": "GCG_TAG_ELEMENT_HYDRO"
       },
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "CHARACTER_ORDER",
+        "type": "CHARACTER_ORDER",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -847,17 +847,17 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -866,25 +866,25 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 4215312612,
-    "AFDGJFKDNCJ": 123,
+    "id": 123,
     "AGEFPDNDGIK": [
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "HAS_TAG",
+        "type": "HAS_TAG",
         "FCIIEJJBDLP": "GCG_TAG_ELEMENT_PYRO"
       },
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "CHARACTER_ORDER",
+        "type": "CHARACTER_ORDER",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -899,17 +899,17 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -918,25 +918,25 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1021508316,
-    "AFDGJFKDNCJ": 124,
+    "id": 124,
     "AGEFPDNDGIK": [
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "HAS_TAG",
+        "type": "HAS_TAG",
         "FCIIEJJBDLP": "GCG_TAG_ELEMENT_ELECTRO"
       },
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "CHARACTER_ORDER",
+        "type": "CHARACTER_ORDER",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -951,17 +951,17 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -970,25 +970,25 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 2144580860,
-    "AFDGJFKDNCJ": 125,
+    "id": 125,
     "AGEFPDNDGIK": [
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "HAS_TAG",
+        "type": "HAS_TAG",
         "FCIIEJJBDLP": "GCG_TAG_ELEMENT_ANEMO"
       },
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "CHARACTER_ORDER",
+        "type": "CHARACTER_ORDER",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -1003,17 +1003,17 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -1022,25 +1022,25 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 3052576212,
-    "AFDGJFKDNCJ": 126,
+    "id": 126,
     "AGEFPDNDGIK": [
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "HAS_TAG",
+        "type": "HAS_TAG",
         "FCIIEJJBDLP": "GCG_TAG_ELEMENT_GEO"
       },
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "CHARACTER_ORDER",
+        "type": "CHARACTER_ORDER",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -1055,17 +1055,17 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -1074,25 +1074,25 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 882895236,
-    "AFDGJFKDNCJ": 127,
+    "id": 127,
     "AGEFPDNDGIK": [
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "HAS_TAG",
+        "type": "HAS_TAG",
         "FCIIEJJBDLP": "GCG_TAG_ELEMENT_DENDRO"
       },
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "CHARACTER_ORDER",
+        "type": "CHARACTER_ORDER",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -1107,17 +1107,17 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -1126,24 +1126,24 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 731872068,
-    "AFDGJFKDNCJ": 128,
+    "id": 128,
     "AGEFPDNDGIK": [
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "CHARACTER_ORDER",
+        "type": "CHARACTER_ORDER",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -1158,17 +1158,17 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -1177,24 +1177,24 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1346888436,
-    "AFDGJFKDNCJ": 129,
+    "id": 129,
     "AGEFPDNDGIK": [
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "CHARACTER_ORDER",
+        "type": "CHARACTER_ORDER",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -1209,17 +1209,17 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -1228,26 +1228,26 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 3784009956,
-    "AFDGJFKDNCJ": 151,
+    "id": 151,
     "AGEFPDNDGIK": [
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "HP",
+        "type": "HP",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "CHARACTER_ORDER",
+        "type": "CHARACTER_ORDER",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -1262,19 +1262,19 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 3,
-        "DELBOOLKFAO": "HAS_MODIFY_STATE_WITH_TAG"
+        "value": 3,
+        "type": "HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "SAME_WEAPON_TYPE_CHAR_COUNT"
+        "value": 1,
+        "type": "SAME_WEAPON_TYPE_CHAR_COUNT"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -1283,25 +1283,25 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 2524648828,
-    "AFDGJFKDNCJ": 152,
+    "id": 152,
     "AGEFPDNDGIK": [
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "HP",
+        "type": "HP",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "CHARACTER_ORDER",
+        "type": "CHARACTER_ORDER",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -1316,18 +1316,18 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "SAME_WEAPON_TYPE_WITH"
+        "value": 1,
+        "type": "SAME_WEAPON_TYPE_WITH"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -1336,25 +1336,25 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 2511338772,
-    "AFDGJFKDNCJ": 153,
+    "id": 153,
     "AGEFPDNDGIK": [
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "HP",
+        "type": "HP",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "CHARACTER_ORDER",
+        "type": "CHARACTER_ORDER",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -1369,19 +1369,19 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 4,
-        "DELBOOLKFAO": "HAS_MODIFY_STATE_WITH_TAG"
+        "value": 4,
+        "type": "HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ALIVE_CHAR_COUNT"
+        "value": 1,
+        "type": "ALIVE_CHAR_COUNT"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -1390,25 +1390,25 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 527777572,
-    "AFDGJFKDNCJ": 154,
+    "id": 154,
     "AGEFPDNDGIK": [
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "HP",
+        "type": "HP",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "CHARACTER_ORDER",
+        "type": "CHARACTER_ORDER",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -1423,17 +1423,17 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -1442,25 +1442,25 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 586224452,
-    "AFDGJFKDNCJ": 155,
+    "id": 155,
     "AGEFPDNDGIK": [
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "HP",
+        "type": "HP",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "CHARACTER_ORDER",
+        "type": "CHARACTER_ORDER",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -1475,18 +1475,18 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 3,
-        "DELBOOLKFAO": "HAS_MODIFY_STATE_WITH_TAG"
+        "value": 3,
+        "type": "HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -1495,25 +1495,25 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 733398852,
-    "AFDGJFKDNCJ": 156,
+    "id": 156,
     "AGEFPDNDGIK": [
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "HP",
+        "type": "HP",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "CHARACTER_ORDER",
+        "type": "CHARACTER_ORDER",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -1528,18 +1528,18 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 4,
-        "DELBOOLKFAO": "HAS_MODIFY_STATE_WITH_TAG"
+        "value": 4,
+        "type": "HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -1548,24 +1548,24 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 2286191812,
-    "AFDGJFKDNCJ": 157,
+    "id": 157,
     "AGEFPDNDGIK": [
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "CHARACTER_ORDER",
+        "type": "CHARACTER_ORDER",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -1580,17 +1580,17 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -1599,24 +1599,24 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 519509620,
-    "AFDGJFKDNCJ": 158,
+    "id": 158,
     "AGEFPDNDGIK": [
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "CHARACTER_ORDER",
+        "type": "CHARACTER_ORDER",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -1631,17 +1631,17 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -1650,23 +1650,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1621758876,
-    "AFDGJFKDNCJ": 159,
+    "id": 159,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -1681,18 +1681,18 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -1701,23 +1701,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 3132081852,
-    "AFDGJFKDNCJ": 160,
+    "id": 160,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -1732,18 +1732,18 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 11,
-        "DELBOOLKFAO": "HAS_MODIFY_STATE_WITH_TAG"
+        "value": 11,
+        "type": "HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -1752,23 +1752,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 634822548,
-    "AFDGJFKDNCJ": 161,
+    "id": 161,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -1783,18 +1783,18 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 8207,
-        "DELBOOLKFAO": "CARD"
+        "value": 8207,
+        "type": "CARD"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -1803,24 +1803,24 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1056180972,
-    "AFDGJFKDNCJ": 501,
+    "id": 501,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "TOKEN_TO_SHOW",
+        "type": "TOKEN_TO_SHOW",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "CREATE_ORDER",
+        "type": "CREATE_ORDER",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -1835,16 +1835,16 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -1853,24 +1853,24 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 2424549932,
-    "AFDGJFKDNCJ": 502,
+    "id": 502,
     "AGEFPDNDGIK": [
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "TOKEN_TO_SHOW",
+        "type": "TOKEN_TO_SHOW",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "CREATE_ORDER",
+        "type": "CREATE_ORDER",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -1885,16 +1885,16 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -1903,24 +1903,24 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1884474996,
-    "AFDGJFKDNCJ": 503,
+    "id": 503,
     "AGEFPDNDGIK": [
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "TOKEN_TO_SHOW",
+        "type": "TOKEN_TO_SHOW",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "CREATE_ORDER",
+        "type": "CREATE_ORDER",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -1935,16 +1935,16 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -1953,24 +1953,24 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 2968401428,
-    "AFDGJFKDNCJ": 504,
+    "id": 504,
     "AGEFPDNDGIK": [
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "TOKEN_TO_SHOW",
+        "type": "TOKEN_TO_SHOW",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "CREATE_ORDER",
+        "type": "CREATE_ORDER",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -1985,16 +1985,16 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -2003,24 +2003,24 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 98435492,
-    "AFDGJFKDNCJ": 505,
+    "id": 505,
     "AGEFPDNDGIK": [
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "TOKEN_TO_SHOW",
+        "type": "TOKEN_TO_SHOW",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "CREATE_ORDER",
+        "type": "CREATE_ORDER",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -2035,16 +2035,16 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -2053,24 +2053,24 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 3544363068,
-    "AFDGJFKDNCJ": 506,
+    "id": 506,
     "AGEFPDNDGIK": [
       {
         "BKOJFHPMKOP": true,
-        "DELBOOLKFAO": "TOKEN_TO_SHOW",
+        "type": "TOKEN_TO_SHOW",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "CREATE_ORDER",
+        "type": "CREATE_ORDER",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -2085,16 +2085,16 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -2103,23 +2103,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1697191692,
-    "AFDGJFKDNCJ": 1001,
+    "id": 1001,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -2134,19 +2134,19 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1403,
-        "DELBOOLKFAO": "CARD"
+        "value": 1403,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -2155,23 +2155,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 3834140836,
-    "AFDGJFKDNCJ": 1002,
+    "id": 1002,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -2186,18 +2186,18 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1105,
-        "DELBOOLKFAO": "CARD"
+        "value": 1105,
+        "type": "CARD"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -2206,23 +2206,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 4229749404,
-    "AFDGJFKDNCJ": 1003,
+    "id": 1003,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -2237,18 +2237,18 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 2302,
-        "DELBOOLKFAO": "CARD"
+        "value": 2302,
+        "type": "CARD"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -2257,23 +2257,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 157600516,
-    "AFDGJFKDNCJ": 1004,
+    "id": 1004,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -2288,19 +2288,19 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 2401,
-        "DELBOOLKFAO": "CARD"
+        "value": 2401,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -2309,23 +2309,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 4009257724,
-    "AFDGJFKDNCJ": 1005,
+    "id": 1005,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -2340,18 +2340,18 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1409,
-        "DELBOOLKFAO": "CARD"
+        "value": 1409,
+        "type": "CARD"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -2360,23 +2360,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 3052780532,
-    "AFDGJFKDNCJ": 1006,
+    "id": 1006,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -2391,18 +2391,18 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 2402,
-        "DELBOOLKFAO": "CARD"
+        "value": 2402,
+        "type": "CARD"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -2411,23 +2411,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 715999076,
-    "AFDGJFKDNCJ": 1007,
+    "id": 1007,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -2442,19 +2442,19 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 2602,
-        "DELBOOLKFAO": "CARD"
+        "value": 2602,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -2463,23 +2463,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 138744524,
-    "AFDGJFKDNCJ": 1008,
+    "id": 1008,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -2494,18 +2494,18 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 2203,
-        "DELBOOLKFAO": "CARD"
+        "value": 2203,
+        "type": "CARD"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -2514,23 +2514,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1929647204,
-    "AFDGJFKDNCJ": 1009,
+    "id": 1009,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -2545,18 +2545,18 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 2304,
-        "DELBOOLKFAO": "CARD"
+        "value": 2304,
+        "type": "CARD"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -2565,23 +2565,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 2948892908,
-    "AFDGJFKDNCJ": 1010,
+    "id": 1010,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -2596,18 +2596,18 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1211,
-        "DELBOOLKFAO": "CARD"
+        "value": 1211,
+        "type": "CARD"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -2616,23 +2616,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 4237211700,
-    "AFDGJFKDNCJ": 1011,
+    "id": 1011,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -2647,18 +2647,18 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 2204,
-        "DELBOOLKFAO": "CARD"
+        "value": 2204,
+        "type": "CARD"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -2667,23 +2667,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 2514208868,
-    "AFDGJFKDNCJ": 1012,
+    "id": 1012,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -2698,18 +2698,18 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 2702,
-        "DELBOOLKFAO": "CARD"
+        "value": 2702,
+        "type": "CARD"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -2718,23 +2718,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1018767788,
-    "AFDGJFKDNCJ": 1013,
+    "id": 1013,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -2749,18 +2749,18 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 4207,
-        "DELBOOLKFAO": "CARD"
+        "value": 4207,
+        "type": "CARD"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -2769,23 +2769,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1027955572,
-    "AFDGJFKDNCJ": 1014,
+    "id": 1014,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -2800,18 +2800,18 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 4208,
-        "DELBOOLKFAO": "CARD"
+        "value": 4208,
+        "type": "CARD"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -2820,23 +2820,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 2954740260,
-    "AFDGJFKDNCJ": 1015,
+    "id": 1015,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -2851,18 +2851,18 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 4705,
-        "DELBOOLKFAO": "CARD"
+        "value": 4705,
+        "type": "CARD"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -2871,23 +2871,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1727011484,
-    "AFDGJFKDNCJ": 1016,
+    "id": 1016,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -2902,18 +2902,18 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 4706,
-        "DELBOOLKFAO": "CARD"
+        "value": 4706,
+        "type": "CARD"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -2922,23 +2922,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1658288748,
-    "AFDGJFKDNCJ": 1017,
+    "id": 1017,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -2953,18 +2953,18 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1609,
-        "DELBOOLKFAO": "CARD"
+        "value": 1609,
+        "type": "CARD"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -2973,23 +2973,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1443076380,
-    "AFDGJFKDNCJ": 1018,
+    "id": 1018,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -3004,18 +3004,18 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 7211,
-        "DELBOOLKFAO": "CARD"
+        "value": 7211,
+        "type": "CARD"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -3024,23 +3024,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1661270156,
-    "AFDGJFKDNCJ": 1019,
+    "id": 1019,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -3055,18 +3055,18 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1314,
-        "DELBOOLKFAO": "CARD"
+        "value": 1314,
+        "type": "CARD"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -3075,23 +3075,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 3363485348,
-    "AFDGJFKDNCJ": 11101,
+    "id": 11101,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -3106,20 +3106,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1101,
-        "DELBOOLKFAO": "CARD"
+        "value": 1101,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -3128,23 +3128,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1618102308,
-    "AFDGJFKDNCJ": 11102,
+    "id": 11102,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -3159,20 +3159,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1102,
-        "DELBOOLKFAO": "CARD"
+        "value": 1102,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -3181,23 +3181,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 995450124,
-    "AFDGJFKDNCJ": 11103,
+    "id": 11103,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -3212,20 +3212,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1103,
-        "DELBOOLKFAO": "CARD"
+        "value": 1103,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -3234,23 +3234,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 741451804,
-    "AFDGJFKDNCJ": 11104,
+    "id": 11104,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -3265,20 +3265,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1104,
-        "DELBOOLKFAO": "CARD"
+        "value": 1104,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -3287,23 +3287,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1092165748,
-    "AFDGJFKDNCJ": 11105,
+    "id": 11105,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -3318,20 +3318,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1105,
-        "DELBOOLKFAO": "CARD"
+        "value": 1105,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -3340,23 +3340,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 2241829988,
-    "AFDGJFKDNCJ": 11106,
+    "id": 11106,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -3371,20 +3371,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1106,
-        "DELBOOLKFAO": "CARD"
+        "value": 1106,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -3393,23 +3393,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 83576980,
-    "AFDGJFKDNCJ": 11107,
+    "id": 11107,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -3424,20 +3424,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1107,
-        "DELBOOLKFAO": "CARD"
+        "value": 1107,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -3446,23 +3446,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 2349788452,
-    "AFDGJFKDNCJ": 11108,
+    "id": 11108,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -3477,20 +3477,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1108,
-        "DELBOOLKFAO": "CARD"
+        "value": 1108,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -3499,23 +3499,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1106646068,
-    "AFDGJFKDNCJ": 11109,
+    "id": 11109,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -3530,20 +3530,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1109,
-        "DELBOOLKFAO": "CARD"
+        "value": 1109,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -3552,23 +3552,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 129474788,
-    "AFDGJFKDNCJ": 11110,
+    "id": 11110,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -3583,20 +3583,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1110,
-        "DELBOOLKFAO": "CARD"
+        "value": 1110,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -3605,23 +3605,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1359216412,
-    "AFDGJFKDNCJ": 11111,
+    "id": 11111,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -3636,20 +3636,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1111,
-        "DELBOOLKFAO": "CARD"
+        "value": 1111,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -3658,23 +3658,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 4002097580,
-    "AFDGJFKDNCJ": 11112,
+    "id": 11112,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -3689,20 +3689,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1112,
-        "DELBOOLKFAO": "CARD"
+        "value": 1112,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -3711,23 +3711,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 2951111916,
-    "AFDGJFKDNCJ": 11113,
+    "id": 11113,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -3742,20 +3742,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1113,
-        "DELBOOLKFAO": "CARD"
+        "value": 1113,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -3764,23 +3764,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 3891514388,
-    "AFDGJFKDNCJ": 11201,
+    "id": 11201,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -3795,20 +3795,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1201,
-        "DELBOOLKFAO": "CARD"
+        "value": 1201,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -3817,23 +3817,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 2462697340,
-    "AFDGJFKDNCJ": 11202,
+    "id": 11202,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -3848,20 +3848,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1202,
-        "DELBOOLKFAO": "CARD"
+        "value": 1202,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -3870,23 +3870,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1940476828,
-    "AFDGJFKDNCJ": 11203,
+    "id": 11203,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -3901,20 +3901,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1203,
-        "DELBOOLKFAO": "CARD"
+        "value": 1203,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -3923,23 +3923,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1588962556,
-    "AFDGJFKDNCJ": 11204,
+    "id": 11204,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -3954,20 +3954,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1204,
-        "DELBOOLKFAO": "CARD"
+        "value": 1204,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -3976,23 +3976,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 21308412,
-    "AFDGJFKDNCJ": 11205,
+    "id": 11205,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -4007,20 +4007,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1205,
-        "DELBOOLKFAO": "CARD"
+        "value": 1205,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -4029,23 +4029,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 112647300,
-    "AFDGJFKDNCJ": 11206,
+    "id": 11206,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -4060,20 +4060,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1206,
-        "DELBOOLKFAO": "CARD"
+        "value": 1206,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -4082,23 +4082,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 356288204,
-    "AFDGJFKDNCJ": 11207,
+    "id": 11207,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -4113,20 +4113,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1207,
-        "DELBOOLKFAO": "CARD"
+        "value": 1207,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -4135,23 +4135,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1736840676,
-    "AFDGJFKDNCJ": 11208,
+    "id": 11208,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -4166,20 +4166,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1208,
-        "DELBOOLKFAO": "CARD"
+        "value": 1208,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -4188,23 +4188,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 667426604,
-    "AFDGJFKDNCJ": 11209,
+    "id": 11209,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -4219,20 +4219,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1209,
-        "DELBOOLKFAO": "CARD"
+        "value": 1209,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -4241,23 +4241,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 4044940244,
-    "AFDGJFKDNCJ": 11210,
+    "id": 11210,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -4272,20 +4272,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1210,
-        "DELBOOLKFAO": "CARD"
+        "value": 1210,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -4294,23 +4294,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 2765660644,
-    "AFDGJFKDNCJ": 11211,
+    "id": 11211,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -4325,20 +4325,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1211,
-        "DELBOOLKFAO": "CARD"
+        "value": 1211,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -4347,23 +4347,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1188716796,
-    "AFDGJFKDNCJ": 11213,
+    "id": 11213,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -4378,20 +4378,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1213,
-        "DELBOOLKFAO": "CARD"
+        "value": 1213,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -4400,23 +4400,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 4275687924,
-    "AFDGJFKDNCJ": 11214,
+    "id": 11214,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -4431,18 +4431,18 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1214,
-        "DELBOOLKFAO": "CARD"
+        "value": 1214,
+        "type": "CARD"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -4451,23 +4451,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 2187416700,
-    "AFDGJFKDNCJ": 11301,
+    "id": 11301,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -4482,20 +4482,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1301,
-        "DELBOOLKFAO": "CARD"
+        "value": 1301,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -4504,23 +4504,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 569355852,
-    "AFDGJFKDNCJ": 11302,
+    "id": 11302,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -4535,20 +4535,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1302,
-        "DELBOOLKFAO": "CARD"
+        "value": 1302,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -4557,23 +4557,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 2306117116,
-    "AFDGJFKDNCJ": 11303,
+    "id": 11303,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -4588,20 +4588,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1303,
-        "DELBOOLKFAO": "CARD"
+        "value": 1303,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -4610,23 +4610,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 3924532140,
-    "AFDGJFKDNCJ": 11304,
+    "id": 11304,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -4641,20 +4641,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1304,
-        "DELBOOLKFAO": "CARD"
+        "value": 1304,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -4663,23 +4663,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1271786756,
-    "AFDGJFKDNCJ": 11305,
+    "id": 11305,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -4694,20 +4694,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1305,
-        "DELBOOLKFAO": "CARD"
+        "value": 1305,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -4716,23 +4716,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 636341932,
-    "AFDGJFKDNCJ": 11306,
+    "id": 11306,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -4747,20 +4747,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1306,
-        "DELBOOLKFAO": "CARD"
+        "value": 1306,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -4769,23 +4769,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 2999101228,
-    "AFDGJFKDNCJ": 11307,
+    "id": 11307,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -4800,20 +4800,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1307,
-        "DELBOOLKFAO": "CARD"
+        "value": 1307,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -4822,23 +4822,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1273933660,
-    "AFDGJFKDNCJ": 11308,
+    "id": 11308,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -4853,20 +4853,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1308,
-        "DELBOOLKFAO": "CARD"
+        "value": 1308,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -4875,23 +4875,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1863855028,
-    "AFDGJFKDNCJ": 11309,
+    "id": 11309,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -4906,20 +4906,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1309,
-        "DELBOOLKFAO": "CARD"
+        "value": 1309,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -4928,23 +4928,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1593722892,
-    "AFDGJFKDNCJ": 11310,
+    "id": 11310,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -4959,20 +4959,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1310,
-        "DELBOOLKFAO": "CARD"
+        "value": 1310,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -4981,23 +4981,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 2456697204,
-    "AFDGJFKDNCJ": 11311,
+    "id": 11311,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -5012,20 +5012,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1311,
-        "DELBOOLKFAO": "CARD"
+        "value": 1311,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -5034,23 +5034,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1430245820,
-    "AFDGJFKDNCJ": 11312,
+    "id": 11312,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -5065,20 +5065,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1312,
-        "DELBOOLKFAO": "CARD"
+        "value": 1312,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -5087,23 +5087,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1037139004,
-    "AFDGJFKDNCJ": 11313,
+    "id": 11313,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -5118,18 +5118,18 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1313,
-        "DELBOOLKFAO": "CARD"
+        "value": 1313,
+        "type": "CARD"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -5138,23 +5138,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 3650724692,
-    "AFDGJFKDNCJ": 11314,
+    "id": 11314,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -5169,20 +5169,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1314,
-        "DELBOOLKFAO": "CARD"
+        "value": 1314,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -5191,23 +5191,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 2222741388,
-    "AFDGJFKDNCJ": 11401,
+    "id": 11401,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -5222,20 +5222,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1401,
-        "DELBOOLKFAO": "CARD"
+        "value": 1401,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -5244,23 +5244,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 2252053156,
-    "AFDGJFKDNCJ": 11402,
+    "id": 11402,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -5275,20 +5275,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1402,
-        "DELBOOLKFAO": "CARD"
+        "value": 1402,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -5297,23 +5297,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 3858117948,
-    "AFDGJFKDNCJ": 11403,
+    "id": 11403,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -5328,20 +5328,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1403,
-        "DELBOOLKFAO": "CARD"
+        "value": 1403,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -5350,23 +5350,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 3987221668,
-    "AFDGJFKDNCJ": 11404,
+    "id": 11404,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -5381,20 +5381,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1404,
-        "DELBOOLKFAO": "CARD"
+        "value": 1404,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -5403,23 +5403,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1764567684,
-    "AFDGJFKDNCJ": 11405,
+    "id": 11405,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -5434,20 +5434,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1405,
-        "DELBOOLKFAO": "CARD"
+        "value": 1405,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -5456,23 +5456,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 195068036,
-    "AFDGJFKDNCJ": 11406,
+    "id": 11406,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -5487,20 +5487,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1406,
-        "DELBOOLKFAO": "CARD"
+        "value": 1406,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -5509,23 +5509,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 3710202356,
-    "AFDGJFKDNCJ": 11407,
+    "id": 11407,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -5540,20 +5540,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1407,
-        "DELBOOLKFAO": "CARD"
+        "value": 1407,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -5562,23 +5562,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 420903852,
-    "AFDGJFKDNCJ": 11408,
+    "id": 11408,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -5593,20 +5593,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1408,
-        "DELBOOLKFAO": "CARD"
+        "value": 1408,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -5615,23 +5615,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 3014134164,
-    "AFDGJFKDNCJ": 11409,
+    "id": 11409,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -5646,20 +5646,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1409,
-        "DELBOOLKFAO": "CARD"
+        "value": 1409,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -5668,23 +5668,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 274943204,
-    "AFDGJFKDNCJ": 11410,
+    "id": 11410,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -5699,20 +5699,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1410,
-        "DELBOOLKFAO": "CARD"
+        "value": 1410,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -5721,23 +5721,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 2647438556,
-    "AFDGJFKDNCJ": 11411,
+    "id": 11411,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -5752,20 +5752,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1411,
-        "DELBOOLKFAO": "CARD"
+        "value": 1411,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -5774,23 +5774,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 3988743612,
-    "AFDGJFKDNCJ": 11412,
+    "id": 11412,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -5805,20 +5805,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1412,
-        "DELBOOLKFAO": "CARD"
+        "value": 1412,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -5827,23 +5827,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 4070747052,
-    "AFDGJFKDNCJ": 11501,
+    "id": 11501,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -5858,20 +5858,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1501,
-        "DELBOOLKFAO": "CARD"
+        "value": 1501,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -5880,23 +5880,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 3531161900,
-    "AFDGJFKDNCJ": 11502,
+    "id": 11502,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -5911,20 +5911,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1502,
-        "DELBOOLKFAO": "CARD"
+        "value": 1502,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -5933,23 +5933,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 286075188,
-    "AFDGJFKDNCJ": 11503,
+    "id": 11503,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -5964,20 +5964,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1503,
-        "DELBOOLKFAO": "CARD"
+        "value": 1503,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -5986,23 +5986,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 3088011652,
-    "AFDGJFKDNCJ": 11504,
+    "id": 11504,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -6017,20 +6017,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1504,
-        "DELBOOLKFAO": "CARD"
+        "value": 1504,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -6039,23 +6039,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 2655898468,
-    "AFDGJFKDNCJ": 11505,
+    "id": 11505,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -6070,20 +6070,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1505,
-        "DELBOOLKFAO": "CARD"
+        "value": 1505,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -6092,23 +6092,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 3950623404,
-    "AFDGJFKDNCJ": 11506,
+    "id": 11506,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -6123,20 +6123,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1506,
-        "DELBOOLKFAO": "CARD"
+        "value": 1506,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -6145,23 +6145,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 3558325220,
-    "AFDGJFKDNCJ": 11507,
+    "id": 11507,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -6176,20 +6176,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1507,
-        "DELBOOLKFAO": "CARD"
+        "value": 1507,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -6198,23 +6198,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1815416268,
-    "AFDGJFKDNCJ": 11508,
+    "id": 11508,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -6229,20 +6229,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1508,
-        "DELBOOLKFAO": "CARD"
+        "value": 1508,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -6251,23 +6251,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1968916668,
-    "AFDGJFKDNCJ": 11509,
+    "id": 11509,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -6282,20 +6282,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1509,
-        "DELBOOLKFAO": "CARD"
+        "value": 1509,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -6304,23 +6304,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 3610313012,
-    "AFDGJFKDNCJ": 11510,
+    "id": 11510,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -6335,20 +6335,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1510,
-        "DELBOOLKFAO": "CARD"
+        "value": 1510,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -6357,23 +6357,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 920155404,
-    "AFDGJFKDNCJ": 11601,
+    "id": 11601,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -6388,20 +6388,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1601,
-        "DELBOOLKFAO": "CARD"
+        "value": 1601,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -6410,23 +6410,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1123328548,
-    "AFDGJFKDNCJ": 11602,
+    "id": 11602,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -6441,20 +6441,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1602,
-        "DELBOOLKFAO": "CARD"
+        "value": 1602,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -6463,23 +6463,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 760886892,
-    "AFDGJFKDNCJ": 11603,
+    "id": 11603,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -6494,20 +6494,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1603,
-        "DELBOOLKFAO": "CARD"
+        "value": 1603,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -6516,23 +6516,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1429116004,
-    "AFDGJFKDNCJ": 11604,
+    "id": 11604,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -6547,20 +6547,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1604,
-        "DELBOOLKFAO": "CARD"
+        "value": 1604,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -6569,23 +6569,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1928991164,
-    "AFDGJFKDNCJ": 11605,
+    "id": 11605,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -6600,20 +6600,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1605,
-        "DELBOOLKFAO": "CARD"
+        "value": 1605,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -6622,23 +6622,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 2098938788,
-    "AFDGJFKDNCJ": 11606,
+    "id": 11606,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -6653,20 +6653,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1606,
-        "DELBOOLKFAO": "CARD"
+        "value": 1606,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -6675,23 +6675,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 2179354532,
-    "AFDGJFKDNCJ": 11607,
+    "id": 11607,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -6706,20 +6706,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1607,
-        "DELBOOLKFAO": "CARD"
+        "value": 1607,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -6728,23 +6728,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 3163176300,
-    "AFDGJFKDNCJ": 11608,
+    "id": 11608,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -6759,20 +6759,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1608,
-        "DELBOOLKFAO": "CARD"
+        "value": 1608,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -6781,23 +6781,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1017279980,
-    "AFDGJFKDNCJ": 11609,
+    "id": 11609,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -6812,20 +6812,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1609,
-        "DELBOOLKFAO": "CARD"
+        "value": 1609,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -6834,23 +6834,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 149748212,
-    "AFDGJFKDNCJ": 11610,
+    "id": 11610,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -6865,18 +6865,18 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1610,
-        "DELBOOLKFAO": "CARD"
+        "value": 1610,
+        "type": "CARD"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -6885,23 +6885,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 2756531924,
-    "AFDGJFKDNCJ": 11701,
+    "id": 11701,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -6916,20 +6916,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1701,
-        "DELBOOLKFAO": "CARD"
+        "value": 1701,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -6938,23 +6938,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1164259364,
-    "AFDGJFKDNCJ": 11702,
+    "id": 11702,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -6969,20 +6969,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1702,
-        "DELBOOLKFAO": "CARD"
+        "value": 1702,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -6991,23 +6991,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 3556149268,
-    "AFDGJFKDNCJ": 11703,
+    "id": 11703,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -7022,20 +7022,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1703,
-        "DELBOOLKFAO": "CARD"
+        "value": 1703,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -7044,23 +7044,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1139539948,
-    "AFDGJFKDNCJ": 11704,
+    "id": 11704,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -7075,20 +7075,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1704,
-        "DELBOOLKFAO": "CARD"
+        "value": 1704,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -7097,23 +7097,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 3010697332,
-    "AFDGJFKDNCJ": 11705,
+    "id": 11705,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -7128,20 +7128,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1705,
-        "DELBOOLKFAO": "CARD"
+        "value": 1705,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -7150,23 +7150,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 193181532,
-    "AFDGJFKDNCJ": 11706,
+    "id": 11706,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -7181,20 +7181,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1706,
-        "DELBOOLKFAO": "CARD"
+        "value": 1706,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -7203,23 +7203,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 2472070412,
-    "AFDGJFKDNCJ": 11707,
+    "id": 11707,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -7234,20 +7234,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1707,
-        "DELBOOLKFAO": "CARD"
+        "value": 1707,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -7256,23 +7256,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 972284324,
-    "AFDGJFKDNCJ": 11708,
+    "id": 11708,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -7287,20 +7287,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1708,
-        "DELBOOLKFAO": "CARD"
+        "value": 1708,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -7309,23 +7309,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 3081974036,
-    "AFDGJFKDNCJ": 11709,
+    "id": 11709,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -7340,18 +7340,18 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1709,
-        "DELBOOLKFAO": "CARD"
+        "value": 1709,
+        "type": "CARD"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -7360,23 +7360,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 2896671236,
-    "AFDGJFKDNCJ": 11710,
+    "id": 11710,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -7391,18 +7391,18 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 1710,
-        "DELBOOLKFAO": "CARD"
+        "value": 1710,
+        "type": "CARD"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -7411,23 +7411,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 734694492,
-    "AFDGJFKDNCJ": 12101,
+    "id": 12101,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -7442,20 +7442,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 2101,
-        "DELBOOLKFAO": "CARD"
+        "value": 2101,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -7464,23 +7464,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 4195867964,
-    "AFDGJFKDNCJ": 12102,
+    "id": 12102,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -7495,19 +7495,19 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 2102,
-        "DELBOOLKFAO": "CARD"
+        "value": 2102,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -7516,23 +7516,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1746955620,
-    "AFDGJFKDNCJ": 12103,
+    "id": 12103,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -7547,19 +7547,19 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 2103,
-        "DELBOOLKFAO": "CARD"
+        "value": 2103,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -7568,23 +7568,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1552107212,
-    "AFDGJFKDNCJ": 12104,
+    "id": 12104,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -7599,20 +7599,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 2104,
-        "DELBOOLKFAO": "CARD"
+        "value": 2104,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -7621,23 +7621,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1402804460,
-    "AFDGJFKDNCJ": 12201,
+    "id": 12201,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -7652,20 +7652,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 2201,
-        "DELBOOLKFAO": "CARD"
+        "value": 2201,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -7674,23 +7674,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 4015981380,
-    "AFDGJFKDNCJ": 12202,
+    "id": 12202,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -7705,20 +7705,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 2202,
-        "DELBOOLKFAO": "CARD"
+        "value": 2202,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -7727,23 +7727,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 373318444,
-    "AFDGJFKDNCJ": 12203,
+    "id": 12203,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -7758,20 +7758,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 2203,
-        "DELBOOLKFAO": "CARD"
+        "value": 2203,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -7780,23 +7780,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 3449815892,
-    "AFDGJFKDNCJ": 12204,
+    "id": 12204,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -7811,20 +7811,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 2204,
-        "DELBOOLKFAO": "CARD"
+        "value": 2204,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -7833,23 +7833,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1057794060,
-    "AFDGJFKDNCJ": 12205,
+    "id": 12205,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -7864,20 +7864,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 2205,
-        "DELBOOLKFAO": "CARD"
+        "value": 2205,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -7886,23 +7886,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 3196067324,
-    "AFDGJFKDNCJ": 12301,
+    "id": 12301,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -7917,20 +7917,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 2301,
-        "DELBOOLKFAO": "CARD"
+        "value": 2301,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -7939,23 +7939,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1541842116,
-    "AFDGJFKDNCJ": 12302,
+    "id": 12302,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -7970,20 +7970,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 2302,
-        "DELBOOLKFAO": "CARD"
+        "value": 2302,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -7992,23 +7992,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 3551387964,
-    "AFDGJFKDNCJ": 12303,
+    "id": 12303,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -8023,20 +8023,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 2303,
-        "DELBOOLKFAO": "CARD"
+        "value": 2303,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -8045,23 +8045,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 254114636,
-    "AFDGJFKDNCJ": 12304,
+    "id": 12304,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -8076,20 +8076,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 2304,
-        "DELBOOLKFAO": "CARD"
+        "value": 2304,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -8098,23 +8098,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 2883334652,
-    "AFDGJFKDNCJ": 12401,
+    "id": 12401,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -8129,20 +8129,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 2401,
-        "DELBOOLKFAO": "CARD"
+        "value": 2401,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -8151,23 +8151,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 130817852,
-    "AFDGJFKDNCJ": 12402,
+    "id": 12402,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -8182,20 +8182,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 2402,
-        "DELBOOLKFAO": "CARD"
+        "value": 2402,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -8204,23 +8204,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 2596570068,
-    "AFDGJFKDNCJ": 12403,
+    "id": 12403,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -8235,19 +8235,19 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 2403,
-        "DELBOOLKFAO": "CARD"
+        "value": 2403,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -8256,23 +8256,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 3932035412,
-    "AFDGJFKDNCJ": 12404,
+    "id": 12404,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -8287,20 +8287,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 2404,
-        "DELBOOLKFAO": "CARD"
+        "value": 2404,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -8309,23 +8309,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 2586684044,
-    "AFDGJFKDNCJ": 12405,
+    "id": 12405,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -8340,18 +8340,18 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 2405,
-        "DELBOOLKFAO": "CARD"
+        "value": 2405,
+        "type": "CARD"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -8360,23 +8360,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 3230750268,
-    "AFDGJFKDNCJ": 12406,
+    "id": 12406,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -8391,18 +8391,18 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 2406,
-        "DELBOOLKFAO": "CARD"
+        "value": 2406,
+        "type": "CARD"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -8411,23 +8411,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 522393036,
-    "AFDGJFKDNCJ": 12501,
+    "id": 12501,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -8442,20 +8442,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 2501,
-        "DELBOOLKFAO": "CARD"
+        "value": 2501,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -8464,23 +8464,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 2162737932,
-    "AFDGJFKDNCJ": 12502,
+    "id": 12502,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -8495,20 +8495,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 2502,
-        "DELBOOLKFAO": "CARD"
+        "value": 2502,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -8517,23 +8517,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 610674092,
-    "AFDGJFKDNCJ": 12503,
+    "id": 12503,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -8548,18 +8548,18 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 2503,
-        "DELBOOLKFAO": "CARD"
+        "value": 2503,
+        "type": "CARD"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -8568,23 +8568,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 2066468396,
-    "AFDGJFKDNCJ": 12601,
+    "id": 12601,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -8599,20 +8599,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 2601,
-        "DELBOOLKFAO": "CARD"
+        "value": 2601,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -8621,23 +8621,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 180978452,
-    "AFDGJFKDNCJ": 12603,
+    "id": 12603,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -8652,20 +8652,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 2603,
-        "DELBOOLKFAO": "CARD"
+        "value": 2603,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -8674,23 +8674,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1175705604,
-    "AFDGJFKDNCJ": 12701,
+    "id": 12701,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -8705,20 +8705,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 2701,
-        "DELBOOLKFAO": "CARD"
+        "value": 2701,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -8727,23 +8727,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 3660433332,
-    "AFDGJFKDNCJ": 12702,
+    "id": 12702,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -8758,18 +8758,18 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 2702,
-        "DELBOOLKFAO": "CARD"
+        "value": 2702,
+        "type": "CARD"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ],
     "OJEECKEEPNC": [
@@ -8778,23 +8778,23 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   },
   {
     "ABIPJAONMEF": 1385611116,
-    "AFDGJFKDNCJ": 12703,
+    "id": 12703,
     "AGEFPDNDGIK": [
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       },
       {
-        "DELBOOLKFAO": "NONE",
+        "type": "NONE",
         "FCIIEJJBDLP": "GCG_TAG_NONE"
       }
     ],
@@ -8809,20 +8809,20 @@
     ],
     "FAHKKJKIIMH": [
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "IS_ALIVE_CHARACTER"
+        "value": 1,
+        "type": "IS_ALIVE_CHARACTER"
       },
       {
-        "CMEOJJCIBDE": 2703,
-        "DELBOOLKFAO": "CARD"
+        "value": 2703,
+        "type": "CARD"
       },
       {
-        "CMEOJJCIBDE": 5,
-        "DELBOOLKFAO": "NOT_HAS_MODIFY_STATE_WITH_TAG"
+        "value": 5,
+        "type": "NOT_HAS_MODIFY_STATE_WITH_TAG"
       },
       {
-        "CMEOJJCIBDE": 1,
-        "DELBOOLKFAO": "ONSTAGE"
+        "value": 1,
+        "type": "ONSTAGE"
       }
     ],
     "OJEECKEEPNC": [
@@ -8831,10 +8831,10 @@
     ],
     "PGCJJBKBDOE": [
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       },
       {
-        "DELBOOLKFAO": "NONE"
+        "type": "NONE"
       }
     ]
   }

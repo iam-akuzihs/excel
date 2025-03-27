@@ -11,7 +11,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 1,
+    "level": 1,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -21,7 +21,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 2,
+    "level": 2,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -31,17 +31,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 3,
-    "GMHADDBIEHK": true,
-    "HINMNMBPFEN": 10,
-    "NKPOMDAAGLB": 1,
-    "PEEBEPHFEIH": -10,
-    "PHAECGMDOIG": 1,
-    "PIBIEBBFANK": 40
-  },
-  {
-    "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 4,
+    "level": 3,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -51,17 +41,27 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 5,
+    "level": 4,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
     "PEEBEPHFEIH": -10,
     "PHAECGMDOIG": 1,
+    "PIBIEBBFANK": 40
+  },
+  {
+    "APOGAAHFCAD": 15,
+    "level": 5,
+    "GMHADDBIEHK": true,
+    "HINMNMBPFEN": 10,
+    "NKPOMDAAGLB": 1,
+    "PEEBEPHFEIH": -10,
+    "PHAECGMDOIG": 1,
     "PIBIEBBFANK": 50
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 6,
+    "level": 6,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -71,7 +71,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 7,
+    "level": 7,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -81,7 +81,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 8,
+    "level": 8,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -91,7 +91,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 9,
+    "level": 9,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -101,7 +101,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 10,
+    "level": 10,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -111,7 +111,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 11,
+    "level": 11,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -121,7 +121,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 12,
+    "level": 12,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -131,7 +131,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 13,
+    "level": 13,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -141,7 +141,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 14,
+    "level": 14,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -151,7 +151,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 15,
+    "level": 15,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -161,7 +161,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 16,
+    "level": 16,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -171,7 +171,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 17,
+    "level": 17,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -181,7 +181,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 18,
+    "level": 18,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -191,7 +191,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 19,
+    "level": 19,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -201,7 +201,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 20,
+    "level": 20,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -211,7 +211,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 21,
+    "level": 21,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -221,7 +221,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 22,
+    "level": 22,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -231,7 +231,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 23,
+    "level": 23,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -241,7 +241,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 24,
+    "level": 24,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -251,7 +251,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 25,
+    "level": 25,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -261,7 +261,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 26,
+    "level": 26,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -271,7 +271,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 27,
+    "level": 27,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -281,7 +281,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 28,
+    "level": 28,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -291,7 +291,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 29,
+    "level": 29,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -301,7 +301,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 30,
+    "level": 30,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -311,7 +311,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 31,
+    "level": 31,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -321,7 +321,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 32,
+    "level": 32,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -331,7 +331,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 33,
+    "level": 33,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -341,7 +341,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 34,
+    "level": 34,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -351,7 +351,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 35,
+    "level": 35,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -361,7 +361,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 36,
+    "level": 36,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -371,7 +371,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 37,
+    "level": 37,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -381,7 +381,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 38,
+    "level": 38,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -391,7 +391,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 39,
+    "level": 39,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -401,7 +401,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 40,
+    "level": 40,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -411,7 +411,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 41,
+    "level": 41,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -421,7 +421,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 42,
+    "level": 42,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -431,7 +431,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 43,
+    "level": 43,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -441,7 +441,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 44,
+    "level": 44,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -451,7 +451,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 45,
+    "level": 45,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -461,7 +461,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 46,
+    "level": 46,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -471,7 +471,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 47,
+    "level": 47,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -481,7 +481,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 48,
+    "level": 48,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -491,7 +491,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 49,
+    "level": 49,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -501,7 +501,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 50,
+    "level": 50,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -511,7 +511,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 51,
+    "level": 51,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -521,7 +521,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 52,
+    "level": 52,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -531,7 +531,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 53,
+    "level": 53,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -541,7 +541,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 54,
+    "level": 54,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -551,7 +551,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 55,
+    "level": 55,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -561,7 +561,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 56,
+    "level": 56,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -571,7 +571,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 57,
+    "level": 57,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -581,7 +581,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 58,
+    "level": 58,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -591,7 +591,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 59,
+    "level": 59,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -601,7 +601,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 60,
+    "level": 60,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -611,7 +611,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 61,
+    "level": 61,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -621,7 +621,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 62,
+    "level": 62,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -631,7 +631,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 63,
+    "level": 63,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -641,7 +641,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 64,
+    "level": 64,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -651,7 +651,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 65,
+    "level": 65,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -661,7 +661,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 66,
+    "level": 66,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -671,7 +671,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 67,
+    "level": 67,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -681,7 +681,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 68,
+    "level": 68,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -691,7 +691,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 69,
+    "level": 69,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -701,7 +701,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 70,
+    "level": 70,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -711,7 +711,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 71,
+    "level": 71,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -721,7 +721,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 72,
+    "level": 72,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -731,7 +731,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 73,
+    "level": 73,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -741,7 +741,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 74,
+    "level": 74,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -751,7 +751,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 75,
+    "level": 75,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -761,7 +761,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 76,
+    "level": 76,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -771,7 +771,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 77,
+    "level": 77,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -781,7 +781,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 78,
+    "level": 78,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -791,7 +791,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 79,
+    "level": 79,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -801,7 +801,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 80,
+    "level": 80,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -811,7 +811,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 81,
+    "level": 81,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -821,7 +821,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 82,
+    "level": 82,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -831,7 +831,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 83,
+    "level": 83,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -841,7 +841,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 84,
+    "level": 84,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -851,7 +851,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 85,
+    "level": 85,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -861,7 +861,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 86,
+    "level": 86,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -871,7 +871,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 87,
+    "level": 87,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -881,7 +881,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 88,
+    "level": 88,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -891,7 +891,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 89,
+    "level": 89,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -901,7 +901,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 90,
+    "level": 90,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -911,7 +911,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 91,
+    "level": 91,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -921,7 +921,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 92,
+    "level": 92,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -931,7 +931,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 93,
+    "level": 93,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -941,7 +941,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 94,
+    "level": 94,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -951,7 +951,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 95,
+    "level": 95,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -961,7 +961,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 96,
+    "level": 96,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -971,7 +971,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 97,
+    "level": 97,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -981,7 +981,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 98,
+    "level": 98,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -991,7 +991,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 99,
+    "level": 99,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1001,7 +1001,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 100,
+    "level": 100,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1011,7 +1011,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 101,
+    "level": 101,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1021,7 +1021,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 102,
+    "level": 102,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1031,7 +1031,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 103,
+    "level": 103,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1041,7 +1041,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 104,
+    "level": 104,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1051,7 +1051,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 105,
+    "level": 105,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1061,7 +1061,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 106,
+    "level": 106,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1071,7 +1071,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 107,
+    "level": 107,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1081,7 +1081,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 108,
+    "level": 108,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1091,7 +1091,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 109,
+    "level": 109,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1101,7 +1101,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 110,
+    "level": 110,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1111,7 +1111,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 111,
+    "level": 111,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1121,7 +1121,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 112,
+    "level": 112,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1131,7 +1131,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 113,
+    "level": 113,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1141,7 +1141,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 114,
+    "level": 114,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1151,7 +1151,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 115,
+    "level": 115,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1161,7 +1161,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 116,
+    "level": 116,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1171,7 +1171,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 117,
+    "level": 117,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1181,7 +1181,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 118,
+    "level": 118,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1191,7 +1191,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 119,
+    "level": 119,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1201,7 +1201,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 120,
+    "level": 120,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1211,7 +1211,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 121,
+    "level": 121,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1221,7 +1221,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 122,
+    "level": 122,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1231,7 +1231,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 123,
+    "level": 123,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1241,7 +1241,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 124,
+    "level": 124,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1251,7 +1251,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 125,
+    "level": 125,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1261,7 +1261,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 126,
+    "level": 126,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1271,7 +1271,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 127,
+    "level": 127,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1281,7 +1281,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 128,
+    "level": 128,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1291,7 +1291,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 129,
+    "level": 129,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1301,7 +1301,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 130,
+    "level": 130,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1311,7 +1311,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 131,
+    "level": 131,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1321,7 +1321,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 132,
+    "level": 132,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1331,7 +1331,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 133,
+    "level": 133,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1341,7 +1341,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 134,
+    "level": 134,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1351,7 +1351,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 135,
+    "level": 135,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1361,7 +1361,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 136,
+    "level": 136,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1371,7 +1371,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 137,
+    "level": 137,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1381,7 +1381,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 138,
+    "level": 138,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1391,7 +1391,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 139,
+    "level": 139,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1401,7 +1401,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 140,
+    "level": 140,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1411,7 +1411,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 141,
+    "level": 141,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1421,7 +1421,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 142,
+    "level": 142,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1431,7 +1431,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 143,
+    "level": 143,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1441,7 +1441,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 144,
+    "level": 144,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1451,7 +1451,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 145,
+    "level": 145,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1461,7 +1461,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 146,
+    "level": 146,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1471,7 +1471,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 147,
+    "level": 147,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1481,7 +1481,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 148,
+    "level": 148,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1491,7 +1491,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 149,
+    "level": 149,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1501,7 +1501,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 150,
+    "level": 150,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1511,7 +1511,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 151,
+    "level": 151,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1521,7 +1521,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 152,
+    "level": 152,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1531,7 +1531,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 153,
+    "level": 153,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1541,7 +1541,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 154,
+    "level": 154,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1551,7 +1551,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 155,
+    "level": 155,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1561,7 +1561,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 156,
+    "level": 156,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1571,7 +1571,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 157,
+    "level": 157,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1581,7 +1581,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 158,
+    "level": 158,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1591,7 +1591,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 159,
+    "level": 159,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1601,7 +1601,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 160,
+    "level": 160,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1611,7 +1611,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 161,
+    "level": 161,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1621,7 +1621,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 162,
+    "level": 162,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1631,7 +1631,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 163,
+    "level": 163,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1641,7 +1641,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 164,
+    "level": 164,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1651,7 +1651,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 165,
+    "level": 165,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1661,7 +1661,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 166,
+    "level": 166,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1671,7 +1671,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 167,
+    "level": 167,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1681,7 +1681,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 168,
+    "level": 168,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1691,7 +1691,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 169,
+    "level": 169,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1701,7 +1701,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 170,
+    "level": 170,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1711,7 +1711,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 171,
+    "level": 171,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1721,7 +1721,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 172,
+    "level": 172,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1731,7 +1731,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 173,
+    "level": 173,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1741,7 +1741,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 174,
+    "level": 174,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1751,7 +1751,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 175,
+    "level": 175,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1761,7 +1761,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 176,
+    "level": 176,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1771,7 +1771,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 177,
+    "level": 177,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1781,7 +1781,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 178,
+    "level": 178,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1791,7 +1791,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 179,
+    "level": 179,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1801,7 +1801,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 180,
+    "level": 180,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1811,7 +1811,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 181,
+    "level": 181,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1821,7 +1821,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 182,
+    "level": 182,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1831,7 +1831,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 183,
+    "level": 183,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1841,7 +1841,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 184,
+    "level": 184,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1851,7 +1851,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 185,
+    "level": 185,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1861,7 +1861,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 186,
+    "level": 186,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1871,7 +1871,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 187,
+    "level": 187,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1881,7 +1881,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 188,
+    "level": 188,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1891,7 +1891,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 189,
+    "level": 189,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1901,7 +1901,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 190,
+    "level": 190,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1911,7 +1911,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 191,
+    "level": 191,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1921,7 +1921,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 192,
+    "level": 192,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1931,7 +1931,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 193,
+    "level": 193,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1941,7 +1941,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 194,
+    "level": 194,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1951,7 +1951,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 195,
+    "level": 195,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1961,7 +1961,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 196,
+    "level": 196,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1971,7 +1971,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 197,
+    "level": 197,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1981,7 +1981,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 198,
+    "level": 198,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -1991,7 +1991,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 199,
+    "level": 199,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2001,7 +2001,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 200,
+    "level": 200,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2011,7 +2011,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 201,
+    "level": 201,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2021,7 +2021,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 202,
+    "level": 202,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2031,7 +2031,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 203,
+    "level": 203,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2041,7 +2041,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 204,
+    "level": 204,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2051,7 +2051,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 205,
+    "level": 205,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2061,7 +2061,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 206,
+    "level": 206,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2071,7 +2071,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 207,
+    "level": 207,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2081,7 +2081,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 208,
+    "level": 208,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2091,7 +2091,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 209,
+    "level": 209,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2101,7 +2101,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 210,
+    "level": 210,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2111,7 +2111,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 211,
+    "level": 211,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2121,7 +2121,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 212,
+    "level": 212,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2131,7 +2131,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 213,
+    "level": 213,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2141,7 +2141,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 214,
+    "level": 214,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2151,7 +2151,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 215,
+    "level": 215,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2161,7 +2161,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 216,
+    "level": 216,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2171,7 +2171,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 217,
+    "level": 217,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2181,7 +2181,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 218,
+    "level": 218,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2191,7 +2191,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 219,
+    "level": 219,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2201,7 +2201,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 220,
+    "level": 220,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2211,7 +2211,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 221,
+    "level": 221,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2221,7 +2221,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 222,
+    "level": 222,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2231,7 +2231,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 223,
+    "level": 223,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2241,7 +2241,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 224,
+    "level": 224,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2251,7 +2251,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 225,
+    "level": 225,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2261,7 +2261,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 226,
+    "level": 226,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2271,7 +2271,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 227,
+    "level": 227,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2281,7 +2281,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 228,
+    "level": 228,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2291,7 +2291,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 229,
+    "level": 229,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2301,7 +2301,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 230,
+    "level": 230,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2311,7 +2311,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 231,
+    "level": 231,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2321,7 +2321,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 232,
+    "level": 232,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2331,7 +2331,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 233,
+    "level": 233,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2341,7 +2341,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 234,
+    "level": 234,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2351,7 +2351,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 235,
+    "level": 235,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2361,7 +2361,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 236,
+    "level": 236,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2371,7 +2371,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 237,
+    "level": 237,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2381,7 +2381,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 238,
+    "level": 238,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2391,7 +2391,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 239,
+    "level": 239,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2401,7 +2401,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 240,
+    "level": 240,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2411,7 +2411,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 241,
+    "level": 241,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2421,7 +2421,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 242,
+    "level": 242,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2431,7 +2431,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 243,
+    "level": 243,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2441,7 +2441,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 244,
+    "level": 244,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2451,7 +2451,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 245,
+    "level": 245,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2461,7 +2461,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 246,
+    "level": 246,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2471,7 +2471,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 247,
+    "level": 247,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2481,7 +2481,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 248,
+    "level": 248,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2491,7 +2491,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 249,
+    "level": 249,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2501,7 +2501,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 250,
+    "level": 250,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2511,7 +2511,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 251,
+    "level": 251,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2521,7 +2521,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 252,
+    "level": 252,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2531,7 +2531,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 253,
+    "level": 253,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2541,7 +2541,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 254,
+    "level": 254,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2551,7 +2551,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 255,
+    "level": 255,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2561,7 +2561,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 256,
+    "level": 256,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2571,7 +2571,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 257,
+    "level": 257,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2581,7 +2581,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 258,
+    "level": 258,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2591,7 +2591,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 259,
+    "level": 259,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2601,7 +2601,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 260,
+    "level": 260,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2611,7 +2611,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 261,
+    "level": 261,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2621,7 +2621,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 262,
+    "level": 262,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2631,7 +2631,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 263,
+    "level": 263,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2641,7 +2641,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 264,
+    "level": 264,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2651,7 +2651,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 265,
+    "level": 265,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2661,7 +2661,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 266,
+    "level": 266,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2671,7 +2671,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 267,
+    "level": 267,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2681,7 +2681,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 268,
+    "level": 268,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2691,7 +2691,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 269,
+    "level": 269,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2701,7 +2701,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 270,
+    "level": 270,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2711,7 +2711,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 271,
+    "level": 271,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2721,7 +2721,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 272,
+    "level": 272,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2731,7 +2731,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 273,
+    "level": 273,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2741,7 +2741,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 274,
+    "level": 274,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2751,7 +2751,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 275,
+    "level": 275,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2761,7 +2761,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 276,
+    "level": 276,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2771,7 +2771,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 277,
+    "level": 277,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2781,7 +2781,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 278,
+    "level": 278,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2791,7 +2791,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 279,
+    "level": 279,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2801,7 +2801,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 280,
+    "level": 280,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2811,7 +2811,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 281,
+    "level": 281,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2821,7 +2821,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 282,
+    "level": 282,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2831,7 +2831,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 283,
+    "level": 283,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2841,7 +2841,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 284,
+    "level": 284,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2851,7 +2851,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 285,
+    "level": 285,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2861,7 +2861,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 286,
+    "level": 286,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2871,7 +2871,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 287,
+    "level": 287,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2881,7 +2881,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 288,
+    "level": 288,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2891,7 +2891,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 289,
+    "level": 289,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2901,7 +2901,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 290,
+    "level": 290,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2911,7 +2911,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 291,
+    "level": 291,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2921,7 +2921,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 292,
+    "level": 292,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2931,7 +2931,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 293,
+    "level": 293,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2941,7 +2941,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 294,
+    "level": 294,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2951,7 +2951,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 295,
+    "level": 295,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2961,7 +2961,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 296,
+    "level": 296,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2971,7 +2971,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 297,
+    "level": 297,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2981,7 +2981,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 298,
+    "level": 298,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -2991,7 +2991,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 299,
+    "level": 299,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3001,7 +3001,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": 300,
+    "level": 300,
     "GMHADDBIEHK": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3011,7 +3011,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -1,
+    "level": -1,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3021,7 +3021,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -2,
+    "level": -2,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3031,7 +3031,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -3,
+    "level": -3,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3041,7 +3041,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -4,
+    "level": -4,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3051,7 +3051,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -5,
+    "level": -5,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3061,7 +3061,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -6,
+    "level": -6,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3071,7 +3071,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -7,
+    "level": -7,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3081,7 +3081,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -8,
+    "level": -8,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3091,7 +3091,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -9,
+    "level": -9,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3101,7 +3101,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -10,
+    "level": -10,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3111,7 +3111,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -11,
+    "level": -11,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3121,7 +3121,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -12,
+    "level": -12,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3131,7 +3131,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -13,
+    "level": -13,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3141,7 +3141,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -14,
+    "level": -14,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3151,7 +3151,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -15,
+    "level": -15,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3161,7 +3161,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -16,
+    "level": -16,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3171,7 +3171,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -17,
+    "level": -17,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3181,7 +3181,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -18,
+    "level": -18,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3191,7 +3191,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -19,
+    "level": -19,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3201,7 +3201,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -20,
+    "level": -20,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3211,7 +3211,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -21,
+    "level": -21,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3221,7 +3221,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -22,
+    "level": -22,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3231,7 +3231,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -23,
+    "level": -23,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3241,7 +3241,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -24,
+    "level": -24,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3251,7 +3251,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -25,
+    "level": -25,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3261,7 +3261,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -26,
+    "level": -26,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3271,7 +3271,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -27,
+    "level": -27,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3281,7 +3281,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -28,
+    "level": -28,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3291,7 +3291,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -29,
+    "level": -29,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3301,7 +3301,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -30,
+    "level": -30,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3311,7 +3311,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -31,
+    "level": -31,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3321,7 +3321,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -32,
+    "level": -32,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3331,7 +3331,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -33,
+    "level": -33,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3341,7 +3341,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -34,
+    "level": -34,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3351,7 +3351,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -35,
+    "level": -35,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3361,7 +3361,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -36,
+    "level": -36,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3371,7 +3371,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -37,
+    "level": -37,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3381,7 +3381,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -38,
+    "level": -38,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3391,7 +3391,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -39,
+    "level": -39,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3401,7 +3401,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -40,
+    "level": -40,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3411,7 +3411,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -41,
+    "level": -41,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3421,7 +3421,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -42,
+    "level": -42,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3431,7 +3431,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -43,
+    "level": -43,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3441,7 +3441,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -44,
+    "level": -44,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3451,7 +3451,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -45,
+    "level": -45,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3461,7 +3461,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -46,
+    "level": -46,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3471,7 +3471,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -47,
+    "level": -47,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3481,7 +3481,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -48,
+    "level": -48,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3491,7 +3491,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -49,
+    "level": -49,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3501,7 +3501,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -50,
+    "level": -50,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3511,7 +3511,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -51,
+    "level": -51,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3521,7 +3521,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -52,
+    "level": -52,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3531,7 +3531,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -53,
+    "level": -53,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3541,7 +3541,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -54,
+    "level": -54,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3551,7 +3551,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -55,
+    "level": -55,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3561,7 +3561,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -56,
+    "level": -56,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3571,7 +3571,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -57,
+    "level": -57,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3581,7 +3581,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -58,
+    "level": -58,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3591,7 +3591,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -59,
+    "level": -59,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3601,7 +3601,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -60,
+    "level": -60,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3611,7 +3611,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -61,
+    "level": -61,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3621,7 +3621,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -62,
+    "level": -62,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3631,7 +3631,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -63,
+    "level": -63,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3641,7 +3641,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -64,
+    "level": -64,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3651,7 +3651,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -65,
+    "level": -65,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3661,7 +3661,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -66,
+    "level": -66,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3671,7 +3671,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -67,
+    "level": -67,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3681,7 +3681,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -68,
+    "level": -68,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3691,7 +3691,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -69,
+    "level": -69,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3701,7 +3701,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -70,
+    "level": -70,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3711,7 +3711,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -71,
+    "level": -71,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3721,7 +3721,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -72,
+    "level": -72,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3731,7 +3731,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -73,
+    "level": -73,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3741,7 +3741,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -74,
+    "level": -74,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3751,7 +3751,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -75,
+    "level": -75,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3761,7 +3761,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -76,
+    "level": -76,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3771,7 +3771,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -77,
+    "level": -77,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3781,7 +3781,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -78,
+    "level": -78,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3791,7 +3791,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -79,
+    "level": -79,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3801,7 +3801,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -80,
+    "level": -80,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3811,7 +3811,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -81,
+    "level": -81,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3821,7 +3821,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -82,
+    "level": -82,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3831,7 +3831,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -83,
+    "level": -83,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3841,7 +3841,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -84,
+    "level": -84,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3851,7 +3851,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -85,
+    "level": -85,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3861,7 +3861,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -86,
+    "level": -86,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3871,7 +3871,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -87,
+    "level": -87,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3881,7 +3881,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -88,
+    "level": -88,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3891,7 +3891,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -89,
+    "level": -89,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3901,7 +3901,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -90,
+    "level": -90,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3911,7 +3911,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -91,
+    "level": -91,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3921,7 +3921,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -92,
+    "level": -92,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3931,7 +3931,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -93,
+    "level": -93,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3941,7 +3941,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -94,
+    "level": -94,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3951,7 +3951,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -95,
+    "level": -95,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3961,7 +3961,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -96,
+    "level": -96,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3971,7 +3971,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -97,
+    "level": -97,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3981,7 +3981,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -98,
+    "level": -98,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -3991,7 +3991,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -99,
+    "level": -99,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4001,7 +4001,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -100,
+    "level": -100,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4011,7 +4011,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -101,
+    "level": -101,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4021,7 +4021,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -102,
+    "level": -102,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4031,7 +4031,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -103,
+    "level": -103,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4041,7 +4041,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -104,
+    "level": -104,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4051,7 +4051,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -105,
+    "level": -105,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4061,7 +4061,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -106,
+    "level": -106,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4071,7 +4071,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -107,
+    "level": -107,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4081,7 +4081,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -108,
+    "level": -108,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4091,7 +4091,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -109,
+    "level": -109,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4101,7 +4101,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -110,
+    "level": -110,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4111,7 +4111,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -111,
+    "level": -111,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4121,7 +4121,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -112,
+    "level": -112,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4131,7 +4131,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -113,
+    "level": -113,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4141,7 +4141,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -114,
+    "level": -114,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4151,7 +4151,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -115,
+    "level": -115,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4161,7 +4161,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -116,
+    "level": -116,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4171,7 +4171,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -117,
+    "level": -117,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4181,7 +4181,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -118,
+    "level": -118,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4191,7 +4191,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -119,
+    "level": -119,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4201,7 +4201,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -120,
+    "level": -120,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4211,7 +4211,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -121,
+    "level": -121,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4221,7 +4221,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -122,
+    "level": -122,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4231,7 +4231,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -123,
+    "level": -123,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4241,7 +4241,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -124,
+    "level": -124,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4251,7 +4251,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -125,
+    "level": -125,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4261,7 +4261,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -126,
+    "level": -126,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4271,7 +4271,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -127,
+    "level": -127,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4281,7 +4281,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -128,
+    "level": -128,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4291,7 +4291,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -129,
+    "level": -129,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4301,7 +4301,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -130,
+    "level": -130,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4311,7 +4311,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -131,
+    "level": -131,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4321,7 +4321,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -132,
+    "level": -132,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4331,7 +4331,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -133,
+    "level": -133,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4341,7 +4341,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -134,
+    "level": -134,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4351,7 +4351,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -135,
+    "level": -135,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4361,7 +4361,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -136,
+    "level": -136,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4371,7 +4371,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -137,
+    "level": -137,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4381,7 +4381,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -138,
+    "level": -138,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4391,7 +4391,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -139,
+    "level": -139,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4401,7 +4401,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -140,
+    "level": -140,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4411,7 +4411,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -141,
+    "level": -141,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4421,7 +4421,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -142,
+    "level": -142,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4431,7 +4431,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -143,
+    "level": -143,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4441,7 +4441,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -144,
+    "level": -144,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4451,7 +4451,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -145,
+    "level": -145,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4461,7 +4461,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -146,
+    "level": -146,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4471,7 +4471,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -147,
+    "level": -147,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4481,7 +4481,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -148,
+    "level": -148,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4491,7 +4491,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -149,
+    "level": -149,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4501,7 +4501,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -150,
+    "level": -150,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4511,7 +4511,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -151,
+    "level": -151,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4521,7 +4521,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -152,
+    "level": -152,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4531,7 +4531,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -153,
+    "level": -153,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4541,7 +4541,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -154,
+    "level": -154,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4551,7 +4551,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -155,
+    "level": -155,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4561,7 +4561,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -156,
+    "level": -156,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4571,7 +4571,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -157,
+    "level": -157,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4581,7 +4581,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -158,
+    "level": -158,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4591,7 +4591,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -159,
+    "level": -159,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4601,7 +4601,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -160,
+    "level": -160,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4611,7 +4611,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -161,
+    "level": -161,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4621,7 +4621,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -162,
+    "level": -162,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4631,7 +4631,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -163,
+    "level": -163,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4641,7 +4641,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -164,
+    "level": -164,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4651,7 +4651,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -165,
+    "level": -165,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4661,7 +4661,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -166,
+    "level": -166,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4671,7 +4671,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -167,
+    "level": -167,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4681,7 +4681,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -168,
+    "level": -168,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4691,7 +4691,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -169,
+    "level": -169,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4701,7 +4701,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -170,
+    "level": -170,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4711,7 +4711,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -171,
+    "level": -171,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4721,7 +4721,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -172,
+    "level": -172,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4731,7 +4731,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -173,
+    "level": -173,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4741,7 +4741,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -174,
+    "level": -174,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4751,7 +4751,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -175,
+    "level": -175,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4761,7 +4761,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -176,
+    "level": -176,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4771,7 +4771,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -177,
+    "level": -177,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4781,7 +4781,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -178,
+    "level": -178,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4791,7 +4791,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -179,
+    "level": -179,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4801,7 +4801,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -180,
+    "level": -180,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4811,7 +4811,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -181,
+    "level": -181,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4821,7 +4821,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -182,
+    "level": -182,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4831,7 +4831,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -183,
+    "level": -183,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4841,7 +4841,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -184,
+    "level": -184,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4851,7 +4851,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -185,
+    "level": -185,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4861,7 +4861,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -186,
+    "level": -186,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4871,7 +4871,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -187,
+    "level": -187,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4881,7 +4881,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -188,
+    "level": -188,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4891,7 +4891,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -189,
+    "level": -189,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4901,7 +4901,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -190,
+    "level": -190,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4911,7 +4911,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -191,
+    "level": -191,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4921,7 +4921,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -192,
+    "level": -192,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4931,7 +4931,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -193,
+    "level": -193,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4941,7 +4941,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -194,
+    "level": -194,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4951,7 +4951,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -195,
+    "level": -195,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4961,7 +4961,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -196,
+    "level": -196,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4971,7 +4971,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -197,
+    "level": -197,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4981,7 +4981,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -198,
+    "level": -198,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -4991,7 +4991,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -199,
+    "level": -199,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5001,7 +5001,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -200,
+    "level": -200,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5011,7 +5011,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -201,
+    "level": -201,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5021,7 +5021,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -202,
+    "level": -202,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5031,7 +5031,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -203,
+    "level": -203,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5041,7 +5041,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -204,
+    "level": -204,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5051,7 +5051,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -205,
+    "level": -205,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5061,7 +5061,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -206,
+    "level": -206,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5071,7 +5071,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -207,
+    "level": -207,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5081,7 +5081,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -208,
+    "level": -208,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5091,7 +5091,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -209,
+    "level": -209,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5101,7 +5101,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -210,
+    "level": -210,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5111,7 +5111,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -211,
+    "level": -211,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5121,7 +5121,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -212,
+    "level": -212,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5131,7 +5131,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -213,
+    "level": -213,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5141,7 +5141,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -214,
+    "level": -214,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5151,7 +5151,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -215,
+    "level": -215,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5161,7 +5161,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -216,
+    "level": -216,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5171,7 +5171,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -217,
+    "level": -217,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5181,7 +5181,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -218,
+    "level": -218,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5191,7 +5191,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -219,
+    "level": -219,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5201,7 +5201,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -220,
+    "level": -220,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5211,7 +5211,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -221,
+    "level": -221,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5221,7 +5221,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -222,
+    "level": -222,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5231,7 +5231,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -223,
+    "level": -223,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5241,7 +5241,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -224,
+    "level": -224,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5251,7 +5251,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -225,
+    "level": -225,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5261,7 +5261,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -226,
+    "level": -226,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5271,7 +5271,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -227,
+    "level": -227,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5281,7 +5281,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -228,
+    "level": -228,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5291,7 +5291,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -229,
+    "level": -229,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5301,7 +5301,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -230,
+    "level": -230,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5311,7 +5311,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -231,
+    "level": -231,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5321,7 +5321,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -232,
+    "level": -232,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5331,7 +5331,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -233,
+    "level": -233,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5341,7 +5341,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -234,
+    "level": -234,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5351,7 +5351,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -235,
+    "level": -235,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5361,7 +5361,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -236,
+    "level": -236,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5371,7 +5371,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -237,
+    "level": -237,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5381,7 +5381,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -238,
+    "level": -238,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5391,7 +5391,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -239,
+    "level": -239,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5401,7 +5401,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -240,
+    "level": -240,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5411,7 +5411,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -241,
+    "level": -241,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5421,7 +5421,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -242,
+    "level": -242,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5431,7 +5431,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -243,
+    "level": -243,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5441,7 +5441,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -244,
+    "level": -244,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5451,7 +5451,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -245,
+    "level": -245,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5461,7 +5461,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -246,
+    "level": -246,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5471,7 +5471,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -247,
+    "level": -247,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5481,7 +5481,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -248,
+    "level": -248,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5491,7 +5491,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -249,
+    "level": -249,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5501,7 +5501,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -250,
+    "level": -250,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5511,7 +5511,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -251,
+    "level": -251,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5521,7 +5521,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -252,
+    "level": -252,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5531,7 +5531,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -253,
+    "level": -253,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5541,7 +5541,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -254,
+    "level": -254,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5551,7 +5551,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -255,
+    "level": -255,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5561,7 +5561,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -256,
+    "level": -256,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5571,7 +5571,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -257,
+    "level": -257,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5581,7 +5581,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -258,
+    "level": -258,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5591,7 +5591,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -259,
+    "level": -259,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5601,7 +5601,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -260,
+    "level": -260,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5611,7 +5611,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -261,
+    "level": -261,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5621,7 +5621,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -262,
+    "level": -262,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5631,7 +5631,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -263,
+    "level": -263,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5641,7 +5641,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -264,
+    "level": -264,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5651,7 +5651,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -265,
+    "level": -265,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5661,7 +5661,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -266,
+    "level": -266,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5671,7 +5671,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -267,
+    "level": -267,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5681,7 +5681,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -268,
+    "level": -268,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5691,7 +5691,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -269,
+    "level": -269,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5701,7 +5701,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -270,
+    "level": -270,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5711,7 +5711,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -271,
+    "level": -271,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5721,7 +5721,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -272,
+    "level": -272,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5731,7 +5731,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -273,
+    "level": -273,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5741,7 +5741,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -274,
+    "level": -274,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5751,7 +5751,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -275,
+    "level": -275,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5761,7 +5761,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -276,
+    "level": -276,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5771,7 +5771,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -277,
+    "level": -277,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5781,7 +5781,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -278,
+    "level": -278,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5791,7 +5791,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -279,
+    "level": -279,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5801,7 +5801,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -280,
+    "level": -280,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5811,7 +5811,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -281,
+    "level": -281,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5821,7 +5821,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -282,
+    "level": -282,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5831,7 +5831,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -283,
+    "level": -283,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5841,7 +5841,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -284,
+    "level": -284,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5851,7 +5851,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -285,
+    "level": -285,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5861,7 +5861,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -286,
+    "level": -286,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5871,7 +5871,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -287,
+    "level": -287,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5881,7 +5881,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -288,
+    "level": -288,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5891,7 +5891,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -289,
+    "level": -289,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5901,7 +5901,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -290,
+    "level": -290,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5911,7 +5911,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -291,
+    "level": -291,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5921,7 +5921,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -292,
+    "level": -292,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5931,7 +5931,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -293,
+    "level": -293,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5941,7 +5941,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -294,
+    "level": -294,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5951,7 +5951,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -295,
+    "level": -295,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5961,7 +5961,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -296,
+    "level": -296,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5971,7 +5971,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -297,
+    "level": -297,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5981,7 +5981,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -298,
+    "level": -298,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -5991,7 +5991,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -299,
+    "level": -299,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,
@@ -6001,7 +6001,7 @@
   },
   {
     "APOGAAHFCAD": 15,
-    "BHFAPOEDIDB": -300,
+    "level": -300,
     "EKAMGIGBAKD": true,
     "HINMNMBPFEN": 10,
     "NKPOMDAAGLB": 1,

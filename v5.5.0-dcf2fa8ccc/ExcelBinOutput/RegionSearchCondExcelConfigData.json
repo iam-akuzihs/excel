@@ -2,7 +2,7 @@
   {
     "CGNNAEDKMEE": "LOGIC_AND",
     "DAOHMMPOFEM": 15,
-    "ELKKIAIGOBK": 10010101,
+    "id": 10010101,
     "FIONOFJGLGK": 1199144944,
     "FNOACPLNNAG": [
       3102001
@@ -12,14 +12,14 @@
     "KDMCKEILGLO": 2574141246,
     "OECBCDEOJMM": [
       {
-        "DELBOOLKFAO": "REGION_SEARCH_COND_ACTIVITY_COND",
+        "type": "REGION_SEARCH_COND_ACTIVITY_COND",
         "LJNDHEEHIBD": [
           5020,
           5020002
         ]
       },
       {
-        "DELBOOLKFAO": "REGION_SEARCH_COND_NONE"
+        "type": "REGION_SEARCH_COND_NONE"
       }
     ],
     "OEHBPLOCHBD": 600018,
@@ -28,7 +28,7 @@
   {
     "CGNNAEDKMEE": "LOGIC_AND",
     "DAOHMMPOFEM": 15,
-    "ELKKIAIGOBK": 10010102,
+    "id": 10010102,
     "FIONOFJGLGK": 2113245480,
     "FNOACPLNNAG": [
       3002001
@@ -38,14 +38,14 @@
     "KDMCKEILGLO": 103706502,
     "OECBCDEOJMM": [
       {
-        "DELBOOLKFAO": "REGION_SEARCH_COND_ACTIVITY_COND",
+        "type": "REGION_SEARCH_COND_ACTIVITY_COND",
         "LJNDHEEHIBD": [
           5020,
           5020004
         ]
       },
       {
-        "DELBOOLKFAO": "REGION_SEARCH_COND_FINISH_SEARCH",
+        "type": "REGION_SEARCH_COND_FINISH_SEARCH",
         "LJNDHEEHIBD": [
           10010101
         ]
@@ -57,7 +57,7 @@
   {
     "CGNNAEDKMEE": "LOGIC_AND",
     "DAOHMMPOFEM": 15,
-    "ELKKIAIGOBK": 10010103,
+    "id": 10010103,
     "FIONOFJGLGK": 1398222568,
     "FNOACPLNNAG": [
       3105001
@@ -67,14 +67,14 @@
     "KDMCKEILGLO": 3420015438,
     "OECBCDEOJMM": [
       {
-        "DELBOOLKFAO": "REGION_SEARCH_COND_ACTIVITY_COND",
+        "type": "REGION_SEARCH_COND_ACTIVITY_COND",
         "LJNDHEEHIBD": [
           5020,
           5020005
         ]
       },
       {
-        "DELBOOLKFAO": "REGION_SEARCH_COND_FINISH_SEARCH",
+        "type": "REGION_SEARCH_COND_FINISH_SEARCH",
         "LJNDHEEHIBD": [
           10010102
         ]
@@ -86,7 +86,7 @@
   {
     "CGNNAEDKMEE": "LOGIC_AND",
     "DAOHMMPOFEM": 15,
-    "ELKKIAIGOBK": 10010104,
+    "id": 10010104,
     "FIONOFJGLGK": 2267120984,
     "FNOACPLNNAG": [
       3104001
@@ -96,14 +96,14 @@
     "KDMCKEILGLO": 3911306934,
     "OECBCDEOJMM": [
       {
-        "DELBOOLKFAO": "REGION_SEARCH_COND_ACTIVITY_COND",
+        "type": "REGION_SEARCH_COND_ACTIVITY_COND",
         "LJNDHEEHIBD": [
           5020,
           5020006
         ]
       },
       {
-        "DELBOOLKFAO": "REGION_SEARCH_COND_FINISH_SEARCH",
+        "type": "REGION_SEARCH_COND_FINISH_SEARCH",
         "LJNDHEEHIBD": [
           10010103
         ]
@@ -115,7 +115,7 @@
   {
     "CGNNAEDKMEE": "LOGIC_AND",
     "DAOHMMPOFEM": 15,
-    "ELKKIAIGOBK": 10010105,
+    "id": 10010105,
     "FIONOFJGLGK": 30987984,
     "FNOACPLNNAG": [
       3101001
@@ -125,14 +125,14 @@
     "KDMCKEILGLO": 3072707206,
     "OECBCDEOJMM": [
       {
-        "DELBOOLKFAO": "REGION_SEARCH_COND_ACTIVITY_COND",
+        "type": "REGION_SEARCH_COND_ACTIVITY_COND",
         "LJNDHEEHIBD": [
           5020,
           5020007
         ]
       },
       {
-        "DELBOOLKFAO": "REGION_SEARCH_COND_FINISH_SEARCH",
+        "type": "REGION_SEARCH_COND_FINISH_SEARCH",
         "LJNDHEEHIBD": [
           10010104
         ]

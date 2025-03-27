@@ -13,13 +13,13 @@
     "JBMHJKGJDBI": "WIDGET_SEEKER_TARGET_SEELIE",
     "JFMKHBCPJNB": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           2
         ],
-        "DELBOOLKFAO": "WIDGET_SEEKER_REMOVE_DISTANCE_LESS"
+        "type": "WIDGET_SEEKER_REMOVE_DISTANCE_LESS"
       },
       {
-        "DELBOOLKFAO": "WIDGET_SEEKER_REMOVE_NONE"
+        "type": "WIDGET_SEEKER_REMOVE_NONE"
       }
     ],
     "KKGAGFFCMJG": "MarkClientDetectorSeelie"
@@ -59,13 +59,13 @@
     "JBMHJKGJDBI": "WIDGET_SEEKER_TARGET_CHALLENGE",
     "JFMKHBCPJNB": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           2
         ],
-        "DELBOOLKFAO": "WIDGET_SEEKER_REMOVE_DISTANCE_LESS"
+        "type": "WIDGET_SEEKER_REMOVE_DISTANCE_LESS"
       },
       {
-        "DELBOOLKFAO": "WIDGET_SEEKER_REMOVE_STATE_ID_INEQUAL"
+        "type": "WIDGET_SEEKER_REMOVE_STATE_ID_INEQUAL"
       }
     ],
     "KKGAGFFCMJG": "MarkClientDetectorChallenge",
@@ -82,13 +82,13 @@
     "JBMHJKGJDBI": "WIDGET_SEEKER_TARGET_WARM_SEELIE",
     "JFMKHBCPJNB": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           2
         ],
-        "DELBOOLKFAO": "WIDGET_SEEKER_REMOVE_DISTANCE_LESS"
+        "type": "WIDGET_SEEKER_REMOVE_DISTANCE_LESS"
       },
       {
-        "DELBOOLKFAO": "WIDGET_SEEKER_REMOVE_NONE"
+        "type": "WIDGET_SEEKER_REMOVE_NONE"
       }
     ],
     "KKGAGFFCMJG": "MarkClientDetectorSeelie"
@@ -104,13 +104,13 @@
     "JBMHJKGJDBI": "WIDGET_SEEKER_TARGET_THUNDERSEED",
     "JFMKHBCPJNB": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           2
         ],
-        "DELBOOLKFAO": "WIDGET_SEEKER_REMOVE_DISTANCE_LESS"
+        "type": "WIDGET_SEEKER_REMOVE_DISTANCE_LESS"
       },
       {
-        "DELBOOLKFAO": "WIDGET_SEEKER_REMOVE_STATE_ID_INEQUAL"
+        "type": "WIDGET_SEEKER_REMOVE_STATE_ID_INEQUAL"
       }
     ],
     "KKGAGFFCMJG": "MarkClientDetectorSeelie"
@@ -127,13 +127,13 @@
     "JBMHJKGJDBI": "WIDGET_SEEKER_TARGET_GRAFFITI_SEELIE",
     "JFMKHBCPJNB": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           2
         ],
-        "DELBOOLKFAO": "WIDGET_SEEKER_REMOVE_DISTANCE_LESS"
+        "type": "WIDGET_SEEKER_REMOVE_DISTANCE_LESS"
       },
       {
-        "DELBOOLKFAO": "WIDGET_SEEKER_REMOVE_NONE"
+        "type": "WIDGET_SEEKER_REMOVE_NONE"
       }
     ],
     "KKGAGFFCMJG": "MarkClientDetectorSeelie"
@@ -200,13 +200,13 @@
     "JBMHJKGJDBI": "WIDGET_SEEKER_TARGET_CHEST",
     "JFMKHBCPJNB": [
       {
-        "CAAIICCCNKH": [
+        "paramList": [
           102
         ],
-        "DELBOOLKFAO": "WIDGET_SEEKER_REMOVE_STATE_ID_EQUAL"
+        "type": "WIDGET_SEEKER_REMOVE_STATE_ID_EQUAL"
       },
       {
-        "DELBOOLKFAO": "WIDGET_SEEKER_REMOVE_NONE"
+        "type": "WIDGET_SEEKER_REMOVE_NONE"
       }
     ],
     "KCAMNELGKPJ": true,

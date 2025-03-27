@@ -1,15 +1,15 @@
 [
   {
-    "BGIHPNEDFOL": "Btn_Vehicle_Skiff_CannonFire_Small",
+    "skillIcon": "Btn_Vehicle_Skiff_CannonFire_Small",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10011,
     "HIHOFGBBBFE": 3160031319,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
     "KGEJCHEDPDA": 1,
-    "LJGKGNKPBJG": "Vehicle_Skiff_FireCannon_Small",
-    "LNCNHHBDMIK": "CircleLockEnemyR50H15BC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Skiff_FireCannon_Small",
+    "lockShape": "CircleLockEnemyR50H15BC",
+    "lockWeightParams": [
       1,
       1,
       0.1
@@ -17,16 +17,16 @@
     "OADOAPKCOCE": 1793916363
   },
   {
-    "BGIHPNEDFOL": "Btn_Vehicle_Skiff_CannonFire_Big",
+    "skillIcon": "Btn_Vehicle_Skiff_CannonFire_Big",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10012,
     "HIHOFGBBBFE": 2681213991,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
     "KGEJCHEDPDA": 15,
-    "LJGKGNKPBJG": "Vehicle_Skiff_FireCannon_Big",
-    "LNCNHHBDMIK": "CircleLockEnemyR50H15BC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Skiff_FireCannon_Big",
+    "lockShape": "CircleLockEnemyR50H15BC",
+    "lockWeightParams": [
       1,
       1,
       0.1
@@ -34,36 +34,36 @@
     "OADOAPKCOCE": 3413724019
   },
   {
-    "BGIHPNEDFOL": "Skill_SummerTimeV2_03",
+    "skillIcon": "Skill_SummerTimeV2_03",
     "EIHAFIEOBLO": "Point",
     "EJPPJHDMLEM": 10101,
     "HIHOFGBBBFE": 919125991,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
     "IOFGOPBHFMB": 10,
     "KGEJCHEDPDA": 1,
-    "LJGKGNKPBJG": "Vehicle_Skiff_Normal_BurstSprint",
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Skiff_Normal_BurstSprint",
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
     ],
     "OADOAPKCOCE": 1400400699,
-    "OGMGGHKLNDF": "_ABILITY_Skiff_SprintValue",
+    "globalValueKey": "_ABILITY_Skiff_SprintValue",
     "PIDPPKGELOK": 30
   },
   {
-    "BGIHPNEDFOL": "Skill_SummerTimeV2_02",
+    "skillIcon": "Skill_SummerTimeV2_02",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10102,
     "HIHOFGBBBFE": 3696565551,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
     "KGEJCHEDPDA": 3,
-    "LJGKGNKPBJG": "Vehicle_Skiff_Normal_WindHole",
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Skiff_Normal_WindHole",
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
@@ -71,135 +71,135 @@
     "OADOAPKCOCE": 891269963
   },
   {
-    "BGIHPNEDFOL": "Skill_LanV3_Icon04",
+    "skillIcon": "Skill_LanV3_Icon04",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10104,
     "HIHOFGBBBFE": 127506431,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
     "IOFGOPBHFMB": 100,
     "KGEJCHEDPDA": 1,
-    "LJGKGNKPBJG": "Vehicle_Skiff_LanV3BoatGame_Fog",
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Skiff_LanV3BoatGame_Fog",
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
     ],
     "OADOAPKCOCE": 3804483835,
-    "OGMGGHKLNDF": "_ABILITY_LanV3BoatGame_Skill_Energy",
+    "globalValueKey": "_ABILITY_LanV3BoatGame_Skill_Energy",
     "PIDPPKGELOK": 100
   },
   {
-    "BGIHPNEDFOL": "Skill_SummerTimeV2_02",
+    "skillIcon": "Skill_SummerTimeV2_02",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10105,
     "HIHOFGBBBFE": 2508142215,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
     "IOFGOPBHFMB": 100,
     "KGEJCHEDPDA": 1,
-    "LJGKGNKPBJG": "Vehicle_Skiff_LanV3BoatGame_Coin_Absorb",
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Skiff_LanV3BoatGame_Coin_Absorb",
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
     ],
     "OADOAPKCOCE": 2141115963,
-    "OGMGGHKLNDF": "_ABILITY_LanV3BoatGame_Skill_Energy",
+    "globalValueKey": "_ABILITY_LanV3BoatGame_Skill_Energy",
     "PIDPPKGELOK": 100
   },
   {
-    "BGIHPNEDFOL": "Skill_LanV3_Icon02",
+    "skillIcon": "Skill_LanV3_Icon02",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10106,
     "HIHOFGBBBFE": 2461853359,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
     "IOFGOPBHFMB": 100,
     "KGEJCHEDPDA": 1,
-    "LJGKGNKPBJG": "Vehicle_Skiff_LanV3BoatGame_Shield",
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Skiff_LanV3BoatGame_Shield",
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
     ],
     "OADOAPKCOCE": 711127403,
-    "OGMGGHKLNDF": "_ABILITY_LanV3BoatGame_Skill_Energy",
+    "globalValueKey": "_ABILITY_LanV3BoatGame_Skill_Energy",
     "PIDPPKGELOK": 100
   },
   {
-    "BGIHPNEDFOL": "Skill_LanV3_Icon03",
+    "skillIcon": "Skill_LanV3_Icon03",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10107,
     "HIHOFGBBBFE": 2496904943,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
     "IOFGOPBHFMB": 100,
     "KGEJCHEDPDA": 1,
-    "LJGKGNKPBJG": "Vehicle_Skiff_LanV3BoatGame_Vortex",
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Skiff_LanV3BoatGame_Vortex",
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
     ],
     "OADOAPKCOCE": 3970103419,
-    "OGMGGHKLNDF": "_ABILITY_LanV3BoatGame_Skill_Energy",
+    "globalValueKey": "_ABILITY_LanV3BoatGame_Skill_Energy",
     "PIDPPKGELOK": 100
   },
   {
-    "BGIHPNEDFOL": "Skill_SummerTimeV2_03",
+    "skillIcon": "Skill_SummerTimeV2_03",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10108,
     "HIHOFGBBBFE": 2862261279,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
     "IOFGOPBHFMB": 100,
     "KGEJCHEDPDA": 1,
-    "LJGKGNKPBJG": "Vehicle_Skiff_LanV3BoatGame_RushMove",
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Skiff_LanV3BoatGame_RushMove",
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
     ],
     "OADOAPKCOCE": 763121707,
-    "OGMGGHKLNDF": "_ABILITY_LanV3BoatGame_Skill_Energy",
+    "globalValueKey": "_ABILITY_LanV3BoatGame_Skill_Energy",
     "PIDPPKGELOK": 100
   },
   {
-    "BGIHPNEDFOL": "Skill_LanV3_Icon01",
+    "skillIcon": "Skill_LanV3_Icon01",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10109,
     "HIHOFGBBBFE": 3302742303,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
     "IOFGOPBHFMB": 100,
     "KGEJCHEDPDA": 1,
-    "LJGKGNKPBJG": "Vehicle_Skiff_LanV3BoatGame_Stamina_Recover",
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Skiff_LanV3BoatGame_Stamina_Recover",
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
     ],
     "OADOAPKCOCE": 2841245579,
-    "OGMGGHKLNDF": "_ABILITY_LanV3BoatGame_Skill_Energy",
+    "globalValueKey": "_ABILITY_LanV3BoatGame_Skill_Energy",
     "PIDPPKGELOK": 100
   },
   {
-    "BGIHPNEDFOL": "Btn_Sorush_Interactive",
+    "skillIcon": "Btn_Sorush_Interactive",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10201,
     "HIHOFGBBBFE": 893069895,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
     "KGEJCHEDPDA": 1,
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
@@ -207,36 +207,36 @@
     "OADOAPKCOCE": 1120026595
   },
   {
-    "BGIHPNEDFOL": "Btn_Sorush_Bomb",
+    "skillIcon": "Btn_Sorush_Bomb",
     "EIHAFIEOBLO": "Slider",
     "EJPPJHDMLEM": 10202,
     "HIHOFGBBBFE": 385910151,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
     "IOFGOPBHFMB": 10,
     "KGEJCHEDPDA": 1,
-    "LJGKGNKPBJG": "Vehicle_Sorush_ChargeSkill",
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Sorush_ChargeSkill",
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
     ],
     "OADOAPKCOCE": 1628397555,
-    "OGMGGHKLNDF": "_ABILITY_Sorush_ChargeSkillValue",
+    "globalValueKey": "_ABILITY_Sorush_ChargeSkillValue",
     "PIDPPKGELOK": 80
   },
   {
-    "BGIHPNEDFOL": "Btn_Sorush_Bomb",
+    "skillIcon": "Btn_Sorush_Bomb",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10301,
     "HIHOFGBBBFE": 440941895,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
     "KGEJCHEDPDA": 1,
-    "LJGKGNKPBJG": "ActivityAbility_Hitman_Sorush_FireBomb",
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "abilityName": "ActivityAbility_Hitman_Sorush_FireBomb",
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
@@ -244,16 +244,16 @@
     "OADOAPKCOCE": 3391501483
   },
   {
-    "BGIHPNEDFOL": "Btn_Sorush_Bomb",
+    "skillIcon": "Btn_Sorush_Bomb",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10302,
     "HIHOFGBBBFE": 520814919,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
     "KGEJCHEDPDA": 1,
-    "LJGKGNKPBJG": "ActivityAbility_Sorush_InfiniteBomb",
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "abilityName": "ActivityAbility_Sorush_InfiniteBomb",
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
@@ -261,16 +261,16 @@
     "OADOAPKCOCE": 148792891
   },
   {
-    "BGIHPNEDFOL": "Btn_Natsaurus_Drillhead_NormalAttack_01",
+    "skillIcon": "Btn_Natsaurus_Drillhead_NormalAttack_01",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10401,
     "HIHOFGBBBFE": 1714773671,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
     "KGEJCHEDPDA": 1,
-    "LJGKGNKPBJG": "Vehicle_Natsaurus_Drillhead_NormalAttack",
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Natsaurus_Drillhead_NormalAttack",
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
@@ -279,16 +279,16 @@
     "OFEDEDPKPIE": true
   },
   {
-    "BGIHPNEDFOL": "Btn_Natsaurus_Drillhead_ElementalArt_0l",
+    "skillIcon": "Btn_Natsaurus_Drillhead_ElementalArt_0l",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10402,
     "HIHOFGBBBFE": 318233359,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
     "KGEJCHEDPDA": 2.5,
-    "LJGKGNKPBJG": "Vehicle_Natsaurus_Drillhead_ElementalArt_01",
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Natsaurus_Drillhead_ElementalArt_01",
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
@@ -297,16 +297,16 @@
     "OFEDEDPKPIE": true
   },
   {
-    "BGIHPNEDFOL": "Btn_Natsaurus_Drillhead_ElementalArt_Exit",
+    "skillIcon": "Btn_Natsaurus_Drillhead_ElementalArt_Exit",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10403,
     "HIHOFGBBBFE": 52157359,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
     "KGEJCHEDPDA": 1,
-    "LJGKGNKPBJG": "Vehicle_Natsaurus_Drillhead_ElementalArt_Exit",
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Natsaurus_Drillhead_ElementalArt_Exit",
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
@@ -314,16 +314,16 @@
     "OADOAPKCOCE": 765186555
   },
   {
-    "BGIHPNEDFOL": "Btn_Natsaurus_Drillhead_NormalAttack_01",
+    "skillIcon": "Btn_Natsaurus_Drillhead_NormalAttack_01",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10404,
     "HIHOFGBBBFE": 3872869031,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
     "KGEJCHEDPDA": 1,
-    "LJGKGNKPBJG": "Vehicle_Natsaurus_Drillhead_NormalAttack_UnderGround",
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Natsaurus_Drillhead_NormalAttack_UnderGround",
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
@@ -332,16 +332,16 @@
     "OFEDEDPKPIE": true
   },
   {
-    "BGIHPNEDFOL": "Btn_Natsaurus_Drillhead_ElementalArt_MidAirToClimb",
+    "skillIcon": "Btn_Natsaurus_Drillhead_ElementalArt_MidAirToClimb",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10405,
     "HIHOFGBBBFE": 475001239,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
     "KGEJCHEDPDA": 1,
-    "LJGKGNKPBJG": "Vehicle_Natsaurus_Drillhead_ElementalArt_MidAirToClimb",
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Natsaurus_Drillhead_ElementalArt_MidAirToClimb",
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
@@ -349,16 +349,16 @@
     "OADOAPKCOCE": 492373331
   },
   {
-    "BGIHPNEDFOL": "Btn_Natsaurus_Drillhead_NormalAttack_01",
+    "skillIcon": "Btn_Natsaurus_Drillhead_NormalAttack_01",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10406,
     "HIHOFGBBBFE": 2644289703,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
     "KGEJCHEDPDA": 1,
-    "LJGKGNKPBJG": "Vehicle_Natsaurus_Drillhead_Small_NormalAttack",
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Natsaurus_Drillhead_Small_NormalAttack",
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
@@ -367,16 +367,16 @@
     "OFEDEDPKPIE": true
   },
   {
-    "BGIHPNEDFOL": "Btn_Natsaurus_Drillhead_ElementalArt_0l",
+    "skillIcon": "Btn_Natsaurus_Drillhead_ElementalArt_0l",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10407,
     "HIHOFGBBBFE": 2231752671,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
     "KGEJCHEDPDA": 2.5,
-    "LJGKGNKPBJG": "Vehicle_Natsaurus_Drillhead_Small_ElementalArt_01",
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Natsaurus_Drillhead_Small_ElementalArt_01",
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
@@ -385,16 +385,16 @@
     "OFEDEDPKPIE": true
   },
   {
-    "BGIHPNEDFOL": "Btn_Natsaurus_Drillhead_ElementalArt_Exit",
+    "skillIcon": "Btn_Natsaurus_Drillhead_ElementalArt_Exit",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10408,
     "HIHOFGBBBFE": 414868383,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
     "KGEJCHEDPDA": 1,
-    "LJGKGNKPBJG": "Vehicle_Natsaurus_Drillhead_Small_ElementalArt_Exit",
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Natsaurus_Drillhead_Small_ElementalArt_Exit",
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
@@ -402,16 +402,16 @@
     "OADOAPKCOCE": 334942179
   },
   {
-    "BGIHPNEDFOL": "Btn_Natsaurus_Drillhead_NormalAttack_01",
+    "skillIcon": "Btn_Natsaurus_Drillhead_NormalAttack_01",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10409,
     "HIHOFGBBBFE": 3255591111,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
     "KGEJCHEDPDA": 1,
-    "LJGKGNKPBJG": "Vehicle_Natsaurus_Drillhead_Small_NormalAttack_UnderGround",
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Natsaurus_Drillhead_Small_NormalAttack_UnderGround",
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
@@ -420,16 +420,16 @@
     "OFEDEDPKPIE": true
   },
   {
-    "BGIHPNEDFOL": "Btn_Natsaurus_Drillhead_NormalAttack_01",
+    "skillIcon": "Btn_Natsaurus_Drillhead_NormalAttack_01",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10411,
     "HIHOFGBBBFE": 854311047,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
     "KGEJCHEDPDA": 1,
-    "LJGKGNKPBJG": "Vehicle_Natsaurus_Drillhead_NormalAttack_01",
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Natsaurus_Drillhead_NormalAttack_01",
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
@@ -438,34 +438,34 @@
     "OFEDEDPKPIE": true
   },
   {
-    "BGIHPNEDFOL": "Btn_Natsaurus_Hookwalker_NormalAttack_01",
+    "skillIcon": "Btn_Natsaurus_Hookwalker_NormalAttack_01",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10501,
     "HIHOFGBBBFE": 2399822591,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
     "KGEJCHEDPDA": 1,
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
     ],
     "OADOAPKCOCE": 3721600179,
     "OFEDEDPKPIE": true,
-    "OLIBPDDKEKE": 1
+    "triggerID": 1
   },
   {
-    "BGIHPNEDFOL": "Btn_Natsaurus_Hookwalker_ElementalArt_01",
+    "skillIcon": "Btn_Natsaurus_Hookwalker_ElementalArt_01",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10502,
     "HIHOFGBBBFE": 4214794967,
-    "HJJDKEEHANK": "DRAG_ROTATE_CAMERA",
+    "dragType": "DRAG_ROTATE_CAMERA",
     "HNOFKHFCNNN": 1,
     "KGEJCHEDPDA": 6.5,
-    "LJGKGNKPBJG": "Vehicle_Natsaurus_Hookwalker_ElementalArt_01",
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Natsaurus_Hookwalker_ElementalArt_01",
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
@@ -474,32 +474,32 @@
     "OFEDEDPKPIE": true
   },
   {
-    "BGIHPNEDFOL": "Btn_Natsaurus_Hookwalker_AirAttack",
+    "skillIcon": "Btn_Natsaurus_Hookwalker_AirAttack",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10503,
     "HIHOFGBBBFE": 3423616895,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
     ],
     "OADOAPKCOCE": 2394860467,
-    "OLIBPDDKEKE": 30
+    "triggerID": 30
   },
   {
-    "BGIHPNEDFOL": "Btn_Natsaurus_Hookwalker_ElementalArt_02",
+    "skillIcon": "Btn_Natsaurus_Hookwalker_ElementalArt_02",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10504,
     "HIHOFGBBBFE": 2893127103,
-    "HJJDKEEHANK": "DRAG_ROTATE_CAMERA",
+    "dragType": "DRAG_ROTATE_CAMERA",
     "HNOFKHFCNNN": 1,
     "KGEJCHEDPDA": 0.5,
-    "LJGKGNKPBJG": "Vehicle_Natsaurus_Hookwalker_ElementalArt_02",
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Natsaurus_Hookwalker_ElementalArt_02",
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
@@ -508,16 +508,16 @@
     "OFEDEDPKPIE": true
   },
   {
-    "BGIHPNEDFOL": "Btn_Natsaurus_Hookwalker_ElementalArt_03",
+    "skillIcon": "Btn_Natsaurus_Hookwalker_ElementalArt_03",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10505,
     "HIHOFGBBBFE": 2877292031,
-    "HJJDKEEHANK": "DRAG_ROTATE_CAMERA",
+    "dragType": "DRAG_ROTATE_CAMERA",
     "HNOFKHFCNNN": 1,
     "KGEJCHEDPDA": 0.5,
-    "LJGKGNKPBJG": "Vehicle_Natsaurus_Hookwalker_ElementalArt_01",
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Natsaurus_Hookwalker_ElementalArt_01",
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
@@ -526,16 +526,16 @@
     "OFEDEDPKPIE": true
   },
   {
-    "BGIHPNEDFOL": "Btn_Natsaurus_Hookwalker_ElementalArt_Free",
+    "skillIcon": "Btn_Natsaurus_Hookwalker_ElementalArt_Free",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10506,
     "HIHOFGBBBFE": 2222639399,
-    "HJJDKEEHANK": "DRAG_ROTATE_CAMERA",
+    "dragType": "DRAG_ROTATE_CAMERA",
     "HNOFKHFCNNN": 1,
     "KGEJCHEDPDA": 0.5,
-    "LJGKGNKPBJG": "Vehicle_Natsaurus_Hookwalker_ElementalArt_Free",
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Natsaurus_Hookwalker_ElementalArt_Free",
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
@@ -544,16 +544,16 @@
     "OFEDEDPKPIE": true
   },
   {
-    "BGIHPNEDFOL": "Btn_Natsaurus_Mosasaurus_NormalAttack_01",
+    "skillIcon": "Btn_Natsaurus_Mosasaurus_NormalAttack_01",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10601,
     "HIHOFGBBBFE": 2561486311,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
     "KGEJCHEDPDA": 2,
-    "LJGKGNKPBJG": "Vehicle_Natsaurus_Mosasaurus_NormalAttack_01",
-    "LNCNHHBDMIK": "CircleLockEnemyR8H6HC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Natsaurus_Mosasaurus_NormalAttack_01",
+    "lockShape": "CircleLockEnemyR8H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
@@ -562,16 +562,16 @@
     "OFEDEDPKPIE": true
   },
   {
-    "BGIHPNEDFOL": "Btn_Natsaurus_Mosasaurus_NormalAttack_01",
+    "skillIcon": "Btn_Natsaurus_Mosasaurus_NormalAttack_01",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10602,
     "HIHOFGBBBFE": 4065036311,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
     "KGEJCHEDPDA": 1,
-    "LJGKGNKPBJG": "Vehicle_Natsaurus_Mosasaurus_ElementalArt_01",
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Natsaurus_Mosasaurus_ElementalArt_01",
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
@@ -579,15 +579,15 @@
     "OADOAPKCOCE": 3708628387
   },
   {
-    "BGIHPNEDFOL": "Btn_Natsaurus_Flamingo_NormalAttack",
+    "skillIcon": "Btn_Natsaurus_Flamingo_NormalAttack",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10701,
     "HIHOFGBBBFE": 557435535,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
     "KGEJCHEDPDA": 1,
-    "LNCNHHBDMIK": "CircleLockEnemyR8H6HC",
-    "MBNEIMACIBM": [
+    "lockShape": "CircleLockEnemyR8H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
@@ -595,15 +595,15 @@
     "OADOAPKCOCE": 3375150731
   },
   {
-    "BGIHPNEDFOL": "Btn_Natsaurus_Flamingo_ElementalArt",
+    "skillIcon": "Btn_Natsaurus_Flamingo_ElementalArt",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10702,
     "HIHOFGBBBFE": 2961036175,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
     "KGEJCHEDPDA": 1,
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
@@ -611,126 +611,126 @@
     "OADOAPKCOCE": 624633531
   },
   {
-    "BGIHPNEDFOL": "Btn_Natsaurus_Shamansaurus_NormalAttack",
+    "skillIcon": "Btn_Natsaurus_Shamansaurus_NormalAttack",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10801,
     "HIHOFGBBBFE": 4208058631,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
-    "LJGKGNKPBJG": "Vehicle_Natsaurus_Shamansaurus_NormalAttack_01",
-    "LNCNHHBDMIK": "CircleLockEnemyR15H10HC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Natsaurus_Shamansaurus_NormalAttack_01",
+    "lockShape": "CircleLockEnemyR15H10HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
     ],
     "OADOAPKCOCE": 2821227203,
     "OFEDEDPKPIE": true,
-    "OLIBPDDKEKE": 801
+    "triggerID": 801
   },
   {
-    "BGIHPNEDFOL": "Btn_Natsaurus_Shamansaurus_ElementalArt",
+    "skillIcon": "Btn_Natsaurus_Shamansaurus_ElementalArt",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10802,
     "HIHOFGBBBFE": 3359808583,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
     "KGEJCHEDPDA": 1,
-    "LJGKGNKPBJG": "Vehicle_Natsaurus_Shamansaurus_ElementalArt_01",
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Natsaurus_Shamansaurus_ElementalArt_01",
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
     ],
     "OADOAPKCOCE": 1671988467,
     "OFEDEDPKPIE": true,
-    "OLIBPDDKEKE": 802
+    "triggerID": 802
   },
   {
-    "BGIHPNEDFOL": "Btn_Natsaurus_Shamansaurus_Jump",
+    "skillIcon": "Btn_Natsaurus_Shamansaurus_Jump",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10803,
     "HIHOFGBBBFE": 131622959,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
-    "LJGKGNKPBJG": "Vehicle_Natsaurus_Shamansaurus_SpecialJump_01",
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Natsaurus_Shamansaurus_SpecialJump_01",
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
     ],
     "OADOAPKCOCE": 281368107,
     "OFEDEDPKPIE": true,
-    "OLIBPDDKEKE": 803
+    "triggerID": 803
   },
   {
-    "BGIHPNEDFOL": "Btn_Natsaurus_Shamansaurus_Down",
+    "skillIcon": "Btn_Natsaurus_Shamansaurus_Down",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10804,
     "HIHOFGBBBFE": 3116892343,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
-    "LJGKGNKPBJG": "Vehicle_Natsaurus_Shamansaurus_SpecialJump_01",
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Natsaurus_Shamansaurus_SpecialJump_01",
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
     ],
     "OADOAPKCOCE": 3602792275,
     "OFEDEDPKPIE": true,
-    "OLIBPDDKEKE": 803
+    "triggerID": 803
   },
   {
-    "BGIHPNEDFOL": "Btn_Natsaurus_Bisonsaurus_NormalAttack",
+    "skillIcon": "Btn_Natsaurus_Bisonsaurus_NormalAttack",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10901,
     "HIHOFGBBBFE": 1387681183,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
     "KGEJCHEDPDA": 1,
-    "LJGKGNKPBJG": "Vehicle_Natsaurus_Bisonsaurus_NormalAttack_01",
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Natsaurus_Bisonsaurus_NormalAttack_01",
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
     ],
     "OADOAPKCOCE": 1249977187,
     "OFEDEDPKPIE": true,
-    "OLIBPDDKEKE": 1
+    "triggerID": 1
   },
   {
-    "BGIHPNEDFOL": "Btn_Natsaurus_Bisonsaurus_NormalAttack",
+    "skillIcon": "Btn_Natsaurus_Bisonsaurus_NormalAttack",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10907,
     "HIHOFGBBBFE": 2099384407,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
     "KGEJCHEDPDA": 1,
-    "LJGKGNKPBJG": "Vehicle_Natsaurus_Bisonsaurus_NormalAttack_02",
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Natsaurus_Bisonsaurus_NormalAttack_02",
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
     ],
     "OADOAPKCOCE": 237514587,
     "OFEDEDPKPIE": true,
-    "OLIBPDDKEKE": 5
+    "triggerID": 5
   },
   {
-    "BGIHPNEDFOL": "Btn_Natsaurus_Bisonsaurus_Sprint",
+    "skillIcon": "Btn_Natsaurus_Bisonsaurus_Sprint",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10902,
     "HIHOFGBBBFE": 2796222591,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
-    "LJGKGNKPBJG": "Vehicle_Natsaurus_Bisonsaurus_SprintSkill_01",
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Natsaurus_Bisonsaurus_SprintSkill_01",
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
@@ -738,15 +738,15 @@
     "OADOAPKCOCE": 156005179
   },
   {
-    "BGIHPNEDFOL": "Btn_Natsaurus_Bisonsaurus_SprintDash",
+    "skillIcon": "Btn_Natsaurus_Bisonsaurus_SprintDash",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10903,
     "HIHOFGBBBFE": 3937646751,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
-    "LJGKGNKPBJG": "Vehicle_Natsaurus_Bisonsaurus_SprintSkill_02",
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Natsaurus_Bisonsaurus_SprintSkill_02",
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
@@ -754,78 +754,78 @@
     "OADOAPKCOCE": 3318167515
   },
   {
-    "BGIHPNEDFOL": "Btn_Natsaurus_Bisonsaurus_FallingAttack",
+    "skillIcon": "Btn_Natsaurus_Bisonsaurus_FallingAttack",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10904,
     "HIHOFGBBBFE": 2969925447,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
-    "LJGKGNKPBJG": "Vehicle_Natsaurus_Bisonsaurus_FallingAttack_01",
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Natsaurus_Bisonsaurus_FallingAttack_01",
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
     ],
     "OADOAPKCOCE": 2477107283,
-    "OLIBPDDKEKE": 2
+    "triggerID": 2
   },
   {
-    "BGIHPNEDFOL": "Btn_Natsaurus_Bisonsaurus_ElementalArt",
+    "skillIcon": "Btn_Natsaurus_Bisonsaurus_ElementalArt",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10905,
     "HIHOFGBBBFE": 1412369711,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
     "KGEJCHEDPDA": 10,
-    "LJGKGNKPBJG": "Vehicle_Natsaurus_Bisonsaurus_ElementalArt_01",
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Natsaurus_Bisonsaurus_ElementalArt_01",
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
     ],
     "OADOAPKCOCE": 3662823003,
     "OFEDEDPKPIE": true,
-    "OLIBPDDKEKE": 3
+    "triggerID": 3
   },
   {
-    "BGIHPNEDFOL": "Btn_Natsaurus_Bisonsaurus_ElementalArt",
+    "skillIcon": "Btn_Natsaurus_Bisonsaurus_ElementalArt",
     "EIHAFIEOBLO": "None",
     "EJPPJHDMLEM": 10906,
     "HIHOFGBBBFE": 2538046311,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
     "KGEJCHEDPDA": 10,
-    "LJGKGNKPBJG": "Vehicle_Natsaurus_Bisonsaurus_ElementalArt_02",
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Natsaurus_Bisonsaurus_ElementalArt_02",
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
     ],
     "OADOAPKCOCE": 2778376595,
     "OFEDEDPKPIE": true,
-    "OLIBPDDKEKE": 4
+    "triggerID": 4
   },
   {
-    "BGIHPNEDFOL": "Skill_E_Flyout",
+    "skillIcon": "Skill_E_Flyout",
     "EEHAENIPAOF": true,
     "EIHAFIEOBLO": "Point",
     "EJPPJHDMLEM": 10999,
     "HIHOFGBBBFE": 1145047967,
-    "HJJDKEEHANK": "DRAG_NONE",
+    "dragType": "DRAG_NONE",
     "HNOFKHFCNNN": 1,
     "IOFGOPBHFMB": 1,
-    "LJGKGNKPBJG": "Vehicle_Natsaurus_Common_ChargeExit",
-    "LNCNHHBDMIK": "CircleLockEnemyR5H6HC",
-    "MBNEIMACIBM": [
+    "abilityName": "Vehicle_Natsaurus_Common_ChargeExit",
+    "lockShape": "CircleLockEnemyR5H6HC",
+    "lockWeightParams": [
       1,
       1,
       0.1
     ],
     "OADOAPKCOCE": 541973179,
-    "OGMGGHKLNDF": "_ABILITY_Vehicle_GetOff_DisableButton",
+    "globalValueKey": "_ABILITY_Vehicle_GetOff_DisableButton",
     "PIDPPKGELOK": 1
   }
 ]
