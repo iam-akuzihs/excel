@@ -28,7 +28,7 @@
   "NOKPBEICOHO": 3384213892
  },
  {
-  "BHFAPOEDIDB": 1,
+  "level": 1,
   "EKMGONECIHC": 15000,
   "FPPENJGNALC": "ART/UI/Atlas/Activity/AlchemySim/UI_Activity_AlcSimTech_Alc_Crit",
   "GDLFAELPFCC": 146139012,
@@ -62,7 +62,7 @@
   "NOKPBEICOHO": 1521232740
  },
  {
-  "BHFAPOEDIDB": 2,
+  "level": 2,
   "EKMGONECIHC": 30000,
   "FPPENJGNALC": "ART/UI/Atlas/Activity/AlchemySim/UI_Activity_AlcSimTech_Alc_Crit",
   "GDLFAELPFCC": 375212476,
@@ -96,7 +96,7 @@
   "NOKPBEICOHO": 3806145716
  },
  {
-  "BHFAPOEDIDB": 3,
+  "level": 3,
   "EKMGONECIHC": 90000,
   "FPPENJGNALC": "ART/UI/Atlas/Activity/AlchemySim/UI_Activity_AlcSimTech_Alc_Crit",
   "GDLFAELPFCC": 1860251108,
@@ -157,7 +157,7 @@
   "NOKPBEICOHO": 1528335796
  },
  {
-  "BHFAPOEDIDB": 1,
+  "level": 1,
   "EKMGONECIHC": 15000,
   "FPPENJGNALC": "ART/UI/Atlas/Activity/AlchemySim/UI_Activity_AlcSimTech_Alc_Exp",
   "GDLFAELPFCC": 1608147860,
@@ -191,7 +191,7 @@
   "NOKPBEICOHO": 683719308
  },
  {
-  "BHFAPOEDIDB": 2,
+  "level": 2,
   "EKMGONECIHC": 30000,
   "FPPENJGNALC": "ART/UI/Atlas/Activity/AlchemySim/UI_Activity_AlcSimTech_Alc_Exp",
   "GDLFAELPFCC": 3950533684,
@@ -225,7 +225,7 @@
   "NOKPBEICOHO": 1165087812
  },
  {
-  "BHFAPOEDIDB": 3,
+  "level": 3,
   "EKMGONECIHC": 90000,
   "FPPENJGNALC": "ART/UI/Atlas/Activity/AlchemySim/UI_Activity_AlcSimTech_Alc_Exp",
   "GDLFAELPFCC": 3601444492,
@@ -288,7 +288,7 @@
   "NOKPBEICOHO": 1859741980
  },
  {
-  "BHFAPOEDIDB": 1,
+  "level": 1,
   "FPPENJGNALC": "ART/UI/Atlas/Activity/AlchemySim/UI_Activity_AlcSimTech_Alc_Fin",
   "GDLFAELPFCC": 3357330148,
   "HAAGDLENBIM": "ALCHEMY_SIM_TECH_TREE_TYPE_ALCHEMY",
@@ -352,7 +352,7 @@
   "NOKPBEICOHO": 3055157548
  },
  {
-  "BHFAPOEDIDB": 1,
+  "level": 1,
   "EKMGONECIHC": 15000,
   "FPPENJGNALC": "ART/UI/Atlas/Activity/AlchemySim/UI_Activity_AlcSimTech_Crop_Crit",
   "GDLFAELPFCC": 2594401292,
@@ -386,7 +386,7 @@
   "NOKPBEICOHO": 2333447556
  },
  {
-  "BHFAPOEDIDB": 2,
+  "level": 2,
   "EKMGONECIHC": 30000,
   "FPPENJGNALC": "ART/UI/Atlas/Activity/AlchemySim/UI_Activity_AlcSimTech_Crop_Crit",
   "GDLFAELPFCC": 2415957268,
@@ -420,7 +420,7 @@
   "NOKPBEICOHO": 2030770452
  },
  {
-  "BHFAPOEDIDB": 3,
+  "level": 3,
   "EKMGONECIHC": 90000,
   "FPPENJGNALC": "ART/UI/Atlas/Activity/AlchemySim/UI_Activity_AlcSimTech_Crop_Crit",
   "GDLFAELPFCC": 3740150700,
@@ -481,7 +481,7 @@
   "NOKPBEICOHO": 1229808236
  },
  {
-  "BHFAPOEDIDB": 1,
+  "level": 1,
   "EKMGONECIHC": 30000,
   "FPPENJGNALC": "ART/UI/Atlas/Activity/AlchemySim/UI_Activity_AlcSimTech_Crop_Output",
   "GDLFAELPFCC": 3403347620,
@@ -515,7 +515,7 @@
   "NOKPBEICOHO": 4145866428
  },
  {
-  "BHFAPOEDIDB": 2,
+  "level": 2,
   "EKMGONECIHC": 60000,
   "FPPENJGNALC": "ART/UI/Atlas/Activity/AlchemySim/UI_Activity_AlcSimTech_Crop_Output",
   "GDLFAELPFCC": 665186764,
@@ -549,7 +549,7 @@
   "NOKPBEICOHO": 1019637444
  },
  {
-  "BHFAPOEDIDB": 3,
+  "level": 3,
   "EKMGONECIHC": 180000,
   "FPPENJGNALC": "ART/UI/Atlas/Activity/AlchemySim/UI_Activity_AlcSimTech_Crop_Output",
   "GDLFAELPFCC": 83096460,
@@ -610,7 +610,7 @@
   "NOKPBEICOHO": 999536604
  },
  {
-  "BHFAPOEDIDB": 1,
+  "level": 1,
   "EKMGONECIHC": 15000,
   "FPPENJGNALC": "ART/UI/Atlas/Activity/AlchemySim/UI_Activity_AlcSimTech_Crop_Exp",
   "GDLFAELPFCC": 3218003196,
@@ -644,7 +644,7 @@
   "NOKPBEICOHO": 4040077716
  },
  {
-  "BHFAPOEDIDB": 2,
+  "level": 2,
   "EKMGONECIHC": 30000,
   "FPPENJGNALC": "ART/UI/Atlas/Activity/AlchemySim/UI_Activity_AlcSimTech_Crop_Exp",
   "GDLFAELPFCC": 1337330164,
@@ -678,7 +678,7 @@
   "NOKPBEICOHO": 267610460
  },
  {
-  "BHFAPOEDIDB": 3,
+  "level": 3,
   "EKMGONECIHC": 90000,
   "FPPENJGNALC": "ART/UI/Atlas/Activity/AlchemySim/UI_Activity_AlcSimTech_Crop_Exp",
   "GDLFAELPFCC": 910361628,
@@ -739,7 +739,7 @@
   "NOKPBEICOHO": 1392547100
  },
  {
-  "BHFAPOEDIDB": 1,
+  "level": 1,
   "FPPENJGNALC": "ART/UI/Atlas/Activity/AlchemySim/UI_Activity_AlcSimTech_Crop_Fin",
   "GDLFAELPFCC": 3014349036,
   "HAAGDLENBIM": "ALCHEMY_SIM_TECH_TREE_TYPE_PLANT",
@@ -805,7 +805,7 @@
   "NOKPBEICOHO": 2010522516
  },
  {
-  "BHFAPOEDIDB": 1,
+  "level": 1,
   "EKMGONECIHC": 30000,
   "FPPENJGNALC": "ART/UI/Atlas/Activity/AlchemySim/UI_Activity_AlcSimTech_Sell_Num",
   "GDLFAELPFCC": 2905906028,
@@ -839,7 +839,7 @@
   "NOKPBEICOHO": 2885319996
  },
  {
-  "BHFAPOEDIDB": 2,
+  "level": 2,
   "EKMGONECIHC": 60000,
   "FPPENJGNALC": "ART/UI/Atlas/Activity/AlchemySim/UI_Activity_AlcSimTech_Sell_Num",
   "GDLFAELPFCC": 4215505004,
@@ -873,7 +873,7 @@
   "NOKPBEICOHO": 3565758828
  },
  {
-  "BHFAPOEDIDB": 3,
+  "level": 3,
   "EKMGONECIHC": 180000,
   "FPPENJGNALC": "ART/UI/Atlas/Activity/AlchemySim/UI_Activity_AlcSimTech_Sell_Num",
   "GDLFAELPFCC": 2366990924,
@@ -934,7 +934,7 @@
   "NOKPBEICOHO": 1471027572
  },
  {
-  "BHFAPOEDIDB": 1,
+  "level": 1,
   "EKMGONECIHC": 15000,
   "FPPENJGNALC": "ART/UI/Atlas/Activity/AlchemySim/UI_Activity_AlcSimTech_Sell_Sales",
   "GDLFAELPFCC": 1542414884,
@@ -968,7 +968,7 @@
   "NOKPBEICOHO": 2081895396
  },
  {
-  "BHFAPOEDIDB": 2,
+  "level": 2,
   "EKMGONECIHC": 30000,
   "FPPENJGNALC": "ART/UI/Atlas/Activity/AlchemySim/UI_Activity_AlcSimTech_Sell_Sales",
   "GDLFAELPFCC": 1293352772,
@@ -1002,7 +1002,7 @@
   "NOKPBEICOHO": 1098983700
  },
  {
-  "BHFAPOEDIDB": 3,
+  "level": 3,
   "EKMGONECIHC": 90000,
   "FPPENJGNALC": "ART/UI/Atlas/Activity/AlchemySim/UI_Activity_AlcSimTech_Sell_Sales",
   "GDLFAELPFCC": 3452114828,
@@ -1063,7 +1063,7 @@
   "NOKPBEICOHO": 650034748
  },
  {
-  "BHFAPOEDIDB": 1,
+  "level": 1,
   "FPPENJGNALC": "ART/UI/Atlas/Activity/AlchemySim/UI_Activity_AlcSimTech_Sell_Fin",
   "GDLFAELPFCC": 48330828,
   "HAAGDLENBIM": "ALCHEMY_SIM_TECH_TREE_TYPE_SALE",
@@ -1098,7 +1098,7 @@
   "NOKPBEICOHO": 2325553892
  },
  {
-  "BHFAPOEDIDB": 1,
+  "level": 1,
   "DGOOLLMGOKH": true,
   "FPPENJGNALC": "ART/UI/Atlas/Activity/AlchemySim/UI_Activity_AlcSimTech_Exam",
   "GDLFAELPFCC": 2751909884,
@@ -1132,7 +1132,7 @@
   "NOKPBEICOHO": 3521433564
  },
  {
-  "BHFAPOEDIDB": 2,
+  "level": 2,
   "DGOOLLMGOKH": true,
   "FPPENJGNALC": "ART/UI/Atlas/Activity/AlchemySim/UI_Activity_AlcSimTech_Exam",
   "GDLFAELPFCC": 912400708,
@@ -1169,7 +1169,7 @@
   "NOKPBEICOHO": 1550917012
  },
  {
-  "BHFAPOEDIDB": 3,
+  "level": 3,
   "DGOOLLMGOKH": true,
   "FPPENJGNALC": "ART/UI/Atlas/Activity/AlchemySim/UI_Activity_AlcSimTech_Exam",
   "GDLFAELPFCC": 2403734660,
@@ -1206,7 +1206,7 @@
   "NOKPBEICOHO": 2832778564
  },
  {
-  "BHFAPOEDIDB": 4,
+  "level": 4,
   "DGOOLLMGOKH": true,
   "FPPENJGNALC": "ART/UI/Atlas/Activity/AlchemySim/UI_Activity_AlcSimTech_Exam",
   "GDLFAELPFCC": 2582899148,

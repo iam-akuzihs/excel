@@ -10,10 +10,10 @@
    1.7,
    2
   ],
-  "ELKKIAIGOBK": 1,
+  "id": 1,
   "KGABBABNCCJ": [
    {
-    "JJNPGPFNJHP": "FIGHT_PROP_HP_MP_PERCENT",
+    "propType": "FIGHT_PROP_HP_MP_PERCENT",
     "KGNLLDIHOIN": [
      0.5,
      1,
@@ -21,7 +21,7 @@
     ]
    },
    {
-    "JJNPGPFNJHP": "FIGHT_PROP_ATTACK_MP_PERCENT",
+    "propType": "FIGHT_PROP_ATTACK_MP_PERCENT",
     "KGNLLDIHOIN": [
      0.1,
      0.25,
@@ -46,10 +46,10 @@
    1.7,
    2
   ],
-  "ELKKIAIGOBK": 2,
+  "id": 2,
   "KGABBABNCCJ": [
    {
-    "JJNPGPFNJHP": "FIGHT_PROP_HP_MP_PERCENT",
+    "propType": "FIGHT_PROP_HP_MP_PERCENT",
     "KGNLLDIHOIN": [
      0.5,
      1,
@@ -57,7 +57,7 @@
     ]
    },
    {
-    "JJNPGPFNJHP": "FIGHT_PROP_ATTACK_MP_PERCENT",
+    "propType": "FIGHT_PROP_ATTACK_MP_PERCENT",
     "KGNLLDIHOIN": [
      0.1,
      0.25,
@@ -82,10 +82,10 @@
    1.7,
    2
   ],
-  "ELKKIAIGOBK": 3,
+  "id": 3,
   "KGABBABNCCJ": [
    {
-    "JJNPGPFNJHP": "FIGHT_PROP_HP_MP_PERCENT",
+    "propType": "FIGHT_PROP_HP_MP_PERCENT",
     "KGNLLDIHOIN": [
      0.5,
      1,
@@ -93,7 +93,7 @@
     ]
    },
    {
-    "JJNPGPFNJHP": "FIGHT_PROP_ATTACK_MP_PERCENT",
+    "propType": "FIGHT_PROP_ATTACK_MP_PERCENT",
     "KGNLLDIHOIN": [
      0.1,
      0.25,
@@ -118,10 +118,10 @@
    1.7,
    2
   ],
-  "ELKKIAIGOBK": 4,
+  "id": 4,
   "KGABBABNCCJ": [
    {
-    "JJNPGPFNJHP": "FIGHT_PROP_HP_MP_PERCENT",
+    "propType": "FIGHT_PROP_HP_MP_PERCENT",
     "KGNLLDIHOIN": [
      0.5,
      1,
@@ -129,7 +129,7 @@
     ]
    },
    {
-    "JJNPGPFNJHP": "FIGHT_PROP_ATTACK_MP_PERCENT",
+    "propType": "FIGHT_PROP_ATTACK_MP_PERCENT",
     "KGNLLDIHOIN": [
      0.1,
      0.25,
@@ -154,10 +154,10 @@
    1.7,
    2
   ],
-  "ELKKIAIGOBK": 5,
+  "id": 5,
   "KGABBABNCCJ": [
    {
-    "JJNPGPFNJHP": "FIGHT_PROP_HP_MP_PERCENT",
+    "propType": "FIGHT_PROP_HP_MP_PERCENT",
     "KGNLLDIHOIN": [
      0.5,
      1,
@@ -165,7 +165,7 @@
     ]
    },
    {
-    "JJNPGPFNJHP": "FIGHT_PROP_ATTACK_MP_PERCENT",
+    "propType": "FIGHT_PROP_ATTACK_MP_PERCENT",
     "KGNLLDIHOIN": [
      0.1,
      0.25,
@@ -190,10 +190,10 @@
    1.7,
    2
   ],
-  "ELKKIAIGOBK": 101,
+  "id": 101,
   "KGABBABNCCJ": [
    {
-    "JJNPGPFNJHP": "FIGHT_PROP_HP_MP_PERCENT",
+    "propType": "FIGHT_PROP_HP_MP_PERCENT",
     "KGNLLDIHOIN": [
      0.52,
      1.03,
@@ -201,7 +201,7 @@
     ]
    },
    {
-    "JJNPGPFNJHP": "FIGHT_PROP_ATTACK_MP_PERCENT",
+    "propType": "FIGHT_PROP_ATTACK_MP_PERCENT",
     "KGNLLDIHOIN": [
      0.1,
      0.25,
@@ -226,13 +226,13 @@
    1,
    1
   ],
-  "ELKKIAIGOBK": 102,
+  "id": 102,
   "KGABBABNCCJ": [
    {
-    "JJNPGPFNJHP": "FIGHT_PROP_HP_MP_PERCENT"
+    "propType": "FIGHT_PROP_HP_MP_PERCENT"
    },
    {
-    "JJNPGPFNJHP": "FIGHT_PROP_ATTACK_MP_PERCENT"
+    "propType": "FIGHT_PROP_ATTACK_MP_PERCENT"
    }
   ],
   "LHHGBCCDHND": [
@@ -252,10 +252,10 @@
    1.7,
    2
   ],
-  "ELKKIAIGOBK": 103,
+  "id": 103,
   "KGABBABNCCJ": [
    {
-    "JJNPGPFNJHP": "FIGHT_PROP_HP_MP_PERCENT",
+    "propType": "FIGHT_PROP_HP_MP_PERCENT",
     "KGNLLDIHOIN": [
      0.25,
      0.5,
@@ -263,7 +263,7 @@
     ]
    },
    {
-    "JJNPGPFNJHP": "FIGHT_PROP_ATTACK_MP_PERCENT"
+    "propType": "FIGHT_PROP_ATTACK_MP_PERCENT"
    }
   ],
   "LHHGBCCDHND": [
@@ -283,10 +283,10 @@
    2.3,
    3
   ],
-  "ELKKIAIGOBK": 104,
+  "id": 104,
   "KGABBABNCCJ": [
    {
-    "JJNPGPFNJHP": "FIGHT_PROP_HP_MP_PERCENT",
+    "propType": "FIGHT_PROP_HP_MP_PERCENT",
     "KGNLLDIHOIN": [
      0.25,
      0.5,
@@ -294,7 +294,7 @@
     ]
    },
    {
-    "JJNPGPFNJHP": "FIGHT_PROP_ATTACK_MP_PERCENT"
+    "propType": "FIGHT_PROP_ATTACK_MP_PERCENT"
    }
   ],
   "LHHGBCCDHND": [
@@ -314,10 +314,10 @@
    1.66,
    2
   ],
-  "ELKKIAIGOBK": 105,
+  "id": 105,
   "KGABBABNCCJ": [
    {
-    "JJNPGPFNJHP": "FIGHT_PROP_HP_MP_PERCENT",
+    "propType": "FIGHT_PROP_HP_MP_PERCENT",
     "KGNLLDIHOIN": [
      0.4,
      0.8,
@@ -325,7 +325,7 @@
     ]
    },
    {
-    "JJNPGPFNJHP": "FIGHT_PROP_ATTACK_MP_PERCENT"
+    "propType": "FIGHT_PROP_ATTACK_MP_PERCENT"
    }
   ],
   "LHHGBCCDHND": [
@@ -345,10 +345,10 @@
    1.7,
    2
   ],
-  "ELKKIAIGOBK": 106,
+  "id": 106,
   "KGABBABNCCJ": [
    {
-    "JJNPGPFNJHP": "FIGHT_PROP_HP_MP_PERCENT",
+    "propType": "FIGHT_PROP_HP_MP_PERCENT",
     "KGNLLDIHOIN": [
      0.7,
      1.35,
@@ -356,7 +356,7 @@
     ]
    },
    {
-    "JJNPGPFNJHP": "FIGHT_PROP_ATTACK_MP_PERCENT",
+    "propType": "FIGHT_PROP_ATTACK_MP_PERCENT",
     "KGNLLDIHOIN": [
      0.15,
      0.3,
@@ -381,13 +381,13 @@
    1,
    1
   ],
-  "ELKKIAIGOBK": 107,
+  "id": 107,
   "KGABBABNCCJ": [
    {
-    "JJNPGPFNJHP": "FIGHT_PROP_HP_MP_PERCENT"
+    "propType": "FIGHT_PROP_HP_MP_PERCENT"
    },
    {
-    "JJNPGPFNJHP": "FIGHT_PROP_ATTACK_MP_PERCENT"
+    "propType": "FIGHT_PROP_ATTACK_MP_PERCENT"
    }
   ],
   "LHHGBCCDHND": [

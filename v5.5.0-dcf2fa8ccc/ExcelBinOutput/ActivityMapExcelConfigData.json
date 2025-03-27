@@ -1,8 +1,8 @@
 [
  {
-  "DELBOOLKFAO": "ACTIVITY_MAP_TYPE_PACMAN",
+  "type": "ACTIVITY_MAP_TYPE_PACMAN",
   "DOMLHCCPBKD": "UI_Map_PacMan_1",
-  "ELKKIAIGOBK": 1001,
+  "id": 1001,
   "EPMMOABOGCP": [
    0.8,
    1.2
@@ -17,9 +17,9 @@
   ]
  },
  {
-  "DELBOOLKFAO": "ACTIVITY_MAP_TYPE_PACMAN",
+  "type": "ACTIVITY_MAP_TYPE_PACMAN",
   "DOMLHCCPBKD": "UI_Map_PacMan_2",
-  "ELKKIAIGOBK": 1002,
+  "id": 1002,
   "EPMMOABOGCP": [
    0.8,
    1.2
@@ -34,9 +34,9 @@
   ]
  },
  {
-  "DELBOOLKFAO": "ACTIVITY_MAP_TYPE_PACMAN",
+  "type": "ACTIVITY_MAP_TYPE_PACMAN",
   "DOMLHCCPBKD": "UI_Map_PacMan_3",
-  "ELKKIAIGOBK": 1003,
+  "id": 1003,
   "EPMMOABOGCP": [
    0.8,
    1.2
@@ -51,9 +51,9 @@
   ]
  },
  {
-  "DELBOOLKFAO": "ACTIVITY_MAP_TYPE_PACMAN",
+  "type": "ACTIVITY_MAP_TYPE_PACMAN",
   "DOMLHCCPBKD": "UI_Map_PacMan_4",
-  "ELKKIAIGOBK": 1004,
+  "id": 1004,
   "EPMMOABOGCP": [
    0.8,
    1.2
@@ -68,9 +68,9 @@
   ]
  },
  {
-  "DELBOOLKFAO": "ACTIVITY_MAP_TYPE_PACMAN",
+  "type": "ACTIVITY_MAP_TYPE_PACMAN",
   "DOMLHCCPBKD": "UI_Map_PacMan_5",
-  "ELKKIAIGOBK": 1005,
+  "id": 1005,
   "EPMMOABOGCP": [
    0.8,
    1.2
@@ -85,9 +85,9 @@
   ]
  },
  {
-  "DELBOOLKFAO": "ACTIVITY_MAP_TYPE_PACMAN",
+  "type": "ACTIVITY_MAP_TYPE_PACMAN",
   "DOMLHCCPBKD": "UI_Map_PacMan_6",
-  "ELKKIAIGOBK": 1006,
+  "id": 1006,
   "EPMMOABOGCP": [
    0.8,
    1.2
@@ -102,9 +102,9 @@
   ]
  },
  {
-  "DELBOOLKFAO": "ACTIVITY_MAP_TYPE_MVM",
+  "type": "ACTIVITY_MAP_TYPE_MVM",
   "DOMLHCCPBKD": "ART/UI/Atlas/Activity/MonsterVsMonster/UI_Map_MvM_ATK_1",
-  "ELKKIAIGOBK": 1011,
+  "id": 1011,
   "EPMMOABOGCP": [
    1
   ],
@@ -118,9 +118,9 @@
   ]
  },
  {
-  "DELBOOLKFAO": "ACTIVITY_MAP_TYPE_MVM",
+  "type": "ACTIVITY_MAP_TYPE_MVM",
   "DOMLHCCPBKD": "ART/UI/Atlas/Activity/MonsterVsMonster/UI_Map_MvM_ATK_2",
-  "ELKKIAIGOBK": 1012,
+  "id": 1012,
   "EPMMOABOGCP": [
    1
   ],
@@ -134,9 +134,9 @@
   ]
  },
  {
-  "DELBOOLKFAO": "ACTIVITY_MAP_TYPE_MVM",
+  "type": "ACTIVITY_MAP_TYPE_MVM",
   "DOMLHCCPBKD": "ART/UI/Atlas/Activity/MonsterVsMonster/UI_Map_MvM_ATK_3",
-  "ELKKIAIGOBK": 1013,
+  "id": 1013,
   "EPMMOABOGCP": [
    1
   ],
@@ -150,9 +150,9 @@
   ]
  },
  {
-  "DELBOOLKFAO": "ACTIVITY_MAP_TYPE_MVM",
+  "type": "ACTIVITY_MAP_TYPE_MVM",
   "DOMLHCCPBKD": "ART/UI/Atlas/Activity/MonsterVsMonster/UI_Map_MvM_DEF_1",
-  "ELKKIAIGOBK": 1021,
+  "id": 1021,
   "EPMMOABOGCP": [
    1
   ],
@@ -166,9 +166,9 @@
   ]
  },
  {
-  "DELBOOLKFAO": "ACTIVITY_MAP_TYPE_MVM",
+  "type": "ACTIVITY_MAP_TYPE_MVM",
   "DOMLHCCPBKD": "ART/UI/Atlas/Activity/MonsterVsMonster/UI_Map_MvM_DEF_2",
-  "ELKKIAIGOBK": 1022,
+  "id": 1022,
   "EPMMOABOGCP": [
    1
   ],
@@ -182,9 +182,9 @@
   ]
  },
  {
-  "DELBOOLKFAO": "ACTIVITY_MAP_TYPE_MVM",
+  "type": "ACTIVITY_MAP_TYPE_MVM",
   "DOMLHCCPBKD": "ART/UI/Atlas/Activity/MonsterVsMonster/UI_Map_MvM_DEF_3",
-  "ELKKIAIGOBK": 1023,
+  "id": 1023,
   "EPMMOABOGCP": [
    1
   ],
@@ -198,9 +198,9 @@
   ]
  },
  {
-  "DELBOOLKFAO": "ACTIVITY_MAP_TYPE_MVM",
+  "type": "ACTIVITY_MAP_TYPE_MVM",
   "DOMLHCCPBKD": "ART/UI/Atlas/Activity/MonsterVsMonster/UI_Map_MvM_DEF_4",
-  "ELKKIAIGOBK": 1024,
+  "id": 1024,
   "EPMMOABOGCP": [
    1
   ],
@@ -214,9 +214,9 @@
   ]
  },
  {
-  "DELBOOLKFAO": "ACTIVITY_MAP_TYPE_MVM",
+  "type": "ACTIVITY_MAP_TYPE_MVM",
   "DOMLHCCPBKD": "ART/UI/Atlas/Activity/MonsterVsMonster/UI_Map_MvM_ATK_Battle_1",
-  "ELKKIAIGOBK": 1031,
+  "id": 1031,
   "EPMMOABOGCP": [
    0.221,
    0.352
@@ -231,9 +231,9 @@
   ]
  },
  {
-  "DELBOOLKFAO": "ACTIVITY_MAP_TYPE_MVM",
+  "type": "ACTIVITY_MAP_TYPE_MVM",
   "DOMLHCCPBKD": "ART/UI/Atlas/Activity/MonsterVsMonster/UI_Map_MvM_ATK_Battle_2",
-  "ELKKIAIGOBK": 1032,
+  "id": 1032,
   "EPMMOABOGCP": [
    0.221,
    0.352
@@ -248,9 +248,9 @@
   ]
  },
  {
-  "DELBOOLKFAO": "ACTIVITY_MAP_TYPE_MVM",
+  "type": "ACTIVITY_MAP_TYPE_MVM",
   "DOMLHCCPBKD": "ART/UI/Atlas/Activity/MonsterVsMonster/UI_Map_MvM_ATK_Battle_3",
-  "ELKKIAIGOBK": 1033,
+  "id": 1033,
   "EPMMOABOGCP": [
    0.221,
    0.352
@@ -265,9 +265,9 @@
   ]
  },
  {
-  "DELBOOLKFAO": "ACTIVITY_MAP_TYPE_MVM",
+  "type": "ACTIVITY_MAP_TYPE_MVM",
   "DOMLHCCPBKD": "ART/UI/Atlas/Activity/MonsterVsMonster/UI_Map_MvM_DEF_Battle_1",
-  "ELKKIAIGOBK": 1041,
+  "id": 1041,
   "EPMMOABOGCP": [
    0.221,
    0.352
@@ -282,9 +282,9 @@
   ]
  },
  {
-  "DELBOOLKFAO": "ACTIVITY_MAP_TYPE_MVM",
+  "type": "ACTIVITY_MAP_TYPE_MVM",
   "DOMLHCCPBKD": "ART/UI/Atlas/Activity/MonsterVsMonster/UI_Map_MvM_DEF_Battle_2",
-  "ELKKIAIGOBK": 1042,
+  "id": 1042,
   "EPMMOABOGCP": [
    0.221,
    0.352
@@ -299,9 +299,9 @@
   ]
  },
  {
-  "DELBOOLKFAO": "ACTIVITY_MAP_TYPE_MVM",
+  "type": "ACTIVITY_MAP_TYPE_MVM",
   "DOMLHCCPBKD": "ART/UI/Atlas/Activity/MonsterVsMonster/UI_Map_MvM_DEF_Battle_3",
-  "ELKKIAIGOBK": 1043,
+  "id": 1043,
   "EPMMOABOGCP": [
    0.221,
    0.352
@@ -316,9 +316,9 @@
   ]
  },
  {
-  "DELBOOLKFAO": "ACTIVITY_MAP_TYPE_MVM",
+  "type": "ACTIVITY_MAP_TYPE_MVM",
   "DOMLHCCPBKD": "ART/UI/Atlas/Activity/MonsterVsMonster/UI_Map_MvM_DEF_Battle_4",
-  "ELKKIAIGOBK": 1044,
+  "id": 1044,
   "EPMMOABOGCP": [
    0.221,
    0.352
