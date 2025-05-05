@@ -1,0 +1,44 @@
+[
+ {
+  "type": "Default",
+  "normalPri": 0,
+  "range": 0.01,
+  "combatPri": 0
+ },
+ {
+  "type": "Gadget_Lv1",
+  "normalPri": 0.3,
+  "range": 2,
+  "combatPri": 0
+ },
+ {
+  "type": "Animal_Lv2",
+  "normalPri": 0.5,
+  "range": 3,
+  "combatPri": 0
+ },
+ {
+  "type": "Gear_Lv3",
+  "normalPri": 1,
+  "range": 3,
+  "combatPri": 0.8
+ },
+ {
+  "type": "Avatar&Monster_Lv4",
+  "normalPri": 1,
+  "range": -1,
+  "combatPri": 1
+ },
+ {
+  "type": "Boss_Lv5",
+  "normalPri": 1.5,
+  "range": -1,
+  "combatPri": 1.5
+ },
+ {
+  "type": "MaxFocusTarget_Lv6",
+  "normalPri": 999,
+  "range": -1,
+  "combatPri": 999
+ }
+]

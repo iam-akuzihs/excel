@@ -1,0 +1,82 @@
+[
+ {
+  "NONOKKJICJK": true,
+  "AKADMPBIKMP": 2566639381,
+  "BAKNEFBKKLB": "REUNION_V2_WP_JUMP_TYPE_HANDBOOK",
+  "BFBEFPOAOPN": 14,
+  "FDEGKMAJFAB": 40,
+  "EMAHPKLCJGO": 10001,
+  "descTextMapHash": 3629418988,
+  "triggerConfig": {
+   "paramList": [
+    "106",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_COST_MATERIAL"
+  },
+  "id": 53101,
+  "progress": 100,
+  "isDisuse": false
+ },
+ {
+  "NONOKKJICJK": false,
+  "AKADMPBIKMP": 2191489109,
+  "BAKNEFBKKLB": "REUNION_V2_WP_JUMP_TYPE_AREA",
+  "BFBEFPOAOPN": 18,
+  "FDEGKMAJFAB": 30,
+  "EMAHPKLCJGO": 10001,
+  "descTextMapHash": 182147084,
+  "triggerConfig": {
+   "paramList": [
+    "1",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_REUNION_FINISH_WATCHER"
+  },
+  "id": 53103,
+  "progress": 1,
+  "isDisuse": false
+ },
+ {
+  "NONOKKJICJK": false,
+  "AKADMPBIKMP": 2165463501,
+  "BAKNEFBKKLB": "REUNION_V2_WP_JUMP_TYPE_AVATAR",
+  "BFBEFPOAOPN": 6,
+  "FDEGKMAJFAB": 40,
+  "EMAHPKLCJGO": 10001,
+  "descTextMapHash": 2094869916,
+  "triggerConfig": {
+   "paramList": [
+    "3",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_REUNION_FINISH_WATCHER"
+  },
+  "id": 53104,
+  "progress": 1,
+  "isDisuse": false
+ },
+ {
+  "NONOKKJICJK": false,
+  "AKADMPBIKMP": 3549700157,
+  "BAKNEFBKKLB": "REUNION_V2_WP_JUMP_TYPE_QUEST",
+  "BFBEFPOAOPN": 1,
+  "FDEGKMAJFAB": 60,
+  "EMAHPKLCJGO": 10001,
+  "descTextMapHash": 1171138916,
+  "triggerConfig": {
+   "paramList": [
+    "2",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_REUNION_FINISH_WATCHER"
+  },
+  "id": 53102,
+  "progress": 1,
+  "isDisuse": false
+ }
+]
