@@ -1,0 +1,1132 @@
+[
+ {
+  "forceFactor": 1.5,
+  "bonusSpeed": [
+   0
+  ],
+  "strength": 0,
+  "skillType": "FISH_SKILL_HP",
+  "param": [
+   0.3,
+   0,
+   0
+  ],
+  "bonusDuration": [
+   0
+  ],
+  "priority": 60,
+  "id": 1000,
+  "duration": 10,
+  "bonusOffset": [
+   0
+  ],
+  "bonusWidth": [
+   0
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_FORCE"
+ },
+ {
+  "forceFactor": 3,
+  "bonusSpeed": [
+   0
+  ],
+  "strength": 0,
+  "skillType": "FISH_SKILL_TIME",
+  "param": [
+   3,
+   1,
+   0
+  ],
+  "bonusDuration": [
+   0
+  ],
+  "priority": 100,
+  "id": 1001,
+  "duration": 3,
+  "bonusOffset": [
+   0
+  ],
+  "bonusWidth": [
+   0
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_FORCE"
+ },
+ {
+  "forceFactor": 3,
+  "bonusSpeed": [
+   0
+  ],
+  "strength": 0,
+  "skillType": "FISH_SKILL_TIME",
+  "param": [
+   1,
+   1,
+   0
+  ],
+  "bonusDuration": [
+   0
+  ],
+  "priority": 100,
+  "id": 1002,
+  "duration": 3,
+  "bonusOffset": [
+   0
+  ],
+  "bonusWidth": [
+   0
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_FORCE"
+ },
+ {
+  "forceFactor": 1.66,
+  "bonusSpeed": [
+   0
+  ],
+  "strength": 0,
+  "skillType": "FISH_SKILL_TIME",
+  "param": [
+   2.5,
+   1.5,
+   0
+  ],
+  "bonusDuration": [
+   0
+  ],
+  "priority": 100,
+  "id": 1003,
+  "duration": 2,
+  "bonusOffset": [
+   0
+  ],
+  "bonusWidth": [
+   0
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_FORCE"
+ },
+ {
+  "forceFactor": 2.2,
+  "bonusSpeed": [
+   0
+  ],
+  "strength": 0,
+  "skillType": "FISH_SKILL_TIME",
+  "param": [
+   2.5,
+   1.5,
+   0
+  ],
+  "bonusDuration": [
+   0
+  ],
+  "priority": 100,
+  "id": 1004,
+  "duration": 3,
+  "bonusOffset": [
+   0
+  ],
+  "bonusWidth": [
+   0
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_FORCE"
+ },
+ {
+  "forceFactor": 1.88,
+  "bonusSpeed": [
+   0
+  ],
+  "strength": 0,
+  "skillType": "FISH_SKILL_TIME",
+  "param": [
+   3,
+   1,
+   0
+  ],
+  "bonusDuration": [
+   0
+  ],
+  "priority": 100,
+  "id": 1005,
+  "duration": 2.4,
+  "bonusOffset": [
+   0
+  ],
+  "bonusWidth": [
+   0
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_FORCE"
+ },
+ {
+  "forceFactor": 1.36,
+  "bonusSpeed": [
+   0
+  ],
+  "strength": 0,
+  "skillType": "FISH_SKILL_TIME",
+  "param": [
+   1.5,
+   1,
+   0
+  ],
+  "bonusDuration": [
+   0
+  ],
+  "priority": 100,
+  "id": 1006,
+  "duration": 1,
+  "bonusOffset": [
+   0
+  ],
+  "bonusWidth": [
+   0
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_FORCE"
+ },
+ {
+  "forceFactor": 2,
+  "bonusSpeed": [
+   0
+  ],
+  "strength": 2,
+  "skillType": "FISH_SKILL_TIME",
+  "param": [
+   0.75,
+   1,
+   0
+  ],
+  "bonusDuration": [
+   0
+  ],
+  "priority": 100,
+  "id": 1007,
+  "duration": 1.5,
+  "bonusOffset": [
+   0
+  ],
+  "bonusWidth": [
+   0
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_FORCE"
+ },
+ {
+  "forceFactor": 1.42,
+  "bonusSpeed": [
+   0
+  ],
+  "strength": 0,
+  "skillType": "FISH_SKILL_HP",
+  "param": [
+   0.95,
+   0,
+   0
+  ],
+  "bonusDuration": [
+   0
+  ],
+  "priority": 60,
+  "id": 1008,
+  "duration": 16,
+  "bonusOffset": [
+   0
+  ],
+  "bonusWidth": [
+   0
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_FORCE"
+ },
+ {
+  "forceFactor": 1.65,
+  "bonusSpeed": [
+   0
+  ],
+  "strength": 0,
+  "skillType": "FISH_SKILL_HP",
+  "param": [
+   0.95,
+   0,
+   0
+  ],
+  "bonusDuration": [
+   0
+  ],
+  "priority": 60,
+  "id": 1009,
+  "duration": 18,
+  "bonusOffset": [
+   0
+  ],
+  "bonusWidth": [
+   0
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_FORCE"
+ },
+ {
+  "forceFactor": 0,
+  "bonusSpeed": [
+   60,
+   65
+  ],
+  "strength": 3,
+  "skillType": "FISH_SKILL_HP",
+  "param": [
+   0.3,
+   0,
+   0
+  ],
+  "bonusDuration": [
+   0.5,
+   0.5
+  ],
+  "priority": 100,
+  "id": 2000,
+  "duration": 10,
+  "bonusOffset": [
+   30,
+   50
+  ],
+  "bonusWidth": [
+   -0.2,
+   -0.2
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_BONUS"
+ },
+ {
+  "forceFactor": 0,
+  "bonusSpeed": [
+   35,
+   40
+  ],
+  "strength": 3,
+  "skillType": "FISH_SKILL_HP",
+  "param": [
+   0.3,
+   0,
+   0
+  ],
+  "bonusDuration": [
+   0.5,
+   0.5
+  ],
+  "priority": 100,
+  "id": 2001,
+  "duration": 10,
+  "bonusOffset": [
+   70,
+   90
+  ],
+  "bonusWidth": [
+   -0.2,
+   -0.2
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_BONUS"
+ },
+ {
+  "forceFactor": 0,
+  "bonusSpeed": [
+   60,
+   65
+  ],
+  "strength": 3,
+  "skillType": "FISH_SKILL_HP",
+  "param": [
+   0.3,
+   0,
+   0
+  ],
+  "bonusDuration": [
+   0.5,
+   0.5
+  ],
+  "priority": 100,
+  "id": 2002,
+  "duration": 10,
+  "bonusOffset": [
+   30,
+   50
+  ],
+  "bonusWidth": [
+   -0.2,
+   -0.2
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_BONUS"
+ },
+ {
+  "forceFactor": 0,
+  "bonusSpeed": [
+   50,
+   60
+  ],
+  "strength": 3,
+  "skillType": "FISH_SKILL_HP",
+  "param": [
+   0.3,
+   0,
+   0
+  ],
+  "bonusDuration": [
+   0.3,
+   0.7
+  ],
+  "priority": 100,
+  "id": 2003,
+  "duration": 10,
+  "bonusOffset": [
+   30,
+   40
+  ],
+  "bonusWidth": [
+   -0.25,
+   -0.25
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_BONUS"
+ },
+ {
+  "forceFactor": 0,
+  "bonusSpeed": [
+   55,
+   65
+  ],
+  "strength": 3,
+  "skillType": "FISH_SKILL_HP",
+  "param": [
+   0.35,
+   0,
+   0
+  ],
+  "bonusDuration": [
+   0.2,
+   0.6
+  ],
+  "priority": 100,
+  "id": 2004,
+  "duration": 10,
+  "bonusOffset": [
+   35,
+   45
+  ],
+  "bonusWidth": [
+   -0.25,
+   -0.25
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_BONUS"
+ },
+ {
+  "forceFactor": 0,
+  "bonusSpeed": [
+   35,
+   40
+  ],
+  "strength": 3,
+  "skillType": "FISH_SKILL_HP",
+  "param": [
+   0.3,
+   0,
+   0
+  ],
+  "bonusDuration": [
+   0.5,
+   0.5
+  ],
+  "priority": 100,
+  "id": 2005,
+  "duration": 10,
+  "bonusOffset": [
+   70,
+   90
+  ],
+  "bonusWidth": [
+   -0.27,
+   -0.27
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_BONUS"
+ },
+ {
+  "forceFactor": 0,
+  "bonusSpeed": [
+   55,
+   65
+  ],
+  "strength": 3,
+  "skillType": "FISH_SKILL_HP",
+  "param": [
+   0.35,
+   0,
+   0
+  ],
+  "bonusDuration": [
+   0.5,
+   0.8
+  ],
+  "priority": 100,
+  "id": 2006,
+  "duration": 6,
+  "bonusOffset": [
+   35,
+   45
+  ],
+  "bonusWidth": [
+   -0.2,
+   -0.2
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_BONUS"
+ },
+ {
+  "forceFactor": 0,
+  "bonusSpeed": [
+   35,
+   40
+  ],
+  "strength": 1,
+  "skillType": "FISH_SKILL_TIME",
+  "param": [
+   3,
+   3,
+   0
+  ],
+  "bonusDuration": [
+   0,
+   0.25
+  ],
+  "priority": 60,
+  "id": 2010,
+  "duration": 5,
+  "bonusOffset": [
+   20,
+   40
+  ],
+  "bonusWidth": [
+   0,
+   0
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_BONUS"
+ },
+ {
+  "forceFactor": 0,
+  "bonusSpeed": [
+   35,
+   40
+  ],
+  "strength": 2,
+  "skillType": "FISH_SKILL_TIME",
+  "param": [
+   3,
+   1,
+   0
+  ],
+  "bonusDuration": [
+   0,
+   0.25
+  ],
+  "priority": 20,
+  "id": 2011,
+  "duration": 5,
+  "bonusOffset": [
+   30,
+   50
+  ],
+  "bonusWidth": [
+   -0.2,
+   -0.2
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_BONUS"
+ },
+ {
+  "forceFactor": 0,
+  "bonusSpeed": [
+   35,
+   40
+  ],
+  "strength": 2,
+  "skillType": "FISH_SKILL_TIME",
+  "param": [
+   3,
+   1,
+   0
+  ],
+  "bonusDuration": [
+   0.5,
+   1
+  ],
+  "priority": 20,
+  "id": 2012,
+  "duration": 5,
+  "bonusOffset": [
+   70,
+   90
+  ],
+  "bonusWidth": [
+   -0.2,
+   -0.2
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_BONUS"
+ },
+ {
+  "forceFactor": 0,
+  "bonusSpeed": [
+   35,
+   40
+  ],
+  "strength": 3,
+  "skillType": "FISH_SKILL_TIME",
+  "param": [
+   3,
+   1,
+   0
+  ],
+  "bonusDuration": [
+   0.5,
+   1
+  ],
+  "priority": 20,
+  "id": 2013,
+  "duration": 5,
+  "bonusOffset": [
+   70,
+   90
+  ],
+  "bonusWidth": [
+   -0.2,
+   -0.2
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_BONUS"
+ },
+ {
+  "forceFactor": 0,
+  "bonusSpeed": [
+   35,
+   40
+  ],
+  "strength": 3,
+  "skillType": "FISH_SKILL_TIME",
+  "param": [
+   2,
+   2,
+   0
+  ],
+  "bonusDuration": [
+   0.5,
+   0.5
+  ],
+  "priority": 20,
+  "id": 2014,
+  "duration": 5,
+  "bonusOffset": [
+   70,
+   90
+  ],
+  "bonusWidth": [
+   -0.2,
+   -0.2
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_BONUS"
+ },
+ {
+  "forceFactor": 0,
+  "bonusSpeed": [
+   30,
+   45
+  ],
+  "strength": 2,
+  "skillType": "FISH_SKILL_TIME",
+  "param": [
+   3,
+   1,
+   0
+  ],
+  "bonusDuration": [
+   2,
+   3
+  ],
+  "priority": 20,
+  "id": 2015,
+  "duration": 5,
+  "bonusOffset": [
+   30,
+   50
+  ],
+  "bonusWidth": [
+   0,
+   0
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_BONUS"
+ },
+ {
+  "forceFactor": 0,
+  "bonusSpeed": [
+   35,
+   40
+  ],
+  "strength": 1,
+  "skillType": "FISH_SKILL_TIME",
+  "param": [
+   3,
+   3,
+   0
+  ],
+  "bonusDuration": [
+   0.5,
+   1
+  ],
+  "priority": 20,
+  "id": 2016,
+  "duration": 5,
+  "bonusOffset": [
+   50,
+   60
+  ],
+  "bonusWidth": [
+   -0.2,
+   -0.2
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_BONUS"
+ },
+ {
+  "forceFactor": 0,
+  "bonusSpeed": [
+   60,
+   65
+  ],
+  "strength": 2,
+  "skillType": "FISH_SKILL_TIME",
+  "param": [
+   3,
+   1,
+   0
+  ],
+  "bonusDuration": [
+   2,
+   3
+  ],
+  "priority": 20,
+  "id": 2017,
+  "duration": 5,
+  "bonusOffset": [
+   30,
+   50
+  ],
+  "bonusWidth": [
+   -0.2,
+   -0.2
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_BONUS"
+ },
+ {
+  "forceFactor": 0,
+  "bonusSpeed": [
+   60,
+   65
+  ],
+  "strength": 3,
+  "skillType": "FISH_SKILL_TIME",
+  "param": [
+   3,
+   2,
+   0
+  ],
+  "bonusDuration": [
+   2,
+   3
+  ],
+  "priority": 20,
+  "id": 2018,
+  "duration": 5,
+  "bonusOffset": [
+   30,
+   50
+  ],
+  "bonusWidth": [
+   -0.2,
+   -0.2
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_BONUS"
+ },
+ {
+  "forceFactor": 0,
+  "bonusSpeed": [
+   60,
+   65
+  ],
+  "strength": 3,
+  "skillType": "FISH_SKILL_TIME",
+  "param": [
+   3,
+   3,
+   0
+  ],
+  "bonusDuration": [
+   0.5,
+   0.5
+  ],
+  "priority": 60,
+  "id": 2019,
+  "duration": 5,
+  "bonusOffset": [
+   30,
+   50
+  ],
+  "bonusWidth": [
+   -0.2,
+   -0.2
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_BONUS"
+ },
+ {
+  "forceFactor": 0,
+  "bonusSpeed": [
+   35,
+   40
+  ],
+  "strength": 1,
+  "skillType": "FISH_SKILL_TIME",
+  "param": [
+   2,
+   1,
+   0
+  ],
+  "bonusDuration": [
+   0,
+   0.25
+  ],
+  "priority": 60,
+  "id": 2020,
+  "duration": 5,
+  "bonusOffset": [
+   20,
+   40
+  ],
+  "bonusWidth": [
+   0,
+   0
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_BONUS"
+ },
+ {
+  "forceFactor": 0,
+  "bonusSpeed": [
+   35,
+   40
+  ],
+  "strength": 2,
+  "skillType": "FISH_SKILL_TIME",
+  "param": [
+   1,
+   1,
+   0
+  ],
+  "bonusDuration": [
+   0,
+   0.25
+  ],
+  "priority": 20,
+  "id": 2021,
+  "duration": 5,
+  "bonusOffset": [
+   30,
+   50
+  ],
+  "bonusWidth": [
+   -0.2,
+   -0.2
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_BONUS"
+ },
+ {
+  "forceFactor": 0,
+  "bonusSpeed": [
+   35,
+   40
+  ],
+  "strength": 2,
+  "skillType": "FISH_SKILL_TIME",
+  "param": [
+   2,
+   1,
+   0
+  ],
+  "bonusDuration": [
+   0.5,
+   1
+  ],
+  "priority": 20,
+  "id": 2022,
+  "duration": 5,
+  "bonusOffset": [
+   70,
+   90
+  ],
+  "bonusWidth": [
+   -0.2,
+   -0.2
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_BONUS"
+ },
+ {
+  "forceFactor": 0,
+  "bonusSpeed": [
+   35,
+   40
+  ],
+  "strength": 3,
+  "skillType": "FISH_SKILL_TIME",
+  "param": [
+   1,
+   1,
+   0
+  ],
+  "bonusDuration": [
+   0.5,
+   1
+  ],
+  "priority": 20,
+  "id": 2023,
+  "duration": 5,
+  "bonusOffset": [
+   70,
+   90
+  ],
+  "bonusWidth": [
+   -0.2,
+   -0.2
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_BONUS"
+ },
+ {
+  "forceFactor": 0,
+  "bonusSpeed": [
+   35,
+   40
+  ],
+  "strength": 3,
+  "skillType": "FISH_SKILL_TIME",
+  "param": [
+   1,
+   1,
+   0
+  ],
+  "bonusDuration": [
+   0.5,
+   1
+  ],
+  "priority": 20,
+  "id": 2024,
+  "duration": 5,
+  "bonusOffset": [
+   70,
+   90
+  ],
+  "bonusWidth": [
+   -0.2,
+   -0.2
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_BONUS"
+ },
+ {
+  "forceFactor": 0,
+  "bonusSpeed": [
+   30,
+   45
+  ],
+  "strength": 2,
+  "skillType": "FISH_SKILL_TIME",
+  "param": [
+   1,
+   1,
+   0
+  ],
+  "bonusDuration": [
+   2,
+   3
+  ],
+  "priority": 20,
+  "id": 2025,
+  "duration": 5,
+  "bonusOffset": [
+   30,
+   50
+  ],
+  "bonusWidth": [
+   0,
+   0
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_BONUS"
+ },
+ {
+  "forceFactor": 0,
+  "bonusSpeed": [
+   35,
+   40
+  ],
+  "strength": 1,
+  "skillType": "FISH_SKILL_TIME",
+  "param": [
+   2,
+   1,
+   0
+  ],
+  "bonusDuration": [
+   0.5,
+   1
+  ],
+  "priority": 20,
+  "id": 2026,
+  "duration": 5,
+  "bonusOffset": [
+   50,
+   60
+  ],
+  "bonusWidth": [
+   -0.2,
+   -0.2
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_BONUS"
+ },
+ {
+  "forceFactor": 0,
+  "bonusSpeed": [
+   60,
+   65
+  ],
+  "strength": 2,
+  "skillType": "FISH_SKILL_TIME",
+  "param": [
+   1,
+   1,
+   0
+  ],
+  "bonusDuration": [
+   2,
+   3
+  ],
+  "priority": 20,
+  "id": 2027,
+  "duration": 5,
+  "bonusOffset": [
+   30,
+   50
+  ],
+  "bonusWidth": [
+   -0.2,
+   -0.2
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_BONUS"
+ },
+ {
+  "forceFactor": 0,
+  "bonusSpeed": [
+   60,
+   65
+  ],
+  "strength": 3,
+  "skillType": "FISH_SKILL_TIME",
+  "param": [
+   1.5,
+   1,
+   0
+  ],
+  "bonusDuration": [
+   2,
+   3
+  ],
+  "priority": 20,
+  "id": 2028,
+  "duration": 5,
+  "bonusOffset": [
+   30,
+   50
+  ],
+  "bonusWidth": [
+   -0.2,
+   -0.2
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_BONUS"
+ },
+ {
+  "forceFactor": 0,
+  "bonusSpeed": [
+   60,
+   65
+  ],
+  "strength": 3,
+  "skillType": "FISH_SKILL_TIME",
+  "param": [
+   2,
+   1,
+   0
+  ],
+  "bonusDuration": [
+   0.5,
+   0.5
+  ],
+  "priority": 60,
+  "id": 2029,
+  "duration": 5,
+  "bonusOffset": [
+   30,
+   50
+  ],
+  "bonusWidth": [
+   -0.2,
+   -0.2
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_BONUS"
+ },
+ {
+  "forceFactor": 0,
+  "bonusSpeed": [
+   30,
+   45
+  ],
+  "strength": 2,
+  "skillType": "FISH_SKILL_TIME",
+  "param": [
+   3,
+   1,
+   0
+  ],
+  "bonusDuration": [
+   2,
+   3
+  ],
+  "priority": 20,
+  "id": 2030,
+  "duration": 5,
+  "bonusOffset": [
+   30,
+   50
+  ],
+  "bonusWidth": [
+   0,
+   0
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_BONUS"
+ },
+ {
+  "forceFactor": 0,
+  "bonusSpeed": [
+   30,
+   45
+  ],
+  "strength": 2,
+  "skillType": "FISH_SKILL_TIME",
+  "param": [
+   1,
+   1,
+   0
+  ],
+  "bonusDuration": [
+   2,
+   3
+  ],
+  "priority": 20,
+  "id": 2031,
+  "duration": 5,
+  "bonusOffset": [
+   30,
+   50
+  ],
+  "bonusWidth": [
+   0,
+   0
+  ],
+  "skillCategory": "FISH_SKILL_CATEGORY_BONUS"
+ }
+]

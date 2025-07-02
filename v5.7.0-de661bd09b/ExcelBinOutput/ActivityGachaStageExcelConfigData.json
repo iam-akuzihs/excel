@@ -1,0 +1,138 @@
+[
+ {
+  "groupNumList": [
+   3,
+   3,
+   6
+  ],
+  "stageGroupIdList": [],
+  "openQuestID": 7269401,
+  "condID": 5080001,
+  "watcherID": 1508001,
+  "nextStageId": 2,
+  "stageId": 1,
+  "type": "TARGET_TYPE_GATHER",
+  "isNeedFinish": false,
+  "groupIdList": [
+   101,
+   102,
+   103
+  ],
+  "isTech": true,
+  "PPIHHMFAPBE": [
+   101,
+   102,
+   103
+  ]
+ },
+ {
+  "groupNumList": [
+   15,
+   15,
+   15
+  ],
+  "stageGroupIdList": [
+   133001079,
+   133105077,
+   133213557
+  ],
+  "openQuestID": 7269501,
+  "condID": 5080002,
+  "watcherID": 1508002,
+  "nextStageId": 3,
+  "stageId": 2,
+  "type": "TARGET_TYPE_ELEM",
+  "isNeedFinish": false,
+  "groupIdList": [
+   201,
+   202,
+   203
+  ],
+  "isTech": true,
+  "PPIHHMFAPBE": [
+   201,
+   202,
+   203
+  ]
+ },
+ {
+  "groupNumList": [
+   3,
+   4,
+   4
+  ],
+  "stageGroupIdList": [],
+  "openQuestID": 7269601,
+  "condID": 5080003,
+  "watcherID": 1508003,
+  "nextStageId": 4,
+  "stageId": 3,
+  "type": "TARGET_TYPE_MONSTER",
+  "isNeedFinish": true,
+  "groupIdList": [
+   301,
+   302,
+   303
+  ],
+  "isTech": true,
+  "PPIHHMFAPBE": [
+   301,
+   302,
+   303
+  ]
+ },
+ {
+  "groupNumList": [
+   5
+  ],
+  "stageGroupIdList": [],
+  "openQuestID": 7269701,
+  "condID": 5080004,
+  "watcherID": 0,
+  "nextStageId": 5,
+  "stageId": 4,
+  "type": "TARGET_TYPE_GATHER",
+  "isNeedFinish": false,
+  "groupIdList": [
+   110
+  ],
+  "isTech": false,
+  "PPIHHMFAPBE": []
+ },
+ {
+  "groupNumList": [
+   15
+  ],
+  "stageGroupIdList": [],
+  "openQuestID": 0,
+  "condID": 0,
+  "watcherID": 0,
+  "nextStageId": 6,
+  "stageId": 5,
+  "type": "TARGET_TYPE_ELEM",
+  "isNeedFinish": false,
+  "groupIdList": [
+   210
+  ],
+  "isTech": false,
+  "PPIHHMFAPBE": []
+ },
+ {
+  "groupNumList": [
+   4
+  ],
+  "stageGroupIdList": [],
+  "openQuestID": 0,
+  "condID": 0,
+  "watcherID": 0,
+  "nextStageId": 4,
+  "stageId": 6,
+  "type": "TARGET_TYPE_MONSTER",
+  "isNeedFinish": true,
+  "groupIdList": [
+   310
+  ],
+  "isTech": false,
+  "PPIHHMFAPBE": []
+ }
+]

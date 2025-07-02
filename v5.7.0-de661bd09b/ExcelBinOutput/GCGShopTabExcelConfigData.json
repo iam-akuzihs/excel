@@ -1,0 +1,45 @@
+[
+ {
+  "shopType": "SHOP_TYPE_GCG_CARD",
+  "id": 1,
+  "lockTipTextMapHash": 233311922,
+  "subTabList": [
+   1,
+   2,
+   3
+  ],
+  "showType": "ENTRANCE_NORMAL",
+  "order": 1,
+  "nameTextMapHash": 1621292683,
+  "icon": "UI_BtnIcon_GcgKaMian_Nal"
+ },
+ {
+  "shopType": "SHOP_TYPE_GCG_CARD_FACE",
+  "id": 2,
+  "lockTipTextMapHash": 2332201106,
+  "subTabList": [
+   4,
+   5,
+   6,
+   7
+  ],
+  "showType": "ENTRANCE_NORMAL",
+  "order": 3,
+  "nameTextMapHash": 3867267395,
+  "icon": "UI_BtnIcon_GcgKaMian_HuangJin"
+ },
+ {
+  "shopType": "SHOP_TYPE_GCG_APPEARANCE",
+  "id": 3,
+  "lockTipTextMapHash": 272330722,
+  "subTabList": [
+   11,
+   8,
+   9
+  ],
+  "showType": "ENTRANCE_NORMAL",
+  "order": 2,
+  "nameTextMapHash": 2846926723,
+  "icon": "UI_BtnIcon_GcgKaMian_WaiGuan"
+ }
+]
