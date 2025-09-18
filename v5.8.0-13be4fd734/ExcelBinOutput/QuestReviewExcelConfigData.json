@@ -1,0 +1,87 @@
+[
+ {
+  "id": 1,
+  "IHGHBCBONHE": [
+   {
+    "param": "",
+    "type": "NONE"
+   }
+  ],
+  "NJDLBMEHNOK": []
+ },
+ {
+  "id": 2,
+  "IHGHBCBONHE": [
+   {
+    "param": "10004,1",
+    "type": "QUEST_GLOBAL_VAR_EQ"
+   }
+  ],
+  "NJDLBMEHNOK": [
+   1,
+   2
+  ]
+ },
+ {
+  "id": 75048,
+  "IHGHBCBONHE": [
+   {
+    "param": "7500204,1",
+    "type": "QUEST_GLOBAL_VAR_EQ"
+   }
+  ],
+  "NJDLBMEHNOK": [
+   75002
+  ]
+ },
+ {
+  "id": 75002,
+  "IHGHBCBONHE": [
+   {
+    "param": "7500203,1",
+    "type": "QUEST_GLOBAL_VAR_EQ"
+   }
+  ],
+  "NJDLBMEHNOK": [
+   75048
+  ]
+ },
+ {
+  "id": 75151,
+  "IHGHBCBONHE": [
+   {
+    "param": "7515101,1",
+    "type": "QUEST_GLOBAL_VAR_EQ"
+   }
+  ],
+  "NJDLBMEHNOK": [
+   75002,
+   75048
+  ]
+ },
+ {
+  "id": 60001,
+  "IHGHBCBONHE": [
+   {
+    "param": "60101,1",
+    "type": "QUEST_GLOBAL_VAR_EQ"
+   }
+  ],
+  "NJDLBMEHNOK": [
+   6000101,
+   6000102
+  ]
+ },
+ {
+  "id": 1503901,
+  "IHGHBCBONHE": [
+   {
+    "param": "",
+    "type": "NONE"
+   }
+  ],
+  "NJDLBMEHNOK": [
+   150390101
+  ]
+ }
+]

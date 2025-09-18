@@ -1,0 +1,1354 @@
+[
+ {
+  "ACCNLPMPLMB": [
+   "1,2,1,80",
+   "",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 3589882424,
+  "effectId": 1,
+  "effectType": "REFRESH_ADD_AVATAR_CARD_EVENT_CASE",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_LASTING",
+  "PFELCDIOLKO": 0,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "2",
+   "",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 2881893344,
+  "effectId": 2,
+  "effectType": "AFTER_SELECT_CARD_ADD_REFRESH_COUNT",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_CUR_ROUND",
+  "PFELCDIOLKO": 1,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "3",
+   "1",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 848192736,
+  "effectId": 3,
+  "effectType": "OPEN_ADD_CARD_CANDIDIATE_NUM",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_LASTING",
+  "PFELCDIOLKO": 0,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "4",
+   "1",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 2146107952,
+  "effectId": 4,
+  "effectType": "OPEN_ADD_CARD_CANDIDIATE_NUM",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_LASTING",
+  "PFELCDIOLKO": 0,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "3",
+   "1",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 3980524096,
+  "effectId": 5,
+  "effectType": "OPEN_ADD_REFRESH_CANDIDIATE_COUNT",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_LASTING",
+  "PFELCDIOLKO": 0,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "4",
+   "1",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 1483322512,
+  "effectId": 6,
+  "effectType": "OPEN_ADD_REFRESH_CANDIDIATE_COUNT",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_LASTING",
+  "PFELCDIOLKO": 0,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "1",
+   "",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 1494758496,
+  "effectId": 7,
+  "effectType": "REFRESH_ADD_QUEUE_SIZE",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_LASTING",
+  "PFELCDIOLKO": 0,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "1",
+   "",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 1965483952,
+  "effectId": 8,
+  "effectType": "SELECT_AVATAR_ADD_REFRESH_CANDIDIATE_COUNT",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_LASTING",
+  "PFELCDIOLKO": 0,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "1",
+   "",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 1879353704,
+  "effectId": 9,
+  "effectType": "SELECT_AVATAR_ADD_AVATAR_CANDIDATE_NUM",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_LASTING",
+  "PFELCDIOLKO": 0,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "15",
+   "",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 3929725488,
+  "effectId": 10,
+  "effectType": "LEVEL_END_ADD_COIN",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_LASTING",
+  "PFELCDIOLKO": 0,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "2,3",
+   "",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 3165038624,
+  "effectId": 11,
+  "effectType": "OPEN_MUST_BONUS_CARD_EVENT_CASE",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_LASTING",
+  "PFELCDIOLKO": 2,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "2",
+   "-10",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 2410570832,
+  "effectId": 12,
+  "effectType": "REFRESH_CHANGE_CARD_EVENT_CASE_COST",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_LASTING",
+  "PFELCDIOLKO": 0,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "5",
+   "-10",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 1727515688,
+  "effectId": 13,
+  "effectType": "REFRESH_CHANGE_CARD_EVENT_CASE_COST",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_LASTING",
+  "PFELCDIOLKO": 0,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "",
+   "",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 139173952,
+  "effectId": 14,
+  "effectType": "LEVEL_END_DOUBLE_EXTRA_COIN",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_CUR_ROUND",
+  "PFELCDIOLKO": 1,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "200,201",
+   "2,2,15",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 499620440,
+  "effectId": 15,
+  "effectType": "REFRESH_ADD_CHANCE_CARD_EVENT_CASE",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_CUR_ROUND",
+  "PFELCDIOLKO": 1,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "2",
+   "1",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 1554511576,
+  "effectId": 16,
+  "effectType": "OPEN_ADD_CARD_CANDIDIATE_NUM",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_LASTING",
+  "PFELCDIOLKO": 0,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "ActivityAbility_RoleCombat_Test_01",
+   "",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 2648884184,
+  "effectId": 1001,
+  "effectType": "LEVEL_BEGIN_ADD_PLAYER_ABILITY_GROUP",
+  "KJCILOBPBML": [
+   50,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_CUR_ROUND",
+  "PFELCDIOLKO": 0,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": true
+ },
+ {
+  "ACCNLPMPLMB": [
+   "1",
+   "",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 3425202984,
+  "effectId": 10011,
+  "effectType": "AFTER_SELECT_CARD_RECALL_UNAVAILABLE_AVATAR",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_CUR_ROUND",
+  "PFELCDIOLKO": 1,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "ActivityAbility_RoleCombat_Test_03",
+   "",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 2950910864,
+  "effectId": 1002,
+  "effectType": "LEVEL_BEGIN_ADD_PLAYER_ABILITY_GROUP",
+  "KJCILOBPBML": [
+   5,
+   1,
+   1
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_CUR_ROUND",
+  "PFELCDIOLKO": 0,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": true
+ },
+ {
+  "ACCNLPMPLMB": [
+   "1,2",
+   "1",
+   "1"
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 1029574624,
+  "effectId": 10021,
+  "effectType": "AFTER_SELECT_CARD_ADD_AVATAR_AVAILABLE_COUNT",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_CUR_ROUND",
+  "PFELCDIOLKO": 1,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "1",
+   "1",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 489835624,
+  "effectId": 1003,
+  "effectType": "AFTER_SELECT_CARD_MAY_LOSE_COIN",
+  "KJCILOBPBML": [
+   70,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_CUR_ROUND",
+  "PFELCDIOLKO": 1,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": true
+ },
+ {
+  "ACCNLPMPLMB": [
+   "1",
+   "",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 1191530376,
+  "effectId": 10031,
+  "effectType": "AFTER_SELECT_CARD_ADD_CUR_POOL_BUFF",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_CUR_ROUND",
+  "PFELCDIOLKO": 1,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "1",
+   "1",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 2162322152,
+  "effectId": 1004,
+  "effectType": "AFTER_SELECT_CARD_MAY_LOSE_COIN",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_CUR_ROUND",
+  "PFELCDIOLKO": 1,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": true
+ },
+ {
+  "ACCNLPMPLMB": [
+   "1",
+   "1",
+   "0"
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 1459253336,
+  "effectId": 10041,
+  "effectType": "AFTER_SELECT_CARD_ADD_AVATAR",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_CUR_ROUND",
+  "PFELCDIOLKO": 1,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "1",
+   "",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 2809208080,
+  "effectId": 2001,
+  "effectType": "AFTER_SELECT_CARD_ADD_CUR_POOL_BUFF",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_CUR_ROUND",
+  "PFELCDIOLKO": 1,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "",
+   "",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 2316804672,
+  "effectId": 20011,
+  "effectType": "SELECT_AVATAR_FORBIDDEN",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_CUR_ROUND",
+  "PFELCDIOLKO": 1,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": true
+ },
+ {
+  "ACCNLPMPLMB": [
+   "1",
+   "1",
+   "0"
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 3303136000,
+  "effectId": 2002,
+  "effectType": "AFTER_SELECT_CARD_ADD_AVATAR",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_CUR_ROUND",
+  "PFELCDIOLKO": 1,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "",
+   "",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 459709680,
+  "effectId": 20021,
+  "effectType": "SELECT_AVATAR_FORBIDDEN",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_CUR_ROUND",
+  "PFELCDIOLKO": 1,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": true
+ },
+ {
+  "ACCNLPMPLMB": [
+   "1,2",
+   "1",
+   "1"
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 2966218576,
+  "effectId": 2003,
+  "effectType": "AFTER_SELECT_CARD_ADD_AVATAR_AVAILABLE_COUNT",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_CUR_ROUND",
+  "PFELCDIOLKO": 1,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "30",
+   "",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 4076462120,
+  "effectId": 20031,
+  "effectType": "LEVEL_END_SUB_REWARD_COIN",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_CUR_ROUND",
+  "PFELCDIOLKO": 1,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": true
+ },
+ {
+  "ACCNLPMPLMB": [
+   "1",
+   "",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 1121982848,
+  "effectId": 2004,
+  "effectType": "AFTER_SELECT_CARD_RECALL_UNAVAILABLE_AVATAR",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_CUR_ROUND",
+  "PFELCDIOLKO": 1,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "20",
+   "",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 2321491080,
+  "effectId": 20041,
+  "effectType": "LEVEL_END_SUB_REWARD_COIN",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_CUR_ROUND",
+  "PFELCDIOLKO": 1,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": true
+ },
+ {
+  "ACCNLPMPLMB": [
+   "9",
+   "1",
+   "0"
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 2694281704,
+  "effectId": 2005,
+  "effectType": "AFTER_SELECT_CARD_ADD_AVATAR",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_CUR_ROUND",
+  "PFELCDIOLKO": 1,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "",
+   "",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 1770515488,
+  "effectId": 20051,
+  "effectType": "SELECT_AVATAR_FORBIDDEN",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_CUR_ROUND",
+  "PFELCDIOLKO": 1,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": true
+ },
+ {
+  "ACCNLPMPLMB": [
+   "2",
+   "-10",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 3165341240,
+  "effectId": 2006,
+  "effectType": "REFRESH_CHANGE_CARD_EVENT_CASE_COST",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_LASTING",
+  "PFELCDIOLKO": 0,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "5",
+   "10",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 208110808,
+  "effectId": 20061,
+  "effectType": "REFRESH_CHANGE_CARD_EVENT_CASE_COST",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_LASTING",
+  "PFELCDIOLKO": 0,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "5",
+   "-10",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 4176528448,
+  "effectId": 2007,
+  "effectType": "REFRESH_CHANGE_CARD_EVENT_CASE_COST",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_LASTING",
+  "PFELCDIOLKO": 0,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "2",
+   "10",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 3970387832,
+  "effectId": 20071,
+  "effectType": "REFRESH_CHANGE_CARD_EVENT_CASE_COST",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_LASTING",
+  "PFELCDIOLKO": 0,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "20",
+   "",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 3665330400,
+  "effectId": 3001,
+  "effectType": "AFTER_SELECT_CARD_ADD_COIN",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_CUR_ROUND",
+  "PFELCDIOLKO": 1,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "60",
+   "",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 1499144768,
+  "effectId": 30011,
+  "effectType": "AFTER_SELECT_CARD_ADD_COIN",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_CUR_ROUND",
+  "PFELCDIOLKO": 1,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "90",
+   "",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 213108472,
+  "effectId": 30012,
+  "effectType": "AFTER_SELECT_CARD_ADD_COIN",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_CUR_ROUND",
+  "PFELCDIOLKO": 1,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "0",
+   "",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 3745689040,
+  "effectId": 3002,
+  "effectType": "AFTER_SELECT_CARD_ADD_COIN",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_CUR_ROUND",
+  "PFELCDIOLKO": 1,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "90",
+   "",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 2268564864,
+  "effectId": 30021,
+  "effectType": "AFTER_SELECT_CARD_ADD_COIN",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_CUR_ROUND",
+  "PFELCDIOLKO": 1,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "90",
+   "",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 1172155552,
+  "effectId": 30022,
+  "effectType": "AFTER_SELECT_CARD_ADD_COIN",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_CUR_ROUND",
+  "PFELCDIOLKO": 1,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "1,2",
+   "1",
+   "1"
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 1839839880,
+  "effectId": 3003,
+  "effectType": "AFTER_SELECT_CARD_ADD_AVATAR_AVAILABLE_COUNT",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_CUR_ROUND",
+  "PFELCDIOLKO": 1,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "1,2",
+   "2",
+   "1"
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 144964184,
+  "effectId": 30031,
+  "effectType": "AFTER_SELECT_CARD_ADD_AVATAR_AVAILABLE_COUNT",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_CUR_ROUND",
+  "PFELCDIOLKO": 1,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "1",
+   "",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 855552192,
+  "effectId": 3004,
+  "effectType": "AFTER_SELECT_CARD_ADD_CUR_POOL_BUFF",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_CUR_ROUND",
+  "PFELCDIOLKO": 1,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "2",
+   "",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 2071033712,
+  "effectId": 3005,
+  "effectType": "AFTER_SELECT_CARD_RECALL_UNAVAILABLE_AVATAR",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_CUR_ROUND",
+  "PFELCDIOLKO": 1,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "5",
+   "1",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 1188549880,
+  "effectId": 3006,
+  "effectType": "AFTER_SELECT_CARD_RECALL_TAG_UNAVAILABLE_AVATAR",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_CUR_ROUND",
+  "PFELCDIOLKO": 1,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "80",
+   "",
+   ""
+  ],
+  "AHAKONJFJBM": [
+   "1",
+   "",
+   ""
+  ],
+  "condType": "COIN_NUM_LESS_THAN",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_EXEC_COUNT_REACH_LIMIT",
+  "effectDescTextMapHash": 3422913312,
+  "effectId": 3007,
+  "effectType": "REFRESH_ADD_COIN",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_LASTING",
+  "PFELCDIOLKO": 1,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "1,2",
+   "1",
+   "2"
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 3181147408,
+  "effectId": 3008,
+  "effectType": "AFTER_SELECT_CARD_ADD_AVATAR_AVAILABLE_COUNT",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_CUR_ROUND",
+  "PFELCDIOLKO": 1,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ },
+ {
+  "ACCNLPMPLMB": [
+   "1,2",
+   "1",
+   "2"
+  ],
+  "AHAKONJFJBM": [
+   "",
+   "",
+   ""
+  ],
+  "condType": "NONE",
+  "DPODOCJCCHA": "ROLE_COMBAT_CHANCE_EFFECT_FINISH_COND_DEFAULT",
+  "effectDescTextMapHash": 3418499912,
+  "effectId": 30081,
+  "effectType": "AFTER_SELECT_CARD_ADD_AVATAR_AVAILABLE_COUNT",
+  "KJCILOBPBML": [
+   0,
+   0,
+   0
+  ],
+  "OIMOFNGMIIN": "ROLE_COMBAT_ROUND_TIMING_TYPE_CUR_ROUND",
+  "PFELCDIOLKO": 1,
+  "PFNCDCDIKLC": "",
+  "PMOFILBKMDL": false
+ }
+]

@@ -3,3 +3,4 @@ CHECKOUT += v5.5.0-dcf2fa8ccc
 CHECKOUT += v5.5.1-31af60c067
 CHECKOUT += v5.6.0-17df7fbe14
 CHECKOUT += v5.7.0-de661bd09b
+CHECKOUT += v5.8.0-13be4fd734
