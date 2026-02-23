@@ -1,0 +1,146 @@
+[
+ {
+  "id": 140001,
+  "isDisuse": false,
+  "MKFPMGINJOA": 909393241,
+  "OKELNCKIJFB": 1242543861,
+  "progress": 400,
+  "refreshId": 990311,
+  "rewardID": 1201001,
+  "triggerConfig": {
+   "paramList": [
+    "192",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_OBTAIN_MATERIAL_NUM"
+  }
+ },
+ {
+  "id": 140002,
+  "isDisuse": false,
+  "MKFPMGINJOA": 3464870177,
+  "OKELNCKIJFB": 2773995157,
+  "progress": 800,
+  "refreshId": 990311,
+  "rewardID": 1201002,
+  "triggerConfig": {
+   "paramList": [
+    "192",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_OBTAIN_MATERIAL_NUM"
+  }
+ },
+ {
+  "id": 140003,
+  "isDisuse": false,
+  "MKFPMGINJOA": 3018295289,
+  "OKELNCKIJFB": 1185431053,
+  "progress": 1200,
+  "refreshId": 990311,
+  "rewardID": 1201003,
+  "triggerConfig": {
+   "paramList": [
+    "192",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_OBTAIN_MATERIAL_NUM"
+  }
+ },
+ {
+  "id": 140004,
+  "isDisuse": false,
+  "MKFPMGINJOA": 4115873393,
+  "OKELNCKIJFB": 3483144861,
+  "progress": 1600,
+  "refreshId": 990311,
+  "rewardID": 1201004,
+  "triggerConfig": {
+   "paramList": [
+    "192",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_OBTAIN_MATERIAL_NUM"
+  }
+ },
+ {
+  "id": 140005,
+  "isDisuse": false,
+  "MKFPMGINJOA": 1304252945,
+  "OKELNCKIJFB": 2997181093,
+  "progress": 4,
+  "refreshId": 990311,
+  "rewardID": 1201005,
+  "triggerConfig": {
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_FINISH_BEYOND_SCORE_ACTIVITY_LEVEL"
+  }
+ },
+ {
+  "id": 140006,
+  "isDisuse": false,
+  "MKFPMGINJOA": 38091929,
+  "OKELNCKIJFB": 1492072621,
+  "progress": 8,
+  "refreshId": 990311,
+  "rewardID": 1201006,
+  "triggerConfig": {
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_FINISH_BEYOND_SCORE_ACTIVITY_LEVEL"
+  }
+ },
+ {
+  "id": 140007,
+  "isDisuse": false,
+  "MKFPMGINJOA": 4177814425,
+  "OKELNCKIJFB": 4032812061,
+  "progress": 2,
+  "refreshId": 990311,
+  "rewardID": 0,
+  "triggerConfig": {
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_BEYOND_FINISH_PLAY_CNT_REACH"
+  }
+ },
+ {
+  "id": 140008,
+  "isDisuse": false,
+  "MKFPMGINJOA": 2149207761,
+  "OKELNCKIJFB": 1780881165,
+  "progress": 1,
+  "refreshId": 990311,
+  "rewardID": 0,
+  "triggerConfig": {
+   "paramList": [
+    "100001,100002,100003,100004,100005,100006,200001",
+    "",
+    "",
+    ""
+   ],
+   "triggerType": "TRIGGER_BEYOND_FINISH_SPECIFIC_LIB_DIFF_PLAY_CNT_REACH"
+  }
+ }
+]
