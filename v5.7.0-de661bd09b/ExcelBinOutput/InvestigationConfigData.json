@@ -1,0 +1,256 @@
+[
+ {
+  "cityId": 1,
+  "unlockLevel": 1,
+  "isRewardEmpty": false,
+  "unlockOpenStateType": "OPEN_ADVENTURE_MANUAL_CITY_MENGDE",
+  "titleTextMapHash": 185388919,
+  "id": 10001,
+  "nextInvestigationIdList": [],
+  "rewardId": 450001,
+  "investigationType": "INVESTIGATION_ADVENTURE"
+ },
+ {
+  "cityId": 1,
+  "unlockLevel": 8,
+  "isRewardEmpty": false,
+  "unlockOpenStateType": "OPEN_STATE_NONE",
+  "titleTextMapHash": 997105687,
+  "id": 10002,
+  "nextInvestigationIdList": [],
+  "rewardId": 450002,
+  "investigationType": "INVESTIGATION_ADVENTURE"
+ },
+ {
+  "cityId": 1,
+  "unlockLevel": 10,
+  "isRewardEmpty": false,
+  "unlockOpenStateType": "OPEN_STATE_NONE",
+  "titleTextMapHash": 2638738007,
+  "id": 10003,
+  "nextInvestigationIdList": [],
+  "rewardId": 450003,
+  "investigationType": "INVESTIGATION_ADVENTURE"
+ },
+ {
+  "cityId": 1,
+  "unlockLevel": 15,
+  "isRewardEmpty": false,
+  "unlockOpenStateType": "OPEN_STATE_NONE",
+  "titleTextMapHash": 32830991,
+  "id": 10004,
+  "nextInvestigationIdList": [],
+  "rewardId": 450004,
+  "investigationType": "INVESTIGATION_ADVENTURE"
+ },
+ {
+  "cityId": 1,
+  "unlockLevel": 20,
+  "isRewardEmpty": false,
+  "unlockOpenStateType": "OPEN_STATE_NONE",
+  "titleTextMapHash": 493621503,
+  "id": 10005,
+  "nextInvestigationIdList": [],
+  "rewardId": 450005,
+  "investigationType": "INVESTIGATION_ADVENTURE"
+ },
+ {
+  "cityId": 1,
+  "unlockLevel": 30,
+  "isRewardEmpty": false,
+  "unlockOpenStateType": "OPEN_STATE_NONE",
+  "titleTextMapHash": 820212071,
+  "id": 10006,
+  "nextInvestigationIdList": [],
+  "rewardId": 450006,
+  "investigationType": "INVESTIGATION_ADVENTURE"
+ },
+ {
+  "cityId": 1,
+  "unlockLevel": 35,
+  "isRewardEmpty": false,
+  "unlockOpenStateType": "OPEN_STATE_NONE",
+  "titleTextMapHash": 3388684735,
+  "id": 10007,
+  "nextInvestigationIdList": [],
+  "rewardId": 450007,
+  "investigationType": "INVESTIGATION_ADVENTURE"
+ },
+ {
+  "cityId": 1,
+  "unlockLevel": 40,
+  "isRewardEmpty": false,
+  "unlockOpenStateType": "OPEN_STATE_NONE",
+  "titleTextMapHash": 2420219631,
+  "id": 10008,
+  "nextInvestigationIdList": [],
+  "rewardId": 450008,
+  "investigationType": "INVESTIGATION_ADVENTURE"
+ },
+ {
+  "cityId": 1,
+  "unlockLevel": 45,
+  "isRewardEmpty": false,
+  "unlockOpenStateType": "OPEN_STATE_NONE",
+  "titleTextMapHash": 1920411039,
+  "id": 10009,
+  "nextInvestigationIdList": [],
+  "rewardId": 450009,
+  "investigationType": "INVESTIGATION_ADVENTURE"
+ },
+ {
+  "cityId": 1,
+  "unlockLevel": 0,
+  "isRewardEmpty": false,
+  "unlockOpenStateType": "OPEN_STATE_HOME",
+  "titleTextMapHash": 2524375535,
+  "id": 20001,
+  "nextInvestigationIdList": [
+   20002
+  ],
+  "rewardId": 4100100,
+  "investigationType": "INVESTIGATION_HOMEWORLD"
+ },
+ {
+  "cityId": 1,
+  "unlockLevel": 0,
+  "isRewardEmpty": false,
+  "unlockOpenStateType": "OPEN_STATE_NONE",
+  "titleTextMapHash": 4201521551,
+  "id": 20002,
+  "nextInvestigationIdList": [
+   20003
+  ],
+  "rewardId": 4100200,
+  "investigationType": "INVESTIGATION_HOMEWORLD"
+ },
+ {
+  "cityId": 1,
+  "unlockLevel": 0,
+  "isRewardEmpty": false,
+  "unlockOpenStateType": "OPEN_STATE_NONE",
+  "titleTextMapHash": 1406990103,
+  "id": 20003,
+  "nextInvestigationIdList": [
+   20004
+  ],
+  "rewardId": 4100300,
+  "investigationType": "INVESTIGATION_HOMEWORLD"
+ },
+ {
+  "cityId": 1,
+  "unlockLevel": 0,
+  "isRewardEmpty": false,
+  "unlockOpenStateType": "OPEN_STATE_NONE",
+  "titleTextMapHash": 3662078343,
+  "id": 20004,
+  "nextInvestigationIdList": [],
+  "rewardId": 4100400,
+  "investigationType": "INVESTIGATION_HOMEWORLD"
+ },
+ {
+  "cityId": 1,
+  "unlockLevel": 16,
+  "isRewardEmpty": true,
+  "unlockOpenStateType": "OPEN_STATE_NONE",
+  "titleTextMapHash": 2561351775,
+  "id": 30001,
+  "nextInvestigationIdList": [],
+  "rewardId": 0,
+  "investigationType": "INVESTIGATION_EDCATION"
+ },
+ {
+  "cityId": 1,
+  "unlockLevel": 25,
+  "isRewardEmpty": true,
+  "unlockOpenStateType": "OPEN_STATE_NONE",
+  "titleTextMapHash": 1781883815,
+  "id": 30002,
+  "nextInvestigationIdList": [],
+  "rewardId": 0,
+  "investigationType": "INVESTIGATION_EDCATION"
+ },
+ {
+  "cityId": 1,
+  "unlockLevel": 30,
+  "isRewardEmpty": true,
+  "unlockOpenStateType": "OPEN_STATE_NONE",
+  "titleTextMapHash": 38845551,
+  "id": 30003,
+  "nextInvestigationIdList": [],
+  "rewardId": 0,
+  "investigationType": "INVESTIGATION_EDCATION"
+ },
+ {
+  "cityId": 1,
+  "unlockLevel": 35,
+  "isRewardEmpty": true,
+  "unlockOpenStateType": "OPEN_STATE_NONE",
+  "titleTextMapHash": 1528078183,
+  "id": 30004,
+  "nextInvestigationIdList": [],
+  "rewardId": 0,
+  "investigationType": "INVESTIGATION_EDCATION"
+ },
+ {
+  "cityId": 1,
+  "unlockLevel": 0,
+  "isRewardEmpty": false,
+  "unlockOpenStateType": "OPEN_STATE_NONE",
+  "titleTextMapHash": 3597964287,
+  "id": 40001,
+  "nextInvestigationIdList": [
+   40002
+  ],
+  "rewardId": 4200028,
+  "investigationType": "INVESTIGATION_GCG"
+ },
+ {
+  "cityId": 1,
+  "unlockLevel": 0,
+  "isRewardEmpty": false,
+  "unlockOpenStateType": "OPEN_STATE_NONE",
+  "titleTextMapHash": 3956847079,
+  "id": 40002,
+  "nextInvestigationIdList": [
+   40003
+  ],
+  "rewardId": 4200029,
+  "investigationType": "INVESTIGATION_GCG"
+ },
+ {
+  "cityId": 1,
+  "unlockLevel": 0,
+  "isRewardEmpty": false,
+  "unlockOpenStateType": "OPEN_STATE_NONE",
+  "titleTextMapHash": 1840492423,
+  "id": 40003,
+  "nextInvestigationIdList": [
+   40004
+  ],
+  "rewardId": 4200030,
+  "investigationType": "INVESTIGATION_GCG"
+ },
+ {
+  "cityId": 1,
+  "unlockLevel": 0,
+  "isRewardEmpty": false,
+  "unlockOpenStateType": "OPEN_STATE_NONE",
+  "titleTextMapHash": 3898873639,
+  "id": 40004,
+  "nextInvestigationIdList": [],
+  "rewardId": 4200031,
+  "investigationType": "INVESTIGATION_GCG"
+ },
+ {
+  "cityId": 1,
+  "unlockLevel": 0,
+  "isRewardEmpty": true,
+  "unlockOpenStateType": "OPEN_STATE_NONE",
+  "titleTextMapHash": 560780519,
+  "id": 50001,
+  "nextInvestigationIdList": [],
+  "rewardId": 0,
+  "investigationType": "INVESTIGATION_MAIN_QUEST"
+ }
+]
