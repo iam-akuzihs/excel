@@ -1,0 +1,342 @@
+[
+ {
+  "BCGMMHPGPEO": "ART/UI/Atlas/Activity/LanternRiteV5/UI_Icon_LanV5Puzzle_Tag_BombClear",
+  "EBPIHPMLJJA": "ART/UI/Atlas/Activity/LanternRiteV5/UI_Icon_LanV5Puzzle_Tag_BombClear_CountBg",
+  "EPPDPBDFKND": false,
+  "HGCCBJMDFDJ": "DEFAULT",
+  "KJGEDAKAGCC": [
+   {
+    "effectId": 1061,
+    "JKAPLLFJKOI": "PRE_BRICK_ELIMINATE"
+   },
+   {
+    "effectId": 1062,
+    "JKAPLLFJKOI": "POST_BRICK_ELIMINATE"
+   },
+   {
+    "effectId": 1063,
+    "JKAPLLFJKOI": "POST_BRICK_ELIMINATE"
+   },
+   {
+    "effectId": 1064,
+    "JKAPLLFJKOI": "POST_BRICK_ELIMINATE"
+   },
+   {
+    "effectId": 0,
+    "JKAPLLFJKOI": "NONE"
+   },
+   {
+    "effectId": 0,
+    "JKAPLLFJKOI": "NONE"
+   }
+  ],
+  "LEDMICHCBNE": 106,
+  "ONIGDNMFHOJ": -1
+ },
+ {
+  "BCGMMHPGPEO": "ART/UI/Atlas/Activity/LanternRiteV5/UI_Icon_LanV5Puzzle_Tag_Combo",
+  "EBPIHPMLJJA": "",
+  "EPPDPBDFKND": false,
+  "HGCCBJMDFDJ": "DEFAULT",
+  "KJGEDAKAGCC": [
+   {
+    "effectId": 1081,
+    "JKAPLLFJKOI": "POST_BRICK_ELIMINATE"
+   },
+   {
+    "effectId": 0,
+    "JKAPLLFJKOI": "NONE"
+   },
+   {
+    "effectId": 0,
+    "JKAPLLFJKOI": "NONE"
+   },
+   {
+    "effectId": 0,
+    "JKAPLLFJKOI": "NONE"
+   },
+   {
+    "effectId": 0,
+    "JKAPLLFJKOI": "NONE"
+   },
+   {
+    "effectId": 0,
+    "JKAPLLFJKOI": "NONE"
+   }
+  ],
+  "LEDMICHCBNE": 108,
+  "ONIGDNMFHOJ": -1
+ },
+ {
+  "BCGMMHPGPEO": "ART/UI/Atlas/Activity/LanternRiteV5/UI_Icon_LanV5Puzzle_Tag_Clear{0}",
+  "EBPIHPMLJJA": "",
+  "EPPDPBDFKND": false,
+  "HGCCBJMDFDJ": "CLEAR",
+  "KJGEDAKAGCC": [
+   {
+    "effectId": 1102,
+    "JKAPLLFJKOI": "POST_BRICK_ELIMINATE"
+   },
+   {
+    "effectId": 1022,
+    "JKAPLLFJKOI": "POST_BRICK_ELIMINATE"
+   },
+   {
+    "effectId": 0,
+    "JKAPLLFJKOI": "NONE"
+   },
+   {
+    "effectId": 0,
+    "JKAPLLFJKOI": "NONE"
+   },
+   {
+    "effectId": 0,
+    "JKAPLLFJKOI": "NONE"
+   },
+   {
+    "effectId": 0,
+    "JKAPLLFJKOI": "NONE"
+   }
+  ],
+  "LEDMICHCBNE": 1102,
+  "ONIGDNMFHOJ": -1
+ },
+ {
+  "BCGMMHPGPEO": "",
+  "EBPIHPMLJJA": "",
+  "EPPDPBDFKND": false,
+  "HGCCBJMDFDJ": "BURN",
+  "KJGEDAKAGCC": [
+   {
+    "effectId": 12011,
+    "JKAPLLFJKOI": "POST_BRICK_ELIMINATE"
+   },
+   {
+    "effectId": 12013,
+    "JKAPLLFJKOI": "COUNTER_ZERO"
+   },
+   {
+    "effectId": 0,
+    "JKAPLLFJKOI": "NONE"
+   },
+   {
+    "effectId": 0,
+    "JKAPLLFJKOI": "NONE"
+   },
+   {
+    "effectId": 0,
+    "JKAPLLFJKOI": "NONE"
+   },
+   {
+    "effectId": 0,
+    "JKAPLLFJKOI": "NONE"
+   }
+  ],
+  "LEDMICHCBNE": 1201,
+  "ONIGDNMFHOJ": -1
+ },
+ {
+  "BCGMMHPGPEO": "ART/UI/Atlas/Activity/LanternRiteV5/UI_Icon_LanV5Puzzle_Tag_Infectious",
+  "EBPIHPMLJJA": "ART/UI/Atlas/Activity/LanternRiteV5/UI_Icon_LanV5Puzzle_Tag_Infectious_CountBg",
+  "EPPDPBDFKND": false,
+  "HGCCBJMDFDJ": "DEFAULT",
+  "KJGEDAKAGCC": [
+   {
+    "effectId": 12021,
+    "JKAPLLFJKOI": "POST_ELIMINATE"
+   },
+   {
+    "effectId": 12022,
+    "JKAPLLFJKOI": "COUNTER_ZERO"
+   },
+   {
+    "effectId": 12023,
+    "JKAPLLFJKOI": "COUNTER_ZERO"
+   },
+   {
+    "effectId": 12024,
+    "JKAPLLFJKOI": "COUNTER_ZERO"
+   },
+   {
+    "effectId": 0,
+    "JKAPLLFJKOI": "NONE"
+   },
+   {
+    "effectId": 0,
+    "JKAPLLFJKOI": "NONE"
+   }
+  ],
+  "LEDMICHCBNE": 1202,
+  "ONIGDNMFHOJ": -1
+ },
+ {
+  "BCGMMHPGPEO": "",
+  "EBPIHPMLJJA": "",
+  "EPPDPBDFKND": true,
+  "HGCCBJMDFDJ": "FROZEN",
+  "KJGEDAKAGCC": [
+   {
+    "effectId": 12031,
+    "JKAPLLFJKOI": "NEARBY_BRICK_ELIMINATE"
+   },
+   {
+    "effectId": 12032,
+    "JKAPLLFJKOI": "COUNTER_ZERO"
+   },
+   {
+    "effectId": 0,
+    "JKAPLLFJKOI": "NONE"
+   },
+   {
+    "effectId": 0,
+    "JKAPLLFJKOI": "NONE"
+   },
+   {
+    "effectId": 0,
+    "JKAPLLFJKOI": "NONE"
+   },
+   {
+    "effectId": 0,
+    "JKAPLLFJKOI": "NONE"
+   }
+  ],
+  "LEDMICHCBNE": 1203,
+  "ONIGDNMFHOJ": -1
+ },
+ {
+  "BCGMMHPGPEO": "ART/UI/Atlas/Activity/LanternRiteV5/UI_Icon_LanV5Puzzle_Tag_BombIce",
+  "EBPIHPMLJJA": "ART/UI/Atlas/Activity/LanternRiteV5/UI_Icon_LanV5Puzzle_Tag_BombIce_CountBg",
+  "EPPDPBDFKND": false,
+  "HGCCBJMDFDJ": "FROZEN_BOMB",
+  "KJGEDAKAGCC": [
+   {
+    "effectId": 12041,
+    "JKAPLLFJKOI": "POST_ELIMINATE"
+   },
+   {
+    "effectId": 12042,
+    "JKAPLLFJKOI": "COUNTER_ZERO"
+   },
+   {
+    "effectId": 12043,
+    "JKAPLLFJKOI": "COUNTER_ZERO"
+   },
+   {
+    "effectId": 0,
+    "JKAPLLFJKOI": "NONE"
+   },
+   {
+    "effectId": 0,
+    "JKAPLLFJKOI": "NONE"
+   },
+   {
+    "effectId": 0,
+    "JKAPLLFJKOI": "NONE"
+   }
+  ],
+  "LEDMICHCBNE": 1204,
+  "ONIGDNMFHOJ": -1
+ },
+ {
+  "BCGMMHPGPEO": "ART/UI/Atlas/Activity/LanternRiteV5/UI_Icon_LanV5Puzzle_Tag_BombGray",
+  "EBPIHPMLJJA": "ART/UI/Atlas/Activity/LanternRiteV5/UI_Icon_LanV5Puzzle_Tag_BombGray_CountBg",
+  "EPPDPBDFKND": false,
+  "HGCCBJMDFDJ": "BARRIER_BOMB",
+  "KJGEDAKAGCC": [
+   {
+    "effectId": 12071,
+    "JKAPLLFJKOI": "POST_ELIMINATE"
+   },
+   {
+    "effectId": 12072,
+    "JKAPLLFJKOI": "COUNTER_ZERO"
+   },
+   {
+    "effectId": 12073,
+    "JKAPLLFJKOI": "COUNTER_ZERO"
+   },
+   {
+    "effectId": 12074,
+    "JKAPLLFJKOI": "COUNTER_ZERO"
+   },
+   {
+    "effectId": 0,
+    "JKAPLLFJKOI": "NONE"
+   },
+   {
+    "effectId": 0,
+    "JKAPLLFJKOI": "NONE"
+   }
+  ],
+  "LEDMICHCBNE": 1207,
+  "ONIGDNMFHOJ": -1
+ },
+ {
+  "BCGMMHPGPEO": "ART/UI/Atlas/Activity/LanternRiteV5/UI_Icon_LanV5Puzzle_Tag_Fire",
+  "EBPIHPMLJJA": "",
+  "EPPDPBDFKND": false,
+  "HGCCBJMDFDJ": "DEFAULT",
+  "KJGEDAKAGCC": [
+   {
+    "effectId": 99113,
+    "JKAPLLFJKOI": "POST_BRICK_ELIMINATE"
+   },
+   {
+    "effectId": 99114,
+    "JKAPLLFJKOI": "POST_ELIMINATE"
+   },
+   {
+    "effectId": 99115,
+    "JKAPLLFJKOI": "COUNTER_ZERO"
+   },
+   {
+    "effectId": 99116,
+    "JKAPLLFJKOI": "COUNTER_ZERO"
+   },
+   {
+    "effectId": 99117,
+    "JKAPLLFJKOI": "COUNTER_ZERO"
+   },
+   {
+    "effectId": 0,
+    "JKAPLLFJKOI": "NONE"
+   }
+  ],
+  "LEDMICHCBNE": 999,
+  "ONIGDNMFHOJ": -1
+ },
+ {
+  "BCGMMHPGPEO": "ART/UI/Atlas/Activity/LanternRiteV5/UI_Icon_LanV5Puzzle_Tag_Elect",
+  "EBPIHPMLJJA": "",
+  "EPPDPBDFKND": false,
+  "HGCCBJMDFDJ": "DEFAULT",
+  "KJGEDAKAGCC": [
+   {
+    "effectId": 99121,
+    "JKAPLLFJKOI": "POST_BRICK_ELIMINATE"
+   },
+   {
+    "effectId": 0,
+    "JKAPLLFJKOI": "NONE"
+   },
+   {
+    "effectId": 0,
+    "JKAPLLFJKOI": "NONE"
+   },
+   {
+    "effectId": 0,
+    "JKAPLLFJKOI": "NONE"
+   },
+   {
+    "effectId": 0,
+    "JKAPLLFJKOI": "NONE"
+   },
+   {
+    "effectId": 0,
+    "JKAPLLFJKOI": "NONE"
+   }
+  ],
+  "LEDMICHCBNE": 998,
+  "ONIGDNMFHOJ": -1
+ }
+]

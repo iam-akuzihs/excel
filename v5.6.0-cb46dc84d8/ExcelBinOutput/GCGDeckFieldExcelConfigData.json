@@ -1,0 +1,152 @@
+[
+ {
+  "tableTurnHintEffectList": [
+   "Eff_UI_Gcg_Checkerboard_Glow_02"
+  ],
+  "diceTableId": 2,
+  "bgmStateName": "State_CardGame_MengDe",
+  "stageTurnHintEffectList": [
+   "Eff_UI_Gcg_Table_Mengde"
+  ],
+  "hideWhenLocked": false,
+  "descTextMapHash": 3962735882,
+  "itemId": 339500,
+  "stagePrefabPath": "ART/System/GCG/Required/Gcg_Proxy/Gcg_Proxy_Table_01",
+  "staticImageHash": 2862788099280328496,
+  "enviroPath": "Data/Environment/EnviroSystemProfile/UI/ESP_UI_GcgCard",
+  "stageTurnHintLoopEffectList": [
+   "Eff_UI_Gcg_Table_Mengde_1"
+  ],
+  "unlockCondTextTextMapHash": 1908811578,
+  "order": 1,
+  "battleTableId": 1,
+  "id": 0,
+  "screenClickHintEffect": "ART/Effect/UI/UI/GCG/Eff_UI_Gcg_Click_Mengde",
+  "nameTextMapHash": 384357012
+ },
+ {
+  "tableTurnHintEffectList": [
+   "Eff_UI_Gcg_Checkerboard_Glow"
+  ],
+  "diceTableId": 4,
+  "bgmStateName": "State_CardGame_LiYue",
+  "stageTurnHintEffectList": [
+   "Eff_UI_Gcg_Table_Liyue"
+  ],
+  "hideWhenLocked": false,
+  "descTextMapHash": 2275741714,
+  "itemId": 339501,
+  "stagePrefabPath": "ART/System/GCG/Required/Gcg_Proxy/Gcg_Proxy_Table_01",
+  "staticImageHash": 3237775952017223437,
+  "enviroPath": "Data/Environment/EnviroSystemProfile/UI/ESP_UI_GcgCard",
+  "stageTurnHintLoopEffectList": [
+   "Eff_UI_Gcg_Table_Liyue_1"
+  ],
+  "unlockCondTextTextMapHash": 363252498,
+  "order": 2,
+  "battleTableId": 3,
+  "id": 101,
+  "screenClickHintEffect": "ART/Effect/UI/UI/GCG/Eff_UI_Gcg_Click_Liyue",
+  "nameTextMapHash": 45426028
+ },
+ {
+  "tableTurnHintEffectList": [
+   "Eff_UI_Gcg_Checkerboard_Glow_01"
+  ],
+  "diceTableId": 6,
+  "bgmStateName": "State_CardGame_DaoQi",
+  "stageTurnHintEffectList": [
+   "Eff_UI_Gcg_Table_Daoqi"
+  ],
+  "hideWhenLocked": false,
+  "descTextMapHash": 1856930906,
+  "itemId": 339502,
+  "stagePrefabPath": "ART/System/GCG/Required/Gcg_Proxy/Gcg_Proxy_Table_01",
+  "staticImageHash": 869199178744522539,
+  "enviroPath": "Data/Environment/EnviroSystemProfile/UI/ESP_UI_GcgCard",
+  "stageTurnHintLoopEffectList": [
+   "Eff_UI_Gcg_Table_Daoqi_1"
+  ],
+  "unlockCondTextTextMapHash": 3847898434,
+  "order": 3,
+  "battleTableId": 5,
+  "id": 102,
+  "screenClickHintEffect": "ART/Effect/UI/UI/GCG/Eff_UI_Gcg_Click_Daoqi",
+  "nameTextMapHash": 2761138860
+ },
+ {
+  "tableTurnHintEffectList": [
+   "Eff_UI_Gcg_Checkerboard_Glow_03"
+  ],
+  "diceTableId": 8,
+  "bgmStateName": "State_CardGame_XuMi",
+  "stageTurnHintEffectList": [
+   "Eff_UI_Gcg_Table_Xumi"
+  ],
+  "hideWhenLocked": false,
+  "descTextMapHash": 2150118914,
+  "itemId": 339503,
+  "stagePrefabPath": "ART/System/GCG/Required/Gcg_Proxy/Gcg_Proxy_Table_01",
+  "staticImageHash": 2566641660547949665,
+  "enviroPath": "Data/Environment/EnviroSystemProfile/UI/ESP_UI_GcgCard",
+  "stageTurnHintLoopEffectList": [
+   "Eff_UI_Gcg_Table_Xumi_1"
+  ],
+  "unlockCondTextTextMapHash": 3393081682,
+  "order": 4,
+  "battleTableId": 7,
+  "id": 103,
+  "screenClickHintEffect": "ART/Effect/UI/UI/GCG/Eff_UI_Gcg_Click_Xumi",
+  "nameTextMapHash": 2172568444
+ },
+ {
+  "tableTurnHintEffectList": [
+   "Eff_UI_Gcg_Checkerboard_Glow_04"
+  ],
+  "diceTableId": 10,
+  "bgmStateName": "State_CardGame_FengDan",
+  "stageTurnHintEffectList": [
+   "Eff_UI_Gcg_Table_Fontaine"
+  ],
+  "hideWhenLocked": false,
+  "descTextMapHash": 4055736682,
+  "itemId": 339504,
+  "stagePrefabPath": "ART/System/GCG/Required/Gcg_Proxy/Gcg_Proxy_Table_01",
+  "staticImageHash": 14100940635695270532,
+  "enviroPath": "Data/Environment/EnviroSystemProfile/UI/ESP_UI_GcgCard",
+  "stageTurnHintLoopEffectList": [
+   "Eff_UI_Gcg_Table_Fontaine_1"
+  ],
+  "unlockCondTextTextMapHash": 2068852106,
+  "order": 5,
+  "battleTableId": 9,
+  "id": 104,
+  "screenClickHintEffect": "ART/Effect/UI/UI/GCG/Eff_UI_Gcg_Click_Fontaine",
+  "nameTextMapHash": 3090015812
+ },
+ {
+  "tableTurnHintEffectList": [
+   "Eff_UI_Gcg_Checkerboard_Glow_05"
+  ],
+  "diceTableId": 12,
+  "bgmStateName": "State_CardGame_NaTa",
+  "stageTurnHintEffectList": [
+   "Eff_UI_Gcg_Table_Natlan"
+  ],
+  "hideWhenLocked": false,
+  "descTextMapHash": 3031285586,
+  "itemId": 339505,
+  "stagePrefabPath": "ART/System/GCG/Required/Gcg_Proxy/Gcg_Proxy_Table_01",
+  "staticImageHash": 17018109743590551933,
+  "enviroPath": "Data/Environment/EnviroSystemProfile/UI/ESP_UI_GcgCard",
+  "stageTurnHintLoopEffectList": [
+   "Eff_UI_Gcg_Table_Natlan_1"
+  ],
+  "unlockCondTextTextMapHash": 361528778,
+  "order": 6,
+  "battleTableId": 11,
+  "id": 105,
+  "screenClickHintEffect": "ART/Effect/UI/UI/GCG/Eff_UI_Gcg_Click_Natlan",
+  "nameTextMapHash": 1798342444
+ }
+]

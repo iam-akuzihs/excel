@@ -1,0 +1,773 @@
+[
+ {
+  "slotIdentifierPathList": [
+   "FlowerShelf"
+  ],
+  "noPartsTipsTextMapHash": 2734436925,
+  "tabNameTextMapHash": 2710518899,
+  "effectSlotSelect": "Eff_SceneObj_FlowerShlef_Switch",
+  "getPartsTipsTextMapHash": 211211571,
+  "tabId": 1001,
+  "dependentTabId": 0,
+  "effectPartsSetup": "Eff_SceneObj_FlowerShlef_Switch"
+ },
+ {
+  "slotIdentifierPathList": [
+   "FlowerShelf",
+   "Flower1"
+  ],
+  "noPartsTipsTextMapHash": 1741001165,
+  "tabNameTextMapHash": 3705330299,
+  "effectSlotSelect": "Eff_SceneObj_FlowerPot_Selected",
+  "getPartsTipsTextMapHash": 1074787019,
+  "tabId": 1002,
+  "dependentTabId": 1001,
+  "effectPartsSetup": "Eff_SceneObj_Flower_Switch"
+ },
+ {
+  "slotIdentifierPathList": [
+   "FlowerShelf",
+   "Flower2"
+  ],
+  "noPartsTipsTextMapHash": 1076783373,
+  "tabNameTextMapHash": 592305467,
+  "effectSlotSelect": "Eff_SceneObj_FlowerPot_Selected",
+  "getPartsTipsTextMapHash": 1693251187,
+  "tabId": 1003,
+  "dependentTabId": 1001,
+  "effectPartsSetup": "Eff_SceneObj_Flower_Switch"
+ },
+ {
+  "slotIdentifierPathList": [
+   "FlowerShelf",
+   "Flower3"
+  ],
+  "noPartsTipsTextMapHash": 4101174461,
+  "tabNameTextMapHash": 1277736707,
+  "effectSlotSelect": "Eff_SceneObj_FlowerPot_Selected",
+  "getPartsTipsTextMapHash": 2300085403,
+  "tabId": 1004,
+  "dependentTabId": 1001,
+  "effectPartsSetup": "Eff_SceneObj_Flower_Switch"
+ },
+ {
+  "slotIdentifierPathList": [
+   "Flower1"
+  ],
+  "noPartsTipsTextMapHash": 3647383885,
+  "tabNameTextMapHash": 4054028299,
+  "effectSlotSelect": "Eff_SceneObj_FlowerPot_Selected",
+  "getPartsTipsTextMapHash": 4191383659,
+  "tabId": 1005,
+  "dependentTabId": 0,
+  "effectPartsSetup": "Eff_SceneObj_Flower_Switch"
+ },
+ {
+  "slotIdentifierPathList": [
+   "Flower2"
+  ],
+  "noPartsTipsTextMapHash": 1073089381,
+  "tabNameTextMapHash": 93117563,
+  "effectSlotSelect": "Eff_SceneObj_FlowerPot_Selected",
+  "getPartsTipsTextMapHash": 562779299,
+  "tabId": 1006,
+  "dependentTabId": 0,
+  "effectPartsSetup": "Eff_SceneObj_Flower_Switch"
+ },
+ {
+  "slotIdentifierPathList": [
+   "Flower3"
+  ],
+  "noPartsTipsTextMapHash": 3567065125,
+  "tabNameTextMapHash": 798223691,
+  "effectSlotSelect": "Eff_SceneObj_FlowerPot_Selected",
+  "getPartsTipsTextMapHash": 3493302571,
+  "tabId": 1007,
+  "dependentTabId": 0,
+  "effectPartsSetup": "Eff_SceneObj_Flower_Switch"
+ },
+ {
+  "slotIdentifierPathList": [
+   "Head"
+  ],
+  "noPartsTipsTextMapHash": 1693751781,
+  "tabNameTextMapHash": 4177260251,
+  "effectSlotSelect": "",
+  "getPartsTipsTextMapHash": 1655486411,
+  "tabId": 2001,
+  "dependentTabId": 0,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Hand"
+  ],
+  "noPartsTipsTextMapHash": 237195237,
+  "tabNameTextMapHash": 1972529011,
+  "effectSlotSelect": "",
+  "getPartsTipsTextMapHash": 3442949251,
+  "tabId": 2002,
+  "dependentTabId": 0,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Head",
+   "Hat"
+  ],
+  "noPartsTipsTextMapHash": 646079205,
+  "tabNameTextMapHash": 4210768979,
+  "effectSlotSelect": "",
+  "getPartsTipsTextMapHash": 1340284355,
+  "tabId": 2003,
+  "dependentTabId": 2001,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Head",
+   "Scarf"
+  ],
+  "noPartsTipsTextMapHash": 3547007709,
+  "tabNameTextMapHash": 4056943835,
+  "effectSlotSelect": "",
+  "getPartsTipsTextMapHash": 749863699,
+  "tabId": 2004,
+  "dependentTabId": 2001,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Head",
+   "Eye"
+  ],
+  "noPartsTipsTextMapHash": 3049999909,
+  "tabNameTextMapHash": 3633818947,
+  "effectSlotSelect": "",
+  "getPartsTipsTextMapHash": 3932694547,
+  "tabId": 2005,
+  "dependentTabId": 2001,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Head",
+   "Nose"
+  ],
+  "noPartsTipsTextMapHash": 1012689941,
+  "tabNameTextMapHash": 3131636803,
+  "effectSlotSelect": "",
+  "getPartsTipsTextMapHash": 585857363,
+  "tabId": 2006,
+  "dependentTabId": 2001,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "FrontScene"
+  ],
+  "noPartsTipsTextMapHash": 2021312237,
+  "tabNameTextMapHash": 3941446811,
+  "effectSlotSelect": "",
+  "getPartsTipsTextMapHash": 4010405451,
+  "tabId": 3001,
+  "dependentTabId": 0,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "BehindScene"
+  ],
+  "noPartsTipsTextMapHash": 892697741,
+  "tabNameTextMapHash": 2759979219,
+  "effectSlotSelect": "",
+  "getPartsTipsTextMapHash": 3805043395,
+  "tabId": 3002,
+  "dependentTabId": 0,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "FrontScene",
+   "VitalFlower1"
+  ],
+  "noPartsTipsTextMapHash": 926879837,
+  "tabNameTextMapHash": 1960841939,
+  "effectSlotSelect": "Eff_SceneObj_Irodori_Flower_Selected",
+  "getPartsTipsTextMapHash": 2955367739,
+  "tabId": 3003,
+  "dependentTabId": 3001,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "FrontScene",
+   "VitalFlower2"
+  ],
+  "noPartsTipsTextMapHash": 4016139189,
+  "tabNameTextMapHash": 2631694803,
+  "effectSlotSelect": "Eff_SceneObj_Irodori_Flower_Selected",
+  "getPartsTipsTextMapHash": 1480909067,
+  "tabId": 3004,
+  "dependentTabId": 3001,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "FrontScene",
+   "VitalFlower3"
+  ],
+  "noPartsTipsTextMapHash": 3302761821,
+  "tabNameTextMapHash": 3796612835,
+  "effectSlotSelect": "Eff_SceneObj_Irodori_Flower_Selected",
+  "getPartsTipsTextMapHash": 4183802379,
+  "tabId": 3005,
+  "dependentTabId": 3001,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "FrontScene",
+   "VitalFlower4"
+  ],
+  "noPartsTipsTextMapHash": 2489947509,
+  "tabNameTextMapHash": 3936319635,
+  "effectSlotSelect": "Eff_SceneObj_Irodori_Flower_Selected",
+  "getPartsTipsTextMapHash": 3599916203,
+  "tabId": 3006,
+  "dependentTabId": 3001,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "FrontScene",
+   "VitalFlower5"
+  ],
+  "noPartsTipsTextMapHash": 220218853,
+  "tabNameTextMapHash": 3548648587,
+  "effectSlotSelect": "Eff_SceneObj_Irodori_Flower_Selected",
+  "getPartsTipsTextMapHash": 297459419,
+  "tabId": 3007,
+  "dependentTabId": 3001,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "FrontScene",
+   "VitalFlower6"
+  ],
+  "noPartsTipsTextMapHash": 1203503621,
+  "tabNameTextMapHash": 278556483,
+  "effectSlotSelect": "Eff_SceneObj_Irodori_Flower_Selected",
+  "getPartsTipsTextMapHash": 3705479875,
+  "tabId": 3008,
+  "dependentTabId": 3001,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Body"
+  ],
+  "noPartsTipsTextMapHash": 218368549,
+  "tabNameTextMapHash": 3258853123,
+  "effectSlotSelect": "",
+  "getPartsTipsTextMapHash": 3524425659,
+  "tabId": 4001,
+  "dependentTabId": 0,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Body",
+   "Head"
+  ],
+  "noPartsTipsTextMapHash": 2209394557,
+  "tabNameTextMapHash": 3567021371,
+  "effectSlotSelect": "",
+  "getPartsTipsTextMapHash": 440883323,
+  "tabId": 4002,
+  "dependentTabId": 4001,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Body",
+   "Head",
+   "Hat"
+  ],
+  "noPartsTipsTextMapHash": 2870987189,
+  "tabNameTextMapHash": 2749613003,
+  "effectSlotSelect": "",
+  "getPartsTipsTextMapHash": 1180535835,
+  "tabId": 4003,
+  "dependentTabId": 4002,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Body",
+   "Head",
+   "Cape"
+  ],
+  "noPartsTipsTextMapHash": 3076120429,
+  "tabNameTextMapHash": 1198204219,
+  "effectSlotSelect": "",
+  "getPartsTipsTextMapHash": 2497396051,
+  "tabId": 4004,
+  "dependentTabId": 4002,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Body",
+   "Head",
+   "Eye"
+  ],
+  "noPartsTipsTextMapHash": 3584154557,
+  "tabNameTextMapHash": 3102569515,
+  "effectSlotSelect": "",
+  "getPartsTipsTextMapHash": 1556471123,
+  "tabId": 4005,
+  "dependentTabId": 4002,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Head"
+  ],
+  "noPartsTipsTextMapHash": 1394748677,
+  "tabNameTextMapHash": 3541483531,
+  "effectSlotSelect": "",
+  "getPartsTipsTextMapHash": 3345068675,
+  "tabId": 4006,
+  "dependentTabId": 0,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Head",
+   "Hat"
+  ],
+  "noPartsTipsTextMapHash": 4081383461,
+  "tabNameTextMapHash": 1090854779,
+  "effectSlotSelect": "",
+  "getPartsTipsTextMapHash": 2385346283,
+  "tabId": 4007,
+  "dependentTabId": 4006,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Head",
+   "Cape"
+  ],
+  "noPartsTipsTextMapHash": 2624097437,
+  "tabNameTextMapHash": 2665349235,
+  "effectSlotSelect": "",
+  "getPartsTipsTextMapHash": 2598414523,
+  "tabId": 4008,
+  "dependentTabId": 4006,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Head",
+   "Eye"
+  ],
+  "noPartsTipsTextMapHash": 3055600829,
+  "tabNameTextMapHash": 147308395,
+  "effectSlotSelect": "",
+  "getPartsTipsTextMapHash": 3842385771,
+  "tabId": 4009,
+  "dependentTabId": 4006,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Shed"
+  ],
+  "noPartsTipsTextMapHash": 2958517349,
+  "tabNameTextMapHash": 2562366571,
+  "effectSlotSelect": "",
+  "getPartsTipsTextMapHash": 2013512499,
+  "tabId": 5001,
+  "dependentTabId": 0,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Shed",
+   "FrontGround"
+  ],
+  "noPartsTipsTextMapHash": 317864861,
+  "tabNameTextMapHash": 2022691947,
+  "effectSlotSelect": "",
+  "getPartsTipsTextMapHash": 2269552459,
+  "tabId": 5002,
+  "dependentTabId": 5001,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Shed",
+   "SideGround"
+  ],
+  "noPartsTipsTextMapHash": 2588907573,
+  "tabNameTextMapHash": 1436630307,
+  "effectSlotSelect": "",
+  "getPartsTipsTextMapHash": 3751295115,
+  "tabId": 5003,
+  "dependentTabId": 5001,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Shed",
+   "PendantA"
+  ],
+  "noPartsTipsTextMapHash": 1556804869,
+  "tabNameTextMapHash": 91433619,
+  "effectSlotSelect": "",
+  "getPartsTipsTextMapHash": 1898918915,
+  "tabId": 5004,
+  "dependentTabId": 5001,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Shed",
+   "PendantB"
+  ],
+  "noPartsTipsTextMapHash": 3094473029,
+  "tabNameTextMapHash": 2586358963,
+  "effectSlotSelect": "",
+  "getPartsTipsTextMapHash": 144277179,
+  "tabId": 5005,
+  "dependentTabId": 5001,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Easel"
+  ],
+  "noPartsTipsTextMapHash": 11309845,
+  "tabNameTextMapHash": 594419875,
+  "effectSlotSelect": "",
+  "getPartsTipsTextMapHash": 3641950219,
+  "tabId": 6001,
+  "dependentTabId": 0,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Booth11"
+  ],
+  "noPartsTipsTextMapHash": 529818837,
+  "tabNameTextMapHash": 1223359323,
+  "effectSlotSelect": "Eff_SceneObj_CapsuleToys_Cabinet_01",
+  "getPartsTipsTextMapHash": 977161851,
+  "tabId": 7001,
+  "dependentTabId": 0,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Booth12"
+  ],
+  "noPartsTipsTextMapHash": 4003387469,
+  "tabNameTextMapHash": 1869215851,
+  "effectSlotSelect": "Eff_SceneObj_CapsuleToys_Cabinet_01",
+  "getPartsTipsTextMapHash": 2466712563,
+  "tabId": 7002,
+  "dependentTabId": 0,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Booth13"
+  ],
+  "noPartsTipsTextMapHash": 1971301685,
+  "tabNameTextMapHash": 1824107275,
+  "effectSlotSelect": "Eff_SceneObj_CapsuleToys_Cabinet_01",
+  "getPartsTipsTextMapHash": 2950084227,
+  "tabId": 7003,
+  "dependentTabId": 0,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Booth14"
+  ],
+  "noPartsTipsTextMapHash": 433261053,
+  "tabNameTextMapHash": 1225782899,
+  "effectSlotSelect": "Eff_SceneObj_CapsuleToys_Cabinet_01",
+  "getPartsTipsTextMapHash": 220057899,
+  "tabId": 7004,
+  "dependentTabId": 0,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Booth15"
+  ],
+  "noPartsTipsTextMapHash": 1199990645,
+  "tabNameTextMapHash": 365193827,
+  "effectSlotSelect": "Eff_SceneObj_CapsuleToys_Cabinet_01",
+  "getPartsTipsTextMapHash": 3782388891,
+  "tabId": 7005,
+  "dependentTabId": 0,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Booth16"
+  ],
+  "noPartsTipsTextMapHash": 1236172085,
+  "tabNameTextMapHash": 570106075,
+  "effectSlotSelect": "Eff_SceneObj_CapsuleToys_Cabinet_01",
+  "getPartsTipsTextMapHash": 1339395939,
+  "tabId": 7006,
+  "dependentTabId": 0,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Booth17"
+  ],
+  "noPartsTipsTextMapHash": 2277084725,
+  "tabNameTextMapHash": 127471579,
+  "effectSlotSelect": "Eff_SceneObj_CapsuleToys_Cabinet_01",
+  "getPartsTipsTextMapHash": 2390882843,
+  "tabId": 7007,
+  "dependentTabId": 0,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Booth18"
+  ],
+  "noPartsTipsTextMapHash": 315829677,
+  "tabNameTextMapHash": 121841251,
+  "effectSlotSelect": "Eff_SceneObj_CapsuleToys_Cabinet_01",
+  "getPartsTipsTextMapHash": 4202695651,
+  "tabId": 7008,
+  "dependentTabId": 0,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Booth21"
+  ],
+  "noPartsTipsTextMapHash": 3926859605,
+  "tabNameTextMapHash": 1669538603,
+  "effectSlotSelect": "Eff_SceneObj_CapsuleToys_Cabinet_01",
+  "getPartsTipsTextMapHash": 2456493451,
+  "tabId": 7011,
+  "dependentTabId": 0,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Booth22"
+  ],
+  "noPartsTipsTextMapHash": 3830598373,
+  "tabNameTextMapHash": 2139565523,
+  "effectSlotSelect": "Eff_SceneObj_CapsuleToys_Cabinet_01",
+  "getPartsTipsTextMapHash": 2572018179,
+  "tabId": 7012,
+  "dependentTabId": 0,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Booth23"
+  ],
+  "noPartsTipsTextMapHash": 2748695205,
+  "tabNameTextMapHash": 4097647531,
+  "effectSlotSelect": "Eff_SceneObj_CapsuleToys_Cabinet_01",
+  "getPartsTipsTextMapHash": 1255833995,
+  "tabId": 7013,
+  "dependentTabId": 0,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Booth24"
+  ],
+  "noPartsTipsTextMapHash": 2605408029,
+  "tabNameTextMapHash": 1420563971,
+  "effectSlotSelect": "Eff_SceneObj_CapsuleToys_Cabinet_01",
+  "getPartsTipsTextMapHash": 3753633275,
+  "tabId": 7014,
+  "dependentTabId": 0,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Booth25"
+  ],
+  "noPartsTipsTextMapHash": 2304320205,
+  "tabNameTextMapHash": 4123050051,
+  "effectSlotSelect": "Eff_SceneObj_CapsuleToys_Cabinet_01",
+  "getPartsTipsTextMapHash": 308151555,
+  "tabId": 7015,
+  "dependentTabId": 0,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Booth26"
+  ],
+  "noPartsTipsTextMapHash": 3207183917,
+  "tabNameTextMapHash": 1109214003,
+  "effectSlotSelect": "Eff_SceneObj_CapsuleToys_Cabinet_01",
+  "getPartsTipsTextMapHash": 264180691,
+  "tabId": 7016,
+  "dependentTabId": 0,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Booth27"
+  ],
+  "noPartsTipsTextMapHash": 1772322573,
+  "tabNameTextMapHash": 4040543435,
+  "effectSlotSelect": "Eff_SceneObj_CapsuleToys_Cabinet_01",
+  "getPartsTipsTextMapHash": 2719704659,
+  "tabId": 7017,
+  "dependentTabId": 0,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Booth28"
+  ],
+  "noPartsTipsTextMapHash": 1914901109,
+  "tabNameTextMapHash": 2675870531,
+  "effectSlotSelect": "Eff_SceneObj_CapsuleToys_Cabinet_01",
+  "getPartsTipsTextMapHash": 4266852707,
+  "tabId": 7018,
+  "dependentTabId": 0,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Booth31"
+  ],
+  "noPartsTipsTextMapHash": 1364773277,
+  "tabNameTextMapHash": 4000869363,
+  "effectSlotSelect": "Eff_SceneObj_CapsuleToys_Cabinet_01",
+  "getPartsTipsTextMapHash": 1934783227,
+  "tabId": 7021,
+  "dependentTabId": 0,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Booth32"
+  ],
+  "noPartsTipsTextMapHash": 2844692117,
+  "tabNameTextMapHash": 178752987,
+  "effectSlotSelect": "Eff_SceneObj_CapsuleToys_Cabinet_01",
+  "getPartsTipsTextMapHash": 1011526899,
+  "tabId": 7022,
+  "dependentTabId": 0,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Booth33"
+  ],
+  "noPartsTipsTextMapHash": 2195234589,
+  "tabNameTextMapHash": 143223931,
+  "effectSlotSelect": "Eff_SceneObj_CapsuleToys_Cabinet_01",
+  "getPartsTipsTextMapHash": 289626659,
+  "tabId": 7023,
+  "dependentTabId": 0,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Booth34"
+  ],
+  "noPartsTipsTextMapHash": 1479526853,
+  "tabNameTextMapHash": 2382495987,
+  "effectSlotSelect": "Eff_SceneObj_CapsuleToys_Cabinet_01",
+  "getPartsTipsTextMapHash": 3121844755,
+  "tabId": 7024,
+  "dependentTabId": 0,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Booth35"
+  ],
+  "noPartsTipsTextMapHash": 2875783213,
+  "tabNameTextMapHash": 1101623819,
+  "effectSlotSelect": "Eff_SceneObj_CapsuleToys_Cabinet_01",
+  "getPartsTipsTextMapHash": 3701135699,
+  "tabId": 7025,
+  "dependentTabId": 0,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Booth36"
+  ],
+  "noPartsTipsTextMapHash": 1430891285,
+  "tabNameTextMapHash": 2465302547,
+  "effectSlotSelect": "Eff_SceneObj_CapsuleToys_Cabinet_01",
+  "getPartsTipsTextMapHash": 3049357659,
+  "tabId": 7026,
+  "dependentTabId": 0,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Booth37"
+  ],
+  "noPartsTipsTextMapHash": 2787793205,
+  "tabNameTextMapHash": 3553219523,
+  "effectSlotSelect": "Eff_SceneObj_CapsuleToys_Cabinet_01",
+  "getPartsTipsTextMapHash": 2837590611,
+  "tabId": 7027,
+  "dependentTabId": 0,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "Booth38"
+  ],
+  "noPartsTipsTextMapHash": 2601490189,
+  "tabNameTextMapHash": 1542598827,
+  "effectSlotSelect": "Eff_SceneObj_CapsuleToys_Cabinet_01",
+  "getPartsTipsTextMapHash": 2030805715,
+  "tabId": 7028,
+  "dependentTabId": 0,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "LeftHill"
+  ],
+  "noPartsTipsTextMapHash": 2351091748,
+  "tabNameTextMapHash": 314051144,
+  "effectSlotSelect": "",
+  "getPartsTipsTextMapHash": 2903350498,
+  "tabId": 100101,
+  "dependentTabId": 0,
+  "effectPartsSetup": ""
+ },
+ {
+  "slotIdentifierPathList": [
+   "RightHill"
+  ],
+  "noPartsTipsTextMapHash": 3273732940,
+  "tabNameTextMapHash": 18497744,
+  "effectSlotSelect": "",
+  "getPartsTipsTextMapHash": 3044273634,
+  "tabId": 100102,
+  "dependentTabId": 0,
+  "effectPartsSetup": ""
+ }
+]
