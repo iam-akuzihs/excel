@@ -1,0 +1,3042 @@
+[
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Stream",
+  "ABMBHFHKAJN": 1,
+  "descParamList": [
+   "25",
+   "6",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 607749278,
+  "HCCLBLJJFNM": 3974280587,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_41",
+  "id": 1,
+  "MPKAOHNJIEH": 713237568,
+  "nameTextMapHash": 1740644721,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Stream_Base:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Stream",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "4",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 402839622,
+  "HCCLBLJJFNM": 3946012075,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_42",
+  "id": 2,
+  "MPKAOHNJIEH": 4053512344,
+  "nameTextMapHash": 3473860897,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Stream_Lv1_A:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Stream",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "3",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 4090345838,
+  "HCCLBLJJFNM": 3635042579,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_43",
+  "id": 3,
+  "MPKAOHNJIEH": 1390015640,
+  "nameTextMapHash": 724369601,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Stream_Lv1_B:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Stream",
+  "ABMBHFHKAJN": 0,
+  "descParamList": [
+   "5",
+   "100",
+   "50",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 76371158,
+  "HCCLBLJJFNM": 2482884787,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_07",
+  "id": 4,
+  "MPKAOHNJIEH": 1855048800,
+  "nameTextMapHash": 4128388401,
+  "PDAPMEJHAGJ": true,
+  "PDLBOAPPHIJ": ""
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Stream",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 2146196558,
+  "HCCLBLJJFNM": 4014702939,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_42_1",
+  "id": 5,
+  "MPKAOHNJIEH": 3895606752,
+  "nameTextMapHash": 284134409,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Stream_Lv1_A:0,SGV_RoleCombat_Blessing_Stream_Lv2_A_01:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Stream",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "50",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 2827141382,
+  "HCCLBLJJFNM": 1648558563,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_42_2",
+  "id": 6,
+  "MPKAOHNJIEH": 1986468200,
+  "nameTextMapHash": 2250134857,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Stream_Lv2_02:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Stream",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 154767646,
+  "HCCLBLJJFNM": 3338781099,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_43_1",
+  "id": 7,
+  "MPKAOHNJIEH": 443660736,
+  "nameTextMapHash": 2090709257,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Stream_Lv1_B:0,SGV_RoleCombat_Blessing_Stream_Lv2_B_01:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Stream",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "50",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 3332936742,
+  "HCCLBLJJFNM": 131415507,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_43_2",
+  "id": 8,
+  "MPKAOHNJIEH": 268582000,
+  "nameTextMapHash": 3105096873,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Stream_Lv2_02:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_OverGrow",
+  "ABMBHFHKAJN": 1,
+  "descParamList": [
+   "50",
+   "150",
+   "45",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 1616789758,
+  "HCCLBLJJFNM": 3239539779,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_44",
+  "id": 9,
+  "MPKAOHNJIEH": 4015274096,
+  "nameTextMapHash": 3775386905,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_OverGrow_Base:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_OverGrow",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 2479979966,
+  "HCCLBLJJFNM": 3038485603,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_45",
+  "id": 10,
+  "MPKAOHNJIEH": 2642216992,
+  "nameTextMapHash": 1008008681,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_OverGrow_Lv1_A:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_OverGrow",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "4",
+   "2",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 1293914206,
+  "HCCLBLJJFNM": 1328115715,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_46",
+  "id": 11,
+  "MPKAOHNJIEH": 4211692656,
+  "nameTextMapHash": 2443706785,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_OverGrow_Lv1_B:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_OverGrow",
+  "ABMBHFHKAJN": 0,
+  "descParamList": [
+   "5",
+   "100",
+   "50",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 32308726,
+  "HCCLBLJJFNM": 4187115627,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_07",
+  "id": 12,
+  "MPKAOHNJIEH": 650485840,
+  "nameTextMapHash": 174978209,
+  "PDAPMEJHAGJ": true,
+  "PDLBOAPPHIJ": ""
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_OverGrow",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "3",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 389079278,
+  "HCCLBLJJFNM": 3333393859,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_45_1",
+  "id": 13,
+  "MPKAOHNJIEH": 3294233024,
+  "nameTextMapHash": 1709752561,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_OverGrow_Lv2_A_01:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_OverGrow",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "18",
+   "10",
+   "4",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 2090788150,
+  "HCCLBLJJFNM": 4147970387,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_45_2",
+  "id": 14,
+  "MPKAOHNJIEH": 1167322344,
+  "nameTextMapHash": 4065620057,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_OverGrow_Lv2_A_02:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_OverGrow",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "4",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 3759498366,
+  "HCCLBLJJFNM": 202992811,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_46_1",
+  "id": 15,
+  "MPKAOHNJIEH": 2458826088,
+  "nameTextMapHash": 849321233,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_OverGrow_Lv2_B_01:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_OverGrow",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "3",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 950671390,
+  "HCCLBLJJFNM": 3852711211,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_46_2",
+  "id": 16,
+  "MPKAOHNJIEH": 2079564832,
+  "nameTextMapHash": 2432375025,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_OverGrow_Lv2_B_02:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Burning",
+  "ABMBHFHKAJN": 1,
+  "descParamList": [
+   "70",
+   "500",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 898631982,
+  "HCCLBLJJFNM": 1124010443,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_47",
+  "id": 17,
+  "MPKAOHNJIEH": 1129191800,
+  "nameTextMapHash": 4126887113,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Burning_Base:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Burning",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "6",
+   "4",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 3826923542,
+  "HCCLBLJJFNM": 450608611,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_49",
+  "id": 18,
+  "MPKAOHNJIEH": 3754611000,
+  "nameTextMapHash": 1470598297,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Burning_Lv1_A:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Burning",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "8",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 654307662,
+  "HCCLBLJJFNM": 2568104411,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_48",
+  "id": 19,
+  "MPKAOHNJIEH": 2530704504,
+  "nameTextMapHash": 2024037425,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Burning_Lv1_B:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Burning",
+  "ABMBHFHKAJN": 0,
+  "descParamList": [
+   "100",
+   "1.5",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 2898455630,
+  "HCCLBLJJFNM": 218941811,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_07",
+  "id": 20,
+  "MPKAOHNJIEH": 356147664,
+  "nameTextMapHash": 1073078673,
+  "PDAPMEJHAGJ": true,
+  "PDLBOAPPHIJ": ""
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Burning",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "120",
+   "6",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 1252699334,
+  "HCCLBLJJFNM": 1200254419,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_49_1",
+  "id": 21,
+  "MPKAOHNJIEH": 3541720344,
+  "nameTextMapHash": 3276187017,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Burning_Lv1_A:0,SGV_RoleCombat_Blessing_Burning_Lv2_A_01:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Burning",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "100",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 1536604534,
+  "HCCLBLJJFNM": 2939359419,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_49_2",
+  "id": 22,
+  "MPKAOHNJIEH": 1675233344,
+  "nameTextMapHash": 3766074761,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Burning_Lv1_A:0,SGV_RoleCombat_Blessing_Burning_Lv2_A_02:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Burning",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "2",
+   "70",
+   "8",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 363685366,
+  "HCCLBLJJFNM": 354784267,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_48_1",
+  "id": 23,
+  "MPKAOHNJIEH": 2999470248,
+  "nameTextMapHash": 2570563041,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Burning_Lv1_B:0,SGV_RoleCombat_Blessing_Burning_Lv2_B_01:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Burning",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "3",
+   "50",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 1193700750,
+  "HCCLBLJJFNM": 3485480283,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_48_2",
+  "id": 24,
+  "MPKAOHNJIEH": 1326027952,
+  "nameTextMapHash": 2357023793,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Burning_Lv1_B:0,SGV_RoleCombat_Blessing_Burning_Lv2_B_02:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeFire",
+  "ABMBHFHKAJN": 1,
+  "descParamList": [
+   "5",
+   "50",
+   "4",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 2714994174,
+  "HCCLBLJJFNM": 2877979651,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_50",
+  "id": 25,
+  "MPKAOHNJIEH": 1678019984,
+  "nameTextMapHash": 577872297,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_CrystallizeFire_Base:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeFire",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "6",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 1765258382,
+  "HCCLBLJJFNM": 3984049515,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_51",
+  "id": 26,
+  "MPKAOHNJIEH": 2305384864,
+  "nameTextMapHash": 3058935009,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_CrystallizeFire_Lv1_A:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeFire",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "4",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 3186624878,
+  "HCCLBLJJFNM": 2916839467,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_52",
+  "id": 27,
+  "MPKAOHNJIEH": 2020550920,
+  "nameTextMapHash": 1505494217,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_CrystallizeFire_Lv1_B:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeFire",
+  "ABMBHFHKAJN": 0,
+  "descParamList": [
+   "10",
+   "10",
+   "1.5",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 3760759198,
+  "HCCLBLJJFNM": 708313459,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_07",
+  "id": 28,
+  "MPKAOHNJIEH": 1299822840,
+  "nameTextMapHash": 705846737,
+  "PDAPMEJHAGJ": true,
+  "PDLBOAPPHIJ": ""
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeFire",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "8",
+   "20",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 1558886814,
+  "HCCLBLJJFNM": 2589977851,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_51_1",
+  "id": 29,
+  "MPKAOHNJIEH": 199351416,
+  "nameTextMapHash": 500450625,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_CrystallizeFire_Lv2_A_01:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeFire",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "2",
+   "6",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 3929000446,
+  "HCCLBLJJFNM": 3840051267,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_51_2",
+  "id": 30,
+  "MPKAOHNJIEH": 2600728944,
+  "nameTextMapHash": 514730369,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_CrystallizeFire_Lv2_A_02:1,SGV_RoleCombat_Blessing_CrystallizeFire_Lv1_A:0"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeFire",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "8",
+   "20",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 936733102,
+  "HCCLBLJJFNM": 3013775475,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_52_1",
+  "id": 31,
+  "MPKAOHNJIEH": 2410564688,
+  "nameTextMapHash": 3588417993,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_CrystallizeFire_Lv2_B_01:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeFire",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "2",
+   "4",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 1399764030,
+  "HCCLBLJJFNM": 2244948083,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_52_2",
+  "id": 32,
+  "MPKAOHNJIEH": 3509405112,
+  "nameTextMapHash": 2125277441,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_CrystallizeFire_Lv2_B_02:1,SGV_RoleCombat_Blessing_CrystallizeFire_Lv1_B:0"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeElectric",
+  "ABMBHFHKAJN": 1,
+  "descParamList": [
+   "5",
+   "50",
+   "4",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 2106761222,
+  "HCCLBLJJFNM": 1860615635,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_53",
+  "id": 33,
+  "MPKAOHNJIEH": 2779923488,
+  "nameTextMapHash": 1281055849,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_CrystallizeElectric_Base:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeElectric",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "4",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 2649659806,
+  "HCCLBLJJFNM": 3836887299,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_54",
+  "id": 34,
+  "MPKAOHNJIEH": 1938514976,
+  "nameTextMapHash": 3572747673,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_CrystallizeElectric_Lv1_A:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeElectric",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "2",
+   "4",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 287330686,
+  "HCCLBLJJFNM": 4013687235,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_55",
+  "id": 35,
+  "MPKAOHNJIEH": 293355832,
+  "nameTextMapHash": 105929985,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_CrystallizeElectric_Lv1_B:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeElectric",
+  "ABMBHFHKAJN": 0,
+  "descParamList": [
+   "10",
+   "10",
+   "1.5",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 2939338006,
+  "HCCLBLJJFNM": 1180268027,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_07",
+  "id": 36,
+  "MPKAOHNJIEH": 3787316336,
+  "nameTextMapHash": 4184233433,
+  "PDAPMEJHAGJ": true,
+  "PDLBOAPPHIJ": ""
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeElectric",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "8",
+   "20",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 3272257838,
+  "HCCLBLJJFNM": 2891940235,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_54_1",
+  "id": 37,
+  "MPKAOHNJIEH": 1620149528,
+  "nameTextMapHash": 1499352537,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_CrystallizeElectric_Lv2_B_01:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeElectric",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "2",
+   "4",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 1494284678,
+  "HCCLBLJJFNM": 2213368011,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_54_2",
+  "id": 38,
+  "MPKAOHNJIEH": 4154825768,
+  "nameTextMapHash": 1905802665,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_CrystallizeElectric_Lv2_A_02:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeElectric",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "8",
+   "20",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 2536206342,
+  "HCCLBLJJFNM": 22836251,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_55_1",
+  "id": 39,
+  "MPKAOHNJIEH": 2664866192,
+  "nameTextMapHash": 4144128409,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_CrystallizeElectric_Lv2_B_01:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeElectric",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "2",
+   "4",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 1221158926,
+  "HCCLBLJJFNM": 4072187075,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_55_2",
+  "id": 40,
+  "MPKAOHNJIEH": 3607879840,
+  "nameTextMapHash": 416678001,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_CrystallizeElectric_Lv2_B_02:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Explode",
+  "ABMBHFHKAJN": 1,
+  "descParamList": [
+   "5.5",
+   "4",
+   "12",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 280287398,
+  "HCCLBLJJFNM": 3891076571,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_56",
+  "id": 41,
+  "MPKAOHNJIEH": 1623603512,
+  "nameTextMapHash": 3170679025,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Explode_Base:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Explode",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "4",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 2750230758,
+  "HCCLBLJJFNM": 4233232387,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_57",
+  "id": 42,
+  "MPKAOHNJIEH": 1098888424,
+  "nameTextMapHash": 3514713425,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Explode_LV1_Fire:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Explode",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "6",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 2231558534,
+  "HCCLBLJJFNM": 519357643,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_58",
+  "id": 43,
+  "MPKAOHNJIEH": 792564904,
+  "nameTextMapHash": 4178825505,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Explode_LV1_Elec:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Explode",
+  "ABMBHFHKAJN": 0,
+  "descParamList": [
+   "10",
+   "10",
+   "1.5",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 4056878246,
+  "HCCLBLJJFNM": 1039232411,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_07",
+  "id": 44,
+  "MPKAOHNJIEH": 2589301104,
+  "nameTextMapHash": 654036465,
+  "PDAPMEJHAGJ": true,
+  "PDLBOAPPHIJ": ""
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Explode",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 829733342,
+  "HCCLBLJJFNM": 232565875,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_57_1",
+  "id": 45,
+  "MPKAOHNJIEH": 99704136,
+  "nameTextMapHash": 2742274465,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Explode_LV2_Fire_01:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Explode",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "2",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 3121818086,
+  "HCCLBLJJFNM": 821012643,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_57_2",
+  "id": 46,
+  "MPKAOHNJIEH": 3999802696,
+  "nameTextMapHash": 160111801,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Explode_LV2_Fire_02:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Explode",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 3534136534,
+  "HCCLBLJJFNM": 2842102195,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_58_1",
+  "id": 47,
+  "MPKAOHNJIEH": 770630064,
+  "nameTextMapHash": 2980841929,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Explode_LV2_Elec_01:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Explode",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "3",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 2272616782,
+  "HCCLBLJJFNM": 755730555,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_58_2",
+  "id": 48,
+  "MPKAOHNJIEH": 2198098328,
+  "nameTextMapHash": 3378173257,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Explode_LV2_Elec_02:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Overdose",
+  "ABMBHFHKAJN": 1,
+  "descParamList": [
+   "6",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 603415846,
+  "HCCLBLJJFNM": 3807160819,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_59",
+  "id": 49,
+  "MPKAOHNJIEH": 721793232,
+  "nameTextMapHash": 3387731425,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Overdose_Base:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Overdose",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "10",
+   "8",
+   "6",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 3320485342,
+  "HCCLBLJJFNM": 828382619,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_60",
+  "id": 50,
+  "MPKAOHNJIEH": 2811756808,
+  "nameTextMapHash": 1931115969,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Overdose_LV1_Lightning:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Overdose",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "2",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 2629902486,
+  "HCCLBLJJFNM": 4177990779,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_61",
+  "id": 51,
+  "MPKAOHNJIEH": 353684904,
+  "nameTextMapHash": 897743073,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Overdose_LV1_GrassBullet:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Overdose",
+  "ABMBHFHKAJN": 0,
+  "descParamList": [
+   "100",
+   "1.5",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 2752750646,
+  "HCCLBLJJFNM": 1701870851,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_07",
+  "id": 52,
+  "MPKAOHNJIEH": 3321282704,
+  "nameTextMapHash": 5665033,
+  "PDAPMEJHAGJ": true,
+  "PDLBOAPPHIJ": ""
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Overdose",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "30",
+   "10",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 1559820326,
+  "HCCLBLJJFNM": 2188539,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_60_1",
+  "id": 53,
+  "MPKAOHNJIEH": 3248882024,
+  "nameTextMapHash": 493999369,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Overdose_LV2_Lightning_01:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Overdose",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "200",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 3804142766,
+  "HCCLBLJJFNM": 904203507,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_60_2",
+  "id": 54,
+  "MPKAOHNJIEH": 1399912936,
+  "nameTextMapHash": 1303497001,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Overdose_LV2_Lightning_02:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Overdose",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "1",
+   "25",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 1287721254,
+  "HCCLBLJJFNM": 1138312491,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_61_1",
+  "id": 55,
+  "MPKAOHNJIEH": 1027211512,
+  "nameTextMapHash": 2757479849,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Overdose_LV2_GrassBullet_01:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Overdose",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "7.5",
+   "9",
+   "50",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 4188045430,
+  "HCCLBLJJFNM": 478244299,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_61_2",
+  "id": 56,
+  "MPKAOHNJIEH": 751837488,
+  "nameTextMapHash": 2573424913,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Overdose_LV2_GrassBullet_02:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Explode",
+  "ABMBHFHKAJN": 1,
+  "descParamList": [
+   "5.5",
+   "4",
+   "12",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 733228486,
+  "HCCLBLJJFNM": 3669578899,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_56",
+  "id": 57,
+  "MPKAOHNJIEH": 3917568264,
+  "nameTextMapHash": 956124649,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Explode_Base:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Explode",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "4",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 1571628366,
+  "HCCLBLJJFNM": 3902801923,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_57",
+  "id": 58,
+  "MPKAOHNJIEH": 2662409696,
+  "nameTextMapHash": 2359615641,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Explode_LV1_Fire:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Explode",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "6",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 464110046,
+  "HCCLBLJJFNM": 983025747,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_58",
+  "id": 59,
+  "MPKAOHNJIEH": 2424569928,
+  "nameTextMapHash": 76171569,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Explode_LV1_Elec:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Explode",
+  "ABMBHFHKAJN": 0,
+  "descParamList": [
+   "100",
+   "1.5",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 3103797262,
+  "HCCLBLJJFNM": 517202963,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_07",
+  "id": 60,
+  "MPKAOHNJIEH": 433522864,
+  "nameTextMapHash": 4060294201,
+  "PDAPMEJHAGJ": true,
+  "PDLBOAPPHIJ": ""
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Explode",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 919955534,
+  "HCCLBLJJFNM": 2084330747,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_57_1",
+  "id": 61,
+  "MPKAOHNJIEH": 3636586512,
+  "nameTextMapHash": 1296268353,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Explode_LV2_Fire_01:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Explode",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "2",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 681225718,
+  "HCCLBLJJFNM": 2259919171,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_57_2",
+  "id": 62,
+  "MPKAOHNJIEH": 1461993576,
+  "nameTextMapHash": 4075850977,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Explode_LV2_Fire_02:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Explode",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 4287110454,
+  "HCCLBLJJFNM": 2558542267,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_58_1",
+  "id": 63,
+  "MPKAOHNJIEH": 3827878200,
+  "nameTextMapHash": 102524009,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Explode_LV2_Elec_01:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Explode",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "3",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 104271926,
+  "HCCLBLJJFNM": 3055840699,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_58_2",
+  "id": 64,
+  "MPKAOHNJIEH": 839227568,
+  "nameTextMapHash": 902346073,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Explode_LV2_Elec_02:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeFire_New",
+  "ABMBHFHKAJN": 1,
+  "descParamList": [
+   "70",
+   "9",
+   "4",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 140659110,
+  "HCCLBLJJFNM": 3030770715,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_50",
+  "id": 65,
+  "MPKAOHNJIEH": 847621272,
+  "nameTextMapHash": 2625283409,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_CrystallizeFireNew_Base:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeFire_New",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "4",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 4205254958,
+  "HCCLBLJJFNM": 2497082571,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_52",
+  "id": 66,
+  "MPKAOHNJIEH": 3274103136,
+  "nameTextMapHash": 4159657265,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_CrystallizeFireNew_Lv1_RockAOE:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeFire_New",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "2",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 2865233054,
+  "HCCLBLJJFNM": 2866133395,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_62",
+  "id": 67,
+  "MPKAOHNJIEH": 1337131288,
+  "nameTextMapHash": 3872398425,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_CrystallizeFireNew_Lv1_NormalAttack:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeFire_New",
+  "ABMBHFHKAJN": 0,
+  "descParamList": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 491416942,
+  "HCCLBLJJFNM": 3195862267,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_07",
+  "id": 68,
+  "MPKAOHNJIEH": 3715929496,
+  "nameTextMapHash": 598979585,
+  "PDAPMEJHAGJ": true,
+  "PDLBOAPPHIJ": ""
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeFire_New",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "8",
+   "30",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 2587019614,
+  "HCCLBLJJFNM": 3597887771,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_52_1",
+  "id": 69,
+  "MPKAOHNJIEH": 838927432,
+  "nameTextMapHash": 2499367249,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_CrystallizeFireNew_Lv2_RockAOE_01:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeFire_New",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "2",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 1222329414,
+  "HCCLBLJJFNM": 3126794283,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_52_2",
+  "id": 70,
+  "MPKAOHNJIEH": 354999768,
+  "nameTextMapHash": 2505266257,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_CrystallizeFireNew_Lv2_RockAOE_02:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeFire_New",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "40",
+   "40",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 3877819710,
+  "HCCLBLJJFNM": 1004909931,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_62_1",
+  "id": 71,
+  "MPKAOHNJIEH": 3996748056,
+  "nameTextMapHash": 2048616793,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_CrystallizeFireNew_Lv2_NormalAttack_01:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeFire_New",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "50",
+   "0.5",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 2187051062,
+  "HCCLBLJJFNM": 4080907659,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_62_2",
+  "id": 72,
+  "MPKAOHNJIEH": 1357099160,
+  "nameTextMapHash": 2018938985,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_CrystallizeFireNew_Lv2_NormalAttack_02:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeIce",
+  "ABMBHFHKAJN": 1,
+  "descParamList": [
+   "70",
+   "9",
+   "4",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 1943478718,
+  "HCCLBLJJFNM": 3026591947,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_63",
+  "id": 73,
+  "MPKAOHNJIEH": 93988312,
+  "nameTextMapHash": 3657132241,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_CrystallizeIce_Base:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeIce",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "4",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 2081312822,
+  "HCCLBLJJFNM": 143194475,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_64",
+  "id": 74,
+  "MPKAOHNJIEH": 4291015784,
+  "nameTextMapHash": 2921334009,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_CrystallizeIce_Lv1_RockAOE:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeIce",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "2",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 3575116214,
+  "HCCLBLJJFNM": 1481311339,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_65",
+  "id": 75,
+  "MPKAOHNJIEH": 2660202560,
+  "nameTextMapHash": 927408193,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_CrystallizeIce_Lv1_Crit:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeIce",
+  "ABMBHFHKAJN": 0,
+  "descParamList": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 2806028414,
+  "HCCLBLJJFNM": 1527498899,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_07",
+  "id": 76,
+  "MPKAOHNJIEH": 1984688304,
+  "nameTextMapHash": 3913542753,
+  "PDAPMEJHAGJ": true,
+  "PDLBOAPPHIJ": ""
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeIce",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "8",
+   "30",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 219951158,
+  "HCCLBLJJFNM": 2044325987,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_64_1",
+  "id": 77,
+  "MPKAOHNJIEH": 4105773136,
+  "nameTextMapHash": 908446841,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_CrystallizeIce_Lv2_RockAOE_01:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeIce",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "2",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 3856625102,
+  "HCCLBLJJFNM": 2346199219,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_64_2",
+  "id": 78,
+  "MPKAOHNJIEH": 2893888824,
+  "nameTextMapHash": 1720597785,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_CrystallizeIce_Lv2_RockAOE_02:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeIce",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "40",
+   "40",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 3700101558,
+  "HCCLBLJJFNM": 3155368003,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_65_1",
+  "id": 79,
+  "MPKAOHNJIEH": 3114877040,
+  "nameTextMapHash": 3908425153,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_CrystallizeIce_Lv2_Crit_01:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeIce",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "50",
+   "0.5",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 1488003582,
+  "HCCLBLJJFNM": 1979671979,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_65_2",
+  "id": 80,
+  "MPKAOHNJIEH": 31521936,
+  "nameTextMapHash": 2894833809,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_CrystallizeIce_Lv2_Crit_02:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Melt",
+  "ABMBHFHKAJN": 1,
+  "descParamList": [
+   "4",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 3938081046,
+  "HCCLBLJJFNM": 748847339,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_66",
+  "id": 81,
+  "MPKAOHNJIEH": 4121643504,
+  "nameTextMapHash": 2603694489,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Melt_Base:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Melt",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "60",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 102645014,
+  "HCCLBLJJFNM": 324176243,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_67",
+  "id": 82,
+  "MPKAOHNJIEH": 458099872,
+  "nameTextMapHash": 1858902225,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Melt_LV1_AOE_Enhance:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Melt",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "9",
+   "30",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 1780216102,
+  "HCCLBLJJFNM": 4092320115,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_68",
+  "id": 83,
+  "MPKAOHNJIEH": 185933096,
+  "nameTextMapHash": 1292329145,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Melt_LV1_DamageRatioUp:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Melt",
+  "ABMBHFHKAJN": 0,
+  "descParamList": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 2331243862,
+  "HCCLBLJJFNM": 1042316299,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_07",
+  "id": 84,
+  "MPKAOHNJIEH": 511788376,
+  "nameTextMapHash": 1723478057,
+  "PDAPMEJHAGJ": true,
+  "PDLBOAPPHIJ": ""
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Melt",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "40",
+   "6",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 903650654,
+  "HCCLBLJJFNM": 3638670603,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_67_1",
+  "id": 85,
+  "MPKAOHNJIEH": 435406288,
+  "nameTextMapHash": 3741374921,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Melt_LV2_AOE_Enhance_01:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Melt",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 832449646,
+  "HCCLBLJJFNM": 3939860771,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_67_2",
+  "id": 86,
+  "MPKAOHNJIEH": 2064618728,
+  "nameTextMapHash": 3074126265,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Melt_LV2_AOE_Enhance_02:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Melt",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "40",
+   "6",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 3742646678,
+  "HCCLBLJJFNM": 1242669299,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_68_1",
+  "id": 87,
+  "MPKAOHNJIEH": 735072352,
+  "nameTextMapHash": 4171466049,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Melt_LV2_AOE_Enhance_01:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Melt",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "90",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 1762904438,
+  "HCCLBLJJFNM": 3290468403,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_68_2",
+  "id": 88,
+  "MPKAOHNJIEH": 1906971760,
+  "nameTextMapHash": 1408381009,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Melt_LV2_DamageRatioUp_02:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_SwirlWater",
+  "ABMBHFHKAJN": 1,
+  "descParamList": [
+   "80",
+   "8",
+   "6",
+   "3",
+   ""
+  ],
+  "GCJJKHGMLDA": 3253505334,
+  "HCCLBLJJFNM": 2711663091,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_69",
+  "id": 89,
+  "MPKAOHNJIEH": 2649539672,
+  "nameTextMapHash": 3876140169,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_SwirlWater_Base:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_SwirlWater",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "4.5",
+   "5",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 2279794990,
+  "HCCLBLJJFNM": 1118717307,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_70",
+  "id": 90,
+  "MPKAOHNJIEH": 1549621472,
+  "nameTextMapHash": 1448151081,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_SwirlWater_LV1_HealBall:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_SwirlWater",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "3.5",
+   "8",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 3024618886,
+  "HCCLBLJJFNM": 946401491,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_71",
+  "id": 91,
+  "MPKAOHNJIEH": 1216346424,
+  "nameTextMapHash": 3994289233,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_SwirlWater_LV1_WaterTornado:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_SwirlWater",
+  "ABMBHFHKAJN": 0,
+  "descParamList": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 44325350,
+  "HCCLBLJJFNM": 1700276715,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_07",
+  "id": 92,
+  "MPKAOHNJIEH": 1137619432,
+  "nameTextMapHash": 601672081,
+  "PDAPMEJHAGJ": true,
+  "PDLBOAPPHIJ": ""
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_SwirlWater",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "60",
+   "10",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 207444086,
+  "HCCLBLJJFNM": 3482192179,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_70_1",
+  "id": 93,
+  "MPKAOHNJIEH": 405965112,
+  "nameTextMapHash": 4257219737,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_SwirlWater_LV2_HealBall_Enhanced_01:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_SwirlWater",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "15",
+   "3",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 2804747774,
+  "HCCLBLJJFNM": 1186133347,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_70_2",
+  "id": 94,
+  "MPKAOHNJIEH": 2342941048,
+  "nameTextMapHash": 3747868841,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_SwirlWater_LV2_HealBall_Enhanced_02:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_SwirlWater",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "15",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 3233548350,
+  "HCCLBLJJFNM": 3499467819,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_71_1",
+  "id": 95,
+  "MPKAOHNJIEH": 1495782408,
+  "nameTextMapHash": 516125713,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_SwirlWater_LV2_WaterTornado_Enhanced_01:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_SwirlWater",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "60",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 302937358,
+  "HCCLBLJJFNM": 2245208083,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_71_2",
+  "id": 96,
+  "MPKAOHNJIEH": 3327404384,
+  "nameTextMapHash": 504634745,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_SwirlWater_LV2_WaterTornado_Enhanced_02:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_SwirlElectric",
+  "ABMBHFHKAJN": 1,
+  "descParamList": [
+   "80",
+   "2",
+   "6",
+   "3",
+   "3"
+  ],
+  "GCJJKHGMLDA": 2204305606,
+  "HCCLBLJJFNM": 91146435,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_72",
+  "id": 97,
+  "MPKAOHNJIEH": 2786212080,
+  "nameTextMapHash": 2344729017,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_SwirlElectric_Base:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_SwirlElectric",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "4",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 1390631206,
+  "HCCLBLJJFNM": 4274322723,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_73",
+  "id": 98,
+  "MPKAOHNJIEH": 2312915384,
+  "nameTextMapHash": 877001737,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_SwirlElectric_LV1_Shuriken:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_SwirlElectric",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "2",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 3652399422,
+  "HCCLBLJJFNM": 2433587707,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_74",
+  "id": 99,
+  "MPKAOHNJIEH": 283486640,
+  "nameTextMapHash": 1388508473,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_SwirlElectric_LV1_RocketJump:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_SwirlElectric",
+  "ABMBHFHKAJN": 0,
+  "descParamList": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 3621085566,
+  "HCCLBLJJFNM": 2880588179,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_07",
+  "id": 100,
+  "MPKAOHNJIEH": 191797528,
+  "nameTextMapHash": 1307437465,
+  "PDAPMEJHAGJ": true,
+  "PDLBOAPPHIJ": ""
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_SwirlElectric",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "20",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 2131302614,
+  "HCCLBLJJFNM": 456567059,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_73_1",
+  "id": 101,
+  "MPKAOHNJIEH": 3741295856,
+  "nameTextMapHash": 3759930497,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_SwirlElectric_LV2_Shuriken_Enhanced_01:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_SwirlElectric",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "100",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 4017294742,
+  "HCCLBLJJFNM": 2805715187,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_73_2",
+  "id": 102,
+  "MPKAOHNJIEH": 3720417640,
+  "nameTextMapHash": 2826396793,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_SwirlElectric_LV2_Shuriken_Enhanced_02:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_SwirlElectric",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "20",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 1805152510,
+  "HCCLBLJJFNM": 4094046635,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_74_1",
+  "id": 103,
+  "MPKAOHNJIEH": 3305482480,
+  "nameTextMapHash": 3812099409,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_SwirlElectric_LV2_RocketJump_Enhanced_01:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_SwirlElectric",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "2",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 4001512742,
+  "HCCLBLJJFNM": 2815223051,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_74_2",
+  "id": 104,
+  "MPKAOHNJIEH": 4060892256,
+  "nameTextMapHash": 3294913769,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_SwirlElectric_LV2_RocketJump_Enhanced_02:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Shock",
+  "ABMBHFHKAJN": 1,
+  "descParamList": [
+   "3",
+   "250",
+   "70",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 2714151038,
+  "HCCLBLJJFNM": 2615947491,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_75",
+  "id": 105,
+  "MPKAOHNJIEH": 1732054192,
+  "nameTextMapHash": 2633079057,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Shock_Base:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Shock",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "2",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 2999337014,
+  "HCCLBLJJFNM": 1957867715,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_76",
+  "id": 106,
+  "MPKAOHNJIEH": 3306775552,
+  "nameTextMapHash": 3600589065,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Shock_LV1_ElectricCannon:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Shock",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "2",
+   "2",
+   "5",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 2391268366,
+  "HCCLBLJJFNM": 1654631795,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_77",
+  "id": 107,
+  "MPKAOHNJIEH": 4216052096,
+  "nameTextMapHash": 2575853625,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Shock_LV1_DarkClouds:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Shock",
+  "ABMBHFHKAJN": 0,
+  "descParamList": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 3187080502,
+  "HCCLBLJJFNM": 2150021427,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_07",
+  "id": 108,
+  "MPKAOHNJIEH": 2143908064,
+  "nameTextMapHash": 2589048217,
+  "PDAPMEJHAGJ": true,
+  "PDLBOAPPHIJ": ""
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Shock",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 3479626878,
+  "HCCLBLJJFNM": 4236069315,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_76_1",
+  "id": 109,
+  "MPKAOHNJIEH": 2755293464,
+  "nameTextMapHash": 3612967345,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Shock_LV2_ElectricCannon_Enhanced_01:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Shock",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 2365437998,
+  "HCCLBLJJFNM": 3246346699,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_76_2",
+  "id": 110,
+  "MPKAOHNJIEH": 3607291152,
+  "nameTextMapHash": 3225033745,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Shock_LV2_ElectricCannon_Enhanced_02:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Shock",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "1",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 1515907430,
+  "HCCLBLJJFNM": 150448403,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_77_1",
+  "id": 111,
+  "MPKAOHNJIEH": 3174464616,
+  "nameTextMapHash": 4209690849,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Shock_LV2_DarkClouds_Enhanced_01:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Shock",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "120",
+   "40",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 328428574,
+  "HCCLBLJJFNM": 2175171715,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_77_2",
+  "id": 112,
+  "MPKAOHNJIEH": 3278303240,
+  "nameTextMapHash": 3069552897,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Shock_LV2_DarkClouds_Enhanced_02:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_SwirlFire",
+  "ABMBHFHKAJN": 1,
+  "descParamList": [
+   "6",
+   "80",
+   "9",
+   "3",
+   ""
+  ],
+  "GCJJKHGMLDA": 3885684174,
+  "HCCLBLJJFNM": 4238240835,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_78",
+  "id": 113,
+  "MPKAOHNJIEH": 1474656600,
+  "nameTextMapHash": 466910473,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_SwirlFire_Base:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_SwirlFire",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "6",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 3034045454,
+  "HCCLBLJJFNM": 3668040091,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_79",
+  "id": 114,
+  "MPKAOHNJIEH": 1560072568,
+  "nameTextMapHash": 3817843937,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_SwirlFire_LV1_BurnBlood:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_SwirlFire",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "5",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 268232886,
+  "HCCLBLJJFNM": 773543379,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_80",
+  "id": 115,
+  "MPKAOHNJIEH": 2919849328,
+  "nameTextMapHash": 2908502305,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_SwirlFire_LV1_AvatarInSkill:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_SwirlFire",
+  "ABMBHFHKAJN": 0,
+  "descParamList": [
+   "20",
+   "2",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 344542710,
+  "HCCLBLJJFNM": 2176033963,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_07",
+  "id": 116,
+  "MPKAOHNJIEH": 3619708336,
+  "nameTextMapHash": 3772552433,
+  "PDAPMEJHAGJ": true,
+  "PDLBOAPPHIJ": ""
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_SwirlFire",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "4",
+   "40",
+   "3",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 1360773414,
+  "HCCLBLJJFNM": 3785912499,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_79_1",
+  "id": 117,
+  "MPKAOHNJIEH": 261818808,
+  "nameTextMapHash": 522033313,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_SwirlFire_LV2_BurnBlood_Enhanced_01:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_SwirlFire",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "50",
+   "50",
+   "15",
+   "6",
+   ""
+  ],
+  "GCJJKHGMLDA": 4058032158,
+  "HCCLBLJJFNM": 686484843,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_79_2",
+  "id": 118,
+  "MPKAOHNJIEH": 1354275944,
+  "nameTextMapHash": 948889897,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_SwirlFire_LV2_BurnBlood_Enhanced_02:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_SwirlFire",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "16",
+   "64",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 2047044006,
+  "HCCLBLJJFNM": 3555322171,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_80_1",
+  "id": 119,
+  "MPKAOHNJIEH": 2471116848,
+  "nameTextMapHash": 170875033,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_SwirlFire_LV2_AvatarInSkill_Enhanced_01:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_SwirlFire",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "1",
+   "5",
+   "8",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 589158742,
+  "HCCLBLJJFNM": 364411315,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_80_2",
+  "id": 120,
+  "MPKAOHNJIEH": 92089576,
+  "nameTextMapHash": 845645145,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_SwirlFire_LV2_AvatarInSkill_Enhanced_02:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Freeze",
+  "ABMBHFHKAJN": 1,
+  "descParamList": [
+   "6",
+   "40",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 1627066718,
+  "HCCLBLJJFNM": 1807765963,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_81",
+  "id": 121,
+  "MPKAOHNJIEH": 1050962056,
+  "nameTextMapHash": 2110019601,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Freeze_Base:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Freeze",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "6",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 2392770598,
+  "HCCLBLJJFNM": 3487086051,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_82",
+  "id": 122,
+  "MPKAOHNJIEH": 2068130920,
+  "nameTextMapHash": 1768008873,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Freeze_Lv1_Boom:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Freeze",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "8",
+   "6",
+   "3",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 3978909870,
+  "HCCLBLJJFNM": 3055864979,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_83",
+  "id": 123,
+  "MPKAOHNJIEH": 2796543272,
+  "nameTextMapHash": 65062305,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Freeze_Lv1_Debuff:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Freeze",
+  "ABMBHFHKAJN": 0,
+  "descParamList": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 2201492846,
+  "HCCLBLJJFNM": 3708764435,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_07",
+  "id": 124,
+  "MPKAOHNJIEH": 230420600,
+  "nameTextMapHash": 1907420217,
+  "PDAPMEJHAGJ": true,
+  "PDLBOAPPHIJ": ""
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Freeze",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "2",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 3080114310,
+  "HCCLBLJJFNM": 481620387,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_82_1",
+  "id": 125,
+  "MPKAOHNJIEH": 3781060888,
+  "nameTextMapHash": 2602008785,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Freeze_Lv2_MoreBoom:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Freeze",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "3",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 3223137454,
+  "HCCLBLJJFNM": 1075316971,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_82_2",
+  "id": 126,
+  "MPKAOHNJIEH": 279336416,
+  "nameTextMapHash": 4119052625,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Freeze_Lv2_StrongBoom:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Freeze",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "50",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 3788367886,
+  "HCCLBLJJFNM": 3567839627,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_83_1",
+  "id": 127,
+  "MPKAOHNJIEH": 730050928,
+  "nameTextMapHash": 2751779993,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Freeze_Lv2_IceDebuff:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Freeze",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "50",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 1980859838,
+  "HCCLBLJJFNM": 3186994603,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_83_2",
+  "id": 128,
+  "MPKAOHNJIEH": 3940373752,
+  "nameTextMapHash": 1143697881,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Freeze_Lv2_WaterDebuff:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Superconductor",
+  "ABMBHFHKAJN": 1,
+  "descParamList": [
+   "5",
+   "10",
+   "12",
+   "6",
+   ""
+  ],
+  "GCJJKHGMLDA": 1536450814,
+  "HCCLBLJJFNM": 3968887051,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_84",
+  "id": 129,
+  "MPKAOHNJIEH": 1670308168,
+  "nameTextMapHash": 94447953,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Superconductor_Base:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Superconductor",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "3",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 3024006198,
+  "HCCLBLJJFNM": 1751694571,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_85",
+  "id": 130,
+  "MPKAOHNJIEH": 4120096008,
+  "nameTextMapHash": 997710265,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Superconductor_Lv1_Impact:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Superconductor",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "12",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 3782079662,
+  "HCCLBLJJFNM": 2418882643,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_86",
+  "id": 131,
+  "MPKAOHNJIEH": 2004287768,
+  "nameTextMapHash": 3761545353,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Superconductor_Lv1_Debuff:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Superconductor",
+  "ABMBHFHKAJN": 0,
+  "descParamList": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 2384732302,
+  "HCCLBLJJFNM": 1669395755,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_07",
+  "id": 132,
+  "MPKAOHNJIEH": 1994560768,
+  "nameTextMapHash": 3969893689,
+  "PDAPMEJHAGJ": true,
+  "PDLBOAPPHIJ": ""
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Superconductor",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "100",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 1425796422,
+  "HCCLBLJJFNM": 776108155,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_85_1",
+  "id": 133,
+  "MPKAOHNJIEH": 827769104,
+  "nameTextMapHash": 3987744209,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Superconductor_Lv2_Impact_Enhanced:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Superconductor",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "15",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 2561669126,
+  "HCCLBLJJFNM": 2609977603,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_85_2",
+  "id": 134,
+  "MPKAOHNJIEH": 151213416,
+  "nameTextMapHash": 934614361,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Superconductor_Lv2_Physical_Enhanced:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Superconductor",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "4",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 1274490246,
+  "HCCLBLJJFNM": 3449006147,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_86_1",
+  "id": 135,
+  "MPKAOHNJIEH": 2879252968,
+  "nameTextMapHash": 4015915337,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Superconductor_Lv2_Ice_Impact:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_Superconductor",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "4",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 883311798,
+  "HCCLBLJJFNM": 3343635859,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_86_2",
+  "id": 136,
+  "MPKAOHNJIEH": 3242770656,
+  "nameTextMapHash": 3583599745,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_Superconductor_Lv2_Elec_Impact:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeWater",
+  "ABMBHFHKAJN": 1,
+  "descParamList": [
+   "70",
+   "9",
+   "4",
+   "75",
+   ""
+  ],
+  "GCJJKHGMLDA": 3380546862,
+  "HCCLBLJJFNM": 2273543187,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_87",
+  "id": 137,
+  "MPKAOHNJIEH": 2478341192,
+  "nameTextMapHash": 1484649729,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_CrystallizeWater_Base:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeWater",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "4",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 38905974,
+  "HCCLBLJJFNM": 267179283,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_89",
+  "id": 138,
+  "MPKAOHNJIEH": 4017107040,
+  "nameTextMapHash": 958539825,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_CrystallizeWater_Lv1_RockAOE:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeWater",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "2",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 779195414,
+  "HCCLBLJJFNM": 1451933803,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_88",
+  "id": 139,
+  "MPKAOHNJIEH": 4012043488,
+  "nameTextMapHash": 270145817,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_CrystallizeWater_Lv1_Heal:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeWater",
+  "ABMBHFHKAJN": 0,
+  "descParamList": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 496831606,
+  "HCCLBLJJFNM": 4150384683,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_07",
+  "id": 140,
+  "MPKAOHNJIEH": 1816303696,
+  "nameTextMapHash": 2701170945,
+  "PDAPMEJHAGJ": true,
+  "PDLBOAPPHIJ": ""
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeWater",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "8",
+   "30",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 1185974446,
+  "HCCLBLJJFNM": 2029983843,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_89_1",
+  "id": 141,
+  "MPKAOHNJIEH": 845674904,
+  "nameTextMapHash": 249411961,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_CrystallizeWater_Lv2_RockAOE_01:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeWater",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "2",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 4212112894,
+  "HCCLBLJJFNM": 723697915,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_89_2",
+  "id": 142,
+  "MPKAOHNJIEH": 3278083192,
+  "nameTextMapHash": 990941449,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_CrystallizeWater_Lv2_RockAOE_02:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeWater",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "40",
+   "30",
+   "40",
+   "30",
+   ""
+  ],
+  "GCJJKHGMLDA": 3369426102,
+  "HCCLBLJJFNM": 594307411,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_88_1",
+  "id": 143,
+  "MPKAOHNJIEH": 3883848792,
+  "nameTextMapHash": 3354973265,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_CrystallizeWater_Lv2_Heal_01:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_CrystallizeWater",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "50",
+   "0.5",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 2736562230,
+  "HCCLBLJJFNM": 1492878811,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_88_2",
+  "id": 144,
+  "MPKAOHNJIEH": 847932776,
+  "nameTextMapHash": 895964249,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_CrystallizeWater_Lv2_Heal_02:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_IceGrass",
+  "ABMBHFHKAJN": 1,
+  "descParamList": [
+   "10",
+   "45",
+   "10",
+   "10",
+   "0.5"
+  ],
+  "GCJJKHGMLDA": 2856442134,
+  "HCCLBLJJFNM": 3973964235,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_90",
+  "id": 145,
+  "MPKAOHNJIEH": 1312685560,
+  "nameTextMapHash": 4278806857,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_IceGrass_Base:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_IceGrass",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "10",
+   "1.5",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 2053886374,
+  "HCCLBLJJFNM": 1692781579,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_91",
+  "id": 146,
+  "MPKAOHNJIEH": 2948796824,
+  "nameTextMapHash": 266150345,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_IceGrass_Elec_LV1_AttackThorns:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_IceGrass",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "45",
+   "90",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 3490691150,
+  "HCCLBLJJFNM": 4013226403,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_92",
+  "id": 147,
+  "MPKAOHNJIEH": 2927640776,
+  "nameTextMapHash": 4292459673,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_IceGrass_Elec_LV1_PeaceThorns:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_IceGrass",
+  "ABMBHFHKAJN": 0,
+  "descParamList": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 4146783550,
+  "HCCLBLJJFNM": 369588427,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_07",
+  "id": 148,
+  "MPKAOHNJIEH": 169153888,
+  "nameTextMapHash": 3619306681,
+  "PDAPMEJHAGJ": true,
+  "PDLBOAPPHIJ": ""
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_IceGrass",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "30",
+   "10",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 2630073398,
+  "HCCLBLJJFNM": 3543740435,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_91_1",
+  "id": 149,
+  "MPKAOHNJIEH": 644242816,
+  "nameTextMapHash": 2956267889,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_IceGrass_Elec_LV2_AttackThorns_Debuff:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_IceGrass",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "40",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 2144443486,
+  "HCCLBLJJFNM": 2432923107,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_91_2",
+  "id": 150,
+  "MPKAOHNJIEH": 3205792792,
+  "nameTextMapHash": 2214414505,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_IceGrass_Elec_LV2_AttackThorns_DamageUp:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_IceGrass",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "22.5",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 3611005046,
+  "HCCLBLJJFNM": 3581786547,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_92_1",
+  "id": 151,
+  "MPKAOHNJIEH": 118606864,
+  "nameTextMapHash": 1037074585,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_IceGrass_Elec_LV2_ThornsAmount_Debuff:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_IceGrass",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "300",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 140583014,
+  "HCCLBLJJFNM": 4139613603,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_92_2",
+  "id": 152,
+  "MPKAOHNJIEH": 1406179432,
+  "nameTextMapHash": 295420289,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_IceGrass_Elec_LV2_ThornsAmount_MasteryUp:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_SwirlIce",
+  "ABMBHFHKAJN": 1,
+  "descParamList": [
+   "6",
+   "80",
+   "16",
+   "3",
+   ""
+  ],
+  "GCJJKHGMLDA": 975964310,
+  "HCCLBLJJFNM": 3412529571,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_93",
+  "id": 153,
+  "MPKAOHNJIEH": 933704952,
+  "nameTextMapHash": 3703049225,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_SwirlIce_Base:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_SwirlIce",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "5",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 3809458494,
+  "HCCLBLJJFNM": 386532851,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_94",
+  "id": 154,
+  "MPKAOHNJIEH": 2104977704,
+  "nameTextMapHash": 3745783065,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_SwirlIce_LV1_DOT:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_SwirlIce",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "8",
+   "25",
+   "8",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 2057499862,
+  "HCCLBLJJFNM": 1873040763,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_95",
+  "id": 155,
+  "MPKAOHNJIEH": 686554608,
+  "nameTextMapHash": 1090850889,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_SwirlIce_LV1_AOE:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_SwirlIce",
+  "ABMBHFHKAJN": 0,
+  "descParamList": [
+   "",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 3433397470,
+  "HCCLBLJJFNM": 3172308235,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_07",
+  "id": 156,
+  "MPKAOHNJIEH": 3574444136,
+  "nameTextMapHash": 330796121,
+  "PDAPMEJHAGJ": true,
+  "PDLBOAPPHIJ": ""
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_SwirlIce",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "0.5",
+   "1",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 3244467534,
+  "HCCLBLJJFNM": 2793738491,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_94_1",
+  "id": 157,
+  "MPKAOHNJIEH": 3525497016,
+  "nameTextMapHash": 307724665,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_SwirlIce_LV2_DOT_CD:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_SwirlIce",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "10",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 910977518,
+  "HCCLBLJJFNM": 3920570851,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_94_2",
+  "id": 158,
+  "MPKAOHNJIEH": 3258806496,
+  "nameTextMapHash": 518463825,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_SwirlIce_LV2_DOT_SubHurt:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_SwirlIce",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "4",
+   "",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 3365324078,
+  "HCCLBLJJFNM": 1260873819,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_95_1",
+  "id": 159,
+  "MPKAOHNJIEH": 3427948848,
+  "nameTextMapHash": 273270969,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_SwirlIce_LV2_AOE_CD:1"
+ },
+ {
+  "abilityGroup": "ActivityAbility_RoleCombat_Blessing_SwirlIce",
+  "ABMBHFHKAJN": 2,
+  "descParamList": [
+   "10",
+   "12",
+   "",
+   "",
+   ""
+  ],
+  "GCJJKHGMLDA": 443616574,
+  "HCCLBLJJFNM": 1757888843,
+  "iconName": "UI_Icon_RoleCombat_FightBuff_95_2",
+  "id": 160,
+  "MPKAOHNJIEH": 20795392,
+  "nameTextMapHash": 2200406041,
+  "PDAPMEJHAGJ": false,
+  "PDLBOAPPHIJ": "SGV_RoleCombat_Blessing_SwirlIce_LV2_AOE_SubHurt:1"
+ }
+]
