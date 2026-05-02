@@ -8,20 +8,26 @@
     systems.url = "github:nix-systems/default";
   };
 
-  outputs = inputs: inputs.flake-parts.lib.mkFlake { inherit inputs; } {
-    systems = import inputs.systems;
-    perSystem = { pkgs, ... }: {
-      devShells.default = pkgs.mkShell {
-        nativeBuildInputs = with pkgs; [
-          dos2unix
-          fd
-          git
-          git-lfs
-          go
-          jq
-          moreutils
-        ];
-      };
+  outputs =
+    inputs@{ flake-parts, ... }:
+    flake-parts.lib.mkFlake { inherit inputs; } {
+      systems = import inputs.systems;
+      perSystem =
+        { pkgs, ... }:
+        {
+          formatter = pkgs.nixfmt-tree;
+
+          devShells.default = pkgs.mkShell {
+            nativeBuildInputs = with pkgs; [
+              dos2unix
+              fd
+              git
+              git-lfs
+              go
+              jq
+              moreutils
+            ];
+          };
+        };
     };
-  };
 }
