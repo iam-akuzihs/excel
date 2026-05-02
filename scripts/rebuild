@@ -17,13 +17,14 @@ for dir in $(git ls-tree --name-only "$BRANCH"); do
 	esac
 
 	printf '%s\n' "$dir"
-	git rm -r ExcelBinOutput > /dev/null 2>&1 || :
+	git rm -r --ignore-unmatch ExcelBinOutput TextMap > /dev/null 2>&1
 	git checkout "$BRANCH" -- "$dir"
 	git rm -f -- "$dir/info" || :
 	git mv -- "$dir/ExcelBinOutput" ExcelBinOutput
+	git mv -- "$dir/TextMap" TextMap
 	rm -d -- "$dir"
 
-	git commit -m "$dir" -- ExcelBinOutput
+	git commit -m "$dir" -- ExcelBinOutput TextMap
 done
 
 git switch -- "$BRANCH"

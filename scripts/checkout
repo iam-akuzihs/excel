@@ -13,9 +13,17 @@ OUT="$PWD/$NAME"
 git -C "$DM_REPO" worktree add --detach --no-checkout -- "$OUT" "$COMMIT"
 mv -- "$OUT/.git" "$OUT/.git.tmp"
 
-# shellcheck disable=SC2041
-for pathspec in 'ExcelBinOutput/*.json'; do
-	git -C "$OUT" --git-dir ".git.tmp" checkout HEAD -- "$pathspec"
+for pathspec in \
+	'ExcelBinOutput/*.json' \
+	'TextMap/*.json' \
+	${nul+}; do
+	opt=false
+	[ "${pathspec#'?'}" = "${pathspec}" ] || opt=true
+	pathspec="${pathspec#'?'}"
+	git -C "$OUT" --git-dir ".git.tmp" checkout HEAD -- "$pathspec" || {
+		[ "$opt" = true ]
+		continue
+	}
 	git add -v -- "$NAME/$pathspec" > /dev/null
 done
 
