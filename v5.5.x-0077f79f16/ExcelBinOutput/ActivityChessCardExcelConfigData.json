@@ -1,0 +1,6423 @@
+[
+ {
+  "descParamList": [
+   [
+    1
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350281
+   ],
+   "effectStrParam": "SGV_AttackDamageLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": false,
+  "id": 1,
+  "tag": "CARD_TAG_WATER",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "descTextMapHash": 2670989924,
+  "cardNumericalModificationValue": 2000,
+  "needChessLevel": 1,
+  "costPoints": 300,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 2327761743,
+  "extraDescTextMapHash": 3734451926,
+  "cardNameTextMapHash": 1081535283,
+  "number": 1,
+  "cardCount": 3
+ },
+ {
+  "descParamList": [
+   [
+    1
+   ],
+   [
+    50
+   ],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350281
+   ],
+   "effectStrParam": "SGV_ElementMasteryLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": false,
+  "id": 2,
+  "tag": "CARD_TAG_WATER",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_MASTERY",
+  "descTextMapHash": 3532666076,
+  "cardNumericalModificationValue": 75,
+  "needChessLevel": 3,
+  "costPoints": 300,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 2352608711,
+  "extraDescTextMapHash": 2460972558,
+  "cardNameTextMapHash": 9961715,
+  "number": 2,
+  "cardCount": 3
+ },
+ {
+  "descParamList": [
+   [
+    20
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350281
+   ],
+   "effectStrParam": "SGV_AttackSpeedLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 3,
+  "tag": "CARD_TAG_WATER",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_INTERVAL",
+  "descTextMapHash": 2265289844,
+  "cardNumericalModificationValue": -0.2,
+  "needChessLevel": 1,
+  "costPoints": 200,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_PERCENTAGE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 1622540631,
+  "extraDescTextMapHash": 748170278,
+  "cardNameTextMapHash": 1361301019,
+  "number": 3,
+  "cardCount": 1
+ },
+ {
+  "descParamList": [
+   [
+    1
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350282
+   ],
+   "effectStrParam": "SGV_AttackDamageLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": false,
+  "id": 4,
+  "tag": "CARD_TAG_FIRE",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "descTextMapHash": 32630404,
+  "cardNumericalModificationValue": 2000,
+  "needChessLevel": 1,
+  "costPoints": 300,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 2668478231,
+  "extraDescTextMapHash": 1876680686,
+  "cardNameTextMapHash": 152110179,
+  "number": 4,
+  "cardCount": 3
+ },
+ {
+  "descParamList": [
+   [
+    1
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350282
+   ],
+   "effectStrParam": "SGV_ElementMasteryLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": false,
+  "id": 5,
+  "tag": "CARD_TAG_FIRE",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_MASTERY",
+  "descTextMapHash": 3649468812,
+  "cardNumericalModificationValue": 75,
+  "needChessLevel": 3,
+  "costPoints": 300,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 2612290207,
+  "extraDescTextMapHash": 2740326382,
+  "cardNameTextMapHash": 3414422811,
+  "number": 5,
+  "cardCount": 3
+ },
+ {
+  "descParamList": [
+   [
+    20
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350282
+   ],
+   "effectStrParam": "SGV_AttackSpeedLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 6,
+  "tag": "CARD_TAG_FIRE",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_INTERVAL",
+  "descTextMapHash": 68104468,
+  "cardNumericalModificationValue": -0.2,
+  "needChessLevel": 1,
+  "costPoints": 200,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_PERCENTAGE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 677434511,
+  "extraDescTextMapHash": 690853430,
+  "cardNameTextMapHash": 637325043,
+  "number": 6,
+  "cardCount": 1
+ },
+ {
+  "descParamList": [
+   [
+    40,
+    80
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350282
+   ],
+   "effectStrParam": "SGV_RangeLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 7,
+  "tag": "CARD_TAG_FIRE",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_RANGE",
+  "descTextMapHash": 658740860,
+  "cardNumericalModificationValue": 8,
+  "needChessLevel": 1,
+  "costPoints": 200,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 4168959295,
+  "extraDescTextMapHash": 4142289342,
+  "cardNameTextMapHash": 2844986979,
+  "number": 7,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    1
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350283
+   ],
+   "effectStrParam": "SGV_AttackDamageLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": false,
+  "id": 8,
+  "tag": "CARD_TAG_ICE",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "descTextMapHash": 3644221972,
+  "cardNumericalModificationValue": 2000,
+  "needChessLevel": 1,
+  "costPoints": 300,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 3307091071,
+  "extraDescTextMapHash": 1711853462,
+  "cardNameTextMapHash": 1794425763,
+  "number": 8,
+  "cardCount": 3
+ },
+ {
+  "descParamList": [
+   [
+    1
+   ],
+   [
+    50
+   ],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350283
+   ],
+   "effectStrParam": "SGV_ElementMasteryLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": false,
+  "id": 9,
+  "tag": "CARD_TAG_ICE",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_MASTERY",
+  "descTextMapHash": 312352580,
+  "cardNumericalModificationValue": 75,
+  "needChessLevel": 3,
+  "costPoints": 300,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 3405000479,
+  "extraDescTextMapHash": 2877709830,
+  "cardNameTextMapHash": 373462603,
+  "number": 9,
+  "cardCount": 3
+ },
+ {
+  "descParamList": [
+   [
+    20
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350283
+   ],
+   "effectStrParam": "SGV_AttackSpeedLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 10,
+  "tag": "CARD_TAG_ICE",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_INTERVAL",
+  "descTextMapHash": 354636036,
+  "cardNumericalModificationValue": -0.2,
+  "needChessLevel": 1,
+  "costPoints": 200,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_PERCENTAGE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 3504572551,
+  "extraDescTextMapHash": 2722674838,
+  "cardNameTextMapHash": 3527411347,
+  "number": 10,
+  "cardCount": 1
+ },
+ {
+  "descParamList": [
+   [
+    53,
+    106
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350283
+   ],
+   "effectStrParam": "SGV_RangeLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 11,
+  "tag": "CARD_TAG_ICE",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_RANGE",
+  "descTextMapHash": 2207663188,
+  "cardNumericalModificationValue": 8,
+  "needChessLevel": 1,
+  "costPoints": 200,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 3555777535,
+  "extraDescTextMapHash": 364950486,
+  "cardNameTextMapHash": 3398425163,
+  "number": 11,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    1
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350284
+   ],
+   "effectStrParam": "SGV_AttackDamageLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": false,
+  "id": 12,
+  "tag": "CARD_TAG_WIND",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "descTextMapHash": 2981162748,
+  "cardNumericalModificationValue": 2000,
+  "needChessLevel": 1,
+  "costPoints": 300,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 2601098015,
+  "extraDescTextMapHash": 1300208198,
+  "cardNameTextMapHash": 3616288771,
+  "number": 12,
+  "cardCount": 3
+ },
+ {
+  "descParamList": [
+   [
+    1
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350284
+   ],
+   "effectStrParam": "SGV_ElementMasteryLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": false,
+  "id": 13,
+  "tag": "CARD_TAG_WIND",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_MASTERY",
+  "descTextMapHash": 2631352844,
+  "cardNumericalModificationValue": 75,
+  "needChessLevel": 3,
+  "costPoints": 300,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 2513358383,
+  "extraDescTextMapHash": 3363130414,
+  "cardNameTextMapHash": 393064875,
+  "number": 13,
+  "cardCount": 3
+ },
+ {
+  "descParamList": [
+   [
+    20
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350284
+   ],
+   "effectStrParam": "SGV_AttackSpeedLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 14,
+  "tag": "CARD_TAG_WIND",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_INTERVAL",
+  "descTextMapHash": 4170165996,
+  "cardNumericalModificationValue": -0.2,
+  "needChessLevel": 1,
+  "costPoints": 200,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_PERCENTAGE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 758596007,
+  "extraDescTextMapHash": 2393057398,
+  "cardNameTextMapHash": 856577819,
+  "number": 14,
+  "cardCount": 1
+ },
+ {
+  "descParamList": [
+   [
+    1
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350285
+   ],
+   "effectStrParam": "SGV_AttackDamageLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": false,
+  "id": 15,
+  "tag": "CARD_TAG_ELECTRIC",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "descTextMapHash": 3628155636,
+  "cardNumericalModificationValue": 2000,
+  "needChessLevel": 1,
+  "costPoints": 300,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 1292684407,
+  "extraDescTextMapHash": 1324189478,
+  "cardNameTextMapHash": 3820641195,
+  "number": 15,
+  "cardCount": 3
+ },
+ {
+  "descParamList": [
+   [
+    1
+   ],
+   [
+    50
+   ],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350285
+   ],
+   "effectStrParam": "SGV_ElementMasteryLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": false,
+  "id": 16,
+  "tag": "CARD_TAG_ELECTRIC",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_MASTERY",
+  "descTextMapHash": 3896976636,
+  "cardNumericalModificationValue": 75,
+  "needChessLevel": 3,
+  "costPoints": 300,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 3186862791,
+  "extraDescTextMapHash": 1162189918,
+  "cardNameTextMapHash": 154872027,
+  "number": 16,
+  "cardCount": 3
+ },
+ {
+  "descParamList": [
+   [
+    20
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350285
+   ],
+   "effectStrParam": "SGV_AttackSpeedLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 17,
+  "tag": "CARD_TAG_ELECTRIC",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_INTERVAL",
+  "descTextMapHash": 161961668,
+  "cardNumericalModificationValue": -0.2,
+  "needChessLevel": 1,
+  "costPoints": 200,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_PERCENTAGE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 3309659631,
+  "extraDescTextMapHash": 1333792334,
+  "cardNameTextMapHash": 3276445667,
+  "number": 17,
+  "cardCount": 1
+ },
+ {
+  "descParamList": [
+   [
+    53,
+    106
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350285
+   ],
+   "effectStrParam": "SGV_RangeLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 18,
+  "tag": "CARD_TAG_ELECTRIC",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_RANGE",
+  "descTextMapHash": 3893813932,
+  "cardNumericalModificationValue": 8,
+  "needChessLevel": 1,
+  "costPoints": 200,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 3779796847,
+  "extraDescTextMapHash": 1247945206,
+  "cardNameTextMapHash": 3842649451,
+  "number": 18,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    1
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350286
+   ],
+   "effectStrParam": "SGV_AttackDamageLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": false,
+  "id": 19,
+  "tag": "CARD_TAG_PHYSICS",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "descTextMapHash": 1356988284,
+  "cardNumericalModificationValue": 2000,
+  "needChessLevel": 1,
+  "costPoints": 300,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 2731974399,
+  "extraDescTextMapHash": 130889718,
+  "cardNameTextMapHash": 1227811763,
+  "number": 19,
+  "cardCount": 3
+ },
+ {
+  "descParamList": [
+   [
+    20
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350286
+   ],
+   "effectStrParam": "SGV_AttackSpeedLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 20,
+  "tag": "CARD_TAG_PHYSICS",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_INTERVAL",
+  "descTextMapHash": 777764380,
+  "cardNumericalModificationValue": -0.2,
+  "needChessLevel": 1,
+  "costPoints": 200,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_PERCENTAGE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 1141904647,
+  "extraDescTextMapHash": 3550016846,
+  "cardNameTextMapHash": 862902427,
+  "number": 20,
+  "cardCount": 1
+ },
+ {
+  "descParamList": [
+   [
+    33,
+    66
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350286
+   ],
+   "effectStrParam": "SGV_RangeLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 21,
+  "tag": "CARD_TAG_PHYSICS",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_RANGE",
+  "descTextMapHash": 3394547972,
+  "cardNumericalModificationValue": 8,
+  "needChessLevel": 1,
+  "costPoints": 200,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 486008399,
+  "extraDescTextMapHash": 1438904622,
+  "cardNameTextMapHash": 1333660403,
+  "number": 21,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    1
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350298
+   ],
+   "effectStrParam": "SGV_AttackDamageLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": false,
+  "id": 22,
+  "tag": "CARD_TAG_HELP",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "descTextMapHash": 3967054364,
+  "cardNumericalModificationValue": 2000,
+  "needChessLevel": 3,
+  "costPoints": 300,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 4179083223,
+  "extraDescTextMapHash": 2021090966,
+  "cardNameTextMapHash": 3948328107,
+  "number": 22,
+  "cardCount": 3
+ },
+ {
+  "descParamList": [
+   [
+    10,
+    20
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350303
+   ],
+   "effectStrParam": "SGV_UpgradeAttackLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 23,
+  "tag": "CARD_TAG_HELP",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 3557342652,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 4,
+  "costPoints": 200,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 1626291463,
+  "extraDescTextMapHash": 2321762366,
+  "cardNameTextMapHash": 2937406859,
+  "number": 23,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    25,
+    50
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350303
+   ],
+   "effectStrParam": "SGV_UpgradeMasteryLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 24,
+  "tag": "CARD_TAG_HELP",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 3485857396,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 4,
+  "costPoints": 200,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 231067727,
+  "extraDescTextMapHash": 888225734,
+  "cardNameTextMapHash": 473533275,
+  "number": 24,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    10,
+    20
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350294
+   ],
+   "effectStrParam": "SGV_AuroKillPointBonus",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 25,
+  "tag": "CARD_TAG_HELP",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 3354492980,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 4,
+  "costPoints": 200,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 256573207,
+  "extraDescTextMapHash": 4109989206,
+  "cardNameTextMapHash": 2812875195,
+  "number": 25,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    33,
+    66
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350281
+   ],
+   "effectStrParam": "SGV_RangeLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 26,
+  "tag": "CARD_TAG_WATER",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_RANGE",
+  "descTextMapHash": 3698884924,
+  "cardNumericalModificationValue": 2,
+  "needChessLevel": 1,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 3121725199,
+  "extraDescTextMapHash": 3925958702,
+  "cardNameTextMapHash": 2040220339,
+  "number": 26,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    5,
+    2.5
+   ],
+   [
+    15,
+    15
+   ],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350281
+   ],
+   "effectStrParam": "SGV_Bubble",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 27,
+  "tag": "CARD_TAG_WATER",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 338766516,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 2,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 102486935,
+  "extraDescTextMapHash": 3883973166,
+  "cardNameTextMapHash": 4138904683,
+  "number": 27,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    20,
+    10
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350281
+   ],
+   "effectStrParam": "SGV_WaterImpulse",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 28,
+  "tag": "CARD_TAG_WATER",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 3231093604,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 5,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 2741448487,
+  "extraDescTextMapHash": 3056155574,
+  "cardNameTextMapHash": 3366157875,
+  "number": 28,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    50,
+    100
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [],
+   "effectStrParam": "SGV_Evaporate",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_ALL",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 29,
+  "tag": "CARD_TAG_WATER",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 1568492836,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 3,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 2358577407,
+  "extraDescTextMapHash": 561013070,
+  "cardNameTextMapHash": 316300899,
+  "number": 29,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    50,
+    100
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350281
+   ],
+   "effectStrParam": "SGV_Wet",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 30,
+  "tag": "CARD_TAG_WATER",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 3692824876,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 6,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 3407470039,
+  "extraDescTextMapHash": 3157642950,
+  "cardNameTextMapHash": 793189947,
+  "number": 30,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    133,
+    266
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350282
+   ],
+   "effectStrParam": "SGV_Aoe",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 31,
+  "tag": "CARD_TAG_FIRE",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 3707338356,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 1,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 4280114103,
+  "extraDescTextMapHash": 679287918,
+  "cardNameTextMapHash": 87271699,
+  "number": 31,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350282
+   ],
+   "effectStrParam": "SGV_Enbreak",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 32,
+  "tag": "CARD_TAG_FIRE",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 3707235036,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 2,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 3174678055,
+  "extraDescTextMapHash": 1246829550,
+  "cardNameTextMapHash": 763412195,
+  "number": 32,
+  "cardCount": 1
+ },
+ {
+  "descParamList": [
+   [
+    20,
+    10
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350282
+   ],
+   "effectStrParam": "SGV_FireImpulse",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 33,
+  "tag": "CARD_TAG_FIRE",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 2437927340,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 5,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 3451302935,
+  "extraDescTextMapHash": 1730731046,
+  "cardNameTextMapHash": 2046879299,
+  "number": 33,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    50,
+    100
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [],
+   "effectStrParam": "SGV_Melt",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_ALL",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 34,
+  "tag": "CARD_TAG_FIRE",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 2207088092,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 3,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 3872077863,
+  "extraDescTextMapHash": 2729759614,
+  "cardNameTextMapHash": 1305470651,
+  "number": 34,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    10,
+    20
+   ],
+   [
+    3,
+    3
+   ],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350282
+   ],
+   "effectStrParam": "SGV_Defensedown",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 35,
+  "tag": "CARD_TAG_FIRE",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 271535172,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 6,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 1705803279,
+  "extraDescTextMapHash": 1105784710,
+  "cardNameTextMapHash": 172089731,
+  "number": 35,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    20,
+    20
+   ],
+   [
+    1,
+    2
+   ],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   true,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350283
+   ],
+   "effectStrParam": "SGV_Explosion",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 36,
+  "tag": "CARD_TAG_ICE",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 2934581076,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 1,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 2789683911,
+  "extraDescTextMapHash": 3305841502,
+  "cardNameTextMapHash": 815684171,
+  "number": 36,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    25,
+    50
+   ],
+   [
+    5,
+    5
+   ],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350283
+   ],
+   "effectStrParam": "SGV_Slowdown",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 37,
+  "tag": "CARD_TAG_ICE",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 2296449620,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 2,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 2092975191,
+  "extraDescTextMapHash": 1030660206,
+  "cardNameTextMapHash": 2179149139,
+  "number": 37,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    20,
+    10
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350283
+   ],
+   "effectStrParam": "SGV_IceImpulse",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 38,
+  "tag": "CARD_TAG_ICE",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 2860970820,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 5,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 2033109327,
+  "extraDescTextMapHash": 3308930470,
+  "cardNameTextMapHash": 4227442515,
+  "number": 38,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    25,
+    50
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350283
+   ],
+   "effectStrParam": "SGV_Resistancedown",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 39,
+  "tag": "CARD_TAG_ICE",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 1186065636,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 6,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 2374567767,
+  "extraDescTextMapHash": 1904354782,
+  "cardNameTextMapHash": 2419764211,
+  "number": 39,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    1,
+    2
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   true,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350284
+   ],
+   "effectStrParam": "SGV_TowUnits",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 40,
+  "tag": "CARD_TAG_WIND",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 1664141732,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 2,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 3709862079,
+  "extraDescTextMapHash": 1375446110,
+  "cardNameTextMapHash": 2561370611,
+  "number": 40,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    6,
+    3
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350284
+   ],
+   "effectStrParam": "SGV_WindImpulse",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 41,
+  "tag": "CARD_TAG_WIND",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 3226740740,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 5,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 1227941487,
+  "extraDescTextMapHash": 3606351110,
+  "cardNameTextMapHash": 1453557683,
+  "number": 41,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    10,
+    10
+   ],
+   [
+    3,
+    6
+   ],
+   [
+    10,
+    10
+   ]
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350284
+   ],
+   "effectStrParam": "SGV_ReduceWindResistance",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 42,
+  "tag": "CARD_TAG_WIND",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 1912694172,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 3,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 2161890359,
+  "extraDescTextMapHash": 2661632278,
+  "cardNameTextMapHash": 2108257187,
+  "number": 42,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    50,
+    50
+   ],
+   [
+    25,
+    50
+   ],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350284
+   ],
+   "effectStrParam": "SGV_ExtraDamageByHp",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 43,
+  "tag": "CARD_TAG_WIND",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 1396607196,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 6,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 3831193751,
+  "extraDescTextMapHash": 3858503078,
+  "cardNameTextMapHash": 432559787,
+  "number": 43,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    1,
+    2
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350285
+   ],
+   "effectStrParam": "SGV_ExtraTargets",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 44,
+  "tag": "CARD_TAG_ELECTRIC",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 3409690836,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 1,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 2309268583,
+  "extraDescTextMapHash": 874805142,
+  "cardNameTextMapHash": 1517503707,
+  "number": 44,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    8,
+    4
+   ],
+   [
+    0.5,
+    0.5
+   ],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350285
+   ],
+   "effectStrParam": "SGV_Confine",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 45,
+  "tag": "CARD_TAG_ELECTRIC",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 692749796,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 2,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 455888223,
+  "extraDescTextMapHash": 48877718,
+  "cardNameTextMapHash": 3595106059,
+  "number": 45,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    20,
+    10
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350285
+   ],
+   "effectStrParam": "SGV_ElectricImpulse",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 46,
+  "tag": "CARD_TAG_ELECTRIC",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 1186388196,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 5,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 1702648599,
+  "extraDescTextMapHash": 2501007158,
+  "cardNameTextMapHash": 910637627,
+  "number": 46,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    100,
+    200
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [],
+   "effectStrParam": "SGV_UpgradeElectricRecation",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_ALL",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 47,
+  "tag": "CARD_TAG_ELECTRIC",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 3958451468,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 3,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 4097565327,
+  "extraDescTextMapHash": 2351970662,
+  "cardNameTextMapHash": 1175426131,
+  "number": 47,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    5,
+    10
+   ],
+   [
+    20,
+    20
+   ],
+   [
+    5,
+    5
+   ]
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350285
+   ],
+   "effectStrParam": "SGV_FurySwipe",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 48,
+  "tag": "CARD_TAG_ELECTRIC",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 64861932,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 6,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 737354415,
+  "extraDescTextMapHash": 2030620718,
+  "cardNameTextMapHash": 401852491,
+  "number": 48,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    25,
+    25
+   ],
+   [
+    1,
+    2
+   ],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350286
+   ],
+   "effectStrParam": "SGV_HitExplosion",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 49,
+  "tag": "CARD_TAG_PHYSICS",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 3650215684,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 1,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 845025095,
+  "extraDescTextMapHash": 2666729278,
+  "cardNameTextMapHash": 1056955963,
+  "number": 49,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    40,
+    80
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [],
+   "effectStrParam": "SGV_ReducePhysicalResistance",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_ALL",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 50,
+  "tag": "CARD_TAG_PHYSICS",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 881438908,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 3,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 3348775583,
+  "extraDescTextMapHash": 887958870,
+  "cardNameTextMapHash": 778781699,
+  "number": 50,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    0.5,
+    0.5
+   ],
+   [
+    5,
+    10
+   ],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350286
+   ],
+   "effectStrParam": "SGV_DamageByTime",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 51,
+  "tag": "CARD_TAG_PHYSICS",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 3577684460,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 6,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 1422273751,
+  "extraDescTextMapHash": 1381275310,
+  "cardNameTextMapHash": 2934780499,
+  "number": 51,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    50,
+    50
+   ],
+   [
+    40,
+    80
+   ],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350298
+   ],
+   "effectStrParam": "SGV_Mine_Extradamage",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 52,
+  "tag": "CARD_TAG_HELP",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 3679696068,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 4,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 3116334399,
+  "extraDescTextMapHash": 1419726886,
+  "cardNameTextMapHash": 859541163,
+  "number": 52,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350298
+   ],
+   "effectStrParam": "SGV_Mine_Extraexplosion",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 53,
+  "tag": "CARD_TAG_HELP",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 3524050212,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 4,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 2609947791,
+  "extraDescTextMapHash": 1074128590,
+  "cardNameTextMapHash": 1001657531,
+  "number": 53,
+  "cardCount": 1
+ },
+ {
+  "descParamList": [
+   [
+    15,
+    7.5
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350298
+   ],
+   "effectStrParam": "SGV_Mine_Reset",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 54,
+  "tag": "CARD_TAG_HELP",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 4123196012,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 8,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 2875267031,
+  "extraDescTextMapHash": 599923846,
+  "cardNameTextMapHash": 1248799275,
+  "number": 54,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    2,
+    4
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350299
+   ],
+   "effectStrParam": "SGV_Trap_Extratime",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 55,
+  "tag": "CARD_TAG_HELP",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 2689117156,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 2,
+  "costPoints": 200,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 2404327103,
+  "extraDescTextMapHash": 4076975174,
+  "cardNameTextMapHash": 3152876643,
+  "number": 55,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    50,
+    100
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350299
+   ],
+   "effectStrParam": "SGV_Trap_Extradamage",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 56,
+  "tag": "CARD_TAG_HELP",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 58489492,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 3,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 3312472567,
+  "extraDescTextMapHash": 3356238422,
+  "cardNameTextMapHash": 3427524307,
+  "number": 56,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    15,
+    7.5
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350299
+   ],
+   "effectStrParam": "SGV_Trap_Reset",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 57,
+  "tag": "CARD_TAG_HELP",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 246001228,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 8,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 2040089735,
+  "extraDescTextMapHash": 2866882862,
+  "cardNameTextMapHash": 473926707,
+  "number": 57,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    50,
+    100
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350303
+   ],
+   "effectStrParam": "SGV_RangeLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 58,
+  "tag": "CARD_TAG_HELP",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_RANGE",
+  "descTextMapHash": 2718675772,
+  "cardNumericalModificationValue": 3,
+  "needChessLevel": 4,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 2126319767,
+  "extraDescTextMapHash": 4180098662,
+  "cardNameTextMapHash": 3147657563,
+  "number": 58,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    25,
+    50
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350294
+   ],
+   "effectStrParam": "SGV_RangeLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 59,
+  "tag": "CARD_TAG_HELP",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_RANGE",
+  "descTextMapHash": 2582216900,
+  "cardNumericalModificationValue": 2,
+  "needChessLevel": 1,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 3461257399,
+  "extraDescTextMapHash": 2901266934,
+  "cardNameTextMapHash": 1481153387,
+  "number": 59,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    20,
+    40
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350294
+   ],
+   "effectStrParam": "SGV_SlowLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 60,
+  "tag": "CARD_TAG_HELP",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 981496812,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 2,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 3726711511,
+  "extraDescTextMapHash": 1709030318,
+  "cardNameTextMapHash": 910891291,
+  "number": 60,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    30,
+    60
+   ],
+   [
+    8,
+    8
+   ],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350305
+   ],
+   "effectStrParam": "SGV_SpeedDown",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 61,
+  "tag": "CARD_TAG_HELP",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 1829306868,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 2,
+  "costPoints": 200,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 1689975311,
+  "extraDescTextMapHash": 3840011182,
+  "cardNameTextMapHash": 3017753051,
+  "number": 61,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    2,
+    4
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350305
+   ],
+   "effectStrParam": "SGV_Durability",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 62,
+  "tag": "CARD_TAG_HELP",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 1332765060,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 4,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 1876503247,
+  "extraDescTextMapHash": 707131686,
+  "cardNameTextMapHash": 2413474755,
+  "number": 62,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    125,
+    250
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350281
+   ],
+   "effectStrParam": "SGV_TargetAOE",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 63,
+  "tag": "CARD_TAG_WATER",
+  "cardQualityType": "CARD_QUALITY_PERCECT",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 1666098356,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 1,
+  "costPoints": 1500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 599887623,
+  "extraDescTextMapHash": 4111772270,
+  "cardNameTextMapHash": 1611908091,
+  "number": 63,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    12,
+    12
+   ],
+   [
+    4,
+    4
+   ],
+   [
+    75,
+    150
+   ]
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350281
+   ],
+   "effectStrParam": "SGV_Dot",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 64,
+  "tag": "CARD_TAG_WATER",
+  "cardQualityType": "CARD_QUALITY_PERCECT",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 3163795492,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 7,
+  "costPoints": 1500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 1011373367,
+  "extraDescTextMapHash": 3695550422,
+  "cardNameTextMapHash": 2903129587,
+  "number": 64,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    100,
+    200
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350282
+   ],
+   "effectStrParam": "SGV_Missile",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 65,
+  "tag": "CARD_TAG_FIRE",
+  "cardQualityType": "CARD_QUALITY_PERCECT",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 4276155644,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 1,
+  "costPoints": 1500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 4083996799,
+  "extraDescTextMapHash": 3634937510,
+  "cardNameTextMapHash": 3426342931,
+  "number": 65,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    30,
+    60
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350282
+   ],
+   "effectStrParam": "SGV_FireArea",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 66,
+  "tag": "CARD_TAG_FIRE",
+  "cardQualityType": "CARD_QUALITY_PERCECT",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 307910300,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 7,
+  "costPoints": 1500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 3438113007,
+  "extraDescTextMapHash": 939786742,
+  "cardNameTextMapHash": 416375387,
+  "number": 66,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    125,
+    250
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350283
+   ],
+   "effectStrParam": "SGV_TDSpecialGrade_Ice",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 67,
+  "tag": "CARD_TAG_ICE",
+  "cardQualityType": "CARD_QUALITY_PERCECT",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 1694021492,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 1,
+  "costPoints": 1500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 2330180855,
+  "extraDescTextMapHash": 4156655558,
+  "cardNameTextMapHash": 3257285491,
+  "number": 67,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    10,
+    10
+   ],
+   [
+    5,
+    5
+   ],
+   [
+    50,
+    100
+   ]
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350283
+   ],
+   "effectStrParam": "SGV_Ice_Fog",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 68,
+  "tag": "CARD_TAG_ICE",
+  "cardQualityType": "CARD_QUALITY_PERCECT",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 1052551508,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 7,
+  "costPoints": 1500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 3501929535,
+  "extraDescTextMapHash": 25184558,
+  "cardNameTextMapHash": 2769074267,
+  "number": 68,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    100,
+    200
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350284
+   ],
+   "effectStrParam": "SGV_ShootBullet",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 69,
+  "tag": "CARD_TAG_WIND",
+  "cardQualityType": "CARD_QUALITY_PERCECT",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "descTextMapHash": 2099958332,
+  "cardNumericalModificationValue": 1,
+  "needChessLevel": 1,
+  "costPoints": 1500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_PERCENTAGE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 2801175215,
+  "extraDescTextMapHash": 3828461566,
+  "cardNameTextMapHash": 563321723,
+  "number": 69,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    5,
+    5
+   ],
+   [
+    225,
+    450
+   ],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350284
+   ],
+   "effectStrParam": "SGV_CanCharge",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 70,
+  "tag": "CARD_TAG_WIND",
+  "cardQualityType": "CARD_QUALITY_PERCECT",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 3032922180,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 7,
+  "costPoints": 1500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 1140878991,
+  "extraDescTextMapHash": 1085538198,
+  "cardNameTextMapHash": 1229848819,
+  "number": 70,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    125,
+    250
+   ],
+   [
+    10,
+    10
+   ],
+   [
+    10,
+    10
+   ]
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350285
+   ],
+   "effectStrParam": "SGV_ExtraThunder",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 71,
+  "tag": "CARD_TAG_ELECTRIC",
+  "cardQualityType": "CARD_QUALITY_PERCECT",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 2483453364,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 1,
+  "costPoints": 1500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 1953333775,
+  "extraDescTextMapHash": 1665204830,
+  "cardNameTextMapHash": 2761395547,
+  "number": 71,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    100,
+    200
+   ],
+   [
+    150,
+    300
+   ],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350285
+   ],
+   "effectStrParam": "SGV_UpgradeNormalAttack",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 72,
+  "tag": "CARD_TAG_ELECTRIC",
+  "cardQualityType": "CARD_QUALITY_PERCECT",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "descTextMapHash": 99576956,
+  "cardNumericalModificationValue": 1,
+  "needChessLevel": 7,
+  "costPoints": 1500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_PERCENTAGE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 1635911335,
+  "extraDescTextMapHash": 2456967926,
+  "cardNameTextMapHash": 2341604331,
+  "number": 72,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    75,
+    150
+   ],
+   [
+    25,
+    50
+   ],
+   [
+    15,
+    15
+   ]
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350286
+   ],
+   "effectStrParam": "SGV_WantedSign",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 73,
+  "tag": "CARD_TAG_PHYSICS",
+  "cardQualityType": "CARD_QUALITY_PERCECT",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 4277068964,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 1,
+  "costPoints": 1500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 1027967615,
+  "extraDescTextMapHash": 3716263790,
+  "cardNameTextMapHash": 1598317483,
+  "number": 73,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    15,
+    30
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350286
+   ],
+   "effectStrParam": "SGV_EnergyBallAttack",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 74,
+  "tag": "CARD_TAG_PHYSICS",
+  "cardQualityType": "CARD_QUALITY_PERCECT",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 2483358860,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 7,
+  "costPoints": 1500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 2553176951,
+  "extraDescTextMapHash": 2719281158,
+  "cardNameTextMapHash": 1738191955,
+  "number": 74,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    2
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [],
+   "effectStrParam": "SGV_AttackDamageLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_ALL",
+   "ELNENMECICO": 1,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 2,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_MECHANISM",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": false,
+  "id": 75,
+  "tag": "CARD_TAG_OTHER",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "descTextMapHash": 2103043124,
+  "cardNumericalModificationValue": 4000,
+  "needChessLevel": 4,
+  "costPoints": 300,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 3281257439,
+  "extraDescTextMapHash": 22195198,
+  "cardNameTextMapHash": 2206584147,
+  "number": 1,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    2
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [],
+   "effectStrParam": "SGV_ElementMasteryLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_ALL",
+   "ELNENMECICO": 1,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 2,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_MECHANISM",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": false,
+  "id": 76,
+  "tag": "CARD_TAG_OTHER",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_MASTERY",
+  "descTextMapHash": 1367418916,
+  "cardNumericalModificationValue": 150,
+  "needChessLevel": 4,
+  "costPoints": 300,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 462497215,
+  "extraDescTextMapHash": 3404429982,
+  "cardNameTextMapHash": 3412087435,
+  "number": 2,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    5
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [],
+   "effectStrParam": "",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_DEFAULT",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 5,
+   "effectType": "CHESS_CARD_EFFECT_SET_HOME_HP"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_MECHANISM",
+  "isCanAttachCurse": true,
+  "isShowOnPick": false,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 77,
+  "tag": "CARD_TAG_OTHER",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 1171077964,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 2,
+  "costPoints": 200,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 3423513135,
+  "extraDescTextMapHash": 3859324918,
+  "cardNameTextMapHash": 4207081403,
+  "number": 3,
+  "cardCount": 1
+ },
+ {
+  "descParamList": [
+   [
+    400
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [],
+   "effectStrParam": "",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_DEFAULT",
+   "ELNENMECICO": 1,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 400,
+   "effectType": "CHESS_CARD_EFFECT_GRANT_POINTS"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 1,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 3,
+    "effectType": "CHESS_CARD_EFFECT_RANDOM_REMOVE"
+   }
+  ],
+  "cardType": "CHESS_CARD_MECHANISM",
+  "isCanAttachCurse": true,
+  "isShowOnPick": false,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": false,
+  "id": 78,
+  "tag": "CARD_TAG_OTHER",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 146720556,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 8,
+  "costPoints": 0,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 3627959039,
+  "extraDescTextMapHash": 3412938278,
+  "cardNameTextMapHash": 3083310363,
+  "number": 4,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    2000
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [],
+   "effectStrParam": "",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_DEFAULT",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 2000,
+   "effectType": "CHESS_CARD_EFFECT_GRANT_POINTS"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 1,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 1,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": -1000000,
+    "effectType": "CHESS_CARD_EFFECT_MOD_KILL_POINTS"
+   }
+  ],
+  "cardType": "CHESS_CARD_MECHANISM",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 79,
+  "tag": "CARD_TAG_OTHER",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 1342674044,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 8,
+  "costPoints": 0,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 647147151,
+  "extraDescTextMapHash": 1775996686,
+  "cardNameTextMapHash": 2441862579,
+  "number": 5,
+  "cardCount": 1
+ },
+ {
+  "descParamList": [
+   [
+    500
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [],
+   "effectStrParam": "",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_DEFAULT",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 500,
+   "effectType": "CHESS_CARD_EFFECT_POINTS_ON_ROUND_END"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_MECHANISM",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": false,
+  "id": 80,
+  "tag": "CARD_TAG_OTHER",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 2648898356,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 2,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 1683146751,
+  "extraDescTextMapHash": 1847151926,
+  "cardNameTextMapHash": 2152115315,
+  "number": 6,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [],
+   "effectStrParam": "",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_DEFAULT",
+   "ELNENMECICO": 0,
+   "effectParam2": 12,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 4,
+   "effectType": "CHESS_CARD_EFFECT_MOD_QUALITY_PROB"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": -2,
+    "effectType": "CHESS_CARD_EFFECT_MOD_CANDIDATE_CARDS"
+   }
+  ],
+  "cardType": "CHESS_CARD_MECHANISM",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 81,
+  "tag": "CARD_TAG_OTHER",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 1402495468,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 5,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 4233380311,
+  "extraDescTextMapHash": 473399598,
+  "cardNameTextMapHash": 1690243891,
+  "number": 7,
+  "cardCount": 1
+ },
+ {
+  "descParamList": [
+   [
+    50
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [],
+   "effectStrParam": "",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_DEFAULT",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": -5000,
+   "effectType": "CHESS_CARD_EFFECT_MOD_REFRESH_COST"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_MECHANISM",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 82,
+  "tag": "CARD_TAG_OTHER",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 913125556,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 5,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 3085260663,
+  "extraDescTextMapHash": 879855174,
+  "cardNameTextMapHash": 2798058763,
+  "number": 8,
+  "cardCount": 1
+ },
+ {
+  "descParamList": [
+   [
+    5
+   ],
+   [
+    1
+   ],
+   [
+    3
+   ]
+  ],
+  "descParamSuperpositionList": [
+   false,
+   true,
+   false
+  ],
+  "effect": {
+   "targetParamList": [],
+   "effectStrParam": "SGV_AttackDamageLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_ALL",
+   "ELNENMECICO": 0,
+   "effectParam2": 5,
+   "DIOKDAPPEPN": 3,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_CARDS_COUNT_STACK_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_MECHANISM",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 83,
+  "tag": "CARD_TAG_OTHER",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "descTextMapHash": 1912409148,
+  "cardNumericalModificationValue": 2000,
+  "needChessLevel": 5,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 1584030343,
+  "extraDescTextMapHash": 2471060318,
+  "cardNameTextMapHash": 2641812987,
+  "number": 9,
+  "cardCount": 1
+ },
+ {
+  "descParamList": [
+   [
+    5
+   ],
+   [
+    1
+   ],
+   [
+    3
+   ]
+  ],
+  "descParamSuperpositionList": [
+   false,
+   true,
+   false
+  ],
+  "effect": {
+   "targetParamList": [],
+   "effectStrParam": "SGV_ElementMasteryLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_ALL",
+   "ELNENMECICO": 0,
+   "effectParam2": 5,
+   "DIOKDAPPEPN": 3,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_CARDS_COUNT_STACK_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_MECHANISM",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 84,
+  "tag": "CARD_TAG_OTHER",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_MASTERY",
+  "descTextMapHash": 4248135764,
+  "cardNumericalModificationValue": 75,
+  "needChessLevel": 5,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 746708063,
+  "extraDescTextMapHash": 2860245550,
+  "cardNameTextMapHash": 1839326563,
+  "number": 10,
+  "cardCount": 1
+ },
+ {
+  "descParamList": [
+   [
+    1
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   true,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [],
+   "effectStrParam": "SGV_AttackDamageLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_ALL",
+   "ELNENMECICO": 0,
+   "effectParam2": 1,
+   "DIOKDAPPEPN": 99999,
+   "effectParam1": 0,
+   "effectType": "CHESS_CARD_EFFECT_CARD_TYPE_STACK_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_MECHANISM",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 85,
+  "tag": "CARD_TAG_OTHER",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "descTextMapHash": 999645772,
+  "cardNumericalModificationValue": 2000,
+  "needChessLevel": 6,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 3940047551,
+  "extraDescTextMapHash": 2218798126,
+  "cardNameTextMapHash": 1277121387,
+  "number": 11,
+  "cardCount": 1
+ },
+ {
+  "descParamList": [
+   [
+    1
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   true,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [],
+   "effectStrParam": "SGV_ElementMasteryLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_ALL",
+   "ELNENMECICO": 0,
+   "effectParam2": 1,
+   "DIOKDAPPEPN": 99999,
+   "effectParam1": 0,
+   "effectType": "CHESS_CARD_EFFECT_CARD_TYPE_STACK_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_MECHANISM",
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 86,
+  "tag": "CARD_TAG_OTHER",
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardNumericalModificationType": "CARD_NUMERICAL_MASTERY",
+  "descTextMapHash": 3214815324,
+  "cardNumericalModificationValue": 75,
+  "needChessLevel": 6,
+  "costPoints": 500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 457111007,
+  "extraDescTextMapHash": 282883566,
+  "cardNameTextMapHash": 504157307,
+  "number": 12,
+  "cardCount": 1
+ },
+ {
+  "descParamList": [
+   [
+    3
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [],
+   "effectStrParam": "",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_DEFAULT",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 3,
+   "effectType": "CHESS_CARD_EFFECT_FREE_CARD_REFRESH"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_MECHANISM",
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 87,
+  "tag": "CARD_TAG_OTHER",
+  "cardQualityType": "CARD_QUALITY_PERCECT",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 2916332772,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 5,
+  "costPoints": 1500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 1904619623,
+  "extraDescTextMapHash": 1959133646,
+  "cardNameTextMapHash": 754576619,
+  "number": 13,
+  "cardCount": 1
+ },
+ {
+  "descParamList": [
+   [
+    6,
+    6
+   ],
+   [
+    250,
+    500
+   ],
+   [
+    250,
+    500
+   ]
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   true
+  ],
+  "effect": {
+   "targetParamList": [],
+   "effectStrParam": "SGV_AttackRatioUp",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_ALL",
+   "ELNENMECICO": 0,
+   "effectParam2": 6,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_SGV_PICK_CARD_LTE"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_MECHANISM",
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 88,
+  "tag": "CARD_TAG_OTHER",
+  "cardQualityType": "CARD_QUALITY_PERCECT",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "descTextMapHash": 2432133828,
+  "cardNumericalModificationValue": 2.5,
+  "needChessLevel": 8,
+  "costPoints": 1500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_PERCENTAGE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 247978223,
+  "extraDescTextMapHash": 2584279518,
+  "cardNameTextMapHash": 326770083,
+  "number": 14,
+  "cardCount": 2
+ },
+ {
+  "descParamList": [
+   [
+    5
+   ],
+   [
+    1
+   ],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   true,
+   false
+  ],
+  "effect": {
+   "targetParamList": [],
+   "effectStrParam": "",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_DEFAULT",
+   "ELNENMECICO": 0,
+   "effectParam2": 5,
+   "DIOKDAPPEPN": 2,
+   "effectParam1": 2,
+   "effectType": "CHESS_CARD_EFFECT_CARDS_TYPE_COUNT_NO_COST"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_MECHANISM",
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 89,
+  "tag": "CARD_TAG_OTHER",
+  "cardQualityType": "CARD_QUALITY_PERCECT",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 2645548908,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 10,
+  "costPoints": 1500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 2180884119,
+  "extraDescTextMapHash": 388301334,
+  "cardNameTextMapHash": 3899828771,
+  "number": 15,
+  "cardCount": 1
+ },
+ {
+  "descParamList": [
+   [
+    1000
+   ],
+   [
+    1
+   ],
+   [
+    1
+   ]
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   true
+  ],
+  "effect": {
+   "targetParamList": [],
+   "effectStrParam": "SGV_AttackDamageLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_ALL",
+   "ELNENMECICO": 0,
+   "effectParam2": 1,
+   "DIOKDAPPEPN": 99999,
+   "effectParam1": 1000,
+   "effectType": "CHESS_CARD_EFFECT_POINTS_STACK_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_MECHANISM",
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 90,
+  "tag": "CARD_TAG_OTHER",
+  "cardQualityType": "CARD_QUALITY_PERCECT",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "descTextMapHash": 2795735452,
+  "cardNumericalModificationValue": 2000,
+  "needChessLevel": 9,
+  "costPoints": 1500,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 1686760143,
+  "extraDescTextMapHash": 1926816238,
+  "cardNameTextMapHash": 3167058267,
+  "number": 16,
+  "cardCount": 1
+ },
+ {
+  "descParamList": [
+   [
+    1
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [],
+   "effectStrParam": "",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_DEFAULT",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 3,
+   "effectType": "CHESS_CARD_EFFECT_CARD_TYPE_FORCE_CURSE"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_MECHANISM",
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": true,
+  "id": 91,
+  "tag": "CARD_TAG_OTHER",
+  "cardQualityType": "CARD_QUALITY_PERCECT",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 4246448548,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 6,
+  "costPoints": 1000,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 168266919,
+  "extraDescTextMapHash": 2163638758,
+  "cardNameTextMapHash": 637576251,
+  "number": 17,
+  "cardCount": 1
+ },
+ {
+  "descParamList": [
+   [
+    1
+   ],
+   [
+    10
+   ],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [],
+   "effectStrParam": "",
+   "HAFGJHKHNOM": 1,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_DEFAULT",
+   "ELNENMECICO": 1,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1000,
+   "effectType": "CHESS_CARD_EFFECT_MOD_KILL_POINTS"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_CHALLENGE",
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": false,
+  "id": 92,
+  "tag": "CARD_TAG_NONE",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 4264324652,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 1,
+  "costPoints": 100,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 3579559959,
+  "extraDescTextMapHash": 2382879942,
+  "cardNameTextMapHash": 4232036563,
+  "number": 1,
+  "cardCount": 3
+ },
+ {
+  "descParamList": [
+   [
+    20
+   ],
+   [
+    10
+   ],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [],
+   "effectStrParam": "",
+   "HAFGJHKHNOM": 1,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_DEFAULT",
+   "ELNENMECICO": 1,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1000,
+   "effectType": "CHESS_CARD_EFFECT_MOD_KILL_POINTS"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_CHALLENGE",
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": false,
+  "id": 93,
+  "tag": "CARD_TAG_NONE",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 2809661812,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 1,
+  "costPoints": 100,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 2750184343,
+  "extraDescTextMapHash": 2301926846,
+  "cardNameTextMapHash": 2953187131,
+  "number": 2,
+  "cardCount": 3
+ },
+ {
+  "descParamList": [
+   [
+    1
+   ],
+   [
+    10
+   ],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [],
+   "effectStrParam": "",
+   "HAFGJHKHNOM": 1,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_DEFAULT",
+   "ELNENMECICO": 1,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1000,
+   "effectType": "CHESS_CARD_EFFECT_MOD_KILL_POINTS"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_CHALLENGE",
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": false,
+  "id": 94,
+  "tag": "CARD_TAG_NONE",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 1537043828,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 1,
+  "costPoints": 100,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 126250703,
+  "extraDescTextMapHash": 1179962926,
+  "cardNameTextMapHash": 950021323,
+  "number": 3,
+  "cardCount": 3
+ },
+ {
+  "descParamList": [
+   [],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [],
+   "effectStrParam": "",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_DEFAULT",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 1,
+   "effectType": "CHESS_CARD_EFFECT_KILL_GEARS"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_CURSE",
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": false,
+  "id": 95,
+  "tag": "CARD_TAG_NONE",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 3983099204,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 1,
+  "costPoints": 0,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 1878100015,
+  "extraDescTextMapHash": 1495175398,
+  "cardNameTextMapHash": 2150129987,
+  "number": 1,
+  "cardCount": 1
+ },
+ {
+  "descParamList": [
+   [
+    2
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350281
+   ],
+   "effectStrParam": "SGV_AttackDamageLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": -2,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_CURSE",
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": false,
+  "id": 96,
+  "tag": "CARD_TAG_NONE",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "descTextMapHash": 901184132,
+  "cardNumericalModificationValue": -4000,
+  "needChessLevel": 1,
+  "costPoints": 0,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 1028170151,
+  "extraDescTextMapHash": 2156877358,
+  "cardNameTextMapHash": 4045098611,
+  "number": 2,
+  "cardCount": 1
+ },
+ {
+  "descParamList": [
+   [
+    2
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350282
+   ],
+   "effectStrParam": "SGV_AttackDamageLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": -2,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_CURSE",
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": false,
+  "id": 97,
+  "tag": "CARD_TAG_NONE",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "descTextMapHash": 167911228,
+  "cardNumericalModificationValue": -4000,
+  "needChessLevel": 1,
+  "costPoints": 0,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 4077693031,
+  "extraDescTextMapHash": 3139297254,
+  "cardNameTextMapHash": 1132322195,
+  "number": 3,
+  "cardCount": 1
+ },
+ {
+  "descParamList": [
+   [
+    2
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350283
+   ],
+   "effectStrParam": "SGV_AttackDamageLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": -2,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_CURSE",
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": false,
+  "id": 98,
+  "tag": "CARD_TAG_NONE",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "descTextMapHash": 3121895484,
+  "cardNumericalModificationValue": -4000,
+  "needChessLevel": 1,
+  "costPoints": 0,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 1343578087,
+  "extraDescTextMapHash": 3793797630,
+  "cardNameTextMapHash": 768370963,
+  "number": 4,
+  "cardCount": 1
+ },
+ {
+  "descParamList": [
+   [
+    2
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350284
+   ],
+   "effectStrParam": "SGV_AttackDamageLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": -2,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_CURSE",
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": false,
+  "id": 99,
+  "tag": "CARD_TAG_NONE",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "descTextMapHash": 1085025964,
+  "cardNumericalModificationValue": -4000,
+  "needChessLevel": 1,
+  "costPoints": 0,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 76858623,
+  "extraDescTextMapHash": 276440118,
+  "cardNameTextMapHash": 602576387,
+  "number": 5,
+  "cardCount": 1
+ },
+ {
+  "descParamList": [
+   [
+    2
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350285
+   ],
+   "effectStrParam": "SGV_AttackDamageLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": -2,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_CURSE",
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": false,
+  "id": 100,
+  "tag": "CARD_TAG_NONE",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "descTextMapHash": 1431846252,
+  "cardNumericalModificationValue": -4000,
+  "needChessLevel": 1,
+  "costPoints": 0,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 416264495,
+  "extraDescTextMapHash": 386333214,
+  "cardNameTextMapHash": 3285786107,
+  "number": 6,
+  "cardCount": 1
+ },
+ {
+  "descParamList": [
+   [
+    2
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [
+    70350286
+   ],
+   "effectStrParam": "SGV_AttackDamageLevel",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_GADGETS",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": -2,
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_CURSE",
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": false,
+  "id": 101,
+  "tag": "CARD_TAG_NONE",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "descTextMapHash": 2413686156,
+  "cardNumericalModificationValue": -4000,
+  "needChessLevel": 1,
+  "costPoints": 0,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 322907607,
+  "extraDescTextMapHash": 422559494,
+  "cardNameTextMapHash": 1069417547,
+  "number": 7,
+  "cardCount": 1
+ },
+ {
+  "descParamList": [
+   [],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "effect": {
+   "targetParamList": [],
+   "effectStrParam": "",
+   "HAFGJHKHNOM": 0,
+   "NGPOOGPHMPM": 0,
+   "targetType": "CHESS_CARD_TARGET_DEFAULT",
+   "ELNENMECICO": 0,
+   "effectParam2": 0,
+   "DIOKDAPPEPN": 0,
+   "effectParam1": 0,
+   "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+  },
+  "extraEffectList": [
+   {
+    "targetParamList": [],
+    "effectStrParam": "",
+    "HAFGJHKHNOM": 0,
+    "NGPOOGPHMPM": 0,
+    "targetType": "CHESS_CARD_TARGET_DEFAULT",
+    "ELNENMECICO": 0,
+    "effectParam2": 0,
+    "DIOKDAPPEPN": 0,
+    "effectParam1": 0,
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT"
+   }
+  ],
+  "cardType": "CHESS_CARD_CURSE",
+  "isCanAttachCurse": false,
+  "isShowOnPick": false,
+  "GFEJGODEDMB": false,
+  "EEJMMEGOENE": false,
+  "id": 102,
+  "tag": "CARD_TAG_NONE",
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "descTextMapHash": 2998795020,
+  "cardNumericalModificationValue": 0,
+  "needChessLevel": 1,
+  "costPoints": 0,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "curseWeight": 100,
+  "extraDesc2TextMapHash": 2004793535,
+  "extraDescTextMapHash": 1907585102,
+  "cardNameTextMapHash": 2000605971,
+  "number": 8,
+  "cardCount": 1
+ }
+]
