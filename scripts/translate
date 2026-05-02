@@ -19,20 +19,22 @@ for dir in v*; do
 	[ -n "$hash" ] || continue
 
 	git checkout "$hash" -- "$dir"
-	rm -v -- "$dir/info" 2> /dev/null || :
+	rm -fv -- "$dir/info"
 	"$TRANSLATE_DM/translate-dm" \
 		--replace \
-		--types "ExcelBinOutput:excel" \
 		--dm "$dir" \
 		--queries "$TRANSLATE_DM/queries/excel.yml" \
 		--output "$dir/translate.sed" |
 		tee -- "$dir/info"
 
-	if [ ! -s "$dir/translate.sed" ]; then
+	ok=true
+	[ -s "$dir/translate.sed" ] || ok=false
+	rm -f -- "$dir/translate.sed"
+
+	if [ "$ok" = false ]; then
 		printf 'E: translation failed at %s\n' "$dir"
 		exit 1
 	fi
-	rm -- "$dir/translate.sed"
 
 	printf '%s\n' "Updating git index"
 	git add -- "$dir/ExcelBinOutput"
