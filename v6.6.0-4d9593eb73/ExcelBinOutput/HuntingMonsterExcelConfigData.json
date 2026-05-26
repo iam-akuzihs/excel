@@ -1,0 +1,6434 @@
+[
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_BowVulnerable",
+  "affix": [
+   4011,
+   4020,
+   4032,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2001,
+   3005
+  ],
+  "configId": 10001,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 33013770,
+  "mechanismDesc2TextMapHash": 3771462096,
+  "mechanismTitle1TextMapHash": 296877373,
+  "mechanismTitle2TextMapHash": 3392075002,
+  "monsterId": 20020101,
+  "newsTextTextMapHash": 2916934028,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1000,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 3772635521
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_SwordVulnerable",
+  "affix": [
+   4008,
+   4017,
+   4032,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2002,
+   3006
+  ],
+  "configId": 10002,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 2619316258,
+  "mechanismDesc2TextMapHash": 2091289904,
+  "mechanismTitle1TextMapHash": 2106017845,
+  "mechanismTitle2TextMapHash": 96109922,
+  "monsterId": 20020101,
+  "newsTextTextMapHash": 3614870828,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1000,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 238311497
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_CatalystVulnerable",
+  "affix": [
+   4009,
+   4016,
+   4032,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2003,
+   3007
+  ],
+  "configId": 10003,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3730108562,
+  "mechanismDesc2TextMapHash": 1105907720,
+  "mechanismTitle1TextMapHash": 3851652517,
+  "mechanismTitle2TextMapHash": 515909794,
+  "monsterId": 20020101,
+  "newsTextTextMapHash": 1181329612,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1000,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 3143367881
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_ClaymoreVulnerable",
+  "affix": [
+   4010,
+   4018,
+   4032,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2004,
+   3008
+  ],
+  "configId": 10004,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 768481298,
+  "mechanismDesc2TextMapHash": 438972784,
+  "mechanismTitle1TextMapHash": 3361561741,
+  "mechanismTitle2TextMapHash": 2776465834,
+  "monsterId": 20020101,
+  "newsTextTextMapHash": 585825460,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1000,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 1096490073
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_PoleVulnerable",
+  "affix": [
+   4012,
+   4019,
+   4032,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2005,
+   3009
+  ],
+  "configId": 10005,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 1720235314,
+  "mechanismDesc2TextMapHash": 3615958472,
+  "mechanismTitle1TextMapHash": 326416805,
+  "mechanismTitle2TextMapHash": 4046766082,
+  "monsterId": 20020101,
+  "newsTextTextMapHash": 295488804,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1000,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 1685549449
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_BowVulnerable",
+  "affix": [
+   4009,
+   4020,
+   4033,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2003,
+   3005
+  ],
+  "configId": 10006,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 4176818322,
+  "mechanismDesc2TextMapHash": 3246472616,
+  "mechanismTitle1TextMapHash": 1776557477,
+  "mechanismTitle2TextMapHash": 827338898,
+  "monsterId": 21020101,
+  "newsTextTextMapHash": 2839142612,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1000,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 3067257281
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_ClaymoreVulnerable",
+  "affix": [
+   4012,
+   4018,
+   4033,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2005,
+   3008
+  ],
+  "configId": 10007,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 884622386,
+  "mechanismDesc2TextMapHash": 3638872296,
+  "mechanismTitle1TextMapHash": 4100859949,
+  "mechanismTitle2TextMapHash": 754216138,
+  "monsterId": 21020101,
+  "newsTextTextMapHash": 3903024356,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1000,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 460790209
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_PoleVulnerable",
+  "affix": [
+   4013,
+   4019,
+   4033,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2006,
+   3009
+  ],
+  "configId": 10008,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3786016778,
+  "mechanismDesc2TextMapHash": 3775543608,
+  "mechanismTitle1TextMapHash": 437888045,
+  "mechanismTitle2TextMapHash": 549200098,
+  "monsterId": 21020101,
+  "newsTextTextMapHash": 3135601084,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1000,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 2131505313
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_CatalystVulnerable",
+  "affix": [
+   4011,
+   4016,
+   4033,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2001,
+   3007
+  ],
+  "configId": 10009,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 2976987530,
+  "mechanismDesc2TextMapHash": 1129743416,
+  "mechanismTitle1TextMapHash": 512402517,
+  "mechanismTitle2TextMapHash": 123396234,
+  "monsterId": 21020201,
+  "newsTextTextMapHash": 2480144492,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1000,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 1085869161
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_SwordVulnerable",
+  "affix": [
+   4008,
+   4017,
+   4033,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2002,
+   3006
+  ],
+  "configId": 10010,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 1584568674,
+  "mechanismDesc2TextMapHash": 1114245624,
+  "mechanismTitle1TextMapHash": 953604317,
+  "mechanismTitle2TextMapHash": 3097160042,
+  "monsterId": 21020201,
+  "newsTextTextMapHash": 458369060,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1000,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 2670656665
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_ClaymoreVulnerable",
+  "affix": [
+   4010,
+   4018,
+   4033,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2004,
+   3008
+  ],
+  "configId": 10011,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3709978042,
+  "mechanismDesc2TextMapHash": 2931108264,
+  "mechanismTitle1TextMapHash": 867351733,
+  "mechanismTitle2TextMapHash": 423715250,
+  "monsterId": 21020201,
+  "newsTextTextMapHash": 887272660,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1000,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 2431107113
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_ClaymoreVulnerable",
+  "affix": [
+   4008,
+   4018,
+   4033,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2002,
+   3008
+  ],
+  "configId": 10012,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 2664331362,
+  "mechanismDesc2TextMapHash": 479308824,
+  "mechanismTitle1TextMapHash": 3057205661,
+  "mechanismTitle2TextMapHash": 2715669714,
+  "monsterId": 21020301,
+  "newsTextTextMapHash": 621327772,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1000,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 2511757577
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_ClaymoreVulnerable",
+  "affix": [
+   4011,
+   4018,
+   4033,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2001,
+   3008
+  ],
+  "configId": 10013,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 2503814522,
+  "mechanismDesc2TextMapHash": 2729123256,
+  "mechanismTitle1TextMapHash": 2303197325,
+  "mechanismTitle2TextMapHash": 328011842,
+  "monsterId": 21020301,
+  "newsTextTextMapHash": 1110995356,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1000,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 953771265
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4011,
+   4027,
+   4033,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2001,
+   3004
+  ],
+  "configId": 10014,
+  "createPosType": "HUNTING_POS_GROUND",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 1460373674,
+  "mechanismDesc2TextMapHash": 3838937160,
+  "mechanismTitle1TextMapHash": 2852737453,
+  "mechanismTitle2TextMapHash": 1793485834,
+  "monsterId": 22010101,
+  "newsTextTextMapHash": 1659956244,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1000,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 2443143433
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4010,
+   4026,
+   4033,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2004,
+   3003
+  ],
+  "configId": 10015,
+  "createPosType": "HUNTING_POS_GROUND",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3769322810,
+  "mechanismDesc2TextMapHash": 1691857208,
+  "mechanismTitle1TextMapHash": 4165341205,
+  "mechanismTitle2TextMapHash": 409116730,
+  "monsterId": 22010101,
+  "newsTextTextMapHash": 3098436988,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1000,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 1296989465
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4009,
+   4028,
+   4033,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2003,
+   3001
+  ],
+  "configId": 10016,
+  "createPosType": "HUNTING_POS_GROUND",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 1794768266,
+  "mechanismDesc2TextMapHash": 112557192,
+  "mechanismTitle1TextMapHash": 120657301,
+  "mechanismTitle2TextMapHash": 3119062354,
+  "monsterId": 22010101,
+  "newsTextTextMapHash": 3172299260,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1000,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 3421435289
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4008,
+   4028,
+   4033,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2002,
+   3001
+  ],
+  "configId": 10017,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 730330314,
+  "mechanismDesc2TextMapHash": 1607665040,
+  "mechanismTitle1TextMapHash": 4020685213,
+  "mechanismTitle2TextMapHash": 13567098,
+  "monsterId": 22010201,
+  "newsTextTextMapHash": 2709406780,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1000,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 1326309729
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4011,
+   4025,
+   4033,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2001,
+   3002
+  ],
+  "configId": 10018,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 1508357562,
+  "mechanismDesc2TextMapHash": 3355576752,
+  "mechanismTitle1TextMapHash": 4168755645,
+  "mechanismTitle2TextMapHash": 1694432650,
+  "monsterId": 22010201,
+  "newsTextTextMapHash": 3842133140,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1000,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 356565401
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4008,
+   4028,
+   4033,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2002,
+   3001
+  ],
+  "configId": 10019,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 4202941690,
+  "mechanismDesc2TextMapHash": 1694972184,
+  "mechanismTitle1TextMapHash": 2840440189,
+  "mechanismTitle2TextMapHash": 1251830962,
+  "monsterId": 22010301,
+  "newsTextTextMapHash": 722825348,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1000,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 3579410569
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4011,
+   4025,
+   4033,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2001,
+   3002
+  ],
+  "configId": 10020,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 4000328786,
+  "mechanismDesc2TextMapHash": 3023242440,
+  "mechanismTitle1TextMapHash": 1145018605,
+  "mechanismTitle2TextMapHash": 1723530370,
+  "monsterId": 22010301,
+  "newsTextTextMapHash": 4151080020,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1000,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 2824189985
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4010,
+   4025,
+   4033,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   3
+  ],
+  "clueTextIdList": [],
+  "configId": 13001,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 2579969354,
+  "mechanismDesc2TextMapHash": 1174296928,
+  "mechanismTitle1TextMapHash": 2550397237,
+  "mechanismTitle2TextMapHash": 3608112346,
+  "monsterId": 22010201,
+  "newsTextTextMapHash": 2420950124,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1003,
+  "routeId": 321300027,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 941476233
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4011,
+   4027,
+   4033,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   3
+  ],
+  "clueTextIdList": [],
+  "configId": 13002,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 1148055898,
+  "mechanismDesc2TextMapHash": 486923736,
+  "mechanismTitle1TextMapHash": 2063205629,
+  "mechanismTitle2TextMapHash": 2017092826,
+  "monsterId": 22010401,
+  "newsTextTextMapHash": 3138080828,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1003,
+  "routeId": 321300028,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 324597849
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4009,
+   4028,
+   4033,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   3
+  ],
+  "clueTextIdList": [],
+  "configId": 13003,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3157510202,
+  "mechanismDesc2TextMapHash": 1318958264,
+  "mechanismTitle1TextMapHash": 1502861389,
+  "mechanismTitle2TextMapHash": 4096999642,
+  "monsterId": 22010301,
+  "newsTextTextMapHash": 1909994556,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1003,
+  "routeId": 322000102,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 896024905
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4008,
+   4029,
+   4033,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   3
+  ],
+  "clueTextIdList": [],
+  "configId": 13004,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 1494438914,
+  "mechanismDesc2TextMapHash": 4058283368,
+  "mechanismTitle1TextMapHash": 3148892293,
+  "mechanismTitle2TextMapHash": 558307586,
+  "monsterId": 21020201,
+  "newsTextTextMapHash": 1650621644,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1003,
+  "routeId": 322000102,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 4287432121
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4012,
+   4030,
+   4033,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   3
+  ],
+  "clueTextIdList": [],
+  "configId": 13005,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 971363786,
+  "mechanismDesc2TextMapHash": 1886378224,
+  "mechanismTitle1TextMapHash": 36056085,
+  "mechanismTitle2TextMapHash": 37916938,
+  "monsterId": 21020701,
+  "newsTextTextMapHash": 1708838916,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1003,
+  "routeId": 321200092,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 2910908681
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4013,
+   4026,
+   4033,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   3
+  ],
+  "clueTextIdList": [],
+  "configId": 13006,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 4245589306,
+  "mechanismDesc2TextMapHash": 3364908328,
+  "mechanismTitle1TextMapHash": 607242461,
+  "mechanismTitle2TextMapHash": 935484906,
+  "monsterId": 21030601,
+  "newsTextTextMapHash": 478509532,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1003,
+  "routeId": 322000112,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 564748593
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4008,
+   4026,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   4
+  ],
+  "clueTextIdList": [],
+  "configId": 14001,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3172719898,
+  "mechanismDesc2TextMapHash": 1614921744,
+  "mechanismTitle1TextMapHash": 3386315093,
+  "mechanismTitle2TextMapHash": 2051799074,
+  "monsterId": 22010101,
+  "newsTextTextMapHash": 422516996,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1003,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 4110682201
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4008,
+   4028,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   4
+  ],
+  "clueTextIdList": [],
+  "configId": 14002,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 1649014266,
+  "mechanismDesc2TextMapHash": 3447012608,
+  "mechanismTitle1TextMapHash": 3998606757,
+  "mechanismTitle2TextMapHash": 2418041130,
+  "monsterId": 21020201,
+  "newsTextTextMapHash": 1593203764,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1003,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 3757220961
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4012,
+   4028,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   4
+  ],
+  "clueTextIdList": [],
+  "configId": 14003,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3836031122,
+  "mechanismDesc2TextMapHash": 1848344832,
+  "mechanismTitle1TextMapHash": 3761044813,
+  "mechanismTitle2TextMapHash": 3003054483,
+  "monsterId": 25310301,
+  "newsTextTextMapHash": 2141507964,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1003,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 481775817
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4009,
+   4029,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   4
+  ],
+  "clueTextIdList": [],
+  "configId": 14004,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 1324113178,
+  "mechanismDesc2TextMapHash": 2973665616,
+  "mechanismTitle1TextMapHash": 1627270525,
+  "mechanismTitle2TextMapHash": 1321242922,
+  "monsterId": 26120301,
+  "newsTextTextMapHash": 3284391092,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1003,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 1734094233
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4014,
+   4027,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   4
+  ],
+  "clueTextIdList": [],
+  "configId": 14005,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 2872092906,
+  "mechanismDesc2TextMapHash": 676411520,
+  "mechanismTitle1TextMapHash": 354929813,
+  "mechanismTitle2TextMapHash": 734572642,
+  "monsterId": 25310201,
+  "newsTextTextMapHash": 3203307612,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1003,
+  "routeId": 330300072,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 1195363409
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4010,
+   4031,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   4
+  ],
+  "clueTextIdList": [],
+  "configId": 14006,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 604212274,
+  "mechanismDesc2TextMapHash": 2249718840,
+  "mechanismTitle1TextMapHash": 941569029,
+  "mechanismTitle2TextMapHash": 1204840946,
+  "monsterId": 26120201,
+  "newsTextTextMapHash": 3730302188,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1003,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 2307273129
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4013,
+   4025,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   4
+  ],
+  "clueTextIdList": [],
+  "configId": 14007,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 2650358818,
+  "mechanismDesc2TextMapHash": 4209638560,
+  "mechanismTitle1TextMapHash": 2363948429,
+  "mechanismTitle2TextMapHash": 1950757962,
+  "monsterId": 21030201,
+  "newsTextTextMapHash": 3235629308,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1003,
+  "routeId": 330400105,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 85799233
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4011,
+   4026,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   4
+  ],
+  "clueTextIdList": [],
+  "configId": 14008,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 4163200386,
+  "mechanismDesc2TextMapHash": 1691066704,
+  "mechanismTitle1TextMapHash": 3695192341,
+  "mechanismTitle2TextMapHash": 2153677826,
+  "monsterId": 25310101,
+  "newsTextTextMapHash": 3152479460,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1003,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 2619765993
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4010,
+   4025,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   5
+  ],
+  "clueTextIdList": [],
+  "configId": 15001,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 2184419626,
+  "mechanismDesc2TextMapHash": 2834189536,
+  "mechanismTitle1TextMapHash": 715393077,
+  "mechanismTitle2TextMapHash": 598379002,
+  "monsterId": 22010201,
+  "newsTextTextMapHash": 3851503004,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1003,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 352624921
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4012,
+   4027,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   5
+  ],
+  "clueTextIdList": [],
+  "configId": 15002,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3623498098,
+  "mechanismDesc2TextMapHash": 2809774312,
+  "mechanismTitle1TextMapHash": 2863275501,
+  "mechanismTitle2TextMapHash": 3302249754,
+  "monsterId": 24065401,
+  "newsTextTextMapHash": 4275632388,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1003,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 316679601
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4008,
+   4028,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   5
+  ],
+  "clueTextIdList": [],
+  "configId": 15003,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 4096563290,
+  "mechanismDesc2TextMapHash": 3372879096,
+  "mechanismTitle1TextMapHash": 38045901,
+  "mechanismTitle2TextMapHash": 1474614658,
+  "monsterId": 21020201,
+  "newsTextTextMapHash": 3893074084,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1003,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 2891462753
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4013,
+   4025,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   5
+  ],
+  "clueTextIdList": [],
+  "configId": 15004,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 4243127298,
+  "mechanismDesc2TextMapHash": 3750828448,
+  "mechanismTitle1TextMapHash": 1321029109,
+  "mechanismTitle2TextMapHash": 1140765106,
+  "monsterId": 24065701,
+  "newsTextTextMapHash": 1077377300,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1003,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 3799454993
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4009,
+   4031,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   5
+  ],
+  "clueTextIdList": [],
+  "configId": 15005,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 632285458,
+  "mechanismDesc2TextMapHash": 1076568336,
+  "mechanismTitle1TextMapHash": 320929085,
+  "mechanismTitle2TextMapHash": 1615459626,
+  "monsterId": 22010301,
+  "newsTextTextMapHash": 2828985548,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1003,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 2259900433
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4011,
+   4029,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   5
+  ],
+  "clueTextIdList": [],
+  "configId": 15006,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_EASY",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 2285103434,
+  "mechanismDesc2TextMapHash": 874555632,
+  "mechanismTitle1TextMapHash": 415298941,
+  "mechanismTitle2TextMapHash": 281850018,
+  "monsterId": 22110201,
+  "newsTextTextMapHash": 3349997828,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1003,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 4083128753
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4010,
+   4011,
+   4026,
+   4035,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2001,
+   2004,
+   3003
+  ],
+  "configId": 20001,
+  "createPosType": "HUNTING_POS_GROUND",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3096455202,
+  "mechanismDesc2TextMapHash": 4178334904,
+  "mechanismTitle1TextMapHash": 3359270005,
+  "mechanismTitle2TextMapHash": 2645632322,
+  "monsterId": 22010101,
+  "newsTextTextMapHash": 2922376692,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1001,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 1962780705
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4008,
+   4009,
+   4028,
+   4035,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2002,
+   2003,
+   3001
+  ],
+  "configId": 20002,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 1201585618,
+  "mechanismDesc2TextMapHash": 2093498752,
+  "mechanismTitle1TextMapHash": 3313675381,
+  "mechanismTitle2TextMapHash": 3696932258,
+  "monsterId": 22010201,
+  "newsTextTextMapHash": 3876452772,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1001,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 2616135681
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4008,
+   4011,
+   4027,
+   4035,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2001,
+   2002,
+   3004
+  ],
+  "configId": 20003,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 872308802,
+  "mechanismDesc2TextMapHash": 1128263000,
+  "mechanismTitle1TextMapHash": 3264047141,
+  "mechanismTitle2TextMapHash": 4111821178,
+  "monsterId": 22010301,
+  "newsTextTextMapHash": 682286220,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1001,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 3392275577
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_ClaymoreVulnerable",
+  "affix": [
+   4008,
+   4010,
+   4018,
+   4035,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2002,
+   2004,
+   3008
+  ],
+  "configId": 20004,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 2086925802,
+  "mechanismDesc2TextMapHash": 2922126560,
+  "mechanismTitle1TextMapHash": 3561514149,
+  "mechanismTitle2TextMapHash": 1891767586,
+  "monsterId": 26030101,
+  "newsTextTextMapHash": 3312723188,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1001,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 3912083617
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_SwordVulnerable",
+  "affix": [
+   4009,
+   4011,
+   4017,
+   4035,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2001,
+   2003,
+   3006
+  ],
+  "configId": 20005,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3429908850,
+  "mechanismDesc2TextMapHash": 3772316128,
+  "mechanismTitle1TextMapHash": 2264366445,
+  "mechanismTitle2TextMapHash": 1939834322,
+  "monsterId": 26030101,
+  "newsTextTextMapHash": 4190423044,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1001,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 2125389273
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_PoleVulnerable",
+  "affix": [
+   4010,
+   4011,
+   4019,
+   4035,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2001,
+   2004,
+   3009
+  ],
+  "configId": 20006,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3958288786,
+  "mechanismDesc2TextMapHash": 2545994984,
+  "mechanismTitle1TextMapHash": 2345256997,
+  "mechanismTitle2TextMapHash": 2862476322,
+  "monsterId": 26030101,
+  "newsTextTextMapHash": 2088092692,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1001,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 480010465
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_CatalystVulnerable",
+  "affix": [
+   4008,
+   4009,
+   4016,
+   4035,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2002,
+   2003,
+   3007
+  ],
+  "configId": 20007,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 232963146,
+  "mechanismDesc2TextMapHash": 2782892192,
+  "mechanismTitle1TextMapHash": 2203699501,
+  "mechanismTitle2TextMapHash": 3318601930,
+  "monsterId": 26030101,
+  "newsTextTextMapHash": 1722298396,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1001,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 3173931073
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_BowVulnerable",
+  "affix": [
+   4010,
+   4011,
+   4020,
+   4033,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2001,
+   2004,
+   3005
+  ],
+  "configId": 20008,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3906425170,
+  "mechanismDesc2TextMapHash": 291942576,
+  "mechanismTitle1TextMapHash": 1609248949,
+  "mechanismTitle2TextMapHash": 13326426,
+  "monsterId": 20020101,
+  "newsTextTextMapHash": 3375594836,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1001,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 4046550489
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_SwordVulnerable",
+  "affix": [
+   4008,
+   4010,
+   4017,
+   4033,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2002,
+   2004,
+   3006
+  ],
+  "configId": 20009,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 1890285842,
+  "mechanismDesc2TextMapHash": 1543191640,
+  "mechanismTitle1TextMapHash": 1586617773,
+  "mechanismTitle2TextMapHash": 4040341858,
+  "monsterId": 20020101,
+  "newsTextTextMapHash": 2230754452,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1001,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 1057742145
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_CatalystVulnerable",
+  "affix": [
+   4009,
+   4011,
+   4016,
+   4033,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2001,
+   2003,
+   3007
+  ],
+  "configId": 20010,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3795232906,
+  "mechanismDesc2TextMapHash": 944999584,
+  "mechanismTitle1TextMapHash": 829179037,
+  "mechanismTitle2TextMapHash": 3772877834,
+  "monsterId": 20020101,
+  "newsTextTextMapHash": 485429260,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1001,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 276154793
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_ClaymoreVulnerable",
+  "affix": [
+   4009,
+   4010,
+   4018,
+   4033,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2003,
+   2004,
+   3008
+  ],
+  "configId": 20011,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3442811114,
+  "mechanismDesc2TextMapHash": 2968058192,
+  "mechanismTitle1TextMapHash": 868597805,
+  "mechanismTitle2TextMapHash": 1387578418,
+  "monsterId": 20020101,
+  "newsTextTextMapHash": 1249597836,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1001,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 3774604665
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_PoleVulnerable",
+  "affix": [
+   4008,
+   4011,
+   4019,
+   4033,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2001,
+   2002,
+   3009
+  ],
+  "configId": 20012,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 1570326770,
+  "mechanismDesc2TextMapHash": 942220496,
+  "mechanismTitle1TextMapHash": 2112427421,
+  "mechanismTitle2TextMapHash": 974691458,
+  "monsterId": 20020101,
+  "newsTextTextMapHash": 1758627956,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1001,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 3573161401
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4056,
+   4063,
+   4051,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2009,
+   3004
+  ],
+  "configId": 20013,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 1109691866,
+  "mechanismDesc2TextMapHash": 778973600,
+  "mechanismTitle1TextMapHash": 1192453125,
+  "mechanismTitle2TextMapHash": 373263843,
+  "monsterId": 21020101,
+  "newsTextTextMapHash": 499149908,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1001,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 4238156921
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4056,
+   4063,
+   4049,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2009,
+   3002
+  ],
+  "configId": 20014,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3511875922,
+  "mechanismDesc2TextMapHash": 431911232,
+  "mechanismTitle1TextMapHash": 4080303589,
+  "mechanismTitle2TextMapHash": 1175355538,
+  "monsterId": 21020101,
+  "newsTextTextMapHash": 1566616820,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1001,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 1568957673
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4056,
+   4063,
+   4051,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2009,
+   3004
+  ],
+  "configId": 20015,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3597619290,
+  "mechanismDesc2TextMapHash": 2179795336,
+  "mechanismTitle1TextMapHash": 1339097573,
+  "mechanismTitle2TextMapHash": 2211610762,
+  "monsterId": 21020201,
+  "newsTextTextMapHash": 3574820196,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1001,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 1121386529
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4056,
+   4063,
+   4052,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2009,
+   3001
+  ],
+  "configId": 20016,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 2230703610,
+  "mechanismDesc2TextMapHash": 750483528,
+  "mechanismTitle1TextMapHash": 1902733453,
+  "mechanismTitle2TextMapHash": 477811082,
+  "monsterId": 21020201,
+  "newsTextTextMapHash": 1537140900,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1001,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 4243616833
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4056,
+   4063,
+   4050,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2009,
+   3003
+  ],
+  "configId": 20017,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 1387226418,
+  "mechanismDesc2TextMapHash": 3504547912,
+  "mechanismTitle1TextMapHash": 2272542109,
+  "mechanismTitle2TextMapHash": 2626183666,
+  "monsterId": 21020301,
+  "newsTextTextMapHash": 3795961148,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1001,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 904567953
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4056,
+   4063,
+   4052,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2009,
+   3001
+  ],
+  "configId": 20018,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3836253666,
+  "mechanismDesc2TextMapHash": 4006006024,
+  "mechanismTitle1TextMapHash": 2646576461,
+  "mechanismTitle2TextMapHash": 991819162,
+  "monsterId": 21020301,
+  "newsTextTextMapHash": 1016149012,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1001,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 629835033
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_PoleAndFallingVulnerable",
+  "affix": [
+   4010,
+   4013,
+   4019,
+   4024,
+   4035,
+   4041,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2006,
+   2004,
+   3009,
+   3010
+  ],
+  "configId": 20019,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3104651466,
+  "mechanismDesc2TextMapHash": 79562984,
+  "mechanismTitle1TextMapHash": 3246185869,
+  "mechanismTitle2TextMapHash": 3805294946,
+  "monsterId": 21020101,
+  "newsTextTextMapHash": 957288868,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1001,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 1979766929
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_SwordAndFallingVulnerable",
+  "affix": [
+   4012,
+   4011,
+   4017,
+   4024,
+   4035,
+   4041,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2005,
+   2001,
+   3006,
+   3010
+  ],
+  "configId": 20020,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3219431522,
+  "mechanismDesc2TextMapHash": 3891734776,
+  "mechanismTitle1TextMapHash": 2690869413,
+  "mechanismTitle2TextMapHash": 1504918554,
+  "monsterId": 21020201,
+  "newsTextTextMapHash": 1624499660,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1001,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 202446849
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_ClaymoreAndFallingVulnerable",
+  "affix": [
+   4009,
+   4010,
+   4018,
+   4024,
+   4035,
+   4041,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2003,
+   2004,
+   3008,
+   3010
+  ],
+  "configId": 20021,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 2164059386,
+  "mechanismDesc2TextMapHash": 856730712,
+  "mechanismTitle1TextMapHash": 4200649101,
+  "mechanismTitle2TextMapHash": 2498937186,
+  "monsterId": 21020301,
+  "newsTextTextMapHash": 2176457004,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1001,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 2571816209
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_PoleVulnerable",
+  "affix": [
+   6113,
+   4011,
+   4019,
+   4035,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   3
+  ],
+  "clueTextIdList": [],
+  "configId": 23001,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3247467722,
+  "mechanismDesc2TextMapHash": 1698931192,
+  "mechanismTitle1TextMapHash": 3978921333,
+  "mechanismTitle2TextMapHash": 1504815218,
+  "monsterId": 21020701,
+  "newsTextTextMapHash": 4003875164,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1004,
+  "routeId": 321300027,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 1106187377
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   6105,
+   4008,
+   4026,
+   4035,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   3
+  ],
+  "clueTextIdList": [],
+  "configId": 23002,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3029843250,
+  "mechanismDesc2TextMapHash": 2538983696,
+  "mechanismTitle1TextMapHash": 1464495141,
+  "mechanismTitle2TextMapHash": 2428126522,
+  "monsterId": 21020201,
+  "newsTextTextMapHash": 2513062964,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1004,
+  "routeId": 321300028,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 3229783385
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   6112,
+   4010,
+   4025,
+   4035,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   3
+  ],
+  "clueTextIdList": [],
+  "configId": 23003,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 4052472874,
+  "mechanismDesc2TextMapHash": 2725171280,
+  "mechanismTitle1TextMapHash": 1712547037,
+  "mechanismTitle2TextMapHash": 1346561530,
+  "monsterId": 22010301,
+  "newsTextTextMapHash": 105475348,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1004,
+  "routeId": 322000102,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 3571471681
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4132,
+   4009,
+   4027,
+   4035,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   3
+  ],
+  "clueTextIdList": [],
+  "configId": 23004,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 565430586,
+  "mechanismDesc2TextMapHash": 3522322864,
+  "mechanismTitle1TextMapHash": 1183889581,
+  "mechanismTitle2TextMapHash": 3087090850,
+  "monsterId": 21020701,
+  "newsTextTextMapHash": 569406900,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1004,
+  "routeId": 322000102,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 153332201
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_CatalystVulnerable",
+  "affix": [
+   6113,
+   4013,
+   4016,
+   4035,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   3
+  ],
+  "clueTextIdList": [],
+  "configId": 23005,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3126415418,
+  "mechanismDesc2TextMapHash": 2151667184,
+  "mechanismTitle1TextMapHash": 3874240637,
+  "mechanismTitle2TextMapHash": 2909708506,
+  "monsterId": 22010401,
+  "newsTextTextMapHash": 158271980,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1004,
+  "routeId": 321200092,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 106490329
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_ClaymoreVulnerable",
+  "affix": [
+   4132,
+   4012,
+   4018,
+   4056,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   3
+  ],
+  "clueTextIdList": [],
+  "configId": 23006,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 2681275874,
+  "mechanismDesc2TextMapHash": 2673470488,
+  "mechanismTitle1TextMapHash": 2351322213,
+  "mechanismTitle2TextMapHash": 2125840618,
+  "monsterId": 24010101,
+  "newsTextTextMapHash": 4094144716,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1004,
+  "routeId": 322000112,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 558607745
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4132,
+   4012,
+   4028,
+   4033,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   4
+  ],
+  "clueTextIdList": [],
+  "configId": 24001,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 2362812866,
+  "mechanismDesc2TextMapHash": 3613843568,
+  "mechanismTitle1TextMapHash": 2619158677,
+  "mechanismTitle2TextMapHash": 243791274,
+  "monsterId": 24010101,
+  "newsTextTextMapHash": 594528292,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1004,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 1407455481
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   6119,
+   4013,
+   4029,
+   4061,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   4
+  ],
+  "clueTextIdList": [],
+  "configId": 24002,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 1701422506,
+  "mechanismDesc2TextMapHash": 2807766256,
+  "mechanismTitle1TextMapHash": 1685274757,
+  "mechanismTitle2TextMapHash": 608367754,
+  "monsterId": 22050201,
+  "newsTextTextMapHash": 3992218108,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1004,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 2688220385
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   6118,
+   4011,
+   4026,
+   4033,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   4
+  ],
+  "clueTextIdList": [],
+  "configId": 24003,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 802467106,
+  "mechanismDesc2TextMapHash": 3761371576,
+  "mechanismTitle1TextMapHash": 3120718005,
+  "mechanismTitle2TextMapHash": 1753386426,
+  "monsterId": 25310101,
+  "newsTextTextMapHash": 1056494004,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1004,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 2195284441
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   6101,
+   4010,
+   4030,
+   4033,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   4
+  ],
+  "clueTextIdList": [],
+  "configId": 24004,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 4253146346,
+  "mechanismDesc2TextMapHash": 1632350640,
+  "mechanismTitle1TextMapHash": 3449462989,
+  "mechanismTitle2TextMapHash": 694829106,
+  "monsterId": 26120201,
+  "newsTextTextMapHash": 2543573212,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1004,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 2414199089
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   6107,
+   4008,
+   4027,
+   4033,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   4
+  ],
+  "clueTextIdList": [],
+  "configId": 24005,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 1012109570,
+  "mechanismDesc2TextMapHash": 1548733912,
+  "mechanismTitle1TextMapHash": 817039741,
+  "mechanismTitle2TextMapHash": 876520778,
+  "monsterId": 25310201,
+  "newsTextTextMapHash": 1480045588,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1004,
+  "routeId": 330300072,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 450789593
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4066,
+   4014,
+   4025,
+   4033,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   4
+  ],
+  "clueTextIdList": [],
+  "configId": 24006,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 406588498,
+  "mechanismDesc2TextMapHash": 1357010272,
+  "mechanismTitle1TextMapHash": 2934410253,
+  "mechanismTitle2TextMapHash": 4143153498,
+  "monsterId": 26120101,
+  "newsTextTextMapHash": 2735870260,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1004,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 3221617921
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4067,
+   4013,
+   4033,
+   4064,
+   4069
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   4
+  ],
+  "clueTextIdList": [],
+  "configId": 24007,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3779398874,
+  "mechanismDesc2TextMapHash": 953334040,
+  "mechanismTitle1TextMapHash": 1663684893,
+  "mechanismTitle2TextMapHash": 2401788370,
+  "monsterId": 23020101,
+  "newsTextTextMapHash": 4159209892,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1004,
+  "routeId": 330400105,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 2675522569
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4067,
+   4009,
+   4033,
+   4064,
+   4068
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   4
+  ],
+  "clueTextIdList": [],
+  "configId": 24008,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 2770999410,
+  "mechanismDesc2TextMapHash": 159366576,
+  "mechanismTitle1TextMapHash": 1985557741,
+  "mechanismTitle2TextMapHash": 491821338,
+  "monsterId": 25310301,
+  "newsTextTextMapHash": 3313580092,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1004,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 2608392665
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4067,
+   4008,
+   4069,
+   4033,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   5
+  ],
+  "clueTextIdList": [],
+  "configId": 25001,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 2141618290,
+  "mechanismDesc2TextMapHash": 4118358064,
+  "mechanismTitle1TextMapHash": 768896085,
+  "mechanismTitle2TextMapHash": 2102243642,
+  "monsterId": 23020101,
+  "newsTextTextMapHash": 2414258684,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1004,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 2513794425
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   6118,
+   4013,
+   4028,
+   4033,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   5
+  ],
+  "clueTextIdList": [],
+  "configId": 25002,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 4,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3945458898,
+  "mechanismDesc2TextMapHash": 3993231464,
+  "mechanismTitle1TextMapHash": 3890716125,
+  "mechanismTitle2TextMapHash": 521367562,
+  "monsterId": 20051101,
+  "newsTextTextMapHash": 3981579372,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1004,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 4226825377
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4132,
+   4012,
+   5373,
+   4033,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   5
+  ],
+  "clueTextIdList": [],
+  "configId": 25003,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 2687798722,
+  "mechanismDesc2TextMapHash": 2854500464,
+  "mechanismTitle1TextMapHash": 3976157533,
+  "mechanismTitle2TextMapHash": 3424769314,
+  "monsterId": 24066001,
+  "newsTextTextMapHash": 953097412,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1004,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 1855168633
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   6120,
+   4009,
+   4025,
+   4061,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   5
+  ],
+  "clueTextIdList": [],
+  "configId": 25004,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 2106092794,
+  "mechanismDesc2TextMapHash": 162993456,
+  "mechanismTitle1TextMapHash": 3627764173,
+  "mechanismTitle2TextMapHash": 168482882,
+  "monsterId": 24060801,
+  "newsTextTextMapHash": 3823305852,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1004,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 2592199057
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   6118,
+   4011,
+   4027,
+   4061,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   5
+  ],
+  "clueTextIdList": [],
+  "configId": 25005,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 4,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 1894299090,
+  "mechanismDesc2TextMapHash": 1734833520,
+  "mechanismTitle1TextMapHash": 1582566605,
+  "mechanismTitle2TextMapHash": 980876658,
+  "monsterId": 20051001,
+  "newsTextTextMapHash": 2140732636,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1004,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 1145024809
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4132,
+   4014,
+   4026,
+   4033,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   5
+  ],
+  "clueTextIdList": [],
+  "configId": 25006,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_MEDIUM",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 1814451346,
+  "mechanismDesc2TextMapHash": 2023667096,
+  "mechanismTitle1TextMapHash": 2221435213,
+  "mechanismTitle2TextMapHash": 2619788546,
+  "monsterId": 24010101,
+  "newsTextTextMapHash": 858950980,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1004,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 2476326353
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4002,
+   4025,
+   4026,
+   4027,
+   4028,
+   4029,
+   4030,
+   4031,
+   4036,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2007,
+   3013
+  ],
+  "configId": 30001,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3088372914,
+  "mechanismDesc2TextMapHash": 1341497688,
+  "mechanismTitle1TextMapHash": 421249357,
+  "mechanismTitle2TextMapHash": 4268407090,
+  "monsterId": 24010101,
+  "newsTextTextMapHash": 3928737044,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1002,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 1276398057
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_FallingAttackVulnerable",
+  "affix": [
+   4009,
+   4013,
+   4028,
+   4024,
+   4036,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2003,
+   2006,
+   3001,
+   3010
+  ],
+  "configId": 30002,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3230500082,
+  "mechanismDesc2TextMapHash": 3550624248,
+  "mechanismTitle1TextMapHash": 1838611757,
+  "mechanismTitle2TextMapHash": 4253106338,
+  "monsterId": 24010101,
+  "newsTextTextMapHash": 3617453076,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1002,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 3185951769
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_SwordVulnerable_High",
+  "affix": [
+   4008,
+   4010,
+   4058,
+   4061,
+   4045,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2002,
+   2004,
+   2009,
+   3006
+  ],
+  "configId": 30003,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 1097649634,
+  "mechanismDesc2TextMapHash": 599949480,
+  "mechanismTitle1TextMapHash": 2996050325,
+  "mechanismTitle2TextMapHash": 3328330066,
+  "monsterId": 24010101,
+  "newsTextTextMapHash": 1018054988,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1002,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 428576985
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_ExtraCriticalHurt",
+  "affix": [
+   4008,
+   4013,
+   4022,
+   4034,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2002,
+   2006,
+   3012
+  ],
+  "configId": 30004,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 100,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 2458337482,
+  "mechanismDesc2TextMapHash": 1472581864,
+  "mechanismTitle1TextMapHash": 3610034541,
+  "mechanismTitle2TextMapHash": 826378546,
+  "monsterId": 24010201,
+  "newsTextTextMapHash": 1976296628,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1002,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 2191899657
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_FallingAttackVulnerable",
+  "affix": [
+   4011,
+   4012,
+   4021,
+   4034,
+   4040,
+   4024,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2001,
+   2005,
+   3011,
+   3010
+  ],
+  "configId": 30005,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 100,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 2275009914,
+  "mechanismDesc2TextMapHash": 3090649104,
+  "mechanismTitle1TextMapHash": 3618752693,
+  "mechanismTitle2TextMapHash": 3824027786,
+  "monsterId": 24010201,
+  "newsTextTextMapHash": 1933338796,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1002,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 2908448089
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4002,
+   4025,
+   4026,
+   4027,
+   4028,
+   4029,
+   4030,
+   4031,
+   4034,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2007,
+   3013
+  ],
+  "configId": 30006,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 100,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 1229722770,
+  "mechanismDesc2TextMapHash": 4079353256,
+  "mechanismTitle1TextMapHash": 1994114085,
+  "mechanismTitle2TextMapHash": 1464971642,
+  "monsterId": 24010201,
+  "newsTextTextMapHash": 3075188180,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1002,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 2166185313
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_ClaymoreVulnerable_High",
+  "affix": [
+   4009,
+   4010,
+   4059,
+   4046,
+   4061,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   1,
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2003,
+   2004,
+   2009,
+   3008
+  ],
+  "configId": 30007,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 100,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 127385650,
+  "mechanismDesc2TextMapHash": 1987034504,
+  "mechanismTitle1TextMapHash": 42076557,
+  "mechanismTitle2TextMapHash": 1721656522,
+  "monsterId": 24010201,
+  "newsTextTextMapHash": 2541004044,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1002,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 3250953289
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4002,
+   4025,
+   4026,
+   4027,
+   4028,
+   4029,
+   4030,
+   4031,
+   4034,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2007,
+   3013
+  ],
+  "configId": 30008,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 2362108226,
+  "mechanismDesc2TextMapHash": 4009283592,
+  "mechanismTitle1TextMapHash": 264520901,
+  "mechanismTitle2TextMapHash": 590164314,
+  "monsterId": 21020501,
+  "newsTextTextMapHash": 1080448492,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1002,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 4059266553
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_ClaymoreVulnerable",
+  "affix": [
+   4008,
+   4028,
+   4034,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2002,
+   3001
+  ],
+  "configId": 30009,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 2689162306,
+  "mechanismDesc2TextMapHash": 484409808,
+  "mechanismTitle1TextMapHash": 1062318509,
+  "mechanismTitle2TextMapHash": 2528151666,
+  "monsterId": 21020501,
+  "newsTextTextMapHash": 2297784612,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1002,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 1650615777
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_SwordAndFallingVulnerable",
+  "affix": [
+   4010,
+   4024,
+   4026,
+   4034,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2004,
+   3003,
+   3010
+  ],
+  "configId": 30010,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3508666546,
+  "mechanismDesc2TextMapHash": 2029997112,
+  "mechanismTitle1TextMapHash": 3171628517,
+  "mechanismTitle2TextMapHash": 2105588210,
+  "monsterId": 21020501,
+  "newsTextTextMapHash": 305564116,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1002,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 174888273
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_CatalystVulnerable",
+  "affix": [
+   4010,
+   4016,
+   4034,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2004,
+   3007
+  ],
+  "configId": 30011,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 4061710650,
+  "mechanismDesc2TextMapHash": 163124424,
+  "mechanismTitle1TextMapHash": 1090398269,
+  "mechanismTitle2TextMapHash": 1765851154,
+  "monsterId": 21020501,
+  "newsTextTextMapHash": 3610417620,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1002,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 4133949697
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_PoleVulnerable",
+  "affix": [
+   4011,
+   4027,
+   4034,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   2
+  ],
+  "clueTextIdList": [
+   1001,
+   2001,
+   3004
+  ],
+  "configId": 30012,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 1378305170,
+  "mechanismDesc2TextMapHash": 4022671536,
+  "mechanismTitle1TextMapHash": 3651632461,
+  "mechanismTitle2TextMapHash": 397488490,
+  "monsterId": 21020501,
+  "newsTextTextMapHash": 1634626804,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1002,
+  "routeId": 0,
+  "searchPointNum": 3,
+  "suiteId": [],
+  "traitTextTextMapHash": 4097508513
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   6110,
+   4011,
+   4025,
+   4033,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   3
+  ],
+  "clueTextIdList": [],
+  "configId": 33001,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3022182458,
+  "mechanismDesc2TextMapHash": 353962192,
+  "mechanismTitle1TextMapHash": 2246132901,
+  "mechanismTitle2TextMapHash": 1356790826,
+  "monsterId": 21020801,
+  "newsTextTextMapHash": 561610956,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 321300027,
+  "searchPointNum": 0,
+  "suiteId": [
+   2,
+   3
+  ],
+  "traitTextTextMapHash": 1146876289
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4008,
+   4027,
+   4033,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   3
+  ],
+  "clueTextIdList": [],
+  "configId": 33003,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3712114010,
+  "mechanismDesc2TextMapHash": 2699217176,
+  "mechanismTitle1TextMapHash": 2445990109,
+  "mechanismTitle2TextMapHash": 985529634,
+  "monsterId": 25100101,
+  "newsTextTextMapHash": 3070864628,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 321300027,
+  "searchPointNum": 0,
+  "suiteId": [
+   9,
+   10,
+   11
+  ],
+  "traitTextTextMapHash": 4075756913
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   6110,
+   4011,
+   4030,
+   4034,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   3
+  ],
+  "clueTextIdList": [],
+  "configId": 33004,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3983534274,
+  "mechanismDesc2TextMapHash": 1306091720,
+  "mechanismTitle1TextMapHash": 1131242965,
+  "mechanismTitle2TextMapHash": 1427237978,
+  "monsterId": 25100101,
+  "newsTextTextMapHash": 2320311804,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 321300027,
+  "searchPointNum": 0,
+  "suiteId": [
+   11,
+   12
+  ],
+  "traitTextTextMapHash": 35016033
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   6113,
+   4012,
+   4034,
+   4040,
+   4126,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   3
+  ],
+  "clueTextIdList": [],
+  "configId": 33005,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3810917810,
+  "mechanismDesc2TextMapHash": 3385258024,
+  "mechanismTitle1TextMapHash": 566193485,
+  "mechanismTitle2TextMapHash": 2438176866,
+  "monsterId": 25100101,
+  "newsTextTextMapHash": 3832597732,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 321300027,
+  "searchPointNum": 0,
+  "suiteId": [
+   10,
+   11,
+   17
+  ],
+  "traitTextTextMapHash": 873474177
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4013,
+   4029,
+   4034,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   3
+  ],
+  "clueTextIdList": [],
+  "configId": 33006,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3330489826,
+  "mechanismDesc2TextMapHash": 2773447680,
+  "mechanismTitle1TextMapHash": 3784628709,
+  "mechanismTitle2TextMapHash": 652688514,
+  "monsterId": 25100201,
+  "newsTextTextMapHash": 897356972,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 322000102,
+  "searchPointNum": 0,
+  "suiteId": [
+   4,
+   5
+  ],
+  "traitTextTextMapHash": 4273836137
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_SwordVulnerable",
+  "affix": [
+   4010,
+   4017,
+   4033,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   3
+  ],
+  "clueTextIdList": [],
+  "configId": 33007,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 2792408098,
+  "mechanismDesc2TextMapHash": 1790681312,
+  "mechanismTitle1TextMapHash": 1899881949,
+  "mechanismTitle2TextMapHash": 3343242610,
+  "monsterId": 25100201,
+  "newsTextTextMapHash": 1649940684,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 322000102,
+  "searchPointNum": 0,
+  "suiteId": [
+   5,
+   6,
+   10
+  ],
+  "traitTextTextMapHash": 2910082105
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   6110,
+   4008,
+   4034,
+   4040,
+   4126,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   3
+  ],
+  "clueTextIdList": [],
+  "configId": 33008,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3439124554,
+  "mechanismDesc2TextMapHash": 544172272,
+  "mechanismTitle1TextMapHash": 1160805469,
+  "mechanismTitle2TextMapHash": 1888528818,
+  "monsterId": 25100201,
+  "newsTextTextMapHash": 2843348172,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 322000102,
+  "searchPointNum": 0,
+  "suiteId": [
+   5,
+   7,
+   11
+  ],
+  "traitTextTextMapHash": 2927589577
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_BowVulnerable",
+  "affix": [
+   4009,
+   4020,
+   4033,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   3
+  ],
+  "clueTextIdList": [],
+  "configId": 33009,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3312746642,
+  "mechanismDesc2TextMapHash": 2518612256,
+  "mechanismTitle1TextMapHash": 2683520509,
+  "mechanismTitle2TextMapHash": 1816977506,
+  "monsterId": 21020801,
+  "newsTextTextMapHash": 194229740,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 321200092,
+  "searchPointNum": 0,
+  "suiteId": [
+   5,
+   6,
+   7
+  ],
+  "traitTextTextMapHash": 2063285257
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_CatalystVulnerable",
+  "affix": [
+   4132,
+   4011,
+   4016,
+   4033,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   3
+  ],
+  "clueTextIdList": [],
+  "configId": 33010,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3079361586,
+  "mechanismDesc2TextMapHash": 2884946176,
+  "mechanismTitle1TextMapHash": 10995861,
+  "mechanismTitle2TextMapHash": 3645758482,
+  "monsterId": 21020801,
+  "newsTextTextMapHash": 1574598060,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 321200092,
+  "searchPointNum": 0,
+  "suiteId": [
+   2,
+   4
+  ],
+  "traitTextTextMapHash": 1945219553
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4132,
+   4002,
+   4025,
+   4026,
+   4027,
+   4028,
+   4029,
+   4030,
+   4031,
+   4035,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   3
+  ],
+  "clueTextIdList": [],
+  "configId": 33011,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 4028805570,
+  "mechanismDesc2TextMapHash": 2994527616,
+  "mechanismTitle1TextMapHash": 4126304429,
+  "mechanismTitle2TextMapHash": 1382710738,
+  "monsterId": 24010301,
+  "newsTextTextMapHash": 355403116,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 322000102,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 1735739481
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   6114,
+   4002,
+   4025,
+   4026,
+   4027,
+   4028,
+   4029,
+   4030,
+   4031,
+   4035,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   3
+  ],
+  "clueTextIdList": [],
+  "configId": 33012,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 1952976298,
+  "mechanismDesc2TextMapHash": 2833645016,
+  "mechanismTitle1TextMapHash": 577530053,
+  "mechanismTitle2TextMapHash": 4233244146,
+  "monsterId": 24010301,
+  "newsTextTextMapHash": 1082918100,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 322000102,
+  "searchPointNum": 0,
+  "suiteId": [],
+  "traitTextTextMapHash": 4167555217
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   6113,
+   4012,
+   4035,
+   4040,
+   4126,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   3
+  ],
+  "clueTextIdList": [],
+  "configId": 33013,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 141893034,
+  "mechanismDesc2TextMapHash": 1993042344,
+  "mechanismTitle1TextMapHash": 611494045,
+  "mechanismTitle2TextMapHash": 242552178,
+  "monsterId": 24010301,
+  "newsTextTextMapHash": 2281984412,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 322000102,
+  "searchPointNum": 0,
+  "suiteId": [
+   11
+  ],
+  "traitTextTextMapHash": 12132353
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4013,
+   4127,
+   4034,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   3
+  ],
+  "clueTextIdList": [],
+  "configId": 33014,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 666160274,
+  "mechanismDesc2TextMapHash": 2562138264,
+  "mechanismTitle1TextMapHash": 3979109781,
+  "mechanismTitle2TextMapHash": 1534911890,
+  "monsterId": 24020101,
+  "newsTextTextMapHash": 4199078308,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 322000112,
+  "searchPointNum": 0,
+  "suiteId": [
+   3
+  ],
+  "traitTextTextMapHash": 3563050385
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4010,
+   4127,
+   4034,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   3
+  ],
+  "clueTextIdList": [],
+  "configId": 33015,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3837146554,
+  "mechanismDesc2TextMapHash": 3125829912,
+  "mechanismTitle1TextMapHash": 4001215645,
+  "mechanismTitle2TextMapHash": 3790559314,
+  "monsterId": 24020201,
+  "newsTextTextMapHash": 2040534332,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 322000112,
+  "searchPointNum": 0,
+  "suiteId": [
+   2
+  ],
+  "traitTextTextMapHash": 1106658729
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4008,
+   4127,
+   4034,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   3
+  ],
+  "clueTextIdList": [],
+  "configId": 33016,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 2268840442,
+  "mechanismDesc2TextMapHash": 4262500736,
+  "mechanismTitle1TextMapHash": 3213623677,
+  "mechanismTitle2TextMapHash": 3626613914,
+  "monsterId": 24020301,
+  "newsTextTextMapHash": 2225220,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 322000112,
+  "searchPointNum": 0,
+  "suiteId": [
+   5
+  ],
+  "traitTextTextMapHash": 63826001
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4009,
+   4127,
+   4034,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   3
+  ],
+  "clueTextIdList": [],
+  "configId": 33017,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 2050175010,
+  "mechanismDesc2TextMapHash": 2262238344,
+  "mechanismTitle1TextMapHash": 100210117,
+  "mechanismTitle2TextMapHash": 3461906562,
+  "monsterId": 24020401,
+  "newsTextTextMapHash": 3913306284,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 322000112,
+  "searchPointNum": 0,
+  "suiteId": [
+   4
+  ],
+  "traitTextTextMapHash": 2263692609
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4067,
+   4012,
+   4033,
+   4040,
+   4064,
+   4069
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   4
+  ],
+  "clueTextIdList": [],
+  "configId": 34001,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 1743922610,
+  "mechanismDesc2TextMapHash": 249064480,
+  "mechanismTitle1TextMapHash": 3146361925,
+  "mechanismTitle2TextMapHash": 2114737370,
+  "monsterId": 24030201,
+  "newsTextTextMapHash": 1715225044,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [
+   2
+  ],
+  "traitTextTextMapHash": 2381054353
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_BowVulnerable_High",
+  "affix": [
+   6102,
+   4013,
+   4048,
+   4033,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   4
+  ],
+  "clueTextIdList": [],
+  "configId": 34002,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3289522642,
+  "mechanismDesc2TextMapHash": 2912279568,
+  "mechanismTitle1TextMapHash": 1370776701,
+  "mechanismTitle2TextMapHash": 4050216090,
+  "monsterId": 24030201,
+  "newsTextTextMapHash": 874295700,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [
+   3
+  ],
+  "traitTextTextMapHash": 1507392569
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   6119,
+   4013,
+   4033,
+   4040,
+   4064,
+   4068
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   4
+  ],
+  "clueTextIdList": [],
+  "configId": 34003,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 2831714698,
+  "mechanismDesc2TextMapHash": 2448985528,
+  "mechanismTitle1TextMapHash": 3086784997,
+  "mechanismTitle2TextMapHash": 2487090410,
+  "monsterId": 22050201,
+  "newsTextTextMapHash": 2045576372,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [
+   2
+  ],
+  "traitTextTextMapHash": 1875333433
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4132,
+   4008,
+   4029,
+   4033,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   4
+  ],
+  "clueTextIdList": [],
+  "configId": 34004,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 1299672410,
+  "mechanismDesc2TextMapHash": 1745021952,
+  "mechanismTitle1TextMapHash": 2352523301,
+  "mechanismTitle2TextMapHash": 4185293834,
+  "monsterId": 22050101,
+  "newsTextTextMapHash": 95797356,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [
+   3
+  ],
+  "traitTextTextMapHash": 3219453345
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   6120,
+   4012,
+   4026,
+   4035,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   4
+  ],
+  "clueTextIdList": [],
+  "configId": 34005,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 2724511834,
+  "mechanismDesc2TextMapHash": 1109383360,
+  "mechanismTitle1TextMapHash": 3617538429,
+  "mechanismTitle2TextMapHash": 1644688786,
+  "monsterId": 25310101,
+  "newsTextTextMapHash": 2917318716,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [
+   2
+  ],
+  "traitTextTextMapHash": 3162660257
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_ClaymoreVulnerable_High",
+  "affix": [
+   6119,
+   4011,
+   4046,
+   4035,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   4
+  ],
+  "clueTextIdList": [],
+  "configId": 34006,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 2670685514,
+  "mechanismDesc2TextMapHash": 186595344,
+  "mechanismTitle1TextMapHash": 1035524349,
+  "mechanismTitle2TextMapHash": 3293081770,
+  "monsterId": 25310201,
+  "newsTextTextMapHash": 3203356788,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [
+   3
+  ],
+  "traitTextTextMapHash": 2286138729
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4067,
+   4009,
+   4031,
+   4035,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   4
+  ],
+  "clueTextIdList": [],
+  "configId": 34007,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 695196786,
+  "mechanismDesc2TextMapHash": 2576345200,
+  "mechanismTitle1TextMapHash": 3130679701,
+  "mechanismTitle2TextMapHash": 203970578,
+  "monsterId": 26120301,
+  "newsTextTextMapHash": 1334117700,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [
+   2
+  ],
+  "traitTextTextMapHash": 2229859489
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   6110,
+   4009,
+   4030,
+   4035,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   4
+  ],
+  "clueTextIdList": [],
+  "configId": 34008,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 1240121458,
+  "mechanismDesc2TextMapHash": 3048609840,
+  "mechanismTitle1TextMapHash": 2299854157,
+  "mechanismTitle2TextMapHash": 84274586,
+  "monsterId": 26120301,
+  "newsTextTextMapHash": 1737044116,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [
+   3
+  ],
+  "traitTextTextMapHash": 1337492529
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4132,
+   4010,
+   4033,
+   4040,
+   4064,
+   4068
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   4
+  ],
+  "clueTextIdList": [],
+  "configId": 34009,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 552097874,
+  "mechanismDesc2TextMapHash": 1928346680,
+  "mechanismTitle1TextMapHash": 3907560941,
+  "mechanismTitle2TextMapHash": 1187413354,
+  "monsterId": 24030201,
+  "newsTextTextMapHash": 2398859708,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 330300072,
+  "searchPointNum": 0,
+  "suiteId": [
+   2
+  ],
+  "traitTextTextMapHash": 738751841
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_SwordVulnerable_High",
+  "affix": [
+   6120,
+   4012,
+   4045,
+   4033,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   4
+  ],
+  "clueTextIdList": [],
+  "configId": 34010,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 1503694034,
+  "mechanismDesc2TextMapHash": 370738552,
+  "mechanismTitle1TextMapHash": 3516749957,
+  "mechanismTitle2TextMapHash": 4096292058,
+  "monsterId": 24010301,
+  "newsTextTextMapHash": 1879448948,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 330300072,
+  "searchPointNum": 0,
+  "suiteId": [
+   3
+  ],
+  "traitTextTextMapHash": 40333425
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_BowVulnerable_High",
+  "affix": [
+   4066,
+   4014,
+   4048,
+   4035,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   4
+  ],
+  "clueTextIdList": [],
+  "configId": 34011,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 2018833658,
+  "mechanismDesc2TextMapHash": 1446812840,
+  "mechanismTitle1TextMapHash": 1656507605,
+  "mechanismTitle2TextMapHash": 171580602,
+  "monsterId": 26120101,
+  "newsTextTextMapHash": 1289808972,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [
+   2
+  ],
+  "traitTextTextMapHash": 1431032945
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_CatalystVulnerable_High",
+  "affix": [
+   4010,
+   4044,
+   4035,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   4
+  ],
+  "clueTextIdList": [],
+  "configId": 34012,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 1295674498,
+  "mechanismDesc2TextMapHash": 3275934968,
+  "mechanismTitle1TextMapHash": 1869559005,
+  "mechanismTitle2TextMapHash": 2511110602,
+  "monsterId": 26120201,
+  "newsTextTextMapHash": 1620618356,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [
+   3
+  ],
+  "traitTextTextMapHash": 3502837177
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4066,
+   4013,
+   4025,
+   4033,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   4
+  ],
+  "clueTextIdList": [],
+  "configId": 34013,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 1385635882,
+  "mechanismDesc2TextMapHash": 1297907744,
+  "mechanismTitle1TextMapHash": 414963861,
+  "mechanismTitle2TextMapHash": 1284423002,
+  "monsterId": 24030201,
+  "newsTextTextMapHash": 1230249228,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 330400105,
+  "searchPointNum": 0,
+  "suiteId": [
+   2
+  ],
+  "traitTextTextMapHash": 125813049
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4067,
+   4008,
+   4033,
+   4040,
+   4064,
+   4069
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   4
+  ],
+  "clueTextIdList": [],
+  "configId": 34014,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3707965482,
+  "mechanismDesc2TextMapHash": 326639664,
+  "mechanismTitle1TextMapHash": 159369653,
+  "mechanismTitle2TextMapHash": 303785034,
+  "monsterId": 24010301,
+  "newsTextTextMapHash": 2186008884,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 330400105,
+  "searchPointNum": 0,
+  "suiteId": [
+   3
+  ],
+  "traitTextTextMapHash": 927175921
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   6110,
+   4010,
+   4028,
+   4035,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   4
+  ],
+  "clueTextIdList": [],
+  "configId": 34015,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 2344076634,
+  "mechanismDesc2TextMapHash": 2415094048,
+  "mechanismTitle1TextMapHash": 392273269,
+  "mechanismTitle2TextMapHash": 915340722,
+  "monsterId": 25310301,
+  "newsTextTextMapHash": 3374281068,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [
+   2
+  ],
+  "traitTextTextMapHash": 3571499417
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_PoleVulnerable_High",
+  "affix": [
+   4132,
+   4011,
+   4047,
+   4035,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   4
+  ],
+  "clueTextIdList": [],
+  "configId": 34016,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 1727939850,
+  "mechanismDesc2TextMapHash": 3606578416,
+  "mechanismTitle1TextMapHash": 300799229,
+  "mechanismTitle2TextMapHash": 1638868114,
+  "monsterId": 25310201,
+  "newsTextTextMapHash": 2468018628,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [
+   3
+  ],
+  "traitTextTextMapHash": 2685536729
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   6110,
+   4010,
+   4030,
+   4033,
+   4064,
+   4040
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   5
+  ],
+  "clueTextIdList": [],
+  "configId": 35001,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3241494786,
+  "mechanismDesc2TextMapHash": 1504614424,
+  "mechanismTitle1TextMapHash": 1595245701,
+  "mechanismTitle2TextMapHash": 2722806122,
+  "monsterId": 23050101,
+  "newsTextTextMapHash": 2098582788,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [
+   2
+  ],
+  "traitTextTextMapHash": 4160935025
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   6120,
+   4008,
+   5373,
+   4035,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   5
+  ],
+  "clueTextIdList": [],
+  "configId": 35002,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 1178059922,
+  "mechanismDesc2TextMapHash": 3711156288,
+  "mechanismTitle1TextMapHash": 4284817541,
+  "mechanismTitle2TextMapHash": 3097164234,
+  "monsterId": 24065801,
+  "newsTextTextMapHash": 1427454324,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [
+   3
+  ],
+  "traitTextTextMapHash": 1745174873
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   6110,
+   4013,
+   4028,
+   4040,
+   4064,
+   4033
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   5
+  ],
+  "clueTextIdList": [],
+  "configId": 35003,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 4,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 1180219842,
+  "mechanismDesc2TextMapHash": 3727496600,
+  "mechanismTitle1TextMapHash": 3586494653,
+  "mechanismTitle2TextMapHash": 1268065346,
+  "monsterId": 20051001,
+  "newsTextTextMapHash": 3175797060,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [
+   2
+  ],
+  "traitTextTextMapHash": 1620403209
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4067,
+   4012,
+   4069,
+   4040,
+   4034,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   5
+  ],
+  "clueTextIdList": [],
+  "configId": 35004,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 4,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 2397575450,
+  "mechanismDesc2TextMapHash": 2354521312,
+  "mechanismTitle1TextMapHash": 3423332597,
+  "mechanismTitle2TextMapHash": 2277986498,
+  "monsterId": 20051101,
+  "newsTextTextMapHash": 465193052,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [
+   3
+  ],
+  "traitTextTextMapHash": 1075059073
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_CatalystVulnerable_High",
+  "affix": [
+   4132,
+   4009,
+   4044,
+   4071,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   5
+  ],
+  "clueTextIdList": [],
+  "configId": 35005,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 3852487010,
+  "mechanismDesc2TextMapHash": 1053362632,
+  "mechanismTitle1TextMapHash": 1114553605,
+  "mechanismTitle2TextMapHash": 2071934122,
+  "monsterId": 24066201,
+  "newsTextTextMapHash": 830787644,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [
+   1
+  ],
+  "traitTextTextMapHash": 2065544233
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4011,
+   4027,
+   4035,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   5
+  ],
+  "clueTextIdList": [],
+  "configId": 35006,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 1400444146,
+  "mechanismDesc2TextMapHash": 4023357592,
+  "mechanismTitle1TextMapHash": 1453474165,
+  "mechanismTitle2TextMapHash": 827551106,
+  "monsterId": 24066001,
+  "newsTextTextMapHash": 1444986100,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [
+   2
+  ],
+  "traitTextTextMapHash": 896058761
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4014,
+   4025,
+   4034,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   5
+  ],
+  "clueTextIdList": [],
+  "configId": 35007,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 1703035266,
+  "mechanismDesc2TextMapHash": 1214736720,
+  "mechanismTitle1TextMapHash": 521534965,
+  "mechanismTitle2TextMapHash": 1961818466,
+  "monsterId": 24061001,
+  "newsTextTextMapHash": 1115153556,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [
+   3
+  ],
+  "traitTextTextMapHash": 3164440777
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_BowVulnerable_High",
+  "affix": [
+   4012,
+   4048,
+   4040,
+   4071,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   5
+  ],
+  "clueTextIdList": [],
+  "configId": 35008,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 250493178,
+  "mechanismDesc2TextMapHash": 3711426704,
+  "mechanismTitle1TextMapHash": 4048511133,
+  "mechanismTitle2TextMapHash": 3933618554,
+  "monsterId": 24061201,
+  "newsTextTextMapHash": 1597469956,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [
+   2
+  ],
+  "traitTextTextMapHash": 1449612369
+ },
+ {
+  "abilityGroup": "",
+  "affix": [
+   4067,
+   4056,
+   4040,
+   4008,
+   4026,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   5
+  ],
+  "clueTextIdList": [],
+  "configId": 35009,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 599774394,
+  "mechanismDesc2TextMapHash": 1317404912,
+  "mechanismTitle1TextMapHash": 669004869,
+  "mechanismTitle2TextMapHash": 2022349242,
+  "monsterId": 22110101,
+  "newsTextTextMapHash": 3538913420,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [
+   1
+  ],
+  "traitTextTextMapHash": 891962425
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_SwordVulnerable_High",
+  "affix": [
+   4013,
+   4045,
+   4033,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   5
+  ],
+  "clueTextIdList": [],
+  "configId": 35010,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 4,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 2011680970,
+  "mechanismDesc2TextMapHash": 4265988312,
+  "mechanismTitle1TextMapHash": 2333799453,
+  "mechanismTitle2TextMapHash": 4136361202,
+  "monsterId": 20051001,
+  "newsTextTextMapHash": 1603239292,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [
+   2
+  ],
+  "traitTextTextMapHash": 3233887681
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_ClaymoreVulnerable_High",
+  "affix": [
+   4132,
+   4009,
+   4046,
+   4033,
+   4040,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   5
+  ],
+  "clueTextIdList": [],
+  "configId": 35011,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": false,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 414207018,
+  "mechanismDesc2TextMapHash": 938532280,
+  "mechanismTitle1TextMapHash": 2140348773,
+  "mechanismTitle2TextMapHash": 4051871986,
+  "monsterId": 24010301,
+  "newsTextTextMapHash": 2604564572,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [
+   1
+  ],
+  "traitTextTextMapHash": 3216109617
+ },
+ {
+  "abilityGroup": "AbilityGroup_Reputation_Hunting_PoleVulnerable_High",
+  "affix": [
+   6120,
+   4056,
+   4040,
+   4014,
+   4047,
+   4064
+  ],
+  "APNFGPJKBBB": 0,
+  "cityList": [
+   5
+  ],
+  "clueTextIdList": [],
+  "configId": 35012,
+  "createPosType": "HUNTING_POS_NONE",
+  "difficulty": "HUNTING_DIFFICULTY_HARD",
+  "initialPose": 0,
+  "isDisableWandering": true,
+  "KILPFIPHAEN": "HUNTING_FINISH_TYPE_NONE",
+  "level": 1,
+  "limitTime": 600,
+  "mechanismDesc1TextMapHash": 125423994,
+  "mechanismDesc2TextMapHash": 2339009576,
+  "mechanismTitle1TextMapHash": 3300493661,
+  "mechanismTitle2TextMapHash": 1365480850,
+  "monsterId": 22110301,
+  "newsTextTextMapHash": 1518095724,
+  "refreshCond": [
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   },
+   {
+    "condType": "HUNTING_REFRESH_COND_NONE",
+    "param": []
+   }
+  ],
+  "reviseLevelId": 1005,
+  "routeId": 0,
+  "searchPointNum": 0,
+  "suiteId": [
+   1
+  ],
+  "traitTextTextMapHash": 3596380353
+ }
+]

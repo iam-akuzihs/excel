@@ -1,0 +1,6423 @@
+[
+ {
+  "cardCount": 3,
+  "cardNameTextMapHash": 1081534771,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "cardNumericalModificationValue": 2000,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 300,
+  "curseWeight": 100,
+  "DDOJEICOFEI": false,
+  "descParamList": [
+   [
+    1
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 2670989412,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_AttackDamageLevel",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350281
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 2327761231,
+  "extraDescTextMapHash": 3734451414,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 1,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 1,
+  "number": 1,
+  "tag": "CARD_TAG_WATER"
+ },
+ {
+  "cardCount": 3,
+  "cardNameTextMapHash": 9961715,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_MASTERY",
+  "cardNumericalModificationValue": 75,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 300,
+  "curseWeight": 100,
+  "DDOJEICOFEI": false,
+  "descParamList": [
+   [
+    1
+   ],
+   [
+    50
+   ],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 3532666076,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_ElementMasteryLevel",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350281
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 2352608711,
+  "extraDescTextMapHash": 2460972046,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 2,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 3,
+  "number": 2,
+  "tag": "CARD_TAG_WATER"
+ },
+ {
+  "cardCount": 1,
+  "cardNameTextMapHash": 1361300507,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_PERCENTAGE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_INTERVAL",
+  "cardNumericalModificationValue": -0.2,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 200,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    20
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 2265289844,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_AttackSpeedLevel",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350281
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 1622540631,
+  "extraDescTextMapHash": 748170278,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 3,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 1,
+  "number": 3,
+  "tag": "CARD_TAG_WATER"
+ },
+ {
+  "cardCount": 3,
+  "cardNameTextMapHash": 152110179,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "cardNumericalModificationValue": 2000,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 300,
+  "curseWeight": 100,
+  "DDOJEICOFEI": false,
+  "descParamList": [
+   [
+    1
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 32629892,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_AttackDamageLevel",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350282
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 2668477719,
+  "extraDescTextMapHash": 1876680174,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 4,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 1,
+  "number": 4,
+  "tag": "CARD_TAG_FIRE"
+ },
+ {
+  "cardCount": 3,
+  "cardNameTextMapHash": 3414422811,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_MASTERY",
+  "cardNumericalModificationValue": 75,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 300,
+  "curseWeight": 100,
+  "DDOJEICOFEI": false,
+  "descParamList": [
+   [
+    1
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 3649468812,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_ElementMasteryLevel",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350282
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 2612289695,
+  "extraDescTextMapHash": 2740325870,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 5,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 3,
+  "number": 5,
+  "tag": "CARD_TAG_FIRE"
+ },
+ {
+  "cardCount": 1,
+  "cardNameTextMapHash": 637324531,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_PERCENTAGE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_INTERVAL",
+  "cardNumericalModificationValue": -0.2,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 200,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    20
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 68104468,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_AttackSpeedLevel",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350282
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 677434511,
+  "extraDescTextMapHash": 690852918,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 6,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 1,
+  "number": 6,
+  "tag": "CARD_TAG_FIRE"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 2844986467,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_RANGE",
+  "cardNumericalModificationValue": 8,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 200,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    40,
+    80
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 658740348,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_RangeLevel",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350282
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 4168959295,
+  "extraDescTextMapHash": 4142289342,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 7,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 1,
+  "number": 7,
+  "tag": "CARD_TAG_FIRE"
+ },
+ {
+  "cardCount": 3,
+  "cardNameTextMapHash": 1794425251,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "cardNumericalModificationValue": 2000,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 300,
+  "curseWeight": 100,
+  "DDOJEICOFEI": false,
+  "descParamList": [
+   [
+    1
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 3644221460,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_AttackDamageLevel",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350283
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 3307091071,
+  "extraDescTextMapHash": 1711852950,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 8,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 1,
+  "number": 8,
+  "tag": "CARD_TAG_ICE"
+ },
+ {
+  "cardCount": 3,
+  "cardNameTextMapHash": 373462091,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_MASTERY",
+  "cardNumericalModificationValue": 75,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 300,
+  "curseWeight": 100,
+  "DDOJEICOFEI": false,
+  "descParamList": [
+   [
+    1
+   ],
+   [
+    50
+   ],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 312352068,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_ElementMasteryLevel",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350283
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 3404999967,
+  "extraDescTextMapHash": 2877709318,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 9,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 3,
+  "number": 9,
+  "tag": "CARD_TAG_ICE"
+ },
+ {
+  "cardCount": 1,
+  "cardNameTextMapHash": 3527410835,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_PERCENTAGE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_INTERVAL",
+  "cardNumericalModificationValue": -0.2,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 200,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    20
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 354636036,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_AttackSpeedLevel",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350283
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 3504572551,
+  "extraDescTextMapHash": 2722674838,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 10,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 1,
+  "number": 10,
+  "tag": "CARD_TAG_ICE"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 3398424651,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_RANGE",
+  "cardNumericalModificationValue": 8,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 200,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    53,
+    106
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 2207663188,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_RangeLevel",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350283
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 3555777023,
+  "extraDescTextMapHash": 364949974,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 11,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 1,
+  "number": 11,
+  "tag": "CARD_TAG_ICE"
+ },
+ {
+  "cardCount": 3,
+  "cardNameTextMapHash": 3616288771,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "cardNumericalModificationValue": 2000,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 300,
+  "curseWeight": 100,
+  "DDOJEICOFEI": false,
+  "descParamList": [
+   [
+    1
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 2981162236,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_AttackDamageLevel",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350284
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 2601097503,
+  "extraDescTextMapHash": 1300207686,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 12,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 1,
+  "number": 12,
+  "tag": "CARD_TAG_WIND"
+ },
+ {
+  "cardCount": 3,
+  "cardNameTextMapHash": 393064875,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_MASTERY",
+  "cardNumericalModificationValue": 75,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 300,
+  "curseWeight": 100,
+  "DDOJEICOFEI": false,
+  "descParamList": [
+   [
+    1
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 2631352332,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_ElementMasteryLevel",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350284
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 2513357871,
+  "extraDescTextMapHash": 3363130414,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 13,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 3,
+  "number": 13,
+  "tag": "CARD_TAG_WIND"
+ },
+ {
+  "cardCount": 1,
+  "cardNameTextMapHash": 856577307,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_PERCENTAGE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_INTERVAL",
+  "cardNumericalModificationValue": -0.2,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 200,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    20
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 4170165484,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_AttackSpeedLevel",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350284
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 758596007,
+  "extraDescTextMapHash": 2393057398,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 14,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 1,
+  "number": 14,
+  "tag": "CARD_TAG_WIND"
+ },
+ {
+  "cardCount": 3,
+  "cardNameTextMapHash": 3820640683,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "cardNumericalModificationValue": 2000,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 300,
+  "curseWeight": 100,
+  "DDOJEICOFEI": false,
+  "descParamList": [
+   [
+    1
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 3628155124,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_AttackDamageLevel",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350285
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 1292684407,
+  "extraDescTextMapHash": 1324188966,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 15,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 1,
+  "number": 15,
+  "tag": "CARD_TAG_ELECTRIC"
+ },
+ {
+  "cardCount": 3,
+  "cardNameTextMapHash": 154872027,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_MASTERY",
+  "cardNumericalModificationValue": 75,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 300,
+  "curseWeight": 100,
+  "DDOJEICOFEI": false,
+  "descParamList": [
+   [
+    1
+   ],
+   [
+    50
+   ],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 3896976636,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_ElementMasteryLevel",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350285
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 3186862279,
+  "extraDescTextMapHash": 1162189918,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 16,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 3,
+  "number": 16,
+  "tag": "CARD_TAG_ELECTRIC"
+ },
+ {
+  "cardCount": 1,
+  "cardNameTextMapHash": 3276445155,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_PERCENTAGE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_INTERVAL",
+  "cardNumericalModificationValue": -0.2,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 200,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    20
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 161961156,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_AttackSpeedLevel",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350285
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 3309659631,
+  "extraDescTextMapHash": 1333791822,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 17,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 1,
+  "number": 17,
+  "tag": "CARD_TAG_ELECTRIC"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 3842649451,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_RANGE",
+  "cardNumericalModificationValue": 8,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 200,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    53,
+    106
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 3893813420,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_RangeLevel",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350285
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 3779796335,
+  "extraDescTextMapHash": 1247945206,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 18,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 1,
+  "number": 18,
+  "tag": "CARD_TAG_ELECTRIC"
+ },
+ {
+  "cardCount": 3,
+  "cardNameTextMapHash": 1227811251,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "cardNumericalModificationValue": 2000,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 300,
+  "curseWeight": 100,
+  "DDOJEICOFEI": false,
+  "descParamList": [
+   [
+    1
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 1356987772,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_AttackDamageLevel",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350286
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 2731973887,
+  "extraDescTextMapHash": 130889206,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 19,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 1,
+  "number": 19,
+  "tag": "CARD_TAG_PHYSICS"
+ },
+ {
+  "cardCount": 1,
+  "cardNameTextMapHash": 862902427,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_PERCENTAGE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_INTERVAL",
+  "cardNumericalModificationValue": -0.2,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 200,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    20
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 777763868,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_AttackSpeedLevel",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350286
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 1141904647,
+  "extraDescTextMapHash": 3550016846,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 20,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 1,
+  "number": 20,
+  "tag": "CARD_TAG_PHYSICS"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 1333659891,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_RANGE",
+  "cardNumericalModificationValue": 8,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 200,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    33,
+    66
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 3394547972,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_RangeLevel",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350286
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 486007887,
+  "extraDescTextMapHash": 1438904622,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 21,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 1,
+  "number": 21,
+  "tag": "CARD_TAG_PHYSICS"
+ },
+ {
+  "cardCount": 3,
+  "cardNameTextMapHash": 3948328107,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "cardNumericalModificationValue": 2000,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 300,
+  "curseWeight": 100,
+  "DDOJEICOFEI": false,
+  "descParamList": [
+   [
+    1
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 3967053852,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_AttackDamageLevel",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350298
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 4179082711,
+  "extraDescTextMapHash": 2021090454,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 22,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 3,
+  "number": 22,
+  "tag": "CARD_TAG_HELP"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 2937406859,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 200,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    10,
+    20
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 3557342652,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_UpgradeAttackLevel",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350303
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 1626291463,
+  "extraDescTextMapHash": 2321762366,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 23,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 4,
+  "number": 23,
+  "tag": "CARD_TAG_HELP"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 473532763,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 200,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    25,
+    50
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 3485856884,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_UpgradeMasteryLevel",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350303
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 231067727,
+  "extraDescTextMapHash": 888225222,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 24,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 4,
+  "number": 24,
+  "tag": "CARD_TAG_HELP"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 2812875195,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 200,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    10,
+    20
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 3354492980,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_AuroKillPointBonus",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350294
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 256572695,
+  "extraDescTextMapHash": 4109989206,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 25,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 4,
+  "number": 25,
+  "tag": "CARD_TAG_HELP"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 2040219827,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_RANGE",
+  "cardNumericalModificationValue": 2,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    33,
+    66
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 3698884924,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_RangeLevel",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350281
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 3121724687,
+  "extraDescTextMapHash": 3925958702,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 26,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 1,
+  "number": 26,
+  "tag": "CARD_TAG_WATER"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 4138904683,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    5,
+    2.5
+   ],
+   [
+    15,
+    15
+   ],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 338766004,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_Bubble",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350281
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 102486423,
+  "extraDescTextMapHash": 3883972654,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 27,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 2,
+  "number": 27,
+  "tag": "CARD_TAG_WATER"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 3366157363,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    20,
+    10
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 3231093092,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_WaterImpulse",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350281
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 2741447975,
+  "extraDescTextMapHash": 3056155062,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 28,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 5,
+  "number": 28,
+  "tag": "CARD_TAG_WATER"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 316300387,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    50,
+    100
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 1568492836,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_Evaporate",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [],
+   "targetType": "CHESS_CARD_TARGET_ALL"
+  },
+  "extraDesc2TextMapHash": 2358577407,
+  "extraDescTextMapHash": 561013070,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 29,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 3,
+  "number": 29,
+  "tag": "CARD_TAG_WATER"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 793189435,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    50,
+    100
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 3692824876,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_Wet",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350281
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 3407470039,
+  "extraDescTextMapHash": 3157642438,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 30,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 6,
+  "number": 30,
+  "tag": "CARD_TAG_WATER"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 87271699,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    133,
+    266
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 3707337844,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_Aoe",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350282
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 4280113591,
+  "extraDescTextMapHash": 679287918,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 31,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 1,
+  "number": 31,
+  "tag": "CARD_TAG_FIRE"
+ },
+ {
+  "cardCount": 1,
+  "cardNameTextMapHash": 763411683,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 3707234524,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_Enbreak",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350282
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 3174677543,
+  "extraDescTextMapHash": 1246829038,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 32,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 2,
+  "number": 32,
+  "tag": "CARD_TAG_FIRE"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 2046878787,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    20,
+    10
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 2437927340,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_FireImpulse",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350282
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 3451302935,
+  "extraDescTextMapHash": 1730731046,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 33,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 5,
+  "number": 33,
+  "tag": "CARD_TAG_FIRE"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 1305470139,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    50,
+    100
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 2207088092,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_Melt",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [],
+   "targetType": "CHESS_CARD_TARGET_ALL"
+  },
+  "extraDesc2TextMapHash": 3872077863,
+  "extraDescTextMapHash": 2729759102,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 34,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 3,
+  "number": 34,
+  "tag": "CARD_TAG_FIRE"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 172089731,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    10,
+    20
+   ],
+   [
+    3,
+    3
+   ],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 271535172,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_Defensedown",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350282
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 1705802767,
+  "extraDescTextMapHash": 1105784198,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 35,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 6,
+  "number": 35,
+  "tag": "CARD_TAG_FIRE"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 815683659,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    20,
+    20
+   ],
+   [
+    1,
+    2
+   ],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   true,
+   false
+  ],
+  "descTextMapHash": 2934580564,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_Explosion",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350283
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 2789683399,
+  "extraDescTextMapHash": 3305840990,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 36,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 1,
+  "number": 36,
+  "tag": "CARD_TAG_ICE"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 2179149139,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    25,
+    50
+   ],
+   [
+    5,
+    5
+   ],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 2296449108,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_Slowdown",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350283
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 2092975191,
+  "extraDescTextMapHash": 1030660206,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 37,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 2,
+  "number": 37,
+  "tag": "CARD_TAG_ICE"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 4227442003,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    20,
+    10
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 2860970308,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_IceImpulse",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350283
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 2033109327,
+  "extraDescTextMapHash": 3308930470,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 38,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 5,
+  "number": 38,
+  "tag": "CARD_TAG_ICE"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 2419763699,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    25,
+    50
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 1186065636,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_Resistancedown",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350283
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 2374567255,
+  "extraDescTextMapHash": 1904354782,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 39,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 6,
+  "number": 39,
+  "tag": "CARD_TAG_ICE"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 2561370611,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    1,
+    2
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   true,
+   false,
+   false
+  ],
+  "descTextMapHash": 1664141732,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_TowUnits",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350284
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 3709862079,
+  "extraDescTextMapHash": 1375446110,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 40,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 2,
+  "number": 40,
+  "tag": "CARD_TAG_WIND"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 1453557171,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    6,
+    3
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 3226740740,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_WindImpulse",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350284
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 1227940975,
+  "extraDescTextMapHash": 3606351110,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 41,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 5,
+  "number": 41,
+  "tag": "CARD_TAG_WIND"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 2108256675,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    10,
+    10
+   ],
+   [
+    3,
+    6
+   ],
+   [
+    10,
+    10
+   ]
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 1912694172,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_ReduceWindResistance",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350284
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 2161890359,
+  "extraDescTextMapHash": 2661632278,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 42,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 3,
+  "number": 42,
+  "tag": "CARD_TAG_WIND"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 432559275,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    50,
+    50
+   ],
+   [
+    25,
+    50
+   ],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 1396607196,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_ExtraDamageByHp",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350284
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 3831193751,
+  "extraDescTextMapHash": 3858503078,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 43,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 6,
+  "number": 43,
+  "tag": "CARD_TAG_WIND"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 1517503707,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    1,
+    2
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 3409690836,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_ExtraTargets",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350285
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 2309268583,
+  "extraDescTextMapHash": 874804630,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 44,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 1,
+  "number": 44,
+  "tag": "CARD_TAG_ELECTRIC"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 3595105547,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    8,
+    4
+   ],
+   [
+    0.5,
+    0.5
+   ],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 692749796,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_Confine",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350285
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 455888223,
+  "extraDescTextMapHash": 48877718,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 45,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 2,
+  "number": 45,
+  "tag": "CARD_TAG_ELECTRIC"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 910637115,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    20,
+    10
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 1186388196,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_ElectricImpulse",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350285
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 1702648087,
+  "extraDescTextMapHash": 2501006646,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 46,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 5,
+  "number": 46,
+  "tag": "CARD_TAG_ELECTRIC"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 1175426131,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    100,
+    200
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 3958451468,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_UpgradeElectricRecation",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [],
+   "targetType": "CHESS_CARD_TARGET_ALL"
+  },
+  "extraDesc2TextMapHash": 4097564815,
+  "extraDescTextMapHash": 2351970662,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 47,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 3,
+  "number": 47,
+  "tag": "CARD_TAG_ELECTRIC"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 401852491,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    5,
+    10
+   ],
+   [
+    20,
+    20
+   ],
+   [
+    5,
+    5
+   ]
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 64861420,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_FurySwipe",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350285
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 737353903,
+  "extraDescTextMapHash": 2030620718,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 48,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 6,
+  "number": 48,
+  "tag": "CARD_TAG_ELECTRIC"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 1056955451,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    25,
+    25
+   ],
+   [
+    1,
+    2
+   ],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 3650215172,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_HitExplosion",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350286
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 845024583,
+  "extraDescTextMapHash": 2666728766,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 49,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 1,
+  "number": 49,
+  "tag": "CARD_TAG_PHYSICS"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 778781699,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    40,
+    80
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 881438908,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_ReducePhysicalResistance",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [],
+   "targetType": "CHESS_CARD_TARGET_ALL"
+  },
+  "extraDesc2TextMapHash": 3348775071,
+  "extraDescTextMapHash": 887958870,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 50,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 3,
+  "number": 50,
+  "tag": "CARD_TAG_PHYSICS"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 2934779987,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    0.5,
+    0.5
+   ],
+   [
+    5,
+    10
+   ],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 3577684460,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_DamageByTime",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350286
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 1422273751,
+  "extraDescTextMapHash": 1381274798,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 51,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 6,
+  "number": 51,
+  "tag": "CARD_TAG_PHYSICS"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 859540651,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    50,
+    50
+   ],
+   [
+    40,
+    80
+   ],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 3679696068,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_Mine_Extradamage",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350298
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 3116334399,
+  "extraDescTextMapHash": 1419726886,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 52,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 4,
+  "number": 52,
+  "tag": "CARD_TAG_HELP"
+ },
+ {
+  "cardCount": 1,
+  "cardNameTextMapHash": 1001657531,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 3524050212,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_Mine_Extraexplosion",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350298
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 2609947791,
+  "extraDescTextMapHash": 1074128078,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 53,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 4,
+  "number": 53,
+  "tag": "CARD_TAG_HELP"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 1248798763,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    15,
+    7.5
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 4123195500,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_Mine_Reset",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350298
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 2875266519,
+  "extraDescTextMapHash": 599923846,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 54,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 8,
+  "number": 54,
+  "tag": "CARD_TAG_HELP"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 3152876643,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 200,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    2,
+    4
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 2689116644,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_Trap_Extratime",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350299
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 2404326591,
+  "extraDescTextMapHash": 4076975174,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 55,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 2,
+  "number": 55,
+  "tag": "CARD_TAG_HELP"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 3427523795,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    50,
+    100
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 58488980,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_Trap_Extradamage",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350299
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 3312472567,
+  "extraDescTextMapHash": 3356237910,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 56,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 3,
+  "number": 56,
+  "tag": "CARD_TAG_HELP"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 473926707,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    15,
+    7.5
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 246000716,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_Trap_Reset",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350299
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 2040089735,
+  "extraDescTextMapHash": 2866882862,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 57,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 8,
+  "number": 57,
+  "tag": "CARD_TAG_HELP"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 3147657563,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_RANGE",
+  "cardNumericalModificationValue": 3,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    50,
+    100
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 2718675260,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_RangeLevel",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350303
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 2126319767,
+  "extraDescTextMapHash": 4180098150,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 58,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 4,
+  "number": 58,
+  "tag": "CARD_TAG_HELP"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 1481152875,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK_RANGE",
+  "cardNumericalModificationValue": 2,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    25,
+    50
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 2582216900,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_RangeLevel",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350294
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 3461257399,
+  "extraDescTextMapHash": 2901266934,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 59,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 1,
+  "number": 59,
+  "tag": "CARD_TAG_HELP"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 910891291,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    20,
+    40
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 981496300,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_SlowLevel",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350294
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 3726710999,
+  "extraDescTextMapHash": 1709029806,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 60,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 2,
+  "number": 60,
+  "tag": "CARD_TAG_HELP"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 3017753051,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 200,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    30,
+    60
+   ],
+   [
+    8,
+    8
+   ],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 1829306868,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_SpeedDown",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350305
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 1689974799,
+  "extraDescTextMapHash": 3840010670,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 61,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 2,
+  "number": 61,
+  "tag": "CARD_TAG_HELP"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 2413474243,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    2,
+    4
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 1332765060,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_Durability",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350305
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 1876502735,
+  "extraDescTextMapHash": 707131686,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 62,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 4,
+  "number": 62,
+  "tag": "CARD_TAG_HELP"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 1611907579,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_PERCECT",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 1500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    125,
+    250
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 1666098356,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_TargetAOE",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350281
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 599887111,
+  "extraDescTextMapHash": 4111771758,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 63,
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "needChessLevel": 1,
+  "number": 63,
+  "tag": "CARD_TAG_WATER"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 2903129587,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_PERCECT",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 1500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    12,
+    12
+   ],
+   [
+    4,
+    4
+   ],
+   [
+    75,
+    150
+   ]
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 3163795492,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_Dot",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350281
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 1011373367,
+  "extraDescTextMapHash": 3695549910,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 64,
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "needChessLevel": 7,
+  "number": 64,
+  "tag": "CARD_TAG_WATER"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 3426342931,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_PERCECT",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 1500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    100,
+    200
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 4276155644,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_Missile",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350282
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 4083996799,
+  "extraDescTextMapHash": 3634936998,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 65,
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "needChessLevel": 1,
+  "number": 65,
+  "tag": "CARD_TAG_FIRE"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 416374875,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_PERCECT",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 1500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    30,
+    60
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 307909788,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_FireArea",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350282
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 3438113007,
+  "extraDescTextMapHash": 939786742,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 66,
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "needChessLevel": 7,
+  "number": 66,
+  "tag": "CARD_TAG_FIRE"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 3257284979,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_PERCECT",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 1500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    125,
+    250
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 1694020980,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_TDSpecialGrade_Ice",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350283
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 2330180855,
+  "extraDescTextMapHash": 4156655046,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 67,
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "needChessLevel": 1,
+  "number": 67,
+  "tag": "CARD_TAG_ICE"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 2769074267,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_PERCECT",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 1500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    10,
+    10
+   ],
+   [
+    5,
+    5
+   ],
+   [
+    50,
+    100
+   ]
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 1052551508,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_Ice_Fog",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350283
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 3501929535,
+  "extraDescTextMapHash": 25184558,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 68,
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "needChessLevel": 7,
+  "number": 68,
+  "tag": "CARD_TAG_ICE"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 563321211,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_PERCENTAGE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "cardNumericalModificationValue": 1,
+  "cardQualityType": "CARD_QUALITY_PERCECT",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 1500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    100,
+    200
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 2099957820,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_ShootBullet",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350284
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 2801174703,
+  "extraDescTextMapHash": 3828461054,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 69,
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "needChessLevel": 1,
+  "number": 69,
+  "tag": "CARD_TAG_WIND"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 1229848819,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_PERCECT",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 1500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    5,
+    5
+   ],
+   [
+    225,
+    450
+   ],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 3032922180,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_CanCharge",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350284
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 1140878479,
+  "extraDescTextMapHash": 1085537686,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 70,
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "needChessLevel": 7,
+  "number": 70,
+  "tag": "CARD_TAG_WIND"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 2761395547,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_PERCECT",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 1500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    125,
+    250
+   ],
+   [
+    10,
+    10
+   ],
+   [
+    10,
+    10
+   ]
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 2483453364,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_ExtraThunder",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350285
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 1953333263,
+  "extraDescTextMapHash": 1665204318,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 71,
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "needChessLevel": 1,
+  "number": 71,
+  "tag": "CARD_TAG_ELECTRIC"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 2341603819,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_PERCENTAGE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "cardNumericalModificationValue": 1,
+  "cardQualityType": "CARD_QUALITY_PERCECT",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 1500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    100,
+    200
+   ],
+   [
+    150,
+    300
+   ],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 99576956,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_UpgradeNormalAttack",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350285
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 1635910823,
+  "extraDescTextMapHash": 2456967414,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 72,
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "needChessLevel": 7,
+  "number": 72,
+  "tag": "CARD_TAG_ELECTRIC"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 1598316971,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_PERCECT",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 1500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    75,
+    150
+   ],
+   [
+    25,
+    50
+   ],
+   [
+    15,
+    15
+   ]
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 4277068964,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_WantedSign",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350286
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 1027967103,
+  "extraDescTextMapHash": 3716263278,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 73,
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "needChessLevel": 1,
+  "number": 73,
+  "tag": "CARD_TAG_PHYSICS"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 1738191955,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_PERCECT",
+  "cardType": "CHESS_CARD_STRENGTHEN",
+  "costPoints": 1500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    15,
+    30
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 2483358860,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_EnergyBallAttack",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350286
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 2553176439,
+  "extraDescTextMapHash": 2719281158,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 74,
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "needChessLevel": 7,
+  "number": 74,
+  "tag": "CARD_TAG_PHYSICS"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 2206584147,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "cardNumericalModificationValue": 4000,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_MECHANISM",
+  "costPoints": 300,
+  "curseWeight": 100,
+  "DDOJEICOFEI": false,
+  "descParamList": [
+   [
+    2
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 2103043124,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 2,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_AttackDamageLevel",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 1,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [],
+   "targetType": "CHESS_CARD_TARGET_ALL"
+  },
+  "extraDesc2TextMapHash": 3281256927,
+  "extraDescTextMapHash": 22194686,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 75,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 4,
+  "number": 1,
+  "tag": "CARD_TAG_OTHER"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 3412086923,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_MASTERY",
+  "cardNumericalModificationValue": 150,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_MECHANISM",
+  "costPoints": 300,
+  "curseWeight": 100,
+  "DDOJEICOFEI": false,
+  "descParamList": [
+   [
+    2
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 1367418916,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 2,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_ElementMasteryLevel",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 1,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [],
+   "targetType": "CHESS_CARD_TARGET_ALL"
+  },
+  "extraDesc2TextMapHash": 462497215,
+  "extraDescTextMapHash": 3404429470,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 76,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 4,
+  "number": 2,
+  "tag": "CARD_TAG_OTHER"
+ },
+ {
+  "cardCount": 1,
+  "cardNameTextMapHash": 4207080891,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_MECHANISM",
+  "costPoints": 200,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    5
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 1171077452,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 5,
+   "effectParam2": 0,
+   "effectStrParam": "",
+   "effectType": "CHESS_CARD_EFFECT_SET_HOME_HP",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [],
+   "targetType": "CHESS_CARD_TARGET_DEFAULT"
+  },
+  "extraDesc2TextMapHash": 3423512623,
+  "extraDescTextMapHash": 3859324406,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 77,
+  "isCanAttachCurse": true,
+  "isShowOnPick": false,
+  "needChessLevel": 2,
+  "number": 3,
+  "tag": "CARD_TAG_OTHER"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 3083310363,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_MECHANISM",
+  "costPoints": 0,
+  "curseWeight": 100,
+  "DDOJEICOFEI": false,
+  "descParamList": [
+   [
+    400
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 146720044,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 400,
+   "effectParam2": 0,
+   "effectStrParam": "",
+   "effectType": "CHESS_CARD_EFFECT_GRANT_POINTS",
+   "HFMBBBLBFJJ": 1,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [],
+   "targetType": "CHESS_CARD_TARGET_DEFAULT"
+  },
+  "extraDesc2TextMapHash": 3627958527,
+  "extraDescTextMapHash": 3412937766,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 3,
+    "effectParam2": 1,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_RANDOM_REMOVE",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 78,
+  "isCanAttachCurse": true,
+  "isShowOnPick": false,
+  "needChessLevel": 8,
+  "number": 4,
+  "tag": "CARD_TAG_OTHER"
+ },
+ {
+  "cardCount": 1,
+  "cardNameTextMapHash": 2441862579,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_MECHANISM",
+  "costPoints": 0,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    2000
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 1342674044,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 2000,
+   "effectParam2": 0,
+   "effectStrParam": "",
+   "effectType": "CHESS_CARD_EFFECT_GRANT_POINTS",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [],
+   "targetType": "CHESS_CARD_TARGET_DEFAULT"
+  },
+  "extraDesc2TextMapHash": 647146639,
+  "extraDescTextMapHash": 1775996174,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": -1000000,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_MOD_KILL_POINTS",
+    "HFMBBBLBFJJ": 1,
+    "LJODHGHDBMC": 1,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 79,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 8,
+  "number": 5,
+  "tag": "CARD_TAG_OTHER"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 2152115315,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_MECHANISM",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": false,
+  "descParamList": [
+   [
+    500
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 2648897844,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 500,
+   "effectParam2": 0,
+   "effectStrParam": "",
+   "effectType": "CHESS_CARD_EFFECT_POINTS_ON_ROUND_END",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [],
+   "targetType": "CHESS_CARD_TARGET_DEFAULT"
+  },
+  "extraDesc2TextMapHash": 1683146239,
+  "extraDescTextMapHash": 1847151926,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 80,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 2,
+  "number": 6,
+  "tag": "CARD_TAG_OTHER"
+ },
+ {
+  "cardCount": 1,
+  "cardNameTextMapHash": 1690243379,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_MECHANISM",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 1402495468,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 4,
+   "effectParam2": 12,
+   "effectStrParam": "",
+   "effectType": "CHESS_CARD_EFFECT_MOD_QUALITY_PROB",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [],
+   "targetType": "CHESS_CARD_TARGET_DEFAULT"
+  },
+  "extraDesc2TextMapHash": 4233380311,
+  "extraDescTextMapHash": 473399598,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": -2,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_MOD_CANDIDATE_CARDS",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 81,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 5,
+  "number": 7,
+  "tag": "CARD_TAG_OTHER"
+ },
+ {
+  "cardCount": 1,
+  "cardNameTextMapHash": 2798058763,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_MECHANISM",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    50
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 913125556,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": -5000,
+   "effectParam2": 0,
+   "effectStrParam": "",
+   "effectType": "CHESS_CARD_EFFECT_MOD_REFRESH_COST",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [],
+   "targetType": "CHESS_CARD_TARGET_DEFAULT"
+  },
+  "extraDesc2TextMapHash": 3085260151,
+  "extraDescTextMapHash": 879854662,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 82,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 5,
+  "number": 8,
+  "tag": "CARD_TAG_OTHER"
+ },
+ {
+  "cardCount": 1,
+  "cardNameTextMapHash": 2641812987,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "cardNumericalModificationValue": 2000,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_MECHANISM",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    5
+   ],
+   [
+    1
+   ],
+   [
+    3
+   ]
+  ],
+  "descParamSuperpositionList": [
+   false,
+   true,
+   false
+  ],
+  "descTextMapHash": 1912409148,
+  "effect": {
+   "EBHILOENGPK": 3,
+   "effectParam1": 1,
+   "effectParam2": 5,
+   "effectStrParam": "SGV_AttackDamageLevel",
+   "effectType": "CHESS_CARD_EFFECT_CARDS_COUNT_STACK_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [],
+   "targetType": "CHESS_CARD_TARGET_ALL"
+  },
+  "extraDesc2TextMapHash": 1584029831,
+  "extraDescTextMapHash": 2471059806,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 83,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 5,
+  "number": 9,
+  "tag": "CARD_TAG_OTHER"
+ },
+ {
+  "cardCount": 1,
+  "cardNameTextMapHash": 1839326563,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_MASTERY",
+  "cardNumericalModificationValue": 75,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_MECHANISM",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    5
+   ],
+   [
+    1
+   ],
+   [
+    3
+   ]
+  ],
+  "descParamSuperpositionList": [
+   false,
+   true,
+   false
+  ],
+  "descTextMapHash": 4248135764,
+  "effect": {
+   "EBHILOENGPK": 3,
+   "effectParam1": 1,
+   "effectParam2": 5,
+   "effectStrParam": "SGV_ElementMasteryLevel",
+   "effectType": "CHESS_CARD_EFFECT_CARDS_COUNT_STACK_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [],
+   "targetType": "CHESS_CARD_TARGET_ALL"
+  },
+  "extraDesc2TextMapHash": 746708063,
+  "extraDescTextMapHash": 2860245038,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 84,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 5,
+  "number": 10,
+  "tag": "CARD_TAG_OTHER"
+ },
+ {
+  "cardCount": 1,
+  "cardNameTextMapHash": 1277120875,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "cardNumericalModificationValue": 2000,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_MECHANISM",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    1
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   true,
+   false,
+   false
+  ],
+  "descTextMapHash": 999645260,
+  "effect": {
+   "EBHILOENGPK": 99999,
+   "effectParam1": 0,
+   "effectParam2": 1,
+   "effectStrParam": "SGV_AttackDamageLevel",
+   "effectType": "CHESS_CARD_EFFECT_CARD_TYPE_STACK_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [],
+   "targetType": "CHESS_CARD_TARGET_ALL"
+  },
+  "extraDesc2TextMapHash": 3940047039,
+  "extraDescTextMapHash": 2218798126,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 85,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 6,
+  "number": 11,
+  "tag": "CARD_TAG_OTHER"
+ },
+ {
+  "cardCount": 1,
+  "cardNameTextMapHash": 504157307,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_MASTERY",
+  "cardNumericalModificationValue": 75,
+  "cardQualityType": "CARD_QUALITY_GOOD",
+  "cardType": "CHESS_CARD_MECHANISM",
+  "costPoints": 500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    1
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   true,
+   false,
+   false
+  ],
+  "descTextMapHash": 3214815324,
+  "effect": {
+   "EBHILOENGPK": 99999,
+   "effectParam1": 0,
+   "effectParam2": 1,
+   "effectStrParam": "SGV_ElementMasteryLevel",
+   "effectType": "CHESS_CARD_EFFECT_CARD_TYPE_STACK_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [],
+   "targetType": "CHESS_CARD_TARGET_ALL"
+  },
+  "extraDesc2TextMapHash": 457111007,
+  "extraDescTextMapHash": 282883566,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 86,
+  "isCanAttachCurse": true,
+  "isShowOnPick": true,
+  "needChessLevel": 6,
+  "number": 12,
+  "tag": "CARD_TAG_OTHER"
+ },
+ {
+  "cardCount": 1,
+  "cardNameTextMapHash": 754576619,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_PERCECT",
+  "cardType": "CHESS_CARD_MECHANISM",
+  "costPoints": 1500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    3
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 2916332772,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 3,
+   "effectParam2": 0,
+   "effectStrParam": "",
+   "effectType": "CHESS_CARD_EFFECT_FREE_CARD_REFRESH",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [],
+   "targetType": "CHESS_CARD_TARGET_DEFAULT"
+  },
+  "extraDesc2TextMapHash": 1904619623,
+  "extraDescTextMapHash": 1959133646,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 87,
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "needChessLevel": 5,
+  "number": 13,
+  "tag": "CARD_TAG_OTHER"
+ },
+ {
+  "cardCount": 2,
+  "cardNameTextMapHash": 326770083,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_PERCENTAGE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "cardNumericalModificationValue": 2.5,
+  "cardQualityType": "CARD_QUALITY_PERCECT",
+  "cardType": "CHESS_CARD_MECHANISM",
+  "costPoints": 1500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    6,
+    6
+   ],
+   [
+    250,
+    500
+   ],
+   [
+    250,
+    500
+   ]
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   true
+  ],
+  "descTextMapHash": 2432133316,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 6,
+   "effectStrParam": "SGV_AttackRatioUp",
+   "effectType": "CHESS_CARD_EFFECT_SGV_PICK_CARD_LTE",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [],
+   "targetType": "CHESS_CARD_TARGET_ALL"
+  },
+  "extraDesc2TextMapHash": 247978223,
+  "extraDescTextMapHash": 2584279518,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 88,
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "needChessLevel": 8,
+  "number": 14,
+  "tag": "CARD_TAG_OTHER"
+ },
+ {
+  "cardCount": 1,
+  "cardNameTextMapHash": 3899828259,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_PERCECT",
+  "cardType": "CHESS_CARD_MECHANISM",
+  "costPoints": 1500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    5
+   ],
+   [
+    1
+   ],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   true,
+   false
+  ],
+  "descTextMapHash": 2645548396,
+  "effect": {
+   "EBHILOENGPK": 2,
+   "effectParam1": 2,
+   "effectParam2": 5,
+   "effectStrParam": "",
+   "effectType": "CHESS_CARD_EFFECT_CARDS_TYPE_COUNT_NO_COST",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [],
+   "targetType": "CHESS_CARD_TARGET_DEFAULT"
+  },
+  "extraDesc2TextMapHash": 2180883607,
+  "extraDescTextMapHash": 388300822,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 89,
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "needChessLevel": 10,
+  "number": 15,
+  "tag": "CARD_TAG_OTHER"
+ },
+ {
+  "cardCount": 1,
+  "cardNameTextMapHash": 3167058267,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "cardNumericalModificationValue": 2000,
+  "cardQualityType": "CARD_QUALITY_PERCECT",
+  "cardType": "CHESS_CARD_MECHANISM",
+  "costPoints": 1500,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    1000
+   ],
+   [
+    1
+   ],
+   [
+    1
+   ]
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   true
+  ],
+  "descTextMapHash": 2795735452,
+  "effect": {
+   "EBHILOENGPK": 99999,
+   "effectParam1": 1000,
+   "effectParam2": 1,
+   "effectStrParam": "SGV_AttackDamageLevel",
+   "effectType": "CHESS_CARD_EFFECT_POINTS_STACK_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [],
+   "targetType": "CHESS_CARD_TARGET_ALL"
+  },
+  "extraDesc2TextMapHash": 1686759631,
+  "extraDescTextMapHash": 1926816238,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 90,
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "needChessLevel": 9,
+  "number": 16,
+  "tag": "CARD_TAG_OTHER"
+ },
+ {
+  "cardCount": 1,
+  "cardNameTextMapHash": 637576251,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_PERCECT",
+  "cardType": "CHESS_CARD_MECHANISM",
+  "costPoints": 1000,
+  "curseWeight": 100,
+  "DDOJEICOFEI": true,
+  "descParamList": [
+   [
+    1
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 4246448548,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 3,
+   "effectParam2": 0,
+   "effectStrParam": "",
+   "effectType": "CHESS_CARD_EFFECT_CARD_TYPE_FORCE_CURSE",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [],
+   "targetType": "CHESS_CARD_TARGET_DEFAULT"
+  },
+  "extraDesc2TextMapHash": 168266919,
+  "extraDescTextMapHash": 2163638758,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 91,
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "needChessLevel": 6,
+  "number": 17,
+  "tag": "CARD_TAG_OTHER"
+ },
+ {
+  "cardCount": 3,
+  "cardNameTextMapHash": 4232036563,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_CHALLENGE",
+  "costPoints": 100,
+  "curseWeight": 100,
+  "DDOJEICOFEI": false,
+  "descParamList": [
+   [
+    1
+   ],
+   [
+    10
+   ],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 4264324140,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1000,
+   "effectParam2": 0,
+   "effectStrParam": "",
+   "effectType": "CHESS_CARD_EFFECT_MOD_KILL_POINTS",
+   "HFMBBBLBFJJ": 1,
+   "LJODHGHDBMC": 1,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [],
+   "targetType": "CHESS_CARD_TARGET_DEFAULT"
+  },
+  "extraDesc2TextMapHash": 3579559959,
+  "extraDescTextMapHash": 2382879942,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 92,
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "needChessLevel": 1,
+  "number": 1,
+  "tag": "CARD_TAG_NONE"
+ },
+ {
+  "cardCount": 3,
+  "cardNameTextMapHash": 2953186619,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_CHALLENGE",
+  "costPoints": 100,
+  "curseWeight": 100,
+  "DDOJEICOFEI": false,
+  "descParamList": [
+   [
+    20
+   ],
+   [
+    10
+   ],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 2809661812,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1000,
+   "effectParam2": 0,
+   "effectStrParam": "",
+   "effectType": "CHESS_CARD_EFFECT_MOD_KILL_POINTS",
+   "HFMBBBLBFJJ": 1,
+   "LJODHGHDBMC": 1,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [],
+   "targetType": "CHESS_CARD_TARGET_DEFAULT"
+  },
+  "extraDesc2TextMapHash": 2750183831,
+  "extraDescTextMapHash": 2301926846,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 93,
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "needChessLevel": 1,
+  "number": 2,
+  "tag": "CARD_TAG_NONE"
+ },
+ {
+  "cardCount": 3,
+  "cardNameTextMapHash": 950021323,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_CHALLENGE",
+  "costPoints": 100,
+  "curseWeight": 100,
+  "DDOJEICOFEI": false,
+  "descParamList": [
+   [
+    1
+   ],
+   [
+    10
+   ],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 1537043828,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1000,
+   "effectParam2": 0,
+   "effectStrParam": "",
+   "effectType": "CHESS_CARD_EFFECT_MOD_KILL_POINTS",
+   "HFMBBBLBFJJ": 1,
+   "LJODHGHDBMC": 1,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [],
+   "targetType": "CHESS_CARD_TARGET_DEFAULT"
+  },
+  "extraDesc2TextMapHash": 126250191,
+  "extraDescTextMapHash": 1179962414,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 94,
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "needChessLevel": 1,
+  "number": 3,
+  "tag": "CARD_TAG_NONE"
+ },
+ {
+  "cardCount": 1,
+  "cardNameTextMapHash": 2150129987,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_CURSE",
+  "costPoints": 0,
+  "curseWeight": 100,
+  "DDOJEICOFEI": false,
+  "descParamList": [
+   [],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 3983099204,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 1,
+   "effectParam2": 0,
+   "effectStrParam": "",
+   "effectType": "CHESS_CARD_EFFECT_KILL_GEARS",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [],
+   "targetType": "CHESS_CARD_TARGET_DEFAULT"
+  },
+  "extraDesc2TextMapHash": 1878100015,
+  "extraDescTextMapHash": 1495175398,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 95,
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "needChessLevel": 1,
+  "number": 1,
+  "tag": "CARD_TAG_NONE"
+ },
+ {
+  "cardCount": 1,
+  "cardNameTextMapHash": 4045098099,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "cardNumericalModificationValue": -4000,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_CURSE",
+  "costPoints": 0,
+  "curseWeight": 100,
+  "DDOJEICOFEI": false,
+  "descParamList": [
+   [
+    2
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 901183620,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": -2,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_AttackDamageLevel",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350281
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 1028170151,
+  "extraDescTextMapHash": 2156876846,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 96,
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "needChessLevel": 1,
+  "number": 2,
+  "tag": "CARD_TAG_NONE"
+ },
+ {
+  "cardCount": 1,
+  "cardNameTextMapHash": 1132322195,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "cardNumericalModificationValue": -4000,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_CURSE",
+  "costPoints": 0,
+  "curseWeight": 100,
+  "DDOJEICOFEI": false,
+  "descParamList": [
+   [
+    2
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 167910716,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": -2,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_AttackDamageLevel",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350282
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 4077693031,
+  "extraDescTextMapHash": 3139296742,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 97,
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "needChessLevel": 1,
+  "number": 3,
+  "tag": "CARD_TAG_NONE"
+ },
+ {
+  "cardCount": 1,
+  "cardNameTextMapHash": 768370963,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "cardNumericalModificationValue": -4000,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_CURSE",
+  "costPoints": 0,
+  "curseWeight": 100,
+  "DDOJEICOFEI": false,
+  "descParamList": [
+   [
+    2
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 3121895484,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": -2,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_AttackDamageLevel",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350283
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 1343577575,
+  "extraDescTextMapHash": 3793797630,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 98,
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "needChessLevel": 1,
+  "number": 4,
+  "tag": "CARD_TAG_NONE"
+ },
+ {
+  "cardCount": 1,
+  "cardNameTextMapHash": 602575875,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "cardNumericalModificationValue": -4000,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_CURSE",
+  "costPoints": 0,
+  "curseWeight": 100,
+  "DDOJEICOFEI": false,
+  "descParamList": [
+   [
+    2
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 1085025452,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": -2,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_AttackDamageLevel",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350284
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 76858623,
+  "extraDescTextMapHash": 276440118,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 99,
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "needChessLevel": 1,
+  "number": 5,
+  "tag": "CARD_TAG_NONE"
+ },
+ {
+  "cardCount": 1,
+  "cardNameTextMapHash": 3285786107,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "cardNumericalModificationValue": -4000,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_CURSE",
+  "costPoints": 0,
+  "curseWeight": 100,
+  "DDOJEICOFEI": false,
+  "descParamList": [
+   [
+    2
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 1431846252,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": -2,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_AttackDamageLevel",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350285
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 416264495,
+  "extraDescTextMapHash": 386332702,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 100,
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "needChessLevel": 1,
+  "number": 6,
+  "tag": "CARD_TAG_NONE"
+ },
+ {
+  "cardCount": 1,
+  "cardNameTextMapHash": 1069417547,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_BASE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_ATTACK",
+  "cardNumericalModificationValue": -4000,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_CURSE",
+  "costPoints": 0,
+  "curseWeight": 100,
+  "DDOJEICOFEI": false,
+  "descParamList": [
+   [
+    2
+   ],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 2413686156,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": -2,
+   "effectParam2": 0,
+   "effectStrParam": "SGV_AttackDamageLevel",
+   "effectType": "CHESS_CARD_EFFECT_SET_SGV",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [
+    70350286
+   ],
+   "targetType": "CHESS_CARD_TARGET_GADGETS"
+  },
+  "extraDesc2TextMapHash": 322907607,
+  "extraDescTextMapHash": 422558982,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 101,
+  "isCanAttachCurse": false,
+  "isShowOnPick": true,
+  "needChessLevel": 1,
+  "number": 7,
+  "tag": "CARD_TAG_NONE"
+ },
+ {
+  "cardCount": 1,
+  "cardNameTextMapHash": 2000605459,
+  "cardNumericalModificationMode": "CARD_NUMERICAL_DEFAULT_MODE",
+  "cardNumericalModificationType": "CARD_NUMERICAL_DEFAULT_TYPE",
+  "cardNumericalModificationValue": 0,
+  "cardQualityType": "CARD_QUALITY_NORAML",
+  "cardType": "CHESS_CARD_CURSE",
+  "costPoints": 0,
+  "curseWeight": 100,
+  "DDOJEICOFEI": false,
+  "descParamList": [
+   [],
+   [],
+   []
+  ],
+  "descParamSuperpositionList": [
+   false,
+   false,
+   false
+  ],
+  "descTextMapHash": 2998794508,
+  "effect": {
+   "EBHILOENGPK": 0,
+   "effectParam1": 0,
+   "effectParam2": 0,
+   "effectStrParam": "",
+   "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+   "HFMBBBLBFJJ": 0,
+   "LJODHGHDBMC": 0,
+   "OHKGBKAPMOO": 0,
+   "targetParamList": [],
+   "targetType": "CHESS_CARD_TARGET_DEFAULT"
+  },
+  "extraDesc2TextMapHash": 2004793535,
+  "extraDescTextMapHash": 1907585102,
+  "extraEffectList": [
+   {
+    "EBHILOENGPK": 0,
+    "effectParam1": 0,
+    "effectParam2": 0,
+    "effectStrParam": "",
+    "effectType": "CHESS_CARD_EFFECT_DEFAULT",
+    "HFMBBBLBFJJ": 0,
+    "LJODHGHDBMC": 0,
+    "OHKGBKAPMOO": 0,
+    "targetParamList": [],
+    "targetType": "CHESS_CARD_TARGET_DEFAULT"
+   }
+  ],
+  "IBJBKLLPHHN": false,
+  "id": 102,
+  "isCanAttachCurse": false,
+  "isShowOnPick": false,
+  "needChessLevel": 1,
+  "number": 8,
+  "tag": "CARD_TAG_NONE"
+ }
+]

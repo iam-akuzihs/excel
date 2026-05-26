@@ -1,0 +1,152 @@
+[
+ {
+  "cond": [
+   {
+    "param": [
+     5020,
+     5020002
+    ],
+    "type": "REGION_SEARCH_COND_ACTIVITY_COND"
+   },
+   {
+    "param": [
+     0,
+     0
+    ],
+    "type": "REGION_SEARCH_COND_NONE"
+   }
+  ],
+  "groupId": 100101,
+  "id": 10010101,
+  "logicType": "LOGIC_AND",
+  "OCGJPNKKNNF": 2574140734,
+  "regionList": [
+   3102001
+  ],
+  "reminderId": 600018,
+  "rewardId": 3010101,
+  "searchDescTextMapHash": 1199144432,
+  "searchMapDescTextMapHash": 1578910864,
+  "totalProgress": 15
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     5020,
+     5020004
+    ],
+    "type": "REGION_SEARCH_COND_ACTIVITY_COND"
+   },
+   {
+    "param": [
+     10010101,
+     0
+    ],
+    "type": "REGION_SEARCH_COND_FINISH_SEARCH"
+   }
+  ],
+  "groupId": 100101,
+  "id": 10010102,
+  "logicType": "LOGIC_AND",
+  "OCGJPNKKNNF": 103705990,
+  "regionList": [
+   3002001
+  ],
+  "reminderId": 600020,
+  "rewardId": 3010102,
+  "searchDescTextMapHash": 2113245480,
+  "searchMapDescTextMapHash": 718082312,
+  "totalProgress": 15
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     5020,
+     5020005
+    ],
+    "type": "REGION_SEARCH_COND_ACTIVITY_COND"
+   },
+   {
+    "param": [
+     10010102,
+     0
+    ],
+    "type": "REGION_SEARCH_COND_FINISH_SEARCH"
+   }
+  ],
+  "groupId": 100101,
+  "id": 10010103,
+  "logicType": "LOGIC_AND",
+  "OCGJPNKKNNF": 3420014926,
+  "regionList": [
+   3105001
+  ],
+  "reminderId": 600022,
+  "rewardId": 3010103,
+  "searchDescTextMapHash": 1398222056,
+  "searchMapDescTextMapHash": 1027091616,
+  "totalProgress": 15
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     5020,
+     5020006
+    ],
+    "type": "REGION_SEARCH_COND_ACTIVITY_COND"
+   },
+   {
+    "param": [
+     10010103,
+     0
+    ],
+    "type": "REGION_SEARCH_COND_FINISH_SEARCH"
+   }
+  ],
+  "groupId": 100101,
+  "id": 10010104,
+  "logicType": "LOGIC_AND",
+  "OCGJPNKKNNF": 3911306422,
+  "regionList": [
+   3104001
+  ],
+  "reminderId": 600024,
+  "rewardId": 3010104,
+  "searchDescTextMapHash": 2267120984,
+  "searchMapDescTextMapHash": 223473816,
+  "totalProgress": 15
+ },
+ {
+  "cond": [
+   {
+    "param": [
+     5020,
+     5020007
+    ],
+    "type": "REGION_SEARCH_COND_ACTIVITY_COND"
+   },
+   {
+    "param": [
+     10010104,
+     0
+    ],
+    "type": "REGION_SEARCH_COND_FINISH_SEARCH"
+   }
+  ],
+  "groupId": 100101,
+  "id": 10010105,
+  "logicType": "LOGIC_AND",
+  "OCGJPNKKNNF": 3072706694,
+  "regionList": [
+   3101001
+  ],
+  "reminderId": 600026,
+  "rewardId": 3010105,
+  "searchDescTextMapHash": 30987472,
+  "searchMapDescTextMapHash": 1524244712,
+  "totalProgress": 15
+ }
+]

@@ -1,0 +1,35 @@
+[
+ {
+  "ANAHNKBIAEA": 0,
+  "CLCLDFGPFII": false,
+  "condComb": "LOGIC_NONE",
+  "condVec": [
+   {
+    "param1": 0,
+    "param1Str": "1",
+    "param2": 0,
+    "param2Str": "",
+    "type": "SHOPMALL_RECOMMEND_COND_PLAYER_LEVEL_GE"
+   },
+   {
+    "param1": 0,
+    "param1Str": "",
+    "param2": 0,
+    "param2Str": "",
+    "type": "SHOPMALL_RECOMMEND_COND_TYPE_NONE"
+   }
+  ],
+  "configIdVec": [
+   101
+  ],
+  "EKBPKCLNEHB": [],
+  "id": 1,
+  "KOJMPADEPOM": [],
+  "oneCardIconName": "MallPackage_MonthlyCard",
+  "order": 3,
+  "shopType": "SHOP_TYPE_PACKAGE",
+  "subTabId": 4,
+  "tabType": "RECOMMEND_ONE",
+  "tagType": "SHOP_RECOMMEND_TAG_TYPE_NONE"
+ }
+]
