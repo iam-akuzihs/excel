@@ -1,6 +1,6 @@
 [
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
@@ -10,25 +10,7 @@
    1,
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 2.5,
-  "NCINHIKHJMC": [
-   1,
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -44,10 +26,28 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "default"
+  "resetCycle": 2.5,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "default"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
@@ -57,25 +57,7 @@
    1,
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
-   1,
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -91,10 +73,28 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Ambor"
+  "resetCycle": 1,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Ambor"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
@@ -104,25 +104,7 @@
    1,
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
-   1,
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -138,10 +120,28 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Venti"
+  "resetCycle": 1,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Venti"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
@@ -151,25 +151,7 @@
    1,
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 5,
-  "NCINHIKHJMC": [
-   1,
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -185,10 +167,28 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Fischl"
+  "resetCycle": 5,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Fischl"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
@@ -196,25 +196,7 @@
    1,
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 5,
-  "NCINHIKHJMC": [
-   1,
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -230,10 +212,28 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Diluc"
+  "resetCycle": 5,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Diluc"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
@@ -243,7 +243,7 @@
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -259,18 +259,18 @@
    1,
    1
   ],
-  "LAPBALEEONE": 0.8,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.8,
+  "damageSequence": [
    1,
    1,
    1,
    1,
    1
   ],
-  "NJGHKLMEDGF": "Hutao_ExtraAttack"
+  "group": "Hutao_ExtraAttack"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
@@ -278,7 +278,7 @@
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -286,8 +286,8 @@
    1,
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.5,
    0.25,
@@ -295,13 +295,13 @@
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Skirmisher_Fat_SprayGun_Ice"
+  "group": "Skirmisher_Fat_SprayGun_Ice"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -309,17 +309,17 @@
    1,
    1
   ],
-  "LAPBALEEONE": 0.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.5,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Mimik_Common"
+  "group": "Mimik_Common"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -327,14 +327,14 @@
    1,
    1
   ],
-  "LAPBALEEONE": 0.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.5,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Regisvine_Common"
+  "group": "Regisvine_Common"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
@@ -346,7 +346,7 @@
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -358,15 +358,15 @@
    1,
    1
   ],
-  "LAPBALEEONE": 0.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.5,
+  "damageSequence": [
    1,
    1
   ],
-  "NJGHKLMEDGF": "ElementReaction_Damage_Attenuation_1"
+  "group": "ElementReaction_Damage_Attenuation_1"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
@@ -378,7 +378,7 @@
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -390,14 +390,14 @@
    1,
    1
   ],
-  "LAPBALEEONE": 0.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.5,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "ElementReaction_Damage_Attenuation_2"
+  "group": "ElementReaction_Damage_Attenuation_2"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
@@ -405,7 +405,7 @@
    0.1,
    0.1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -413,8 +413,8 @@
    0.1,
    0.1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.25,
    0.1,
@@ -422,23 +422,23 @@
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Oceanid_Crab_WaterStream"
+  "group": "Oceanid_Crab_WaterStream"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Animal_Boar_03_RushAttack"
+  "group": "Animal_Boar_03_RushAttack"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
@@ -446,7 +446,7 @@
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -454,19 +454,19 @@
    1,
    1
   ],
-  "LAPBALEEONE": 0.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.5,
+  "damageSequence": [
    1,
    0.5,
    0.25
   ],
-  "NJGHKLMEDGF": "Abyss_Fire_FireEnergy_Attenuation"
+  "group": "Abyss_Fire_FireEnergy_Attenuation"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -482,30 +482,30 @@
    1,
    1
   ],
-  "LAPBALEEONE": 0.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.5,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Avatar_Pole_ExtraAttack"
+  "group": "Avatar_Pole_ExtraAttack"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Monster_Tartaglia_Attenuation_1"
+  "group": "Monster_Tartaglia_Attenuation_1"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -531,46 +531,46 @@
    1,
    1,
    1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 0.5,
-  "NCINHIKHJMC": [
    1,
    1,
    1
   ],
-  "NJGHKLMEDGF": "Ayaka_ExtraAttack"
+  "resetCycle": 0.5,
+  "damageSequence": [
+   1,
+   1,
+   1
+  ],
+  "group": "Ayaka_ExtraAttack"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 0.4,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.4,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Monster_Konungmathr_Attenuation_1"
+  "group": "Monster_Konungmathr_Attenuation_1"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 0.4,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.4,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Monster_Konungmathr_Attenuation_2"
+  "group": "Monster_Konungmathr_Attenuation_2"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
@@ -581,13 +581,13 @@
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.7,
    0.5,
@@ -598,26 +598,26 @@
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Monster_Effigy_Elite_Rock_StoneBall"
+  "group": "Monster_Effigy_Elite_Rock_StoneBall"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 0.1,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.1,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Xiao_DevilDash"
+  "group": "Xiao_DevilDash"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -625,29 +625,29 @@
    1,
    1
   ],
-  "LAPBALEEONE": 0.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.5,
+  "damageSequence": [
    1,
    0.5,
    0.25
   ],
-  "NJGHKLMEDGF": "Monster_Primo_Attenuation_Breathe"
+  "group": "Monster_Primo_Attenuation_Breathe"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 0.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.5,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Monster_Primo_Attenuation_ScaleGadget"
+  "group": "Monster_Primo_Attenuation_ScaleGadget"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
@@ -655,7 +655,7 @@
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -663,19 +663,19 @@
    1,
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "MonsterAffix_GeneralSkill_IceDamage_Prison"
+  "group": "MonsterAffix_GeneralSkill_IceDamage_Prison"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    0.5,
    0.25
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -683,21 +683,21 @@
    1,
    1
   ],
-  "LAPBALEEONE": 0.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.5,
+  "damageSequence": [
    1,
    0.5,
    0.25
   ],
-  "NJGHKLMEDGF": "Monster_Invoker_Deacon_Attenuation_1"
+  "group": "Monster_Invoker_Deacon_Attenuation_1"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    0.5,
    0.25
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -705,27 +705,27 @@
    1,
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.5,
    0.25
   ],
-  "NJGHKLMEDGF": "Monster_Invoker_Deacon_Attenuation_2"
+  "group": "Monster_Invoker_Deacon_Attenuation_2"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.5,
    0.25,
@@ -733,13 +733,13 @@
    0.25,
    0.25
   ],
-  "NJGHKLMEDGF": "Monster_Invoker_Herald_Attenuation_1"
+  "group": "Monster_Invoker_Herald_Attenuation_1"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -747,19 +747,19 @@
    1,
    1
   ],
-  "LAPBALEEONE": 0.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.5,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Effigy_Ice_Attenuation_1"
+  "group": "Effigy_Ice_Attenuation_1"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -767,38 +767,38 @@
    1,
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    1,
    1
   ],
-  "NJGHKLMEDGF": "Effigy_Ice_Attenuation_2"
+  "group": "Effigy_Ice_Attenuation_2"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 4,
-  "NCINHIKHJMC": [
+  "resetCycle": 4,
+  "damageSequence": [
    1,
    0.5,
    0.2,
    0.1
   ],
-  "NJGHKLMEDGF": "Effigy_Fire_DiveCrush"
+  "group": "Effigy_Fire_DiveCrush"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
@@ -809,7 +809,7 @@
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -820,8 +820,8 @@
    1,
    1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    0.5,
    0.2,
@@ -832,13 +832,13 @@
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Effigy_Fire_MultiFire"
+  "group": "Effigy_Fire_MultiFire"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -846,39 +846,39 @@
    1,
    1
   ],
-  "LAPBALEEONE": 0.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.5,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Effigy_Fire_RollingCharge"
+  "group": "Effigy_Fire_RollingCharge"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.5,
    0.25,
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Monster_Dahaka_Breath"
+  "group": "Monster_Dahaka_Breath"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
@@ -887,60 +887,60 @@
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Monster_Brute_Electric_None"
+  "group": "Monster_Brute_Electric_None"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 5,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1,
    1
   ],
-  "NJGHKLMEDGF": "SceneObj_ThunderFloor"
+  "resetCycle": 5,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "SceneObj_ThunderFloor"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.25,
    0.1
   ],
-  "NJGHKLMEDGF": "Monster_Shougun_ElectricEye"
+  "group": "Monster_Shougun_ElectricEye"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
@@ -952,156 +952,156 @@
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    1
   ],
-  "NJGHKLMEDGF": "Monster_Abyss_Electric_ElectricCircle"
+  "group": "Monster_Abyss_Electric_ElectricCircle"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.5,
    0.25,
    0.1
   ],
-  "NJGHKLMEDGF": "Monster_Effigy_Water_SurgeStrike"
+  "group": "Monster_Effigy_Water_SurgeStrike"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Monster_LaSignora_Attenuation_Impulse"
+  "group": "Monster_LaSignora_Attenuation_Impulse"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 0.1,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.1,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Shenhe_ElementalArt_L_Bullet"
+  "group": "Shenhe_ElementalArt_L_Bullet"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 0.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.5,
+  "damageSequence": [
    1,
    1,
    1
   ],
-  "NJGHKLMEDGF": "Monster_ForlornVessel_Lance_ChargeAtk"
+  "group": "Monster_ForlornVessel_Lance_ChargeAtk"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 0.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.5,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Yae_ExtraAttack"
+  "group": "Yae_ExtraAttack"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 0.1,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.1,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Monster_ForlornVessel_Warbanner_NormalAtk"
+  "group": "Monster_ForlornVessel_Warbanner_NormalAtk"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 0.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.5,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Monster_ForlornVessel_Chargebow_NormalAtk"
+  "group": "Monster_ForlornVessel_Chargebow_NormalAtk"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    0.2
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.4,
    0.1
   ],
-  "LAPBALEEONE": 0.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.5,
+  "damageSequence": [
    1,
    0.4,
    0.1
   ],
-  "NJGHKLMEDGF": "Monster_Darkwraith_Strong_Wind_ChainAtk02"
+  "group": "Monster_Darkwraith_Strong_Wind_ChainAtk02"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 0.3,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.3,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Yelan_ExtraAttack"
+  "group": "Yelan_ExtraAttack"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
@@ -1111,25 +1111,7 @@
    1,
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
-   1,
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -1145,29 +1127,47 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Yelan_ElementalBurst"
+  "resetCycle": 2,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Yelan_ElementalBurst"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    0.5,
    0.2
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.5,
    0.2
   ],
-  "LAPBALEEONE": 0.3,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.3,
+  "damageSequence": [
    1,
    0.5,
    0.2
   ],
-  "NJGHKLMEDGF": "Fafnir_Air_ChargeAtk"
+  "group": "Fafnir_Air_ChargeAtk"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    0.3,
    0.1,
@@ -1176,7 +1176,7 @@
    0.1,
    0.1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.3,
    0.1,
@@ -1185,8 +1185,8 @@
    0.1,
    0.1
   ],
-  "LAPBALEEONE": 0.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.5,
+  "damageSequence": [
    1,
    0.3,
    0.1,
@@ -1195,10 +1195,10 @@
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Fafnir_ElementAtk"
+  "group": "Fafnir_ElementAtk"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    0.3,
    0.1,
@@ -1207,7 +1207,7 @@
    0.1,
    0.1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.3,
    0.1,
@@ -1216,8 +1216,8 @@
    0.1,
    0.1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    0.3,
    0.1,
@@ -1246,55 +1246,55 @@
    0.01,
    0.01
   ],
-  "NJGHKLMEDGF": "Fafnir_Air_ChestAtk"
+  "group": "Fafnir_Air_ChestAtk"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 0.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.5,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Fafnir_Air_WingAtk"
+  "group": "Fafnir_Air_WingAtk"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 0.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.5,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Gargoyle_Airborne_Normalatk"
+  "group": "Gargoyle_Airborne_Normalatk"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    0.5,
    0.2
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.5,
    0.2
   ],
-  "LAPBALEEONE": 0.3,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.3,
+  "damageSequence": [
    1,
    0.5,
    0.2
   ],
-  "NJGHKLMEDGF": "Gargoyle_Ground_ChargeAtk"
+  "group": "Gargoyle_Ground_ChargeAtk"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    0.3,
    0.1,
@@ -1303,7 +1303,7 @@
    0.1,
    0.1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.3,
    0.1,
@@ -1312,8 +1312,8 @@
    0.1,
    0.1
   ],
-  "LAPBALEEONE": 0.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.5,
+  "damageSequence": [
    1,
    0.3,
    0.1,
@@ -1322,10 +1322,10 @@
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Gargoyle_ElementAtk"
+  "group": "Gargoyle_ElementAtk"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    0.3,
    0.1,
@@ -1334,7 +1334,7 @@
    0.1,
    0.1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.3,
    0.1,
@@ -1343,8 +1343,8 @@
    0.1,
    0.1
   ],
-  "LAPBALEEONE": 0.3,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.3,
+  "damageSequence": [
    1,
    0.3,
    0.1,
@@ -1353,56 +1353,56 @@
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Airborne_ChestAtk"
+  "group": "Airborne_ChestAtk"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 5,
-  "NCINHIKHJMC": [
+  "resetCycle": 5,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Collei_Boomerang_Go"
+  "group": "Collei_Boomerang_Go"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 5,
-  "NCINHIKHJMC": [
+  "resetCycle": 5,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Collei_Boomerang_Back"
+  "group": "Collei_Boomerang_Back"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 0.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.5,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Fungus_Trois_Atk"
+  "group": "Fungus_Trois_Atk"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    0.1,
    0.1,
@@ -1413,30 +1413,15 @@
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "DendroTornado_Atk"
+  "group": "DendroTornado_Atk"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 2.5,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -1450,28 +1435,28 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Tighnari"
+  "resetCycle": 2.5,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Tighnari"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 3,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -1485,28 +1470,28 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Collei_Elemental_Burst"
+  "resetCycle": 3,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Collei_Elemental_Burst"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 3,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -1520,68 +1505,68 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Dori_Elemental_Burst"
+  "resetCycle": 3,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Dori_Elemental_Burst"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.5,
    0.25,
    0.1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    0.5,
    0.25,
    0.1
   ],
-  "NJGHKLMEDGF": "Monster_Nada_EnergyFire_Bullet"
+  "group": "Monster_Nada_EnergyFire_Bullet"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.5,
    0.25,
    0.1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    0.5,
    0.25,
    0.1
   ],
-  "NJGHKLMEDGF": "Monster_Nada_EnergySpray"
+  "group": "Monster_Nada_EnergySpray"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 1.9,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -1595,22 +1580,28 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Nilou_Sustained_Water"
+  "resetCycle": 1.9,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Nilou_Sustained_Water"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 3,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -1618,22 +1609,22 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Monster_Nada_Tile_Ice"
+  "resetCycle": 3,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Monster_Nada_Tile_Ice"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 3,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -1641,10 +1632,19 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Monster_Nada_Tile_Fire"
+  "resetCycle": 3,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Monster_Nada_Tile_Fire"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
@@ -1660,7 +1660,7 @@
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -1676,8 +1676,8 @@
    1,
    1
   ],
-  "LAPBALEEONE": 2.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 2.5,
+  "damageSequence": [
    1,
    1,
    1,
@@ -1694,40 +1694,40 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Cyno_ElementalArt"
+  "group": "Cyno_ElementalArt"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 0.2,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.2,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Cyno_ElementalArt_Bullet"
+  "group": "Cyno_ElementalArt_Bullet"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 2.5,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1
   ],
-  "NJGHKLMEDGF": "Cyno_ElementalArt_Blade"
+  "resetCycle": 2.5,
+  "damageSequence": [
+   1,
+   1,
+   1
+  ],
+  "group": "Cyno_ElementalArt_Blade"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
@@ -1737,25 +1737,7 @@
    1,
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 2.5,
-  "NCINHIKHJMC": [
-   1,
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -1771,10 +1753,28 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Cyno_Constellation_6"
+  "resetCycle": 2.5,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Cyno_Constellation_6"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
@@ -1783,7 +1783,7 @@
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -1792,23 +1792,23 @@
    1,
    1
   ],
-  "LAPBALEEONE": 3,
-  "NCINHIKHJMC": [
+  "resetCycle": 3,
+  "damageSequence": [
    1,
    0.5,
    0.5,
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Fungus_Amanita_Du_Anudatta_ShootBullet"
+  "group": "Fungus_Amanita_Du_Anudatta_ShootBullet"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -1816,30 +1816,30 @@
    1,
    1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    0.5,
    0.3,
    0.2
   ],
-  "NJGHKLMEDGF": "Effigy_Fire_BurningGround_Elite"
+  "group": "Effigy_Fire_BurningGround_Elite"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Eremite_Longbow_DropAttack_Wind"
+  "group": "Eremite_Longbow_DropAttack_Wind"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
@@ -1848,13 +1848,13 @@
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.5,
    0.2,
@@ -1862,28 +1862,17 @@
    0.2,
    0.2
   ],
-  "NJGHKLMEDGF": "Eremite_Katar_RockBomb_Rock"
+  "group": "Eremite_Katar_RockBomb_Rock"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
    1,
    1,
    1,
@@ -1893,10 +1882,21 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "ElementReaction_Burning_Attenuation"
+  "resetCycle": 2,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "ElementReaction_Burning_Attenuation"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
@@ -1906,7 +1906,7 @@
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.4,
    0.1,
@@ -1914,8 +1914,8 @@
    0.1,
    0.1
   ],
-  "LAPBALEEONE": 3,
-  "NCINHIKHJMC": [
+  "resetCycle": 3,
+  "damageSequence": [
    1,
    0.4,
    0.1,
@@ -1923,17 +1923,17 @@
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Monster_Fungus_Raptor_ChargeAttack"
+  "group": "Monster_Fungus_Raptor_ChargeAttack"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -1941,18 +1941,18 @@
    1,
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.5,
    0.5,
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Monster_Fungus_Raptor_ShootAttack"
+  "group": "Monster_Fungus_Raptor_ShootAttack"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
@@ -1964,7 +1964,7 @@
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -1976,8 +1976,8 @@
    1,
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.5,
    0.1,
@@ -1989,32 +1989,32 @@
    0.01,
    0.01
   ],
-  "NJGHKLMEDGF": "Monster_Fungus_Raptor_PowerAttack"
+  "group": "Monster_Fungus_Raptor_PowerAttack"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 6,
-  "NCINHIKHJMC": [
+  "resetCycle": 6,
+  "damageSequence": [
    1,
    0.5,
    0.5,
    0.5
   ],
-  "NJGHKLMEDGF": "Monster_Fungus_Raptor_ConfuseMeleeAttack"
+  "group": "Monster_Fungus_Raptor_ConfuseMeleeAttack"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
@@ -2024,20 +2024,7 @@
    1,
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 5,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -2049,26 +2036,26 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "FungusFight_General"
+  "resetCycle": 5,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "FungusFight_General"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 4,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -2080,23 +2067,36 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "FungusFight_Trois_FireRing"
+  "resetCycle": 4,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "FungusFight_Trois_FireRing"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 0.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.5,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Monster_Gadget_Attenuation_01"
+  "group": "Monster_Gadget_Attenuation_01"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
@@ -2122,7 +2122,7 @@
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -2148,8 +2148,8 @@
    1,
    1
   ],
-  "LAPBALEEONE": 4,
-  "NCINHIKHJMC": [
+  "resetCycle": 4,
+  "damageSequence": [
    1,
    1,
    1,
@@ -2175,48 +2175,33 @@
    0.05,
    0.05
   ],
-  "NJGHKLMEDGF": "Effigy_Ice_RangeAtk"
+  "group": "Effigy_Ice_RangeAtk"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    1,
    1
   ],
-  "NJGHKLMEDGF": "Effigy_Fire_Elite_MultiAtk1"
+  "group": "Effigy_Fire_Elite_MultiAtk1"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 3,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -2230,13 +2215,28 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Layla_ElementalArt_Bullet"
+  "resetCycle": 3,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Layla_ElementalArt_Bullet"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1.5
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -2259,8 +2259,8 @@
    1,
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    1,
    1,
@@ -2283,31 +2283,16 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Nahida_Chain_Normal"
+  "group": "Nahida_Chain_Normal"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 2.5,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -2321,49 +2306,46 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Nahida_Chain_Constellation"
+  "resetCycle": 2.5,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Nahida_Chain_Constellation"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.5,
    0.25
   ],
-  "LAPBALEEONE": 1.6,
-  "NCINHIKHJMC": [
+  "resetCycle": 1.6,
+  "damageSequence": [
    1,
    0.5,
    0.25
   ],
-  "NJGHKLMEDGF": "Monster_Nada_LaserArray"
+  "group": "Monster_Nada_LaserArray"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 2.5,
-  "NCINHIKHJMC": [
-   1,
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -2379,31 +2361,31 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Barbara_WetShield"
+  "resetCycle": 2.5,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Barbara_WetShield"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
-   1,
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -2419,31 +2401,31 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Wanderer_PermanentSkill_2"
+  "resetCycle": 1,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Wanderer_PermanentSkill_2"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
-   1,
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -2459,10 +2441,28 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Wanderer_Constellation_6"
+  "resetCycle": 2,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Wanderer_Constellation_6"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
@@ -2474,7 +2474,7 @@
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -2486,8 +2486,8 @@
    1,
    1
   ],
-  "LAPBALEEONE": 4,
-  "NCINHIKHJMC": [
+  "resetCycle": 4,
+  "damageSequence": [
    1,
    0.25,
    0.125,
@@ -2499,10 +2499,10 @@
    0.01,
    0.01
   ],
-  "NJGHKLMEDGF": "Sandworm_Stage02_TailStormAttack"
+  "group": "Sandworm_Stage02_TailStormAttack"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
@@ -2510,7 +2510,7 @@
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -2518,8 +2518,8 @@
    1,
    1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    0.5,
    0.2,
@@ -2527,10 +2527,10 @@
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Sandworm_Stage02_DrillRushAttackBullet"
+  "group": "Sandworm_Stage02_DrillRushAttackBullet"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
@@ -2540,7 +2540,7 @@
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -2550,8 +2550,8 @@
    1,
    1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    0.25,
    0.125,
@@ -2561,10 +2561,10 @@
    0.01,
    0.01
   ],
-  "NJGHKLMEDGF": "Sandworm_Stage02_TailVerticalShootBullet"
+  "group": "Sandworm_Stage02_TailVerticalShootBullet"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
@@ -2573,7 +2573,7 @@
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -2582,8 +2582,8 @@
    1,
    1
   ],
-  "LAPBALEEONE": 7,
-  "NCINHIKHJMC": [
+  "resetCycle": 7,
+  "damageSequence": [
    1,
    0.5,
    0.2,
@@ -2592,10 +2592,10 @@
    0.1,
    0.01
   ],
-  "NJGHKLMEDGF": "Sandworm_Stage02_FlyingAttackBullet"
+  "group": "Sandworm_Stage02_FlyingAttackBullet"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
@@ -2603,7 +2603,7 @@
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -2611,8 +2611,8 @@
    1,
    1
   ],
-  "LAPBALEEONE": 3,
-  "NCINHIKHJMC": [
+  "resetCycle": 3,
+  "damageSequence": [
    1,
    1,
    0.5,
@@ -2620,26 +2620,26 @@
    0.01,
    0.01
   ],
-  "NJGHKLMEDGF": "Sandworm_Stage01_ShootAttackBullet"
+  "group": "Sandworm_Stage01_ShootAttackBullet"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1
   ],
-  "LAPBALEEONE": 0.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.5,
+  "damageSequence": [
    1,
    0.25
   ],
-  "NJGHKLMEDGF": "Eremite_Dancer_BoomerangBullet"
+  "group": "Eremite_Dancer_BoomerangBullet"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    0.5,
@@ -2648,7 +2648,7 @@
    0.1,
    0.1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -2657,8 +2657,8 @@
    1,
    1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    1,
    0.5,
@@ -2667,50 +2667,32 @@
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Eremite_Chrysopelea_ComboAttack"
+  "group": "Eremite_Chrysopelea_ComboAttack"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    0.25,
    0.25,
    0.25
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    0.25,
    0.25,
    0.25
   ],
-  "NJGHKLMEDGF": "Eremite_Oracle_FunneAttack"
+  "group": "Eremite_Oracle_FunneAttack"
  },
  {
-  "EKDNMOJMLCP": [
-   1,
-   1,
-   0.5,
-   0.25,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1
-  ],
-  "HJIEMFCNMFK": [
+  "durabilitySequence": [
    1,
    1,
    0.5,
@@ -2728,8 +2710,7 @@
    0.1,
    0.1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    0.5,
@@ -2747,106 +2728,125 @@
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Vulture_Sacred_Attack05"
+  "resetCycle": 2,
+  "damageSequence": [
+   1,
+   1,
+   0.5,
+   0.25,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1
+  ],
+  "group": "Vulture_Sacred_Attack05"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    0.5,
    0.25
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.5,
    0.25
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.5,
    0.25
   ],
-  "NJGHKLMEDGF": "Hilistray_Water_SlimeAtk"
+  "group": "Hilistray_Water_SlimeAtk"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 0.2,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.2,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Hilistray_Water_SpecialAtk_Bubble"
+  "group": "Hilistray_Water_SpecialAtk_Bubble"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 0.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.5,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Hilistray_Wind_Syuriken01"
+  "group": "Hilistray_Wind_Syuriken01"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 0.2,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.2,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Hilistray_Wind_SpecialAtk"
+  "group": "Hilistray_Wind_SpecialAtk"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 4,
-  "NCINHIKHJMC": [
+  "resetCycle": 4,
+  "damageSequence": [
    1,
    0.15,
    0.15,
    0.15,
    0.15
   ],
-  "NJGHKLMEDGF": "Darkwraith_Fat_Rock_Whirlwind"
+  "group": "Darkwraith_Fat_Rock_Whirlwind"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 0.6,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.6,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Universal_RushAttack"
+  "group": "Universal_RushAttack"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
@@ -2860,25 +2860,7 @@
    1,
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 12,
-  "NCINHIKHJMC": [
-   1,
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -2894,44 +2876,53 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Alhatham_ForlornLotus"
+  "resetCycle": 12,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Alhatham_ForlornLotus"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    0.5,
    0.2,
    0.2
   ],
-  "NJGHKLMEDGF": "Invoker_Archdeacon_MagicBall"
+  "group": "Invoker_Archdeacon_MagicBall"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 2.5,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -2939,22 +2930,22 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Yaoyao_GrassAttack"
+  "resetCycle": 2.5,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Yaoyao_GrassAttack"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 1.5,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -2962,31 +2953,22 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Yaoyao_ElementalBurst"
+  "resetCycle": 1.5,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Yaoyao_ElementalBurst"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
-   1,
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -3002,23 +2984,31 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Alhatham_ExtraAttack"
+  "resetCycle": 2,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Alhatham_ExtraAttack"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 2.5,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -3027,24 +3017,24 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "FungusFightV2_Seq1"
+  "resetCycle": 2.5,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "FungusFightV2_Seq1"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 2.5,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -3053,48 +3043,58 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "FungusFightV2_Seq2"
+  "resetCycle": 2.5,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "FungusFightV2_Seq2"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    0.5,
    0.2,
    0.1
   ],
-  "NJGHKLMEDGF": "Tortoise_Attack"
+  "group": "Tortoise_Attack"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 5,
-  "NCINHIKHJMC": [
+  "resetCycle": 5,
+  "damageSequence": [
    1,
    0.5,
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Apep_Stage1_CrashAttack"
+  "group": "Apep_Stage1_CrashAttack"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    0.5,
    0.25,
@@ -3111,7 +3111,7 @@
    0.1,
    0.1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.5,
    0.25,
@@ -3128,8 +3128,8 @@
    0.1,
    0.1
   ],
-  "LAPBALEEONE": 5,
-  "NCINHIKHJMC": [
+  "resetCycle": 5,
+  "damageSequence": [
    1,
    0.5,
    0.25,
@@ -3146,41 +3146,23 @@
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Apep_Bullet_Attenuation"
+  "group": "Apep_Bullet_Attenuation"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 3,
-  "NCINHIKHJMC": [
+  "resetCycle": 3,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Apep_Stage3_UltAttack"
+  "group": "Apep_Stage3_UltAttack"
  },
  {
-  "EKDNMOJMLCP": [
-   1,
-   1,
-   0.5,
-   0.25,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1
-  ],
-  "HJIEMFCNMFK": [
+  "durabilitySequence": [
    1,
    1,
    0.5,
@@ -3198,8 +3180,7 @@
    0.1,
    0.1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    0.5,
@@ -3217,87 +3198,106 @@
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Nutcracker_Stage1_ThrowFemale"
+  "resetCycle": 2,
+  "damageSequence": [
+   1,
+   1,
+   0.5,
+   0.25,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1
+  ],
+  "group": "Nutcracker_Stage1_ThrowFemale"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Nutcracker_Stage1_MaleCircle1"
+  "group": "Nutcracker_Stage1_MaleCircle1"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Nutcracker_Stage1_MaleCircle2"
+  "group": "Nutcracker_Stage1_MaleCircle2"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 0.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.5,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Nutcracker_Stage1_IcePierce"
+  "group": "Nutcracker_Stage1_IcePierce"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
-   1,
-   0.2,
-   0.2
-  ],
-  "NJGHKLMEDGF": "Nutcracker_Stage2_Route1_Start"
- },
- {
-  "EKDNMOJMLCP": [
-   1,
-   1,
-   1
-  ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    0.2,
    0.2
   ],
-  "NJGHKLMEDGF": "Nutcracker_Stage2_Route1_Back"
+  "group": "Nutcracker_Stage2_Route1_Start"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
+   1,
+   1,
+   1
+  ],
+  "enbreakSequence": [
+   1,
+   1,
+   1
+  ],
+  "resetCycle": 2,
+  "damageSequence": [
+   1,
+   0.2,
+   0.2
+  ],
+  "group": "Nutcracker_Stage2_Route1_Back"
+ },
+ {
+  "durabilitySequence": [
    1,
    1,
    1,
@@ -3305,7 +3305,7 @@
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    0.5,
@@ -3313,8 +3313,8 @@
    0.5,
    0.5
   ],
-  "LAPBALEEONE": 4,
-  "NCINHIKHJMC": [
+  "resetCycle": 4,
+  "damageSequence": [
    1,
    1,
    0.5,
@@ -3322,102 +3322,84 @@
    0.2,
    0.1
   ],
-  "NJGHKLMEDGF": "Nutcracker_Stage2_Route2_Start"
+  "group": "Nutcracker_Stage2_Route2_Start"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.5
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.25
   ],
-  "NJGHKLMEDGF": "Nutcracker_Stage2_Route2_Far"
+  "group": "Nutcracker_Stage2_Route2_Far"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    0.5,
    0.1,
    0.1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    0.5,
    0.5
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    0.5,
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Nutcracker_Stage2_Route2_Back1"
+  "group": "Nutcracker_Stage2_Route2_Back1"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    0.1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.1
   ],
-  "NJGHKLMEDGF": "Nutcracker_Stage2_Route2_Back2"
+  "group": "Nutcracker_Stage2_Route2_Back2"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.5,
    0.2,
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Panther_Sacred_Attack03"
+  "group": "Panther_Sacred_Attack03"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
-   1,
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -3433,31 +3415,31 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Baizhuer_ElementalArt"
+  "resetCycle": 2,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Baizhuer_ElementalArt"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 4,
-  "NCINHIKHJMC": [
-   1,
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -3473,75 +3455,93 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Baizhuer_Talent"
+  "resetCycle": 4,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Baizhuer_Talent"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    0.5,
    0.3,
    0.2
   ],
-  "NJGHKLMEDGF": "Apep_Underling_ChaseAttack"
+  "group": "Apep_Underling_ChaseAttack"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    0.5,
    0.2,
    0.1,
    0.1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 2.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 2.5,
+  "damageSequence": [
    1,
    0.5,
    0.2,
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Bradamante_Attack01"
+  "group": "Bradamante_Attack01"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    0.3,
    0.1,
    0.1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    0.3,
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Bradamante_Attack03"
+  "group": "Bradamante_Attack03"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    0.5,
    0.2,
@@ -3550,14 +3550,14 @@
    0.1,
    0.01
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    0.5,
    0.2,
@@ -3566,193 +3566,193 @@
    0.1,
    0.01
   ],
-  "NJGHKLMEDGF": "Ruggiero02_Attack01"
+  "group": "Ruggiero02_Attack01"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    0.7,
    0.5,
    0.2
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    0.7,
    0.5,
    0.2
   ],
-  "NJGHKLMEDGF": "Ruggiero02_Attack02"
+  "group": "Ruggiero02_Attack02"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1
   ],
-  "LAPBALEEONE": 0.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.5,
+  "damageSequence": [
    1,
    0.25
   ],
-  "NJGHKLMEDGF": "Fafnir_Air_NormalAtk_Area"
+  "group": "Fafnir_Air_NormalAtk_Area"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 0.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.5,
+  "damageSequence": [
    1,
    0.2,
    0.05
   ],
-  "NJGHKLMEDGF": "Fafnir_Air_NormalAtk_RockBullet"
+  "group": "Fafnir_Air_NormalAtk_RockBullet"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    0.2,
    0.1,
    0.1,
    0.01
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.2,
    0.1,
    0.1,
    0.01
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    0.2,
    0.1,
    0.1,
    0.01
   ],
-  "NJGHKLMEDGF": "Excavator_Ousia_MeleeAttack01"
+  "group": "Excavator_Ousia_MeleeAttack01"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    0.5
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.5
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.5
   ],
-  "NJGHKLMEDGF": "Excavator_Ousia_NoramlAttack01"
+  "group": "Excavator_Ousia_NoramlAttack01"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.5,
    0.25,
    0.1,
    0.1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.5,
    0.25,
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Excavator_Pneuma_RangeAttack01"
+  "group": "Excavator_Pneuma_RangeAttack01"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    0.3,
    0.1,
    0.1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.3,
    0.1,
    0.1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    0.3,
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Excavator_Normal_NormalAttack01"
+  "group": "Excavator_Normal_NormalAttack01"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    0.3,
    0.04,
    0.01
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.3,
    0.04,
    0.01
   ],
-  "LAPBALEEONE": 1.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 1.5,
+  "damageSequence": [
    1,
    0.3,
    0.04,
    0.01
   ],
-  "NJGHKLMEDGF": "Assimilator_Pneumal_RangeAttack01"
+  "group": "Assimilator_Pneumal_RangeAttack01"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    0.25,
    0.1,
    0.1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.25,
    0.1,
    0.1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    0.25,
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Assimilator_Ousia_MeleeAttack01"
+  "group": "Assimilator_Ousia_MeleeAttack01"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    0.5,
    0.25,
@@ -3769,7 +3769,7 @@
    0.1,
    0.1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.5,
    0.25,
@@ -3786,8 +3786,8 @@
    0.1,
    0.1
   ],
-  "LAPBALEEONE": 3,
-  "NCINHIKHJMC": [
+  "resetCycle": 3,
+  "damageSequence": [
    1,
    0.5,
    0.25,
@@ -3804,23 +3804,23 @@
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "FauneAbyssale_HermitCrab_Primo_FireBullet"
+  "group": "FauneAbyssale_HermitCrab_Primo_FireBullet"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "FauneAbyssale_HermitCrab_Primo_NormalAttack"
+  "group": "FauneAbyssale_HermitCrab_Primo_NormalAttack"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    0.1,
    0.1,
@@ -3837,7 +3837,7 @@
    0.1,
    0.1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.1,
    0.1,
@@ -3854,8 +3854,8 @@
    0.1,
    0.1
   ],
-  "LAPBALEEONE": 3,
-  "NCINHIKHJMC": [
+  "resetCycle": 3,
+  "damageSequence": [
    1,
    0.1,
    0.1,
@@ -3872,37 +3872,26 @@
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "FauneAbyssale_HermitCrab_Primo_FireAttack"
+  "group": "FauneAbyssale_HermitCrab_Primo_FireAttack"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 0.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.5,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "FauneAbyssale_HermitCrab_Primo_Tile"
+  "group": "FauneAbyssale_HermitCrab_Primo_Tile"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 1.5,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -3912,30 +3901,26 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Player_Water_Sustained_Shooting"
+  "resetCycle": 1.5,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Player_Water_Sustained_Shooting"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 8,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -3949,13 +3934,28 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Player_Water_Burst_Bullet"
+  "resetCycle": 8,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Player_Water_Burst_Bullet"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -3971,8 +3971,8 @@
    1,
    1
   ],
-  "LAPBALEEONE": 3,
-  "NCINHIKHJMC": [
+  "resetCycle": 3,
+  "damageSequence": [
    1,
    1,
    0.5,
@@ -3988,13 +3988,13 @@
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Ovacua_Chaos_HeavyShoot"
+  "group": "Ovacua_Chaos_HeavyShoot"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.5,
    0.2,
@@ -4010,8 +4010,8 @@
    0.1,
    0.1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    0.5,
    0.2,
@@ -4027,102 +4027,93 @@
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Ovacua_Chaos_GrowthBullet"
+  "group": "Ovacua_Chaos_GrowthBullet"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    0.5
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.5
   ],
-  "LAPBALEEONE": 1.2,
-  "NCINHIKHJMC": [
+  "resetCycle": 1.2,
+  "damageSequence": [
    1,
    0.5
   ],
-  "NJGHKLMEDGF": "SeaHorse_Primo_HitProtection"
+  "group": "SeaHorse_Primo_HitProtection"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 0.25,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.25,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "ElementReaction_Damage_Attenuation_Furnace"
+  "group": "ElementReaction_Damage_Attenuation_Furnace"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    0.2,
    0.05
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.2,
    0.05
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    0.2,
    0.05
   ],
-  "NJGHKLMEDGF": "FauneAbyssale_HermitCrab_Mature_Whirl"
+  "group": "FauneAbyssale_HermitCrab_Mature_Whirl"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    0.3,
    0.2
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.3,
    0.2
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.3,
    0.2
   ],
-  "NJGHKLMEDGF": "FauneAbyssale_Seal_Attack"
+  "group": "FauneAbyssale_Seal_Attack"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 5,
-  "NCINHIKHJMC": [
+  "resetCycle": 5,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Activity_InspirationSpurt_CJB"
+  "group": "Activity_InspirationSpurt_CJB"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -4130,10 +4121,19 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Avatar_Liney_ExtraAttack"
+  "resetCycle": 1,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Avatar_Liney_ExtraAttack"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    0.5,
    0.18,
@@ -4142,7 +4142,7 @@
    0.12,
    0.1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.5,
    0.18,
@@ -4151,8 +4151,8 @@
    0.12,
    0.1
   ],
-  "LAPBALEEONE": 4,
-  "NCINHIKHJMC": [
+  "resetCycle": 4,
+  "damageSequence": [
    1,
    0.5,
    0.18,
@@ -4161,10 +4161,10 @@
    0.12,
    0.1
   ],
-  "NJGHKLMEDGF": "SeaHorse_Primo_FishBarrage"
+  "group": "SeaHorse_Primo_FishBarrage"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    0.5,
    0.25,
@@ -4189,7 +4189,7 @@
    0.1,
    0.1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.5,
    0.25,
@@ -4214,8 +4214,8 @@
    0.1,
    0.1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    0.5,
    0.25,
@@ -4240,10 +4240,10 @@
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Gravitas_MissilesAttack01_Bullet"
+  "group": "Gravitas_MissilesAttack01_Bullet"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    0.5,
    0.25,
@@ -4268,7 +4268,7 @@
    0.1,
    0.1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.5,
    0.25,
@@ -4293,8 +4293,8 @@
    0.1,
    0.1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    0.5,
    0.25,
@@ -4319,10 +4319,10 @@
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Gravitas_LayerAttack01_Bullet"
+  "group": "Gravitas_LayerAttack01_Bullet"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    0.5,
    0.25,
@@ -4347,7 +4347,7 @@
    0.1,
    0.1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.5,
    0.25,
@@ -4372,8 +4372,8 @@
    0.1,
    0.1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    0.5,
    0.25,
@@ -4398,10 +4398,10 @@
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Gravitas_BoomingArea_Bullet"
+  "group": "Gravitas_BoomingArea_Bullet"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    0.2,
    0.2,
@@ -4417,7 +4417,7 @@
    0.1,
    0.1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.2,
    0.2,
@@ -4433,8 +4433,8 @@
    0.1,
    0.1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    0.2,
    0.2,
@@ -4450,85 +4450,76 @@
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Gravitas_RockBullet"
+  "group": "Gravitas_RockBullet"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    0.5,
    0.5
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.5,
    0.5
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    0.5,
    0.5
   ],
-  "NJGHKLMEDGF": "Gravitas_ImpactAttack01"
+  "group": "Gravitas_ImpactAttack01"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    0.5,
    0.1,
    0.1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 0.8,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.8,
+  "damageSequence": [
    1,
    0.5,
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Pylon_Gravitas_RangeAttack"
+  "group": "Pylon_Gravitas_RangeAttack"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    0.5,
    0.1,
    0.1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.5,
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Pylon_Gravitas_RockWaveAttack"
+  "group": "Pylon_Gravitas_RockWaveAttack"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 3,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -4536,27 +4527,36 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "FauneAbyssale_SeaHorse_Primo_Tile"
+  "resetCycle": 3,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "FauneAbyssale_SeaHorse_Primo_Tile"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "SeaHorse_Primo_HitProtection_Multi"
+  "group": "SeaHorse_Primo_HitProtection_Multi"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -4564,17 +4564,17 @@
    1,
    1
   ],
-  "LAPBALEEONE": 2.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 2.5,
+  "damageSequence": [
    1,
    0.5,
    0.25,
    0.25
   ],
-  "NJGHKLMEDGF": "FungusFightV3_Seq3"
+  "group": "FungusFightV3_Seq3"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
@@ -4588,7 +4588,7 @@
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -4602,8 +4602,8 @@
    1,
    1
   ],
-  "LAPBALEEONE": 30,
-  "NCINHIKHJMC": [
+  "resetCycle": 30,
+  "damageSequence": [
    1,
    1,
    1,
@@ -4617,10 +4617,10 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Furina_Octopus"
+  "group": "Furina_Octopus"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
@@ -4634,7 +4634,7 @@
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -4648,8 +4648,8 @@
    1,
    1
   ],
-  "LAPBALEEONE": 30,
-  "NCINHIKHJMC": [
+  "resetCycle": 30,
+  "damageSequence": [
    1,
    1,
    1,
@@ -4663,32 +4663,17 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Furina_SeaHorse"
+  "group": "Furina_SeaHorse"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
    1,
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 12,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -4702,29 +4687,29 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Charlotte_ArtDot"
+  "resetCycle": 12,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Charlotte_ArtDot"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 4,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -4738,32 +4723,47 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Charlotte_BurstCamera"
+  "resetCycle": 4,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Charlotte_BurstCamera"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 3,
-  "NCINHIKHJMC": [
+  "resetCycle": 3,
+  "damageSequence": [
    1,
    0.25,
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Bradamante_Attack02"
+  "group": "Bradamante_Attack02"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -4778,21 +4778,21 @@
    1,
    1
   ],
-  "LAPBALEEONE": 3,
-  "NCINHIKHJMC": [
+  "resetCycle": 3,
+  "damageSequence": [
    1,
    0.5,
    0.5,
    0.5,
    0.5
   ],
-  "NJGHKLMEDGF": "Ptahur_Devourer_BackFire_Bullet"
+  "group": "Ptahur_Devourer_BackFire_Bullet"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -4807,8 +4807,8 @@
    1,
    1
   ],
-  "LAPBALEEONE": 5,
-  "NCINHIKHJMC": [
+  "resetCycle": 5,
+  "damageSequence": [
    1,
    0.5,
    0.5,
@@ -4819,13 +4819,13 @@
    0.5,
    0.5
   ],
-  "NJGHKLMEDGF": "Ptahur_Devourer_WideRangeAttack_Bullet"
+  "group": "Ptahur_Devourer_WideRangeAttack_Bullet"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -4836,123 +4836,123 @@
    1,
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Monster_Ptahur_Panther_Attack"
+  "group": "Monster_Ptahur_Panther_Attack"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Monster_Rocky_ElectricBomb"
+  "group": "Monster_Rocky_ElectricBomb"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 0.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.5,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Narcissusborn_SingleAttack"
+  "group": "Narcissusborn_SingleAttack"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 3,
-  "NCINHIKHJMC": [
-   1,
-   1,
-   1,
-   1,
+  "enbreakSequence": [
    1,
    1,
    1,
    1
   ],
-  "NJGHKLMEDGF": "Chevreuse_ElementalBurst"
+  "resetCycle": 3,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Chevreuse_ElementalBurst"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.1,
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Golem_Centaur_Attack02"
+  "group": "Golem_Centaur_Attack02"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.1,
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Golem_Centaur_Attack03"
+  "group": "Golem_Centaur_Attack03"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.1,
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Golem_Centaur_Attack05"
+  "group": "Golem_Centaur_Attack05"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
@@ -4962,34 +4962,7 @@
    1,
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 12,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -5015,13 +4988,40 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Avatar_Navia_Burst"
+  "resetCycle": 12,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Avatar_Navia_Burst"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.5,
    0.25,
@@ -5036,8 +5036,8 @@
    0.1,
    0.1
   ],
-  "LAPBALEEONE": 2.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 2.5,
+  "damageSequence": [
    1,
    1,
    0.5,
@@ -5052,13 +5052,13 @@
    0.01,
    0.01
   ],
-  "NJGHKLMEDGF": "Drake_Rock_Fire_Breathe"
+  "group": "Drake_Rock_Fire_Breathe"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -5073,8 +5073,8 @@
    1,
    1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    0.5,
    0.2,
@@ -5089,13 +5089,13 @@
    0.01,
    0.01
   ],
-  "NJGHKLMEDGF": "Drake_Rock_Fire_CrushAtk"
+  "group": "Drake_Rock_Fire_CrushAtk"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.5,
    0.25,
@@ -5110,8 +5110,8 @@
    0.1,
    0.1
   ],
-  "LAPBALEEONE": 2.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 2.5,
+  "damageSequence": [
    1,
    1,
    0.5,
@@ -5126,13 +5126,13 @@
    0.01,
    0.01
   ],
-  "NJGHKLMEDGF": "Drake_Rock_Ice_Breathe"
+  "group": "Drake_Rock_Ice_Breathe"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -5147,8 +5147,8 @@
    1,
    1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    0.5,
    0.2,
@@ -5163,124 +5163,115 @@
    0.01,
    0.01
   ],
-  "NJGHKLMEDGF": "Drake_Rock_Ice_CrushAtk"
+  "group": "Drake_Rock_Ice_CrushAtk"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.4,
    0.1,
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Drake_Rock_Ice_GadgetExplode"
+  "group": "Drake_Rock_Ice_GadgetExplode"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 0.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.5,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Liuyun_ExtraAttack"
+  "group": "Liuyun_ExtraAttack"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    0.5,
    0.2,
    0.1
   ],
-  "NJGHKLMEDGF": "Hermit_WindAttack_Blade"
+  "group": "Hermit_WindAttack_Blade"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 0.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.5,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Striped_Attack03"
+  "group": "Striped_Attack03"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 1.9,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1,
    1
   ],
-  "NJGHKLMEDGF": "Chiori_ElementArt"
+  "resetCycle": 1.9,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Chiori_ElementArt"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.5,
    0.5
   ],
-  "NJGHKLMEDGF": "Drake_Deepsea_WaterBall"
+  "group": "Drake_Deepsea_WaterBall"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 5,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -5288,157 +5279,150 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Monster_MvM"
+  "resetCycle": 5,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Monster_MvM"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 3,
-  "NCINHIKHJMC": [
+  "resetCycle": 3,
+  "damageSequence": [
    1,
    0.3,
    0.2,
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Fungus_Raptor_BossEvent_DecayExplode"
+  "group": "Fungus_Raptor_BossEvent_DecayExplode"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Hermit_UltAttack_FinalPulse"
+  "group": "Hermit_UltAttack_FinalPulse"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.25,
    0.25
   ],
-  "NJGHKLMEDGF": "Nihil_NormalAttack"
+  "group": "Nihil_NormalAttack"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.5,
    0.5,
    0.25,
    0.25
   ],
-  "NJGHKLMEDGF": "Nihil_RageAttack"
+  "group": "Nihil_RageAttack"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.5,
    0.1
   ],
-  "NJGHKLMEDGF": "Animal_Tortoise_Electric_RushAtk"
+  "group": "Animal_Tortoise_Electric_RushAtk"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.3
   ],
-  "NJGHKLMEDGF": "Regisvine_SurroundingFire"
+  "group": "Regisvine_SurroundingFire"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 10,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1,
    1
   ],
-  "NJGHKLMEDGF": "Arlecchino_ElementalArt"
+  "resetCycle": 10,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Arlecchino_ElementalArt"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -5453,13 +5437,29 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Sigewinne_ElementalArt"
+  "resetCycle": 2,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Sigewinne_ElementalArt"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.5,
    0.5,
@@ -5474,8 +5474,8 @@
    0.5,
    0.5
   ],
-  "LAPBALEEONE": 1.9,
-  "NCINHIKHJMC": [
+  "resetCycle": 1.9,
+  "damageSequence": [
    1,
    1,
    1,
@@ -5490,30 +5490,14 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Sigewinne_ElementalBurst"
+  "group": "Sigewinne_ElementalBurst"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
    1,
    1,
    1,
@@ -5528,129 +5512,145 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Clorinde_ElementalArt"
+  "resetCycle": 1,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Clorinde_ElementalArt"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 0.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.5,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Lava_Common"
+  "group": "Lava_Common"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.25,
    0.25,
    0.1
   ],
-  "NJGHKLMEDGF": "Animal_Tortoise_Electric_Lightning"
+  "group": "Animal_Tortoise_Electric_Lightning"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.1,
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "ToothTrap_Attack02"
+  "group": "ToothTrap_Attack02"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 3,
-  "NCINHIKHJMC": [
+  "resetCycle": 3,
+  "damageSequence": [
    1,
    0.5,
    0.2,
    0.2,
    0.1
   ],
-  "NJGHKLMEDGF": "ToothTrap_Attack03"
+  "group": "ToothTrap_Attack03"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    1
   ],
-  "NJGHKLMEDGF": "Emilie_ElementalArt_Bullet"
+  "group": "Emilie_ElementalArt_Bullet"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 1.3,
-  "NCINHIKHJMC": [
+  "resetCycle": 1.3,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Emilie_ElementalArt_Bullet_Talent"
+  "group": "Emilie_ElementalArt_Bullet_Talent"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 0.1,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.1,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Sethos_LightningArrow"
+  "group": "Sethos_LightningArrow"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 0.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.5,
+  "damageSequence": [
    1,
    0.5,
    0.1,
@@ -5658,88 +5658,88 @@
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Lava_Liquid_MagmaJet"
+  "group": "Lava_Liquid_MagmaJet"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 0.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.5,
+  "damageSequence": [
    1,
    0.5,
    0.1
   ],
-  "NJGHKLMEDGF": "Lava_Solid_SmashAttack"
+  "group": "Lava_Solid_SmashAttack"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Flamingo_Primo_NormalAtk01"
+  "group": "Flamingo_Primo_NormalAtk01"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.5
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.5
   ],
-  "NJGHKLMEDGF": "Flamingo_Primo_NormalAtk03_Circle"
+  "group": "Flamingo_Primo_NormalAtk03_Circle"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.2,
    0.2
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    0.2,
    0.2
   ],
-  "NJGHKLMEDGF": "Flamingo_Primo_NormalAtk03_Rush"
+  "group": "Flamingo_Primo_NormalAtk03_Rush"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.5
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.5
   ],
-  "NJGHKLMEDGF": "Flamingo_Primo_ChargeAtk"
+  "group": "Flamingo_Primo_ChargeAtk"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.4,
    0.1,
@@ -5748,8 +5748,8 @@
    0.1,
    0.1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    0.4,
    0.1,
@@ -5778,36 +5778,36 @@
    0.01,
    0.01
   ],
-  "NJGHKLMEDGF": "Flamingo_Primo_Shoot"
+  "group": "Flamingo_Primo_Shoot"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.2,
    0.1,
    0.1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.2,
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Flamingo_Primo_Swoop_Damage"
+  "group": "Flamingo_Primo_Swoop_Damage"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.5,
    0.2,
@@ -5815,30 +5815,30 @@
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Monster_Slingshot_ShrapnelShoot"
+  "group": "Monster_Slingshot_ShrapnelShoot"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 1.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 1.5,
+  "damageSequence": [
    1,
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "HookWalker_Primo_Whirl"
+  "group": "HookWalker_Primo_Whirl"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.5,
    0.25,
@@ -5855,8 +5855,8 @@
    0.1,
    0.1
   ],
-  "LAPBALEEONE": 3,
-  "NCINHIKHJMC": [
+  "resetCycle": 3,
+  "damageSequence": [
    1,
    0.5,
    0.25,
@@ -5873,13 +5873,13 @@
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Tribalwarrior_Female_Standard_Launcher_HookWalker_TribalUlt"
+  "group": "Tribalwarrior_Female_Standard_Launcher_HookWalker_TribalUlt"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    0.5,
@@ -5888,8 +5888,8 @@
    0.1,
    0.1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    1,
    0.5,
@@ -5898,41 +5898,23 @@
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Tribalwarrior_Female_Standard_Launcher_HookWalker_Shoot"
+  "group": "Tribalwarrior_Female_Standard_Launcher_HookWalker_Shoot"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Natsaurus_Mosasaurus_ShootAttackBullet"
+  "group": "Natsaurus_Mosasaurus_ShootAttackBullet"
  },
  {
-  "EKDNMOJMLCP": [
-   1,
-   1,
-   0.5,
-   0.25,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1
-  ],
-  "HJIEMFCNMFK": [
+  "durabilitySequence": [
    1,
    1,
    0.5,
@@ -5950,8 +5932,7 @@
    0.1,
    0.1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    0.5,
@@ -5969,92 +5950,111 @@
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Wayob_Flamingo_02_SummonAttack2"
+  "resetCycle": 2,
+  "damageSequence": [
+   1,
+   1,
+   0.5,
+   0.25,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1
+  ],
+  "group": "Wayob_Flamingo_02_SummonAttack2"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
-   1,
-   1,
-   1,
-   1,
+  "enbreakSequence": [
    1,
    1,
    1,
    1
   ],
-  "NJGHKLMEDGF": "Kinich_Eart_Normal_Bullet"
+  "resetCycle": 2,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Kinich_Eart_Normal_Bullet"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 1.2,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1
   ],
-  "NJGHKLMEDGF": "Kinich_Eart_Final_Bullet"
+  "resetCycle": 1.2,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Kinich_Eart_Final_Bullet"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1
   ],
-  "LAPBALEEONE": 0.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.5,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Monster_Launcher_Mosasaurus_RangedAttack01"
+  "group": "Monster_Launcher_Mosasaurus_RangedAttack01"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.25,
    0.1
   ],
-  "NJGHKLMEDGF": "Shougun_Pole_ElectricEye"
+  "group": "Shougun_Pole_ElectricEye"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 3,
-  "NCINHIKHJMC": [
+  "resetCycle": 3,
+  "damageSequence": [
    1,
    1,
    0.6,
@@ -6064,42 +6064,42 @@
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Tribalwarrior_Shamansaurus_GuidanceShot"
+  "group": "Tribalwarrior_Shamansaurus_GuidanceShot"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.5,
    0.25,
    0.1,
    0.1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    1,
    1,
    0.5,
    0.1
   ],
-  "NJGHKLMEDGF": "DragonClaw_ClawCombo_Bullet"
+  "group": "DragonClaw_ClawCombo_Bullet"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.5,
    0.25,
    0.1,
    0.1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.5,
    0.3,
@@ -6107,155 +6107,136 @@
    0.1,
    0.01
   ],
-  "NJGHKLMEDGF": "DragonClaw_TrackingLaser_Bullet"
+  "group": "DragonClaw_TrackingLaser_Bullet"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 0.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.5,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "DragonClaw_Common"
+  "group": "DragonClaw_Common"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Monster_TribalWarrior_Male_Standard_Powermaul_Drillhead_TribalUlt"
+  "group": "Monster_TribalWarrior_Male_Standard_Powermaul_Drillhead_TribalUlt"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Monster_TribalWarrior_Male_Strong_Chainsword_Drillhead_TribalUlt"
+  "group": "Monster_TribalWarrior_Male_Strong_Chainsword_Drillhead_TribalUlt"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 3.6,
-  "NCINHIKHJMC": [
+  "resetCycle": 3.6,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Monster_Natsaurus_Mosasaurus_RushAttack"
+  "group": "Monster_Natsaurus_Mosasaurus_RushAttack"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.5,
    0.25,
    0.1,
    0.1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    0.5,
    0.25,
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Tribalwarrior_Female_Slim_Slingshot_Flamingo_ShrapnelShoot"
+  "group": "Tribalwarrior_Female_Slim_Slingshot_Flamingo_ShrapnelShoot"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1
   ],
-  "LAPBALEEONE": 0.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.5,
+  "damageSequence": [
    1,
    1
   ],
-  "NJGHKLMEDGF": "Flamingo_Small_NormalAtk"
+  "group": "Flamingo_Small_NormalAtk"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1
   ],
-  "LAPBALEEONE": 0.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.5,
+  "damageSequence": [
    1,
    1
   ],
-  "NJGHKLMEDGF": "Flamingo_Normal_NormalAtk"
+  "group": "Flamingo_Normal_NormalAtk"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 2.5,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1
   ],
-  "NJGHKLMEDGF": "Activity_RoleCombat_Blessing_RockAOE"
+  "resetCycle": 2.5,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Activity_RoleCombat_Blessing_RockAOE"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   0.5,
-   0.25,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1,
-   0.1
-  ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    0.5,
@@ -6273,28 +6254,32 @@
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Vulture_Sacred_Attack05_MvM"
+  "resetCycle": 2,
+  "damageSequence": [
+   1,
+   1,
+   0.5,
+   0.25,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1,
+   0.1
+  ],
+  "group": "Vulture_Sacred_Attack05_MvM"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 8,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -6308,28 +6293,28 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Olorun_ElementalArt"
+  "resetCycle": 8,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Olorun_ElementalArt"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 3,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -6343,24 +6328,30 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Olorun_ElementalBurst"
+  "resetCycle": 3,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Olorun_ElementalBurst"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 1.5,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -6368,39 +6359,39 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Chasca_MultiAimAttack_Base"
+  "resetCycle": 1.5,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Chasca_MultiAimAttack_Base"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1
   ],
-  "LAPBALEEONE": 1.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 1.5,
+  "damageSequence": [
    1,
    1
   ],
-  "NJGHKLMEDGF": "Chasca_MultiAimAttack_Extra"
+  "group": "Chasca_MultiAimAttack_Extra"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 1.5,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -6408,137 +6399,146 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Chasca_MultiAimAttack_ElementalBurst"
+  "resetCycle": 1.5,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Chasca_MultiAimAttack_ElementalBurst"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 3,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1
   ],
-  "NJGHKLMEDGF": "RoleCombat_Blessing_SwirlElectric_Thunder"
+  "resetCycle": 3,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "RoleCombat_Blessing_SwirlElectric_Thunder"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 4,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1
   ],
-  "NJGHKLMEDGF": "RoleCombat_Blessing_SwirlWater_Tornado"
+  "resetCycle": 4,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "RoleCombat_Blessing_SwirlWater_Tornado"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 1.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 1.5,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Vehicle_Bisonsaurus_SprintAttack"
+  "group": "Vehicle_Bisonsaurus_SprintAttack"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1
   ],
-  "LAPBALEEONE": 1.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 1.5,
+  "damageSequence": [
    1,
    1
   ],
-  "NJGHKLMEDGF": "Citlali_Storm"
+  "group": "Citlali_Storm"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1
   ],
-  "LAPBALEEONE": 3,
-  "NCINHIKHJMC": [
+  "resetCycle": 3,
+  "damageSequence": [
    1,
    1,
    0.2,
    0.2,
    0.2
   ],
-  "NJGHKLMEDGF": "Tribalwarrior_Launcher_Shamansaurus"
+  "group": "Tribalwarrior_Launcher_Shamansaurus"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Natsaurus_Shamansaurus_Normal"
+  "group": "Natsaurus_Shamansaurus_Normal"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.25,
    0.1,
    0.1
   ],
-  "LAPBALEEONE": 3,
-  "NCINHIKHJMC": [
+  "resetCycle": 3,
+  "damageSequence": [
    1,
    0.25,
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Monster_TheAbyssXiuhcoatl_RangeAtk_OnGround"
+  "group": "Monster_TheAbyssXiuhcoatl_RangeAtk_OnGround"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -6546,8 +6546,8 @@
    1,
    1
   ],
-  "LAPBALEEONE": 10,
-  "NCINHIKHJMC": [
+  "resetCycle": 10,
+  "damageSequence": [
    1,
    0.25,
    0.1,
@@ -6555,96 +6555,87 @@
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Monster_TheAbyssXiuhcoatl_FireBlast"
+  "group": "Monster_TheAbyssXiuhcoatl_FireBlast"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 3,
-  "NCINHIKHJMC": [
+  "resetCycle": 3,
+  "damageSequence": [
    1,
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "TheAbyssXiuhcoatl_Summon_Underling_RangeAtkBulletHit"
+  "group": "TheAbyssXiuhcoatl_Summon_Underling_RangeAtkBulletHit"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    0.25,
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Monster_TheAbyssXiuhcoatl_FireCut_Bullet01"
+  "group": "Monster_TheAbyssXiuhcoatl_FireCut_Bullet01"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    0.25,
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Monster_TheAbyssXiuhcoatl_FireCut_Bullet02"
+  "group": "Monster_TheAbyssXiuhcoatl_FireCut_Bullet02"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.25,
    0.1,
    0.1
   ],
-  "LAPBALEEONE": 3,
-  "NCINHIKHJMC": [
+  "resetCycle": 3,
+  "damageSequence": [
    1,
    0.25,
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "TheAbyssXiuhcoatl_RangeAtk_InAir_Damage"
+  "group": "TheAbyssXiuhcoatl_RangeAtk_InAir_Damage"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 3,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -6652,22 +6643,22 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Monster_TheAbyssXiuhcoatl_Tile_Fire"
+  "resetCycle": 3,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Monster_TheAbyssXiuhcoatl_Tile_Fire"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 3,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -6675,20 +6666,29 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Monster_TheAbyssXiuhcoatl_Tile_Abyss"
+  "resetCycle": 3,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Monster_TheAbyssXiuhcoatl_Tile_Abyss"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 3,
-  "NCINHIKHJMC": [
+  "resetCycle": 3,
+  "damageSequence": [
    1,
    1,
    0.5,
@@ -6699,157 +6699,157 @@
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Monster_TheAbyssXiuhcoatl_LoseHp_MultiAtkBullet"
+  "group": "Monster_TheAbyssXiuhcoatl_LoseHp_MultiAtkBullet"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 3,
-  "NCINHIKHJMC": [
+  "resetCycle": 3,
+  "damageSequence": [
    1,
    0.25,
    0.1,
    0.1
   ],
-  "NJGHKLMEDGF": "Monster_TheAbyssXiuhcoatl_LoseHp_RushAtk_InAir_AreaAtk"
+  "group": "Monster_TheAbyssXiuhcoatl_LoseHp_RushAtk_InAir_AreaAtk"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1
   ],
-  "LAPBALEEONE": 3,
-  "NCINHIKHJMC": [
+  "resetCycle": 3,
+  "damageSequence": [
    1,
    0.5
   ],
-  "NJGHKLMEDGF": "Tribalwarrior_Male_Strong_Powermaul_Bisonsaurus_WhrilAttack1"
+  "group": "Tribalwarrior_Male_Strong_Powermaul_Bisonsaurus_WhrilAttack1"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1
   ],
-  "LAPBALEEONE": 3,
-  "NCINHIKHJMC": [
+  "resetCycle": 3,
+  "damageSequence": [
    1,
    0.5
   ],
-  "NJGHKLMEDGF": "Tribalwarrior_Male_Strong_Powermaul_Bisonsaurus_WhrilAttack2"
+  "group": "Tribalwarrior_Male_Strong_Powermaul_Bisonsaurus_WhrilAttack2"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1
   ],
-  "LAPBALEEONE": 3,
-  "NCINHIKHJMC": [
+  "resetCycle": 3,
+  "damageSequence": [
    1,
    0.5
   ],
-  "NJGHKLMEDGF": "Tribalwarrior_Male_Strong_Powermaul_Bisonsaurus_WhrilAttack3"
+  "group": "Tribalwarrior_Male_Strong_Powermaul_Bisonsaurus_WhrilAttack3"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.5
   ],
-  "NJGHKLMEDGF": "Tribalwarrior_Male_Strong_Powermaul_Bisonsaurus_TribalUlt"
+  "group": "Tribalwarrior_Male_Strong_Powermaul_Bisonsaurus_TribalUlt"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 0.8,
-  "NCINHIKHJMC": [
+  "resetCycle": 0.8,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Tribalwarrior_Bisonsaurus_TribeUlt"
+  "group": "Tribalwarrior_Bisonsaurus_TribeUlt"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    1,
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.5,
    0.1
   ],
-  "NJGHKLMEDGF": "Animal_Penguin_03_RotateAtk"
+  "group": "Animal_Penguin_03_RotateAtk"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1,
    0.2,
    0.2
   ],
-  "NJGHKLMEDGF": "Animal_Penguin_03_NormalAtk_Triple"
+  "group": "Animal_Penguin_03_NormalAtk_Triple"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 1.2,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1
   ],
-  "NJGHKLMEDGF": "Mizuki_Eart_Attack"
+  "resetCycle": 1.2,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Mizuki_Eart_Attack"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
@@ -6859,25 +6859,7 @@
    1,
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 2.5,
-  "NCINHIKHJMC": [
-   1,
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -6893,10 +6875,28 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Lanyan_ElementalArt"
+  "resetCycle": 2.5,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Lanyan_ElementalArt"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1,
    1,
@@ -6906,25 +6906,7 @@
    1,
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 2.5,
-  "NCINHIKHJMC": [
-   1,
+  "enbreakSequence": [
    1,
    1,
    1,
@@ -6940,69 +6922,87 @@
    1,
    1
   ],
-  "NJGHKLMEDGF": "Lanyan_ElementalArt_Mix"
+  "resetCycle": 2.5,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "Lanyan_ElementalArt_Mix"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1,
    1
   ],
-  "HJIEMFCNMFK": [
-   1,
-   1,
-   1,
-   1
-  ],
-  "LAPBALEEONE": 2.5,
-  "NCINHIKHJMC": [
+  "enbreakSequence": [
    1,
    1,
    1,
    1
   ],
-  "NJGHKLMEDGF": "RoleCombat_Blessing_Freeze_Impact"
+  "resetCycle": 2.5,
+  "damageSequence": [
+   1,
+   1,
+   1,
+   1
+  ],
+  "group": "RoleCombat_Blessing_Freeze_Impact"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 2.5,
-  "NCINHIKHJMC": [
+  "resetCycle": 2.5,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Monster_LavaTitan_Common"
+  "group": "Monster_LavaTitan_Common"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1,
    0.5,
    0.25,
    0.1
   ],
-  "LAPBALEEONE": 2,
-  "NCINHIKHJMC": [
+  "resetCycle": 2,
+  "damageSequence": [
    1,
    0.15
   ],
-  "NJGHKLMEDGF": "Monster_LavaTitan_BallCannon"
+  "group": "Monster_LavaTitan_BallCannon"
  },
  {
-  "EKDNMOJMLCP": [
+  "durabilitySequence": [
    1
   ],
-  "HJIEMFCNMFK": [
+  "enbreakSequence": [
    1
   ],
-  "LAPBALEEONE": 1,
-  "NCINHIKHJMC": [
+  "resetCycle": 1,
+  "damageSequence": [
    1
   ],
-  "NJGHKLMEDGF": "Monster_Bisonsaurus_RushAttack"
+  "group": "Monster_Bisonsaurus_RushAttack"
  }
 ]

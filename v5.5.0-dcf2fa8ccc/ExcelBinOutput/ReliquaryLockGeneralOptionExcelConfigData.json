@@ -1,6 +1,6 @@
 [
  {
-  "ELKKIAIGOBK": 1,
+  "id": 1,
   "ELMBHCBEPCD": [
    30,
    40,
@@ -11,42 +11,42 @@
    45,
    46
   ],
-  "HNCDIADOINL": "EQUIP_RING",
+  "equipType": "EQUIP_RING",
   "PGFKNMNBCBL": "GENERAL_LOCK"
  },
  {
-  "ELKKIAIGOBK": 2,
+  "id": 2,
   "ELMBHCBEPCD": [
    20
   ],
-  "HNCDIADOINL": "EQUIP_DRESS",
+  "equipType": "EQUIP_DRESS",
   "PGFKNMNBCBL": "GENERAL_LOCK"
  },
  {
-  "ELKKIAIGOBK": 3,
+  "id": 3,
   "ELMBHCBEPCD": [
    22
   ],
-  "HNCDIADOINL": "EQUIP_DRESS",
+  "equipType": "EQUIP_DRESS",
   "PGFKNMNBCBL": "GENERAL_LOCK"
  },
  {
-  "ELKKIAIGOBK": 4,
-  "HNCDIADOINL": "EQUIP_NONE",
+  "id": 4,
+  "equipType": "EQUIP_NONE",
   "PGFKNMNBCBL": "APPEND_FIGHT_PROP_PRECISE_LOCK"
  },
  {
-  "ELKKIAIGOBK": 5,
+  "id": 5,
   "ELMBHCBEPCD": [
    20,
    22
   ],
-  "HNCDIADOINL": "EQUIP_NONE",
+  "equipType": "EQUIP_NONE",
   "PGFKNMNBCBL": "ANY_EQUIP_TYPE_ADD_PROP_GENERAL_LOCK"
  },
  {
-  "ELKKIAIGOBK": 6,
-  "HNCDIADOINL": "EQUIP_NONE",
+  "id": 6,
+  "equipType": "EQUIP_NONE",
   "PGFKNMNBCBL": "DEFAULT_SCHEME_DISABLE_SWITCH"
  }
 ]
