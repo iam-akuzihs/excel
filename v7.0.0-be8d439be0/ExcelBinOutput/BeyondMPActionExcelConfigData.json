@@ -1,0 +1,154 @@
+[
+ {
+  "AGMIEKCJDMD": "ART/UI/Atlas/LS/UGC/MainToolBar/",
+  "displayNameTextMapHash": 3368808308,
+  "HJOOMDHECAE": "UI_Icon_UGCMPAction_Type_TargetSelection_Box",
+  "id": 1,
+  "JJNBOGALLOK": "ART/UI/Atlas/LS/UGC/MainToolBar/",
+  "LGPIJDBDBKJ": "UI_Icon_UGCMPAction_Type_TargetSelection_Box",
+  "type": "BEYOND_MP_ACTION_TYPE_TRIGGER_ATTACK_EVENT"
+ },
+ {
+  "AGMIEKCJDMD": "ART/UI/Atlas/LS/UGC/MainToolBar/",
+  "displayNameTextMapHash": 65534796,
+  "HJOOMDHECAE": "UI_Icon_UGCMPAction_Type_TargetSelection",
+  "id": 2,
+  "JJNBOGALLOK": "ART/UI/Atlas/LS/UGC/MainToolBar/",
+  "LGPIJDBDBKJ": "UI_Icon_UGCMPAction_Type_TargetSelection",
+  "type": "BEYOND_MP_ACTION_TYPE_DAMAGE_BY_ATTACK_VALUE"
+ },
+ {
+  "AGMIEKCJDMD": "ART/UI/Atlas/LS/UGC/MainToolBar/",
+  "displayNameTextMapHash": 2796178228,
+  "HJOOMDHECAE": "UI_Icon_UGCMPAction_Type_Buff_Add",
+  "id": 3,
+  "JJNBOGALLOK": "ART/UI/Atlas/LS/UGC/MainToolBar/",
+  "LGPIJDBDBKJ": "UI_Icon_UGCMPAction_Type_Buff_Add",
+  "type": "BEYOND_MP_ACTION_TYPE_ADD_ROLE_STATUS"
+ },
+ {
+  "AGMIEKCJDMD": "ART/UI/Atlas/LS/UGC/MainToolBar/",
+  "displayNameTextMapHash": 3715824292,
+  "HJOOMDHECAE": "UI_Icon_UGCMPAction_Type_Buff_Remove",
+  "id": 4,
+  "JJNBOGALLOK": "ART/UI/Atlas/LS/UGC/MainToolBar/",
+  "LGPIJDBDBKJ": "UI_Icon_UGCMPAction_Type_Buff_Remove",
+  "type": "BEYOND_MP_ACTION_TYPE_REMOVE_ROLE_STATUS"
+ },
+ {
+  "displayNameTextMapHash": 2936666996,
+  "id": 5,
+  "type": "BEYOND_MP_ACTION_TYPE_SEND_BLUEPRINT_EVENT"
+ },
+ {
+  "displayNameTextMapHash": 1331745484,
+  "id": 6,
+  "type": "BEYOND_MP_ACTION_TYPE_TRIGGER_ATTACK_EVENT_BY_ABS_POS"
+ },
+ {
+  "displayNameTextMapHash": 1812342772,
+  "id": 7,
+  "type": "BEYOND_MP_ACTION_TYPE_DAMAGE_BY_ATTACK_VALUE_BY_ABS_POS"
+ },
+ {
+  "displayNameTextMapHash": 1127924676,
+  "id": 8,
+  "type": "BEYOND_MP_ACTION_TYPE_FIRE_EFFECT_BY_ABS_POS"
+ },
+ {
+  "displayNameTextMapHash": 4045961852,
+  "id": 9,
+  "type": "BEYOND_MP_ACTION_TYPE_FIXED_AVATAR_RUSH_MOVE_BY_ABS_POS"
+ },
+ {
+  "displayNameTextMapHash": 3334883972,
+  "id": 10,
+  "type": "BEYOND_MP_ACTION_TYPE_RUSH_MOVE"
+ },
+ {
+  "displayNameTextMapHash": 2822690396,
+  "id": 11,
+  "type": "BEYOND_MP_ACTION_TYPE_REMOVE_VELOCITY_FORCE"
+ },
+ {
+  "displayNameTextMapHash": 1578285612,
+  "id": 12,
+  "type": "BEYOND_MP_ACTION_TYPE_TRIGGER_BULLET_BY_ABS_POS"
+ },
+ {
+  "displayNameTextMapHash": 4044869412,
+  "id": 13,
+  "type": "BEYOND_MP_ACTION_TYPE_TURN_DIRECTION"
+ },
+ {
+  "displayNameTextMapHash": 1023286908,
+  "id": 14,
+  "type": "BEYOND_MP_ACTION_TYPE_OVERRIDE_TARGETTING_PARAM"
+ },
+ {
+  "displayNameTextMapHash": 3076729692,
+  "id": 15,
+  "type": "BEYOND_MP_ACTION_TYPE_SET_SELF_ATTACK_TARGET"
+ },
+ {
+  "displayNameTextMapHash": 2196535924,
+  "id": 16,
+  "type": "BEYOND_MP_ACTION_TYPE_FOREACH_FROGPRINT_TARGETS"
+ },
+ {
+  "displayNameTextMapHash": 307951252,
+  "id": 17,
+  "type": "BEYOND_MP_ACTION_TYPE_FROGPRINT_PREDICATED"
+ },
+ {
+  "displayNameTextMapHash": 3712561700,
+  "id": 18,
+  "type": "BEYOND_MP_ACTION_TYPE_SHOOT_HELPER_RESULT"
+ },
+ {
+  "displayNameTextMapHash": 231528236,
+  "id": 19,
+  "type": "BEYOND_MP_ACTION_TYPE_BULLET_TRIGGER_ATTACK_EVENT"
+ },
+ {
+  "displayNameTextMapHash": 1178344276,
+  "id": 20,
+  "type": "BEYOND_MP_ACTION_TYPE_BULLET_DAMAGE_BY_ATTACK_VALUE"
+ },
+ {
+  "AGMIEKCJDMD": "ART/UI/Atlas/LS/UGC/MainToolBar/",
+  "displayNameTextMapHash": 898575028,
+  "HJOOMDHECAE": "UI_Icon_UGCMPAction_Type_Effect",
+  "id": 21,
+  "JJNBOGALLOK": "ART/UI/Atlas/LS/UGC/MainToolBar/",
+  "LGPIJDBDBKJ": "UI_Icon_UGCMPAction_Type_Effect",
+  "type": "BEYOND_MP_ACTION_TYPE_BULLET_FIRE_EFFECT"
+ },
+ {
+  "AGMIEKCJDMD": "ART/UI/Atlas/LS/UGC/MainToolBar/",
+  "displayNameTextMapHash": 3896547076,
+  "HJOOMDHECAE": "UI_Icon_UGCMPAction_Type_FireBullet",
+  "id": 22,
+  "JJNBOGALLOK": "ART/UI/Atlas/LS/UGC/MainToolBar/",
+  "LGPIJDBDBKJ": "UI_Icon_UGCMPAction_Type_FireBullet",
+  "type": "BEYOND_MP_ACTION_TYPE_BULLET_TRIGGER_BULLET"
+ },
+ {
+  "AGMIEKCJDMD": "ART/UI/Atlas/LS/UGC/MainToolBar/",
+  "displayNameTextMapHash": 645068572,
+  "HJOOMDHECAE": "UI_Icon_UGCMPAction_Type_SelfDestruct",
+  "id": 23,
+  "JJNBOGALLOK": "ART/UI/Atlas/LS/UGC/MainToolBar/",
+  "LGPIJDBDBKJ": "UI_Icon_UGCMPAction_Type_SelfDestruct",
+  "type": "BEYOND_MP_ACTION_TYPE_KILL_SELF"
+ },
+ {
+  "AGMIEKCJDMD": "ART/UI/Atlas/SkillIcons/",
+  "displayNameTextMapHash": 1565456148,
+  "HJOOMDHECAE": "UI_UGC_ObjectIcon_Skill_Treatment",
+  "id": 24,
+  "JJNBOGALLOK": "ART/UI/Atlas/SkillIcons/",
+  "LGPIJDBDBKJ": "UI_UGC_ObjectIcon_Skill_Treatment",
+  "type": "BEYOND_MP_ACTION_TYPE_HEAL_HP"
+ }
+]

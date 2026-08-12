@@ -1,0 +1,116 @@
+[
+ {
+  "condID": 5080001,
+  "groupIdList": [
+   101,
+   102,
+   103
+  ],
+  "groupNumList": [
+   3,
+   3,
+   6
+  ],
+  "isTech": true,
+  "KFKHHKCIAEH": [
+   101,
+   102,
+   103
+  ],
+  "nextStageId": 2,
+  "openQuestID": 7269401,
+  "stageId": 1,
+  "type": "TARGET_TYPE_GATHER",
+  "watcherID": 1508001
+ },
+ {
+  "condID": 5080002,
+  "groupIdList": [
+   201,
+   202,
+   203
+  ],
+  "groupNumList": [
+   15,
+   15,
+   15
+  ],
+  "isTech": true,
+  "KFKHHKCIAEH": [
+   201,
+   202,
+   203
+  ],
+  "nextStageId": 3,
+  "openQuestID": 7269501,
+  "stageGroupIdList": [
+   133001079,
+   133105077,
+   133213557
+  ],
+  "stageId": 2,
+  "type": "TARGET_TYPE_ELEM",
+  "watcherID": 1508002
+ },
+ {
+  "condID": 5080003,
+  "groupIdList": [
+   301,
+   302,
+   303
+  ],
+  "groupNumList": [
+   3,
+   4,
+   4
+  ],
+  "isNeedFinish": true,
+  "isTech": true,
+  "KFKHHKCIAEH": [
+   301,
+   302,
+   303
+  ],
+  "nextStageId": 4,
+  "openQuestID": 7269601,
+  "stageId": 3,
+  "type": "TARGET_TYPE_MONSTER",
+  "watcherID": 1508003
+ },
+ {
+  "condID": 5080004,
+  "groupIdList": [
+   110
+  ],
+  "groupNumList": [
+   5
+  ],
+  "nextStageId": 5,
+  "openQuestID": 7269701,
+  "stageId": 4,
+  "type": "TARGET_TYPE_GATHER"
+ },
+ {
+  "groupIdList": [
+   210
+  ],
+  "groupNumList": [
+   15
+  ],
+  "nextStageId": 6,
+  "stageId": 5,
+  "type": "TARGET_TYPE_ELEM"
+ },
+ {
+  "groupIdList": [
+   310
+  ],
+  "groupNumList": [
+   4
+  ],
+  "isNeedFinish": true,
+  "nextStageId": 4,
+  "stageId": 6,
+  "type": "TARGET_TYPE_MONSTER"
+ }
+]

@@ -1,0 +1,760 @@
+[
+ {
+  "ABABLGONKNH": 2,
+  "condList": [
+   {
+    "paramList": [
+     400604,
+     1
+    ],
+    "type": "QUEST_GLOBAL_VAR_EQUAL"
+   },
+   {
+    "paramList": [
+     400605,
+     1
+    ],
+    "type": "QUEST_GLOBAL_VAR_GREATER"
+   }
+  ],
+  "HGKNNGEPEPB": 101,
+  "iconPath": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Mika_Circle",
+  "id": 10101,
+  "logicType": "LOGIC_AND",
+  "nameTextMapHash": 198649474
+ },
+ {
+  "ABABLGONKNH": 5,
+  "condList": [
+   {
+    "paramList": [
+     400606,
+     1
+    ],
+    "type": "QUEST_GLOBAL_VAR_EQUAL"
+   },
+   {
+    "paramList": [
+     400607,
+     1
+    ],
+    "type": "QUEST_GLOBAL_VAR_LESS"
+   }
+  ],
+  "HGKNNGEPEPB": 101,
+  "iconPath": "ART/UI/Atlas/ItemIcon/UI_AvatarIcon_Mika_Circle",
+  "id": 10102,
+  "logicType": "LOGIC_OR",
+  "nameTextMapHash": 3938539306
+ },
+ {
+  "ABABLGONKNH": 5,
+  "condList": [
+   {
+    "paramList": [
+     1918206,
+     0
+    ],
+    "type": "QUEST_GLOBAL_VAR_EQUAL"
+   },
+   {
+    "paramList": [
+     0,
+     0
+    ]
+   }
+  ],
+  "HGKNNGEPEPB": 1005,
+  "iconPath": "ART/UI/Atlas/AvatarSideIcon/UI_AvatarIcon_Side_Linette",
+  "id": 100501,
+  "nameTextMapHash": 4078666586
+ },
+ {
+  "ABABLGONKNH": 5,
+  "condList": [
+   {
+    "paramList": [
+     1918206,
+     0
+    ],
+    "type": "QUEST_GLOBAL_VAR_EQUAL"
+   },
+   {
+    "paramList": [
+     0,
+     0
+    ]
+   }
+  ],
+  "HGKNNGEPEPB": 1006,
+  "iconPath": "ART/UI/Atlas/AvatarSideIcon/UI_AvatarIcon_Side_Linette",
+  "id": 100601,
+  "nameTextMapHash": 361304730
+ },
+ {
+  "ABABLGONKNH": 5,
+  "condList": [
+   {
+    "paramList": [
+     1918206,
+     0
+    ],
+    "type": "QUEST_GLOBAL_VAR_EQUAL"
+   },
+   {
+    "paramList": [
+     0,
+     0
+    ]
+   }
+  ],
+  "HGKNNGEPEPB": 1007,
+  "iconPath": "ART/UI/Atlas/AvatarSideIcon/UI_AvatarIcon_Side_Linette",
+  "id": 100701,
+  "nameTextMapHash": 1101264458
+ },
+ {
+  "ABABLGONKNH": 5,
+  "condList": [
+   {
+    "paramList": [
+     1918206,
+     0
+    ],
+    "type": "QUEST_GLOBAL_VAR_EQUAL"
+   },
+   {
+    "paramList": [
+     0,
+     0
+    ]
+   }
+  ],
+  "HGKNNGEPEPB": 1008,
+  "iconPath": "ART/UI/Atlas/AvatarSideIcon/UI_AvatarIcon_Side_Linette",
+  "id": 100801,
+  "nameTextMapHash": 2676849570
+ },
+ {
+  "ABABLGONKNH": 5,
+  "condList": [
+   {
+    "paramList": [
+     1918206,
+     0
+    ],
+    "type": "QUEST_GLOBAL_VAR_EQUAL"
+   },
+   {
+    "paramList": [
+     0,
+     0
+    ]
+   }
+  ],
+  "HGKNNGEPEPB": 1009,
+  "iconPath": "ART/UI/Atlas/AvatarSideIcon/UI_AvatarIcon_Side_Linette",
+  "id": 100901,
+  "nameTextMapHash": 81823474
+ },
+ {
+  "ABABLGONKNH": 3,
+  "condList": [
+   {
+    "paramList": [
+     1918201,
+     1
+    ],
+    "type": "QUEST_GLOBAL_VAR_EQUAL"
+   },
+   {
+    "paramList": [
+     0,
+     0
+    ]
+   }
+  ],
+  "HGKNNGEPEPB": 1010,
+  "id": 101001,
+  "nameTextMapHash": 678693394
+ },
+ {
+  "ABABLGONKNH": 3,
+  "condList": [
+   {
+    "paramList": [
+     1918202,
+     1
+    ],
+    "type": "QUEST_GLOBAL_VAR_EQUAL"
+   },
+   {
+    "paramList": [
+     0,
+     0
+    ]
+   }
+  ],
+  "HGKNNGEPEPB": 1010,
+  "id": 101002,
+  "nameTextMapHash": 3519013818
+ },
+ {
+  "ABABLGONKNH": 3,
+  "condList": [
+   {
+    "paramList": [
+     1918203,
+     1
+    ],
+    "type": "QUEST_GLOBAL_VAR_EQUAL"
+   },
+   {
+    "paramList": [
+     0,
+     0
+    ]
+   }
+  ],
+  "HGKNNGEPEPB": 1010,
+  "id": 101003,
+  "nameTextMapHash": 238027514
+ },
+ {
+  "ABABLGONKNH": 3,
+  "condList": [
+   {
+    "paramList": [
+     1918204,
+     1
+    ],
+    "type": "QUEST_GLOBAL_VAR_EQUAL"
+   },
+   {
+    "paramList": [
+     0,
+     0
+    ]
+   }
+  ],
+  "HGKNNGEPEPB": 1010,
+  "id": 101004,
+  "nameTextMapHash": 4053459506
+ },
+ {
+  "ABABLGONKNH": 3,
+  "condList": [
+   {
+    "paramList": [
+     1918205,
+     1
+    ],
+    "type": "QUEST_GLOBAL_VAR_EQUAL"
+   },
+   {
+    "paramList": [
+     0,
+     0
+    ]
+   }
+  ],
+  "HGKNNGEPEPB": 1010,
+  "id": 101005,
+  "nameTextMapHash": 4239201050
+ },
+ {
+  "ABABLGONKNH": 7,
+  "condList": [
+   {
+    "paramList": [
+     1918206,
+     0
+    ],
+    "type": "QUEST_GLOBAL_VAR_EQUAL"
+   },
+   {
+    "paramList": [
+     0,
+     0
+    ]
+   }
+  ],
+  "HGKNNGEPEPB": 1013,
+  "iconPath": "ART/UI/Atlas/AvatarSideIcon/UI_AvatarIcon_Side_Linette",
+  "id": 101301,
+  "nameTextMapHash": 2461215266
+ },
+ {
+  "ABABLGONKNH": 5,
+  "condList": [
+   {
+    "paramList": [
+     1918206,
+     0
+    ],
+    "type": "QUEST_GLOBAL_VAR_EQUAL"
+   },
+   {
+    "paramList": [
+     0,
+     0
+    ]
+   }
+  ],
+  "HGKNNGEPEPB": 1020,
+  "iconPath": "ART/UI/Atlas/AvatarSideIcon/UI_AvatarIcon_Side_Linette",
+  "id": 102001,
+  "nameTextMapHash": 778726282
+ },
+ {
+  "ABABLGONKNH": 8,
+  "condList": [
+   {
+    "paramList": [
+     1918206,
+     0
+    ],
+    "type": "QUEST_GLOBAL_VAR_EQUAL"
+   },
+   {
+    "paramList": [
+     0,
+     0
+    ]
+   }
+  ],
+  "HGKNNGEPEPB": 1020,
+  "iconPath": "ART/UI/Atlas/AvatarSideIcon/UI_AvatarIcon_Side_Liney",
+  "id": 102002,
+  "nameTextMapHash": 3292666666
+ },
+ {
+  "ABABLGONKNH": 5,
+  "condList": [
+   {
+    "paramList": [
+     1918206,
+     0
+    ],
+    "type": "QUEST_GLOBAL_VAR_EQUAL"
+   },
+   {
+    "paramList": [
+     0,
+     0
+    ]
+   }
+  ],
+  "HGKNNGEPEPB": 1020,
+  "id": 102003,
+  "nameTextMapHash": 625624970
+ },
+ {
+  "ABABLGONKNH": 3,
+  "condList": [
+   {
+    "paramList": [
+     1918206,
+     0
+    ],
+    "type": "QUEST_GLOBAL_VAR_EQUAL"
+   },
+   {
+    "paramList": [
+     0,
+     0
+    ]
+   }
+  ],
+  "HGKNNGEPEPB": 1020,
+  "id": 102004,
+  "nameTextMapHash": 1741757402
+ },
+ {
+  "ABABLGONKNH": 3,
+  "condList": [
+   {
+    "paramList": [
+     1918206,
+     0
+    ],
+    "type": "QUEST_GLOBAL_VAR_EQUAL"
+   },
+   {
+    "paramList": [
+     0,
+     0
+    ]
+   }
+  ],
+  "HGKNNGEPEPB": 1020,
+  "id": 102005,
+  "nameTextMapHash": 546662330
+ },
+ {
+  "ABABLGONKNH": 5,
+  "condList": [
+   {
+    "paramList": [
+     1918206,
+     0
+    ],
+    "type": "QUEST_GLOBAL_VAR_EQUAL"
+   },
+   {
+    "paramList": [
+     0,
+     0
+    ]
+   }
+  ],
+  "HGKNNGEPEPB": 1021,
+  "iconPath": "ART/UI/Atlas/AvatarSideIcon/UI_AvatarIcon_Side_Linette",
+  "id": 102101,
+  "nameTextMapHash": 3831403098
+ },
+ {
+  "ABABLGONKNH": 7,
+  "condList": [
+   {
+    "paramList": [
+     1918206,
+     1
+    ],
+    "type": "QUEST_GLOBAL_VAR_EQUAL"
+   },
+   {
+    "paramList": [
+     0,
+     0
+    ]
+   }
+  ],
+  "HGKNNGEPEPB": 1025,
+  "iconPath": "ART/UI/Atlas/AvatarSideIcon/UI_AvatarIcon_Side_Linette",
+  "id": 102501,
+  "nameTextMapHash": 3582238210
+ },
+ {
+  "ABABLGONKNH": 7,
+  "condList": [
+   {
+    "paramList": [
+     1918206,
+     0
+    ],
+    "type": "QUEST_GLOBAL_VAR_EQUAL"
+   },
+   {
+    "paramList": [
+     0,
+     0
+    ]
+   }
+  ],
+  "HGKNNGEPEPB": 1026,
+  "iconPath": "ART/UI/Atlas/AvatarSideIcon/UI_AvatarIcon_Side_Linette",
+  "id": 102601,
+  "nameTextMapHash": 525091786
+ },
+ {
+  "ABABLGONKNH": 6,
+  "condList": [
+   {
+    "paramList": [
+     1918206,
+     0
+    ],
+    "type": "QUEST_GLOBAL_VAR_EQUAL"
+   },
+   {
+    "paramList": [
+     0,
+     0
+    ]
+   }
+  ],
+  "HGKNNGEPEPB": 1027,
+  "iconPath": "ART/UI/Atlas/AvatarSideIcon/UI_AvatarIcon_Side_Liney",
+  "id": 102701,
+  "nameTextMapHash": 1864942090
+ },
+ {
+  "ABABLGONKNH": 6,
+  "condList": [
+   {
+    "paramList": [
+     1918206,
+     0
+    ],
+    "type": "QUEST_GLOBAL_VAR_EQUAL"
+   },
+   {
+    "paramList": [
+     0,
+     0
+    ]
+   }
+  ],
+  "HGKNNGEPEPB": 1028,
+  "iconPath": "ART/UI/Atlas/AvatarSideIcon/UI_AvatarIcon_Side_Chevreuse",
+  "id": 102801,
+  "nameTextMapHash": 334896018
+ },
+ {
+  "ABABLGONKNH": 5,
+  "condList": [
+   {
+    "paramList": [
+     1918501,
+     1
+    ],
+    "type": "QUEST_GLOBAL_VAR_EQUAL"
+   },
+   {
+    "paramList": [
+     0,
+     0
+    ]
+   }
+  ],
+  "HGKNNGEPEPB": 1031,
+  "id": 103101,
+  "nameTextMapHash": 382458370
+ },
+ {
+  "ABABLGONKNH": 5,
+  "condList": [
+   {
+    "paramList": [
+     1918502,
+     1
+    ],
+    "type": "QUEST_GLOBAL_VAR_EQUAL"
+   },
+   {
+    "paramList": [
+     0,
+     0
+    ]
+   }
+  ],
+  "HGKNNGEPEPB": 1031,
+  "id": 103102,
+  "nameTextMapHash": 408285162
+ },
+ {
+  "ABABLGONKNH": 5,
+  "condList": [
+   {
+    "paramList": [
+     1918503,
+     1
+    ],
+    "type": "QUEST_GLOBAL_VAR_EQUAL"
+   },
+   {
+    "paramList": [
+     0,
+     0
+    ]
+   }
+  ],
+  "HGKNNGEPEPB": 1031,
+  "id": 103103,
+  "nameTextMapHash": 1066453890
+ },
+ {
+  "ABABLGONKNH": 5,
+  "condList": [
+   {
+    "paramList": [
+     1918504,
+     1
+    ],
+    "type": "QUEST_GLOBAL_VAR_EQUAL"
+   },
+   {
+    "paramList": [
+     0,
+     0
+    ]
+   }
+  ],
+  "HGKNNGEPEPB": 1031,
+  "id": 103104,
+  "nameTextMapHash": 3785443242
+ },
+ {
+  "ABABLGONKNH": 6,
+  "condList": [
+   {
+    "paramList": [
+     1918206,
+     0
+    ],
+    "type": "QUEST_GLOBAL_VAR_EQUAL"
+   },
+   {
+    "paramList": [
+     0,
+     0
+    ]
+   }
+  ],
+  "HGKNNGEPEPB": 1035,
+  "iconPath": "ART/UI/Atlas/AvatarSideIcon/UI_AvatarIcon_Side_Chevreuse",
+  "id": 103501,
+  "nameTextMapHash": 1933716154
+ },
+ {
+  "ABABLGONKNH": 8,
+  "condList": [
+   {
+    "paramList": [
+     1918206,
+     0
+    ],
+    "type": "QUEST_GLOBAL_VAR_EQUAL"
+   },
+   {
+    "paramList": [
+     0,
+     0
+    ]
+   }
+  ],
+  "HGKNNGEPEPB": 1036,
+  "iconPath": "ART/UI/Atlas/AvatarSideIcon/UI_AvatarIcon_Side_Liney",
+  "id": 103601,
+  "nameTextMapHash": 1686996810
+ },
+ {
+  "ABABLGONKNH": 6,
+  "condList": [
+   {
+    "paramList": [
+     1918206,
+     0
+    ],
+    "type": "QUEST_GLOBAL_VAR_EQUAL"
+   },
+   {
+    "paramList": [
+     0,
+     0
+    ]
+   }
+  ],
+  "HGKNNGEPEPB": 1037,
+  "iconPath": "ART/UI/Atlas/AvatarSideIcon/UI_AvatarIcon_Side_Linette",
+  "id": 103701,
+  "nameTextMapHash": 408131386
+ },
+ {
+  "ABABLGONKNH": 7,
+  "condList": [
+   {
+    "paramList": [
+     1918206,
+     1
+    ],
+    "type": "QUEST_GLOBAL_VAR_EQUAL"
+   },
+   {
+    "paramList": [
+     0,
+     0
+    ]
+   }
+  ],
+  "HGKNNGEPEPB": 1041,
+  "iconPath": "ART/UI/Atlas/AvatarSideIcon/UI_AvatarIcon_Side_Linette",
+  "id": 104101,
+  "nameTextMapHash": 3161643594
+ },
+ {
+  "ABABLGONKNH": 8,
+  "condList": [
+   {
+    "paramList": [
+     1403202,
+     1
+    ],
+    "type": "QUEST_GLOBAL_VAR_EQUAL"
+   },
+   {
+    "paramList": [
+     0,
+     0
+    ]
+   }
+  ],
+  "HGKNNGEPEPB": 2001,
+  "id": 200101,
+  "nameTextMapHash": 2660125202
+ },
+ {
+  "ABABLGONKNH": 6,
+  "condList": [
+   {
+    "paramList": [
+     0,
+     0
+    ]
+   },
+   {
+    "paramList": [
+     0,
+     0
+    ]
+   }
+  ],
+  "HGKNNGEPEPB": 2006,
+  "iconPath": "ART/UI/Atlas/AvatarSideIcon/UI_AvatarIcon_Side_Furina",
+  "id": 200601,
+  "nameTextMapHash": 2980675514
+ },
+ {
+  "ABABLGONKNH": 8,
+  "condList": [
+   {
+    "paramList": [
+     1403202,
+     1
+    ],
+    "type": "QUEST_GLOBAL_VAR_EQUAL"
+   },
+   {
+    "paramList": [
+     0,
+     0
+    ]
+   }
+  ],
+  "HGKNNGEPEPB": 2007,
+  "id": 200701,
+  "nameTextMapHash": 1219070882
+ },
+ {
+  "ABABLGONKNH": 2,
+  "condList": [
+   {
+    "paramList": [
+     0,
+     0
+    ]
+   },
+   {
+    "paramList": [
+     0,
+     0
+    ]
+   }
+  ],
+  "HGKNNGEPEPB": 2009,
+  "iconPath": "ART/UI/Atlas/AvatarSideIcon/UI_AvatarIcon_Side_Navia",
+  "id": 200901,
+  "nameTextMapHash": 2488523450
+ }
+]

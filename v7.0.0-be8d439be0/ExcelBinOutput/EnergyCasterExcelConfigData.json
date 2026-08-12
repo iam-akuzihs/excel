@@ -1,0 +1,53 @@
+[
+ {
+  "actionType": "OpenInfoPage",
+  "HPFPGACHODN": 2,
+  "id": 1,
+  "JKLJKOAHHGL": "SGV_EnergyCaster_QRCode",
+  "triggerType": "Loading"
+ },
+ {
+  "actionType": "ChangeCamera",
+  "HPFPGACHODN": 2,
+  "id": 2,
+  "JKLJKOAHHGL": "SGV_EnergyCaster_Camera",
+  "triggerType": "Loading"
+ },
+ {
+  "abilityName": "SceneObj_Area_Fd_Property_Ani_Prop_EnergyCaster_Operator_01_CameraAim_Ability",
+  "actionType": "TriggerAbility",
+  "HPFPGACHODN": 2,
+  "id": 3,
+  "JKLJKOAHHGL": "SGV_EnergyCaster_Camera",
+  "triggerType": "Loading"
+ },
+ {
+  "abilityName": "SceneObj_Area_Fd_Property_Ani_Prop_EnergyCaster_Operator_01_CellClick_Ability",
+  "actionType": "TriggerAbility",
+  "id": 4,
+  "JKLJKOAHHGL": "SGV_EnergyCaster_Cell",
+  "triggerType": "Clicking"
+ },
+ {
+  "abilityName": "SceneObj_Area_Fd_Property_Ani_Prop_EnergyCaster_Operator_01_CellAim_Ability",
+  "actionType": "TriggerAbility",
+  "id": 5,
+  "JKLJKOAHHGL": "SGV_EnergyCaster_Cell",
+  "triggerType": "Aiming"
+ },
+ {
+  "abilityName": "SceneObj_Area_Fd_Property_Ani_Prop_EnergyCaster_Operator_01_CellExit_Ability",
+  "actionType": "TriggerAbility",
+  "id": 6,
+  "JKLJKOAHHGL": "SGV_EnergyCaster_Cell",
+  "triggerType": "Exit"
+ },
+ {
+  "abilityName": "SceneObj_Area_Fd_Property_Ani_Prop_EnergyCaster_Operator_01_QRCode_Ability",
+  "actionType": "TriggerAbility",
+  "HPFPGACHODN": 2,
+  "id": 7,
+  "JKLJKOAHHGL": "SGV_EnergyCaster_QRCode",
+  "triggerType": "Loading"
+ }
+]
