@@ -17,16 +17,16 @@ GDODLCIIIEM -> infoDescTextMapHash
 GEHJEEMPDKK -> isUnique
 GFIPPLJGEAB -> __unk_Q98689952
 GGAFPEMGCPM -> __unk_Q4293014668
-GHCNBMAPHML -> __unk_Q1612173113
-IHFACGBENMJ -> __unk_Q2400524689
-JBEBHHPANFP -> __exp_arkheType
+GHCNBMAPHML -> specialEnergyMin
+IHFACGBENMJ -> specialEnergyType
+JBEBHHPANFP -> arkheType
 JEGJLMPGMLP -> __unk_Q2462721246
 KEHFCONEFIM -> __unk_Q3522047146
 KNJHBLOKJDG -> __unk_Q836298517
 KNOIOAPAFIH -> __unk_Q5220528
 KPCDDDCMLNB -> costItems
 LGPEJEBJJPP -> isSceneReward
-LNEGGCDIDCP -> __unk_Q1923244247
+LNEGGCDIDCP -> specialEnergyMax
 NCFNCHOJDGI -> __unk_Q1459685539
 NDGGLAGAMEF -> __unk_Q2420834195
 NDIKMHDKDLO -> hpPercent
@@ -39,8 +39,11 @@ PGHNFCPCLOB -> isCombinableLight
 playType -> __unk_Q74004763
 
 ignored queries:
+  __unk_Q3316961398
   __unk_Q4278490035
   effectiveForTeam
+  specialProudSkillOpens
+  upgradedDescTextMapHash
 
 possible conflicts:
 

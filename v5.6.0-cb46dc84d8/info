@@ -9,13 +9,13 @@ DJAEEGCCKHK -> needStore
 DMIFJGKGADL -> __unk_Q5220528
 ENJKOCGNELI -> __unk_Q2086394878
 FGOMHMPMIEO -> showIconArrow
-FJIBJKLGEGJ -> __unk_Q2400524689
+FJIBJKLGEGJ -> specialEnergyType
 FKJDEEJDDIJ -> forceCanDoSkill
 FPIJIIENLBP -> costItems
 FPMAEPBDBKJ -> isCombinableLight
 GFOMCFHCICO -> __exp_DLCBNDOEMAH
 HDNPHCHMHDH -> __exp_NFMNNFMLFGD
-HKPHLGGKAKL -> __exp_arkheType
+HKPHLGGKAKL -> arkheType
 HMEGFKEJHCP -> defaultLocked
 HNPCEBLEBHK -> __unk_Q1833985725
 HPHGGKGPOPJ -> __unk_Q3522047146
@@ -27,18 +27,22 @@ KJAFANBFAFI -> isSceneReward
 MOLPAGGECIM -> isRanged
 NHBOBJIGEEH -> hasDynamicBarrier
 OEELMMAHGJD -> __unk_Q1557698926
-OJONGLAPFJO -> __unk_Q1612173113
+OJONGLAPFJO -> specialEnergyMin
 OOKDKLHLHPC -> __unk_Q4154034434
 PENCNLKAOJD -> enhanceRule
 PGHLLIDKKOA -> __unk_Q2462721246
-PIIHPOEGGJH -> __unk_Q1923244247
+PIIHPOEGGJH -> specialEnergyMax
 PIPFEKGLPML -> __unk_Q2434952433
 PPJAGLHMIHA -> __unk_Q1459685539
 playType -> __unk_Q74004763
 
 ignored queries:
+  __unk_Q3316961398
   __unk_Q4278490035
   effectiveForTeam
+  elementMastery
+  specialProudSkillOpens
+  upgradedDescTextMapHash
 
 possible conflicts:
 

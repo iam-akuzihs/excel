@@ -5,7 +5,7 @@ CBBMKNCBEAK -> __exp_NFMNNFMLFGD
 CEHBGCNDKFE -> __exp_CNIPBNMIECC
 CHNPGHGONGP -> __unk_Q4293014668
 CMLKGPEBECO -> hpDrops
-COCFBDCEMEK -> __unk_Q1923244247
+COCFBDCEMEK -> specialEnergyMax
 DECCHPLONNB -> showIconArrow
 DFNBEKELMDH -> isCombinableLight
 DLGIBGLHNPC -> defaultLocked
@@ -19,15 +19,15 @@ GKLAJBILDEL -> __unk_Q1459685539
 GPEDHPFHLKF -> __unk_Q2434952433
 HJMGDEDJMIP -> __unk_Q4006806719
 IEKDGLGPCFJ -> isRanged
-IHAHAINHGLF -> __exp_arkheType
+IHAHAINHGLF -> arkheType
 JAJIBPABFPG -> __unk_Q2462721246
 JFEDLNMCDBD -> __unk_Q4154034434
-JKHIFIMMBCP -> __unk_Q2400524689
+JKHIFIMMBCP -> specialEnergyType
 JOOIAGKLNCN -> __unk_Q5220528
 KFBNOJJEALG -> forceCanDoSkill
 MFHLKGEIJBN -> __unk_Q1833985725
 MJNFNPLOPJI -> infoDescTextMapHash
-MKADAHOMGMK -> __unk_Q1612173113
+MKADAHOMGMK -> specialEnergyMin
 NCJAICEDBIH -> hasDynamicBarrier
 NEDABOMGJLM -> __unk_Q1557698926
 NJCLPPNHCPG -> __unk_Q1214151391
@@ -38,8 +38,12 @@ PGEMGNNBCCH -> __unk_Q98689952
 playType -> __unk_Q74004763
 
 ignored queries:
+  __unk_Q3316961398
   __unk_Q4278490035
   effectiveForTeam
+  elementMastery
+  specialProudSkillOpens
+  upgradedDescTextMapHash
 
 possible conflicts:
 

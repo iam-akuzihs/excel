@@ -21,12 +21,12 @@ KDDAEHDODNC -> __unk_Q4293014668
 KIJINBMBHGD -> __unk_Q2434952433
 KMGMKNNNMHK -> __unk_Q1459685539
 LALGCGCOAOB -> __unk_Q1557698926
-LBBPEDLCDPG -> __unk_Q1612173113
-LMKOLGFBOEN -> __exp_arkheType
+LBBPEDLCDPG -> specialEnergyMin
+LMKOLGFBOEN -> arkheType
 LODNCKMOEMH -> isRanged
-MDCLPFMJPIP -> __unk_Q2400524689
+MDCLPFMJPIP -> specialEnergyType
 MIANGNNHMGH -> __unk_Q1833985725
-NALCBKFLMKJ -> __unk_Q1923244247
+NALCBKFLMKJ -> specialEnergyMax
 NBHFPPPHPMI -> __unk_Q98689952
 NBJPKHBMNEL -> hpPercent
 OAPDAINJPLD -> __unk_Q2420834195
@@ -38,8 +38,12 @@ POMFGKMBOGM -> ignoreCDMinusRatio
 playType -> __unk_Q74004763
 
 ignored queries:
+  __unk_Q3316961398
   __unk_Q4278490035
   effectiveForTeam
+  elementMastery
+  specialProudSkillOpens
+  upgradedDescTextMapHash
 
 possible conflicts:
 

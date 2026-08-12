@@ -2,6 +2,7 @@ ABKMBPNJDDE -> isUnique
 ACIMIKEFPAE -> disableFilter
 ADLDGBEKECJ -> qualityType
 ADMECJKOPHN -> itemIcon
+AEGFJAJKJMH -> subType
 AFDGJFKDNCJ -> id
 AFPMFKDFKBH -> canFloat
 AGDCHCBAGFO -> propValue
@@ -41,7 +42,7 @@ CBKKCPNIBDF -> isEquip
 CBKPEKJLAFP -> costStamina
 CCECCMBJPCM -> controllerPathHash
 CDJLGLIHLMC -> hpBase
-CDKFLDLHCAD -> __exp_arkheType
+CDKFLDLHCAD -> arkheType
 CEAMDCMHKEC -> visionLevel
 CEBMMGCMIJM -> itemType
 CFAICKLGPDP -> forceCanDoSkill
@@ -58,6 +59,7 @@ CNFINPMELAA -> __unk_Q3180767004
 CNNCIEGEKAP -> roomSceneID
 CNPCNIGHGJJ -> icon
 COJCDGNJELK -> setID
+CPBJHAPDGJO -> countType
 CPFKAKJPJMN -> __exp_CNIPBNMIECC
 CPGKNJKKILL -> sourceTextList
 DAPKAPNJEAI -> setNeedNum
@@ -68,6 +70,7 @@ DDGIHKKKHDH -> finishConds
 DEAKBHANNBE -> __unk_Q2420834195
 DELBOOLKFAO -> type
 DFJLAINNBJP -> isHideLifeProudSkill
+DGAHCIHFPKE -> prevTalent
 DGIJCGLPDPI -> proudSkillGroupId
 DGMGGMHAGOA -> weaponPromoteId
 DIHNCHADNDH -> playGainEffect
@@ -94,12 +97,13 @@ EJLJNEBOOMP -> itemJsonName
 EKDNMOJMLCP -> durabilitySequence
 EKEBAJKDBDL -> avatarVisionAfterTextMapHash
 ELKKIAIGOBK -> id
+EMEIMKNAIMF -> mainCostItemId
 ENALFMDBBOO -> effectName
 ENJANOCGHOE -> inteeIconName
 EOCNJBDLDMK -> featureTagGroupID
 EOFMMMIJEAD -> isInvisibleReset
 EPBNMHEIAPF -> imageName
-FABLEKJMNGA -> __unk_Q1923244247
+FABLEKJMNGA -> specialEnergyMax
 FAGPIACCGJE -> setId
 FAJLAIAEOPE -> showOnlyUnlocked
 FANMPMGMEFO -> lifeEffectType
@@ -110,6 +114,7 @@ FEEGIEEHGOM -> stackLimit
 FIKKMMGPPHD -> comfort
 FJIJHOMDCAE -> combatConfigHash
 FJJHHKBDGBF -> destroyReturnMaterial
+FJLKNCKEKEB -> groupID
 FLEHOIGKBPG -> scoinCost
 FLKKKLHKMHO -> __unk_Q1459685539
 FLPLGOODGNO -> initialWeapon
@@ -188,7 +193,9 @@ IPNPPIGGOPB -> sideIconName
 JBJFIDPCEAG -> growCurve
 JCHPBJLBEMK -> animatorConfigPathHash
 JDJMHFKKGHH -> awakenTexture
+JFALAEEKFMI -> talentId
 JGHKBGKDJDK -> hpDrops
+JICDGOLKLNC -> rewardId
 JIEFGEDPAMG -> weaponType
 JILDGFDNKBM -> combatBGMLevel
 JIPJEMFCKAI -> openConfig
@@ -197,6 +204,7 @@ JJDAOIEBFGO -> cvKoreanTextMapHash
 JJMFCPHKOPD -> avatarId
 JJNPGPFNJHP -> propType
 JKBNGLFDMKI -> avatarConstellationBeforTextMapHash
+JKNPNKGCBCJ -> mainCostItemCount
 JKONECLHOKK -> blockLegoText
 JLDJMBNLCKF -> interactNameTextMapHash
 JNGBMJKIIGC -> filterConds
@@ -215,6 +223,7 @@ KJHOMLEIHKJ -> useOp
 KJMHANMHIFJ -> useParam
 KKANFJILIHA -> manekinPathHash
 KKJMBMPNPJH -> groupId
+KKNNJHJPIBN -> modelPath
 KLMNPAIFFGH -> avatarDetailTextMapHash
 KMBKFBCDDKC -> windSubHurt
 KMFOFBAABGL -> grassSubHurt
@@ -250,6 +259,7 @@ MJCAJBDFKCP -> useTarget
 MJJNIFIKOGN -> shareCDID
 MKBKKKGMDDG -> physicalSubHurt
 MKODHDBFBDO -> equipAffixId
+MLJNPMEFELN -> unlockWorldLevel
 NAAFENMFNPG -> hideWhenDontHave
 NALHEHOJMJM -> textList
 NBHFEHLAFHN -> hideNameInElementView
@@ -280,6 +290,7 @@ OGMGGHKLNDF -> globalValueKey
 OHELDEEPFNI -> equips
 OIMAMNIJEFL -> avatarAssocType
 OJIICILLMLH -> unlockMaxLevel
+OJMFHHGPGHG -> tagIDs
 OKBJBEMDFKD -> needMonitor
 OKNLEAMEKPD -> maxUseCount
 OKPKAMHJMJL -> leatherId
@@ -302,7 +313,7 @@ PFFEMAHALPG -> unlockDescTextMapHash
 PGDHPGJLONB -> __unk_Q3522047146
 PGEPICIANFN -> descTextMapHash
 PGGBIAAPEKB -> weaponBaseExp
-PHGMFIGKKOH -> __unk_Q2400524689
+PHGMFIGKKOH -> specialEnergyType
 PHGPBGBKGIJ -> __unk_Q98689952
 PIAFGOEJILG -> infoBirthDay
 PINMEPJOJHK -> avatarTitleTextMapHash
@@ -311,7 +322,7 @@ PJEBBGHNICG -> defenseBase
 PJELHADHEFE -> destroyRule
 PJGKNMIIDAM -> manekinMotionConfig
 PKGAMPEIDDP -> appendPropNum
-PKGHOMNHBIK -> __unk_Q1612173113
+PKGHOMNHBIK -> specialEnergyMin
 PLGBKCCEPDA -> gridStyle
 PMKNHKMHEIK -> isCombinableLight
 PNDDLJILOCK -> showPic
@@ -325,7 +336,13 @@ POMGFGAHIOJ -> bodyType
 PPCKMKGIIMP -> picPath
 
 ignored queries:
+  __unk_Q3316961398
   __unk_Q4278490035
+  color
+  descParamList
+  elementMastery
+  specialProudSkillOpens
+  upgradedDescTextMapHash
 
 possible conflicts:
 
