@@ -1,0 +1,101 @@
+[
+ {
+  "shopType": "SHOP_TYPE_RECOMMEND",
+  "icon": "UI_MallTabIcon_Recommend",
+  "showType": "ENTRANCE_TAB",
+  "order": 5,
+  "id": 1,
+  "nameTextMapHash": 1933917525,
+  "subTabList": [
+   6,
+   4,
+   5
+  ]
+ },
+ {
+  "shopType": "SHOP_TYPE_MCOIN",
+  "icon": "UI_MallTabIcon_Gemstone",
+  "showType": "ENTRANCE_RECHARGE",
+  "order": 1,
+  "id": 2,
+  "nameTextMapHash": 3963348389
+ },
+ {
+  "shopType": "SHOP_TYPE_PACKAGE",
+  "icon": "UI_MallTabIcon_GiftPackage",
+  "order": 3,
+  "id": 3,
+  "nameTextMapHash": 3019893205
+ },
+ {
+  "shopType": "SHOP_TYPE_PAIMON",
+  "icon": "UI_MallTabIcon_Commodity",
+  "showType": "ENTRANCE_TAB",
+  "order": 2,
+  "id": 4,
+  "nameTextMapHash": 2486793549,
+  "subTabList": [
+   2,
+   3,
+   1
+  ]
+ },
+ {
+  "shopType": "SHOP_TYPE_COSTUME",
+  "icon": "UI_MallTabIcon_Clothes",
+  "order": 4,
+  "id": 5,
+  "nameTextMapHash": 529128453
+ },
+ {
+  "shopType": "SHOP_TYPE_BEYOND_MCOIN",
+  "icon": "UI_Icon_UGCMall_Recharge",
+  "showType": "ENTRANCE_RECHARGE",
+  "order": 5,
+  "id": 1,
+  "nameTextMapHash": 1076374022
+ },
+ {
+  "shopType": "SHOP_TYPE_BEYOND_COSTUME",
+  "icon": "UI_Icon_UGCMall_Costume",
+  "order": 4,
+  "id": 2,
+  "nameTextMapHash": 925316006
+ },
+ {
+  "shopType": "SHOP_TYPE_BEYOND_FACE_PART",
+  "icon": "UI_Icon_UGCMall_Appearance",
+  "order": 3,
+  "id": 3,
+  "nameTextMapHash": 566739846,
+  "subTabList": [
+   31,
+   32,
+   33,
+   34,
+   35,
+   36
+  ]
+ },
+ {
+  "shopType": "SHOP_TYPE_BEYOND_EXCHANGE",
+  "icon": "UI_Icon_UGCMall_Exchange",
+  "order": 2,
+  "id": 4,
+  "nameTextMapHash": 649782246
+ },
+ {
+  "shopType": "SHOP_TYPE_BEYOND_RECOMMEND",
+  "icon": "UI_Icon_UGCMall_HotSale",
+  "order": 1,
+  "id": 5,
+  "nameTextMapHash": 791439302
+ },
+ {
+  "shopType": "SHOP_TYPE_BEYOND_RERUN",
+  "icon": "UI_Icon_UGCMall_Rerun",
+  "order": 2,
+  "id": 6,
+  "nameTextMapHash": 1325890486
+ }
+]

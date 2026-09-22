@@ -1,0 +1,49 @@
+[
+ {
+  "equipType": "EQUIP_RING",
+  "id": 1,
+  "lockType": "GENERAL_LOCK",
+  "FOJKNHLBAOO": [
+   30,
+   40,
+   41,
+   42,
+   43,
+   44,
+   45,
+   46
+  ]
+ },
+ {
+  "equipType": "EQUIP_DRESS",
+  "id": 2,
+  "lockType": "GENERAL_LOCK",
+  "FOJKNHLBAOO": [
+   20
+  ]
+ },
+ {
+  "equipType": "EQUIP_DRESS",
+  "id": 3,
+  "lockType": "GENERAL_LOCK",
+  "FOJKNHLBAOO": [
+   22
+  ]
+ },
+ {
+  "id": 4,
+  "lockType": "APPEND_FIGHT_PROP_PRECISE_LOCK"
+ },
+ {
+  "id": 5,
+  "lockType": "ANY_EQUIP_TYPE_ADD_PROP_GENERAL_LOCK",
+  "FOJKNHLBAOO": [
+   20,
+   22
+  ]
+ },
+ {
+  "id": 6,
+  "lockType": "DEFAULT_SCHEME_DISABLE_SWITCH"
+ }
+]

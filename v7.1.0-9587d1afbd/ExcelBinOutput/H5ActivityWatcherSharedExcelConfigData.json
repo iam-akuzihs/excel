@@ -1,0 +1,44 @@
+[
+ {
+  "id": 1900001,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_CLIENT_SUBSCRIBE_BEYOND_LEVEL",
+   "paramList": [
+    "",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 1
+ },
+ {
+  "id": 5116008,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
+   "paramList": [
+    "LevelAbility_Combat_Watcher_1:Watcher_StarSuperconductor_Monitor",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 1
+ },
+ {
+  "id": 5116009,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_COMBAT_CONFIG_COMMON",
+   "paramList": [
+    "LevelAbility_Combat_Watcher_1:Watcher_StarSwirlIce_Monitor",
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 1
+ }
+]

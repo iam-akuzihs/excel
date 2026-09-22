@@ -1,0 +1,31 @@
+[
+ {
+  "initStaminaValue": 100,
+  "scoreFormulaExponent": 0.345,
+  "scheduleId": 2010001,
+  "scoreFormulaOffset": 96.0,
+  "fireElementAdditionList": [
+   {
+    "range": [
+     0,
+     80
+    ]
+   },
+   {
+    "ratio": 30,
+    "range": [
+     80,
+     100
+    ]
+   },
+   {
+    "ratio": 50,
+    "range": [
+     100,
+     999
+    ]
+   }
+  ],
+  "pushTipsId": 6040
+ }
+]

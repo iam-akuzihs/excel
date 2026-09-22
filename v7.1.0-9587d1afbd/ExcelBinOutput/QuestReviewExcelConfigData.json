@@ -1,0 +1,98 @@
+[
+ {
+  "id": 1,
+  "CGPCOFBDIFP": [
+   {}
+  ]
+ },
+ {
+  "id": 2,
+  "GJHKONEAHPC": [
+   1,
+   2
+  ],
+  "CGPCOFBDIFP": [
+   {
+    "type": "QUEST_GLOBAL_VAR_EQ",
+    "param": "10004,1"
+   }
+  ]
+ },
+ {
+  "id": 75048,
+  "GJHKONEAHPC": [
+   75002
+  ],
+  "CGPCOFBDIFP": [
+   {
+    "type": "QUEST_GLOBAL_VAR_EQ",
+    "param": "7500204,1"
+   }
+  ]
+ },
+ {
+  "id": 75002,
+  "GJHKONEAHPC": [
+   75048
+  ],
+  "CGPCOFBDIFP": [
+   {
+    "type": "QUEST_GLOBAL_VAR_EQ",
+    "param": "7500203,1"
+   }
+  ]
+ },
+ {
+  "id": 75151,
+  "GJHKONEAHPC": [
+   75002,
+   75048
+  ],
+  "CGPCOFBDIFP": [
+   {
+    "type": "QUEST_GLOBAL_VAR_EQ",
+    "param": "7515101,1"
+   }
+  ]
+ },
+ {
+  "id": 60001,
+  "GJHKONEAHPC": [
+   6000101,
+   6000102
+  ],
+  "CGPCOFBDIFP": [
+   {
+    "type": "QUEST_GLOBAL_VAR_EQ",
+    "param": "60101,1"
+   }
+  ]
+ },
+ {
+  "id": 1503901,
+  "GJHKONEAHPC": [
+   150390101
+  ],
+  "CGPCOFBDIFP": [
+   {}
+  ]
+ },
+ {
+  "id": 1600001,
+  "GJHKONEAHPC": [
+   160000101
+  ],
+  "CGPCOFBDIFP": [
+   {}
+  ]
+ },
+ {
+  "id": 76132,
+  "GJHKONEAHPC": [
+   76132
+  ],
+  "CGPCOFBDIFP": [
+   {}
+  ]
+ }
+]

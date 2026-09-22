@@ -1,0 +1,53 @@
+[
+ {
+  "actionType": "OpenInfoPage",
+  "triggerType": "Loading",
+  "HBJCBMICNGP": "SGV_EnergyCaster_QRCode",
+  "id": 1,
+  "EKNAOCLCFJO": 2.0
+ },
+ {
+  "actionType": "ChangeCamera",
+  "triggerType": "Loading",
+  "HBJCBMICNGP": "SGV_EnergyCaster_Camera",
+  "id": 2,
+  "EKNAOCLCFJO": 2.0
+ },
+ {
+  "actionType": "TriggerAbility",
+  "abilityName": "SceneObj_Area_Fd_Property_Ani_Prop_EnergyCaster_Operator_01_CameraAim_Ability",
+  "triggerType": "Loading",
+  "HBJCBMICNGP": "SGV_EnergyCaster_Camera",
+  "id": 3,
+  "EKNAOCLCFJO": 2.0
+ },
+ {
+  "actionType": "TriggerAbility",
+  "abilityName": "SceneObj_Area_Fd_Property_Ani_Prop_EnergyCaster_Operator_01_CellClick_Ability",
+  "triggerType": "Clicking",
+  "HBJCBMICNGP": "SGV_EnergyCaster_Cell",
+  "id": 4
+ },
+ {
+  "actionType": "TriggerAbility",
+  "abilityName": "SceneObj_Area_Fd_Property_Ani_Prop_EnergyCaster_Operator_01_CellAim_Ability",
+  "triggerType": "Aiming",
+  "HBJCBMICNGP": "SGV_EnergyCaster_Cell",
+  "id": 5
+ },
+ {
+  "actionType": "TriggerAbility",
+  "abilityName": "SceneObj_Area_Fd_Property_Ani_Prop_EnergyCaster_Operator_01_CellExit_Ability",
+  "triggerType": "Exit",
+  "HBJCBMICNGP": "SGV_EnergyCaster_Cell",
+  "id": 6
+ },
+ {
+  "actionType": "TriggerAbility",
+  "abilityName": "SceneObj_Area_Fd_Property_Ani_Prop_EnergyCaster_Operator_01_QRCode_Ability",
+  "triggerType": "Loading",
+  "HBJCBMICNGP": "SGV_EnergyCaster_QRCode",
+  "id": 7,
+  "EKNAOCLCFJO": 2.0
+ }
+]

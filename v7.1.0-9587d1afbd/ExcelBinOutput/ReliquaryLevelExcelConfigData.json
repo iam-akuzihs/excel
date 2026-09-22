@@ -1,0 +1,8787 @@
+[
+ {
+  "level": 1,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 40.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.02
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 3.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.02
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 2.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.03
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.015
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.03
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.03
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.03
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 5.0
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.02
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.02
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.02
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.02
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.02
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.02
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.02
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.04
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.02
+   }
+  ]
+ },
+ {
+  "exp": 600,
+  "rank": 1,
+  "level": 1,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 129.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.031
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 8.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.031
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 20.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.039
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.021
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.042
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.035
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.024
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 12.6
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.031
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.031
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.031
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.031
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.031
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.031
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.031
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.039
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.045
+   }
+  ]
+ },
+ {
+  "exp": 750,
+  "rank": 1,
+  "level": 2,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 178.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.043
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 12.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.043
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 28.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.054
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.029
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.058
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.048
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.033
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 17.3
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.043
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.043
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.043
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.043
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.043
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.043
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.043
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.054
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.062
+   }
+  ]
+ },
+ {
+  "exp": 875,
+  "rank": 1,
+  "level": 3,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 227.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.055
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 15.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.055
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 35.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.069
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.037
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.074
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.061
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.043
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 22.1
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.055
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.055
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.055
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.055
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.055
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.055
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.055
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.069
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.079
+   }
+  ]
+ },
+ {
+  "exp": 1025,
+  "rank": 1,
+  "level": 4,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 275.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.067
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 18.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.067
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 43.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.084
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.045
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.09
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.075
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.052
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 26.9
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.067
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.067
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.067
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.067
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.067
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.067
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.067
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.084
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.096
+   }
+  ]
+ },
+ {
+  "exp": 1175,
+  "rank": 1,
+  "level": 5,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 324.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.079
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 21.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.079
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 50.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.099
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.053
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.105
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.088
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.061
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 31.6
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.079
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.079
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.079
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.079
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.079
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.079
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.079
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.099
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.113
+   }
+  ]
+ },
+ {
+  "exp": 1325,
+  "rank": 1,
+  "level": 6,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 373.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.091
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 24.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.091
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 58.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.114
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.061
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.121
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.101
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.07
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 36.4
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.091
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.091
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.091
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.091
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.091
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.091
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.091
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.114
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.13
+   }
+  ]
+ },
+ {
+  "exp": 1500,
+  "rank": 1,
+  "level": 7,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 422.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.103
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 27.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.103
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 65.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.129
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.069
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.137
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.114
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.079
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 41.1
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.103
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.103
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.103
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.103
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.103
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.103
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.103
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.129
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.147
+   }
+  ]
+ },
+ {
+  "exp": 1675,
+  "rank": 1,
+  "level": 8,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 470.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.115
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 31.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.115
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 73.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.143
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.076
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.153
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.127
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.088
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 45.9
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.115
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.115
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.115
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.115
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.115
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.115
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.115
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.143
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.164
+   }
+  ]
+ },
+ {
+  "exp": 1850,
+  "rank": 1,
+  "level": 9,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 519.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.127
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 34.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.127
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 80.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.158
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.084
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.169
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.141
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.097
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 50.6
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.127
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.127
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.127
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.127
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.127
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.127
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.127
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.158
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.181
+   }
+  ]
+ },
+ {
+  "exp": 2025,
+  "rank": 1,
+  "level": 10,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 568.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.138
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 37.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.138
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 88.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.173
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.092
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.185
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.154
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.107
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 55.4
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.138
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.138
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.138
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.138
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.138
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.138
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.138
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.173
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.198
+   }
+  ]
+ },
+ {
+  "exp": 2200,
+  "rank": 1,
+  "level": 11,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 617.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.15
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 40.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.15
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 96.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.188
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.1
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.201
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.167
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.116
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 60.1
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.15
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.15
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.15
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.15
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.15
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.15
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.15
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.188
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.215
+   }
+  ]
+ },
+ {
+  "exp": 2400,
+  "rank": 1,
+  "level": 12,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 665.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.162
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 43.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.162
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 103.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.203
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.108
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.216
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.18
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.125
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 64.9
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.162
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.162
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.162
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.162
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.162
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.162
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.162
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.203
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.232
+   }
+  ]
+ },
+ {
+  "exp": 2600,
+  "rank": 1,
+  "level": 13,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 714.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.174
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 46.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.174
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 111.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.218
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.116
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.232
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.193
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.134
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 69.7
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.174
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.174
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.174
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.174
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.174
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.174
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.174
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.218
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.249
+   }
+  ]
+ },
+ {
+  "exp": 3025,
+  "rank": 1,
+  "level": 14,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 763.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.186
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 50.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.186
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 118.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.233
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.124
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.248
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.207
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.143
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 74.4
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.186
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.186
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.186
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.186
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.186
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.186
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.186
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.233
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.266
+   }
+  ]
+ },
+ {
+  "exp": 3525,
+  "rank": 1,
+  "level": 15,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 812.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.198
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 53.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.198
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 126.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.247
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.132
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.264
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.22
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.152
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 79.2
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.198
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.198
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.198
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.198
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.198
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.198
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.198
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.247
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.283
+   }
+  ]
+ },
+ {
+  "exp": 4075,
+  "rank": 1,
+  "level": 16,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 860.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.21
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 56.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.21
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 133.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.262
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.14
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.28
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.233
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.161
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 83.9
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.21
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.21
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.21
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.21
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.21
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.21
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.21
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.262
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.3
+   }
+  ]
+ },
+ {
+  "exp": 1200,
+  "rank": 2,
+  "level": 1,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 258.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.042
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 17.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.042
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 40.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.052
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.028
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.056
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.047
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.032
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 16.8
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.042
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.042
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.042
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.042
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.042
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.042
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.042
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.052
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.053
+   }
+  ]
+ },
+ {
+  "exp": 1500,
+  "rank": 2,
+  "level": 2,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 331.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.054
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 22.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.054
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 51.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.067
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.036
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.072
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.06
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.041
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 21.5
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.054
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.054
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.054
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.054
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.054
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.054
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.054
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.067
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.067
+   }
+  ]
+ },
+ {
+  "exp": 1775,
+  "rank": 2,
+  "level": 3,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 404.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.066
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 26.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.066
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 63.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.082
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.044
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.088
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.073
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.051
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 26.3
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.066
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.066
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.066
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.066
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.066
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.066
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.066
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.082
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.082
+   }
+  ]
+ },
+ {
+  "exp": 2050,
+  "rank": 2,
+  "level": 4,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 478.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.078
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 31.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.078
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 74.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.097
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.052
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.104
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.086
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.06
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 31.1
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.078
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.078
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.078
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.078
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.078
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.078
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.078
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.097
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.097
+   }
+  ]
+ },
+ {
+  "exp": 2350,
+  "rank": 2,
+  "level": 5,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 551.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.09
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 36.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.09
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 85.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.112
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.06
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.119
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.099
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.069
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 35.8
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.09
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.09
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.09
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.09
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.09
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.09
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.09
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.112
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.112
+   }
+  ]
+ },
+ {
+  "exp": 2675,
+  "rank": 2,
+  "level": 6,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 624.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.101
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 41.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.101
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 97.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.127
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.068
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.135
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.113
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.078
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 40.6
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.101
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.101
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.101
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.101
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.101
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.101
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.101
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.127
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.127
+   }
+  ]
+ },
+ {
+  "exp": 3000,
+  "rank": 2,
+  "level": 7,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 697.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.113
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 45.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.113
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 108.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.142
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.076
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.151
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.126
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.087
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 45.3
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.113
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.113
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.113
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.113
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.113
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.113
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.113
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.142
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.142
+   }
+  ]
+ },
+ {
+  "exp": 3350,
+  "rank": 2,
+  "level": 8,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 770.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.125
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 50.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.125
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 119.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.156
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.083
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.167
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.139
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.096
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 50.1
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.125
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.125
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.125
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.125
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.125
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.125
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.125
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.156
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.157
+   }
+  ]
+ },
+ {
+  "exp": 3700,
+  "rank": 2,
+  "level": 9,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 843.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.137
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 55.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.137
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 131.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.171
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.091
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.183
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.152
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.105
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 54.8
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.137
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.137
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.137
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.137
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.137
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.137
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.137
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.171
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.172
+   }
+  ]
+ },
+ {
+  "exp": 4050,
+  "rank": 2,
+  "level": 10,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 916.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.149
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 60.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.149
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 142.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.186
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.099
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.199
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.166
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.115
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 59.6
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.149
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.149
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.149
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.149
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.149
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.149
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.149
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.186
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.186
+   }
+  ]
+ },
+ {
+  "exp": 4425,
+  "rank": 2,
+  "level": 11,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 989.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.161
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 64.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.161
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 153.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.201
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.107
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.214
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.179
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.124
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 64.3
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.161
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.161
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.161
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.161
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.161
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.161
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.161
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.201
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.201
+   }
+  ]
+ },
+ {
+  "exp": 4800,
+  "rank": 2,
+  "level": 12,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 1063.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.173
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 69.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.173
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 165.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.216
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.115
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.23
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.192
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.133
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 69.1
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.173
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.173
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.173
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.173
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.173
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.173
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.173
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.216
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.216
+   }
+  ]
+ },
+ {
+  "exp": 5200,
+  "rank": 2,
+  "level": 13,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 1136.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.185
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 74.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.185
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 176.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.231
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.123
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.246
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.205
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.142
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 73.9
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.185
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.185
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.185
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.185
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.185
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.185
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.185
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.231
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.231
+   }
+  ]
+ },
+ {
+  "exp": 6050,
+  "rank": 2,
+  "level": 14,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 1209.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.197
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 79.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.197
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 187.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.246
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.131
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.262
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.218
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.151
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 78.6
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.197
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.197
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.197
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.197
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.197
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.197
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.197
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.246
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.246
+   }
+  ]
+ },
+ {
+  "exp": 7050,
+  "rank": 2,
+  "level": 15,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 1282.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.208
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 83.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.208
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 199.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.261
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.139
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.278
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.232
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.16
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 83.4
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.208
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.208
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.208
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.208
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.208
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.208
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.208
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.261
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.261
+   }
+  ]
+ },
+ {
+  "exp": 8150,
+  "rank": 2,
+  "level": 16,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 1355.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.22
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 88.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.22
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 210.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.275
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.147
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.294
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.245
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.169
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 88.1
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.22
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.22
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.22
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.22
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.22
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.22
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.22
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.275
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.276
+   }
+  ]
+ },
+ {
+  "exp": 9400,
+  "rank": 2,
+  "level": 17,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 1428.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.232
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 93.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.232
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 221.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.29
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.155
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.31
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.258
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.179
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 92.9
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.232
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.232
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.232
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.232
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.232
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.232
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.232
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.29
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.291
+   }
+  ]
+ },
+ {
+  "exp": 10825,
+  "rank": 2,
+  "level": 18,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 1501.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.244
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 98.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.244
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 233.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.305
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.163
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.325
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.271
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.188
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 97.6
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.244
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.244
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.244
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.244
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.244
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.244
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.244
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.305
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.305
+   }
+  ]
+ },
+ {
+  "exp": 12425,
+  "rank": 2,
+  "level": 19,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 1575.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.256
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 103.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.256
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 244.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.32
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.171
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.341
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.284
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.197
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 102.4
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.256
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.256
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.256
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.256
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.256
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.256
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.256
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.32
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.32
+   }
+  ]
+ },
+ {
+  "exp": 14225,
+  "rank": 2,
+  "level": 20,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 1648.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.268
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 107.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.268
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 255.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.335
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.179
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.357
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.298
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.206
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 107.1
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.268
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.268
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.268
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.268
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.268
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.268
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.268
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.335
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.335
+   }
+  ]
+ },
+ {
+  "exp": 16275,
+  "rank": 2,
+  "level": 21,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 1721.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.28
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 112.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.28
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 267.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.35
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.187
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.373
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.311
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.215
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 111.9
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.28
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.28
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.28
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.28
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.28
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.28
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.28
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.35
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.35
+   }
+  ]
+ },
+ {
+  "exp": 1800,
+  "rank": 3,
+  "level": 1,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 430.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.052
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 28.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.052
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 67.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.066
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.035
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.07
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.058
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.04
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 21.0
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.052
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.052
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.052
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.052
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.052
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.052
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.052
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.066
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.06
+   }
+  ]
+ },
+ {
+  "exp": 2225,
+  "rank": 3,
+  "level": 2,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 552.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.067
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 36.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.067
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 86.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.084
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.045
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.09
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.075
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.052
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 26.9
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.067
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.067
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.067
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.067
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.067
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.067
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.067
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.084
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.077
+   }
+  ]
+ },
+ {
+  "exp": 2650,
+  "rank": 3,
+  "level": 3,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 674.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.082
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 44.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.082
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 104.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.103
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.055
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.11
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.091
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.063
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 32.9
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.082
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.082
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.082
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.082
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.082
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.082
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.082
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.103
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.094
+   }
+  ]
+ },
+ {
+  "exp": 3100,
+  "rank": 3,
+  "level": 4,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 796.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.097
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 52.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.097
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 123.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.121
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.065
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.129
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.108
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.075
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 38.8
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.097
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.097
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.097
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.097
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.097
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.097
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.097
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.121
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.111
+   }
+  ]
+ },
+ {
+  "exp": 3550,
+  "rank": 3,
+  "level": 5,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 918.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.112
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 60.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.112
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 142.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.14
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.075
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.149
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.124
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.086
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 44.8
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.112
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.112
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.112
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.112
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.112
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.112
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.112
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.14
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.128
+   }
+  ]
+ },
+ {
+  "exp": 4000,
+  "rank": 3,
+  "level": 6,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 1040.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.127
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 68.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.127
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 161.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.158
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.084
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.169
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.141
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.098
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 50.7
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.127
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.127
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.127
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.127
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.127
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.127
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.127
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.158
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.145
+   }
+  ]
+ },
+ {
+  "exp": 4500,
+  "rank": 3,
+  "level": 7,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 1162.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.142
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 76.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.142
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 180.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.177
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.094
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.189
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.157
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.109
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 56.7
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.142
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.142
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.142
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.142
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.142
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.142
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.142
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.177
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.162
+   }
+  ]
+ },
+ {
+  "exp": 5000,
+  "rank": 3,
+  "level": 8,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 1283.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.156
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 84.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.156
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 199.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.196
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.104
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.209
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.174
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.12
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 62.6
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.156
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.156
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.156
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.156
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.156
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.156
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.156
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.196
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.179
+   }
+  ]
+ },
+ {
+  "exp": 5525,
+  "rank": 3,
+  "level": 9,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 1405.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.171
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 91.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.171
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 218.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.214
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.114
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.228
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.19
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.132
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 68.5
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.171
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.171
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.171
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.171
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.171
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.171
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.171
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.214
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.196
+   }
+  ]
+ },
+ {
+  "exp": 6075,
+  "rank": 3,
+  "level": 10,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 1527.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.186
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 99.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.186
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 237.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.233
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.124
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.248
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.207
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.143
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 74.5
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.186
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.186
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.186
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.186
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.186
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.186
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.186
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.233
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.213
+   }
+  ]
+ },
+ {
+  "exp": 6625,
+  "rank": 3,
+  "level": 11,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 1649.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.201
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 107.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.201
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 256.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.251
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.134
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.268
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.223
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.155
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 80.4
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.201
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.201
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.201
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.201
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.201
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.201
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.201
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.251
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.23
+   }
+  ]
+ },
+ {
+  "exp": 7225,
+  "rank": 3,
+  "level": 12,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 1771.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.216
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 115.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.216
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 274.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.27
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.144
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.288
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.24
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.166
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 86.4
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.216
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.216
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.216
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.216
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.216
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.216
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.216
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.27
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.247
+   }
+  ]
+ },
+ {
+  "exp": 7825,
+  "rank": 3,
+  "level": 13,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 1893.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.231
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 123.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.231
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 293.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.288
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.154
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.308
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.256
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.178
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 92.3
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.231
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.231
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.231
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.231
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.231
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.231
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.231
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.288
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.264
+   }
+  ]
+ },
+ {
+  "exp": 9100,
+  "rank": 3,
+  "level": 14,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 2015.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.246
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 131.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.246
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 312.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.307
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.164
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.328
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.273
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.189
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 98.3
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.246
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.246
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.246
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.246
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.246
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.246
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.246
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.307
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.281
+   }
+  ]
+ },
+ {
+  "exp": 10550,
+  "rank": 3,
+  "level": 15,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 2137.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.261
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 139.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.261
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 331.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.326
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.174
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.347
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.289
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.2
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 104.2
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.261
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.261
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.261
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.261
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.261
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.261
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.261
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.326
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.298
+   }
+  ]
+ },
+ {
+  "exp": 12225,
+  "rank": 3,
+  "level": 16,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 2259.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.275
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 147.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.275
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 350.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.344
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.184
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.367
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.306
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.212
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 110.2
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.275
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.275
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.275
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.275
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.275
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.275
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.275
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.344
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.315
+   }
+  ]
+ },
+ {
+  "exp": 14100,
+  "rank": 3,
+  "level": 17,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 2380.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.29
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 155.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.29
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 369.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.363
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.193
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.387
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.322
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.223
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 116.1
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.29
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.29
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.29
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.29
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.29
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.29
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.29
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.363
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.332
+   }
+  ]
+ },
+ {
+  "exp": 16225,
+  "rank": 3,
+  "level": 18,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 2502.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.305
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 163.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.305
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 388.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.381
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.203
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.407
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.339
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.235
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 122.0
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.305
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.305
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.305
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.305
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.305
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.305
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.305
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.381
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.349
+   }
+  ]
+ },
+ {
+  "exp": 18625,
+  "rank": 3,
+  "level": 19,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 2624.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.32
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 171.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.32
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 407.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.4
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.213
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.427
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.355
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.246
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 128.0
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.32
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.32
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.32
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.32
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.32
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.32
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.32
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.4
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.366
+   }
+  ]
+ },
+ {
+  "exp": 21350,
+  "rank": 3,
+  "level": 20,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 2746.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.335
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 179.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.335
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 426.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.419
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.223
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.446
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.372
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.258
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 133.9
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.335
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.335
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.335
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.335
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.335
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.335
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.335
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.419
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.383
+   }
+  ]
+ },
+ {
+  "exp": 24400,
+  "rank": 3,
+  "level": 21,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 2868.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.35
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 187.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.35
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 444.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.437
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.233
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.466
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.389
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.269
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 139.9
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.35
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.35
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.35
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.35
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.35
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.35
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.35
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.437
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.4
+   }
+  ]
+ },
+ {
+  "exp": 2400,
+  "rank": 4,
+  "level": 1,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 645.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.063
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 42.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.063
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 100.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.079
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.042
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.084
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.07
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.048
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 25.2
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.063
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.063
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.063
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.063
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.063
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.063
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.063
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.079
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.068
+   }
+  ]
+ },
+ {
+  "exp": 2975,
+  "rank": 4,
+  "level": 2,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 828.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.081
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 54.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.081
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 128.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.101
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.054
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.108
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.09
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.062
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 32.3
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.081
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.081
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.081
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.081
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.081
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.081
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.081
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.101
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.087
+   }
+  ]
+ },
+ {
+  "exp": 3550,
+  "rank": 4,
+  "level": 3,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 1011.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.099
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 66.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.099
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 157.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.123
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.066
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.131
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.11
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.076
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 39.4
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.099
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.099
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.099
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.099
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.099
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.099
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.099
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.123
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.106
+   }
+  ]
+ },
+ {
+  "exp": 4125,
+  "rank": 4,
+  "level": 4,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 1194.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.116
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 78.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.116
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 185.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.146
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.078
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.155
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.129
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.09
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 46.6
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.116
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.116
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.116
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.116
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.116
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.116
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.116
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.146
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.125
+   }
+  ]
+ },
+ {
+  "exp": 4725,
+  "rank": 4,
+  "level": 5,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 1377.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.134
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 90.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.134
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 213.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.168
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.09
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.179
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.149
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.103
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 53.7
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.134
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.134
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.134
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.134
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.134
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.134
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.134
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.168
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.144
+   }
+  ]
+ },
+ {
+  "exp": 5350,
+  "rank": 4,
+  "level": 6,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 1559.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.152
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 102.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.152
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 242.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.19
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.101
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.203
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.169
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.117
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 60.8
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.152
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.152
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.152
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.152
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.152
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.152
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.152
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.19
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.163
+   }
+  ]
+ },
+ {
+  "exp": 6000,
+  "rank": 4,
+  "level": 7,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 1742.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.17
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 113.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.17
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 270.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.212
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.113
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.227
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.189
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.131
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 68.0
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.17
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.17
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.17
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.17
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.17
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.17
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.17
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.212
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.182
+   }
+  ]
+ },
+ {
+  "exp": 6675,
+  "rank": 4,
+  "level": 8,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 1925.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.188
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 125.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.188
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 298.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.235
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.125
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.25
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.209
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.144
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 75.1
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.188
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.188
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.188
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.188
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.188
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.188
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.188
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.235
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.201
+   }
+  ]
+ },
+ {
+  "exp": 7375,
+  "rank": 4,
+  "level": 9,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 2108.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.206
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 137.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.206
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 327.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.257
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.137
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.274
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.228
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.158
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 82.2
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.206
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.206
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.206
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.206
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.206
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.206
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.206
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.257
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.221
+   }
+  ]
+ },
+ {
+  "exp": 8100,
+  "rank": 4,
+  "level": 10,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 2291.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.223
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 149.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.223
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 355.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.279
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.149
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.298
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.248
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.172
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 89.4
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.223
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.223
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.223
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.223
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.223
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.223
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.223
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.279
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.24
+   }
+  ]
+ },
+ {
+  "exp": 8850,
+  "rank": 4,
+  "level": 11,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 2474.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.241
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 161.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.241
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 383.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.302
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.161
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.322
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.268
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.186
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 96.5
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.241
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.241
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.241
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.241
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.241
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.241
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.241
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.302
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.259
+   }
+  ]
+ },
+ {
+  "exp": 9625,
+  "rank": 4,
+  "level": 12,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 2657.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.259
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 173.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.259
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 412.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.324
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.173
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.345
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.288
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.199
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 103.6
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.259
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.259
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.259
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.259
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.259
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.259
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.259
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.324
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.278
+   }
+  ]
+ },
+ {
+  "exp": 10425,
+  "rank": 4,
+  "level": 13,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 2839.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.277
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 185.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.277
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 440.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.346
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.185
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.369
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.308
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.213
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 110.8
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.277
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.277
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.277
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.277
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.277
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.277
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.277
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.346
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.297
+   }
+  ]
+ },
+ {
+  "exp": 12125,
+  "rank": 4,
+  "level": 14,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 3022.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.295
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 197.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.295
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 468.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.368
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.197
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.393
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.328
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.227
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 117.9
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.295
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.295
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.295
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.295
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.295
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.295
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.295
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.368
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.316
+   }
+  ]
+ },
+ {
+  "exp": 14075,
+  "rank": 4,
+  "level": 15,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 3205.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.313
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 209.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.313
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 497.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.391
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.208
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.417
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.347
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.24
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 125.0
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.313
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.313
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.313
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.313
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.313
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.313
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.313
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.391
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.335
+   }
+  ]
+ },
+ {
+  "exp": 16300,
+  "rank": 4,
+  "level": 16,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 3388.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.33
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 221.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.33
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 525.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.413
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.22
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.441
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.367
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.254
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 132.2
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.33
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.33
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.33
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.33
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.33
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.33
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.33
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.413
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.354
+   }
+  ]
+ },
+ {
+  "exp": 18800,
+  "rank": 4,
+  "level": 17,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 3571.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.348
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 232.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.348
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 553.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.435
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.232
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.464
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.387
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.268
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 139.3
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.348
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.348
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.348
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.348
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.348
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.348
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.348
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.435
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.374
+   }
+  ]
+ },
+ {
+  "exp": 21650,
+  "rank": 4,
+  "level": 18,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 3754.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.366
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 244.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.366
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 582.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.458
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.244
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.488
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.407
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.282
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 146.4
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.366
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.366
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.366
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.366
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.366
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.366
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.366
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.458
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.393
+   }
+  ]
+ },
+ {
+  "exp": 24850,
+  "rank": 4,
+  "level": 19,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 3936.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.384
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 256.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.384
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 610.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.48
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.256
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.512
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.427
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.295
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 153.6
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.384
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.384
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.384
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.384
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.384
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.384
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.384
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.48
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.412
+   }
+  ]
+ },
+ {
+  "exp": 28450,
+  "rank": 4,
+  "level": 20,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 4119.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.402
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 268.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.402
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 638.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.502
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.268
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.536
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.446
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.309
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 160.7
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.402
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.402
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.402
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.402
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.402
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.402
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.402
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.502
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.431
+   }
+  ]
+ },
+ {
+  "exp": 32550,
+  "rank": 4,
+  "level": 21,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 4302.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.42
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 280.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.42
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 667.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.525
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.28
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.56
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.466
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.323
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 167.9
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.42
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.42
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.42
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.42
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.42
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.42
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.42
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.525
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.45
+   }
+  ]
+ },
+ {
+  "exp": 3000,
+  "rank": 5,
+  "level": 1,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 717.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.07
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 47.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.07
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 111.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.087
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.047
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.093
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.078
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.054
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 28.0
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.07
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.07
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.07
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.07
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.07
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.07
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.07
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.087
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.075
+   }
+  ]
+ },
+ {
+  "exp": 3725,
+  "rank": 5,
+  "level": 2,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 920.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.09
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 60.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.09
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 143.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.112
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.06
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.12
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.1
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.069
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 35.9
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.09
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.09
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.09
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.09
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.09
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.09
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.09
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.112
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.096
+   }
+  ]
+ },
+ {
+  "exp": 4425,
+  "rank": 5,
+  "level": 3,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 1123.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.11
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 73.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.11
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 174.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.137
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.073
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.146
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.122
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.084
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 43.8
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.11
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.11
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.11
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.11
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.11
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.11
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.11
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.137
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.118
+   }
+  ]
+ },
+ {
+  "exp": 5150,
+  "rank": 5,
+  "level": 4,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 1326.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.129
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 86.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.129
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 206.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.162
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.086
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.173
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.144
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.1
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 51.8
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.129
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.129
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.129
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.129
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.129
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.129
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.129
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.162
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.139
+   }
+  ]
+ },
+ {
+  "exp": 5900,
+  "rank": 5,
+  "level": 5,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 1530.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.149
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 100.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.149
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 237.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.186
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.099
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.199
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.166
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.115
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 59.7
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.149
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.149
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.149
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.149
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.149
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.149
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.149
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.186
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.16
+   }
+  ]
+ },
+ {
+  "exp": 6675,
+  "rank": 5,
+  "level": 6,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 1733.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.169
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 113.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.169
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 269.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.211
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.113
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.225
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.188
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.13
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 67.6
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.169
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.169
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.169
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.169
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.169
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.169
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.169
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.211
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.181
+   }
+  ]
+ },
+ {
+  "exp": 7500,
+  "rank": 5,
+  "level": 7,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 1936.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.189
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 126.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.189
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 300.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.236
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.126
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.252
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.21
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.145
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 75.5
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.189
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.189
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.189
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.189
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.189
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.189
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.189
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.236
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.203
+   }
+  ]
+ },
+ {
+  "exp": 8350,
+  "rank": 5,
+  "level": 8,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 2139.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.209
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 139.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.209
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 331.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.261
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.139
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.278
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.232
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.161
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 83.5
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.209
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.209
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.209
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.209
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.209
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.209
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.209
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.261
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.224
+   }
+  ]
+ },
+ {
+  "exp": 9225,
+  "rank": 5,
+  "level": 9,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 2342.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.228
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 152.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.228
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 363.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.286
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.152
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.305
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.254
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.176
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 91.4
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.228
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.228
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.228
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.228
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.228
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.228
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.228
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.286
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.245
+   }
+  ]
+ },
+ {
+  "exp": 10125,
+  "rank": 5,
+  "level": 10,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 2545.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.248
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 166.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.248
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 394.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.31
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.166
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.331
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.276
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.191
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 99.3
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.248
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.248
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.248
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.248
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.248
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.248
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.248
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.31
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.266
+   }
+  ]
+ },
+ {
+  "exp": 11050,
+  "rank": 5,
+  "level": 11,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 2749.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.268
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 179.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.268
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 426.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.335
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.179
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.357
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.298
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.206
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 107.2
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.268
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.268
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.268
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.268
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.268
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.268
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.268
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.335
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.288
+   }
+  ]
+ },
+ {
+  "exp": 12025,
+  "rank": 5,
+  "level": 12,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 2952.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.288
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 192.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.288
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 457.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.36
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.192
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.384
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.32
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.221
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 115.2
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.288
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.288
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.288
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.288
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.288
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.288
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.288
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.36
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.309
+   }
+  ]
+ },
+ {
+  "exp": 13025,
+  "rank": 5,
+  "level": 13,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 3155.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.308
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 205.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.308
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 489.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.385
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.205
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.41
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.342
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.237
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 123.1
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.308
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.308
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.308
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.308
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.308
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.308
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.308
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.385
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.33
+   }
+  ]
+ },
+ {
+  "exp": 15150,
+  "rank": 5,
+  "level": 14,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 3358.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.328
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 219.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.328
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 520.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.409
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.218
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.437
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.364
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.252
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 131.0
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.328
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.328
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.328
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.328
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.328
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.328
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.328
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.409
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.351
+   }
+  ]
+ },
+ {
+  "exp": 17600,
+  "rank": 5,
+  "level": 15,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 3561.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.347
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 232.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.347
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 552.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.434
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.232
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.463
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.386
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.267
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 138.9
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.347
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.347
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.347
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.347
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.347
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.347
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.347
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.434
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.373
+   }
+  ]
+ },
+ {
+  "exp": 20375,
+  "rank": 5,
+  "level": 16,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 3764.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.367
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 245.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.367
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 583.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.459
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.245
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.49
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.408
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.282
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 146.9
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.367
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.367
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.367
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.367
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.367
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.367
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.367
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.459
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.394
+   }
+  ]
+ },
+ {
+  "exp": 23500,
+  "rank": 5,
+  "level": 17,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 3967.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.387
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 258.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.387
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 615.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.484
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.258
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.516
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.43
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.298
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 154.8
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.387
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.387
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.387
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.387
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.387
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.387
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.387
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.484
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.415
+   }
+  ]
+ },
+ {
+  "exp": 27050,
+  "rank": 5,
+  "level": 18,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 4171.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.407
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 272.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.407
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 646.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.508
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.271
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.542
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.452
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.313
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 162.7
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.407
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.407
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.407
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.407
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.407
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.407
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.407
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.508
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.436
+   }
+  ]
+ },
+ {
+  "exp": 31050,
+  "rank": 5,
+  "level": 19,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 4374.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.427
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 285.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.427
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 678.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.533
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.284
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.569
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.474
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.328
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 170.6
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.427
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.427
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.427
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.427
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.427
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.427
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.427
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.533
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.458
+   }
+  ]
+ },
+ {
+  "exp": 35575,
+  "rank": 5,
+  "level": 20,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 4577.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.446
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 298.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.446
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 709.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.558
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.298
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.595
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.496
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.343
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 178.6
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.446
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.446
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.446
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.446
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.446
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.446
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.446
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.558
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.479
+   }
+  ]
+ },
+ {
+  "exp": 40675,
+  "rank": 5,
+  "level": 21,
+  "addProps": [
+   {
+    "propType": "FIGHT_PROP_HP",
+    "value": 4780.0
+   },
+   {
+    "propType": "FIGHT_PROP_HP_PERCENT",
+    "value": 0.466
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK",
+    "value": 311.0
+   },
+   {
+    "propType": "FIGHT_PROP_ATTACK_PERCENT",
+    "value": 0.466
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE",
+    "value": 741.0
+   },
+   {
+    "propType": "FIGHT_PROP_DEFENSE_PERCENT",
+    "value": 0.583
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL",
+    "value": 0.311
+   },
+   {
+    "propType": "FIGHT_PROP_CRITICAL_HURT",
+    "value": 0.622
+   },
+   {
+    "propType": "FIGHT_PROP_CHARGE_EFFICIENCY",
+    "value": 0.518
+   },
+   {
+    "propType": "FIGHT_PROP_HEAL_ADD",
+    "value": 0.359
+   },
+   {
+    "propType": "FIGHT_PROP_ELEMENT_MASTERY",
+    "value": 186.5
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_ADD_HURT",
+    "value": 0.466
+   },
+   {
+    "propType": "FIGHT_PROP_ELEC_ADD_HURT",
+    "value": 0.466
+   },
+   {
+    "propType": "FIGHT_PROP_WATER_ADD_HURT",
+    "value": 0.466
+   },
+   {
+    "propType": "FIGHT_PROP_WIND_ADD_HURT",
+    "value": 0.466
+   },
+   {
+    "propType": "FIGHT_PROP_ROCK_ADD_HURT",
+    "value": 0.466
+   },
+   {
+    "propType": "FIGHT_PROP_GRASS_ADD_HURT",
+    "value": 0.466
+   },
+   {
+    "propType": "FIGHT_PROP_ICE_ADD_HURT",
+    "value": 0.466
+   },
+   {
+    "propType": "FIGHT_PROP_PHYSICAL_ADD_HURT",
+    "value": 0.583
+   },
+   {
+    "propType": "FIGHT_PROP_FIRE_SUB_HURT",
+    "value": 0.5
+   }
+  ]
+ }
+]

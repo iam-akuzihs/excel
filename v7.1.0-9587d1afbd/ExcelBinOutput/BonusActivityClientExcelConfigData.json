@@ -1,0 +1,64 @@
+[
+ {
+  "id": 50001,
+  "bonusActivityType": "BONUS_XIANGLING",
+  "voiceIndexList": [
+   1000,
+   1001,
+   5001
+  ],
+  "avatarConfigId": 10000023,
+  "perfabPath": "ART/UI/Menus/Widget/Activity/Activity_GiveCharacter",
+  "unlockTipsTextMapHash": 3225904765,
+  "openPlayerLevel": 20
+ },
+ {
+  "questId": 394,
+  "id": 50002,
+  "bonusActivityType": "BONUS_BABALA",
+  "voiceIndexList": [
+   1000,
+   2002
+  ],
+  "avatarConfigId": 10000014,
+  "perfabPath": "ART/UI/Menus/Widget/Activity/Activity_GiveCharacter_Barbara",
+  "unlockTipsTextMapHash": 818002645,
+  "openPlayerLevel": 18
+ },
+ {
+  "id": 50003,
+  "bonusActivityType": "BONUS_KELAI",
+  "voiceIndexList": [
+   600002,
+   600003
+  ],
+  "avatarConfigId": 10000067,
+  "perfabPath": "ART/UI/Menus/Widget/Activity/Activity_GiveCharacter_Collei",
+  "unlockTipsTextMapHash": 684363645,
+  "openPlayerLevel": 20
+ },
+ {
+  "id": 50004,
+  "bonusActivityType": "BONUS_LINETTE",
+  "voiceIndexList": [
+   200001,
+   200001,
+   600002
+  ],
+  "MAPMDFDDONI": 33445,
+  "avatarConfigId": 10000083,
+  "perfabPath": "ART/UI/Menus/Widget/Activity/Activity_GiveCharacter_Linette",
+  "unlockTipsTextMapHash": 2906823181,
+  "openPlayerLevel": 10
+ },
+ {
+  "id": 50005,
+  "bonusActivityType": "BONUS_HEXENZIRKEL",
+  "unlockTipsTextMapHash": 91014741
+ },
+ {
+  "id": 50006,
+  "bonusActivityType": "BONUS_AQUARIUM",
+  "unlockTipsTextMapHash": 2454801293
+ }
+]

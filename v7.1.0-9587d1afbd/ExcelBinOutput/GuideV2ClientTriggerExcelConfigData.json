@@ -1,0 +1,208 @@
+[
+ {
+  "GBLEGFFCMCL": {
+   "parameter": [
+    "10888",
+    "",
+    "",
+    ""
+   ],
+   "type": "EnterDungeon"
+  },
+  "id": 1,
+  "guideName": "GuideTpsDefenseT"
+ },
+ {
+  "GBLEGFFCMCL": {
+   "parameter": [
+    "5334",
+    "",
+    "",
+    ""
+   ],
+   "type": "ActivityOpen"
+  },
+  "id": 2,
+  "guideName": "GuideTpsDefenseWave"
+ },
+ {
+  "GBLEGFFCMCL": {
+   "parameter": [
+    "SnezhnayaTrainMapPage",
+    "",
+    "",
+    ""
+   ],
+   "type": "ContextOpen"
+  },
+  "id": 3,
+  "guideName": "TRAIN_Guide_02"
+ },
+ {
+  "GBLEGFFCMCL": {
+   "parameter": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "id": 4,
+  "guideName": "TPS_Conflict_Detection"
+ },
+ {
+  "GBLEGFFCMCL": {
+   "parameter": [
+    "TpsMercenariesMainPage",
+    "",
+    "",
+    ""
+   ],
+   "type": "ContextOpen"
+  },
+  "id": 5,
+  "guideName": "TpsMercenaries"
+ },
+ {
+  "GBLEGFFCMCL": {
+   "parameter": [
+    "TpsGlassesPage",
+    "",
+    "",
+    ""
+   ],
+   "type": "ContextOpen"
+  },
+  "id": 6,
+  "guideName": "TPSWeaponSwap"
+ },
+ {
+  "GBLEGFFCMCL": {
+   "parameter": [
+    "TpsGlassesPage",
+    "",
+    "",
+    ""
+   ],
+   "type": "ContextOpen"
+  },
+  "id": 7,
+  "guideName": "TpsSettingGuide"
+ },
+ {
+  "GBLEGFFCMCL": {
+   "parameter": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "id": 8,
+  "guideName": "GuideAQSledDog"
+ },
+ {
+  "GBLEGFFCMCL": {
+   "parameter": [
+    "10965",
+    "",
+    "",
+    ""
+   ],
+   "type": "EnterDungeon"
+  },
+  "id": 9,
+  "guideName": "GuideActivityVineManRun01"
+ },
+ {
+  "GBLEGFFCMCL": {
+   "parameter": [
+    "10966",
+    "",
+    "",
+    ""
+   ],
+   "type": "EnterDungeon"
+  },
+  "id": 10,
+  "guideName": "GuideActivityVineManRun01"
+ },
+ {
+  "GBLEGFFCMCL": {
+   "parameter": [
+    "10967",
+    "",
+    "",
+    ""
+   ],
+   "type": "EnterDungeon"
+  },
+  "id": 11,
+  "guideName": "GuideActivityVineManRun01"
+ },
+ {
+  "GBLEGFFCMCL": {
+   "parameter": [
+    "10968",
+    "",
+    "",
+    ""
+   ],
+   "type": "EnterDungeon"
+  },
+  "id": 12,
+  "guideName": "GuideActivityVineManRun01"
+ },
+ {
+  "GBLEGFFCMCL": {
+   "parameter": [
+    "10969",
+    "",
+    "",
+    ""
+   ],
+   "type": "EnterDungeon"
+  },
+  "id": 13,
+  "guideName": "GuideActivityVineManRun01"
+ },
+ {
+  "GBLEGFFCMCL": {
+   "parameter": [
+    "OPEN_STATE_SNEZHNAYA_BOOK",
+    "",
+    "",
+    ""
+   ],
+   "type": "OpenState"
+  },
+  "id": 15,
+  "guideName": "GuideSnezBookNew01"
+ },
+ {
+  "GBLEGFFCMCL": {
+   "parameter": [
+    "OPEN_STATE_SNEZHNAYA_BOOK",
+    "",
+    "",
+    ""
+   ],
+   "type": "OpenState"
+  },
+  "id": 16,
+  "guideName": "GuideSnezBookNew02"
+ },
+ {
+  "GBLEGFFCMCL": {
+   "parameter": [
+    "OPEN_STATE_SNEZHNAYA_BOOK",
+    "",
+    "",
+    ""
+   ],
+   "type": "OpenState"
+  },
+  "id": 17,
+  "guideName": "GuideSnezBookNew03"
+ }
+]

@@ -1,0 +1,215 @@
+[
+ {
+  "attack": 10000,
+  "needChessLevel": 1,
+  "gearNameTextMapHash": 3286791978,
+  "gearID": 1,
+  "banDungeonList": [
+   7400
+  ],
+  "gadgetId": 70350281,
+  "initLevel": 1,
+  "attackSpeed": 4,
+  "buildCost": 500,
+  "demolitionRefund": 400,
+  "gearIconPath": "UI_Property_Prop_TowerWater",
+  "tagIconPath": "UI_TheatreMechanicus_TypeIcon_Water",
+  "attackRange": -1,
+  "descTextMapHash": 2373767751,
+  "gearShortNameTextMapHash": 4218483535
+ },
+ {
+  "attack": 10000,
+  "needChessLevel": 1,
+  "gearNameTextMapHash": 342560394,
+  "gearID": 2,
+  "banDungeonList": [
+   7400
+  ],
+  "gadgetId": 70350282,
+  "initLevel": 1,
+  "attackSpeed": 5,
+  "buildCost": 500,
+  "demolitionRefund": 400,
+  "gearIconPath": "UI_Property_Prop_TowerFire",
+  "tagIconPath": "UI_TheatreMechanicus_TypeIcon_Fire",
+  "attackRange": -1,
+  "descTextMapHash": 3642466031,
+  "gearShortNameTextMapHash": 1952969415
+ },
+ {
+  "attack": 10000,
+  "needChessLevel": 1,
+  "gearNameTextMapHash": 3473557114,
+  "gearID": 3,
+  "banDungeonList": [
+   7400
+  ],
+  "gadgetId": 70350285,
+  "initLevel": 1,
+  "attackSpeed": 4,
+  "buildCost": 500,
+  "demolitionRefund": 400,
+  "gearIconPath": "UI_Property_Prop_TowerElectric",
+  "tagIconPath": "UI_TheatreMechanicus_TypeIcon_Electric",
+  "attackRange": -1,
+  "descTextMapHash": 1697792919,
+  "gearShortNameTextMapHash": 2038388559
+ },
+ {
+  "attack": 10000,
+  "needChessLevel": 1,
+  "gearNameTextMapHash": 3447069242,
+  "gearID": 4,
+  "gadgetId": 70350284,
+  "initLevel": 1,
+  "isEnableRotate": true,
+  "attackSpeed": 4,
+  "buildCost": 500,
+  "demolitionRefund": 400,
+  "gearIconPath": "UI_Property_Prop_TowerWind",
+  "tagIconPath": "UI_TheatreMechanicus_TypeIcon_Wind",
+  "attackRange": -1,
+  "descTextMapHash": 2170373783,
+  "gearShortNameTextMapHash": 2147231255
+ },
+ {
+  "attack": 10000,
+  "needChessLevel": 1,
+  "gearNameTextMapHash": 4120440490,
+  "gearID": 5,
+  "banDungeonList": [
+   7400
+  ],
+  "gadgetId": 70350283,
+  "initLevel": 1,
+  "attackSpeed": 3,
+  "buildCost": 500,
+  "demolitionRefund": 400,
+  "gearIconPath": "UI_Property_Prop_TowerIce",
+  "tagIconPath": "UI_TheatreMechanicus_TypeIcon_Ice",
+  "attackRange": -1,
+  "descTextMapHash": 12603311,
+  "gearShortNameTextMapHash": 2564934543
+ },
+ {
+  "attack": 10000,
+  "needChessLevel": 1,
+  "gearNameTextMapHash": 2978307962,
+  "gearID": 6,
+  "banDungeonList": [
+   7400
+  ],
+  "gadgetId": 70350286,
+  "initLevel": 1,
+  "attackSpeed": 2,
+  "buildCost": 500,
+  "demolitionRefund": 400,
+  "gearIconPath": "UI_Property_Prop_TowerPhysics_01",
+  "tagIconPath": "UI_TheatreMechanicus_TypeIcon_Physics",
+  "attackRange": -1,
+  "descTextMapHash": 3533231791,
+  "gearShortNameTextMapHash": 1539894007
+ },
+ {
+  "attack": 10000,
+  "needChessLevel": 3,
+  "gearNameTextMapHash": 1739257538,
+  "gearID": 7,
+  "banDungeonList": [
+   7400
+  ],
+  "gadgetId": 70350298,
+  "initLevel": 1,
+  "attackSpeed": -1,
+  "buildCost": 100,
+  "NBGHCMJGFFE": -1,
+  "demolitionRefund": 80,
+  "gearIconPath": "UI_Property_Prop_TowerBoom_01",
+  "tagIconPath": "UI_TheatreMechanicus_TypeIcon_Auxiliary",
+  "attackRange": 4,
+  "descTextMapHash": 2142830159,
+  "gearShortNameTextMapHash": 3645063103
+ },
+ {
+  "attack": -1,
+  "needChessLevel": 1,
+  "gearNameTextMapHash": 3467622234,
+  "gearID": 8,
+  "banDungeonList": [
+   7400
+  ],
+  "gadgetId": 70350294,
+  "initLevel": 1,
+  "attackSpeed": -1,
+  "buildCost": 250,
+  "NBGHCMJGFFE": -1,
+  "demolitionRefund": 200,
+  "gearIconPath": "UI_Property_Prop_TowerAbsorber",
+  "tagIconPath": "UI_TheatreMechanicus_TypeIcon_Auxiliary",
+  "attackRange": 8,
+  "descTextMapHash": 2963875743,
+  "gearShortNameTextMapHash": 154867279
+ },
+ {
+  "attack": -1,
+  "needChessLevel": 4,
+  "gearNameTextMapHash": 291653330,
+  "gearID": 9,
+  "banDungeonList": [
+   7400
+  ],
+  "gadgetId": 70350303,
+  "initLevel": 1,
+  "attackSpeed": -1,
+  "buildCost": 250,
+  "NBGHCMJGFFE": -1,
+  "demolitionRefund": 200,
+  "gearIconPath": "UI_Property_Prop_TowerAbsorber_01",
+  "tagIconPath": "UI_TheatreMechanicus_TypeIcon_Auxiliary",
+  "attackRange": 6,
+  "descTextMapHash": 3730145071,
+  "gearShortNameTextMapHash": 1587652327
+ },
+ {
+  "attack": -1,
+  "needChessLevel": 2,
+  "gearNameTextMapHash": 845049634,
+  "gearID": 10,
+  "banDungeonList": [
+   7400
+  ],
+  "gadgetId": 70350299,
+  "initLevel": 1,
+  "attackSpeed": -1,
+  "buildCost": 100,
+  "NBGHCMJGFFE": -1,
+  "demolitionRefund": 80,
+  "gearIconPath": "UI_Property_Prop_TowerTrap_01",
+  "tagIconPath": "UI_TheatreMechanicus_TypeIcon_Auxiliary",
+  "attackRange": 4,
+  "descTextMapHash": 813323055,
+  "gearShortNameTextMapHash": 529867407
+ },
+ {
+  "attack": -1,
+  "needChessLevel": 2,
+  "gearNameTextMapHash": 4152900330,
+  "gearID": 11,
+  "banDungeonList": [
+   7400
+  ],
+  "gadgetId": 70350305,
+  "initLevel": 1,
+  "isEnableRotate": true,
+  "attackSpeed": -1,
+  "buildCost": 250,
+  "NBGHCMJGFFE": -1,
+  "demolitionRefund": 200,
+  "gearIconPath": "UI_Property_Ani_Prop_TowerRepel_01",
+  "tagIconPath": "UI_TheatreMechanicus_TypeIcon_Auxiliary",
+  "attackRange": 2,
+  "descTextMapHash": 2413551375,
+  "gearShortNameTextMapHash": 3766857271
+ }
+]

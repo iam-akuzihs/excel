@@ -1,0 +1,1614 @@
+[
+ {
+  "order": 1,
+  "descTextMapHash": 2649563919,
+  "refreshType": "BEYOND_BATTLE_PASS_MISSION_REFRESH_WEEKLY",
+  "rewardId": 1100000,
+  "id": 100000,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_BATTLE_PASS_ADD_WEEKLY_POINT",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 5000,
+  "isDisuse": true
+ },
+ {
+  "order": 2,
+  "addPoint": 500,
+  "descTextMapHash": 2257233439,
+  "refreshType": "BEYOND_BATTLE_PASS_MISSION_REFRESH_WEEKLY",
+  "KNFAAJLALLO": 1,
+  "id": 100001,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_DAILY_ENTER_HALL_OR_BEYOND_SCENE_CNT",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 1,
+  "isDisuse": true
+ },
+ {
+  "order": 3,
+  "addPoint": 500,
+  "descTextMapHash": 3128162255,
+  "refreshType": "BEYOND_BATTLE_PASS_MISSION_REFRESH_WEEKLY",
+  "KNFAAJLALLO": 1,
+  "id": 100002,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_DAILY_ENTER_HALL_OR_BEYOND_SCENE_CNT",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 2,
+  "isDisuse": true
+ },
+ {
+  "order": 4,
+  "addPoint": 500,
+  "descTextMapHash": 2530237223,
+  "refreshType": "BEYOND_BATTLE_PASS_MISSION_REFRESH_WEEKLY",
+  "KNFAAJLALLO": 1,
+  "id": 100003,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_DAILY_ENTER_HALL_OR_BEYOND_SCENE_CNT",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 3,
+  "isDisuse": true
+ },
+ {
+  "order": 5,
+  "addPoint": 1000,
+  "descTextMapHash": 2619169359,
+  "refreshType": "BEYOND_BATTLE_PASS_MISSION_REFRESH_WEEKLY",
+  "KNFAAJLALLO": 2,
+  "id": 100004,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_FINISH_PLAY_CNT_REACH",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 5,
+  "isDisuse": true
+ },
+ {
+  "order": 6,
+  "addPoint": 1000,
+  "descTextMapHash": 3417803367,
+  "refreshType": "BEYOND_BATTLE_PASS_MISSION_REFRESH_WEEKLY",
+  "KNFAAJLALLO": 2,
+  "id": 100005,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_FINISH_PLAY_CNT_REACH",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 10,
+  "isDisuse": true
+ },
+ {
+  "order": 7,
+  "addPoint": 1000,
+  "descTextMapHash": 2270399119,
+  "refreshType": "BEYOND_BATTLE_PASS_MISSION_REFRESH_WEEKLY",
+  "KNFAAJLALLO": 2,
+  "id": 100006,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_FINISH_PLAY_CNT_REACH",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 15,
+  "isDisuse": true
+ },
+ {
+  "order": 8,
+  "addPoint": 500,
+  "descTextMapHash": 4148962919,
+  "refreshType": "BEYOND_BATTLE_PASS_MISSION_REFRESH_WEEKLY",
+  "id": 100007,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_FINISH_PLAY_IN_DIFFERENT_LEVEL_CNT_REACH",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 3,
+  "isDisuse": true
+ },
+ {
+  "order": 9,
+  "addPoint": 1000,
+  "scheduleId": 6000,
+  "descTextMapHash": 1414877087,
+  "id": 100008,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_MULTIPLAYER_FINISH_PLAY_CNT_REACH",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 5,
+  "isDisuse": true
+ },
+ {
+  "order": 10,
+  "addPoint": 1000,
+  "scheduleId": 6000,
+  "descTextMapHash": 3047994311,
+  "id": 100009,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_FINISH_BEYOND_LEVEL_ACHIEVEMENT_CNT",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 5,
+  "isDisuse": true
+ },
+ {
+  "order": 11,
+  "addPoint": 2000,
+  "scheduleId": 6000,
+  "descTextMapHash": 802905023,
+  "id": 100010,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_TIER_SCORE_REACH",
+   "paramList": [
+    "1300",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 1,
+  "isDisuse": true
+ },
+ {
+  "order": 12,
+  "addPoint": 2000,
+  "scheduleId": 6000,
+  "descTextMapHash": 447768215,
+  "id": 100011,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_RANKING_LIST_REACH_PERCENTAGE_OR_RANK",
+   "paramList": [
+    "25",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 1,
+  "isDisuse": true
+ },
+ {
+  "order": 13,
+  "addPoint": 2000,
+  "scheduleId": 6000,
+  "descTextMapHash": 4039993343,
+  "id": 100012,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_DO_BEYOND_GACHA",
+   "paramList": [
+    "1000,2000",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 50,
+  "isDisuse": true
+ },
+ {
+  "order": 14,
+  "AEJKKNKJLDF": true,
+  "descTextMapHash": 1406203751,
+  "refreshType": "BEYOND_BATTLE_PASS_MISSION_REFRESH_WEEKLY",
+  "rewardId": 1100000,
+  "id": 100013,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_BATTLE_PASS_ADD_WEEKLY_POINT",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 5000,
+  "isDisuse": true
+ },
+ {
+  "order": 57,
+  "addPoint": 500,
+  "descTextMapHash": 3881990895,
+  "refreshType": "BEYOND_BATTLE_PASS_MISSION_REFRESH_WEEKLY",
+  "KNFAAJLALLO": 3,
+  "id": 100014,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_DAILY_ENTER_HALL_OR_BEYOND_SCENE_CNT",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 1
+ },
+ {
+  "order": 58,
+  "addPoint": 500,
+  "descTextMapHash": 4136069863,
+  "refreshType": "BEYOND_BATTLE_PASS_MISSION_REFRESH_WEEKLY",
+  "KNFAAJLALLO": 3,
+  "id": 100015,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_DAILY_ENTER_HALL_OR_BEYOND_SCENE_CNT",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 2
+ },
+ {
+  "order": 59,
+  "addPoint": 500,
+  "descTextMapHash": 1589124767,
+  "refreshType": "BEYOND_BATTLE_PASS_MISSION_REFRESH_WEEKLY",
+  "KNFAAJLALLO": 3,
+  "id": 100016,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_DAILY_ENTER_HALL_OR_BEYOND_SCENE_CNT",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 3
+ },
+ {
+  "order": 63,
+  "addPoint": 1000,
+  "descTextMapHash": 3152565127,
+  "refreshType": "BEYOND_BATTLE_PASS_MISSION_REFRESH_WEEKLY",
+  "KNFAAJLALLO": 4,
+  "id": 100017,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_FINISH_PLAY_CNT_REACH",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 5,
+  "isDisuse": true
+ },
+ {
+  "order": 64,
+  "addPoint": 1000,
+  "descTextMapHash": 3659439719,
+  "refreshType": "BEYOND_BATTLE_PASS_MISSION_REFRESH_WEEKLY",
+  "KNFAAJLALLO": 4,
+  "id": 100018,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_FINISH_PLAY_CNT_REACH",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 10,
+  "isDisuse": true
+ },
+ {
+  "order": 65,
+  "addPoint": 1000,
+  "descTextMapHash": 266720055,
+  "refreshType": "BEYOND_BATTLE_PASS_MISSION_REFRESH_WEEKLY",
+  "KNFAAJLALLO": 4,
+  "id": 100019,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_FINISH_PLAY_CNT_REACH",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 15,
+  "isDisuse": true
+ },
+ {
+  "order": 66,
+  "addPoint": 500,
+  "descTextMapHash": 784023519,
+  "refreshType": "BEYOND_BATTLE_PASS_MISSION_REFRESH_WEEKLY",
+  "id": 100020,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_FINISH_PLAY_IN_DIFFERENT_LEVEL_CNT_REACH",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 3
+ },
+ {
+  "order": 22,
+  "scheduleId": 6100,
+  "descTextMapHash": 2526886583,
+  "rewardId": 1100001,
+  "id": 100021,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_DAILY_ENTER_HALL_OR_BEYOND_SCENE_CNT",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 1
+ },
+ {
+  "order": 23,
+  "addPoint": 1000,
+  "scheduleId": 6100,
+  "descTextMapHash": 4122753991,
+  "id": 100022,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_MULTIPLAYER_FINISH_PLAY_CNT_REACH",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 5
+ },
+ {
+  "order": 24,
+  "addPoint": 1000,
+  "scheduleId": 6100,
+  "descTextMapHash": 2908714671,
+  "id": 100023,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_FINISH_BEYOND_LEVEL_ACHIEVEMENT_CNT",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 5
+ },
+ {
+  "order": 25,
+  "addPoint": 2000,
+  "scheduleId": 6100,
+  "descTextMapHash": 3620146991,
+  "id": 100024,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_TIER_SCORE_REACH",
+   "paramList": [
+    "1300",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 1
+ },
+ {
+  "order": 26,
+  "addPoint": 2000,
+  "scheduleId": 6100,
+  "descTextMapHash": 2658237303,
+  "id": 100025,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_RANKING_LIST_REACH_PERCENTAGE_OR_RANK",
+   "paramList": [
+    "25",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 1
+ },
+ {
+  "order": 27,
+  "addPoint": 2000,
+  "scheduleId": 6100,
+  "descTextMapHash": 3526020807,
+  "id": 100026,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_DO_BEYOND_GACHA",
+   "paramList": [
+    "1000,2000",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 30
+ },
+ {
+  "order": 28,
+  "scheduleId": 6200,
+  "descTextMapHash": 1928649479,
+  "rewardId": 1100002,
+  "id": 100027,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_DAILY_ENTER_HALL_OR_BEYOND_SCENE_CNT",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 1
+ },
+ {
+  "order": 29,
+  "addPoint": 1000,
+  "scheduleId": 6200,
+  "descTextMapHash": 4106377743,
+  "id": 100028,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_MULTIPLAYER_FINISH_PLAY_CNT_REACH",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 5
+ },
+ {
+  "order": 30,
+  "addPoint": 1000,
+  "scheduleId": 6200,
+  "descTextMapHash": 3542727231,
+  "id": 100029,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_FINISH_BEYOND_LEVEL_ACHIEVEMENT_CNT",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 5
+ },
+ {
+  "order": 31,
+  "addPoint": 2000,
+  "scheduleId": 6200,
+  "descTextMapHash": 1641350783,
+  "id": 100030,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_TIER_SCORE_REACH",
+   "paramList": [
+    "1300",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 1
+ },
+ {
+  "order": 32,
+  "addPoint": 2000,
+  "scheduleId": 6200,
+  "descTextMapHash": 3805203447,
+  "id": 100031,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_RANKING_LIST_REACH_PERCENTAGE_OR_RANK",
+   "paramList": [
+    "25",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 1
+ },
+ {
+  "order": 33,
+  "addPoint": 2000,
+  "scheduleId": 6200,
+  "descTextMapHash": 1732968351,
+  "id": 100032,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_DO_BEYOND_GACHA",
+   "paramList": [
+    "1000,2000",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 30
+ },
+ {
+  "order": 34,
+  "scheduleId": 6300,
+  "descTextMapHash": 1619262415,
+  "rewardId": 1100003,
+  "id": 100033,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_DAILY_ENTER_HALL_OR_BEYOND_SCENE_CNT",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 1
+ },
+ {
+  "order": 35,
+  "addPoint": 1000,
+  "scheduleId": 6300,
+  "descTextMapHash": 2568459879,
+  "id": 100034,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_MULTIPLAYER_FINISH_PLAY_CNT_REACH",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 5
+ },
+ {
+  "order": 36,
+  "addPoint": 1000,
+  "scheduleId": 6300,
+  "descTextMapHash": 854932031,
+  "id": 100035,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_FINISH_BEYOND_LEVEL_ACHIEVEMENT_CNT",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 5
+ },
+ {
+  "order": 37,
+  "addPoint": 2000,
+  "scheduleId": 6300,
+  "descTextMapHash": 2681723535,
+  "id": 100036,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_TIER_SCORE_REACH",
+   "paramList": [
+    "1300",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 1
+ },
+ {
+  "order": 38,
+  "addPoint": 2000,
+  "scheduleId": 6300,
+  "descTextMapHash": 3667253775,
+  "id": 100037,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_RANKING_LIST_REACH_PERCENTAGE_OR_RANK",
+   "paramList": [
+    "25",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 1
+ },
+ {
+  "order": 39,
+  "addPoint": 2000,
+  "scheduleId": 6300,
+  "descTextMapHash": 4032718751,
+  "id": 100038,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_DO_BEYOND_GACHA",
+   "paramList": [
+    "1000,2000",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 30
+ },
+ {
+  "order": 40,
+  "scheduleId": 6400,
+  "descTextMapHash": 1990549319,
+  "rewardId": 1100004,
+  "id": 100039,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_DAILY_ENTER_HALL_OR_BEYOND_SCENE_CNT",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 1
+ },
+ {
+  "order": 41,
+  "addPoint": 1000,
+  "scheduleId": 6400,
+  "descTextMapHash": 3753284223,
+  "id": 100040,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_MULTIPLAYER_FINISH_PLAY_CNT_REACH",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 5
+ },
+ {
+  "order": 42,
+  "addPoint": 1000,
+  "scheduleId": 6400,
+  "descTextMapHash": 3517869623,
+  "id": 100041,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_FINISH_BEYOND_LEVEL_ACHIEVEMENT_CNT",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 5
+ },
+ {
+  "order": 43,
+  "addPoint": 2000,
+  "scheduleId": 6400,
+  "descTextMapHash": 1874244455,
+  "id": 100042,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_TIER_SCORE_REACH",
+   "paramList": [
+    "1300",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 1
+ },
+ {
+  "order": 44,
+  "addPoint": 2000,
+  "scheduleId": 6400,
+  "descTextMapHash": 1069689855,
+  "id": 100043,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_RANKING_LIST_REACH_PERCENTAGE_OR_RANK",
+   "paramList": [
+    "25",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 1
+ },
+ {
+  "order": 45,
+  "addPoint": 2000,
+  "scheduleId": 6400,
+  "descTextMapHash": 1901325247,
+  "id": 100044,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_DO_BEYOND_GACHA",
+   "paramList": [
+    "1000,2000",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 30
+ },
+ {
+  "order": 46,
+  "scheduleId": 6500,
+  "descTextMapHash": 479855551,
+  "rewardId": 1100005,
+  "id": 100045,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_DAILY_ENTER_HALL_OR_BEYOND_SCENE_CNT",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 1
+ },
+ {
+  "order": 47,
+  "addPoint": 1000,
+  "scheduleId": 6500,
+  "descTextMapHash": 3867073511,
+  "id": 100046,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_MULTIPLAYER_FINISH_PLAY_CNT_REACH",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 5
+ },
+ {
+  "order": 48,
+  "addPoint": 1000,
+  "scheduleId": 6500,
+  "descTextMapHash": 254727783,
+  "id": 100047,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_FINISH_BEYOND_LEVEL_ACHIEVEMENT_CNT",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 5
+ },
+ {
+  "order": 49,
+  "addPoint": 2000,
+  "scheduleId": 6500,
+  "descTextMapHash": 238861855,
+  "id": 100048,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_TIER_SCORE_REACH",
+   "paramList": [
+    "1300",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 1
+ },
+ {
+  "order": 50,
+  "addPoint": 2000,
+  "scheduleId": 6500,
+  "descTextMapHash": 2077857551,
+  "id": 100049,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_RANKING_LIST_REACH_PERCENTAGE_OR_RANK",
+   "paramList": [
+    "25",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 1
+ },
+ {
+  "order": 51,
+  "addPoint": 2000,
+  "scheduleId": 6500,
+  "descTextMapHash": 559610615,
+  "id": 100050,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_DO_BEYOND_GACHA",
+   "paramList": [
+    "1000,2000",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 30
+ },
+ {
+  "order": 15,
+  "AEJKKNKJLDF": true,
+  "descTextMapHash": 2560627375,
+  "refreshType": "BEYOND_BATTLE_PASS_MISSION_REFRESH_WEEKLY",
+  "rewardId": 1100000,
+  "KNFAAJLALLO": 5,
+  "PGAAIGHMHAF": true,
+  "id": 100051,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_BATTLE_PASS_ADD_WEEKLY_POINT",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 1000
+ },
+ {
+  "order": 16,
+  "AEJKKNKJLDF": true,
+  "descTextMapHash": 4088772143,
+  "refreshType": "BEYOND_BATTLE_PASS_MISSION_REFRESH_WEEKLY",
+  "rewardId": 1100000,
+  "KNFAAJLALLO": 5,
+  "PGAAIGHMHAF": true,
+  "id": 100052,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_BATTLE_PASS_ADD_WEEKLY_POINT",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 2000
+ },
+ {
+  "order": 17,
+  "AEJKKNKJLDF": true,
+  "descTextMapHash": 2492858207,
+  "refreshType": "BEYOND_BATTLE_PASS_MISSION_REFRESH_WEEKLY",
+  "rewardId": 1100000,
+  "KNFAAJLALLO": 5,
+  "PGAAIGHMHAF": true,
+  "id": 100053,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_BATTLE_PASS_ADD_WEEKLY_POINT",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 3000
+ },
+ {
+  "order": 18,
+  "AEJKKNKJLDF": true,
+  "descTextMapHash": 3472813639,
+  "refreshType": "BEYOND_BATTLE_PASS_MISSION_REFRESH_WEEKLY",
+  "rewardId": 1100000,
+  "KNFAAJLALLO": 5,
+  "PGAAIGHMHAF": true,
+  "id": 100054,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_BATTLE_PASS_ADD_WEEKLY_POINT",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 4000
+ },
+ {
+  "order": 19,
+  "AEJKKNKJLDF": true,
+  "descTextMapHash": 820495103,
+  "refreshType": "BEYOND_BATTLE_PASS_MISSION_REFRESH_WEEKLY",
+  "rewardId": 1100000,
+  "KNFAAJLALLO": 5,
+  "PGAAIGHMHAF": true,
+  "id": 100055,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_BATTLE_PASS_ADD_WEEKLY_POINT",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 5000
+ },
+ {
+  "order": 67,
+  "scheduleId": 6600,
+  "descTextMapHash": 1466437567,
+  "rewardId": 1100006,
+  "id": 100056,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_DAILY_ENTER_HALL_OR_BEYOND_SCENE_CNT",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 1
+ },
+ {
+  "order": 68,
+  "addPoint": 1000,
+  "scheduleId": 6600,
+  "descTextMapHash": 1605790343,
+  "id": 100057,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_MULTIPLAYER_FINISH_PLAY_CNT_REACH",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 5
+ },
+ {
+  "order": 69,
+  "addPoint": 1000,
+  "scheduleId": 6600,
+  "descTextMapHash": 3699256967,
+  "id": 100058,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_FINISH_BEYOND_LEVEL_ACHIEVEMENT_CNT",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 5
+ },
+ {
+  "order": 70,
+  "addPoint": 2000,
+  "scheduleId": 6600,
+  "descTextMapHash": 2399383071,
+  "id": 100059,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_TIER_SCORE_REACH",
+   "paramList": [
+    "1300",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 1
+ },
+ {
+  "order": 71,
+  "addPoint": 2000,
+  "scheduleId": 6600,
+  "descTextMapHash": 897591975,
+  "id": 100060,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_RANKING_LIST_REACH_PERCENTAGE_OR_RANK",
+   "paramList": [
+    "25",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 1
+ },
+ {
+  "order": 72,
+  "addPoint": 2000,
+  "scheduleId": 6600,
+  "descTextMapHash": 2808545815,
+  "id": 100061,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_DO_BEYOND_GACHA",
+   "paramList": [
+    "1000,2000",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 30
+ },
+ {
+  "order": 73,
+  "scheduleId": 6700,
+  "descTextMapHash": 3690513375,
+  "rewardId": 1100007,
+  "id": 100062,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_DAILY_ENTER_HALL_OR_BEYOND_SCENE_CNT",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 1
+ },
+ {
+  "order": 74,
+  "addPoint": 1000,
+  "scheduleId": 6700,
+  "descTextMapHash": 3733392007,
+  "id": 100063,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_MULTIPLAYER_FINISH_PLAY_CNT_REACH",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 5
+ },
+ {
+  "order": 75,
+  "addPoint": 1000,
+  "scheduleId": 6700,
+  "descTextMapHash": 4195075663,
+  "id": 100064,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_FINISH_BEYOND_LEVEL_ACHIEVEMENT_CNT",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 5
+ },
+ {
+  "order": 76,
+  "addPoint": 2000,
+  "scheduleId": 6700,
+  "descTextMapHash": 694851407,
+  "id": 100065,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_TIER_SCORE_REACH",
+   "paramList": [
+    "1300",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 1
+ },
+ {
+  "order": 77,
+  "addPoint": 2000,
+  "scheduleId": 6700,
+  "descTextMapHash": 3157397143,
+  "id": 100066,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_RANKING_LIST_REACH_PERCENTAGE_OR_RANK",
+   "paramList": [
+    "25",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 1
+ },
+ {
+  "order": 78,
+  "addPoint": 2000,
+  "scheduleId": 6700,
+  "descTextMapHash": 499987999,
+  "id": 100067,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_DO_BEYOND_GACHA",
+   "paramList": [
+    "1000,2000",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 30
+ },
+ {
+  "order": 92,
+  "scheduleId": 7000,
+  "descTextMapHash": 1667409767,
+  "rewardId": 1100008,
+  "id": 100068,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_DAILY_ENTER_HALL_OR_BEYOND_SCENE_CNT",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 1,
+  "isDisuse": true
+ },
+ {
+  "order": 80,
+  "addPoint": 1000,
+  "scheduleId": 7000,
+  "descTextMapHash": 3891003383,
+  "id": 100070,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_MULTIPLAYER_FINISH_PLAY_CNT_REACH",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 5
+ },
+ {
+  "order": 81,
+  "addPoint": 1000,
+  "scheduleId": 7000,
+  "descTextMapHash": 2807628543,
+  "id": 100071,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_FINISH_BEYOND_LEVEL_ACHIEVEMENT_CNT",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 5
+ },
+ {
+  "order": 82,
+  "addPoint": 2000,
+  "scheduleId": 7000,
+  "descTextMapHash": 3982286583,
+  "id": 100072,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_TIER_SCORE_REACH",
+   "paramList": [
+    "1300",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 1
+ },
+ {
+  "order": 83,
+  "addPoint": 2000,
+  "scheduleId": 7000,
+  "descTextMapHash": 388082311,
+  "id": 100073,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_RANKING_LIST_REACH_PERCENTAGE_OR_RANK",
+   "paramList": [
+    "25",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 1
+ },
+ {
+  "order": 84,
+  "addPoint": 2000,
+  "scheduleId": 7000,
+  "descTextMapHash": 3575352271,
+  "id": 100074,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_DO_BEYOND_GACHA",
+   "paramList": [
+    "1000,2000",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 30
+ },
+ {
+  "order": 85,
+  "addPoint": 1000,
+  "descTextMapHash": 1607234223,
+  "refreshType": "BEYOND_BATTLE_PASS_MISSION_REFRESH_WEEKLY",
+  "KNFAAJLALLO": 6,
+  "id": 100075,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_FINISH_PLAY_CNT_REACH",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 5,
+  "isDisuse": true
+ },
+ {
+  "order": 86,
+  "addPoint": 1000,
+  "descTextMapHash": 554489815,
+  "refreshType": "BEYOND_BATTLE_PASS_MISSION_REFRESH_WEEKLY",
+  "KNFAAJLALLO": 6,
+  "id": 100076,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_FINISH_PLAY_CNT_REACH",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 10,
+  "isDisuse": true
+ },
+ {
+  "order": 87,
+  "addPoint": 1000,
+  "descTextMapHash": 4292378495,
+  "refreshType": "BEYOND_BATTLE_PASS_MISSION_REFRESH_WEEKLY",
+  "KNFAAJLALLO": 6,
+  "id": 100077,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_FINISH_PLAY_CNT_REACH",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 15,
+  "isDisuse": true
+ },
+ {
+  "order": 88,
+  "addPoint": 800,
+  "descTextMapHash": 2404309727,
+  "refreshType": "BEYOND_BATTLE_PASS_MISSION_REFRESH_WEEKLY",
+  "KNFAAJLALLO": 7,
+  "id": 100078,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_TOTAL_PLAY_TIME_REACH",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 20,
+  "isDisuse": true
+ },
+ {
+  "order": 89,
+  "addPoint": 800,
+  "descTextMapHash": 2474881783,
+  "refreshType": "BEYOND_BATTLE_PASS_MISSION_REFRESH_WEEKLY",
+  "KNFAAJLALLO": 7,
+  "id": 100079,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_TOTAL_PLAY_TIME_REACH",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 40,
+  "isDisuse": true
+ },
+ {
+  "order": 90,
+  "addPoint": 800,
+  "descTextMapHash": 2131002895,
+  "refreshType": "BEYOND_BATTLE_PASS_MISSION_REFRESH_WEEKLY",
+  "KNFAAJLALLO": 7,
+  "id": 100080,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_TOTAL_PLAY_TIME_REACH",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 60,
+  "isDisuse": true
+ },
+ {
+  "order": 79,
+  "scheduleId": 7000,
+  "descTextMapHash": 717220591,
+  "rewardId": 1100008,
+  "id": 100069,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_DAILY_ENTER_HALL_OR_BEYOND_SCENE_CNT",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 1
+ },
+ {
+  "order": 91,
+  "addPoint": 500,
+  "descTextMapHash": 3992560183,
+  "refreshType": "BEYOND_BATTLE_PASS_MISSION_REFRESH_WEEKLY",
+  "id": 100081,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_FINISH_PLAY_IN_DIFFERENT_LEVEL_CNT_REACH",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 3,
+  "isDisuse": true
+ },
+ {
+  "order": 93,
+  "scheduleId": 7100,
+  "descTextMapHash": 2833878599,
+  "rewardId": 1100009,
+  "id": 100082,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_DAILY_ENTER_HALL_OR_BEYOND_SCENE_CNT",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 1
+ },
+ {
+  "order": 94,
+  "addPoint": 1000,
+  "scheduleId": 7100,
+  "descTextMapHash": 1812487999,
+  "id": 100083,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_MULTIPLAYER_FINISH_PLAY_CNT_REACH",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 5
+ },
+ {
+  "order": 95,
+  "addPoint": 1000,
+  "scheduleId": 7100,
+  "descTextMapHash": 1708148375,
+  "id": 100084,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_FINISH_BEYOND_LEVEL_ACHIEVEMENT_CNT",
+   "paramList": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 5
+ },
+ {
+  "order": 96,
+  "addPoint": 2000,
+  "scheduleId": 7100,
+  "descTextMapHash": 33544191,
+  "id": 100085,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_TIER_SCORE_REACH",
+   "paramList": [
+    "1300",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 1
+ },
+ {
+  "order": 97,
+  "addPoint": 2000,
+  "scheduleId": 7100,
+  "descTextMapHash": 2994682415,
+  "id": 100086,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_RANKING_LIST_REACH_PERCENTAGE_OR_RANK",
+   "paramList": [
+    "25",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 1
+ },
+ {
+  "order": 98,
+  "addPoint": 2000,
+  "scheduleId": 7100,
+  "descTextMapHash": 3009742823,
+  "id": 100087,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_DO_BEYOND_GACHA",
+   "paramList": [
+    "1000,2000",
+    "",
+    "",
+    ""
+   ]
+  },
+  "progress": 30
+ },
+ {
+  "order": 99,
+  "addPoint": 1000,
+  "BNMHJHFCOJK": true,
+  "descTextMapHash": 3932129879,
+  "refreshType": "BEYOND_BATTLE_PASS_MISSION_REFRESH_WEEKLY",
+  "KNFAAJLALLO": 8,
+  "id": 100088,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_FINISH_LEVELS_OR_TOTAL_PLAY_TIME",
+   "paramList": [
+    "5",
+    "1200",
+    "",
+    ""
+   ]
+  },
+  "progress": 1
+ },
+ {
+  "order": 100,
+  "addPoint": 1000,
+  "BNMHJHFCOJK": true,
+  "descTextMapHash": 4113957495,
+  "refreshType": "BEYOND_BATTLE_PASS_MISSION_REFRESH_WEEKLY",
+  "KNFAAJLALLO": 8,
+  "id": 100089,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_FINISH_LEVELS_OR_TOTAL_PLAY_TIME",
+   "paramList": [
+    "10",
+    "2400",
+    "",
+    ""
+   ]
+  },
+  "progress": 1
+ },
+ {
+  "order": 101,
+  "addPoint": 1000,
+  "BNMHJHFCOJK": true,
+  "descTextMapHash": 4113238967,
+  "refreshType": "BEYOND_BATTLE_PASS_MISSION_REFRESH_WEEKLY",
+  "KNFAAJLALLO": 8,
+  "id": 100090,
+  "triggerConfig": {
+   "triggerType": "TRIGGER_BEYOND_FINISH_LEVELS_OR_TOTAL_PLAY_TIME",
+   "paramList": [
+    "15",
+    "3600",
+    "",
+    ""
+   ]
+  },
+  "progress": 1
+ }
+]
