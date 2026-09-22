@@ -665,7 +665,7 @@
    },
    {
     "type": "GROW_CURVE_CRITICAL_201",
-    "initValue": 36.0,
+    "initValue": 36,
     "propType": "FIGHT_PROP_ELEMENT_MASTERY"
    }
   ],
@@ -942,7 +942,7 @@
     "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
    }
   ],
-  "BHPHNALIMAG": 1,
+  "enhanceRule": 1,
   "awakenCosts": [
    1000,
    2000,
@@ -1040,7 +1040,7 @@
     "propType": "FIGHT_PROP_DEFENSE_PERCENT"
    }
   ],
-  "BHPHNALIMAG": 1,
+  "enhanceRule": 1,
   "awakenCosts": [
    1000,
    2000,
@@ -1090,7 +1090,7 @@
     "propType": "FIGHT_PROP_ATTACK_PERCENT"
    }
   ],
-  "BHPHNALIMAG": 1,
+  "enhanceRule": 1,
   "awakenIcon": "UI_EquipIcon_Sword_Youtou_Awaken",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
   "destroyReturnMaterial": [
@@ -1177,7 +1177,7 @@
    },
    {
     "type": "GROW_CURVE_CRITICAL_201",
-    "initValue": 36.0,
+    "initValue": 36,
     "propType": "FIGHT_PROP_ELEMENT_MASTERY"
    }
   ],
@@ -1229,7 +1229,7 @@
     "propType": "FIGHT_PROP_ATTACK_PERCENT"
    }
   ],
-  "BHPHNALIMAG": 1,
+  "enhanceRule": 1,
   "awakenIcon": "UI_EquipIcon_Sword_YoutouEnchanted",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
   "destroyReturnMaterial": [
@@ -1270,7 +1270,7 @@
     "propType": "FIGHT_PROP_ATTACK_PERCENT"
    }
   ],
-  "BHPHNALIMAG": 1,
+  "enhanceRule": 1,
   "awakenIcon": "UI_EquipIcon_Sword_YoutouShattered",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
   "destroyReturnMaterial": [
@@ -1312,7 +1312,7 @@
     "propType": "FIGHT_PROP_ATTACK_PERCENT"
    }
   ],
-  "BHPHNALIMAG": 1,
+  "enhanceRule": 1,
   "awakenIcon": "UI_EquipIcon_Sword_YoutouEnchanted",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
   "destroyReturnMaterial": [
@@ -1350,11 +1350,11 @@
    },
    {
     "type": "GROW_CURVE_CRITICAL_201",
-    "initValue": 36.0,
+    "initValue": 36,
     "propType": "FIGHT_PROP_ELEMENT_MASTERY"
    }
   ],
-  "BHPHNALIMAG": 1,
+  "enhanceRule": 1,
   "awakenCosts": [
    1000,
    2000,
@@ -1500,7 +1500,7 @@
     "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
    }
   ],
-  "BHPHNALIMAG": 1,
+  "enhanceRule": 1,
   "awakenCosts": [
    1000,
    2000,
@@ -1598,7 +1598,7 @@
     "propType": "FIGHT_PROP_ATTACK_PERCENT"
    }
   ],
-  "BHPHNALIMAG": 1,
+  "enhanceRule": 1,
   "awakenCosts": [
    1000,
    2000,
@@ -1648,7 +1648,7 @@
     "propType": "FIGHT_PROP_ATTACK_PERCENT"
    }
   ],
-  "BHPHNALIMAG": 1,
+  "enhanceRule": 1,
   "awakenIcon": "UI_EquipIcon_Sword_Purewill",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
   "destroyReturnMaterial": [
@@ -1786,7 +1786,7 @@
     "propType": "FIGHT_PROP_ATTACK_PERCENT"
    }
   ],
-  "BHPHNALIMAG": 1,
+  "enhanceRule": 1,
   "awakenCosts": [
    1000,
    2000,
@@ -1976,7 +1976,7 @@
    },
    {
     "type": "GROW_CURVE_CRITICAL_201",
-    "initValue": 36.0,
+    "initValue": 36,
     "propType": "FIGHT_PROP_ELEMENT_MASTERY"
    }
   ],
@@ -2076,7 +2076,7 @@
     "propType": "FIGHT_PROP_ATTACK_PERCENT"
    }
   ],
-  "BHPHNALIMAG": 1,
+  "enhanceRule": 1,
   "awakenCosts": [
    1000,
    2000,
@@ -3059,7 +3059,7 @@
     "propType": "FIGHT_PROP_CRITICAL"
    }
   ],
-  "BHPHNALIMAG": 1,
+  "enhanceRule": 1,
   "awakenCosts": [
    2000,
    4000,
@@ -3713,7 +3713,7 @@
    },
    {
     "type": "GROW_CURVE_CRITICAL_201",
-    "initValue": 36.0,
+    "initValue": 36,
     "propType": "FIGHT_PROP_ELEMENT_MASTERY"
    }
   ],
@@ -4053,7 +4053,7 @@
     "propType": "FIGHT_PROP_ATTACK_PERCENT"
    }
   ],
-  "BHPHNALIMAG": 1,
+  "enhanceRule": 1,
   "awakenCosts": [
    1000,
    2000,
@@ -4147,7 +4147,7 @@
    },
    {
     "type": "GROW_CURVE_CRITICAL_201",
-    "initValue": 36.0,
+    "initValue": 36,
     "propType": "FIGHT_PROP_ELEMENT_MASTERY"
    }
   ],
@@ -4291,11 +4291,11 @@
    },
    {
     "type": "GROW_CURVE_CRITICAL_201",
-    "initValue": 24.0,
+    "initValue": 24,
     "propType": "FIGHT_PROP_ELEMENT_MASTERY"
    }
   ],
-  "BHPHNALIMAG": 1,
+  "enhanceRule": 1,
   "awakenCosts": [
    1000,
    2000,
@@ -4441,7 +4441,7 @@
     "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
    }
   ],
-  "BHPHNALIMAG": 1,
+  "enhanceRule": 1,
   "awakenCosts": [
    1000,
    2000,
@@ -4631,11 +4631,11 @@
    },
    {
     "type": "GROW_CURVE_CRITICAL_201",
-    "initValue": 36.0,
+    "initValue": 36,
     "propType": "FIGHT_PROP_ELEMENT_MASTERY"
    }
   ],
-  "BHPHNALIMAG": 1,
+  "enhanceRule": 1,
   "awakenCosts": [
    1000,
    2000,
@@ -5780,7 +5780,7 @@
    },
    {
     "type": "GROW_CURVE_CRITICAL_201",
-    "initValue": 48.0,
+    "initValue": 48,
     "propType": "FIGHT_PROP_ELEMENT_MASTERY"
    }
   ],
@@ -6212,7 +6212,7 @@
    },
    {
     "type": "GROW_CURVE_CRITICAL_201",
-    "initValue": 24.0,
+    "initValue": 24,
     "propType": "FIGHT_PROP_ELEMENT_MASTERY"
    }
   ],
@@ -6264,7 +6264,7 @@
     "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
    }
   ],
-  "BHPHNALIMAG": 1,
+  "enhanceRule": 1,
   "awakenCosts": [
    1000,
    2000,
@@ -6358,7 +6358,7 @@
    },
    {
     "type": "GROW_CURVE_CRITICAL_201",
-    "initValue": 24.0,
+    "initValue": 24,
     "propType": "FIGHT_PROP_ELEMENT_MASTERY"
    }
   ],
@@ -6410,7 +6410,7 @@
     "propType": "FIGHT_PROP_ATTACK_PERCENT"
    }
   ],
-  "BHPHNALIMAG": 1,
+  "enhanceRule": 1,
   "awakenCosts": [
    1000,
    2000,
@@ -6556,7 +6556,7 @@
     "propType": "FIGHT_PROP_HP_PERCENT"
    }
   ],
-  "BHPHNALIMAG": 1,
+  "enhanceRule": 1,
   "awakenCosts": [
    1000,
    2000,
@@ -6750,7 +6750,7 @@
     "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
    }
   ],
-  "BHPHNALIMAG": 1,
+  "enhanceRule": 1,
   "awakenCosts": [
    1000,
    2000,
@@ -6940,7 +6940,7 @@
    },
    {
     "type": "GROW_CURVE_CRITICAL_201",
-    "initValue": 24.0,
+    "initValue": 24,
     "propType": "FIGHT_PROP_ELEMENT_MASTERY"
    }
   ],
@@ -8157,7 +8157,7 @@
    },
    {
     "type": "GROW_CURVE_CRITICAL_201",
-    "initValue": 48.0,
+    "initValue": 48,
     "propType": "FIGHT_PROP_ELEMENT_MASTERY"
    }
   ],
@@ -8351,7 +8351,7 @@
    },
    {
     "type": "GROW_CURVE_CRITICAL_201",
-    "initValue": 24.0,
+    "initValue": 24,
     "propType": "FIGHT_PROP_ELEMENT_MASTERY"
    }
   ],
@@ -8637,7 +8637,7 @@
     "propType": "FIGHT_PROP_ATTACK_PERCENT"
    }
   ],
-  "BHPHNALIMAG": 1,
+  "enhanceRule": 1,
   "awakenCosts": [
    1000,
    2000,
@@ -8736,7 +8736,7 @@
     "propType": "FIGHT_PROP_ATTACK_PERCENT"
    }
   ],
-  "BHPHNALIMAG": 1,
+  "enhanceRule": 1,
   "awakenCosts": [
    1000,
    2000,
@@ -8782,7 +8782,7 @@
    },
    {
     "type": "GROW_CURVE_CRITICAL_201",
-    "initValue": 36.0,
+    "initValue": 36,
     "propType": "FIGHT_PROP_ELEMENT_MASTERY"
    }
   ],
@@ -8981,7 +8981,7 @@
     "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
    }
   ],
-  "BHPHNALIMAG": 1,
+  "enhanceRule": 1,
   "awakenCosts": [
    1000,
    2000,
@@ -9031,7 +9031,7 @@
     "propType": "FIGHT_PROP_HP_PERCENT"
    }
   ],
-  "BHPHNALIMAG": 1,
+  "enhanceRule": 1,
   "awakenCosts": [
    1000,
    2000,
@@ -9180,7 +9180,7 @@
     "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
    }
   ],
-  "BHPHNALIMAG": 1,
+  "enhanceRule": 1,
   "awakenCosts": [
    1000,
    2000,
@@ -9226,7 +9226,7 @@
    },
    {
     "type": "GROW_CURVE_CRITICAL_201",
-    "initValue": 48.0,
+    "initValue": 48,
     "propType": "FIGHT_PROP_ELEMENT_MASTERY"
    }
   ],
@@ -10934,7 +10934,7 @@
    },
    {
     "type": "GROW_CURVE_CRITICAL_201",
-    "initValue": 36.0,
+    "initValue": 36,
     "propType": "FIGHT_PROP_ELEMENT_MASTERY"
    }
   ],
@@ -11370,7 +11370,7 @@
     "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
    }
   ],
-  "BHPHNALIMAG": 1,
+  "enhanceRule": 1,
   "awakenCosts": [
    1000,
    2000,
@@ -11464,11 +11464,11 @@
    },
    {
     "type": "GROW_CURVE_CRITICAL_201",
-    "initValue": 36.0,
+    "initValue": 36,
     "propType": "FIGHT_PROP_ELEMENT_MASTERY"
    }
   ],
-  "BHPHNALIMAG": 1,
+  "enhanceRule": 1,
   "awakenCosts": [
    1000,
    2000,
@@ -11566,7 +11566,7 @@
     "propType": "FIGHT_PROP_ATTACK_PERCENT"
    }
   ],
-  "BHPHNALIMAG": 1,
+  "enhanceRule": 1,
   "awakenIcon": "UI_EquipIcon_Bow_Predator_Awaken",
   "weaponType": "WEAPON_BOW",
   "destroyReturnMaterial": [
@@ -11705,7 +11705,7 @@
     "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
    }
   ],
-  "BHPHNALIMAG": 1,
+  "enhanceRule": 1,
   "awakenCosts": [
    1000,
    2000,
@@ -11755,7 +11755,7 @@
     "propType": "FIGHT_PROP_ATTACK_PERCENT"
    }
   ],
-  "BHPHNALIMAG": 1,
+  "enhanceRule": 1,
   "awakenCosts": [
    1000,
    2000,
@@ -11897,11 +11897,11 @@
    },
    {
     "type": "GROW_CURVE_CRITICAL_201",
-    "initValue": 36.0,
+    "initValue": 36,
     "propType": "FIGHT_PROP_ELEMENT_MASTERY"
    }
   ],
-  "BHPHNALIMAG": 1,
+  "enhanceRule": 1,
   "awakenCosts": [
    1000,
    2000,
@@ -12095,7 +12095,7 @@
     "propType": "FIGHT_PROP_HP_PERCENT"
    }
   ],
-  "BHPHNALIMAG": 1,
+  "enhanceRule": 1,
   "awakenCosts": [
    1000,
    2000,
@@ -12193,7 +12193,7 @@
     "propType": "FIGHT_PROP_CHARGE_EFFICIENCY"
    }
   ],
-  "BHPHNALIMAG": 1,
+  "enhanceRule": 1,
   "awakenCosts": [
    1000,
    2000,

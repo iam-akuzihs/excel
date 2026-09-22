@@ -3,15 +3,15 @@
   "skillDescTextMapHash": 1793916875,
   "id": 10011,
   "lockShape": "CircleLockEnemyR50H15BC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 3160031831,
   "skillIcon": "Btn_Vehicle_Skiff_CannonFire_Small",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_Skiff_FireCannon_Small"
  },
@@ -19,15 +19,15 @@
   "skillDescTextMapHash": 3413724019,
   "id": 10012,
   "lockShape": "CircleLockEnemyR50H15BC",
-  "skillCD": 15.0,
+  "skillCD": 15,
   "skillNameTextMapHash": 2681214503,
   "skillIcon": "Btn_Vehicle_Skiff_CannonFire_Big",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_Skiff_FireCannon_Big"
  },
@@ -37,16 +37,16 @@
   "skillDescTextMapHash": 1400400699,
   "id": 10101,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 919125991,
   "energyOnceCost": 10,
   "skillIcon": "Skill_SummerTimeV2_03",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "energyMaxCost": 30,
   "abilityName": "Vehicle_Skiff_Normal_BurstSprint"
@@ -55,15 +55,15 @@
   "skillDescTextMapHash": 891269963,
   "id": 10102,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 3.0,
+  "skillCD": 3,
   "skillNameTextMapHash": 3696566063,
   "skillIcon": "Skill_SummerTimeV2_02",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_Skiff_Normal_WindHole"
  },
@@ -72,16 +72,16 @@
   "skillDescTextMapHash": 3804484347,
   "id": 10104,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 127506431,
   "energyOnceCost": 100,
   "skillIcon": "Skill_LanV3_Icon04",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "energyMaxCost": 100,
   "abilityName": "Vehicle_Skiff_LanV3BoatGame_Fog"
@@ -91,16 +91,16 @@
   "skillDescTextMapHash": 2141115963,
   "id": 10105,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 2508142215,
   "energyOnceCost": 100,
   "skillIcon": "Skill_SummerTimeV2_02",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "energyMaxCost": 100,
   "abilityName": "Vehicle_Skiff_LanV3BoatGame_Coin_Absorb"
@@ -110,16 +110,16 @@
   "skillDescTextMapHash": 711127915,
   "id": 10106,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 2461853359,
   "energyOnceCost": 100,
   "skillIcon": "Skill_LanV3_Icon02",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "energyMaxCost": 100,
   "abilityName": "Vehicle_Skiff_LanV3BoatGame_Shield"
@@ -129,16 +129,16 @@
   "skillDescTextMapHash": 3970103931,
   "id": 10107,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 2496904943,
   "energyOnceCost": 100,
   "skillIcon": "Skill_LanV3_Icon03",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "energyMaxCost": 100,
   "abilityName": "Vehicle_Skiff_LanV3BoatGame_Vortex"
@@ -148,16 +148,16 @@
   "skillDescTextMapHash": 763122219,
   "id": 10108,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 2862261791,
   "energyOnceCost": 100,
   "skillIcon": "Skill_SummerTimeV2_03",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "energyMaxCost": 100,
   "abilityName": "Vehicle_Skiff_LanV3BoatGame_RushMove"
@@ -167,16 +167,16 @@
   "skillDescTextMapHash": 2841245579,
   "id": 10109,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 3302742815,
   "energyOnceCost": 100,
   "skillIcon": "Skill_LanV3_Icon01",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "energyMaxCost": 100,
   "abilityName": "Vehicle_Skiff_LanV3BoatGame_Stamina_Recover"
@@ -185,15 +185,15 @@
   "skillDescTextMapHash": 1120026595,
   "id": 10201,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 893069895,
   "skillIcon": "Btn_Sorush_Interactive",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ]
  },
  {
@@ -202,16 +202,16 @@
   "skillDescTextMapHash": 1628397555,
   "id": 10202,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 385910663,
   "energyOnceCost": 10,
   "skillIcon": "Btn_Sorush_Bomb",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "energyMaxCost": 80,
   "abilityName": "Vehicle_Sorush_ChargeSkill"
@@ -220,15 +220,15 @@
   "skillDescTextMapHash": 3391501995,
   "id": 10301,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 440942407,
   "skillIcon": "Btn_Sorush_Bomb",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "ActivityAbility_Hitman_Sorush_FireBomb"
  },
@@ -236,15 +236,15 @@
   "skillDescTextMapHash": 148792891,
   "id": 10302,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 520815431,
   "skillIcon": "Btn_Sorush_Bomb",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "ActivityAbility_Sorush_InfiniteBomb"
  },
@@ -252,16 +252,16 @@
   "skillDescTextMapHash": 2310093347,
   "id": 10401,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 1714773671,
   "FHNMBIHHHLC": true,
   "skillIcon": "Btn_Natsaurus_Drillhead_NormalAttack_01",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_Natsaurus_Drillhead_NormalAttack"
  },
@@ -275,10 +275,10 @@
   "skillIcon": "Btn_Natsaurus_Drillhead_ElementalArt_0l",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_Natsaurus_Drillhead_ElementalArt_01"
  },
@@ -286,15 +286,15 @@
   "skillDescTextMapHash": 765187067,
   "id": 10403,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 52157359,
   "skillIcon": "Btn_Natsaurus_Drillhead_ElementalArt_Exit",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_Natsaurus_Drillhead_ElementalArt_Exit"
  },
@@ -302,16 +302,16 @@
   "skillDescTextMapHash": 4150828563,
   "id": 10404,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 3872869031,
   "FHNMBIHHHLC": true,
   "skillIcon": "Btn_Natsaurus_Drillhead_NormalAttack_01",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_Natsaurus_Drillhead_NormalAttack_UnderGround"
  },
@@ -319,15 +319,15 @@
   "skillDescTextMapHash": 492373843,
   "id": 10405,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 475001751,
   "skillIcon": "Btn_Natsaurus_Drillhead_ElementalArt_MidAirToClimb",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_Natsaurus_Drillhead_ElementalArt_MidAirToClimb"
  },
@@ -335,16 +335,16 @@
   "skillDescTextMapHash": 2445608819,
   "id": 10406,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 2644290215,
   "FHNMBIHHHLC": true,
   "skillIcon": "Btn_Natsaurus_Drillhead_NormalAttack_01",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_Natsaurus_Drillhead_Small_NormalAttack"
  },
@@ -358,10 +358,10 @@
   "skillIcon": "Btn_Natsaurus_Drillhead_ElementalArt_0l",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_Natsaurus_Drillhead_Small_ElementalArt_01"
  },
@@ -369,15 +369,15 @@
   "skillDescTextMapHash": 334942179,
   "id": 10408,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 414868383,
   "skillIcon": "Btn_Natsaurus_Drillhead_ElementalArt_Exit",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_Natsaurus_Drillhead_Small_ElementalArt_Exit"
  },
@@ -385,16 +385,16 @@
   "skillDescTextMapHash": 2350463947,
   "id": 10409,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 3255591623,
   "FHNMBIHHHLC": true,
   "skillIcon": "Btn_Natsaurus_Drillhead_NormalAttack_01",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_Natsaurus_Drillhead_Small_NormalAttack_UnderGround"
  },
@@ -402,16 +402,16 @@
   "skillDescTextMapHash": 17117179,
   "id": 10410,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 983903127,
   "FHNMBIHHHLC": true,
   "skillIcon": "Btn_Natsaurus_Hookwalker_NormalAttack_01",
   "maxChargeCount": 3,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_Natsaurus_Drillhead_NormalAttack_UnderGround"
  },
@@ -419,16 +419,16 @@
   "skillDescTextMapHash": 1372109659,
   "id": 10411,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 854311559,
   "FHNMBIHHHLC": true,
   "skillIcon": "Btn_Natsaurus_Drillhead_NormalAttack_01",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_Natsaurus_Drillhead_NormalAttack_01"
  },
@@ -437,16 +437,16 @@
   "triggerID": 1,
   "id": 10501,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 2399822591,
   "FHNMBIHHHLC": true,
   "skillIcon": "Btn_Natsaurus_Hookwalker_NormalAttack_01",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ]
  },
  {
@@ -460,10 +460,10 @@
   "skillIcon": "Btn_Natsaurus_Hookwalker_ElementalArt_01",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_Natsaurus_Hookwalker_ElementalArt_01"
  },
@@ -476,10 +476,10 @@
   "skillIcon": "Btn_Natsaurus_Hookwalker_AirAttack",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ]
  },
  {
@@ -493,10 +493,10 @@
   "skillIcon": "Btn_Natsaurus_Hookwalker_ElementalArt_02",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_Natsaurus_Hookwalker_ElementalArt_02"
  },
@@ -511,10 +511,10 @@
   "skillIcon": "Btn_Natsaurus_Hookwalker_ElementalArt_03",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_Natsaurus_Hookwalker_ElementalArt_01"
  },
@@ -529,10 +529,10 @@
   "skillIcon": "Btn_Natsaurus_Hookwalker_ElementalArt_Free",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_Natsaurus_Hookwalker_ElementalArt_Free"
  },
@@ -540,16 +540,16 @@
   "skillDescTextMapHash": 3357045435,
   "id": 10601,
   "lockShape": "CircleLockEnemyR8H6HC",
-  "skillCD": 2.0,
+  "skillCD": 2,
   "skillNameTextMapHash": 2561486823,
   "FHNMBIHHHLC": true,
   "skillIcon": "Btn_Natsaurus_Mosasaurus_NormalAttack_01",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_Natsaurus_Mosasaurus_NormalAttack_01"
  },
@@ -557,15 +557,15 @@
   "skillDescTextMapHash": 3708628899,
   "id": 10602,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 4065036823,
   "skillIcon": "Btn_Natsaurus_Mosasaurus_NormalAttack_01",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_Natsaurus_Mosasaurus_ElementalArt_01"
  },
@@ -573,30 +573,30 @@
   "skillDescTextMapHash": 3375150731,
   "id": 10701,
   "lockShape": "CircleLockEnemyR8H6HC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 557435535,
   "skillIcon": "Btn_Natsaurus_Flamingo_NormalAttack",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ]
  },
  {
   "skillDescTextMapHash": 624633531,
   "id": 10702,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 2961036175,
   "skillIcon": "Btn_Natsaurus_Flamingo_ElementalArt",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ]
  },
  {
@@ -609,10 +609,10 @@
   "skillIcon": "Btn_Natsaurus_Shamansaurus_NormalAttack",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_Natsaurus_Shamansaurus_NormalAttack_01"
  },
@@ -621,16 +621,16 @@
   "triggerID": 802,
   "id": 10802,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 3359809095,
   "FHNMBIHHHLC": true,
   "skillIcon": "Btn_Natsaurus_Shamansaurus_ElementalArt",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_Natsaurus_Shamansaurus_ElementalArt_01"
  },
@@ -644,10 +644,10 @@
   "skillIcon": "Btn_Natsaurus_Shamansaurus_Jump",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_Natsaurus_Shamansaurus_SpecialJump_01"
  },
@@ -661,10 +661,10 @@
   "skillIcon": "Btn_Natsaurus_Shamansaurus_Down",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_Natsaurus_Shamansaurus_SpecialJump_01"
  },
@@ -678,10 +678,10 @@
   "skillIcon": "Btn_Natsaurus_Shamansaurus_NormalAttack",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_Natsaurus_ShamansaurusStaff_NormalAttack_01"
  },
@@ -690,16 +690,16 @@
   "triggerID": 802,
   "id": 10812,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 2870495815,
   "FHNMBIHHHLC": true,
   "skillIcon": "Btn_Natsaurus_Shamansaurus_ElementalArt",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_Natsaurus_ShamansaurusStaff_ElementalArt_01"
  },
@@ -708,16 +708,16 @@
   "triggerID": 1,
   "id": 10901,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 1387681695,
   "FHNMBIHHHLC": true,
   "skillIcon": "Btn_Natsaurus_Bisonsaurus_NormalAttack",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_Natsaurus_Bisonsaurus_NormalAttack_01"
  },
@@ -726,16 +726,16 @@
   "triggerID": 5,
   "id": 10907,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 2099384919,
   "FHNMBIHHHLC": true,
   "skillIcon": "Btn_Natsaurus_Bisonsaurus_NormalAttack",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_Natsaurus_Bisonsaurus_NormalAttack_02"
  },
@@ -747,10 +747,10 @@
   "skillIcon": "Btn_Natsaurus_Bisonsaurus_Sprint",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_Natsaurus_Bisonsaurus_SprintSkill_01"
  },
@@ -762,10 +762,10 @@
   "skillIcon": "Btn_Natsaurus_Bisonsaurus_SprintDash",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_Natsaurus_Bisonsaurus_SprintSkill_02"
  },
@@ -778,10 +778,10 @@
   "skillIcon": "Btn_Natsaurus_Bisonsaurus_FallingAttack",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_Natsaurus_Bisonsaurus_FallingAttack_01"
  },
@@ -790,16 +790,16 @@
   "triggerID": 3,
   "id": 10905,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 10.0,
+  "skillCD": 10,
   "skillNameTextMapHash": 1412370223,
   "FHNMBIHHHLC": true,
   "skillIcon": "Btn_Natsaurus_Bisonsaurus_ElementalArt",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_Natsaurus_Bisonsaurus_ElementalArt_01"
  },
@@ -808,16 +808,16 @@
   "triggerID": 4,
   "id": 10906,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 10.0,
+  "skillCD": 10,
   "skillNameTextMapHash": 2538046311,
   "FHNMBIHHHLC": true,
   "skillIcon": "Btn_Natsaurus_Bisonsaurus_ElementalArt",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_Natsaurus_Bisonsaurus_ElementalArt_02"
  },
@@ -833,10 +833,10 @@
   "maxChargeCount": 1,
   "IGPFODKEDCC": true,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "energyMaxCost": 1,
   "abilityName": "Vehicle_Natsaurus_Common_ChargeExit"
@@ -850,10 +850,10 @@
   "skillIcon": "Main_AimActive",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ]
  },
  {
@@ -861,16 +861,16 @@
   "dragType": "DRAG_ROTATE_CAMERA",
   "id": 11001,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 548241359,
   "FHNMBIHHHLC": true,
   "skillIcon": "Btn_Vehicle_PaintSeelie_NormalAttack",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_PaintSeelie_NormalAttack"
  },
@@ -885,10 +885,10 @@
   "skillIcon": "Btn_Vehicle_PaintSeelie_Hook",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_PaintSeelie_ElementalArt"
  },
@@ -896,15 +896,15 @@
   "skillDescTextMapHash": 3736475259,
   "id": 11003,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 1284715015,
   "skillIcon": "Btn_Vehicle_PaintSeelie_Down",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_PaintSeelie_DropDown"
  },
@@ -916,10 +916,10 @@
   "skillIcon": "Btn_Vehicle_PaintSeelie_Sprint",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_PaintSeelie_Sprint"
  },
@@ -927,15 +927,15 @@
   "skillDescTextMapHash": 3956530803,
   "id": 11005,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 3815734799,
   "skillIcon": "Btn_Vehicle_PaintSeelie_Hookjump",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_PaintSeelie_HookRecover_Jump"
  },
@@ -950,10 +950,10 @@
   "skillIcon": "Btn_Vehicle_PaintSeelie_Hook",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_PaintSeelie_ElementalArt"
  },
@@ -961,16 +961,16 @@
   "skillDescTextMapHash": 388733491,
   "id": 11100,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 3067963303,
   "FHNMBIHHHLC": true,
   "skillIcon": "Btn_Vehicle_Skiff_Vejection",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_RobotVacuum_Exit"
  },
@@ -979,7 +979,7 @@
   "skillDescTextMapHash": 3246846915,
   "id": 11101,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 1093868471,
   "FHNMBIHHHLC": true,
   "energyOnceCost": 1,
@@ -987,10 +987,10 @@
   "maxChargeCount": 1,
   "IGPFODKEDCC": true,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "energyMaxCost": 1,
   "abilityName": "DynamicAbility_RobotVacuum_Absorb_Avatar"
@@ -1000,7 +1000,7 @@
   "skillDescTextMapHash": 3287570227,
   "id": 11102,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 3325032135,
   "FHNMBIHHHLC": true,
   "energyOnceCost": 1,
@@ -1008,10 +1008,10 @@
   "maxChargeCount": 1,
   "IGPFODKEDCC": true,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "energyMaxCost": 1,
   "abilityName": "DynamicAbility_RobotVacuum_Throw_Avatar"
@@ -1020,15 +1020,15 @@
   "skillDescTextMapHash": 720889827,
   "id": 11200,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 2227845711,
   "skillIcon": "Skill_E_Flyout",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_RobotVacuum_Exit"
  },
@@ -1037,16 +1037,16 @@
   "triggerID": 1,
   "id": 11201,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 3929612199,
   "FHNMBIHHHLC": true,
   "skillIcon": "Btn_Vehicle_RobotVacuum_NormalAttack",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_PlayerSaosaoRobo_NormalAttack"
  },
@@ -1055,7 +1055,7 @@
   "skillDescTextMapHash": 2051740227,
   "id": 11202,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 2508698391,
   "FHNMBIHHHLC": true,
   "energyOnceCost": 1,
@@ -1063,10 +1063,10 @@
   "maxChargeCount": 1,
   "IGPFODKEDCC": true,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "energyMaxCost": 1,
   "abilityName": "DynamicAbility_PlayerSaosaoRobo_Absorb_Avatar"
@@ -1076,16 +1076,16 @@
   "triggerID": 2,
   "id": 11203,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 5.0,
+  "skillCD": 5,
   "skillNameTextMapHash": 4145008255,
   "FHNMBIHHHLC": true,
   "skillIcon": "Btn_Vehicle_RobotVacuum_SprintAttack",
   "maxChargeCount": 2,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_PlayerSaosaoRobo_RushMove"
  },
@@ -1094,7 +1094,7 @@
   "skillDescTextMapHash": 3950193507,
   "id": 11204,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 1.0,
+  "skillCD": 1,
   "skillNameTextMapHash": 1268652719,
   "FHNMBIHHHLC": true,
   "energyOnceCost": 1,
@@ -1102,10 +1102,10 @@
   "maxChargeCount": 1,
   "IGPFODKEDCC": true,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "energyMaxCost": 1,
   "abilityName": "DynamicAbility_PlayerSaosaoRobo_Throw_Avatar"
@@ -1120,10 +1120,10 @@
   "skillIcon": "Btn_SumeruAdventureParkour_Change",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_ColorChangingParkour_NormalAttack"
  },
@@ -1137,10 +1137,10 @@
   "skillIcon": "Btn_Natsaurus_Common_Jump",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_ColorChangingParkour_SpecialJump"
  },
@@ -1148,16 +1148,16 @@
   "skillDescTextMapHash": 1613475739,
   "id": 11401,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 10.0,
+  "skillCD": 10,
   "skillNameTextMapHash": 3369549327,
   "FHNMBIHHHLC": true,
   "skillIcon": "Btn_Natsaurus_Common_Jump",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_NatlanDragonParty_Tatankasaurus_SpecialAttack"
  },
@@ -1171,10 +1171,10 @@
   "skillIcon": "Skill_S_MothSpirit_Up",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_MothSpirit_Sprint_Vertical"
  },
@@ -1188,10 +1188,10 @@
   "skillIcon": "Skill_S_MothSpirit_Forward",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_MothSpirit_Sprint_Horizontal"
  },
@@ -1205,10 +1205,10 @@
   "skillIcon": "Skill_S_MothSpirit_Up",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_MothSpirit_Sprint_JumpOut_UP"
  },
@@ -1222,10 +1222,10 @@
   "skillIcon": "Skill_S_MothSpirit_Forward",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_MothSpirit_Sprint_JumpOut_Forward"
  },
@@ -1242,10 +1242,10 @@
   "maxChargeCount": 1,
   "IGPFODKEDCC": true,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "energyMaxCost": 1,
   "abilityName": "Vehicle_MothSpirit_Sprint_JumpOut_Quit"
@@ -1260,10 +1260,10 @@
   "skillIcon": "Skill_S_MothSpirit_Forward",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_MothSpirit_Sprint_Horizontal"
  },
@@ -1277,10 +1277,10 @@
   "skillIcon": "Skill_S_MothSpirit_Forward",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_ParamMove_Skill_A"
  },
@@ -1294,10 +1294,10 @@
   "skillIcon": "Btn_RobotVacuum_01",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_ParamMove_Skill_E"
  },
@@ -1312,10 +1312,10 @@
   "skillIcon": "Btn_Vehicle_PaintSeelie_Hook",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_ParamMove_Skill_Q"
  },
@@ -1329,10 +1329,10 @@
   "skillIcon": "Skill_S_MothSpirit_Forward",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_ParamMove_Skill_Shift"
  },
@@ -1346,10 +1346,10 @@
   "skillIcon": "Skill_S_MothSpirit_Up",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_ParamMove_Skill_Space"
  },
@@ -1361,10 +1361,10 @@
   "skillIcon": "Skill_E_Flyout",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_ParamMove_SnowBall_Skill_Exit"
  },
@@ -1377,10 +1377,10 @@
   "skillIcon": "Btn_IcemakeSnowballLauncher_Launch",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_SnowBall_Skill_Start"
  },
@@ -1393,10 +1393,10 @@
   "skillIcon": "Btn_Vehicle_Skiff_Vejection",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_SnowBall_Skill_Exit"
  },
@@ -1410,10 +1410,10 @@
   "skillIcon": "Btn_QuestSledDog_01",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_SledDog_NormalAttack"
  },
@@ -1421,16 +1421,16 @@
   "skillDescTextMapHash": 3667521059,
   "id": 11610,
   "lockShape": "CircleLockEnemyR5H6HC",
-  "skillCD": 13.0,
+  "skillCD": 13,
   "skillNameTextMapHash": 1682436055,
   "FHNMBIHHHLC": true,
   "skillIcon": "Btn_QuestSledDog_03",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_SledDog_ElementalArt"
  },
@@ -1444,10 +1444,10 @@
   "skillIcon": "Btn_QuestSledDog_01",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_SledDog_SpecialSniff"
  },
@@ -1460,10 +1460,10 @@
   "skillIcon": "Btn_QuestSledDog_02",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Vehicle_SledDog_DisableSniff"
  },
@@ -1476,10 +1476,10 @@
   "skillIcon": "Btn_Vehicle_RobotVacuum_SprintAttack",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Quest_Vehicle_SnowBall_Skill_Start"
  },
@@ -1492,10 +1492,10 @@
   "skillIcon": "Btn_Vehicle_Skiff_Vejection",
   "maxChargeCount": 1,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "abilityName": "Quest_Vehicle_SnowBall_Skill_Exit"
  },
@@ -1512,10 +1512,10 @@
   "maxChargeCount": 1,
   "IGPFODKEDCC": true,
   "lockWeightParams": [
-   1.0,
-   1.0,
+   1,
+   1,
    0.1,
-   0.0
+   0
   ],
   "energyMaxCost": 150,
   "abilityName": "DynamicAbility_Activity_ArcLightRun_Invinsible_V7_1"

@@ -1,6 +1,6 @@
 [
  {
-  "cdTime": 5.0,
+  "cdTime": 5,
   "guideKey": [
    "GuideAsterios",
    "GuideAsterPC",
@@ -12,7 +12,7 @@
   "guideOpenState": "OPEN_STATE_GUIDE_ACTIVITY_SKILL_ASTER",
   "skillIcon": "Skill_C_ChargeNormal",
   "energyMax": 200,
-  "KMKBLBKIIAM": 5.0,
+  "KMKBLBKIIAM": 5,
   "skillTarget": "AST_PLAY",
   "unableTextTextMapHash": 3023982298,
   "interruptTextTextMapHash": 3139714931,
@@ -20,7 +20,7 @@
   "abilityName": "SceneObj_Aster_PlayEntity_Esay"
  },
  {
-  "cdTime": 5.0,
+  "cdTime": 5,
   "guideKey": [
    "GuideAsterios",
    "GuideAsterPC",
@@ -32,7 +32,7 @@
   "guideOpenState": "OPEN_STATE_GUIDE_ACTIVITY_SKILL_ASTER",
   "skillIcon": "Skill_C_ChargeNormal",
   "energyMax": 200,
-  "KMKBLBKIIAM": 5.0,
+  "KMKBLBKIIAM": 5,
   "skillTarget": "AST_PLAY",
   "unableTextTextMapHash": 1411313210,
   "interruptTextTextMapHash": 2738964379,
@@ -40,7 +40,7 @@
   "abilityName": "SceneObj_Aster_PlayEntity_Normal"
  },
  {
-  "cdTime": 5.0,
+  "cdTime": 5,
   "guideKey": [
    "GuideAsterios",
    "GuideAsterPC",
@@ -52,7 +52,7 @@
   "guideOpenState": "OPEN_STATE_GUIDE_ACTIVITY_SKILL_ASTER",
   "skillIcon": "Skill_C_ChargeNormal",
   "energyMax": 300,
-  "KMKBLBKIIAM": 5.0,
+  "KMKBLBKIIAM": 5,
   "skillTarget": "AST_PLAY",
   "unableTextTextMapHash": 131537850,
   "interruptTextTextMapHash": 1853603443,
@@ -60,7 +60,7 @@
   "abilityName": "SceneObj_Aster_PlayEntity_Hard"
  },
  {
-  "cdTime": 5.0,
+  "cdTime": 5,
   "guideKey": [
    "GuideAsterios",
    "GuideAsterPC",
@@ -72,7 +72,7 @@
   "guideOpenState": "OPEN_STATE_GUIDE_ACTIVITY_SKILL_ASTER",
   "skillIcon": "Skill_C_ChargeNormal",
   "energyMax": 400,
-  "KMKBLBKIIAM": 5.0,
+  "KMKBLBKIIAM": 5,
   "skillTarget": "AST_PLAY",
   "unableTextTextMapHash": 3638211266,
   "interruptTextTextMapHash": 3668771819,
@@ -80,7 +80,7 @@
   "abilityName": "SceneObj_Aster_PlayEntity_Single"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_Electric_Stake_Play",
   "id": 20007,
   "channelTextTextMapHash": 3118572110,
@@ -93,7 +93,7 @@
   "abilityName": "SceneObj_Electric_Stake_Play"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_Electric_Core",
   "id": 20008,
   "channelTextTextMapHash": 1034297878,
@@ -105,7 +105,7 @@
   "abilityName": "SceneObj_Electric_Core"
  },
  {
-  "cdTime": 5.0,
+  "cdTime": 5,
   "globalValueKey": "AVATAR_Temari_Hide_Ball",
   "id": 20009,
   "channelTextTextMapHash": 2544211638,
@@ -116,7 +116,7 @@
   "abilityName": "SceneObj_Temari_Hide_Ball"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_Electric_Core",
   "id": 20010,
   "channelTextTextMapHash": 1361974054,
@@ -128,7 +128,7 @@
   "abilityName": "SceneObj_Electric_Core_Challenge"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_Firecracker_Play",
   "id": 20011,
   "channelTextTextMapHash": 1337122782,
@@ -141,13 +141,13 @@
   "abilityName": "SceneObj_Firecracker_Play"
  },
  {
-  "cdTime": 4.0,
+  "cdTime": 4,
   "globalValueKey": "Light_Stone_Energy",
   "id": 20012,
   "channelTextTextMapHash": 337202894,
   "skillIcon": "Skill_C_ElectricTransfer",
   "energyMax": 100,
-  "KMKBLBKIIAM": 4.0,
+  "KMKBLBKIIAM": 4,
   "skillTarget": "AST_TEAM",
   "unableTextTextMapHash": 2273549850,
   "interruptTextTextMapHash": 3827395547,
@@ -155,13 +155,13 @@
   "abilityName": "SceneObj_LightStone_Lv1"
  },
  {
-  "cdTime": 2.0,
+  "cdTime": 2,
   "globalValueKey": "Light_Stone_Energy",
   "id": 20013,
   "channelTextTextMapHash": 2917690294,
   "skillIcon": "Skill_C_ElectricTransfer",
   "energyMax": 100,
-  "KMKBLBKIIAM": 2.0,
+  "KMKBLBKIIAM": 2,
   "skillTarget": "AST_TEAM",
   "unableTextTextMapHash": 69798562,
   "interruptTextTextMapHash": 3806611115,
@@ -169,7 +169,7 @@
   "abilityName": "SceneObj_LightStone_Lv2"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_GrapplingHookSkill",
   "id": 20014,
   "channelTextTextMapHash": 1415828478,
@@ -182,7 +182,7 @@
   "abilityName": "GrapplingHookSkill_Ability"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_GrapplingHookSkill",
   "id": 20015,
   "channelTextTextMapHash": 1776020438,
@@ -194,7 +194,7 @@
   "abilityName": "GrapplingHookSkill_Step2_Ability"
  },
  {
-  "cdTime": 15.0,
+  "cdTime": 15,
   "globalValueKey": "AVATAR_SummerTimeV2_KazuhaAOE",
   "id": 20016,
   "channelTextTextMapHash": 1063442110,
@@ -207,7 +207,7 @@
   "abilityName": "ActivityAbility_SummerTimeV2_KazuhaAOE"
  },
  {
-  "cdTime": 15.0,
+  "cdTime": 15,
   "globalValueKey": "UNSTABLE_SPRAY_CD",
   "id": 20017,
   "channelTextTextMapHash": 4218660686,
@@ -221,7 +221,7 @@
   "abilityName": "ActivityAbility_UnstableSpray"
  },
  {
-  "cdTime": 20.0,
+  "cdTime": 20,
   "guideKey": [
    "GuideWindFieldios",
    "GuideWindFieldPC",
@@ -240,7 +240,7 @@
   "abilityName": "ActivityAbility_Maze_Skill"
  },
  {
-  "cdTime": 5.0,
+  "cdTime": 5,
   "guideKey": [
    "GuideMuqadasIOS",
    "GuideMuqadasPC",
@@ -265,7 +265,7 @@
   "abilityName": "ActivityAbility_MuqadasPotion_Key"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_TMHY_Bright_Play",
   "id": 20020,
   "channelTextTextMapHash": 2433014342,
@@ -278,7 +278,7 @@
   "abilityName": "SceneObj_TMHY_Bright_Play"
  },
  {
-  "cdTime": 3.0,
+  "cdTime": 3,
   "globalValueKey": "GAGANA_ENERGY",
   "id": 20021,
   "channelTextTextMapHash": 3441069718,
@@ -292,7 +292,7 @@
   "abilityName": "Gagana_ActivateCircle_Electric"
  },
  {
-  "cdTime": 3.0,
+  "cdTime": 3,
   "globalValueKey": "GAGANA_ENERGY",
   "id": 20022,
   "channelTextTextMapHash": 289371846,
@@ -306,7 +306,7 @@
   "abilityName": "Gagana_ActivateCircle_Fire"
  },
  {
-  "cdTime": 3.0,
+  "cdTime": 3,
   "globalValueKey": "GAGANA_ENERGY",
   "id": 20023,
   "channelTextTextMapHash": 4176931830,
@@ -320,7 +320,7 @@
   "abilityName": "Gagana_ActivateCircle_Ice"
  },
  {
-  "cdTime": 3.0,
+  "cdTime": 3,
   "globalValueKey": "GAGANA_ENERGY",
   "id": 20024,
   "channelTextTextMapHash": 354951094,
@@ -334,7 +334,7 @@
   "abilityName": "Gagana_ActivateCircle_Wind"
  },
  {
-  "cdTime": 3.0,
+  "cdTime": 3,
   "globalValueKey": "GAGANA_ENERGY",
   "id": 20025,
   "channelTextTextMapHash": 305452774,
@@ -348,7 +348,7 @@
   "abilityName": "Gagana_ActivateCircle_Water"
  },
  {
-  "cdTime": 3.0,
+  "cdTime": 3,
   "globalValueKey": "GAGANA_ENERGY",
   "id": 20026,
   "channelTextTextMapHash": 1546572470,
@@ -362,7 +362,7 @@
   "abilityName": "Gagana_ActivateCircle_Electric_Mirror"
  },
  {
-  "cdTime": 3.0,
+  "cdTime": 3,
   "globalValueKey": "GV_Scene_ShadowPlay_Transfer",
   "id": 20027,
   "channelTextTextMapHash": 21715822,
@@ -376,7 +376,7 @@
   "abilityName": "TeamAbility_Scene_ShadowPlay_Transfer"
  },
  {
-  "cdTime": 3.0,
+  "cdTime": 3,
   "globalValueKey": "GV_Scene_ShadowPlay_Transfer",
   "id": 20028,
   "channelTextTextMapHash": 901788662,
@@ -390,7 +390,7 @@
   "abilityName": "TeamAbility_Scene_ShadowPlay_Transfer"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "GAGANA_ENERGY",
   "id": 20029,
   "channelTextTextMapHash": 3017472742,
@@ -405,7 +405,7 @@
   "abilityName": "Gagana_ActivateAimShoot"
  },
  {
-  "cdTime": 5.0,
+  "cdTime": 5,
   "globalValueKey": "BossChallenge_Energy",
   "id": 20030,
   "channelTextTextMapHash": 1948061478,
@@ -418,7 +418,7 @@
   "abilityName": "ActivityAbility_BossChallenge_Water_FreezeTriggerCJB"
  },
  {
-  "cdTime": 5.0,
+  "cdTime": 5,
   "globalValueKey": "BossChallenge_Energy",
   "id": 20031,
   "channelTextTextMapHash": 3220890374,
@@ -431,7 +431,7 @@
   "abilityName": "ActivityAbility_BossChallenge_Water_ElementAddHurt_Ice"
  },
  {
-  "cdTime": 5.0,
+  "cdTime": 5,
   "globalValueKey": "BossChallenge_Energy",
   "id": 20032,
   "channelTextTextMapHash": 1954240294,
@@ -444,7 +444,7 @@
   "abilityName": "ActivityAbility_BossChallenge_Water_ElementAddHurt_Elec"
  },
  {
-  "cdTime": 5.0,
+  "cdTime": 5,
   "globalValueKey": "BossChallenge_Energy",
   "id": 20033,
   "channelTextTextMapHash": 38178686,
@@ -457,7 +457,7 @@
   "abilityName": "ActivityAbility_BossChallenge_Water_KillMonsterHealHp"
  },
  {
-  "cdTime": 5.0,
+  "cdTime": 5,
   "globalValueKey": "BossChallenge_Energy",
   "id": 20034,
   "channelTextTextMapHash": 1095173782,
@@ -470,7 +470,7 @@
   "abilityName": "ActivityAbility_BossChallenge_Fire_ElementAddHurt_Water"
  },
  {
-  "cdTime": 5.0,
+  "cdTime": 5,
   "globalValueKey": "BossChallenge_Energy",
   "id": 20035,
   "channelTextTextMapHash": 35414598,
@@ -483,7 +483,7 @@
   "abilityName": "ActivityAbility_BossChallenge_Fire_Rain"
  },
  {
-  "cdTime": 5.0,
+  "cdTime": 5,
   "globalValueKey": "BossChallenge_Energy",
   "id": 20036,
   "channelTextTextMapHash": 1911679838,
@@ -496,7 +496,7 @@
   "abilityName": "ActivityAbility_BossChallenge_Fire_KillMonsterAttackUp"
  },
  {
-  "cdTime": 5.0,
+  "cdTime": 5,
   "globalValueKey": "BossChallenge_Energy",
   "id": 20037,
   "channelTextTextMapHash": 457894710,
@@ -509,7 +509,7 @@
   "abilityName": "ActivityAbility_BossChallenge_Fire_SubHurtDeltaDown"
  },
  {
-  "cdTime": 5.0,
+  "cdTime": 5,
   "globalValueKey": "BossChallenge_Energy",
   "id": 20038,
   "channelTextTextMapHash": 585892566,
@@ -522,7 +522,7 @@
   "abilityName": "ActivityAbility_BossChallenge_Ice_DoubleDestoryShield"
  },
  {
-  "cdTime": 5.0,
+  "cdTime": 5,
   "globalValueKey": "BossChallenge_Energy",
   "id": 20039,
   "channelTextTextMapHash": 3145442158,
@@ -535,7 +535,7 @@
   "abilityName": "ActivityAbility_BossChallenge_Ice_DestoryWall"
  },
  {
-  "cdTime": 5.0,
+  "cdTime": 5,
   "globalValueKey": "BossChallenge_Energy",
   "id": 20040,
   "channelTextTextMapHash": 2126610174,
@@ -548,7 +548,7 @@
   "abilityName": "ActivityAbility_BossChallenge_Ice_ElementAddHurt_Fire"
  },
  {
-  "cdTime": 5.0,
+  "cdTime": 5,
   "globalValueKey": "BossChallenge_Energy",
   "id": 20041,
   "channelTextTextMapHash": 47160942,
@@ -561,7 +561,7 @@
   "abilityName": "ActivityAbility_BossChallenge_Ice_HealHp"
  },
  {
-  "cdTime": 5.0,
+  "cdTime": 5,
   "globalValueKey": "BossChallenge_Energy",
   "id": 20042,
   "channelTextTextMapHash": 1909335830,
@@ -574,7 +574,7 @@
   "abilityName": "ActivityAbility_BossChallenge_Grass_ChangeTriggerDamageUp"
  },
  {
-  "cdTime": 5.0,
+  "cdTime": 5,
   "globalValueKey": "BossChallenge_Energy",
   "id": 20043,
   "channelTextTextMapHash": 207684134,
@@ -587,7 +587,7 @@
   "abilityName": "ActivityAbility_BossChallenge_Grass_HealHp"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_GrapplingHookSkill",
   "id": 20044,
   "channelTextTextMapHash": 1585433478,
@@ -600,7 +600,7 @@
   "abilityName": "Gagana_GrapplingHookSkill"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "TEAM_TMHY_Bright_Play",
   "id": 20045,
   "channelTextTextMapHash": 4101867174,
@@ -614,7 +614,7 @@
   "abilityName": "Team_TMHY_BrightPlay_DeployHandler"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "SORUSH_GrapplingHook_Mark",
   "id": 20046,
   "PELKMJABJND": true,
@@ -630,7 +630,7 @@
   "LKMAIEOJIGL": true
  },
  {
-  "cdTime": 3.0,
+  "cdTime": 3,
   "globalValueKey": "_ABILITY_PORTABLE_CELL",
   "id": 20047,
   "channelTextTextMapHash": 665411254,
@@ -643,7 +643,7 @@
   "abilityName": "TeamAbility_Fd_PortableCell"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "TEAM_TMHY_Bright01_Play",
   "id": 20048,
   "channelTextTextMapHash": 1308840470,
@@ -657,7 +657,7 @@
   "abilityName": "Team_TMHY_BrightPlayRuin01_DeployHandler"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "TEAM_TMHY_Bright02_Play",
   "id": 20049,
   "channelTextTextMapHash": 2337382158,
@@ -671,7 +671,7 @@
   "abilityName": "Team_TMHY_BrightPlayRuin02_DeployHandler"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_GrapplingHookSkill",
   "id": 20050,
   "channelTextTextMapHash": 1935328134,
@@ -684,7 +684,7 @@
   "abilityName": "AkaFesGrapplingHookSkill_Ability"
  },
  {
-  "cdTime": 3.0,
+  "cdTime": 3,
   "globalValueKey": "_ABILITY_PORTABLE_CELL_PhantomChasing",
   "id": 20051,
   "channelTextTextMapHash": 3250069190,
@@ -697,7 +697,7 @@
   "abilityName": "ActivityAbility_Fd_Cell_PhantomChasing"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "GV_QUESTHEART_COUNT",
   "id": 20052,
   "channelTextTextMapHash": 3247727142,
@@ -710,7 +710,7 @@
   "abilityName": "SceneObj_Area_Fd_Property_Ani_Prop_ElynasHeart_SkillDynamic"
  },
  {
-  "cdTime": 5.0,
+  "cdTime": 5,
   "guideKey": [
    "GuideMuqadasIOS",
    "GuideMuqadasPC",
@@ -735,7 +735,7 @@
   "abilityName": "ActivityAbility_MuqadasPotion_KeyV2"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_FishMoveSkill",
   "id": 20054,
   "channelTextTextMapHash": 2221538846,
@@ -748,7 +748,7 @@
   "abilityName": "ActivityAbility_CarpJump_T"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_SpectacleBuildSkill",
   "id": 20055,
   "channelTextTextMapHash": 1754386126,
@@ -761,7 +761,7 @@
   "abilityName": "ActivityAbility_SpectacleBuild_T"
  },
  {
-  "cdTime": 20.0,
+  "cdTime": 20,
   "guideKey": [
    "GuideDiceDungeonSkillios",
    "GuideDiceDungeonSkillPC",
@@ -780,7 +780,7 @@
   "abilityName": "ActivityAbility_JourneyDungeon_SevenElementCJB"
  },
  {
-  "cdTime": 3.0,
+  "cdTime": 3,
   "globalValueKey": "AVATAR_CandleSkill",
   "id": 20057,
   "channelTextTextMapHash": 2733288974,
@@ -793,7 +793,7 @@
   "abilityName": "ActivityAbility_Candle_T"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_ControlPlatformSkill",
   "id": 20058,
   "channelTextTextMapHash": 798200638,
@@ -806,7 +806,7 @@
   "abilityName": "ControlPlatformSkill_Ability"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_HornlessDragonSkill",
   "id": 20059,
   "channelTextTextMapHash": 304198406,
@@ -819,7 +819,7 @@
   "abilityName": "ActivityAbility_HornlessDragon_T"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_LinePredev",
   "id": 20060,
   "channelTextTextMapHash": 2206794374,
@@ -847,7 +847,7 @@
   "abilityName": "V4_8_FairyBook_LineStick_ActivitySkill"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_Activity_MagicWave",
   "id": 20062,
   "channelTextTextMapHash": 1615758182,
@@ -858,7 +858,7 @@
   "abilityName": "Avatar_DiveSkill_Octopus_OnGround_AbandonSkill"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_TalkStatueSkill",
   "id": 20063,
   "channelTextTextMapHash": 758795942,
@@ -871,7 +871,7 @@
   "abilityName": "TalkStatueSkill_Ability"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_TalkStatueBaseSkill",
   "id": 20064,
   "channelTextTextMapHash": 2205714998,
@@ -884,7 +884,7 @@
   "abilityName": "TalkStatueBaseSkill_Ability"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "Telelinestick_Entry_Energy",
   "id": 20065,
   "channelTextTextMapHash": 2594073486,
@@ -899,7 +899,7 @@
   "abilityName": "V4_8_FairyBook_Telelinestick_ActivitySkill"
  },
  {
-  "cdTime": 2.0,
+  "cdTime": 2,
   "skillChargePhase": [
    300,
    600
@@ -916,7 +916,7 @@
   "abilityName": "ActivityAbility_QuickTimeCombat_V1"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_PutStuffSkill",
   "id": 20067,
   "channelTextTextMapHash": 2285663142,
@@ -929,7 +929,7 @@
   "abilityName": "ActivityAbility_PutStuff_T"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_BambooSlipsSkill",
   "id": 20068,
   "channelTextTextMapHash": 3168372398,
@@ -942,7 +942,7 @@
   "abilityName": "ActivityAbility_BambooSlips_T"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "OrigamiSquirrel_Entrance_Energy",
   "id": 20069,
   "channelTextTextMapHash": 1624059718,
@@ -971,7 +971,7 @@
   "abilityName": "V4_8_FairyBook_OrigamiSquirrel_Exit"
  },
  {
-  "cdTime": 25.0,
+  "cdTime": 25,
   "globalValueKey": "RainbowPrince_Dungeon_Skill",
   "id": 20071,
   "channelTextTextMapHash": 1562281566,
@@ -984,7 +984,7 @@
   "abilityName": "TeamAbility_Activity_RainbowPrince_Dungeon_Skill"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_WhaleHookSkill",
   "id": 20072,
   "channelTextTextMapHash": 456802270,
@@ -997,7 +997,7 @@
   "abilityName": "Ability_Whale_Hook_Avatar"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_LostSamachurl",
   "id": 20073,
   "channelTextTextMapHash": 4218044998,
@@ -1010,7 +1010,7 @@
   "abilityName": "LostSamachurl_Skill_Ability"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_LineType1",
   "id": 20074,
   "channelTextTextMapHash": 1280207798,
@@ -1024,7 +1024,7 @@
   "abilityName": "LineType_1_Avatar_ExtraSkillHandler_Ability"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_LineType2_Frog",
   "id": 20075,
   "channelTextTextMapHash": 4068113390,
@@ -1038,7 +1038,7 @@
   "abilityName": "LineType_2_Avatar_ExtraSkillHandler_Ability"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_LineType2_Cancel",
   "id": 20076,
   "channelTextTextMapHash": 2599054998,
@@ -1052,7 +1052,7 @@
   "abilityName": "LineType_2_Avatar_GiveUp_Link"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_SiLongSkill",
   "id": 20077,
   "channelTextTextMapHash": 1976765302,
@@ -1065,7 +1065,7 @@
   "abilityName": "ActivityAbility_SiLong_T"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_LostSamachurl_Gadget",
   "id": 20078,
   "channelTextTextMapHash": 2190499662,
@@ -1078,7 +1078,7 @@
   "abilityName": "LostSamachurl_Gadget_Ability"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_LostSamachurl_Target",
   "id": 20079,
   "channelTextTextMapHash": 1618582222,
@@ -1091,7 +1091,7 @@
   "abilityName": "LostSamachurl_Target_Ability"
  },
  {
-  "cdTime": 20.0,
+  "cdTime": 20,
   "globalValueKey": "GV_FilmfestBattle_Charge",
   "id": 20080,
   "channelTextTextMapHash": 3038298062,
@@ -1104,7 +1104,7 @@
   "abilityName": "Activity_FilmfestBattle_TeamAbility_01"
  },
  {
-  "cdTime": 20.0,
+  "cdTime": 20,
   "globalValueKey": "GV_FilmfestBattle_Charge",
   "id": 20081,
   "channelTextTextMapHash": 2015738494,
@@ -1117,7 +1117,7 @@
   "abilityName": "Activity_FilmfestBattle_TeamAbility_02"
  },
  {
-  "cdTime": 20.0,
+  "cdTime": 20,
   "globalValueKey": "GV_FilmfestBattle_Charge",
   "id": 20082,
   "channelTextTextMapHash": 810445782,
@@ -1130,7 +1130,7 @@
   "abilityName": "Activity_FilmfestBattle_TeamAbility_03"
  },
  {
-  "cdTime": 20.0,
+  "cdTime": 20,
   "globalValueKey": "GV_FilmfestBattle_Charge",
   "id": 20083,
   "channelTextTextMapHash": 3525950438,
@@ -1143,7 +1143,7 @@
   "abilityName": "Activity_FilmfestBattle_TeamAbility_04"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_Building_Block_Charge",
   "id": 20084,
   "channelTextTextMapHash": 1176323702,
@@ -1157,7 +1157,7 @@
   "abilityName": "V4_8_FairyBook_ToyBrick_Avatar_ExtraSkillHandler_Ability"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_CarpBallSkill",
   "id": 20085,
   "channelTextTextMapHash": 3804440318,
@@ -1170,7 +1170,7 @@
   "abilityName": "ActivityAbility_CarpBall_T"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_GrainsOfGemstoneSkill",
   "id": 20086,
   "channelTextTextMapHash": 396419982,
@@ -1183,7 +1183,7 @@
   "abilityName": "ActivityAbility_GrainsOfGemstone_T"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_BambooSlipsPutSkill",
   "id": 20087,
   "channelTextTextMapHash": 1121477566,
@@ -1196,7 +1196,7 @@
   "abilityName": "ActivityAbility_BambooSlipsPut_T"
  },
  {
-  "cdTime": 3.0,
+  "cdTime": 3,
   "globalValueKey": "AVATAR_CandleReleaseSkill",
   "id": 20088,
   "channelTextTextMapHash": 4085320262,
@@ -1235,7 +1235,7 @@
   "abilityName": "SceneAbility_4_6_RemusMusic"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_Building_Block_Cancel_Energy",
   "id": 20091,
   "channelTextTextMapHash": 26334006,
@@ -1250,7 +1250,7 @@
   "abilityName": "V4_8_FairyBook_ToyBrick_Shoot_ManualExit_Entrance"
  },
  {
-  "cdTime": 4.0,
+  "cdTime": 4,
   "FKALIPPOMBM": true,
   "globalValueKey": "Transfer_Vehicle_Skill",
   "id": 20092,
@@ -1266,7 +1266,7 @@
   "abilityName": "TeamAbility_Natsaurus_Transfer_Vehicle_Skill"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "Fairybook_Default_T_Unusable",
   "id": 20093,
   "channelTextTextMapHash": 3162717022,
@@ -1279,7 +1279,7 @@
   "energyMin": 1
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_BaozhuSkill",
   "id": 20094,
   "channelTextTextMapHash": 2853826350,
@@ -1316,7 +1316,7 @@
   "abilityName": "ActivityAbility_MuqadasPotion_KeyV3"
  },
  {
-  "cdTime": 15.0,
+  "cdTime": 15,
   "skillChargePhase": [
    1000,
    2000
@@ -1333,7 +1333,7 @@
   "abilityName": "ActivityAbility_EffigyChallenge_V5_AssistSkill"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_FishMoveSkill02",
   "id": 20097,
   "channelTextTextMapHash": 3535582158,
@@ -1346,7 +1346,7 @@
   "abilityName": "ActivityAbility_CarpJump_T"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_HornlessDragonSkill02",
   "id": 20098,
   "channelTextTextMapHash": 1840848766,
@@ -1359,7 +1359,7 @@
   "abilityName": "ActivityAbility_HornlessDragon_T"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_FishMoveSkill03",
   "id": 20099,
   "channelTextTextMapHash": 2155618038,
@@ -1372,7 +1372,7 @@
   "abilityName": "ActivityAbility_CarpJump_T"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_FishMoveSkill04",
   "id": 20100,
   "channelTextTextMapHash": 4037004878,
@@ -1385,7 +1385,7 @@
   "abilityName": "ActivityAbility_CarpJump_T"
  },
  {
-  "cdTime": 2.0,
+  "cdTime": 2,
   "globalValueKey": "Team_Human_Dragon_Collaboration",
   "id": 20101,
   "channelTextTextMapHash": 3057824270,
@@ -1398,7 +1398,7 @@
   "abilityName": "TeamAbility_Natsaurus_Human_Dragon_Collaboration"
  },
  {
-  "cdTime": 15.0,
+  "cdTime": 15,
   "skillChargePhase": [
    100,
    200,
@@ -1417,7 +1417,7 @@
   "abilityName": "ActivityAbility_BulletHell_Skill_00"
  },
  {
-  "cdTime": 15.0,
+  "cdTime": 15,
   "skillChargePhase": [
    100,
    200,
@@ -1436,7 +1436,7 @@
   "abilityName": "ActivityAbility_BulletHell_Skill_01"
  },
  {
-  "cdTime": 15.0,
+  "cdTime": 15,
   "skillChargePhase": [
    100,
    200,
@@ -1455,7 +1455,7 @@
   "abilityName": "ActivityAbility_BulletHell_Skill_02"
  },
  {
-  "cdTime": 15.0,
+  "cdTime": 15,
   "skillChargePhase": [
    100,
    200,
@@ -1474,7 +1474,7 @@
   "abilityName": "ActivityAbility_BulletHell_Skill_03"
  },
  {
-  "cdTime": 15.0,
+  "cdTime": 15,
   "skillChargePhase": [
    100,
    200,
@@ -1493,7 +1493,7 @@
   "abilityName": "ActivityAbility_BulletHell_Skill_04"
  },
  {
-  "cdTime": 2.0,
+  "cdTime": 2,
   "globalValueKey": "Team_Human_Dragon_Collaboration",
   "id": 20107,
   "channelTextTextMapHash": 1006297814,
@@ -1506,7 +1506,7 @@
   "abilityName": "TeamAbility_Natsaurus_Human_Dragon_Collaboration"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_Building_Block_Change_Charge",
   "id": 20108,
   "channelTextTextMapHash": 3736087366,
@@ -1520,7 +1520,7 @@
   "abilityName": "V4_8_FairyBook_ToyBrick_Change_Avatar_ExtraSkillHandler_Ability"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "GV_ShareCD_Test_01",
   "id": 20109,
   "channelTextTextMapHash": 1875933926,
@@ -1533,7 +1533,7 @@
   "abilityName": "ShareCD_Test_01"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "GV_ShareCD_Test_02",
   "id": 20110,
   "channelTextTextMapHash": 1840458606,
@@ -1546,7 +1546,7 @@
   "abilityName": "ShareCD_Test_02"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_LineType2_Alpaca",
   "id": 20111,
   "channelTextTextMapHash": 3585545926,
@@ -1560,7 +1560,7 @@
   "abilityName": "LineType_2_Avatar_ExtraSkillHandler_Ability"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_MagnetThrowSkill",
   "id": 20112,
   "channelTextTextMapHash": 21283710,
@@ -1575,7 +1575,7 @@
   "abilityName": "MagnetThrowSkill_TeamAbility"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_MagnetThrowInPlaceSkill",
   "id": 20113,
   "channelTextTextMapHash": 1600029686,
@@ -1590,7 +1590,7 @@
   "abilityName": "MagnetThrowInPlaceSkill_TeamAbility"
  },
  {
-  "cdTime": 9.0,
+  "cdTime": 9,
   "skillChargePhase": [
    100,
    200
@@ -1607,7 +1607,7 @@
   "abilityName": "ActivityAbility_BoltBugAbyss_TSkill"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_Activity_SpecialFocusAttack01Energy",
   "id": 20115,
   "channelTextTextMapHash": 4194215454,
@@ -1620,7 +1620,7 @@
   "abilityName": "Activity_SpecialFocusAttack01_Trigger"
  },
  {
-  "cdTime": 4.0,
+  "cdTime": 4,
   "FKALIPPOMBM": true,
   "globalValueKey": "NatsaurusDragon_Staff_Skill",
   "id": 20116,
@@ -1635,7 +1635,7 @@
   "abilityName": "DynamicAbility_NatsaurusDragon_Staff_T"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_MagLev",
   "id": 20117,
   "channelTextTextMapHash": 3897185110,
@@ -1648,7 +1648,7 @@
   "abilityName": "DynamicAbility_MagLev_Avatar_T"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_MagnetAbsorbSkill",
   "id": 20118,
   "channelTextTextMapHash": 2298130990,
@@ -1662,7 +1662,7 @@
   "abilityName": "MagnetAbsorbSkill_TeamAbility"
  },
  {
-  "cdTime": 4.0,
+  "cdTime": 4,
   "FKALIPPOMBM": true,
   "globalValueKey": "Boltbug_AimAbility",
   "id": 20119,
@@ -1678,7 +1678,7 @@
   "abilityName": "Dynamic_Boltbug_AimAbility_T"
  },
  {
-  "cdTime": 5.0,
+  "cdTime": 5,
   "globalValueKey": "Team_DyingBreath_Energy",
   "id": 20120,
   "channelTextTextMapHash": 3568758406,
@@ -1691,7 +1691,7 @@
   "abilityName": "ActivityAbility_LanternRite_DyingBreath_T"
  },
  {
-  "cdTime": 3.0,
+  "cdTime": 3,
   "globalValueKey": "Team_YZTD_Energy_P1",
   "id": 20121,
   "channelTextTextMapHash": 2980959158,
@@ -1705,7 +1705,7 @@
   "abilityName": "DynamicAbility_YZTD_Boss_P1_NotifyPartner"
  },
  {
-  "cdTime": 3.0,
+  "cdTime": 3,
   "globalValueKey": "Team_YZTD_Energy_P2",
   "id": 20122,
   "channelTextTextMapHash": 1864318510,
@@ -1719,7 +1719,7 @@
   "abilityName": "DynamicAbility_YZTD_Boss_P2_NotifyPartner"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_Activity_SpecialFocusAttack01Energy",
   "id": 20123,
   "channelTextTextMapHash": 2976025142,
@@ -1732,7 +1732,7 @@
   "abilityName": "Activity_SpecialFocusAttack01_Trigger"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "TEAM_PARTY_PROP_SLOT_ENERGY",
   "id": 20124,
   "channelTextTextMapHash": 440550086,
@@ -1745,7 +1745,7 @@
   "abilityName": "DynamicAbility_Party_DirtyBomb_T"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "skillChargePhase": [
    1,
    2,
@@ -1763,7 +1763,7 @@
   "abilityName": "DynamicAbility_Party_DirtyBombPlus_T"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "TEAM_PARTY_PROP_SLOT_ENERGY",
   "id": 20126,
   "channelTextTextMapHash": 2968696374,
@@ -1776,7 +1776,7 @@
   "abilityName": "DynamicAbility_Party_Missile_T"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "TEAM_PARTY_PROP_SLOT_ENERGY",
   "id": 20127,
   "channelTextTextMapHash": 1022192334,
@@ -1789,7 +1789,7 @@
   "abilityName": "DynamicAbility_Party_MissilePlus_T"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "TEAM_PARTY_PROP_SLOT_ENERGY",
   "id": 20128,
   "channelTextTextMapHash": 2145073862,
@@ -1802,7 +1802,7 @@
   "abilityName": "DynamicAbility_Party_TriggerBomb_T"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "TEAM_PARTY_PROP_SLOT_ENERGY",
   "id": 20129,
   "channelTextTextMapHash": 1139190582,
@@ -1815,7 +1815,7 @@
   "abilityName": "DynamicAbility_Party_CrossBomb_T"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "skillChargePhase": [
    1,
    2,
@@ -1833,7 +1833,7 @@
   "abilityName": "DynamicAbility_Party_CrossBombPlus_T"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "TEAM_PARTY_PROP_SLOT_ENERGY",
   "id": 20131,
   "channelTextTextMapHash": 1899219934,
@@ -1846,7 +1846,7 @@
   "abilityName": "DynamicAbility_Party_WaveCircle_T"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "FKALIPPOMBM": true,
   "globalValueKey": "TEAM_PARTY_PROP_SLOT_ENERGY",
   "id": 20132,
@@ -1859,7 +1859,7 @@
   "energyMin": 1
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_MagnetSkill_Get",
   "id": 20133,
   "channelTextTextMapHash": 3475828718,
@@ -1873,7 +1873,7 @@
   "abilityName": "6_3_MagnetThrowSkill_Avatar_Get"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_MagnetSkill_Forget",
   "id": 20134,
   "channelTextTextMapHash": 3824582310,
@@ -1900,7 +1900,7 @@
   "abilityName": "TeamAbility_V5_6_Activity_ThemeParkTriathlon_WitchTime_01"
  },
  {
-  "cdTime": 5.0,
+  "cdTime": 5,
   "skillChargePhase": [
    100,
    200,
@@ -1918,7 +1918,7 @@
   "abilityName": "TeamAbility_V5_6_Activity_WindRing_01"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_MagnetSkill_Get_02",
   "id": 20137,
   "channelTextTextMapHash": 3690798718,
@@ -1932,7 +1932,7 @@
   "abilityName": "6_3_MagnetThrowSkill_Avatar_Get_02"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "Team_Borometz_Exit",
   "id": 20138,
   "channelTextTextMapHash": 1291347798,
@@ -1947,7 +1947,7 @@
   "abilityName": "V6_3_AbsorbThrow_Borometz_Exit"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_MagnetizationPushPullSkill",
   "id": 20139,
   "channelTextTextMapHash": 2621754966,
@@ -1962,7 +1962,7 @@
   "abilityName": "MagnetizationPushPullSkill_TeamAbility"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_MagnetizationPushPullSkill",
   "id": 20140,
   "channelTextTextMapHash": 3095358062,
@@ -1976,7 +1976,7 @@
   "abilityName": "MagnetizationPushPullSkill_TeamAbility"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "TEAM_LunarisThrow_Get",
   "id": 20141,
   "channelTextTextMapHash": 2240579230,
@@ -1990,7 +1990,7 @@
   "abilityName": "V6_3_PlayerSkill_LuanrisThrow_Get"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "TEAM_PCity_Tskill_ENERGY",
   "id": 20142,
   "channelTextTextMapHash": 115447678,
@@ -2005,7 +2005,7 @@
   "abilityName": "V6_3_PCity_MagicBox_TSkill"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "TEAM_GravityBomb_Throw",
   "id": 20143,
   "channelTextTextMapHash": 3092886366,
@@ -2018,7 +2018,7 @@
   "abilityName": "WhiteBox_GravityBomb_Throw"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "TEAM_GravityBomb_Bang",
   "id": 20144,
   "channelTextTextMapHash": 1281085054,
@@ -2031,7 +2031,7 @@
   "abilityName": "WhiteBox_GravityBomb_Bang"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_AirHovering_Start",
   "id": 20145,
   "channelTextTextMapHash": 3297365862,
@@ -2044,7 +2044,7 @@
   "abilityName": "WhiteBox_AirHovering_Start"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_AirHovering_Shoot",
   "id": 20146,
   "channelTextTextMapHash": 3414715118,
@@ -2057,7 +2057,7 @@
   "abilityName": "WhiteBox_AirHovering_Shoot"
  },
  {
-  "cdTime": 2.0,
+  "cdTime": 2,
   "globalValueKey": "_TEAMSKILL_PARRY_ENERGY",
   "id": 20147,
   "channelTextTextMapHash": 605206486,
@@ -2070,7 +2070,7 @@
   "abilityName": "Monster_Limacidae_01_TeamActivitySkill_State1Trigger"
  },
  {
-  "cdTime": 5.0,
+  "cdTime": 5,
   "globalValueKey": "_TEAMSKILL_PARRY_ENERGY",
   "id": 20148,
   "channelTextTextMapHash": 710504382,
@@ -2084,7 +2084,7 @@
   "abilityName": "Monster_Limacidae_01_TeamActivitySkill_State2Trigger"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "TEAM_MagnetPower",
   "id": 20149,
   "channelTextTextMapHash": 2720936478,
@@ -2098,7 +2098,7 @@
   "abilityName": "MagnetPower_MagnetThrowRushSkill_TeamAbility"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "TEAM_MagnetPower",
   "id": 20150,
   "channelTextTextMapHash": 1809604598,
@@ -2113,7 +2113,7 @@
   "abilityName": "MagnetPower_MagnetThrowSkill_TeamAbility"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "TEAM_MagnetPower",
   "id": 20151,
   "channelTextTextMapHash": 3504223182,
@@ -2128,7 +2128,7 @@
   "abilityName": "MagnetPower_ThrowBullet_TeamAbility"
  },
  {
-  "cdTime": 5.0,
+  "cdTime": 5,
   "skillChargePhase": [
    100,
    200,
@@ -2146,7 +2146,7 @@
   "abilityName": "TeamAbility_V5_6_Activity_WindRing_01"
  },
  {
-  "cdTime": 16.0,
+  "cdTime": 16,
   "globalValueKey": "_TEAMSKILL_PARRY_ENERGY",
   "id": 20153,
   "channelTextTextMapHash": 3193178062,
@@ -2159,7 +2159,7 @@
   "abilityName": "Monster_Limacidae_01_TeamActivitySkill_Stage2LaserTrigger"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_Lunaris_CSMIX_Avatar_SkillGet_SUPER",
   "id": 20154,
   "channelTextTextMapHash": 3895603070,
@@ -2173,7 +2173,7 @@
   "abilityName": "V6_3_Lunaris_CSMIX_Avatar_SkillGet_SUPER"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "Team_Lunaris_CSMIX_Energy_Revive",
   "id": 20155,
   "channelTextTextMapHash": 487903206,
@@ -2187,7 +2187,7 @@
   "abilityName": "V6_3_Lunaris_CSMIX_Team_Energy_Revive"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "TEAM_GravityBomb_Absorb",
   "id": 20156,
   "channelTextTextMapHash": 622458454,
@@ -2200,7 +2200,7 @@
   "abilityName": "DynamicAbility_Team_Moon_Peittaa_Scan"
  },
  {
-  "cdTime": 10.0,
+  "cdTime": 10,
   "globalValueKey": "Team_PhotoEnergy_AllFull",
   "id": 20157,
   "channelTextTextMapHash": 3604664222,
@@ -2212,7 +2212,7 @@
   "abilityName": "DynamicAbility_PhotoGraphV6_T_ActivitySkill"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_AirHovering_Absorb",
   "id": 20158,
   "channelTextTextMapHash": 2141235870,
@@ -2225,7 +2225,7 @@
   "abilityName": "DynamicAbility_Team_Moon_Peittaa_GravityDash_Scan"
  },
  {
-  "cdTime": 6.0,
+  "cdTime": 6,
   "globalValueKey": "HolidayResortBattle_Energy",
   "id": 20159,
   "channelTextTextMapHash": 3918015046,
@@ -2238,7 +2238,7 @@
   "abilityName": "DynamicAbility_HolidayResortBattle_5_8_Energy"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "GV_ChameleonSkillEnergy_6_1",
   "id": 20160,
   "channelTextTextMapHash": 3006068422,
@@ -2252,7 +2252,7 @@
   "abilityName": "Team_6_1_ChameleonController_GameLogic_Input"
  },
  {
-  "cdTime": 3.0,
+  "cdTime": 3,
   "globalValueKey": "TEAM_MakeoverNightwatLantern_ENERGY",
   "id": 20161,
   "channelTextTextMapHash": 2387070622,
@@ -2265,7 +2265,7 @@
   "abilityName": "DynamicAbility_MakeoverNightwatLantern_T"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_Lunaris_CSMIX_Avatar_SkillGet",
   "id": 20162,
   "channelTextTextMapHash": 137630366,
@@ -2279,7 +2279,7 @@
   "abilityName": "V6_3_Lunaris_CSMIX_Avatar_SkillGet"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_Lunaris_Common_Panel_Change",
   "id": 20163,
   "channelTextTextMapHash": 3678393294,
@@ -2294,7 +2294,7 @@
   "abilityName": "V63_Lunaris_Common_Panel_Change"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "GV_OpenTheWaySkillEnergy_6_1",
   "id": 20164,
   "channelTextTextMapHash": 454106742,
@@ -2308,7 +2308,7 @@
   "abilityName": "Team_6_1_OpenTheWay_GameLogic_Input"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "GV_CannonFixSkillEnergy",
   "id": 20165,
   "channelTextTextMapHash": 1194944374,
@@ -2322,7 +2322,7 @@
   "abilityName": "ActivityAbility_CannonFix_GameLogic_Input"
  },
  {
-  "cdTime": 4.0,
+  "cdTime": 4,
   "globalValueKey": "GV_PushPullStage_SkillEnergy",
   "id": 20166,
   "channelTextTextMapHash": 3686913742,
@@ -2336,7 +2336,7 @@
   "abilityName": "6_5_PushPullStage_Skill_Left"
  },
  {
-  "cdTime": 4.0,
+  "cdTime": 4,
   "globalValueKey": "GV_PushPullStage_SkillEnergy",
   "id": 20167,
   "channelTextTextMapHash": 3861388918,
@@ -2350,7 +2350,7 @@
   "abilityName": "6_5_PushPullStage_Skill_Right"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "GV_PushPullContinue_SkillEnergy",
   "id": 20168,
   "channelTextTextMapHash": 3410668478,
@@ -2364,7 +2364,7 @@
   "abilityName": "6_5_PushPullContinue_Skill_Left"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "GV_PushPullContinue_SkillEnergy",
   "id": 20169,
   "channelTextTextMapHash": 1479985102,
@@ -2378,7 +2378,7 @@
   "abilityName": "6_5_PushPullContinue_Skill_Right"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_Lunaris_Lunaris_Boost_Avatar_SkillGet",
   "id": 20170,
   "channelTextTextMapHash": 3774777142,
@@ -2393,7 +2393,7 @@
   "abilityName": "V63_PlayerSkill_LunarisBoost_TEntrance"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_MagLev",
   "id": 20171,
   "channelTextTextMapHash": 3623899798,
@@ -2406,7 +2406,7 @@
   "abilityName": "DynamicAbility_Avatar_6_0_MoonFinger"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "GV_ToeSkillEnergy_6_1",
   "id": 20172,
   "channelTextTextMapHash": 3530912446,
@@ -2420,7 +2420,7 @@
   "abilityName": "Team_Level_Nt_Property_Ani_Prop_Toe_PlayerInput"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "GV_HuaKuang_SkillGet_SkillEnergy",
   "id": 20173,
   "channelTextTextMapHash": 2747745118,
@@ -2434,7 +2434,7 @@
   "abilityName": "6_5_HuaKuang_SkillGet"
  },
  {
-  "cdTime": 4.0,
+  "cdTime": 4,
   "FKALIPPOMBM": true,
   "globalValueKey": "Transfer_Vehicle_Skill",
   "id": 20174,
@@ -2450,7 +2450,7 @@
   "abilityName": "TeamAbility_Natsaurus_Transfer_Vehicle_Skill"
  },
  {
-  "cdTime": 2.0,
+  "cdTime": 2,
   "globalValueKey": "Team_Human_Dragon_Puzzle",
   "id": 20175,
   "channelTextTextMapHash": 2218877702,
@@ -2476,7 +2476,7 @@
   "abilityName": "Avatar_TPS_ADS_Aim"
  },
  {
-  "cdTime": 2.0,
+  "cdTime": 2,
   "triggerType": "Click",
   "globalValueKey": "GV_IceCreature_7_0",
   "id": 20177,
@@ -2491,7 +2491,7 @@
   "abilityName": "DynamicAbility_IceCreature_7_0"
  },
  {
-  "cdTime": 2.0,
+  "cdTime": 2,
   "globalValueKey": "GV_IceCreature_RopeWay_7_0",
   "id": 20178,
   "channelTextTextMapHash": 1535092622,
@@ -2504,7 +2504,7 @@
   "abilityName": "DynamicAbility_Zipline_AvatarAbility"
  },
  {
-  "cdTime": 3.0,
+  "cdTime": 3,
   "globalValueKey": "MONSTER_RERIR_MOONENERGY",
   "id": 20179,
   "channelTextTextMapHash": 3365785494,
@@ -2518,7 +2518,7 @@
   "abilityName": "Monster_Rerir_AvatarSkill_Break"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "MONSTER_RERIR_LIGHTENERGY",
   "id": 20180,
   "channelTextTextMapHash": 446516966,
@@ -2532,7 +2532,7 @@
   "abilityName": "Monster_Rerir_AvatarSkill_Light"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "GV_FoldBook_SkillEnergy",
   "id": 20181,
   "channelTextTextMapHash": 409313094,
@@ -2546,7 +2546,7 @@
   "abilityName": "6_5_FoldBook_Skill_Team"
  },
  {
-  "cdTime": 5.0,
+  "cdTime": 5,
   "globalValueKey": "GV_CollectGold_SkillEnergy",
   "id": 20182,
   "channelTextTextMapHash": 2027093742,
@@ -2560,7 +2560,7 @@
   "abilityName": "DynamicAbility_CollectGoldBattle_TeamAbility"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "TimeStopPhoto_TSkill",
   "id": 20183,
   "channelTextTextMapHash": 591701934,
@@ -2573,7 +2573,7 @@
   "abilityName": "ActivityAbility_TimeStopPhoto_Team"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "GV_SandAbsorb_SkillEnergy",
   "id": 20184,
   "channelTextTextMapHash": 1021505374,
@@ -2587,7 +2587,7 @@
   "abilityName": "DynamicAbility_V6_5_AbsorbSand"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "GV_SandThrow_SkillEnergy",
   "id": 20185,
   "channelTextTextMapHash": 2525375486,
@@ -2601,7 +2601,7 @@
   "abilityName": "DynamicAbility_V6_5_ThrowSand"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "GV_MagicStone_SkillEnergy",
   "id": 20186,
   "channelTextTextMapHash": 3132195390,
@@ -2615,7 +2615,7 @@
   "abilityName": "6_5_MagicStone_Skill_Team"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "GV_Ruins_SkillEnergy",
   "id": 20187,
   "channelTextTextMapHash": 1938773814,
@@ -2629,7 +2629,7 @@
   "abilityName": "DynamicAbility_Ruins_6_2_Team_T"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "GV_Execution_SkillEnergy",
   "id": 20188,
   "channelTextTextMapHash": 3649936158,
@@ -2643,7 +2643,7 @@
   "abilityName": "DynamicAbility_V6_5_Execution"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "GV_NatlanDragonParty_SkillEnergy",
   "id": 20189,
   "PELKMJABJND": true,
@@ -2658,7 +2658,7 @@
   "LKMAIEOJIGL": true
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "GV_NatlanDragonParty_SkillEnergy",
   "id": 20190,
   "PELKMJABJND": true,
@@ -2673,7 +2673,7 @@
   "LKMAIEOJIGL": true
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "GV_MagicStoneDeliver_SkillEnergy",
   "id": 20191,
   "channelTextTextMapHash": 1019417206,
@@ -2687,7 +2687,7 @@
   "abilityName": "6_5_MagicStone_Deliver_Team"
  },
  {
-  "cdTime": 2.0,
+  "cdTime": 2,
   "globalValueKey": "AVATAR_GrapplingHookSkill",
   "id": 20192,
   "channelTextTextMapHash": 3075716726,
@@ -2700,7 +2700,7 @@
   "abilityName": "DynamicAbility_TPSHook_7_0"
  },
  {
-  "cdTime": 2.0,
+  "cdTime": 2,
   "globalValueKey": "GV_Daobo_Energy",
   "id": 20193,
   "channelTextTextMapHash": 1529994102,
@@ -2714,7 +2714,7 @@
   "abilityName": "DynamicAbility_Team_WhiteBox_Daobo_Skill"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "GV_PushPullStage_Switch_SkillEnergy",
   "id": 20194,
   "channelTextTextMapHash": 3278455646,
@@ -2727,7 +2727,7 @@
   "abilityName": "6_5_PushPullStage_SkillManager"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "GV_A_TrapSkillEnable",
   "id": 20195,
   "channelTextTextMapHash": 978560926,
@@ -2741,7 +2741,7 @@
   "abilityName": "DynamicAbility_Avatar_Faerga_Command_A_TrapSkill"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "GV_B_RetreatSkillEnable",
   "id": 20196,
   "channelTextTextMapHash": 2224044670,
@@ -2755,7 +2755,7 @@
   "abilityName": "DynamicAbility_Avatar_Faerga_Command_B_RetreatSkill"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "GV_C_LanternSkillEnable",
   "id": 20197,
   "channelTextTextMapHash": 3558233662,
@@ -2769,7 +2769,7 @@
   "abilityName": "DynamicAbility_Avatar_Faerga_Command_C_LanternSkill"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "GV_D_BreachSkillEnable",
   "id": 20198,
   "channelTextTextMapHash": 1858161318,
@@ -2798,7 +2798,7 @@
   "abilityName": "V6_3_Pohjola_Lunaris_Explode_Activate"
  },
  {
-  "cdTime": 5.0,
+  "cdTime": 5,
   "globalValueKey": "GV_6_3_DotorreSkill_Charge",
   "id": 20200,
   "channelTextTextMapHash": 3173044054,
@@ -2823,7 +2823,7 @@
   "abilityName": "DynamicAbility_Team_VarkaCleanSkill"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "GV_QuickMove_OnMothSpirit_SkillEnergy",
   "id": 20203,
   "channelTextTextMapHash": 821896982,
@@ -2837,7 +2837,7 @@
   "abilityName": "DynamicAbility_V6_5_QuickMove_OnMothSpirit_T"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "GV_QuickMove_Hook_SkillEnergy",
   "id": 20204,
   "PELKMJABJND": true,
@@ -2852,7 +2852,7 @@
   "abilityName": "DynamicAbility_V6_5_QuickMove_Hook_T"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "GV_FirmamentBookDoor_Energy",
   "id": 20205,
   "channelTextTextMapHash": 3402769070,
@@ -2866,7 +2866,7 @@
   "abilityName": "DynamicAbility_FirmamentBookDoor_T"
  },
  {
-  "cdTime": 20.0,
+  "cdTime": 20,
   "globalValueKey": "GV_TradeShowBattle_CallBombEnergy",
   "id": 20206,
   "channelTextTextMapHash": 34935606,
@@ -2882,7 +2882,7 @@
   "LKMAIEOJIGL": true
  },
  {
-  "cdTime": 10.0,
+  "cdTime": 10,
   "globalValueKey": "GV_6_4_VarkaDungeon_NoelShield",
   "id": 20208,
   "channelTextTextMapHash": 3038411574,
@@ -2897,7 +2897,7 @@
   "abilityName": "ActivityAbility_6_4_VarkaDungeon_NoelShield"
  },
  {
-  "cdTime": 16.0,
+  "cdTime": 16,
   "globalValueKey": "_MONSTER_LUPIBOREAS_AVATARSPECIALSKILL_ENERGY_",
   "id": 20209,
   "channelTextTextMapHash": 2076549718,
@@ -2911,7 +2911,7 @@
   "abilityName": "LupiBoreas_AvatarSpecialSkill_CommonSettings"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "GV_MagicHand_Monster_SkillEnergy",
   "id": 20210,
   "channelTextTextMapHash": 1519580870,
@@ -2925,7 +2925,7 @@
   "abilityName": "DynamicAbility_V6_5_MagicHand_Monster_Skill"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "GV_CarryingFaerieFire",
   "id": 20211,
   "channelTextTextMapHash": 3313750734,
@@ -2940,7 +2940,7 @@
   "abilityName": "DynamicAbility_Fairy_LampAbilityManager_Team"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_NicoleFurnitureSkill",
   "id": 20213,
   "channelTextTextMapHash": 655814422,
@@ -2954,7 +2954,7 @@
   "abilityName": "NicoleFurnitureSkill_Ability"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_NicoleFurnitureBaseSkill",
   "id": 20214,
   "channelTextTextMapHash": 711896878,
@@ -2968,7 +2968,7 @@
   "abilityName": "NicoleFurnitureBaseSkill_Ability"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "GV_HuaKuang_SkillCancel_SkillEnergy",
   "id": 20215,
   "channelTextTextMapHash": 123657838,
@@ -2981,7 +2981,7 @@
   "abilityName": "6_5_HuaKuang_SkillCancel"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "AVATAR_AquarDiving_CatapultHookSkill",
   "id": 20216,
   "channelTextTextMapHash": 64572238,
@@ -2994,7 +2994,7 @@
   "abilityName": "Ability_Activity_AquariumDiving_Catapult_Hook_Avatar"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "GV_Orcs_BuildTower",
   "id": 20217,
   "channelTextTextMapHash": 4007259750,
@@ -3007,7 +3007,7 @@
   "abilityName": "DynamicAbility_Orcs_EnterBuildMode"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "GV_Orcs_ChangeBuildToward",
   "id": 20218,
   "channelTextTextMapHash": 820956814,
@@ -3020,7 +3020,7 @@
   "abilityName": "DynamicAbility_Orcs_ChangeBuildToward"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "GV_ArcLightRun_ActivateInvinsible",
   "id": 20220,
   "channelTextTextMapHash": 2140271278,
@@ -3031,7 +3031,7 @@
   "abilityName": "DynamicAbility_Activity_ArcLightRun_Invinsible_V7_1"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "GV_VaultDungeonRadio_Call",
   "id": 20222,
   "channelTextTextMapHash": 3528504926,
@@ -3044,7 +3044,7 @@
   "abilityName": "Quest_V7_1_VaultDungeonRadio_Team"
  },
  {
-  "cdTime": 1.0,
+  "cdTime": 1,
   "globalValueKey": "GV_Orcs_ChangeBuildToward",
   "id": 20226,
   "channelTextTextMapHash": 3391850462,

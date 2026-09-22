@@ -6,14 +6,14 @@
   "id": 1,
   "name": "风元素结晶雷达提示",
   "radarHintType": "Oculus",
-  "radius": 80.0
+  "radius": 80
  },
  {
   "iconName": "UI_MarkPoint_Ore",
   "id": 2,
   "name": "矿石雷达提示",
   "radarHintType": "Ore",
-  "radius": 160.0
+  "radius": 160
  },
  {
   "iconName": "UI_MarkPoint_LocalItem",
@@ -21,18 +21,18 @@
   "id": 3,
   "name": "采集物雷达提示",
   "radarHintType": "HarvetGadget",
-  "radius": 160.0
+  "radius": 160
  },
  {
   "iconName": "UI_MarkPoint_LocalItem",
   "effectType": "BLINK",
   "audioName": "Play_ui_feedback_windCrystal_appear",
-  "offsetRadius": 20.0,
+  "offsetRadius": 20,
   "id": 4,
   "name": "小陨石雷达提示",
   "radarHintType": "SmallMeteorite",
-  "areaRadius": 30.0,
-  "radius": 160.0
+  "areaRadius": 30,
+  "radius": 160
  },
  {
   "iconName": "UI_MarkPoint_DulinsEssence",
@@ -41,7 +41,7 @@
   "id": 5,
   "name": "绯红玉髓雷达提示",
   "radarHintType": "General",
-  "radius": 80.0
+  "radius": 80
  },
  {
   "OKCLOBCNCCP": true,
@@ -49,7 +49,7 @@
   "id": 6,
   "name": "躲猫猫能量球雷达提示",
   "radarHintType": "General",
-  "radius": 160.0
+  "radius": 160
  },
  {
   "iconName": "UI_MarkPoint_EchoShell",
@@ -58,7 +58,7 @@
   "id": 7,
   "name": "回声海螺雷达提示",
   "radarHintType": "General",
-  "radius": 160.0
+  "radius": 160
  },
  {
   "iconName": "UI_MarkPonint_LunaRiteMoonlitSigil",
@@ -67,7 +67,7 @@
   "id": 8,
   "name": "逐月神瞳雷达提示",
   "radarHintType": "General",
-  "radius": 80.0
+  "radius": 80
  },
  {
   "iconName": "UI_MarkPoint_ReginFeatherIntact",
@@ -77,7 +77,7 @@
   "id": 9,
   "name": "鹤观羽毛雷达提示",
   "radarHintType": "ReginFeatherIntact",
-  "radius": 80.0
+  "radius": 80
  },
  {
   "iconName": "UI_MarkPoint_ReginEnergyBall",
@@ -86,14 +86,14 @@
   "id": 10,
   "name": "鹤观栖木能量体雷达提示",
   "radarHintType": "General",
-  "radius": 80.0
+  "radius": 80
  },
  {
   "iconName": "UI_MarkPoint_Ore",
   "id": 11,
   "name": "渊下宫活动矿石雷达提示",
   "radarHintType": "AbyssalisleHarvest",
-  "radius": 160.0
+  "radius": 160
  },
  {
   "iconName": "UI_MarkPoint_LanternRiteV2_Salvage_QunyugeDebris",
@@ -101,7 +101,7 @@
   "id": 12,
   "name": "海灯节群玉阁碎片箱子",
   "radarHintType": "General",
-  "radius": 160.0
+  "radius": 160
  },
  {
   "iconName": "UI_MarkPoint_Kagimon",
@@ -110,14 +110,14 @@
   "id": 13,
   "name": "渊下宫键纹",
   "radarHintType": "General",
-  "radius": 80.0
+  "radius": 80
  },
  {
   "iconName": "UI_MarkPoint_LocalItem",
   "id": 14,
   "name": "渊下宫活动植物雷达提示",
   "radarHintType": "AbyssalislePlant",
-  "radius": 160.0
+  "radius": 160
  },
  {
   "iconName": "UI_MarkPoint_CelestiaSplinter",
@@ -126,7 +126,7 @@
   "id": 15,
   "name": "天空结晶雷达提示",
   "radarHintType": "General",
-  "radius": 80.0
+  "radius": 80
  },
  {
   "iconName": "UI_MarkPoint_RogueDiaryDungeon",
@@ -134,7 +134,7 @@
   "id": 16,
   "name": "肉鸽地城入口",
   "radarHintType": "General",
-  "radius": 160.0
+  "radius": 160
  },
  {
   "iconName": "UI_MarkPoint_RogueDiary",
@@ -142,7 +142,7 @@
   "id": 17,
   "name": "茧型空间",
   "radarHintType": "General",
-  "radius": 160.0
+  "radius": 160
  },
  {
   "iconName": "UI_MarkPoint_TreasureHuntBall",
@@ -152,7 +152,7 @@
   "id": 18,
   "name": "寻宝仙灵能量球雷达提示",
   "radarHintType": "ActivityTreasureHuntBall",
-  "radius": 160.0
+  "radius": 160
  },
  {
   "iconName": "UI_MarkPoint_EchoShell",
@@ -161,7 +161,7 @@
   "id": 19,
   "name": "2.8回声海螺",
   "radarHintType": "EchoShell",
-  "radius": 160.0
+  "radius": 160
  },
  {
   "iconName": "UI_MarkPoint_LensSmoke",
@@ -169,7 +169,7 @@
   "id": 20,
   "name": "未爆发死域雷达提示",
   "radarHintType": "General",
-  "radius": 160.0
+  "radius": 160
  },
  {
   "iconName": "UI_MarkPoint_Vintage1",
@@ -177,7 +177,7 @@
   "id": 21,
   "name": "3.1找礼物活动雷达提示",
   "radarHintType": "ActivityVintagePresent",
-  "radius": 30.0
+  "radius": 30
  },
  {
   "iconName": "UI_MarkPoint_Refuge",
@@ -186,7 +186,7 @@
   "id": 22,
   "name": "3.4精灵台座雷达提示",
   "radarHintType": "General",
-  "radius": 160.0
+  "radius": 160
  },
  {
   "iconName": "UI_MarkPoint_CoinCollect_01",
@@ -194,7 +194,7 @@
   "id": 23,
   "name": "3.3短距寻物气球提示",
   "radarHintType": "General",
-  "radius": 160.0
+  "radius": 160
  },
  {
   "iconName": "UI_MarkPoint_OfferingPari02",
@@ -203,7 +203,7 @@
   "id": 24,
   "name": "3.6花灵能量羽毛-探索",
   "radarHintType": "Oculus",
-  "radius": 80.0
+  "radius": 80
  },
  {
   "iconName": "UI_MarkPoint_OfferingPari01",
@@ -212,7 +212,7 @@
   "id": 25,
   "name": "3.6花灵能量羽毛-交互",
   "radarHintType": "Oculus",
-  "radius": 80.0
+  "radius": 80
  },
  {
   "iconName": "UI_MarkPoint_OfferingPari02",
@@ -221,7 +221,7 @@
   "id": 26,
   "name": "3.6 供奉相关NPC地图Mark",
   "radarHintType": "General",
-  "radius": 80.0
+  "radius": 80
  },
  {
   "iconName": "UI_MarkPoint_JoureySeal",
@@ -230,7 +230,7 @@
   "id": 27,
   "name": "3.7卡牌巡礼活动印章台雷达提示",
   "radarHintType": "ActivityJourneySealSeek",
-  "radius": 20.0
+  "radius": 20
  },
  {
   "iconName": "UI_MarkPoint_OfferingPari02",
@@ -240,7 +240,7 @@
   "id": 28,
   "name": "3.6花灵能量羽毛-追逐移动",
   "radarHintType": "Oculus",
-  "radius": 80.0
+  "radius": 80
  },
  {
   "iconName": "UI_MarkPoint_PenAdvRaffleTicket_Ball",
@@ -250,21 +250,21 @@
   "id": 29,
   "name": "3.8 奖券盒神瞳",
   "radarHintType": "ActivityPenAdvRaffleTicketBox",
-  "radius": 80.0
+  "radius": 80
  },
  {
   "iconName": "UI_MarkPoint_Gather_Collect",
   "id": 30,
   "name": "4.0伪采集物雷达提示",
   "radarHintType": "General",
-  "radius": 80.0
+  "radius": 80
  },
  {
   "iconName": "UI_MarkPoint_Diving_Fish",
   "id": 31,
   "name": "体力鱼",
   "radarHintType": "DivingFish",
-  "radius": 80.0
+  "radius": 80
  },
  {
   "iconName": "UI_MarkPoint_Material",
@@ -272,7 +272,7 @@
   "id": 32,
   "name": "4.2水下探索考古点",
   "radarHintType": "General",
-  "radius": 80.0
+  "radius": 80
  },
  {
   "iconName": "UI_MarkPoint_Silong_Small",
@@ -281,7 +281,7 @@
   "id": 33,
   "name": "4.4祀珑收集物提示",
   "radarHintType": "Oculus",
-  "radius": 80.0
+  "radius": 80
  },
  {
   "OKCLOBCNCCP": true,
@@ -292,7 +292,7 @@
   "id": 34,
   "name": "4.6大鲸鱼",
   "radarHintType": "General",
-  "radius": 1000.0
+  "radius": 1000
  },
  {
   "iconName": "UI_MarkPoint_HideAndSeekV4_Machine",
@@ -301,7 +301,7 @@
   "id": 35,
   "name": "4.6躲猫猫四期-密码机",
   "radarHintType": "General",
-  "radius": 200.0
+  "radius": 200
  },
  {
   "iconName": "UI_MarkPoint_LocalItem",
@@ -309,7 +309,7 @@
   "id": 36,
   "name": "采集物雷达提示（会移动）",
   "radarHintType": "HarvetGadget",
-  "radius": 160.0
+  "radius": 160
  },
  {
   "iconName": "UI_MarkPlayer_Seek",
@@ -319,7 +319,7 @@
   "id": 37,
   "name": "4.6躲猫猫四期-猎人Mark",
   "radarHintType": "HideAndSeekV4Hunter",
-  "radius": 200.0
+  "radius": 200
  },
  {
   "iconName": "UI_MarkPoint_HideandSeekV4_Trap",
@@ -327,7 +327,7 @@
   "id": 38,
   "name": "4.6躲猫猫四期-插眼Mark",
   "radarHintType": "General",
-  "radius": 200.0
+  "radius": 200
  },
  {
   "iconName": "UI_MarkPoint_CatFavorability",
@@ -337,7 +337,7 @@
   "id": 39,
   "name": "4.6猫猫",
   "radarHintType": "General",
-  "radius": 80.0
+  "radius": 80
  },
  {
   "OKCLOBCNCCP": true,
@@ -347,7 +347,7 @@
   "id": 40,
   "name": "5.0人龙合作",
   "radarHintType": "General",
-  "radius": 200.0
+  "radius": 200
  },
  {
   "iconName": "UI_MarkPoint_FairyTales_RadarIcon_Plane",
@@ -357,7 +357,7 @@
   "id": 41,
   "name": "4.8魔法书页",
   "radarHintType": "Oculus",
-  "radius": 80.0
+  "radius": 80
  },
  {
   "iconName": "UI_MarkPoint_NatlanTourExplore_Collect",
@@ -365,7 +365,7 @@
   "id": 42,
   "name": "5.0伪采集物雷达提示",
   "radarHintType": "General",
-  "radius": 80.0
+  "radius": 80
  },
  {
   "iconName": "UI_MarkPoint_LanV5_Coins",
@@ -374,7 +374,7 @@
   "id": 43,
   "name": "5.3 海灯节吉语钱",
   "radarHintType": "General",
-  "radius": 80.0
+  "radius": 80
  },
  {
   "iconName": "UI_MarkPoint_LanV5_Firework",
@@ -383,7 +383,7 @@
   "id": 44,
   "name": "5.3 海灯节烟花筒",
   "radarHintType": "General",
-  "radius": 80.0
+  "radius": 80
  },
  {
   "iconName": "UI_MarkPoint_LanV5_Telescope",
@@ -392,7 +392,7 @@
   "id": 45,
   "name": "5.5 海灯节望远镜",
   "radarHintType": "General",
-  "radius": 80.0
+  "radius": 80
  },
  {
   "iconName": "UI_MarkPoint_R1",
@@ -400,7 +400,7 @@
   "id": 46,
   "name": "5.5活动防守玩法 mark1",
   "radarHintType": "General",
-  "radius": 160.0
+  "radius": 160
  },
  {
   "iconName": "UI_MarkPoint_R2",
@@ -408,7 +408,7 @@
   "id": 47,
   "name": "5.5活动防守玩法 mark2",
   "radarHintType": "General",
-  "radius": 160.0
+  "radius": 160
  },
  {
   "iconName": "UI_MarkPoint_NatlanDrill_ADG_Outpost_Us",
@@ -416,7 +416,7 @@
   "id": 48,
   "name": "5.5活动防守玩法 mark3",
   "radarHintType": "General",
-  "radius": 160.0
+  "radius": 160
  },
  {
   "iconName": "UI_MarkPoint_NatlanDrill_ADG_Monster",
@@ -424,7 +424,7 @@
   "id": 49,
   "name": "5.5活动防守玩法 敌人刷新点",
   "radarHintType": "General",
-  "radius": 160.0
+  "radius": 160
  },
  {
   "iconName": "UI_MarkPoint_NatlanDrill_ADG_Buff",
@@ -432,7 +432,7 @@
   "id": 50,
   "name": "5.5活动防守玩法 buff球",
   "radarHintType": "General",
-  "radius": 160.0
+  "radius": 160
  },
  {
   "iconName": "UI_MarkPoint_TreasureHuntBall",
@@ -442,7 +442,7 @@
   "id": 51,
   "name": "6.0 Robo探索",
   "radarHintType": "ActivityTreasureHuntBall",
-  "radius": 320.0
+  "radius": 320
  },
  {
   "iconName": "UI_MarkPoint_SnowRace_Fire",
@@ -451,7 +451,7 @@
   "id": 52,
   "name": "6.2躲猫猫五期-火源",
   "radarHintType": "General",
-  "radius": 200.0
+  "radius": 200
  },
  {
   "iconName": "UI_MarkPoint_SnowRace_Seek",
@@ -461,7 +461,7 @@
   "id": 53,
   "name": "6.2躲猫猫五期-猎人Mark",
   "radarHintType": "HideAndSeekV4Hunter",
-  "radius": 200.0
+  "radius": 200
  },
  {
   "iconName": "UI_MarkPoint_SnowRace_Hide",
@@ -471,7 +471,7 @@
   "id": 54,
   "name": "6.2躲猫猫五期-游侠Mark",
   "radarHintType": "SnowRaceHideFreeze",
-  "radius": 200.0
+  "radius": 200
  },
  {
   "iconName": "UI_MarkPoint_FirmamentMnemo_01",
@@ -480,7 +480,7 @@
   "id": 55,
   "name": "6.5 空之神殿神瞳",
   "radarHintType": "Oculus",
-  "radius": 80.0
+  "radius": 80
  },
  {
   "iconName": "UI_MarkPoint_TpsCollection",
@@ -489,6 +489,6 @@
   "id": 56,
   "name": "7.0 影域 影雀 神瞳",
   "radarHintType": "Oculus",
-  "radius": 80.0
+  "radius": 80
  }
 ]
