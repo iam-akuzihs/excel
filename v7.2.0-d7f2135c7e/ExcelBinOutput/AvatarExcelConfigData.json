@@ -1,6 +1,6 @@
 [
  {
-  "attackBase": 5.0,
+  "attackBase": 5,
   "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
   "avatarPromoteId": 2,
   "avatarPromoteRewardIdList": [
@@ -14,20 +14,20 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 4103218460519001272,
   "controllerPathHash": 9975873023065425870,
   "controllerPathRemoteHash": 8121517168866487642,
   "coopPicNameHash": 6857551110703299749,
   "critical": 0.05,
   "criticalHurt": 0.5,
-  "defenseBase": 8.0,
+  "defenseBase": 8,
   "deformationMeshPathHash": 16843554909179268631,
   "descTextMapHash": 1731824681,
   "featureTagGroupID": 10000001,
   "gachaCardNameHash": 11812712877647515855,
   "gachaImageNameHash": 8639279672678166211,
-  "hpBase": 166.0,
+  "hpBase": 166,
   "iconName": "UI_AvatarIcon_Kate",
   "id": 10000001,
   "imageName": "AvatarImage_Forward_Kate",
@@ -58,13 +58,13 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Kate",
   "skillDepotId": 101,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "KADLDGKLEPC": 4103218460519001272,
-  "POCCNIJNACM": 17298811984805868182
+  "__unk_Q4006806719": 4103218460519001272,
+  "__unk_Q3180767004": 17298811984805868182
  },
  {
   "animatorConfigPathHash": 2055198892552039615,
@@ -82,7 +82,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 15882421641119660365,
   "controllerPathHash": 1451633198469743150,
   "controllerPathRemoteHash": 2117062833748252501,
@@ -126,18 +126,18 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Ayaka",
   "skillDepotId": 201,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "KADLDGKLEPC": 7134088186114699260,
-  "POCCNIJNACM": 9690837246824206527,
-  "CHCOOENOOJM": 16932465350069898541,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q4006806719": 7134088186114699260,
+  "__unk_Q3180767004": 9690837246824206527,
+  "__unk_Q836298517": 16932465350069898541,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 11624536916393908777,
@@ -155,7 +155,7 @@
    5
   ],
   "bodyType": "BODY_LADY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 12671751224003314066,
   "controllerPathHash": 9709372102038093682,
   "controllerPathRemoteHash": 10985733014604116697,
@@ -199,17 +199,17 @@
   "scriptDataPathHash": 3744219756526631032,
   "sideIconName": "UI_AvatarIcon_Side_Qin",
   "skillDepotId": 301,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "POCCNIJNACM": 1868479003167228973,
-  "CHCOOENOOJM": 6842485809381527539,
-  "KADLDGKLEPC": 10737466883777872839,
-  "BEODCKHANHE": "FIGHT_PROP_ATTACK_PERCENT",
-  "CBEGCDFMBDF": "FIGHT_PROP_CHARGE_EFFICIENCY"
+  "__unk_Q3180767004": 1868479003167228973,
+  "__unk_Q836298517": 6842485809381527539,
+  "__unk_Q4006806719": 10737466883777872839,
+  "__unk_Q2086394878": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q3522047146": "FIGHT_PROP_CHARGE_EFFICIENCY"
  },
  {
   "animatorConfigPathHash": 7754788227283632179,
@@ -236,7 +236,7 @@
    507,
    508
   ],
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 17235148253593515976,
   "controllerPathHash": 17650043375074422160,
   "controllerPathRemoteHash": 10948695505325057441,
@@ -280,17 +280,17 @@
   "scriptDataPathHash": 7535910857308706620,
   "sideIconName": "UI_AvatarIcon_Side_PlayerBoy",
   "skillDepotId": 501,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "POCCNIJNACM": 10382898718193555425,
-  "CHCOOENOOJM": 13164176640566844108,
-  "KADLDGKLEPC": 16524278746371191965,
-  "CBEGCDFMBDF": "FIGHT_PROP_ATTACK_PERCENT",
-  "BEODCKHANHE": "FIGHT_PROP_CHARGE_EFFICIENCY"
+  "__unk_Q3180767004": 10382898718193555425,
+  "__unk_Q836298517": 13164176640566844108,
+  "__unk_Q4006806719": 16524278746371191965,
+  "__unk_Q3522047146": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q2086394878": "FIGHT_PROP_CHARGE_EFFICIENCY"
  },
  {
   "animatorConfigPathHash": 2718621060750003890,
@@ -308,7 +308,7 @@
    5
   ],
   "bodyType": "BODY_LADY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 8289822686924613449,
   "controllerPathHash": 16910054686116342238,
   "controllerPathRemoteHash": 10995515382050334723,
@@ -352,17 +352,17 @@
   "scriptDataPathHash": 3744219756526631032,
   "sideIconName": "UI_AvatarIcon_Side_Lisa",
   "skillDepotId": 601,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CATALYST",
-  "KADLDGKLEPC": 5155570998490764853,
-  "CHCOOENOOJM": 8213234242978580718,
-  "POCCNIJNACM": 11039243131508177113,
-  "CBEGCDFMBDF": "FIGHT_PROP_ATTACK_PERCENT",
-  "BEODCKHANHE": "FIGHT_PROP_ELEMENT_MASTERY"
+  "__unk_Q4006806719": 5155570998490764853,
+  "__unk_Q836298517": 8213234242978580718,
+  "__unk_Q3180767004": 11039243131508177113,
+  "__unk_Q3522047146": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q2086394878": "FIGHT_PROP_ELEMENT_MASTERY"
  },
  {
   "animatorConfigPathHash": 16171743178453298659,
@@ -389,7 +389,7 @@
    707,
    708
   ],
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 6539404732335195385,
   "controllerPathHash": 16225375008636309679,
   "controllerPathRemoteHash": 10761479833682941080,
@@ -433,17 +433,17 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_PlayerGirl",
   "skillDepotId": 701,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "KADLDGKLEPC": 5917605893133455043,
-  "POCCNIJNACM": 11579547720399676806,
-  "CHCOOENOOJM": 17458272224601963080,
-  "CBEGCDFMBDF": "FIGHT_PROP_ATTACK_PERCENT",
-  "BEODCKHANHE": "FIGHT_PROP_CHARGE_EFFICIENCY"
+  "__unk_Q4006806719": 5917605893133455043,
+  "__unk_Q3180767004": 11579547720399676806,
+  "__unk_Q836298517": 17458272224601963080,
+  "__unk_Q3522047146": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q2086394878": "FIGHT_PROP_CHARGE_EFFICIENCY"
  },
  {
   "animatorConfigPathHash": 10823897513211157603,
@@ -461,7 +461,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 7432326345842806634,
   "controllerPathHash": 2228858999342848322,
   "controllerPathRemoteHash": 16136614285445730017,
@@ -505,17 +505,17 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Barbara",
   "skillDepotId": 1401,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CATALYST",
-  "POCCNIJNACM": 7068389422786661522,
-  "KADLDGKLEPC": 7419061949012294004,
-  "CHCOOENOOJM": 11180013598570385586,
-  "BEODCKHANHE": "FIGHT_PROP_CHARGE_EFFICIENCY",
-  "CBEGCDFMBDF": "FIGHT_PROP_HP_PERCENT"
+  "__unk_Q3180767004": 7068389422786661522,
+  "__unk_Q4006806719": 7419061949012294004,
+  "__unk_Q836298517": 11180013598570385586,
+  "__unk_Q2086394878": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "__unk_Q3522047146": "FIGHT_PROP_HP_PERCENT"
  },
  {
   "animatorConfigPathHash": 8064608416152074485,
@@ -533,7 +533,7 @@
    5
   ],
   "bodyType": "BODY_MALE",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 13249547059593707313,
   "controllerPathHash": 3263312561627475500,
   "controllerPathRemoteHash": 4004399002872269901,
@@ -577,17 +577,17 @@
   "scriptDataPathHash": 5593123940503998067,
   "sideIconName": "UI_AvatarIcon_Side_Kaeya",
   "skillDepotId": 1501,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "CHCOOENOOJM": 1735526691212567891,
-  "KADLDGKLEPC": 11152436224883670003,
-  "POCCNIJNACM": 11510809554317369714,
-  "CBEGCDFMBDF": "FIGHT_PROP_ATTACK_PERCENT",
-  "BEODCKHANHE": "FIGHT_PROP_CHARGE_EFFICIENCY"
+  "__unk_Q836298517": 1735526691212567891,
+  "__unk_Q4006806719": 11152436224883670003,
+  "__unk_Q3180767004": 11510809554317369714,
+  "__unk_Q3522047146": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q2086394878": "FIGHT_PROP_CHARGE_EFFICIENCY"
  },
  {
   "animatorConfigPathHash": 14145036442080174585,
@@ -605,7 +605,7 @@
    5
   ],
   "bodyType": "BODY_MALE",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 9543423561533220576,
   "controllerPathHash": 3791620045017559524,
   "controllerPathRemoteHash": 12112556374630051624,
@@ -649,18 +649,18 @@
   "scriptDataPathHash": 5593123940503998067,
   "sideIconName": "UI_AvatarIcon_Side_Diluc",
   "skillDepotId": 1601,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CLAYMORE",
-  "POCCNIJNACM": 666917799978322423,
-  "CHCOOENOOJM": 2872880340079839612,
-  "KADLDGKLEPC": 17293411607689278775,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q3180767004": 666917799978322423,
+  "__unk_Q836298517": 2872880340079839612,
+  "__unk_Q4006806719": 17293411607689278775,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 1506249058419775498,
@@ -678,7 +678,7 @@
    5
   ],
   "bodyType": "BODY_BOY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 16661504606985648658,
   "controllerPathHash": 2987990706496259940,
   "controllerPathRemoteHash": 18395134836227992672,
@@ -722,18 +722,18 @@
   "scriptDataPathHash": 7535910857308706620,
   "sideIconName": "UI_AvatarIcon_Side_Razor",
   "skillDepotId": 2001,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "AVATAR_TAG_HEXENZIRKEL"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CLAYMORE",
-  "CHCOOENOOJM": 4119339819918465206,
-  "POCCNIJNACM": 12769178707703590031,
-  "KADLDGKLEPC": 13169789372984635953,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q836298517": 4119339819918465206,
+  "__unk_Q3180767004": 12769178707703590031,
+  "__unk_Q4006806719": 13169789372984635953,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 13625317695125500013,
@@ -751,7 +751,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 10564025408379688869,
   "controllerPathHash": 12831562716007496033,
   "controllerPathRemoteHash": 14669772920951244194,
@@ -796,16 +796,16 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Ambor",
   "skillDepotId": 2101,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_BOW",
-  "CHCOOENOOJM": 478607761991697274,
-  "POCCNIJNACM": 11916667199334390440,
-  "KADLDGKLEPC": 17959527638222721330,
-  "CBEGCDFMBDF": "FIGHT_PROP_ATTACK_PERCENT"
+  "__unk_Q836298517": 478607761991697274,
+  "__unk_Q3180767004": 11916667199334390440,
+  "__unk_Q4006806719": 17959527638222721330,
+  "__unk_Q3522047146": "FIGHT_PROP_ATTACK_PERCENT"
  },
  {
   "animatorConfigPathHash": 4356427524482207303,
@@ -823,7 +823,7 @@
    5
   ],
   "bodyType": "BODY_BOY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 11044255330809900637,
   "controllerPathHash": 4629402357072972904,
   "controllerPathRemoteHash": 16740808483559485387,
@@ -868,17 +868,17 @@
   "scriptDataPathHash": 7535910857308706620,
   "sideIconName": "UI_AvatarIcon_Side_Venti",
   "skillDepotId": 2201,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "AVATAR_TAG_HEXENZIRKEL"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_BOW",
   "KFCPCGALFHD": 1002201,
-  "POCCNIJNACM": 3602372472257316140,
-  "CHCOOENOOJM": 7558610063426569574,
-  "KADLDGKLEPC": 8558669369651186022,
-  "CBEGCDFMBDF": "FIGHT_PROP_CHARGE_EFFICIENCY"
+  "__unk_Q3180767004": 3602372472257316140,
+  "__unk_Q836298517": 7558610063426569574,
+  "__unk_Q4006806719": 8558669369651186022,
+  "__unk_Q3522047146": "FIGHT_PROP_CHARGE_EFFICIENCY"
  },
  {
   "animatorConfigPathHash": 17483858441056939517,
@@ -896,7 +896,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 3390523660111092738,
   "controllerPathHash": 9290628890085866774,
   "controllerPathRemoteHash": 7805223347321381480,
@@ -940,18 +940,18 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Xiangling",
   "skillDepotId": 2301,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_POLE",
-  "CHCOOENOOJM": 5090147452579768760,
-  "POCCNIJNACM": 6924951946587589909,
-  "KADLDGKLEPC": 16981859754224414867,
-  "CBEGCDFMBDF": "FIGHT_PROP_CHARGE_EFFICIENCY",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL",
-  "CBADONBPEKC": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q836298517": 5090147452579768760,
+  "__unk_Q3180767004": 6924951946587589909,
+  "__unk_Q4006806719": 16981859754224414867,
+  "__unk_Q3522047146": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2434952433": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 10652392023744405953,
@@ -969,7 +969,7 @@
    5
   ],
   "bodyType": "BODY_LADY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 6442670983137215122,
   "controllerPathHash": 1153298146173346060,
   "controllerPathRemoteHash": 11462102321994091099,
@@ -1013,17 +1013,17 @@
   "scriptDataPathHash": 3744219756526631032,
   "sideIconName": "UI_AvatarIcon_Side_Beidou",
   "skillDepotId": 2401,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CLAYMORE",
-  "KADLDGKLEPC": 3985433525477845277,
-  "POCCNIJNACM": 9496319252725954806,
-  "CHCOOENOOJM": 17831014742039348581,
-  "BEODCKHANHE": "FIGHT_PROP_ATTACK_PERCENT",
-  "CBEGCDFMBDF": "FIGHT_PROP_CHARGE_EFFICIENCY"
+  "__unk_Q4006806719": 3985433525477845277,
+  "__unk_Q3180767004": 9496319252725954806,
+  "__unk_Q836298517": 17831014742039348581,
+  "__unk_Q2086394878": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q3522047146": "FIGHT_PROP_CHARGE_EFFICIENCY"
  },
  {
   "animatorConfigPathHash": 6197481349107039550,
@@ -1041,7 +1041,7 @@
    5
   ],
   "bodyType": "BODY_BOY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 13260271289448866765,
   "controllerPathHash": 16798089052841105220,
   "controllerPathRemoteHash": 17015266965551274871,
@@ -1085,17 +1085,17 @@
   "scriptDataPathHash": 7535910857308706620,
   "sideIconName": "UI_AvatarIcon_Side_Xingqiu",
   "skillDepotId": 2501,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "CHCOOENOOJM": 1346031182163478052,
-  "POCCNIJNACM": 1542986353971262793,
-  "KADLDGKLEPC": 16191907629313277947,
-  "BEODCKHANHE": "FIGHT_PROP_ATTACK_PERCENT",
-  "CBEGCDFMBDF": "FIGHT_PROP_CHARGE_EFFICIENCY"
+  "__unk_Q836298517": 1346031182163478052,
+  "__unk_Q3180767004": 1542986353971262793,
+  "__unk_Q4006806719": 16191907629313277947,
+  "__unk_Q2086394878": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q3522047146": "FIGHT_PROP_CHARGE_EFFICIENCY"
  },
  {
   "animatorConfigPathHash": 15863595176510993226,
@@ -1113,7 +1113,7 @@
    5
   ],
   "bodyType": "BODY_BOY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 5733421566156599077,
   "controllerPathHash": 2671410619446388152,
   "controllerPathRemoteHash": 8992005993518827089,
@@ -1157,18 +1157,18 @@
   "scriptDataPathHash": 7535910857308706620,
   "sideIconName": "UI_AvatarIcon_Side_Xiao",
   "skillDepotId": 2601,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_POLE",
-  "KADLDGKLEPC": 1257100759911037164,
-  "POCCNIJNACM": 6736657143303889075,
-  "CHCOOENOOJM": 7847154913577871726,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q4006806719": 1257100759911037164,
+  "__unk_Q3180767004": 6736657143303889075,
+  "__unk_Q836298517": 7847154913577871726,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 10696015938064357567,
@@ -1186,7 +1186,7 @@
    5
   ],
   "bodyType": "BODY_LADY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 10371482239112034714,
   "controllerPathHash": 11648756083928579877,
   "controllerPathRemoteHash": 4498681768203048649,
@@ -1230,18 +1230,18 @@
   "scriptDataPathHash": 3744219756526631032,
   "sideIconName": "UI_AvatarIcon_Side_Ningguang",
   "skillDepotId": 2701,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CATALYST",
-  "KADLDGKLEPC": 14433874766429204005,
-  "CHCOOENOOJM": 16052606641558656398,
-  "POCCNIJNACM": 16237527734585578627,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q4006806719": 14433874766429204005,
+  "__unk_Q836298517": 16052606641558656398,
+  "__unk_Q3180767004": 16237527734585578627,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 12479853082223761255,
@@ -1259,7 +1259,7 @@
    5
   ],
   "bodyType": "BODY_LOLI",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 14229564079000020189,
   "controllerPathHash": 15024890828855894930,
   "controllerPathRemoteHash": 15636670420624933857,
@@ -1303,18 +1303,18 @@
   "scriptDataPathHash": 1848978244376883498,
   "sideIconName": "UI_AvatarIcon_Side_Klee",
   "skillDepotId": 2901,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "AVATAR_TAG_HEXENZIRKEL"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CATALYST",
-  "CHCOOENOOJM": 3691705136414498996,
-  "POCCNIJNACM": 10347187007548697097,
-  "KADLDGKLEPC": 13669200080169084282,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q836298517": 3691705136414498996,
+  "__unk_Q3180767004": 10347187007548697097,
+  "__unk_Q4006806719": 13669200080169084282,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 7579767212623488729,
@@ -1332,7 +1332,7 @@
    5
   ],
   "bodyType": "BODY_MALE",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 17662300335731008682,
   "controllerPathHash": 17166898896478887410,
   "controllerPathRemoteHash": 13569634768887667877,
@@ -1376,16 +1376,16 @@
   "scriptDataPathHash": 5593123940503998067,
   "sideIconName": "UI_AvatarIcon_Side_Zhongli",
   "skillDepotId": 3001,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_POLE",
-  "KADLDGKLEPC": 9680018884289294186,
-  "CHCOOENOOJM": 13145929178819511212,
-  "POCCNIJNACM": 15406728434397637947,
-  "CBEGCDFMBDF": "FIGHT_PROP_HP_PERCENT"
+  "__unk_Q4006806719": 9680018884289294186,
+  "__unk_Q836298517": 13145929178819511212,
+  "__unk_Q3180767004": 15406728434397637947,
+  "__unk_Q3522047146": "FIGHT_PROP_HP_PERCENT"
  },
  {
   "animatorConfigPathHash": 13660644037868886387,
@@ -1403,7 +1403,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 1172903689768444992,
   "controllerPathHash": 10711834570538153940,
   "controllerPathRemoteHash": 5594732662831317205,
@@ -1448,18 +1448,18 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Fischl",
   "skillDepotId": 3101,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "AVATAR_TAG_HEXENZIRKEL"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_BOW",
-  "CHCOOENOOJM": 6154831228802682641,
-  "POCCNIJNACM": 8766454555414833520,
-  "KADLDGKLEPC": 13719015313532835927,
-  "CBEGCDFMBDF": "FIGHT_PROP_ATTACK_PERCENT",
-  "CBADONBPEKC": "FIGHT_PROP_CRITICAL",
-  "BEODCKHANHE": "FIGHT_PROP_ELEMENT_MASTERY"
+  "__unk_Q836298517": 6154831228802682641,
+  "__unk_Q3180767004": 8766454555414833520,
+  "__unk_Q4006806719": 13719015313532835927,
+  "__unk_Q3522047146": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q2434952433": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2086394878": "FIGHT_PROP_ELEMENT_MASTERY"
  },
  {
   "animatorConfigPathHash": 6268926753290616878,
@@ -1477,7 +1477,7 @@
    5
   ],
   "bodyType": "BODY_BOY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 1310494912463596390,
   "controllerPathHash": 4079634312165602282,
   "controllerPathRemoteHash": 11358518498497824071,
@@ -1521,17 +1521,17 @@
   "scriptDataPathHash": 7535910857308706620,
   "sideIconName": "UI_AvatarIcon_Side_Bennett",
   "skillDepotId": 3201,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "POCCNIJNACM": 3355483598901773086,
-  "KADLDGKLEPC": 4448298472790884575,
-  "CHCOOENOOJM": 17060848966244165791,
-  "CBEGCDFMBDF": "FIGHT_PROP_CHARGE_EFFICIENCY",
-  "BEODCKHANHE": "FIGHT_PROP_HP_PERCENT"
+  "__unk_Q3180767004": 3355483598901773086,
+  "__unk_Q4006806719": 4448298472790884575,
+  "__unk_Q836298517": 17060848966244165791,
+  "__unk_Q3522047146": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "__unk_Q2086394878": "FIGHT_PROP_HP_PERCENT"
  },
  {
   "animatorConfigPathHash": 16494025786921553341,
@@ -1549,7 +1549,7 @@
    5
   ],
   "bodyType": "BODY_MALE",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 7226824499904974509,
   "controllerPathHash": 15960623534424692748,
   "controllerPathRemoteHash": 18405665326218169309,
@@ -1594,18 +1594,18 @@
   "scriptDataPathHash": 5593123940503998067,
   "sideIconName": "UI_AvatarIcon_Side_Tartaglia",
   "skillDepotId": 3301,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_BOW",
-  "CHCOOENOOJM": 313788249693385670,
-  "KADLDGKLEPC": 6103403716886360632,
-  "POCCNIJNACM": 11293312065524267532,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q836298517": 313788249693385670,
+  "__unk_Q4006806719": 6103403716886360632,
+  "__unk_Q3180767004": 11293312065524267532,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 7310003607334516479,
@@ -1623,7 +1623,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 17172222995800448140,
   "controllerPathHash": 8936922718396470374,
   "controllerPathRemoteHash": 7585600423600258184,
@@ -1667,18 +1667,18 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Noel",
   "skillDepotId": 3401,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CLAYMORE",
-  "KADLDGKLEPC": 2423145610543213669,
-  "CHCOOENOOJM": 4564881909669951112,
-  "POCCNIJNACM": 16130195106995504516,
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL_HURT",
-  "CBADONBPEKC": "FIGHT_PROP_DEFENSE_PERCENT"
+  "__unk_Q4006806719": 2423145610543213669,
+  "__unk_Q836298517": 4564881909669951112,
+  "__unk_Q3180767004": 16130195106995504516,
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL_HURT",
+  "__unk_Q2434952433": "FIGHT_PROP_DEFENSE_PERCENT"
  },
  {
   "animatorConfigPathHash": 4386880399856715831,
@@ -1696,7 +1696,7 @@
    5
   ],
   "bodyType": "BODY_LOLI",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 5549323627876282139,
   "controllerPathHash": 5330343889546745371,
   "controllerPathRemoteHash": 12652750334206628030,
@@ -1740,17 +1740,17 @@
   "scriptDataPathHash": 1848978244376883498,
   "sideIconName": "UI_AvatarIcon_Side_Qiqi",
   "skillDepotId": 3501,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "KADLDGKLEPC": 2756228205327169416,
-  "POCCNIJNACM": 16832340522918425924,
-  "CHCOOENOOJM": 18390279749635039695,
-  "CBEGCDFMBDF": "FIGHT_PROP_ATTACK_PERCENT",
-  "BEODCKHANHE": "FIGHT_PROP_CHARGE_EFFICIENCY"
+  "__unk_Q4006806719": 2756228205327169416,
+  "__unk_Q3180767004": 16832340522918425924,
+  "__unk_Q836298517": 18390279749635039695,
+  "__unk_Q3522047146": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q2086394878": "FIGHT_PROP_CHARGE_EFFICIENCY"
  },
  {
   "animatorConfigPathHash": 18133304455091851779,
@@ -1768,7 +1768,7 @@
    5
   ],
   "bodyType": "BODY_BOY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 6144050008837887964,
   "controllerPathHash": 13837076920316960091,
   "controllerPathRemoteHash": 6391906349590349725,
@@ -1812,18 +1812,18 @@
   "scriptDataPathHash": 7535910857308706620,
   "sideIconName": "UI_AvatarIcon_Side_Chongyun",
   "skillDepotId": 3601,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CLAYMORE",
-  "POCCNIJNACM": 1511009303011846063,
-  "KADLDGKLEPC": 10443935842837443336,
-  "CHCOOENOOJM": 14556450550832759902,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q3180767004": 1511009303011846063,
+  "__unk_Q4006806719": 10443935842837443336,
+  "__unk_Q836298517": 14556450550832759902,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 10748824054979088255,
@@ -1841,7 +1841,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 3263178433970146656,
   "controllerPathHash": 11341126445784319152,
   "controllerPathRemoteHash": 9459678124213965443,
@@ -1886,18 +1886,18 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Ganyu",
   "skillDepotId": 3701,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_BOW",
-  "CHCOOENOOJM": 4526382454045171994,
-  "POCCNIJNACM": 6841199906680507473,
-  "KADLDGKLEPC": 10214055491706067055,
-  "CBEGCDFMBDF": "FIGHT_PROP_ATTACK_PERCENT",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL",
-  "CBADONBPEKC": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q836298517": 4526382454045171994,
+  "__unk_Q3180767004": 6841199906680507473,
+  "__unk_Q4006806719": 10214055491706067055,
+  "__unk_Q3522047146": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2434952433": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 5414115478147657969,
@@ -1915,7 +1915,7 @@
    5
   ],
   "bodyType": "BODY_BOY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 17030091083249240115,
   "controllerPathHash": 14125080456877187292,
   "controllerPathRemoteHash": 18376907286396428368,
@@ -1959,18 +1959,18 @@
   "scriptDataPathHash": 7535910857308706620,
   "sideIconName": "UI_AvatarIcon_Side_Albedo",
   "skillDepotId": 3801,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "AVATAR_TAG_HEXENZIRKEL"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "KADLDGKLEPC": 729229454568385150,
-  "CHCOOENOOJM": 12296377917535894307,
-  "POCCNIJNACM": 12386019342684925261,
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL",
-  "CBADONBPEKC": "FIGHT_PROP_CRITICAL_HURT",
-  "CBEGCDFMBDF": "FIGHT_PROP_DEFENSE_PERCENT"
+  "__unk_Q4006806719": 729229454568385150,
+  "__unk_Q836298517": 12296377917535894307,
+  "__unk_Q3180767004": 12386019342684925261,
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2434952433": "FIGHT_PROP_CRITICAL_HURT",
+  "__unk_Q3522047146": "FIGHT_PROP_DEFENSE_PERCENT"
  },
  {
   "animatorConfigPathHash": 2696133824895267722,
@@ -1988,7 +1988,7 @@
    5
   ],
   "bodyType": "BODY_LOLI",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 11964792506040055136,
   "controllerPathHash": 13571977907562791738,
   "controllerPathRemoteHash": 789947499851697833,
@@ -2033,17 +2033,17 @@
   "scriptDataPathHash": 1848978244376883498,
   "sideIconName": "UI_AvatarIcon_Side_Diona",
   "skillDepotId": 3901,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_BOW",
-  "KADLDGKLEPC": 548052523112694666,
-  "POCCNIJNACM": 3194681245759226067,
-  "CHCOOENOOJM": 13717461656093973514,
-  "BEODCKHANHE": "FIGHT_PROP_CHARGE_EFFICIENCY",
-  "CBEGCDFMBDF": "FIGHT_PROP_HP_PERCENT"
+  "__unk_Q4006806719": 548052523112694666,
+  "__unk_Q3180767004": 3194681245759226067,
+  "__unk_Q836298517": 13717461656093973514,
+  "__unk_Q2086394878": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "__unk_Q3522047146": "FIGHT_PROP_HP_PERCENT"
  },
  {
   "animatorConfigPathHash": 18284115257695244155,
@@ -2061,7 +2061,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 2790350391004206533,
   "controllerPathHash": 7267295309036155762,
   "controllerPathRemoteHash": 11317464106465840177,
@@ -2105,16 +2105,16 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Mona",
   "skillDepotId": 4101,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "AVATAR_TAG_HEXENZIRKEL"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CATALYST",
-  "CHCOOENOOJM": 2374884641122952281,
-  "POCCNIJNACM": 10547212507625946795,
-  "KADLDGKLEPC": 17466114881336147730,
-  "CBEGCDFMBDF": "FIGHT_PROP_CHARGE_EFFICIENCY"
+  "__unk_Q836298517": 2374884641122952281,
+  "__unk_Q3180767004": 10547212507625946795,
+  "__unk_Q4006806719": 17466114881336147730,
+  "__unk_Q3522047146": "FIGHT_PROP_CHARGE_EFFICIENCY"
  },
  {
   "animatorConfigPathHash": 15512389838557806007,
@@ -2132,7 +2132,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 342013914990024149,
   "controllerPathHash": 16225375008636309679,
   "controllerPathRemoteHash": 5430374613602793488,
@@ -2176,18 +2176,18 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Keqing",
   "skillDepotId": 4201,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "CHCOOENOOJM": 3791146257172850257,
-  "POCCNIJNACM": 4158717752874569392,
-  "KADLDGKLEPC": 7114701879627325876,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q836298517": 3791146257172850257,
+  "__unk_Q3180767004": 4158717752874569392,
+  "__unk_Q4006806719": 7114701879627325876,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 4243139697375490016,
@@ -2205,7 +2205,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 3769081911603880940,
   "controllerPathHash": 4771327811364030280,
   "controllerPathRemoteHash": 17151587829601713755,
@@ -2249,16 +2249,16 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Sucrose",
   "skillDepotId": 4301,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "AVATAR_TAG_HEXENZIRKEL"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CATALYST",
-  "CHCOOENOOJM": 3796231920426728136,
-  "KADLDGKLEPC": 6324115238928441077,
-  "POCCNIJNACM": 14235696096361719534,
-  "CBEGCDFMBDF": "FIGHT_PROP_ELEMENT_MASTERY"
+  "__unk_Q836298517": 3796231920426728136,
+  "__unk_Q4006806719": 6324115238928441077,
+  "__unk_Q3180767004": 14235696096361719534,
+  "__unk_Q3522047146": "FIGHT_PROP_ELEMENT_MASTERY"
  },
  {
   "animatorConfigPathHash": 5838323788396002960,
@@ -2276,7 +2276,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 16361080404119129220,
   "controllerPathHash": 3629723129188076210,
   "controllerPathRemoteHash": 14350655738089378072,
@@ -2320,18 +2320,18 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Xinyan",
   "skillDepotId": 4401,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CLAYMORE",
-  "CHCOOENOOJM": 9440679557225571585,
-  "KADLDGKLEPC": 11359897198488422647,
-  "POCCNIJNACM": 14302952407177857148,
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL_HURT",
-  "CBADONBPEKC": "FIGHT_PROP_DEFENSE_PERCENT"
+  "__unk_Q836298517": 9440679557225571585,
+  "__unk_Q4006806719": 11359897198488422647,
+  "__unk_Q3180767004": 14302952407177857148,
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL_HURT",
+  "__unk_Q2434952433": "FIGHT_PROP_DEFENSE_PERCENT"
  },
  {
   "animatorConfigPathHash": 14262855553467233913,
@@ -2349,7 +2349,7 @@
    5
   ],
   "bodyType": "BODY_LADY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 10573539909878126819,
   "controllerPathHash": 6833637876216633972,
   "controllerPathRemoteHash": 12710492835769681350,
@@ -2393,18 +2393,18 @@
   "scriptDataPathHash": 3744219756526631032,
   "sideIconName": "UI_AvatarIcon_Side_Rosaria",
   "skillDepotId": 4501,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_POLE",
-  "POCCNIJNACM": 2847228501486090113,
-  "CHCOOENOOJM": 14538423002869160965,
-  "KADLDGKLEPC": 16422698380205142706,
-  "BEODCKHANHE": "FIGHT_PROP_ATTACK_PERCENT",
-  "CBADONBPEKC": "FIGHT_PROP_CHARGE_EFFICIENCY",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL"
+  "__unk_Q3180767004": 2847228501486090113,
+  "__unk_Q836298517": 14538423002869160965,
+  "__unk_Q4006806719": 16422698380205142706,
+  "__unk_Q2086394878": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q2434952433": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL"
  },
  {
   "animatorConfigPathHash": 12517288782265351333,
@@ -2422,7 +2422,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 7577242262165119934,
   "controllerPathHash": 5980385199019870761,
   "controllerPathRemoteHash": 15967810002306579466,
@@ -2466,18 +2466,18 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Hutao",
   "skillDepotId": 4601,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_POLE",
-  "CHCOOENOOJM": 4160435705162016291,
-  "POCCNIJNACM": 6973228070399660157,
-  "KADLDGKLEPC": 15906355252808379135,
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL_HURT",
-  "CBADONBPEKC": "FIGHT_PROP_HP_PERCENT"
+  "__unk_Q836298517": 4160435705162016291,
+  "__unk_Q3180767004": 6973228070399660157,
+  "__unk_Q4006806719": 15906355252808379135,
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL_HURT",
+  "__unk_Q2434952433": "FIGHT_PROP_HP_PERCENT"
  },
  {
   "animatorConfigPathHash": 14167135086670867959,
@@ -2495,7 +2495,7 @@
    5
   ],
   "bodyType": "BODY_BOY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 9919316577460724427,
   "controllerPathHash": 8594492037099145806,
   "controllerPathRemoteHash": 8724502986145879757,
@@ -2539,17 +2539,17 @@
   "scriptDataPathHash": 7535910857308706620,
   "sideIconName": "UI_AvatarIcon_Side_Kazuha",
   "skillDepotId": 4701,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "KADLDGKLEPC": 3577882297361955787,
-  "CHCOOENOOJM": 4975904732025136974,
-  "POCCNIJNACM": 13630099632347331557,
-  "BEODCKHANHE": "FIGHT_PROP_CHARGE_EFFICIENCY",
-  "CBEGCDFMBDF": "FIGHT_PROP_ELEMENT_MASTERY"
+  "__unk_Q4006806719": 3577882297361955787,
+  "__unk_Q836298517": 4975904732025136974,
+  "__unk_Q3180767004": 13630099632347331557,
+  "__unk_Q2086394878": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "__unk_Q3522047146": "FIGHT_PROP_ELEMENT_MASTERY"
  },
  {
   "animatorConfigPathHash": 12620014248879189719,
@@ -2567,7 +2567,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 12778279393851650053,
   "controllerPathHash": 15580872377499737184,
   "controllerPathRemoteHash": 7864624108616720351,
@@ -2611,18 +2611,18 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Feiyan",
   "skillDepotId": 4801,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CATALYST",
-  "CHCOOENOOJM": 676472319517321016,
-  "KADLDGKLEPC": 2955680060646474086,
-  "POCCNIJNACM": 4969826634031290187,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q836298517": 676472319517321016,
+  "__unk_Q4006806719": 2955680060646474086,
+  "__unk_Q3180767004": 4969826634031290187,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 10194352333332352925,
@@ -2640,7 +2640,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 15018753584919647845,
   "controllerPathHash": 15763046478898428245,
   "controllerPathRemoteHash": 17560132085514939668,
@@ -2685,18 +2685,18 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Yoimiya",
   "skillDepotId": 4901,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_BOW",
-  "CHCOOENOOJM": 3657790736666690486,
-  "KADLDGKLEPC": 15818715278896417154,
-  "POCCNIJNACM": 16685787967389576772,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q836298517": 3657790736666690486,
+  "__unk_Q4006806719": 15818715278896417154,
+  "__unk_Q3180767004": 16685787967389576772,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 8475649739107728930,
@@ -2714,7 +2714,7 @@
    5
   ],
   "bodyType": "BODY_MALE",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 3511323604786549774,
   "controllerPathHash": 16370076865097155023,
   "controllerPathRemoteHash": 2486605690673317130,
@@ -2758,17 +2758,17 @@
   "scriptDataPathHash": 5593123940503998067,
   "sideIconName": "UI_AvatarIcon_Side_Tohma",
   "skillDepotId": 5001,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_POLE",
-  "CHCOOENOOJM": 1587013470658831542,
-  "POCCNIJNACM": 11547576997759440916,
-  "KADLDGKLEPC": 11713761823425822808,
-  "CBEGCDFMBDF": "FIGHT_PROP_CHARGE_EFFICIENCY",
-  "BEODCKHANHE": "FIGHT_PROP_HP_PERCENT"
+  "__unk_Q836298517": 1587013470658831542,
+  "__unk_Q3180767004": 11547576997759440916,
+  "__unk_Q4006806719": 11713761823425822808,
+  "__unk_Q3522047146": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "__unk_Q2086394878": "FIGHT_PROP_HP_PERCENT"
  },
  {
   "animatorConfigPathHash": 1237570953950460915,
@@ -2786,7 +2786,7 @@
    5
   ],
   "bodyType": "BODY_LADY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 16392308068906554829,
   "controllerPathHash": 5235164713522956101,
   "controllerPathRemoteHash": 6189822894104886728,
@@ -2830,18 +2830,18 @@
   "scriptDataPathHash": 3744219756526631032,
   "sideIconName": "UI_AvatarIcon_Side_Eula",
   "skillDepotId": 5101,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CLAYMORE",
-  "CHCOOENOOJM": 13516278144663503964,
-  "POCCNIJNACM": 13701287550731230047,
-  "KADLDGKLEPC": 15283200153411264504,
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL",
-  "CBADONBPEKC": "FIGHT_PROP_CRITICAL_HURT",
-  "CBEGCDFMBDF": "FIGHT_PROP_PHYSICAL_ADD_HURT"
+  "__unk_Q836298517": 13516278144663503964,
+  "__unk_Q3180767004": 13701287550731230047,
+  "__unk_Q4006806719": 15283200153411264504,
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2434952433": "FIGHT_PROP_CRITICAL_HURT",
+  "__unk_Q3522047146": "FIGHT_PROP_PHYSICAL_ADD_HURT"
  },
  {
   "animatorConfigPathHash": 3308111824535947436,
@@ -2859,7 +2859,7 @@
    5
   ],
   "bodyType": "BODY_LADY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 15102661909360479912,
   "controllerPathHash": 18365725284512660187,
   "controllerPathRemoteHash": 4561168115808522111,
@@ -2903,18 +2903,18 @@
   "scriptDataPathHash": 3744219756526631032,
   "sideIconName": "UI_AvatarIcon_Side_Shougun",
   "skillDepotId": 5201,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_POLE",
-  "KADLDGKLEPC": 2579929520391253216,
-  "CHCOOENOOJM": 16457095287874121897,
-  "POCCNIJNACM": 17237016125409353059,
-  "CBEGCDFMBDF": "FIGHT_PROP_CHARGE_EFFICIENCY",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL",
-  "CBADONBPEKC": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q4006806719": 2579929520391253216,
+  "__unk_Q836298517": 16457095287874121897,
+  "__unk_Q3180767004": 17237016125409353059,
+  "__unk_Q3522047146": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2434952433": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 14737044552276212654,
@@ -2932,7 +2932,7 @@
    5
   ],
   "bodyType": "BODY_LOLI",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 5095705140886691595,
   "controllerPathHash": 7773719310264746486,
   "controllerPathRemoteHash": 7559906861711295203,
@@ -2977,18 +2977,18 @@
   "sideIconName": "UI_AvatarIcon_Side_Sayu",
   "skillDepotId": 5301,
   "specialDeformationMeshPathHash": 18034241593473957948,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CLAYMORE",
-  "KADLDGKLEPC": 5863655998649468550,
-  "POCCNIJNACM": 8396283227275629933,
-  "CHCOOENOOJM": 13431631682298069086,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "BEODCKHANHE": "FIGHT_PROP_CHARGE_EFFICIENCY",
-  "CBEGCDFMBDF": "FIGHT_PROP_ELEMENT_MASTERY"
+  "__unk_Q4006806719": 5863655998649468550,
+  "__unk_Q3180767004": 8396283227275629933,
+  "__unk_Q836298517": 13431631682298069086,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q2086394878": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "__unk_Q3522047146": "FIGHT_PROP_ELEMENT_MASTERY"
  },
  {
   "animatorConfigPathHash": 15302165246867371659,
@@ -3006,7 +3006,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 13486483877752227407,
   "controllerPathHash": 17764695072432096670,
   "controllerPathRemoteHash": 8932321251581548018,
@@ -3050,16 +3050,16 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Kokomi",
   "skillDepotId": 5401,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CATALYST",
-  "KADLDGKLEPC": 7668050776677571220,
-  "POCCNIJNACM": 8541540980264267092,
-  "CHCOOENOOJM": 10695862485939923389,
-  "CBEGCDFMBDF": "FIGHT_PROP_HP_PERCENT"
+  "__unk_Q4006806719": 7668050776677571220,
+  "__unk_Q3180767004": 8541540980264267092,
+  "__unk_Q836298517": 10695862485939923389,
+  "__unk_Q3522047146": "FIGHT_PROP_HP_PERCENT"
  },
  {
   "animatorConfigPathHash": 3925026568927568116,
@@ -3077,7 +3077,7 @@
    5
   ],
   "bodyType": "BODY_BOY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 17581085074552698334,
   "controllerPathHash": 3799239516211090446,
   "controllerPathRemoteHash": 14952967690801891629,
@@ -3122,17 +3122,17 @@
   "scriptDataPathHash": 7535910857308706620,
   "sideIconName": "UI_AvatarIcon_Side_Gorou",
   "skillDepotId": 5501,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_BOW",
-  "KADLDGKLEPC": 67845940429734420,
-  "POCCNIJNACM": 3890948921293695494,
-  "CHCOOENOOJM": 13590329481984389731,
-  "BEODCKHANHE": "FIGHT_PROP_CHARGE_EFFICIENCY",
-  "CBEGCDFMBDF": "FIGHT_PROP_DEFENSE_PERCENT"
+  "__unk_Q4006806719": 67845940429734420,
+  "__unk_Q3180767004": 3890948921293695494,
+  "__unk_Q836298517": 13590329481984389731,
+  "__unk_Q2086394878": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "__unk_Q3522047146": "FIGHT_PROP_DEFENSE_PERCENT"
  },
  {
   "animatorConfigPathHash": 2225655758150464136,
@@ -3150,7 +3150,7 @@
    5
   ],
   "bodyType": "BODY_LADY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 4374443111704229202,
   "controllerPathHash": 3284203765223339519,
   "controllerPathRemoteHash": 5081506134567774427,
@@ -3195,17 +3195,17 @@
   "scriptDataPathHash": 3744219756526631032,
   "sideIconName": "UI_AvatarIcon_Side_Sara",
   "skillDepotId": 5601,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_BOW",
-  "CHCOOENOOJM": 8048380361343962681,
-  "POCCNIJNACM": 8751633279319893706,
-  "KADLDGKLEPC": 14411706054873187234,
-  "CBEGCDFMBDF": "FIGHT_PROP_ATTACK_PERCENT",
-  "BEODCKHANHE": "FIGHT_PROP_CHARGE_EFFICIENCY"
+  "__unk_Q836298517": 8048380361343962681,
+  "__unk_Q3180767004": 8751633279319893706,
+  "__unk_Q4006806719": 14411706054873187234,
+  "__unk_Q3522047146": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q2086394878": "FIGHT_PROP_CHARGE_EFFICIENCY"
  },
  {
   "animatorConfigPathHash": 13792332302344177325,
@@ -3223,7 +3223,7 @@
    5
   ],
   "bodyType": "BODY_MALE",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 15072535107180297827,
   "controllerPathHash": 8220600654605305282,
   "controllerPathRemoteHash": 3773317427197644293,
@@ -3267,18 +3267,18 @@
   "scriptDataPathHash": 5593123940503998067,
   "sideIconName": "UI_AvatarIcon_Side_Itto",
   "skillDepotId": 5701,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CLAYMORE",
-  "KADLDGKLEPC": 312083183777682840,
-  "POCCNIJNACM": 8980735914471798126,
-  "CHCOOENOOJM": 17109990723437660528,
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL_HURT",
-  "CBADONBPEKC": "FIGHT_PROP_DEFENSE_PERCENT"
+  "__unk_Q4006806719": 312083183777682840,
+  "__unk_Q3180767004": 8980735914471798126,
+  "__unk_Q836298517": 17109990723437660528,
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL_HURT",
+  "__unk_Q2434952433": "FIGHT_PROP_DEFENSE_PERCENT"
  },
  {
   "animatorConfigPathHash": 10342063903158786806,
@@ -3296,7 +3296,7 @@
    5
   ],
   "bodyType": "BODY_LADY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 1285688989385929594,
   "controllerPathHash": 5296596281003715845,
   "controllerPathRemoteHash": 13988341750119601391,
@@ -3340,18 +3340,18 @@
   "scriptDataPathHash": 3744219756526631032,
   "sideIconName": "UI_AvatarIcon_Side_Yae",
   "skillDepotId": 5801,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CATALYST",
-  "POCCNIJNACM": 5520412178148213426,
-  "KADLDGKLEPC": 10529498919857256448,
-  "CHCOOENOOJM": 11746012323041005462,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL_HURT",
-  "BEODCKHANHE": "FIGHT_PROP_ELEMENT_MASTERY"
+  "__unk_Q3180767004": 5520412178148213426,
+  "__unk_Q4006806719": 10529498919857256448,
+  "__unk_Q836298517": 11746012323041005462,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL_HURT",
+  "__unk_Q2086394878": "FIGHT_PROP_ELEMENT_MASTERY"
  },
  {
   "animatorConfigPathHash": 5085721356200380023,
@@ -3369,7 +3369,7 @@
    5
   ],
   "bodyType": "BODY_BOY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 868805725857367824,
   "controllerPathHash": 5173981051630464454,
   "controllerPathRemoteHash": 14910989638371274728,
@@ -3413,18 +3413,18 @@
   "scriptDataPathHash": 7535910857308706620,
   "sideIconName": "UI_AvatarIcon_Side_Heizo",
   "skillDepotId": 5901,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CATALYST",
-  "CHCOOENOOJM": 3243786170723465118,
-  "KADLDGKLEPC": 5188155714321324924,
-  "POCCNIJNACM": 17255437464604389469,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q836298517": 3243786170723465118,
+  "__unk_Q4006806719": 5188155714321324924,
+  "__unk_Q3180767004": 17255437464604389469,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 17028454706270802493,
@@ -3442,7 +3442,7 @@
    5
   ],
   "bodyType": "BODY_LADY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 14990505026834016555,
   "controllerPathHash": 4863522829106409400,
   "controllerPathRemoteHash": 9738344369551055532,
@@ -3487,18 +3487,18 @@
   "scriptDataPathHash": 3744219756526631032,
   "sideIconName": "UI_AvatarIcon_Side_Yelan",
   "skillDepotId": 6001,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_BOW",
-  "POCCNIJNACM": 11345970425743131773,
-  "KADLDGKLEPC": 12139821809211823911,
-  "CHCOOENOOJM": 18070100267759213831,
-  "BEODCKHANHE": "FIGHT_PROP_CHARGE_EFFICIENCY",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL_HURT",
-  "CBADONBPEKC": "FIGHT_PROP_HP_PERCENT"
+  "__unk_Q3180767004": 11345970425743131773,
+  "__unk_Q4006806719": 12139821809211823911,
+  "__unk_Q836298517": 18070100267759213831,
+  "__unk_Q2086394878": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL_HURT",
+  "__unk_Q2434952433": "FIGHT_PROP_HP_PERCENT"
  },
  {
   "animatorConfigPathHash": 10193448342315829169,
@@ -3516,7 +3516,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 14191783009029807001,
   "controllerPathHash": 14354870684859607739,
   "controllerPathRemoteHash": 5224589753208779262,
@@ -3560,16 +3560,16 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Momoka",
   "skillDepotId": 6101,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "CHCOOENOOJM": 2420168379355085879,
-  "POCCNIJNACM": 4776123385664132528,
-  "KADLDGKLEPC": 7087520769001388333,
-  "CBEGCDFMBDF": "FIGHT_PROP_HP_PERCENT"
+  "__unk_Q836298517": 2420168379355085879,
+  "__unk_Q3180767004": 4776123385664132528,
+  "__unk_Q4006806719": 7087520769001388333,
+  "__unk_Q3522047146": "FIGHT_PROP_HP_PERCENT"
  },
  {
   "animatorConfigPathHash": 3443816086749282887,
@@ -3587,7 +3587,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 6455134435941847147,
   "controllerPathHash": 17803352873882648689,
   "controllerPathRemoteHash": 1760708023033715889,
@@ -3632,18 +3632,18 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Aloy",
   "skillDepotId": 6201,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_BOW",
-  "POCCNIJNACM": 6408517348950325071,
-  "CHCOOENOOJM": 6764738438348652616,
-  "KADLDGKLEPC": 10185879539857437138,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q3180767004": 6408517348950325071,
+  "__unk_Q836298517": 6764738438348652616,
+  "__unk_Q4006806719": 10185879539857437138,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 15521519964846876947,
@@ -3661,7 +3661,7 @@
    5
   ],
   "bodyType": "BODY_LADY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 15364837967956993371,
   "controllerPathHash": 11438927723139524610,
   "controllerPathRemoteHash": 932679866898810169,
@@ -3705,17 +3705,17 @@
   "scriptDataPathHash": 3744219756526631032,
   "sideIconName": "UI_AvatarIcon_Side_Shenhe",
   "skillDepotId": 6301,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_POLE",
-  "POCCNIJNACM": 8739842748631856957,
-  "KADLDGKLEPC": 12146487876740279348,
-  "CHCOOENOOJM": 17293845908373695380,
-  "CBEGCDFMBDF": "FIGHT_PROP_ATTACK_PERCENT",
-  "BEODCKHANHE": "FIGHT_PROP_CHARGE_EFFICIENCY"
+  "__unk_Q3180767004": 8739842748631856957,
+  "__unk_Q4006806719": 12146487876740279348,
+  "__unk_Q836298517": 17293845908373695380,
+  "__unk_Q3522047146": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q2086394878": "FIGHT_PROP_CHARGE_EFFICIENCY"
  },
  {
   "animatorConfigPathHash": 17966460069573156157,
@@ -3733,7 +3733,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 6265831327556813413,
   "controllerPathHash": 2168640158099125316,
   "controllerPathRemoteHash": 10792373770949859524,
@@ -3777,17 +3777,17 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Yunjin",
   "skillDepotId": 6401,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_POLE",
-  "POCCNIJNACM": 6509893632914109352,
-  "KADLDGKLEPC": 12082209137971018502,
-  "CHCOOENOOJM": 18027229185994998048,
-  "BEODCKHANHE": "FIGHT_PROP_CHARGE_EFFICIENCY",
-  "CBEGCDFMBDF": "FIGHT_PROP_DEFENSE_PERCENT"
+  "__unk_Q3180767004": 6509893632914109352,
+  "__unk_Q4006806719": 12082209137971018502,
+  "__unk_Q836298517": 18027229185994998048,
+  "__unk_Q2086394878": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "__unk_Q3522047146": "FIGHT_PROP_DEFENSE_PERCENT"
  },
  {
   "animatorConfigPathHash": 2446639146247905039,
@@ -3805,7 +3805,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 15803577131228551798,
   "controllerPathHash": 818524332457282568,
   "controllerPathRemoteHash": 3466690012878962120,
@@ -3849,17 +3849,17 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Shinobu",
   "skillDepotId": 6501,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "CHCOOENOOJM": 983562019430977523,
-  "KADLDGKLEPC": 13149046516943277299,
-  "POCCNIJNACM": 15951322645163918119,
-  "CBEGCDFMBDF": "FIGHT_PROP_ELEMENT_MASTERY",
-  "BEODCKHANHE": "FIGHT_PROP_HP_PERCENT"
+  "__unk_Q836298517": 983562019430977523,
+  "__unk_Q4006806719": 13149046516943277299,
+  "__unk_Q3180767004": 15951322645163918119,
+  "__unk_Q3522047146": "FIGHT_PROP_ELEMENT_MASTERY",
+  "__unk_Q2086394878": "FIGHT_PROP_HP_PERCENT"
  },
  {
   "animatorConfigPathHash": 2888772669302561623,
@@ -3877,7 +3877,7 @@
    5
   ],
   "bodyType": "BODY_MALE",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 6698256989427356611,
   "controllerPathHash": 17453778669417186851,
   "controllerPathRemoteHash": 4670879349352828970,
@@ -3921,18 +3921,18 @@
   "scriptDataPathHash": 5593123940503998067,
   "sideIconName": "UI_AvatarIcon_Side_Ayato",
   "skillDepotId": 6601,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "CHCOOENOOJM": 7972531599440194669,
-  "POCCNIJNACM": 10361741027100416779,
-  "KADLDGKLEPC": 12002444621292201359,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q836298517": 7972531599440194669,
+  "__unk_Q3180767004": 10361741027100416779,
+  "__unk_Q4006806719": 12002444621292201359,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 390516915676353587,
@@ -3950,7 +3950,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 6728642725722050624,
   "controllerPathHash": 5022774089580626781,
   "controllerPathRemoteHash": 12608174541764613587,
@@ -3995,17 +3995,17 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Collei",
   "skillDepotId": 6701,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_BOW",
-  "CHCOOENOOJM": 6450494304771326947,
-  "POCCNIJNACM": 14121176164475360761,
-  "KADLDGKLEPC": 18426070176715418154,
-  "BEODCKHANHE": "FIGHT_PROP_CHARGE_EFFICIENCY",
-  "CBEGCDFMBDF": "FIGHT_PROP_ELEMENT_MASTERY"
+  "__unk_Q836298517": 6450494304771326947,
+  "__unk_Q3180767004": 14121176164475360761,
+  "__unk_Q4006806719": 18426070176715418154,
+  "__unk_Q2086394878": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "__unk_Q3522047146": "FIGHT_PROP_ELEMENT_MASTERY"
  },
  {
   "animatorConfigPathHash": 3651267424127852363,
@@ -4023,7 +4023,7 @@
    5
   ],
   "bodyType": "BODY_LOLI",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 2717549344775136708,
   "controllerPathHash": 8643776390269310713,
   "controllerPathRemoteHash": 2129856974784457489,
@@ -4068,18 +4068,18 @@
   "sideIconName": "UI_AvatarIcon_Side_Dori",
   "skillDepotId": 6801,
   "specialDeformationMeshPathHash": 4795141121874192808,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CLAYMORE",
-  "POCCNIJNACM": 5436996046270802633,
-  "KADLDGKLEPC": 6925248369859281612,
-  "CHCOOENOOJM": 17238516443168178128,
-  "CBEGCDFMBDF": "FIGHT_PROP_CHARGE_EFFICIENCY",
-  "BEODCKHANHE": "FIGHT_PROP_ELEMENT_MASTERY",
-  "CBADONBPEKC": "FIGHT_PROP_HP_PERCENT"
+  "__unk_Q3180767004": 5436996046270802633,
+  "__unk_Q4006806719": 6925248369859281612,
+  "__unk_Q836298517": 17238516443168178128,
+  "__unk_Q3522047146": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "__unk_Q2086394878": "FIGHT_PROP_ELEMENT_MASTERY",
+  "__unk_Q2434952433": "FIGHT_PROP_HP_PERCENT"
  },
  {
   "animatorConfigPathHash": 12393325213078090164,
@@ -4097,7 +4097,7 @@
    5
   ],
   "bodyType": "BODY_BOY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 3144140652057176111,
   "controllerPathHash": 331139803442101954,
   "controllerPathRemoteHash": 17381034277785124942,
@@ -4142,18 +4142,18 @@
   "scriptDataPathHash": 7535910857308706620,
   "sideIconName": "UI_AvatarIcon_Side_Tighnari",
   "skillDepotId": 6901,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_BOW",
-  "KADLDGKLEPC": 12831588135326525398,
-  "CHCOOENOOJM": 13255740857284327863,
-  "POCCNIJNACM": 13683495146813446548,
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL_HURT",
-  "CBADONBPEKC": "FIGHT_PROP_ELEMENT_MASTERY"
+  "__unk_Q4006806719": 12831588135326525398,
+  "__unk_Q836298517": 13255740857284327863,
+  "__unk_Q3180767004": 13683495146813446548,
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL_HURT",
+  "__unk_Q2434952433": "FIGHT_PROP_ELEMENT_MASTERY"
  },
  {
   "animatorConfigPathHash": 2555862184431948310,
@@ -4171,7 +4171,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 8732318291015318369,
   "controllerPathHash": 4687474041518979367,
   "controllerPathRemoteHash": 8894700984655139421,
@@ -4215,17 +4215,17 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Nilou",
   "skillDepotId": 7001,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "POCCNIJNACM": 1390541123566569775,
-  "CHCOOENOOJM": 6354329449499492771,
-  "KADLDGKLEPC": 15602711984520508186,
-  "BEODCKHANHE": "FIGHT_PROP_ELEMENT_MASTERY",
-  "CBEGCDFMBDF": "FIGHT_PROP_HP_PERCENT"
+  "__unk_Q3180767004": 1390541123566569775,
+  "__unk_Q836298517": 6354329449499492771,
+  "__unk_Q4006806719": 15602711984520508186,
+  "__unk_Q2086394878": "FIGHT_PROP_ELEMENT_MASTERY",
+  "__unk_Q3522047146": "FIGHT_PROP_HP_PERCENT"
  },
  {
   "animatorConfigPathHash": 17416719802686130190,
@@ -4243,7 +4243,7 @@
    5
   ],
   "bodyType": "BODY_BOY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 12521099888279545801,
   "controllerPathHash": 13162889606567310719,
   "controllerPathRemoteHash": 11023824909528481706,
@@ -4287,18 +4287,18 @@
   "scriptDataPathHash": 7535910857308706620,
   "sideIconName": "UI_AvatarIcon_Side_Cyno",
   "skillDepotId": 7101,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_POLE",
-  "POCCNIJNACM": 2004828989260232004,
-  "KADLDGKLEPC": 4693467730539176113,
-  "CHCOOENOOJM": 15657388929768311934,
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL_HURT",
-  "CBADONBPEKC": "FIGHT_PROP_ELEMENT_MASTERY"
+  "__unk_Q3180767004": 2004828989260232004,
+  "__unk_Q4006806719": 4693467730539176113,
+  "__unk_Q836298517": 15657388929768311934,
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL_HURT",
+  "__unk_Q2434952433": "FIGHT_PROP_ELEMENT_MASTERY"
  },
  {
   "animatorConfigPathHash": 10122794032666665970,
@@ -4316,7 +4316,7 @@
    5
   ],
   "bodyType": "BODY_LADY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 9943658081514536559,
   "controllerPathHash": 3985863351990112619,
   "controllerPathRemoteHash": 13695327123733321272,
@@ -4360,17 +4360,17 @@
   "scriptDataPathHash": 3744219756526631032,
   "sideIconName": "UI_AvatarIcon_Side_Candace",
   "skillDepotId": 7201,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_POLE",
-  "POCCNIJNACM": 146235703990554555,
-  "CHCOOENOOJM": 9714352262746639041,
-  "KADLDGKLEPC": 16458243257527526165,
-  "BEODCKHANHE": "FIGHT_PROP_CHARGE_EFFICIENCY",
-  "CBEGCDFMBDF": "FIGHT_PROP_HP_PERCENT"
+  "__unk_Q3180767004": 146235703990554555,
+  "__unk_Q836298517": 9714352262746639041,
+  "__unk_Q4006806719": 16458243257527526165,
+  "__unk_Q2086394878": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "__unk_Q3522047146": "FIGHT_PROP_HP_PERCENT"
  },
  {
   "animatorConfigPathHash": 8002574743464321903,
@@ -4388,7 +4388,7 @@
    5
   ],
   "bodyType": "BODY_LOLI",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 13048569306926501217,
   "controllerPathHash": 16861969649173716773,
   "controllerPathRemoteHash": 12337813273330719740,
@@ -4432,18 +4432,18 @@
   "scriptDataPathHash": 1848978244376883498,
   "sideIconName": "UI_AvatarIcon_Side_Nahida",
   "skillDepotId": 7301,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CATALYST",
-  "CHCOOENOOJM": 1256981883157016039,
-  "POCCNIJNACM": 1818533258510395012,
-  "KADLDGKLEPC": 16784349714347884037,
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL",
-  "CBADONBPEKC": "FIGHT_PROP_CRITICAL_HURT",
-  "CBEGCDFMBDF": "FIGHT_PROP_ELEMENT_MASTERY"
+  "__unk_Q836298517": 1256981883157016039,
+  "__unk_Q3180767004": 1818533258510395012,
+  "__unk_Q4006806719": 16784349714347884037,
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2434952433": "FIGHT_PROP_CRITICAL_HURT",
+  "__unk_Q3522047146": "FIGHT_PROP_ELEMENT_MASTERY"
  },
  {
   "animatorConfigPathHash": 3090116196909300402,
@@ -4461,7 +4461,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 12080818887083746454,
   "controllerPathHash": 12265296358827762627,
   "controllerPathRemoteHash": 558904272793909906,
@@ -4505,16 +4505,16 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Layla",
   "skillDepotId": 7401,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "KADLDGKLEPC": 1334601262454708808,
-  "CHCOOENOOJM": 6199066523254213661,
-  "POCCNIJNACM": 18255758662961733210,
-  "CBEGCDFMBDF": "FIGHT_PROP_HP_PERCENT"
+  "__unk_Q4006806719": 1334601262454708808,
+  "__unk_Q836298517": 6199066523254213661,
+  "__unk_Q3180767004": 18255758662961733210,
+  "__unk_Q3522047146": "FIGHT_PROP_HP_PERCENT"
  },
  {
   "animatorConfigPathHash": 7491278283710436247,
@@ -4532,7 +4532,7 @@
    5
   ],
   "bodyType": "BODY_BOY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 13675355868156444375,
   "controllerPathHash": 371987683098638875,
   "controllerPathRemoteHash": 7218336410258283899,
@@ -4576,18 +4576,18 @@
   "scriptDataPathHash": 7535910857308706620,
   "sideIconName": "UI_AvatarIcon_Side_Wanderer",
   "skillDepotId": 7501,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CATALYST",
-  "POCCNIJNACM": 1133602493827261161,
-  "CHCOOENOOJM": 2838062018986329314,
-  "KADLDGKLEPC": 15429791976974481311,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q3180767004": 1133602493827261161,
+  "__unk_Q836298517": 2838062018986329314,
+  "__unk_Q4006806719": 15429791976974481311,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 16169512408392507772,
@@ -4605,7 +4605,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 9276914800140592099,
   "controllerPathHash": 1116172193185810415,
   "controllerPathRemoteHash": 18233795300215460467,
@@ -4650,17 +4650,17 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Faruzan",
   "skillDepotId": 7601,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_BOW",
-  "POCCNIJNACM": 2450010864965609980,
-  "KADLDGKLEPC": 5943156716392303303,
-  "CHCOOENOOJM": 8852599606742566424,
-  "BEODCKHANHE": "FIGHT_PROP_ATTACK_PERCENT",
-  "CBEGCDFMBDF": "FIGHT_PROP_CHARGE_EFFICIENCY"
+  "__unk_Q3180767004": 2450010864965609980,
+  "__unk_Q4006806719": 5943156716392303303,
+  "__unk_Q836298517": 8852599606742566424,
+  "__unk_Q2086394878": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q3522047146": "FIGHT_PROP_CHARGE_EFFICIENCY"
  },
  {
   "animatorConfigPathHash": 14700356751312737608,
@@ -4678,7 +4678,7 @@
    5
   ],
   "bodyType": "BODY_LOLI",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 15521491929183764212,
   "controllerPathHash": 1165464127688392671,
   "controllerPathRemoteHash": 16228948770913300000,
@@ -4722,17 +4722,17 @@
   "scriptDataPathHash": 1848978244376883498,
   "sideIconName": "UI_AvatarIcon_Side_Yaoyao",
   "skillDepotId": 7701,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_POLE",
-  "POCCNIJNACM": 9196212572690107441,
-  "KADLDGKLEPC": 17753634588879067832,
-  "CHCOOENOOJM": 18011339913405984431,
-  "BEODCKHANHE": "FIGHT_PROP_CHARGE_EFFICIENCY",
-  "CBEGCDFMBDF": "FIGHT_PROP_HP_PERCENT"
+  "__unk_Q3180767004": 9196212572690107441,
+  "__unk_Q4006806719": 17753634588879067832,
+  "__unk_Q836298517": 18011339913405984431,
+  "__unk_Q2086394878": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "__unk_Q3522047146": "FIGHT_PROP_HP_PERCENT"
  },
  {
   "animatorConfigPathHash": 1559504109953625598,
@@ -4750,7 +4750,7 @@
    5
   ],
   "bodyType": "BODY_MALE",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 7043010584985178295,
   "controllerPathHash": 12651696101479451391,
   "controllerPathRemoteHash": 7851336442400908258,
@@ -4794,18 +4794,18 @@
   "scriptDataPathHash": 5593123940503998067,
   "sideIconName": "UI_AvatarIcon_Side_Alhatham",
   "skillDepotId": 7801,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "CHCOOENOOJM": 7521129200934653862,
-  "KADLDGKLEPC": 8875268048564021807,
-  "POCCNIJNACM": 11342315505045152781,
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL_HURT",
-  "CBADONBPEKC": "FIGHT_PROP_ELEMENT_MASTERY"
+  "__unk_Q836298517": 7521129200934653862,
+  "__unk_Q4006806719": 8875268048564021807,
+  "__unk_Q3180767004": 11342315505045152781,
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL_HURT",
+  "__unk_Q2434952433": "FIGHT_PROP_ELEMENT_MASTERY"
  },
  {
   "animatorConfigPathHash": 6168969247513033045,
@@ -4823,7 +4823,7 @@
    5
   ],
   "bodyType": "BODY_LADY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 4476348465384482973,
   "controllerPathHash": 1405728344718254052,
   "controllerPathRemoteHash": 14647494885738860455,
@@ -4867,18 +4867,18 @@
   "scriptDataPathHash": 3744219756526631032,
   "sideIconName": "UI_AvatarIcon_Side_Dehya",
   "skillDepotId": 7901,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CLAYMORE",
-  "POCCNIJNACM": 5699916787322220633,
-  "KADLDGKLEPC": 14395088937935523520,
-  "CHCOOENOOJM": 14547664366308890382,
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL",
-  "CBADONBPEKC": "FIGHT_PROP_CRITICAL_HURT",
-  "CBEGCDFMBDF": "FIGHT_PROP_HP_PERCENT"
+  "__unk_Q3180767004": 5699916787322220633,
+  "__unk_Q4006806719": 14395088937935523520,
+  "__unk_Q836298517": 14547664366308890382,
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2434952433": "FIGHT_PROP_CRITICAL_HURT",
+  "__unk_Q3522047146": "FIGHT_PROP_HP_PERCENT"
  },
  {
   "animatorConfigPathHash": 17407846286288962114,
@@ -4896,7 +4896,7 @@
    5
   ],
   "bodyType": "BODY_BOY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 5326501468774803739,
   "controllerPathHash": 18163462104429628233,
   "controllerPathRemoteHash": 11260750855539057377,
@@ -4940,17 +4940,17 @@
   "scriptDataPathHash": 7535910857308706620,
   "sideIconName": "UI_AvatarIcon_Side_Mika",
   "skillDepotId": 8001,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_POLE",
-  "KADLDGKLEPC": 10252117309438340338,
-  "POCCNIJNACM": 14511807105946898309,
-  "CHCOOENOOJM": 16527657298621785562,
-  "CBEGCDFMBDF": "FIGHT_PROP_CHARGE_EFFICIENCY",
-  "BEODCKHANHE": "FIGHT_PROP_HP_PERCENT"
+  "__unk_Q4006806719": 10252117309438340338,
+  "__unk_Q3180767004": 14511807105946898309,
+  "__unk_Q836298517": 16527657298621785562,
+  "__unk_Q3522047146": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "__unk_Q2086394878": "FIGHT_PROP_HP_PERCENT"
  },
  {
   "animatorConfigPathHash": 15084538548050360521,
@@ -4968,7 +4968,7 @@
    5
   ],
   "bodyType": "BODY_MALE",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 7980470995997248787,
   "controllerPathHash": 12058206586938092545,
   "controllerPathRemoteHash": 8534849971406919952,
@@ -5012,16 +5012,16 @@
   "scriptDataPathHash": 5593123940503998067,
   "sideIconName": "UI_AvatarIcon_Side_Kaveh",
   "skillDepotId": 8101,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CLAYMORE",
-  "POCCNIJNACM": 2471048822471663281,
-  "CHCOOENOOJM": 15209037275041290916,
-  "KADLDGKLEPC": 16313685716565525661,
-  "CBEGCDFMBDF": "FIGHT_PROP_ELEMENT_MASTERY"
+  "__unk_Q3180767004": 2471048822471663281,
+  "__unk_Q836298517": 15209037275041290916,
+  "__unk_Q4006806719": 16313685716565525661,
+  "__unk_Q3522047146": "FIGHT_PROP_ELEMENT_MASTERY"
  },
  {
   "animatorConfigPathHash": 17059161156710876313,
@@ -5039,7 +5039,7 @@
    5
   ],
   "bodyType": "BODY_MALE",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 4367080609229267619,
   "controllerPathHash": 8157997920706355441,
   "controllerPathRemoteHash": 11771481947594312251,
@@ -5083,17 +5083,17 @@
   "scriptDataPathHash": 5593123940503998067,
   "sideIconName": "UI_AvatarIcon_Side_Baizhuer",
   "skillDepotId": 8201,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CATALYST",
-  "CHCOOENOOJM": 15958036873266064105,
-  "KADLDGKLEPC": 16812384224460236770,
-  "POCCNIJNACM": 17206410417396496909,
-  "BEODCKHANHE": "FIGHT_PROP_CHARGE_EFFICIENCY",
-  "CBEGCDFMBDF": "FIGHT_PROP_HP_PERCENT"
+  "__unk_Q836298517": 15958036873266064105,
+  "__unk_Q4006806719": 16812384224460236770,
+  "__unk_Q3180767004": 17206410417396496909,
+  "__unk_Q2086394878": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "__unk_Q3522047146": "FIGHT_PROP_HP_PERCENT"
  },
  {
   "animatorConfigPathHash": 12117119255710016025,
@@ -5111,7 +5111,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 3024867907942101475,
   "controllerPathHash": 18047575230075856020,
   "controllerPathRemoteHash": 7458939844823485194,
@@ -5155,18 +5155,18 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Linette",
   "skillDepotId": 8301,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "POCCNIJNACM": 4474722026104790985,
-  "CHCOOENOOJM": 9318307854463221829,
-  "KADLDGKLEPC": 14049678761909911459,
-  "CBEGCDFMBDF": "FIGHT_PROP_ATTACK_PERCENT",
-  "CBADONBPEKC": "FIGHT_PROP_CHARGE_EFFICIENCY",
-  "BEODCKHANHE": "FIGHT_PROP_ELEMENT_MASTERY"
+  "__unk_Q3180767004": 4474722026104790985,
+  "__unk_Q836298517": 9318307854463221829,
+  "__unk_Q4006806719": 14049678761909911459,
+  "__unk_Q3522047146": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q2434952433": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "__unk_Q2086394878": "FIGHT_PROP_ELEMENT_MASTERY"
  },
  {
   "animatorConfigPathHash": 9693161613001424164,
@@ -5184,7 +5184,7 @@
    5
   ],
   "bodyType": "BODY_BOY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 12963164008199332505,
   "controllerPathHash": 6080679459956951571,
   "controllerPathRemoteHash": 42974577320284066,
@@ -5229,18 +5229,18 @@
   "scriptDataPathHash": 7535910857308706620,
   "sideIconName": "UI_AvatarIcon_Side_Liney",
   "skillDepotId": 8401,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_BOW",
-  "KADLDGKLEPC": 250300151720706127,
-  "CHCOOENOOJM": 400895062473277163,
-  "POCCNIJNACM": 2984626081957147844,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q4006806719": 250300151720706127,
+  "__unk_Q836298517": 400895062473277163,
+  "__unk_Q3180767004": 2984626081957147844,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 16137201593921283796,
@@ -5258,7 +5258,7 @@
    5
   ],
   "bodyType": "BODY_BOY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 15875684528928815484,
   "controllerPathHash": 2754102834090342011,
   "controllerPathRemoteHash": 2070350204208579598,
@@ -5302,18 +5302,18 @@
   "scriptDataPathHash": 7535910857308706620,
   "sideIconName": "UI_AvatarIcon_Side_Freminet",
   "skillDepotId": 8501,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CLAYMORE",
-  "CHCOOENOOJM": 10526136447458047905,
-  "POCCNIJNACM": 12186561103186536881,
-  "KADLDGKLEPC": 14928141879305050603,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q836298517": 10526136447458047905,
+  "__unk_Q3180767004": 12186561103186536881,
+  "__unk_Q4006806719": 14928141879305050603,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 12794072212953680806,
@@ -5331,7 +5331,7 @@
    5
   ],
   "bodyType": "BODY_MALE",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 17759251653553606782,
   "controllerPathHash": 12772624171448947811,
   "controllerPathRemoteHash": 1929995972627889271,
@@ -5375,18 +5375,18 @@
   "scriptDataPathHash": 5593123940503998067,
   "sideIconName": "UI_AvatarIcon_Side_Wriothesley",
   "skillDepotId": 8601,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CATALYST",
-  "KADLDGKLEPC": 2500843638335647020,
-  "POCCNIJNACM": 15797441782128210091,
-  "CHCOOENOOJM": 17372126600059091701,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q4006806719": 2500843638335647020,
+  "__unk_Q3180767004": 15797441782128210091,
+  "__unk_Q836298517": 17372126600059091701,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 4663263181673610030,
@@ -5404,7 +5404,7 @@
    5
   ],
   "bodyType": "BODY_MALE",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 16063228256451134569,
   "controllerPathHash": 13106495772160015670,
   "controllerPathRemoteHash": 9657153808506292236,
@@ -5448,18 +5448,18 @@
   "scriptDataPathHash": 5593123940503998067,
   "sideIconName": "UI_AvatarIcon_Side_Neuvillette",
   "skillDepotId": 8701,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CATALYST",
-  "POCCNIJNACM": 4895170621012478339,
-  "CHCOOENOOJM": 5616918039222364393,
-  "KADLDGKLEPC": 6298777903305270049,
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL_HURT",
-  "CBADONBPEKC": "FIGHT_PROP_HP_PERCENT"
+  "__unk_Q3180767004": 4895170621012478339,
+  "__unk_Q836298517": 5616918039222364393,
+  "__unk_Q4006806719": 6298777903305270049,
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL_HURT",
+  "__unk_Q2434952433": "FIGHT_PROP_HP_PERCENT"
  },
  {
   "animatorConfigPathHash": 1460038961218442664,
@@ -5477,7 +5477,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 16984157390809367524,
   "controllerPathHash": 8512824336189843371,
   "controllerPathRemoteHash": 8196807758932394753,
@@ -5521,17 +5521,17 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Charlotte",
   "skillDepotId": 8801,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CATALYST",
-  "CHCOOENOOJM": 11949586907407267314,
-  "KADLDGKLEPC": 11957469319064029903,
-  "POCCNIJNACM": 16500729637513269905,
-  "CBEGCDFMBDF": "FIGHT_PROP_ATTACK_PERCENT",
-  "BEODCKHANHE": "FIGHT_PROP_CHARGE_EFFICIENCY"
+  "__unk_Q836298517": 11949586907407267314,
+  "__unk_Q4006806719": 11957469319064029903,
+  "__unk_Q3180767004": 16500729637513269905,
+  "__unk_Q3522047146": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q2086394878": "FIGHT_PROP_CHARGE_EFFICIENCY"
  },
  {
   "animatorConfigPathHash": 3705144445732629651,
@@ -5549,7 +5549,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 9497024449148259262,
   "controllerPathHash": 9862345845668559112,
   "controllerPathRemoteHash": 12618962924499401687,
@@ -5593,18 +5593,18 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Furina",
   "skillDepotId": 8901,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "KADLDGKLEPC": 4654201667473003974,
-  "CHCOOENOOJM": 7660428007389001669,
-  "POCCNIJNACM": 15266666775273150467,
-  "BEODCKHANHE": "FIGHT_PROP_CHARGE_EFFICIENCY",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL_HURT",
-  "CBADONBPEKC": "FIGHT_PROP_HP_PERCENT"
+  "__unk_Q4006806719": 4654201667473003974,
+  "__unk_Q836298517": 7660428007389001669,
+  "__unk_Q3180767004": 15266666775273150467,
+  "__unk_Q2086394878": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL_HURT",
+  "__unk_Q2434952433": "FIGHT_PROP_HP_PERCENT"
  },
  {
   "animatorConfigPathHash": 9021253057891029308,
@@ -5622,7 +5622,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 13464465041398042315,
   "controllerPathHash": 1615582759027695979,
   "controllerPathRemoteHash": 3526445849350227394,
@@ -5666,16 +5666,16 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Chevreuse",
   "skillDepotId": 9001,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_POLE",
-  "KADLDGKLEPC": 3925719946447477514,
-  "POCCNIJNACM": 5316616521062211623,
-  "CHCOOENOOJM": 16360005804994821117,
-  "CBEGCDFMBDF": "FIGHT_PROP_HP_PERCENT"
+  "__unk_Q4006806719": 3925719946447477514,
+  "__unk_Q3180767004": 5316616521062211623,
+  "__unk_Q836298517": 16360005804994821117,
+  "__unk_Q3522047146": "FIGHT_PROP_HP_PERCENT"
  },
  {
   "animatorConfigPathHash": 16246165153829865227,
@@ -5693,7 +5693,7 @@
    5
   ],
   "bodyType": "BODY_LADY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 6267094055314919059,
   "controllerPathHash": 15442378743586097824,
   "controllerPathRemoteHash": 16149628533802613449,
@@ -5737,18 +5737,18 @@
   "scriptDataPathHash": 3744219756526631032,
   "sideIconName": "UI_AvatarIcon_Side_Navia",
   "skillDepotId": 9101,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CLAYMORE",
-  "CHCOOENOOJM": 11015396248401395962,
-  "KADLDGKLEPC": 12697609958145516222,
-  "POCCNIJNACM": 14703818463609001310,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q836298517": 11015396248401395962,
+  "__unk_Q4006806719": 12697609958145516222,
+  "__unk_Q3180767004": 14703818463609001310,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 4507504589504121028,
@@ -5766,7 +5766,7 @@
    5
   ],
   "bodyType": "BODY_BOY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 859319224335024965,
   "controllerPathHash": 1584353050834336962,
   "controllerPathRemoteHash": 14028685572991240420,
@@ -5810,18 +5810,18 @@
   "scriptDataPathHash": 7535910857308706620,
   "sideIconName": "UI_AvatarIcon_Side_Gaming",
   "skillDepotId": 9201,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CLAYMORE",
-  "POCCNIJNACM": 317777781852944925,
-  "KADLDGKLEPC": 5290143666769930297,
-  "CHCOOENOOJM": 8188295525513500431,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q3180767004": 317777781852944925,
+  "__unk_Q4006806719": 5290143666769930297,
+  "__unk_Q836298517": 8188295525513500431,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 2412527072173949010,
@@ -5839,7 +5839,7 @@
    5
   ],
   "bodyType": "BODY_LADY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 8751463624069500084,
   "controllerPathHash": 2699471251266214857,
   "controllerPathRemoteHash": 17824255349996191952,
@@ -5883,17 +5883,17 @@
   "scriptDataPathHash": 3744219756526631032,
   "sideIconName": "UI_AvatarIcon_Side_Liuyun",
   "skillDepotId": 9301,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CATALYST",
-  "CHCOOENOOJM": 503373973516816828,
-  "POCCNIJNACM": 1455750265638779556,
-  "KADLDGKLEPC": 8530344935874508350,
-  "CBEGCDFMBDF": "FIGHT_PROP_ATTACK_PERCENT",
-  "BEODCKHANHE": "FIGHT_PROP_CHARGE_EFFICIENCY"
+  "__unk_Q836298517": 503373973516816828,
+  "__unk_Q3180767004": 1455750265638779556,
+  "__unk_Q4006806719": 8530344935874508350,
+  "__unk_Q3522047146": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q2086394878": "FIGHT_PROP_CHARGE_EFFICIENCY"
  },
  {
   "animatorConfigPathHash": 12658623118900276254,
@@ -5911,7 +5911,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 5458124704237262054,
   "controllerPathHash": 6902168011742553513,
   "controllerPathRemoteHash": 1749564528399333646,
@@ -5955,18 +5955,18 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Chiori",
   "skillDepotId": 9401,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "POCCNIJNACM": 2089437210225248427,
-  "KADLDGKLEPC": 2864454257890023906,
-  "CHCOOENOOJM": 13802281408234894017,
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL_HURT",
-  "CBADONBPEKC": "FIGHT_PROP_DEFENSE_PERCENT"
+  "__unk_Q3180767004": 2089437210225248427,
+  "__unk_Q4006806719": 2864454257890023906,
+  "__unk_Q836298517": 13802281408234894017,
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL_HURT",
+  "__unk_Q2434952433": "FIGHT_PROP_DEFENSE_PERCENT"
  },
  {
   "animatorConfigPathHash": 651651471106720170,
@@ -5984,7 +5984,7 @@
    5
   ],
   "bodyType": "BODY_LOLI",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 14531825029564112286,
   "controllerPathHash": 4568010785944200616,
   "controllerPathRemoteHash": 8129076190213096266,
@@ -6029,16 +6029,16 @@
   "scriptDataPathHash": 1848978244376883498,
   "sideIconName": "UI_AvatarIcon_Side_Sigewinne",
   "skillDepotId": 9501,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_BOW",
-  "CHCOOENOOJM": 3806578977122590623,
-  "POCCNIJNACM": 16124842462214522668,
-  "KADLDGKLEPC": 16829783774988119755,
-  "CBEGCDFMBDF": "FIGHT_PROP_HP_PERCENT"
+  "__unk_Q836298517": 3806578977122590623,
+  "__unk_Q3180767004": 16124842462214522668,
+  "__unk_Q4006806719": 16829783774988119755,
+  "__unk_Q3522047146": "FIGHT_PROP_HP_PERCENT"
  },
  {
   "animatorConfigPathHash": 8622301365032512682,
@@ -6056,7 +6056,7 @@
    5
   ],
   "bodyType": "BODY_LADY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 1117709581849335002,
   "controllerPathHash": 14933745011161813822,
   "controllerPathRemoteHash": 12806811329186993623,
@@ -6100,18 +6100,18 @@
   "scriptDataPathHash": 3744219756526631032,
   "sideIconName": "UI_AvatarIcon_Side_Arlecchino",
   "skillDepotId": 9601,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_POLE",
-  "POCCNIJNACM": 10921674429033780275,
-  "CHCOOENOOJM": 15991055627821371865,
-  "KADLDGKLEPC": 16774180678205865969,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q3180767004": 10921674429033780275,
+  "__unk_Q836298517": 15991055627821371865,
+  "__unk_Q4006806719": 16774180678205865969,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 8684504024330450400,
@@ -6129,7 +6129,7 @@
    5
   ],
   "bodyType": "BODY_BOY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 14662023041290052605,
   "controllerPathHash": 16601334182467991787,
   "controllerPathRemoteHash": 18391091702176789903,
@@ -6174,18 +6174,18 @@
   "scriptDataPathHash": 7535910857308706620,
   "sideIconName": "UI_AvatarIcon_Side_Sethos",
   "skillDepotId": 9701,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_BOW",
-  "POCCNIJNACM": 6202392496059347875,
-  "KADLDGKLEPC": 15734055111642075291,
-  "CHCOOENOOJM": 15978410630013818175,
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL_HURT",
-  "CBADONBPEKC": "FIGHT_PROP_ELEMENT_MASTERY"
+  "__unk_Q3180767004": 6202392496059347875,
+  "__unk_Q4006806719": 15734055111642075291,
+  "__unk_Q836298517": 15978410630013818175,
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL_HURT",
+  "__unk_Q2434952433": "FIGHT_PROP_ELEMENT_MASTERY"
  },
  {
   "animatorConfigPathHash": 17419508563936345225,
@@ -6203,7 +6203,7 @@
    5
   ],
   "bodyType": "BODY_LADY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 11367910690119359977,
   "controllerPathHash": 70205627141093090,
   "controllerPathRemoteHash": 5680853463092954989,
@@ -6247,18 +6247,18 @@
   "scriptDataPathHash": 3744219756526631032,
   "sideIconName": "UI_AvatarIcon_Side_Clorinde",
   "skillDepotId": 9801,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "CHCOOENOOJM": 8251018843814034230,
-  "KADLDGKLEPC": 14726721580773867794,
-  "POCCNIJNACM": 15370890876369678926,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q836298517": 8251018843814034230,
+  "__unk_Q4006806719": 14726721580773867794,
+  "__unk_Q3180767004": 15370890876369678926,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 14017180132833828992,
@@ -6276,7 +6276,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 14287441822633364301,
   "controllerPathHash": 3123454728069435031,
   "controllerPathRemoteHash": 16595397090593435789,
@@ -6320,18 +6320,18 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Emilie",
   "skillDepotId": 9901,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_POLE",
-  "CHCOOENOOJM": 7177246418676384850,
-  "POCCNIJNACM": 11040238352997991846,
-  "KADLDGKLEPC": 12024889585847369394,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q836298517": 7177246418676384850,
+  "__unk_Q3180767004": 11040238352997991846,
+  "__unk_Q4006806719": 12024889585847369394,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 11614054906601297537,
@@ -6349,7 +6349,7 @@
    5
   ],
   "bodyType": "BODY_LOLI",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 13659581272452574985,
   "controllerPathHash": 12615847590288827277,
   "controllerPathRemoteHash": 18251950362556534627,
@@ -6394,17 +6394,17 @@
   "sideIconName": "UI_AvatarIcon_Side_Kachina",
   "skillDepotId": 10001,
   "specialDeformationMeshPathHash": 14497723602004353821,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_POLE",
-  "CHCOOENOOJM": 5135595411257371656,
-  "POCCNIJNACM": 12545690213677954416,
-  "KADLDGKLEPC": 14314445879831010854,
-  "BEODCKHANHE": "FIGHT_PROP_CHARGE_EFFICIENCY",
-  "CBEGCDFMBDF": "FIGHT_PROP_DEFENSE_PERCENT"
+  "__unk_Q836298517": 5135595411257371656,
+  "__unk_Q3180767004": 12545690213677954416,
+  "__unk_Q4006806719": 14314445879831010854,
+  "__unk_Q2086394878": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "__unk_Q3522047146": "FIGHT_PROP_DEFENSE_PERCENT"
  },
  {
   "animatorConfigPathHash": 18358426419254795582,
@@ -6422,7 +6422,7 @@
    5
   ],
   "bodyType": "BODY_BOY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 2948519037533841806,
   "controllerPathHash": 18143282353157678649,
   "controllerPathRemoteHash": 17596677263237167077,
@@ -6466,18 +6466,18 @@
   "scriptDataPathHash": 7535910857308706620,
   "sideIconName": "UI_AvatarIcon_Side_Kinich",
   "skillDepotId": 10101,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CLAYMORE",
-  "KADLDGKLEPC": 3246110649390780311,
-  "POCCNIJNACM": 9010209973950874060,
-  "CHCOOENOOJM": 17563027835277118452,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q4006806719": 3246110649390780311,
+  "__unk_Q3180767004": 9010209973950874060,
+  "__unk_Q836298517": 17563027835277118452,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 7337191375773926911,
@@ -6495,7 +6495,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 4618623943277587902,
   "controllerPathHash": 1527220987961621658,
   "controllerPathRemoteHash": 2024482158598168815,
@@ -6540,18 +6540,18 @@
   "sideIconName": "UI_AvatarIcon_Side_Mualani",
   "skillDepotId": 10201,
   "specialDeformationMeshPathHash": 2724767749319282762,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CATALYST",
-  "CHCOOENOOJM": 640038879781486283,
-  "POCCNIJNACM": 11018324615791108958,
-  "KADLDGKLEPC": 18144382259515637143,
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL_HURT",
-  "CBADONBPEKC": "FIGHT_PROP_HP_PERCENT"
+  "__unk_Q836298517": 640038879781486283,
+  "__unk_Q3180767004": 11018324615791108958,
+  "__unk_Q4006806719": 18144382259515637143,
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL_HURT",
+  "__unk_Q2434952433": "FIGHT_PROP_HP_PERCENT"
  },
  {
   "animatorConfigPathHash": 9192153163200200599,
@@ -6569,7 +6569,7 @@
    5
   ],
   "bodyType": "BODY_LADY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 9822541504118969925,
   "controllerPathHash": 610864786558058915,
   "controllerPathRemoteHash": 9240558384583474582,
@@ -6614,17 +6614,17 @@
   "sideIconName": "UI_AvatarIcon_Side_Xilonen",
   "skillDepotId": 10301,
   "specialDeformationMeshPathHash": 2161107074997635871,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "POCCNIJNACM": 7039395395101839275,
-  "KADLDGKLEPC": 9165305160529999638,
-  "CHCOOENOOJM": 15442804076033902789,
-  "BEODCKHANHE": "FIGHT_PROP_CHARGE_EFFICIENCY",
-  "CBEGCDFMBDF": "FIGHT_PROP_DEFENSE_PERCENT"
+  "__unk_Q3180767004": 7039395395101839275,
+  "__unk_Q4006806719": 9165305160529999638,
+  "__unk_Q836298517": 15442804076033902789,
+  "__unk_Q2086394878": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "__unk_Q3522047146": "FIGHT_PROP_DEFENSE_PERCENT"
  },
  {
   "animatorConfigPathHash": 11809287901330286160,
@@ -6642,7 +6642,7 @@
    5
   ],
   "bodyType": "BODY_LADY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 3200765782997997964,
   "controllerPathHash": 11734128856869335362,
   "controllerPathRemoteHash": 11396124412304701481,
@@ -6688,18 +6688,18 @@
   "sideIconName": "UI_AvatarIcon_Side_Chasca",
   "skillDepotId": 10401,
   "specialDeformationMeshPathHash": 8113023501153243527,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_BOW",
-  "POCCNIJNACM": 1675815653590988364,
-  "CHCOOENOOJM": 5640940805521481150,
-  "KADLDGKLEPC": 13200387553932980707,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q3180767004": 1675815653590988364,
+  "__unk_Q836298517": 5640940805521481150,
+  "__unk_Q4006806719": 13200387553932980707,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 10452049785050288096,
@@ -6717,7 +6717,7 @@
    5
   ],
   "bodyType": "BODY_MALE",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 6863221262371349638,
   "controllerPathHash": 10790880757557958169,
   "controllerPathRemoteHash": 10020076139216639715,
@@ -6762,17 +6762,17 @@
   "scriptDataPathHash": 5593123940503998067,
   "sideIconName": "UI_AvatarIcon_Side_Olorun",
   "skillDepotId": 10501,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_BOW",
-  "CHCOOENOOJM": 7876789542946244361,
-  "KADLDGKLEPC": 9654818635479072707,
-  "POCCNIJNACM": 17985482721212154629,
-  "CBEGCDFMBDF": "FIGHT_PROP_ATTACK_PERCENT",
-  "BEODCKHANHE": "FIGHT_PROP_CHARGE_EFFICIENCY"
+  "__unk_Q836298517": 7876789542946244361,
+  "__unk_Q4006806719": 9654818635479072707,
+  "__unk_Q3180767004": 17985482721212154629,
+  "__unk_Q3522047146": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q2086394878": "FIGHT_PROP_CHARGE_EFFICIENCY"
  },
  {
   "animatorConfigPathHash": 11435638603686583614,
@@ -6790,7 +6790,7 @@
    5
   ],
   "bodyType": "BODY_LADY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 11900772426121327580,
   "controllerPathHash": 2595347944453994045,
   "controllerPathRemoteHash": 2770764889013227465,
@@ -6835,18 +6835,18 @@
   "sideIconName": "UI_AvatarIcon_Side_Mavuika",
   "skillDepotId": 10601,
   "specialDeformationMeshPathHash": 9050364505298544690,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CLAYMORE",
-  "KADLDGKLEPC": 3506782480672175302,
-  "CHCOOENOOJM": 11435638603686583614,
-  "POCCNIJNACM": 17067808192289125960,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q4006806719": 3506782480672175302,
+  "__unk_Q836298517": 11435638603686583614,
+  "__unk_Q3180767004": 17067808192289125960,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 10246833765277645608,
@@ -6864,7 +6864,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 5820602207720973825,
   "controllerPathHash": 13680648371359369747,
   "controllerPathRemoteHash": 13774254170241193714,
@@ -6908,17 +6908,17 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Citlali",
   "skillDepotId": 10701,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CATALYST",
-  "POCCNIJNACM": 3104113227485517836,
-  "KADLDGKLEPC": 11083690648567505581,
-  "CHCOOENOOJM": 12428876468405386550,
-  "BEODCKHANHE": "FIGHT_PROP_CHARGE_EFFICIENCY",
-  "CBEGCDFMBDF": "FIGHT_PROP_ELEMENT_MASTERY"
+  "__unk_Q3180767004": 3104113227485517836,
+  "__unk_Q4006806719": 11083690648567505581,
+  "__unk_Q836298517": 12428876468405386550,
+  "__unk_Q2086394878": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "__unk_Q3522047146": "FIGHT_PROP_ELEMENT_MASTERY"
  },
  {
   "animatorConfigPathHash": 3259535435885823648,
@@ -6936,7 +6936,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 8938117848874640334,
   "controllerPathHash": 11604675961620135451,
   "controllerPathRemoteHash": 9705670853370467379,
@@ -6980,17 +6980,17 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Lanyan",
   "skillDepotId": 10801,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CATALYST",
-  "KADLDGKLEPC": 1905114132878109535,
-  "CHCOOENOOJM": 2612777016591858643,
-  "POCCNIJNACM": 7903374109431754173,
-  "BEODCKHANHE": "FIGHT_PROP_ATTACK_PERCENT",
-  "CBEGCDFMBDF": "FIGHT_PROP_ELEMENT_MASTERY"
+  "__unk_Q4006806719": 1905114132878109535,
+  "__unk_Q836298517": 2612777016591858643,
+  "__unk_Q3180767004": 7903374109431754173,
+  "__unk_Q2086394878": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q3522047146": "FIGHT_PROP_ELEMENT_MASTERY"
  },
  {
   "animatorConfigPathHash": 13528128454085208105,
@@ -7008,7 +7008,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 6894926220481018608,
   "controllerPathHash": 2702020896588720497,
   "controllerPathRemoteHash": 14926418168143698799,
@@ -7052,17 +7052,17 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Mizuki",
   "skillDepotId": 10901,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CATALYST",
-  "KADLDGKLEPC": 3347197290620064359,
-  "CHCOOENOOJM": 5421816072053236135,
-  "POCCNIJNACM": 7922519183778184780,
-  "BEODCKHANHE": "FIGHT_PROP_CHARGE_EFFICIENCY",
-  "CBEGCDFMBDF": "FIGHT_PROP_ELEMENT_MASTERY"
+  "__unk_Q4006806719": 3347197290620064359,
+  "__unk_Q836298517": 5421816072053236135,
+  "__unk_Q3180767004": 7922519183778184780,
+  "__unk_Q2086394878": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "__unk_Q3522047146": "FIGHT_PROP_ELEMENT_MASTERY"
  },
  {
   "animatorConfigPathHash": 12520051691645129814,
@@ -7080,7 +7080,7 @@
    5
   ],
   "bodyType": "BODY_LOLI",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 5435680432018948370,
   "controllerPathHash": 16558289774218280796,
   "controllerPathRemoteHash": 459593122080918057,
@@ -7124,17 +7124,17 @@
   "scriptDataPathHash": 1848978244376883498,
   "sideIconName": "UI_AvatarIcon_Side_Iansan",
   "skillDepotId": 11001,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_POLE",
-  "KADLDGKLEPC": 368739255917752585,
-  "POCCNIJNACM": 6131327769385545309,
-  "CHCOOENOOJM": 7608755710508591696,
-  "CBEGCDFMBDF": "FIGHT_PROP_ATTACK_PERCENT",
-  "BEODCKHANHE": "FIGHT_PROP_CHARGE_EFFICIENCY"
+  "__unk_Q4006806719": 368739255917752585,
+  "__unk_Q3180767004": 6131327769385545309,
+  "__unk_Q836298517": 7608755710508591696,
+  "__unk_Q3522047146": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q2086394878": "FIGHT_PROP_CHARGE_EFFICIENCY"
  },
  {
   "animatorConfigPathHash": 7668886015007002885,
@@ -7152,7 +7152,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 6299502785423709106,
   "controllerPathHash": 8260330658097215046,
   "controllerPathRemoteHash": 4211557323606652335,
@@ -7197,18 +7197,18 @@
   "sideIconName": "UI_AvatarIcon_Side_Varesa",
   "skillDepotId": 11101,
   "specialDeformationMeshPathHash": 10513013751361599627,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CATALYST",
-  "CHCOOENOOJM": 3560318559036649063,
-  "KADLDGKLEPC": 14209391767874781076,
-  "POCCNIJNACM": 14682397575896671011,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q836298517": 3560318559036649063,
+  "__unk_Q4006806719": 14209391767874781076,
+  "__unk_Q3180767004": 14682397575896671011,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 15324484691146847579,
@@ -7226,7 +7226,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 11592785825854268820,
   "controllerPathHash": 11998953293710054431,
   "controllerPathRemoteHash": 9101847301083318039,
@@ -7270,18 +7270,18 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Escoffier",
   "skillDepotId": 11201,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_POLE",
-  "KADLDGKLEPC": 1292039539771899066,
-  "CHCOOENOOJM": 3960913054552185046,
-  "POCCNIJNACM": 9063861547316959626,
-  "BEODCKHANHE": "FIGHT_PROP_ATTACK_PERCENT",
-  "CBADONBPEKC": "FIGHT_PROP_CRITICAL",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q4006806719": 1292039539771899066,
+  "__unk_Q836298517": 3960913054552185046,
+  "__unk_Q3180767004": 9063861547316959626,
+  "__unk_Q2086394878": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q2434952433": "FIGHT_PROP_CRITICAL",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 1749116564324020405,
@@ -7299,7 +7299,7 @@
    5
   ],
   "bodyType": "BODY_MALE",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 10187736597947679409,
   "controllerPathHash": 17975492853573470516,
   "controllerPathRemoteHash": 12114679019397286832,
@@ -7343,16 +7343,16 @@
   "scriptDataPathHash": 5593123940503998067,
   "sideIconName": "UI_AvatarIcon_Side_Ifa",
   "skillDepotId": 11301,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CATALYST",
-  "CHCOOENOOJM": 5714546680237424988,
-  "POCCNIJNACM": 12666698169729004517,
-  "KADLDGKLEPC": 17373446136836916230,
-  "CBEGCDFMBDF": "FIGHT_PROP_ELEMENT_MASTERY"
+  "__unk_Q836298517": 5714546680237424988,
+  "__unk_Q3180767004": 12666698169729004517,
+  "__unk_Q4006806719": 17373446136836916230,
+  "__unk_Q3522047146": "FIGHT_PROP_ELEMENT_MASTERY"
  },
  {
   "animatorConfigPathHash": 4927855004125076339,
@@ -7370,7 +7370,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 11303049104175152406,
   "controllerPathHash": 4797819260240324494,
   "controllerPathRemoteHash": 10515192432876877788,
@@ -7414,19 +7414,19 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_SkirkNew",
   "skillDepotId": 11401,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
   "KFCPCGALFHD": 1011401,
-  "POCCNIJNACM": 9168170619308445521,
-  "KADLDGKLEPC": 15649848368929980721,
-  "CHCOOENOOJM": 16042086233591214886,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q3180767004": 9168170619308445521,
+  "__unk_Q4006806719": 15649848368929980721,
+  "__unk_Q836298517": 16042086233591214886,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 15565258506620095614,
@@ -7444,7 +7444,7 @@
    5
   ],
   "bodyType": "BODY_BOY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 17039149127609728001,
   "controllerPathHash": 12105429369019358340,
   "controllerPathRemoteHash": 1604795879484185688,
@@ -7488,18 +7488,18 @@
   "scriptDataPathHash": 7535910857308706620,
   "sideIconName": "UI_AvatarIcon_Side_Dahlia",
   "skillDepotId": 11501,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
   "KFCPCGALFHD": 1011501,
-  "KADLDGKLEPC": 9026549171987000333,
-  "POCCNIJNACM": 13553806887124075197,
-  "CHCOOENOOJM": 17513402454042965397,
-  "BEODCKHANHE": "FIGHT_PROP_CHARGE_EFFICIENCY",
-  "CBEGCDFMBDF": "FIGHT_PROP_HP_PERCENT"
+  "__unk_Q4006806719": 9026549171987000333,
+  "__unk_Q3180767004": 13553806887124075197,
+  "__unk_Q836298517": 17513402454042965397,
+  "__unk_Q2086394878": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "__unk_Q3522047146": "FIGHT_PROP_HP_PERCENT"
  },
  {
   "animatorConfigPathHash": 4669385319273368691,
@@ -7517,7 +7517,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 16108975210804193758,
   "controllerPathHash": 10208772696121735540,
   "controllerPathRemoteHash": 1714019391685645337,
@@ -7561,19 +7561,19 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Ineffa",
   "skillDepotId": 11601,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "AVATAR_TAG_MOONPHASE"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_POLE",
   "KFCPCGALFHD": 1011601,
-  "POCCNIJNACM": 2044669280587018768,
-  "KADLDGKLEPC": 6384048618781353757,
-  "CHCOOENOOJM": 15211121405315490078,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q3180767004": 2044669280587018768,
+  "__unk_Q4006806719": 6384048618781353757,
+  "__unk_Q836298517": 15211121405315490078,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 10387222725300034895,
@@ -7601,7 +7601,7 @@
    11707,
    11708
   ],
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 11477571542759703878,
   "controllerPathHash": 1155333430393569050,
   "controllerPathRemoteHash": 7496396694198387215,
@@ -7645,7 +7645,7 @@
   "scriptDataPathHash": 7535910857308706620,
   "sideIconName": "UI_AvatarIcon_Side_MannequinBoy",
   "skillDepotId": 11701,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
@@ -7654,16 +7654,16 @@
   "KFCPCGALFHD": 1011701,
   "DJMLHCLONAB": 1624313762291403917,
   "NOGICGMMOME": 4413160907753087897,
-  "POCCNIJNACM": 4787922873770652123,
+  "__unk_Q3180767004": 4787922873770652123,
   "NDIMNFEKKIC": 5798593884417624410,
   "JMFJLPAFLHD": 11498363194239060395,
-  "KADLDGKLEPC": 16314191866421674530,
+  "__unk_Q4006806719": 16314191866421674530,
   "ICPNLLMONLJ": 17606370450450405024,
-  "CHCOOENOOJM": 18141709575221492410,
+  "__unk_Q836298517": 18141709575221492410,
   "IDALBEBKAAF": true,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 8665029428272030862,
@@ -7691,7 +7691,7 @@
    11807,
    11808
   ],
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 9289861549024112338,
   "controllerPathHash": 988949929869693201,
   "controllerPathRemoteHash": 14598770865328528203,
@@ -7735,7 +7735,7 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_MannequinGirl",
   "skillDepotId": 11801,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
@@ -7743,17 +7743,17 @@
   "weaponType": "WEAPON_SWORD_ONE_HAND",
   "KFCPCGALFHD": 1011801,
   "ICPNLLMONLJ": 246236698748175336,
-  "POCCNIJNACM": 5252063738338496016,
-  "CHCOOENOOJM": 6113719592439109479,
+  "__unk_Q3180767004": 5252063738338496016,
+  "__unk_Q836298517": 6113719592439109479,
   "DJMLHCLONAB": 9641604140649506579,
   "NOGICGMMOME": 12709928687692106272,
   "JMFJLPAFLHD": 13558557855718842537,
   "NDIMNFEKKIC": 14295523589424773380,
-  "KADLDGKLEPC": 16570307425310268655,
+  "__unk_Q4006806719": 16570307425310268655,
   "IDALBEBKAAF": true,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 17429168798074908606,
@@ -7771,7 +7771,7 @@
    5
   ],
   "bodyType": "BODY_LADY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 17967812675943145030,
   "controllerPathHash": 7886777290331130521,
   "controllerPathRemoteHash": 15139435271464176848,
@@ -7815,19 +7815,19 @@
   "scriptDataPathHash": 3744219756526631032,
   "sideIconName": "UI_AvatarIcon_Side_Lauma",
   "skillDepotId": 11901,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "AVATAR_TAG_MOONPHASE"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CATALYST",
-  "AOBCHLDFLOD": 200.0,
+  "elementMastery": 200,
   "KFCPCGALFHD": 1011901,
-  "KADLDGKLEPC": 2206072281062640971,
-  "POCCNIJNACM": 2862568752316010769,
-  "CHCOOENOOJM": 16861968173950105097,
-  "BEODCKHANHE": "FIGHT_PROP_CHARGE_EFFICIENCY",
-  "CBEGCDFMBDF": "FIGHT_PROP_ELEMENT_MASTERY"
+  "__unk_Q4006806719": 2206072281062640971,
+  "__unk_Q3180767004": 2862568752316010769,
+  "__unk_Q836298517": 16861968173950105097,
+  "__unk_Q2086394878": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "__unk_Q3522047146": "FIGHT_PROP_ELEMENT_MASTERY"
  },
  {
   "animatorConfigPathHash": 13318478570564091870,
@@ -7845,7 +7845,7 @@
    5
   ],
   "bodyType": "BODY_MALE",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 12220787898063145439,
   "controllerPathHash": 16351318376549367418,
   "controllerPathRemoteHash": 13560113352956285365,
@@ -7889,19 +7889,19 @@
   "scriptDataPathHash": 5593123940503998067,
   "sideIconName": "UI_AvatarIcon_Side_Flins",
   "skillDepotId": 12001,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "AVATAR_TAG_MOONPHASE"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_POLE",
   "KFCPCGALFHD": 1012001,
-  "CHCOOENOOJM": 2679542386792750157,
-  "KADLDGKLEPC": 8473559991994103810,
-  "POCCNIJNACM": 18200952325374683865,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q836298517": 2679542386792750157,
+  "__unk_Q4006806719": 8473559991994103810,
+  "__unk_Q3180767004": 18200952325374683865,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 2947593635679835823,
@@ -7919,7 +7919,7 @@
    5
   ],
   "bodyType": "BODY_LOLI",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 14198076699802463684,
   "controllerPathHash": 14904923505287018006,
   "controllerPathRemoteHash": 18197328995916670180,
@@ -7963,19 +7963,19 @@
   "scriptDataPathHash": 1848978244376883498,
   "sideIconName": "UI_AvatarIcon_Side_Aino",
   "skillDepotId": 12101,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "AVATAR_TAG_MOONPHASE"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CLAYMORE",
   "KFCPCGALFHD": 1012101,
-  "KADLDGKLEPC": 2471470239331788165,
-  "POCCNIJNACM": 3528065707883448391,
-  "CHCOOENOOJM": 3931101030963257610,
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL_HURT",
-  "CBADONBPEKC": "FIGHT_PROP_ELEMENT_MASTERY"
+  "__unk_Q4006806719": 2471470239331788165,
+  "__unk_Q3180767004": 3528065707883448391,
+  "__unk_Q836298517": 3931101030963257610,
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL_HURT",
+  "__unk_Q2434952433": "FIGHT_PROP_ELEMENT_MASTERY"
  },
  {
   "animatorConfigPathHash": 10962557342490952559,
@@ -7993,7 +7993,7 @@
    5
   ],
   "bodyType": "BODY_LADY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 14755019178402853137,
   "controllerPathHash": 10896744922238220092,
   "controllerPathRemoteHash": 604250662180139272,
@@ -8037,20 +8037,20 @@
   "scriptDataPathHash": 3744219756526631032,
   "sideIconName": "UI_AvatarIcon_Side_Nefer",
   "skillDepotId": 12201,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "AVATAR_TAG_MOONPHASE"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CATALYST",
-  "AOBCHLDFLOD": 100.0,
+  "elementMastery": 100,
   "KFCPCGALFHD": 1012201,
-  "KADLDGKLEPC": 1377666257585254323,
-  "POCCNIJNACM": 6951040046980058900,
-  "CHCOOENOOJM": 16734950654555479630,
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL_HURT",
-  "CBADONBPEKC": "FIGHT_PROP_ELEMENT_MASTERY"
+  "__unk_Q4006806719": 1377666257585254323,
+  "__unk_Q3180767004": 6951040046980058900,
+  "__unk_Q836298517": 16734950654555479630,
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL_HURT",
+  "__unk_Q2434952433": "FIGHT_PROP_ELEMENT_MASTERY"
  },
  {
   "animatorConfigPathHash": 11998646664375542574,
@@ -8068,7 +8068,7 @@
    5
   ],
   "bodyType": "BODY_BOY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 969451957244718844,
   "controllerPathHash": 11985134201686889671,
   "controllerPathRemoteHash": 10105104175510034642,
@@ -8112,19 +8112,19 @@
   "scriptDataPathHash": 7535910857308706620,
   "sideIconName": "UI_AvatarIcon_Side_Durin",
   "skillDepotId": 12301,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "AVATAR_TAG_HEXENZIRKEL"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
   "KFCPCGALFHD": 1012301,
-  "KADLDGKLEPC": 3783920632684116376,
-  "POCCNIJNACM": 6771420288949838167,
-  "CHCOOENOOJM": 11923673450363750904,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q4006806719": 3783920632684116376,
+  "__unk_Q3180767004": 6771420288949838167,
+  "__unk_Q836298517": 11923673450363750904,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 15594793383512927063,
@@ -8142,7 +8142,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 3146263286698147645,
   "controllerPathHash": 851740789750644439,
   "controllerPathRemoteHash": 15278754995161957750,
@@ -8187,18 +8187,18 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Jahoda",
   "skillDepotId": 12401,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "AVATAR_TAG_MOONPHASE"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_BOW",
   "KFCPCGALFHD": 1012401,
-  "POCCNIJNACM": 12467101836754366756,
-  "CHCOOENOOJM": 16500796862887924943,
-  "KADLDGKLEPC": 17571177155227991171,
-  "CBEGCDFMBDF": "FIGHT_PROP_ATTACK_PERCENT",
-  "BEODCKHANHE": "FIGHT_PROP_CHARGE_EFFICIENCY"
+  "__unk_Q3180767004": 12467101836754366756,
+  "__unk_Q836298517": 16500796862887924943,
+  "__unk_Q4006806719": 17571177155227991171,
+  "__unk_Q3522047146": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q2086394878": "FIGHT_PROP_CHARGE_EFFICIENCY"
  },
  {
   "animatorConfigPathHash": 11112016369083865918,
@@ -8216,7 +8216,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 2420034718754827490,
   "controllerPathHash": 2945916190042996994,
   "controllerPathRemoteHash": 5336666658629456334,
@@ -8260,19 +8260,19 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Columbina",
   "skillDepotId": 12501,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "AVATAR_TAG_MOONPHASE"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CATALYST",
   "KFCPCGALFHD": 1012501,
-  "CHCOOENOOJM": 2737926417752337015,
-  "KADLDGKLEPC": 6115844973370167646,
-  "POCCNIJNACM": 11203836685706914056,
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL_HURT",
-  "CBADONBPEKC": "FIGHT_PROP_HP_PERCENT"
+  "__unk_Q836298517": 2737926417752337015,
+  "__unk_Q4006806719": 6115844973370167646,
+  "__unk_Q3180767004": 11203836685706914056,
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL_HURT",
+  "__unk_Q2434952433": "FIGHT_PROP_HP_PERCENT"
  },
  {
   "animatorConfigPathHash": 67750991478703415,
@@ -8290,7 +8290,7 @@
    5
   ],
   "bodyType": "BODY_LADY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 190185425190025568,
   "controllerPathHash": 117146815015265306,
   "controllerPathRemoteHash": 6286706042153347680,
@@ -8334,19 +8334,19 @@
   "scriptDataPathHash": 3744219756526631032,
   "sideIconName": "UI_AvatarIcon_Side_Zibai",
   "skillDepotId": 12601,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "AVATAR_TAG_MOONPHASE"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
   "KFCPCGALFHD": 1012601,
-  "CHCOOENOOJM": 5941697713071878424,
-  "KADLDGKLEPC": 14343502347172045285,
-  "POCCNIJNACM": 15212489119604999233,
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL_HURT",
-  "CBADONBPEKC": "FIGHT_PROP_DEFENSE_PERCENT"
+  "__unk_Q836298517": 5941697713071878424,
+  "__unk_Q4006806719": 14343502347172045285,
+  "__unk_Q3180767004": 15212489119604999233,
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL_HURT",
+  "__unk_Q2434952433": "FIGHT_PROP_DEFENSE_PERCENT"
  },
  {
   "animatorConfigPathHash": 550959031532074775,
@@ -8364,7 +8364,7 @@
    5
   ],
   "bodyType": "BODY_BOY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 1696750602001869613,
   "controllerPathHash": 9930321435488187821,
   "controllerPathRemoteHash": 17169726443240969515,
@@ -8408,18 +8408,18 @@
   "scriptDataPathHash": 7535910857308706620,
   "sideIconName": "UI_AvatarIcon_Side_Illuga",
   "skillDepotId": 12701,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "AVATAR_TAG_MOONPHASE"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_POLE",
   "KFCPCGALFHD": 1012701,
-  "KADLDGKLEPC": 2435044953245754242,
-  "CHCOOENOOJM": 11573948974079223098,
-  "POCCNIJNACM": 14649105387149307973,
-  "BEODCKHANHE": "FIGHT_PROP_CHARGE_EFFICIENCY",
-  "CBEGCDFMBDF": "FIGHT_PROP_ELEMENT_MASTERY"
+  "__unk_Q4006806719": 2435044953245754242,
+  "__unk_Q836298517": 11573948974079223098,
+  "__unk_Q3180767004": 14649105387149307973,
+  "__unk_Q2086394878": "FIGHT_PROP_CHARGE_EFFICIENCY",
+  "__unk_Q3522047146": "FIGHT_PROP_ELEMENT_MASTERY"
  },
  {
   "animatorConfigPathHash": 5348475592336477965,
@@ -8437,7 +8437,7 @@
    5
   ],
   "bodyType": "BODY_MALE",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 17489715568961625357,
   "controllerPathHash": 9873538022514834853,
   "controllerPathRemoteHash": 14703240091516080325,
@@ -8481,19 +8481,19 @@
   "scriptDataPathHash": 5593123940503998067,
   "sideIconName": "UI_AvatarIcon_Side_Varka",
   "skillDepotId": 12801,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "AVATAR_TAG_HEXENZIRKEL"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CLAYMORE",
   "KFCPCGALFHD": 1012801,
-  "CHCOOENOOJM": 3957781868259395285,
-  "KADLDGKLEPC": 5198349526934682121,
-  "POCCNIJNACM": 11602720446268936330,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q836298517": 3957781868259395285,
+  "__unk_Q4006806719": 5198349526934682121,
+  "__unk_Q3180767004": 11602720446268936330,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 17610065308056871358,
@@ -8511,7 +8511,7 @@
    5
   ],
   "bodyType": "BODY_BOY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 12122708046701107572,
   "controllerPathHash": 3796883582176880250,
   "controllerPathRemoteHash": 257440402715843925,
@@ -8555,19 +8555,19 @@
   "scriptDataPathHash": 7535910857308706620,
   "sideIconName": "UI_AvatarIcon_Side_Lohen",
   "skillDepotId": 12901,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "AVATAR_TAG_HEXENZIRKEL"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_POLE",
   "KFCPCGALFHD": 1012901,
-  "CHCOOENOOJM": 8389900030915027694,
-  "KADLDGKLEPC": 11553839918352601401,
-  "POCCNIJNACM": 15128283659358492878,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q836298517": 8389900030915027694,
+  "__unk_Q4006806719": 11553839918352601401,
+  "__unk_Q3180767004": 15128283659358492878,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 10363504935340263343,
@@ -8585,7 +8585,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 10130331403318095462,
   "controllerPathHash": 12747968613373530601,
   "controllerPathRemoteHash": 2894047785345960953,
@@ -8630,19 +8630,19 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Linnea",
   "skillDepotId": 13001,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "AVATAR_TAG_MOONPHASE"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_BOW",
   "KFCPCGALFHD": 1013001,
-  "POCCNIJNACM": 5702929777937489486,
-  "CHCOOENOOJM": 6855282738103014636,
-  "KADLDGKLEPC": 8530193016700959135,
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL_HURT",
-  "CBADONBPEKC": "FIGHT_PROP_DEFENSE_PERCENT"
+  "__unk_Q3180767004": 5702929777937489486,
+  "__unk_Q836298517": 6855282738103014636,
+  "__unk_Q4006806719": 8530193016700959135,
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL_HURT",
+  "__unk_Q2434952433": "FIGHT_PROP_DEFENSE_PERCENT"
  },
  {
   "animatorConfigPathHash": 14584874275546513795,
@@ -8660,7 +8660,7 @@
    5
   ],
   "bodyType": "BODY_LADY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 301038695225584673,
   "controllerPathHash": 15747448684872600431,
   "controllerPathRemoteHash": 11599011420342085457,
@@ -8704,18 +8704,18 @@
   "scriptDataPathHash": 3744219756526631032,
   "sideIconName": "UI_AvatarIcon_Side_Nicole",
   "skillDepotId": 13101,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "AVATAR_TAG_HEXENZIRKEL"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CATALYST",
   "KFCPCGALFHD": 1013101,
-  "CHCOOENOOJM": 2367779644077540909,
-  "KADLDGKLEPC": 17544625560326272917,
-  "POCCNIJNACM": 17834834318648493910,
-  "CBEGCDFMBDF": "FIGHT_PROP_ATTACK_PERCENT",
-  "BEODCKHANHE": "FIGHT_PROP_CHARGE_EFFICIENCY"
+  "__unk_Q836298517": 2367779644077540909,
+  "__unk_Q4006806719": 17544625560326272917,
+  "__unk_Q3180767004": 17834834318648493910,
+  "__unk_Q3522047146": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q2086394878": "FIGHT_PROP_CHARGE_EFFICIENCY"
  },
  {
   "animatorConfigPathHash": 7347618556864483791,
@@ -8733,7 +8733,7 @@
    5
   ],
   "bodyType": "BODY_LOLI",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 873793284893541837,
   "controllerPathHash": 7852194829857546075,
   "controllerPathRemoteHash": 14797498459099815817,
@@ -8777,18 +8777,18 @@
   "scriptDataPathHash": 1848978244376883498,
   "sideIconName": "UI_AvatarIcon_Side_Prune",
   "skillDepotId": 13201,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "AVATAR_TAG_HEXENZIRKEL"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CATALYST",
   "KFCPCGALFHD": 1013201,
-  "CHCOOENOOJM": 1973378531814582258,
-  "KADLDGKLEPC": 13122752442567898984,
-  "POCCNIJNACM": 13419260104412119906,
-  "CBEGCDFMBDF": "FIGHT_PROP_ATTACK_PERCENT",
-  "BEODCKHANHE": "FIGHT_PROP_CHARGE_EFFICIENCY"
+  "__unk_Q836298517": 1973378531814582258,
+  "__unk_Q4006806719": 13122752442567898984,
+  "__unk_Q3180767004": 13419260104412119906,
+  "__unk_Q3522047146": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q2086394878": "FIGHT_PROP_CHARGE_EFFICIENCY"
  },
  {
   "animatorConfigPathHash": 10986838947863349035,
@@ -8806,7 +8806,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 12529575276679094944,
   "controllerPathHash": 3402989304374600218,
   "controllerPathRemoteHash": 3999509460039453618,
@@ -8850,19 +8850,19 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_MarionetteNew",
   "skillDepotId": 13301,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CLAYMORE",
   "KFCPCGALFHD": 1013301,
-  "KADLDGKLEPC": 6683560602303985464,
-  "CHCOOENOOJM": 8148988137505436829,
-  "POCCNIJNACM": 17901488492998605970,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q4006806719": 6683560602303985464,
+  "__unk_Q836298517": 8148988137505436829,
+  "__unk_Q3180767004": 17901488492998605970,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "attackBase": 389.25653,
@@ -8872,7 +8872,7 @@
   "candSkillDepotIds": [
    501
   ],
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 14000760904701567708,
   "controllerPathHash": 686795858686806800,
   "controllerPathRemoteHash": 9168327737168745358,
@@ -8913,14 +8913,14 @@
   "scriptDataPathHash": 7535910857308706620,
   "sideIconName": "UI_AvatarIcon_Side_PlayerBoy",
   "skillDepotId": 50001,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CROSSBOW",
-  "KADLDGKLEPC": 11356137892189394132,
-  "POCCNIJNACM": 12362524784807906596
+  "__unk_Q4006806719": 11356137892189394132,
+  "__unk_Q3180767004": 12362524784807906596
  },
  {
   "attackBase": 389.25653,
@@ -8930,7 +8930,7 @@
   "candSkillDepotIds": [
    701
   ],
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 10361671365398957954,
   "controllerPathHash": 3740333936486547453,
   "controllerPathRemoteHash": 704334365772767509,
@@ -8971,14 +8971,14 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_PlayerGirl",
   "skillDepotId": 50001,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CROSSBOW",
-  "KADLDGKLEPC": 14318506603647828750,
-  "POCCNIJNACM": 17010426041473778782
+  "__unk_Q4006806719": 14318506603647828750,
+  "__unk_Q3180767004": 17010426041473778782
  },
  {
   "animatorConfigPathHash": 17550658055802771418,
@@ -8996,7 +8996,7 @@
    5
   ],
   "bodyType": "BODY_BOY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 1232037728832791061,
   "controllerPathHash": 17545581659411336038,
   "controllerPathRemoteHash": 7829510123065364674,
@@ -9040,20 +9040,20 @@
   "scriptDataPathHash": 7535910857308706620,
   "sideIconName": "UI_AvatarIcon_Side_Mitya",
   "skillDepotId": 13601,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CATALYST",
-  "AOBCHLDFLOD": 100.0,
+  "elementMastery": 100,
   "KFCPCGALFHD": 1013601,
-  "POCCNIJNACM": 2963207757420091939,
-  "KADLDGKLEPC": 7869433181317669248,
-  "CHCOOENOOJM": 12775548082933294279,
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL_HURT",
-  "CBADONBPEKC": "FIGHT_PROP_ELEMENT_MASTERY"
+  "__unk_Q3180767004": 2963207757420091939,
+  "__unk_Q4006806719": 7869433181317669248,
+  "__unk_Q836298517": 12775548082933294279,
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL_HURT",
+  "__unk_Q2434952433": "FIGHT_PROP_ELEMENT_MASTERY"
  },
  {
   "animatorConfigPathHash": 12627823893302426050,
@@ -9071,7 +9071,7 @@
    5
   ],
   "bodyType": "BODY_MALE",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 10025567381634854125,
   "controllerPathHash": 6358515746820649545,
   "controllerPathRemoteHash": 15674892500494387049,
@@ -9115,18 +9115,18 @@
   "scriptDataPathHash": 5593123940503998067,
   "sideIconName": "UI_AvatarIcon_Side_Valeriy",
   "skillDepotId": 13701,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
   "KFCPCGALFHD": 1013701,
-  "POCCNIJNACM": 1630237767137004035,
-  "KADLDGKLEPC": 3019602755515621569,
-  "CHCOOENOOJM": 11305047618442461956,
-  "CBEGCDFMBDF": "FIGHT_PROP_ATTACK_PERCENT",
-  "BEODCKHANHE": "FIGHT_PROP_CHARGE_EFFICIENCY"
+  "__unk_Q3180767004": 1630237767137004035,
+  "__unk_Q4006806719": 3019602755515621569,
+  "__unk_Q836298517": 11305047618442461956,
+  "__unk_Q3522047146": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q2086394878": "FIGHT_PROP_CHARGE_EFFICIENCY"
  },
  {
   "animatorConfigPathHash": 9986281903163173960,
@@ -9144,7 +9144,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 8301591880846868288,
   "controllerPathHash": 12191769704946092838,
   "controllerPathRemoteHash": 8466983930170632548,
@@ -9188,17 +9188,17 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Vodyanitsa",
   "skillDepotId": 14001,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CATALYST",
   "KFCPCGALFHD": 1014001,
-  "KADLDGKLEPC": 12822445076168412075,
-  "POCCNIJNACM": 14319712928029650545,
-  "CHCOOENOOJM": 18021185282500471778,
-  "CBEGCDFMBDF": "FIGHT_PROP_HP_PERCENT"
+  "__unk_Q4006806719": 12822445076168412075,
+  "__unk_Q3180767004": 14319712928029650545,
+  "__unk_Q836298517": 18021185282500471778,
+  "__unk_Q3522047146": "FIGHT_PROP_HP_PERCENT"
  },
  {
   "animatorConfigPathHash": 1397908306289382114,
@@ -9216,7 +9216,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 1246817512881712389,
   "controllerPathHash": 10338146934499569900,
   "controllerPathRemoteHash": 180247212144318444,
@@ -9260,19 +9260,19 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Vesna",
   "skillDepotId": 14301,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
   "KFCPCGALFHD": 1014301,
-  "POCCNIJNACM": 6666099995748255805,
-  "KADLDGKLEPC": 13328787051119502476,
-  "CHCOOENOOJM": 16189451222753673884,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q3180767004": 6666099995748255805,
+  "__unk_Q4006806719": 13328787051119502476,
+  "__unk_Q836298517": 16189451222753673884,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 282967889456423655,
@@ -9290,7 +9290,7 @@
    5
   ],
   "bodyType": "BODY_BOY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 15460884193206088639,
   "controllerPathHash": 10902024003998529469,
   "controllerPathRemoteHash": 11421730315045279002,
@@ -9334,18 +9334,18 @@
   "scriptDataPathHash": 7535910857308706620,
   "sideIconName": "UI_AvatarIcon_Side_Alyosha",
   "skillDepotId": 14801,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_POLE",
   "KFCPCGALFHD": 1014801,
-  "POCCNIJNACM": 3594278017193439530,
-  "KADLDGKLEPC": 4948583913387036075,
-  "CHCOOENOOJM": 13407985768385141645,
-  "BEODCKHANHE": "FIGHT_PROP_ATTACK_PERCENT",
-  "CBEGCDFMBDF": "FIGHT_PROP_CHARGE_EFFICIENCY"
+  "__unk_Q3180767004": 3594278017193439530,
+  "__unk_Q4006806719": 4948583913387036075,
+  "__unk_Q836298517": 13407985768385141645,
+  "__unk_Q2086394878": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q3522047146": "FIGHT_PROP_CHARGE_EFFICIENCY"
  },
  {
   "animatorConfigPathHash": 10570588008471611281,
@@ -9363,7 +9363,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 10077305689618744529,
   "controllerPathHash": 16173305298258787874,
   "controllerPathRemoteHash": 1839001954242303068,
@@ -9407,19 +9407,19 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Odette",
   "skillDepotId": 15001,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
   "KFCPCGALFHD": 1015001,
-  "CHCOOENOOJM": 2563276145158112903,
-  "POCCNIJNACM": 10472924578225562400,
-  "KADLDGKLEPC": 14846984716028119024,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q836298517": 2563276145158112903,
+  "__unk_Q3180767004": 10472924578225562400,
+  "__unk_Q4006806719": 14846984716028119024,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 5126015201496070888,
@@ -9427,7 +9427,7 @@
   "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
   "avatarPromoteId": 2,
   "bodyType": "BODY_LADY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 3380431725914326852,
   "controllerPathHash": 9877103533848296619,
   "controllerPathRemoteHash": 9596150734375943824,
@@ -9471,15 +9471,15 @@
   "scriptDataPathHash": 3744219756526631032,
   "sideIconName": "UI_AvatarIcon_Side_Mavuika",
   "skillDepotId": 2301,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CLAYMORE",
-  "POCCNIJNACM": 8517512584495330738,
-  "CHCOOENOOJM": 13130696783899547126,
-  "KADLDGKLEPC": 16981859754224414867
+  "__unk_Q3180767004": 8517512584495330738,
+  "__unk_Q836298517": 13130696783899547126,
+  "__unk_Q4006806719": 16981859754224414867
  },
  {
   "animatorConfigPathHash": 13608147022270206170,
@@ -9487,7 +9487,7 @@
   "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
   "avatarPromoteId": 2,
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 7577242262165119934,
   "controllerPathHash": 2398383364291431676,
   "controllerPathRemoteHash": 6357004449675658180,
@@ -9531,15 +9531,15 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Hutao",
   "skillDepotId": 4601,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_POLE",
-  "CHCOOENOOJM": 11730173154937148028,
-  "POCCNIJNACM": 14572569603927176760,
-  "KADLDGKLEPC": 15906355252808379135
+  "__unk_Q836298517": 11730173154937148028,
+  "__unk_Q3180767004": 14572569603927176760,
+  "__unk_Q4006806719": 15906355252808379135
  },
  {
   "animatorConfigPathHash": 4669385319273368691,
@@ -9557,7 +9557,7 @@
    5
   ],
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 16108975210804193758,
   "controllerPathHash": 10208772696121735540,
   "controllerPathRemoteHash": 1714019391685645337,
@@ -9601,19 +9601,19 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Ineffa",
   "skillDepotId": 11601,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_POLE",
   "KFCPCGALFHD": 1011601,
-  "POCCNIJNACM": 5446804982208972622,
-  "KADLDGKLEPC": 6384048618781353757,
-  "CHCOOENOOJM": 15211121405315490078,
-  "CBADONBPEKC": "FIGHT_PROP_ATTACK_PERCENT",
-  "CBEGCDFMBDF": "FIGHT_PROP_CRITICAL",
-  "BEODCKHANHE": "FIGHT_PROP_CRITICAL_HURT"
+  "__unk_Q3180767004": 5446804982208972622,
+  "__unk_Q4006806719": 6384048618781353757,
+  "__unk_Q836298517": 15211121405315490078,
+  "__unk_Q2434952433": "FIGHT_PROP_ATTACK_PERCENT",
+  "__unk_Q3522047146": "FIGHT_PROP_CRITICAL",
+  "__unk_Q2086394878": "FIGHT_PROP_CRITICAL_HURT"
  },
  {
   "animatorConfigPathHash": 8634222000660118012,
@@ -9621,7 +9621,7 @@
   "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
   "avatarPromoteId": 2,
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 9846401031512927196,
   "controllerPathHash": 17492161832661319006,
   "controllerPathRemoteHash": 15659429498132058084,
@@ -9665,32 +9665,32 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Columbina",
   "skillDepotId": 2301,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_CATALYST",
-  "POCCNIJNACM": 1299455455612345077,
-  "KADLDGKLEPC": 11180948471222832197,
-  "CHCOOENOOJM": 12229244796251331917
+  "__unk_Q3180767004": 1299455455612345077,
+  "__unk_Q4006806719": 11180948471222832197,
+  "__unk_Q836298517": 12229244796251331917
  },
  {
-  "attackBase": 99999.0,
+  "attackBase": 99999,
   "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
   "avatarPromoteId": 2,
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 12671751224003314066,
   "controllerPathHash": 9975873023065425870,
   "controllerPathRemoteHash": 8121517168866487642,
   "critical": 0.05,
   "criticalHurt": 0.5,
-  "defenseBase": 99999.0,
+  "defenseBase": 99999,
   "deformationMeshPathHash": 16843554909179268631,
   "descTextMapHash": 1029005409,
   "featureTagGroupID": 10000001,
-  "hpBase": 99999.0,
+  "hpBase": 99999,
   "iconName": "UI_AvatarIcon_Side_Ambor",
   "id": 11000008,
   "imageName": "AvatarImage_Forward_Ambor",
@@ -9721,30 +9721,30 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Ambor",
   "skillDepotId": 8011,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_ABANDON",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "POCCNIJNACM": 17298811984805868182
+  "__unk_Q3180767004": 17298811984805868182
  },
  {
-  "attackBase": 99999.0,
+  "attackBase": 99999,
   "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
   "avatarPromoteId": 2,
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 3318267927399244425,
   "controllerPathHash": 14603261504237360682,
   "controllerPathRemoteHash": 16197849972864543343,
   "critical": 0.05,
   "criticalHurt": 0.5,
-  "defenseBase": 99999.0,
+  "defenseBase": 99999,
   "deformationMeshPathHash": 16843554909179268631,
   "descTextMapHash": 1835561441,
   "featureTagGroupID": 10000001,
-  "hpBase": 99999.0,
+  "hpBase": 99999,
   "iconName": "UI_AvatarIcon_Side_Kate",
   "id": 11000009,
   "imageName": "AvatarImage_Forward_Kate",
@@ -9775,30 +9775,30 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Kate",
   "skillDepotId": 9011,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_ABANDON",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "POCCNIJNACM": 4791660374042384857
+  "__unk_Q3180767004": 4791660374042384857
  },
  {
-  "attackBase": 99999.0,
+  "attackBase": 99999,
   "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
   "avatarPromoteId": 2,
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 3318267927399244425,
   "controllerPathHash": 1127536135175015462,
   "controllerPathRemoteHash": 12599273215592467734,
   "critical": 0.05,
   "criticalHurt": 0.5,
-  "defenseBase": 99999.0,
+  "defenseBase": 99999,
   "deformationMeshPathHash": 16843554909179268631,
   "descTextMapHash": 786373081,
   "featureTagGroupID": 10000001,
-  "hpBase": 99999.0,
+  "hpBase": 99999,
   "iconName": "UI_AvatarIcon_Side_Kate",
   "id": 11000010,
   "imageName": "AvatarImage_Forward_Kate",
@@ -9829,30 +9829,30 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Kate",
   "skillDepotId": 10011,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_ABANDON",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "POCCNIJNACM": 8607944651028483661
+  "__unk_Q3180767004": 8607944651028483661
  },
  {
-  "attackBase": 99999.0,
+  "attackBase": 99999,
   "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
   "avatarPromoteId": 2,
   "bodyType": "BODY_BOY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 6710664648698696798,
   "controllerPathHash": 17249251893387622422,
   "controllerPathRemoteHash": 10017638133524562993,
   "critical": 0.05,
   "criticalHurt": 0.5,
-  "defenseBase": 99999.0,
+  "defenseBase": 99999,
   "deformationMeshPathHash": 856195021060268183,
   "descTextMapHash": 840788129,
   "featureTagGroupID": 10000001,
-  "hpBase": 99999.0,
+  "hpBase": 99999,
   "iconName": "UI_AvatarIcon_Side_Kate",
   "id": 11000011,
   "imageName": "AvatarImage_Forward_Kate",
@@ -9883,29 +9883,29 @@
   "scriptDataPathHash": 7535910857308706620,
   "sideIconName": "UI_AvatarIcon_Side_Kate",
   "skillDepotId": 501,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "POCCNIJNACM": 11197689956048061362
+  "__unk_Q3180767004": 11197689956048061362
  },
  {
-  "attackBase": 99999.0,
+  "attackBase": 99999,
   "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
   "avatarPromoteId": 2,
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 1234977533214651117,
   "controllerPathHash": 9252581401218104698,
   "controllerPathRemoteHash": 15320471592126879424,
   "critical": 0.05,
   "criticalHurt": 0.5,
-  "defenseBase": 99999.0,
+  "defenseBase": 99999,
   "deformationMeshPathHash": 16843554909179268631,
   "descTextMapHash": 1567121545,
   "featureTagGroupID": 10000001,
-  "hpBase": 99999.0,
+  "hpBase": 99999,
   "iconName": "UI_AvatarIcon_Side_Kate",
   "id": 11000013,
   "imageName": "AvatarImage_Forward_Kate",
@@ -9936,30 +9936,30 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Kate",
   "skillDepotId": 13011,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "useType": "AVATAR_SYNC_TEST",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "POCCNIJNACM": 10205571555117797733
+  "__unk_Q3180767004": 10205571555117797733
  },
  {
-  "attackBase": 99999.0,
+  "attackBase": 99999,
   "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
   "avatarPromoteId": 2,
   "bodyType": "BODY_MALE",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 13249547059593707313,
   "controllerPathHash": 12576251779270921547,
   "controllerPathRemoteHash": 294888060746868954,
   "critical": 0.05,
   "criticalHurt": 0.5,
-  "defenseBase": 99999.0,
+  "defenseBase": 99999,
   "deformationMeshPathHash": 14480644773076418706,
   "descTextMapHash": 1479741705,
   "featureTagGroupID": 10000001,
-  "hpBase": 99999.0,
+  "hpBase": 99999,
   "iconName": "UI_AvatarIcon_Qin",
   "id": 11000017,
   "imageName": "AvatarImage_Forward_Qin",
@@ -9990,29 +9990,29 @@
   "scriptDataPathHash": 5593123940503998067,
   "sideIconName": "UI_AvatarIcon_Side_Qin",
   "skillDepotId": 1501,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "POCCNIJNACM": 3633995612838831075
+  "__unk_Q3180767004": 3633995612838831075
  },
  {
-  "attackBase": 99999.0,
+  "attackBase": 99999,
   "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
   "avatarPromoteId": 2,
   "bodyType": "BODY_LADY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 12671751224003314066,
   "controllerPathHash": 615811894779927906,
   "controllerPathRemoteHash": 1825725583894686085,
   "critical": 0.05,
   "criticalHurt": 0.5,
-  "defenseBase": 99999.0,
+  "defenseBase": 99999,
   "deformationMeshPathHash": 2132204517517738195,
   "descTextMapHash": 1273592169,
   "featureTagGroupID": 10000001,
-  "hpBase": 99999.0,
+  "hpBase": 99999,
   "iconName": "UI_AvatarIcon_Qin",
   "id": 11000018,
   "imageName": "AvatarImage_Forward_Qin",
@@ -10043,29 +10043,29 @@
   "scriptDataPathHash": 3744219756526631032,
   "sideIconName": "UI_AvatarIcon_Side_Qin",
   "skillDepotId": 1501,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "POCCNIJNACM": 1603992528717963953
+  "__unk_Q3180767004": 1603992528717963953
  },
  {
-  "attackBase": 99999.0,
+  "attackBase": 99999,
   "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
   "avatarPromoteId": 2,
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 15882421641119660365,
   "controllerPathHash": 16592754479705539309,
   "controllerPathRemoteHash": 13354402345980422755,
   "critical": 0.05,
   "criticalHurt": 0.5,
-  "defenseBase": 99999.0,
+  "defenseBase": 99999,
   "deformationMeshPathHash": 16843554909179268631,
   "descTextMapHash": 2403736705,
   "featureTagGroupID": 10000001,
-  "hpBase": 99999.0,
+  "hpBase": 99999,
   "iconName": "UI_AvatarIcon_Qin",
   "id": 11000019,
   "imageName": "AvatarImage_Forward_Qin",
@@ -10096,19 +10096,19 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Qin",
   "skillDepotId": 1501,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "POCCNIJNACM": 8362321819228384358
+  "__unk_Q3180767004": 8362321819228384358
  },
  {
   "attackBase": 8.2,
   "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
   "avatarPromoteId": 2,
   "bodyType": "BODY_BOY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 2060174876332289027,
   "controllerPathHash": 13668164995832426827,
   "controllerPathRemoteHash": 13577446041501089981,
@@ -10150,29 +10150,29 @@
   "scriptDataPathHash": 7535910857308706620,
   "sideIconName": "UI_AvatarIcon_Side_Razor",
   "skillDepotId": 25011,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "weaponType": "WEAPON_BOW",
-  "POCCNIJNACM": 5343201671444438013
+  "__unk_Q3180767004": 5343201671444438013
  },
  {
-  "attackBase": 99999.0,
+  "attackBase": 99999,
   "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
   "avatarPromoteId": 2,
   "bodyType": "BODY_LOLI",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 15882421641119660365,
   "controllerPathHash": 11049870376812435971,
   "controllerPathRemoteHash": 18420225680468595561,
   "critical": 0.05,
   "criticalHurt": 0.5,
-  "defenseBase": 99999.0,
+  "defenseBase": 99999,
   "deformationMeshPathHash": 12046000202212180023,
   "descTextMapHash": 2705898529,
   "featureTagGroupID": 10000001,
-  "hpBase": 99999.0,
+  "hpBase": 99999,
   "iconName": "UI_AvatarIcon_Qin",
   "id": 11000026,
   "imageName": "AvatarImage_Forward_Qin",
@@ -10203,29 +10203,29 @@
   "scriptDataPathHash": 1848978244376883498,
   "sideIconName": "UI_AvatarIcon_Side_Qin",
   "skillDepotId": 1501,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "weaponType": "WEAPON_CATALYST",
-  "POCCNIJNACM": 11868943032507718738
+  "__unk_Q3180767004": 11868943032507718738
  },
  {
-  "attackBase": 5.0,
+  "attackBase": 5,
   "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
   "avatarPromoteId": 2,
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 4103218460519001272,
   "controllerPathHash": 9975873023065425870,
   "controllerPathRemoteHash": 8121517168866487642,
   "critical": 0.05,
   "criticalHurt": 0.5,
-  "defenseBase": 8.0,
+  "defenseBase": 8,
   "deformationMeshPathHash": 16843554909179268631,
   "descTextMapHash": 1177706601,
   "featureTagGroupID": 10000001,
-  "hpBase": 166.0,
+  "hpBase": 166,
   "iconName": "UI_AvatarIcon_Kate",
   "id": 11000027,
   "imageName": "AvatarImage_Forward_Kate",
@@ -10256,19 +10256,19 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Kate",
   "skillDepotId": 101,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "POCCNIJNACM": 17298811984805868182
+  "__unk_Q3180767004": 17298811984805868182
  },
  {
-  "attackBase": 6.0,
+  "attackBase": 6,
   "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
   "avatarPromoteId": 2,
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 9370534900877868864,
   "controllerPathHash": 14476231049539633338,
   "controllerPathRemoteHash": 8537140725808484464,
@@ -10278,7 +10278,7 @@
   "deformationMeshPathHash": 16843554909179268631,
   "descTextMapHash": 2023269409,
   "featureTagGroupID": 10000001,
-  "hpBase": 185.0,
+  "hpBase": 185,
   "iconName": "UI_AvatarIcon_Ayaka",
   "id": 11000028,
   "imageName": "AvatarImage_Forward_Ayaka",
@@ -10309,19 +10309,19 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Ayaka",
   "skillDepotId": 28011,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "weaponType": "WEAPON_POLE",
-  "POCCNIJNACM": 11955858505198898469
+  "__unk_Q3180767004": 11955858505198898469
  },
  {
   "attackBase": 5.6,
   "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
   "avatarPromoteId": 2,
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 15882421641119660365,
   "controllerPathHash": 14546861439861199364,
   "controllerPathRemoteHash": 9370331734768183187,
@@ -10362,29 +10362,29 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Qin",
   "skillDepotId": 30011,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "weaponType": "WEAPON_CLAYMORE",
-  "POCCNIJNACM": 13830636326283227110
+  "__unk_Q3180767004": 13830636326283227110
  },
  {
-  "attackBase": 5.0,
+  "attackBase": 5,
   "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
   "avatarPromoteId": 2,
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 2434321416479622815,
   "controllerPathHash": 13648122664981333955,
   "controllerPathRemoteHash": 2750502896563479936,
   "critical": 0.05,
   "criticalHurt": 0.5,
-  "defenseBase": 8.0,
+  "defenseBase": 8,
   "deformationMeshPathHash": 16843554909179268631,
   "descTextMapHash": 1902343241,
   "featureTagGroupID": 10000001,
-  "hpBase": 166.0,
+  "hpBase": 166,
   "iconName": "UI_AvatarIcon_Kate",
   "id": 11000031,
   "imageName": "AvatarImage_Forward_Kate",
@@ -10415,29 +10415,29 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Kate",
   "skillDepotId": 40003,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "POCCNIJNACM": 6871106141402165970
+  "__unk_Q3180767004": 6871106141402165970
  },
  {
-  "attackBase": 5.0,
+  "attackBase": 5,
   "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
   "avatarPromoteId": 2,
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 5435625519253146309,
   "controllerPathHash": 2787117318965538554,
   "controllerPathRemoteHash": 10180270839725693521,
   "critical": 0.05,
   "criticalHurt": 0.5,
-  "defenseBase": 8.0,
+  "defenseBase": 8,
   "deformationMeshPathHash": 16843554909179268631,
   "descTextMapHash": 1364029553,
   "featureTagGroupID": 10000001,
-  "hpBase": 166.0,
+  "hpBase": 166,
   "iconName": "UI_AvatarIcon_Kate",
   "id": 11000032,
   "imageName": "AvatarImage_Forward_Kate",
@@ -10468,29 +10468,29 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Kate",
   "skillDepotId": 40002,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "POCCNIJNACM": 5807049033161970750
+  "__unk_Q3180767004": 5807049033161970750
  },
  {
-  "attackBase": 5.0,
+  "attackBase": 5,
   "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
   "avatarPromoteId": 2,
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 7239855163301728723,
   "controllerPathHash": 3740958416434794860,
   "controllerPathRemoteHash": 14587179887684636216,
   "critical": 0.05,
   "criticalHurt": 0.5,
-  "defenseBase": 8.0,
+  "defenseBase": 8,
   "deformationMeshPathHash": 16843554909179268631,
   "descTextMapHash": 1091572897,
   "featureTagGroupID": 10000001,
-  "hpBase": 166.0,
+  "hpBase": 166,
   "iconName": "UI_AvatarIcon_Kate",
   "id": 11000033,
   "imageName": "AvatarImage_Forward_Kate",
@@ -10521,19 +10521,19 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Kate",
   "skillDepotId": 40001,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "POCCNIJNACM": 12639523016795149421
+  "__unk_Q3180767004": 12639523016795149421
  },
  {
-  "attackBase": 6.0,
+  "attackBase": 6,
   "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
   "avatarPromoteId": 2,
   "bodyType": "BODY_LADY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 9543423561533220576,
   "controllerPathHash": 2495702829985060725,
   "controllerPathRemoteHash": 3164917348705477789,
@@ -10543,7 +10543,7 @@
   "deformationMeshPathHash": 2132204517517738195,
   "descTextMapHash": 287637937,
   "featureTagGroupID": 10000001,
-  "hpBase": 185.0,
+  "hpBase": 185,
   "iconName": "UI_AvatarIcon_Xiangling",
   "id": 11000035,
   "imageName": "AvatarImage_Forward_Xiangling",
@@ -10574,29 +10574,29 @@
   "scriptDataPathHash": 3744219756526631032,
   "sideIconName": "UI_AvatarIcon_Side_Xiangling",
   "skillDepotId": 101,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "weaponType": "WEAPON_POLE",
-  "POCCNIJNACM": 6027339571893426932
+  "__unk_Q3180767004": 6027339571893426932
  },
  {
-  "attackBase": 5.0,
+  "attackBase": 5,
   "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
   "avatarPromoteId": 2,
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 4103218460519001272,
   "controllerPathHash": 9975873023065425870,
   "controllerPathRemoteHash": 8121517168866487642,
   "critical": 0.05,
   "criticalHurt": 0.5,
-  "defenseBase": 8.0,
+  "defenseBase": 8,
   "deformationMeshPathHash": 16843554909179268631,
   "descTextMapHash": 1059199361,
   "featureTagGroupID": 10000001,
-  "hpBase": 166.0,
+  "hpBase": 166,
   "iconName": "UI_AvatarIcon_Kate",
   "id": 11000036,
   "imageName": "AvatarImage_Forward_Kate",
@@ -10627,29 +10627,29 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Kate",
   "skillDepotId": 101,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "POCCNIJNACM": 17298811984805868182
+  "__unk_Q3180767004": 17298811984805868182
  },
  {
-  "attackBase": 5.0,
+  "attackBase": 5,
   "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
   "avatarPromoteId": 2,
   "bodyType": "BODY_BOY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 8129994150576705690,
   "controllerPathHash": 16208756278103271726,
   "controllerPathRemoteHash": 1014567346397000499,
   "critical": 0.05,
   "criticalHurt": 0.5,
-  "defenseBase": 11.0,
+  "defenseBase": 11,
   "deformationMeshPathHash": 856195021060268183,
   "descTextMapHash": 675318241,
   "featureTagGroupID": 10000001,
-  "hpBase": 191.0,
+  "hpBase": 191,
   "iconName": "UI_AvatarIcon_PlayerBoy",
   "id": 11000037,
   "imageName": "AvatarImage_Forward_Kate",
@@ -10681,29 +10681,29 @@
   "scriptDataPathHash": 7535910857308706620,
   "sideIconName": "UI_AvatarIcon_Side_PlayerBoy",
   "skillDepotId": 37011,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "weaponType": "WEAPON_BOW",
-  "POCCNIJNACM": 13966581436388601822
+  "__unk_Q3180767004": 13966581436388601822
  },
  {
-  "attackBase": 5.0,
+  "attackBase": 5,
   "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
   "avatarPromoteId": 2,
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 4103218460519001272,
   "controllerPathHash": 9975873023065425870,
   "controllerPathRemoteHash": 8121517168866487642,
   "critical": 0.05,
   "criticalHurt": 0.5,
-  "defenseBase": 8.0,
+  "defenseBase": 8,
   "deformationMeshPathHash": 16843554909179268631,
   "descTextMapHash": 254244161,
   "featureTagGroupID": 10000001,
-  "hpBase": 166.0,
+  "hpBase": 166,
   "iconName": "UI_AvatarIcon_Kate",
   "id": 11000038,
   "imageName": "AvatarImage_Forward_Kate",
@@ -10734,29 +10734,29 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Kate",
   "skillDepotId": 101,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "POCCNIJNACM": 17298811984805868182
+  "__unk_Q3180767004": 17298811984805868182
  },
  {
-  "attackBase": 5.0,
+  "attackBase": 5,
   "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
   "avatarPromoteId": 2,
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 4103218460519001272,
   "controllerPathHash": 9975873023065425870,
   "controllerPathRemoteHash": 8121517168866487642,
   "critical": 0.05,
   "criticalHurt": 0.5,
-  "defenseBase": 8.0,
+  "defenseBase": 8,
   "deformationMeshPathHash": 16843554909179268631,
   "descTextMapHash": 1995766977,
   "featureTagGroupID": 10000001,
-  "hpBase": 166.0,
+  "hpBase": 166,
   "iconName": "UI_AvatarIcon_Kate",
   "id": 11000039,
   "imageName": "AvatarImage_Forward_Kate",
@@ -10787,19 +10787,19 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_Kate",
   "skillDepotId": 101,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "POCCNIJNACM": 17298811984805868182
+  "__unk_Q3180767004": 17298811984805868182
  },
  {
   "attackBase": 17.6352,
   "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
   "avatarPromoteId": 2,
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 6539404732335195385,
   "controllerPathHash": 6614287427228620947,
   "controllerPathRemoteHash": 16672946068396883549,
@@ -10840,19 +10840,19 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_PlayerGirl",
   "skillDepotId": 701,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "POCCNIJNACM": 17010426041473778782
+  "__unk_Q3180767004": 17010426041473778782
  },
  {
   "attackBase": 17.6352,
   "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
   "avatarPromoteId": 2,
   "bodyType": "BODY_BOY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 8121476998206349784,
   "controllerPathHash": 12366643757164771973,
   "controllerPathRemoteHash": 11279869710012956000,
@@ -10893,19 +10893,19 @@
   "scriptDataPathHash": 7535910857308706620,
   "sideIconName": "UI_AvatarIcon_Side_PlayerBoy",
   "skillDepotId": 501,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "POCCNIJNACM": 15959229406134517018
+  "__unk_Q3180767004": 15959229406134517018
  },
  {
   "attackBase": 17.6352,
   "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
   "avatarPromoteId": 2,
   "bodyType": "BODY_BOY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 8121476998206349784,
   "controllerPathHash": 12366643757164771973,
   "controllerPathRemoteHash": 11279869710012956000,
@@ -10946,29 +10946,29 @@
   "scriptDataPathHash": 7535910857308706620,
   "sideIconName": "UI_AvatarIcon_Side_PlayerBoy",
   "skillDepotId": 38001,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "POCCNIJNACM": 15959229406134517018
+  "__unk_Q3180767004": 15959229406134517018
  },
  {
-  "attackBase": 99999.0,
+  "attackBase": 99999,
   "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
   "avatarPromoteId": 2,
   "bodyType": "BODY_LOLI",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 15882421641119660365,
   "controllerPathHash": 7773719310264746486,
   "controllerPathRemoteHash": 7559906861711295203,
   "critical": 0.05,
   "criticalHurt": 0.5,
-  "defenseBase": 99999.0,
+  "defenseBase": 99999,
   "deformationMeshPathHash": 12046000202212180023,
   "descTextMapHash": 811755713,
   "featureTagGroupID": 10000001,
-  "hpBase": 99999.0,
+  "hpBase": 99999,
   "iconName": "UI_AvatarIcon_Qin",
   "id": 11000043,
   "imageName": "AvatarImage_Forward_Qin",
@@ -10999,29 +10999,29 @@
   "scriptDataPathHash": 1848978244376883498,
   "sideIconName": "UI_AvatarIcon_Side_Qin",
   "skillDepotId": 1501,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "weaponType": "WEAPON_CLAYMORE",
-  "POCCNIJNACM": 8396283227275629933
+  "__unk_Q3180767004": 8396283227275629933
  },
  {
-  "attackBase": 99999.0,
+  "attackBase": 99999,
   "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
   "avatarPromoteId": 2,
   "bodyType": "BODY_LOLI",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 15882421641119660365,
   "controllerPathHash": 5330343889546745371,
   "controllerPathRemoteHash": 12652750334206628030,
   "critical": 0.05,
   "criticalHurt": 0.5,
-  "defenseBase": 99999.0,
+  "defenseBase": 99999,
   "deformationMeshPathHash": 12046000202212180023,
   "descTextMapHash": 3385550169,
   "featureTagGroupID": 10000001,
-  "hpBase": 99999.0,
+  "hpBase": 99999,
   "iconName": "UI_AvatarIcon_Qin",
   "id": 11000044,
   "imageName": "AvatarImage_Forward_Qin",
@@ -11052,29 +11052,29 @@
   "scriptDataPathHash": 1848978244376883498,
   "sideIconName": "UI_AvatarIcon_Side_Qin",
   "skillDepotId": 1501,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "weaponType": "WEAPON_SWORD_ONE_HAND",
-  "POCCNIJNACM": 16832340522918425924
+  "__unk_Q3180767004": 16832340522918425924
  },
  {
-  "attackBase": 99999.0,
+  "attackBase": 99999,
   "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
   "avatarPromoteId": 2,
   "bodyType": "BODY_LOLI",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 15882421641119660365,
   "controllerPathHash": 13571977907562791738,
   "controllerPathRemoteHash": 789947499851697833,
   "critical": 0.05,
   "criticalHurt": 0.5,
-  "defenseBase": 99999.0,
+  "defenseBase": 99999,
   "deformationMeshPathHash": 12046000202212180023,
   "descTextMapHash": 3033564529,
   "featureTagGroupID": 10000001,
-  "hpBase": 99999.0,
+  "hpBase": 99999,
   "iconName": "UI_AvatarIcon_Qin",
   "id": 11000045,
   "imageName": "AvatarImage_Forward_Qin",
@@ -11105,29 +11105,29 @@
   "scriptDataPathHash": 1848978244376883498,
   "sideIconName": "UI_AvatarIcon_Side_Qin",
   "skillDepotId": 1501,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "weaponType": "WEAPON_BOW",
-  "POCCNIJNACM": 3194681245759226067
+  "__unk_Q3180767004": 3194681245759226067
  },
  {
-  "attackBase": 99999.0,
+  "attackBase": 99999,
   "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
   "avatarPromoteId": 2,
   "bodyType": "BODY_LADY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 15882421641119660365,
   "controllerPathHash": 9296130508088905201,
   "controllerPathRemoteHash": 1875716909890318897,
   "critical": 0.05,
   "criticalHurt": 0.5,
-  "defenseBase": 99999.0,
+  "defenseBase": 99999,
   "deformationMeshPathHash": 2132204517517738195,
   "descTextMapHash": 2069941625,
   "featureTagGroupID": 10000001,
-  "hpBase": 99999.0,
+  "hpBase": 99999,
   "iconName": "UI_AvatarIcon_Qin",
   "id": 11000046,
   "imageName": "AvatarImage_Forward_Qin",
@@ -11158,19 +11158,19 @@
   "scriptDataPathHash": 3744219756526631032,
   "sideIconName": "UI_AvatarIcon_Side_Qin",
   "skillDepotId": 1501,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "weaponType": "WEAPON_CLAYMORE",
-  "POCCNIJNACM": 11225226920657700817
+  "__unk_Q3180767004": 11225226920657700817
  },
  {
   "attackBase": 389.25653,
   "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
   "avatarPromoteId": 135,
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 10361671365398957954,
   "controllerPathHash": 3740333936486547453,
   "controllerPathRemoteHash": 704334365772767509,
@@ -11211,19 +11211,19 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_PlayerGirl",
   "skillDepotId": 701,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "weaponType": "WEAPON_CROSSBOW",
-  "POCCNIJNACM": 17010426041473778782
+  "__unk_Q3180767004": 17010426041473778782
  },
  {
   "attackBase": 17.6352,
   "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
   "avatarPromoteId": 135,
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 7975059012700320702,
   "controllerPathHash": 7440774047316916155,
   "controllerPathRemoteHash": 16881210811119452103,
@@ -11265,12 +11265,12 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_PlayerGirl",
   "skillDepotId": 50001,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "weaponType": "WEAPON_BOW",
-  "POCCNIJNACM": 17010426041473778782
+  "__unk_Q3180767004": 17010426041473778782
  },
  {
   "attackBase": 17.6352,
@@ -11280,7 +11280,7 @@
   "candSkillDepotIds": [
    501
   ],
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 14000760904701567708,
   "controllerPathHash": 686795858686806800,
   "controllerPathRemoteHash": 9168327737168745358,
@@ -11322,13 +11322,13 @@
   "scriptDataPathHash": 7535910857308706620,
   "sideIconName": "UI_AvatarIcon_Side_PlayerBoy",
   "skillDepotId": 50001,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "weaponType": "WEAPON_CROSSBOW",
-  "KADLDGKLEPC": 11356137892189394132,
-  "POCCNIJNACM": 12362524784807906596
+  "__unk_Q4006806719": 11356137892189394132,
+  "__unk_Q3180767004": 12362524784807906596
  },
  {
   "attackBase": 389.25653,
@@ -11338,7 +11338,7 @@
   "candSkillDepotIds": [
    701
   ],
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 10361671365398957954,
   "controllerPathHash": 3740333936486547453,
   "controllerPathRemoteHash": 704334365772767509,
@@ -11379,30 +11379,30 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_PlayerGirl",
   "skillDepotId": 50001,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "tags": [
    "None"
   ],
   "weaponType": "WEAPON_CROSSBOW",
-  "KADLDGKLEPC": 14318506603647828750,
-  "POCCNIJNACM": 17010426041473778782
+  "__unk_Q4006806719": 14318506603647828750,
+  "__unk_Q3180767004": 17010426041473778782
  },
  {
-  "attackBase": 99999.0,
+  "attackBase": 99999,
   "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
   "avatarPromoteId": 999,
   "bodyType": "BODY_BOY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 17571774412213746251,
   "controllerPathHash": 14959769954825998590,
   "controllerPathRemoteHash": 16972024867786773466,
   "critical": 0.05,
   "criticalHurt": 0.5,
-  "defenseBase": 99999.0,
+  "defenseBase": 99999,
   "deformationMeshPathHash": 856195021060268183,
   "descTextMapHash": 1267039388,
   "featureTagGroupID": 10000001,
-  "hpBase": 99999.0,
+  "hpBase": 99999,
   "iconName": "UI_AvatarIcon_PlayerBoy",
   "id": 10000998,
   "imageName": "AvatarImage_Forward_Kate",
@@ -11433,12 +11433,12 @@
   "scriptDataPathHash": 7535910857308706620,
   "sideIconName": "UI_AvatarIcon_Side_PlayerBoy",
   "skillDepotId": 99901,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
   "JMNMPAOHLBN": 10000117,
   "DJMLHCLONAB": 1624313762291403917,
-  "POCCNIJNACM": 3151994459949926109,
+  "__unk_Q3180767004": 3151994459949926109,
   "NOGICGMMOME": 4413160907753087897,
   "NDIMNFEKKIC": 5798593884417624410,
   "JMFJLPAFLHD": 11498363194239060395,
@@ -11447,21 +11447,21 @@
   "IDALBEBKAAF": true
  },
  {
-  "attackBase": 99999.0,
+  "attackBase": 99999,
   "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
   "avatarPromoteId": 999,
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 8431766833559437555,
   "controllerPathHash": 7298517687246304225,
   "controllerPathRemoteHash": 15815055450081429420,
   "critical": 0.05,
   "criticalHurt": 0.5,
-  "defenseBase": 99999.0,
+  "defenseBase": 99999,
   "deformationMeshPathHash": 16843554909179268631,
   "descTextMapHash": 202718524,
   "featureTagGroupID": 10000001,
-  "hpBase": 99999.0,
+  "hpBase": 99999,
   "iconName": "UI_AvatarIcon_PlayerGirl",
   "id": 10000999,
   "imageName": "AvatarImage_Forward_Qin",
@@ -11492,35 +11492,35 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_PlayerGirl",
   "skillDepotId": 99901,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "useType": "AVATAR_FORMAL",
   "weaponType": "WEAPON_SWORD_ONE_HAND",
   "JMNMPAOHLBN": 10000118,
   "ICPNLLMONLJ": 246236698748175336,
   "DJMLHCLONAB": 9641604140649506579,
   "NOGICGMMOME": 12709928687692106272,
-  "POCCNIJNACM": 13052323396635373347,
+  "__unk_Q3180767004": 13052323396635373347,
   "JMFJLPAFLHD": 13558557855718842537,
   "NDIMNFEKKIC": 14295523589424773380,
   "EKGDEAGBHMC": true,
   "IDALBEBKAAF": true
  },
  {
-  "attackBase": 99999.0,
+  "attackBase": 99999,
   "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
   "avatarPromoteId": 999,
   "bodyType": "BODY_BOY",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 17571774412213746251,
   "controllerPathHash": 14959769954825998590,
   "controllerPathRemoteHash": 16972024867786773466,
   "critical": 0.05,
   "criticalHurt": 0.5,
-  "defenseBase": 99999.0,
+  "defenseBase": 99999,
   "deformationMeshPathHash": 856195021060268183,
   "descTextMapHash": 3384010868,
   "featureTagGroupID": 10000001,
-  "hpBase": 99999.0,
+  "hpBase": 99999,
   "iconName": "UI_AvatarIcon_PlayerBoy",
   "id": 11000998,
   "imageName": "AvatarImage_Forward_Kate",
@@ -11551,11 +11551,11 @@
   "scriptDataPathHash": 7535910857308706620,
   "sideIconName": "UI_AvatarIcon_Side_PlayerBoy",
   "skillDepotId": 99901,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "weaponType": "WEAPON_SWORD_ONE_HAND",
   "JMNMPAOHLBN": 10000117,
   "DJMLHCLONAB": 1624313762291403917,
-  "POCCNIJNACM": 3151994459949926109,
+  "__unk_Q3180767004": 3151994459949926109,
   "NOGICGMMOME": 4413160907753087897,
   "NDIMNFEKKIC": 5798593884417624410,
   "JMFJLPAFLHD": 11498363194239060395,
@@ -11564,21 +11564,21 @@
   "IDALBEBKAAF": true
  },
  {
-  "attackBase": 99999.0,
+  "attackBase": 99999,
   "avatarIdentityType": "AVATAR_IDENTITY_NORMAL",
   "avatarPromoteId": 999,
   "bodyType": "BODY_GIRL",
-  "chargeEfficiency": 1.0,
+  "chargeEfficiency": 1,
   "combatConfigHash": 8431766833559437555,
   "controllerPathHash": 7298517687246304225,
   "controllerPathRemoteHash": 15815055450081429420,
   "critical": 0.05,
   "criticalHurt": 0.5,
-  "defenseBase": 99999.0,
+  "defenseBase": 99999,
   "deformationMeshPathHash": 16843554909179268631,
   "descTextMapHash": 117075100,
   "featureTagGroupID": 10000001,
-  "hpBase": 99999.0,
+  "hpBase": 99999,
   "iconName": "UI_AvatarIcon_PlayerGirl",
   "id": 11000999,
   "imageName": "AvatarImage_Forward_Qin",
@@ -11609,13 +11609,13 @@
   "scriptDataPathHash": 17851432353698653922,
   "sideIconName": "UI_AvatarIcon_Side_PlayerGirl",
   "skillDepotId": 99901,
-  "staminaRecoverSpeed": 25.0,
+  "staminaRecoverSpeed": 25,
   "weaponType": "WEAPON_SWORD_ONE_HAND",
   "JMNMPAOHLBN": 10000118,
   "ICPNLLMONLJ": 246236698748175336,
   "DJMLHCLONAB": 9641604140649506579,
   "NOGICGMMOME": 12709928687692106272,
-  "POCCNIJNACM": 13052323396635373347,
+  "__unk_Q3180767004": 13052323396635373347,
   "JMFJLPAFLHD": 13558557855718842537,
   "NDIMNFEKKIC": 14295523589424773380,
   "EKGDEAGBHMC": true,
