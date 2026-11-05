@@ -1,0 +1,1578 @@
+[
+ {
+  "effectId": 101,
+  "effectType": "CONVERT_TO_NORMAL",
+  "paramList": [
+   "1",
+   "",
+   "",
+   ""
+  ],
+  "NHFNFIDPKEC": 6,
+  "NNKHLDCBALN": "RANDOM",
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "NORMAL",
+   "NONE",
+   "IGNORE_TAG",
+   "NOT_SELF_COLOR"
+  ]
+ },
+ {
+  "delayType": "ANIME_DELAY",
+  "effectId": 201,
+  "effectType": "DEAL_DAMAGE",
+  "paramList": [
+   "60",
+   "",
+   "",
+   ""
+  ],
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 1201,
+  "effectType": "ADD_TAG",
+  "paramList": [
+   "1201",
+   "99",
+   "",
+   ""
+  ],
+  "NHFNFIDPKEC": 10,
+  "MFHOFCMKCBL": "OPPO",
+  "NNKHLDCBALN": "RANDOM",
+  "HLLIJMKAEPM": [
+   "NORMAL",
+   "NONE",
+   "IGNORE_TAG",
+   "NONE"
+  ]
+ },
+ {
+  "damageType": "BURN",
+  "delayType": "ANIME_DELAY",
+  "effectId": 12011,
+  "effectType": "DEAL_DAMAGE",
+  "paramList": [
+   "20",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 12011,
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 12012,
+  "effectType": "SUB_COUNTER",
+  "paramList": [
+   "1",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 12012,
+  "NNKHLDCBALN": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 12013,
+  "effectType": "DEL_TAG",
+  "paramList": [
+   "",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 12013,
+  "NNKHLDCBALN": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 102,
+  "effectType": "ADD_TAG",
+  "paramList": [
+   "1102",
+   "1",
+   "",
+   ""
+  ],
+  "NHFNFIDPKEC": 1,
+  "NNKHLDCBALN": "RANDOM",
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "NORMAL",
+   "NONE",
+   "IGNORE_TAG",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 1102,
+  "effectType": "BRICK_ELIMINATE",
+  "paramList": [
+   "",
+   "",
+   "",
+   ""
+  ],
+  "NHFNFIDPKEC": 8,
+  "NNKHLDCBALN": "LEFT_TO_RIGHT_BOT_TO_TOP",
+  "NCODFMKKALA": [
+   1203
+  ],
+  "HLLIJMKAEPM": [
+   "NORMAL",
+   "SAME_COLOR",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 1022,
+  "effectType": "ADD_SCORE_RATIO",
+  "paramList": [
+   "1",
+   "",
+   "",
+   ""
+  ],
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "delayType": "ANIME_DELAY",
+  "effectId": 202,
+  "effectType": "DEAL_DAMAGE",
+  "paramList": [
+   "60",
+   "",
+   "",
+   ""
+  ],
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 1202,
+  "effectType": "ADD_TAG",
+  "paramList": [
+   "1202",
+   "1",
+   "",
+   ""
+  ],
+  "NHFNFIDPKEC": 2,
+  "MFHOFCMKCBL": "OPPO",
+  "NNKHLDCBALN": "RANDOM",
+  "HLLIJMKAEPM": [
+   "NORMAL",
+   "NONE",
+   "IGNORE_TAG",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 12021,
+  "effectType": "SUB_COUNTER",
+  "paramList": [
+   "1",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 12021,
+  "NNKHLDCBALN": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 12022,
+  "effectType": "DEL_TAG",
+  "paramList": [
+   "",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 12022,
+  "NNKHLDCBALN": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 12023,
+  "effectType": "CONVERT_TO_BARRIER",
+  "paramList": [
+   "",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 12023,
+  "NNKHLDCBALN": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 12024,
+  "effectType": "ADD_TAG",
+  "paramList": [
+   "1202",
+   "1",
+   "",
+   ""
+  ],
+  "NHFNFIDPKEC": 1,
+  "EFLLKJBKLIK": 12024,
+  "NNKHLDCBALN": "RANDOM",
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "NORMAL",
+   "NONE",
+   "IGNORE_TAG",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 103,
+  "effectType": "BRICK_QUEUE_CHANGE",
+  "paramList": [
+   "5",
+   "2",
+   "",
+   ""
+  ],
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "delayType": "ANIME_DELAY",
+  "effectId": 203,
+  "effectType": "DEAL_DAMAGE",
+  "paramList": [
+   "60",
+   "",
+   "",
+   ""
+  ],
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 1203,
+  "effectType": "ADD_TAG",
+  "paramList": [
+   "1203",
+   "1",
+   "",
+   ""
+  ],
+  "NHFNFIDPKEC": 6,
+  "MFHOFCMKCBL": "OPPO",
+  "NNKHLDCBALN": "RANDOM",
+  "HLLIJMKAEPM": [
+   "NORMAL",
+   "NONE",
+   "IGNORE_TAG",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 12031,
+  "effectType": "SUB_COUNTER",
+  "paramList": [
+   "1",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 12031,
+  "NNKHLDCBALN": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 12032,
+  "effectType": "DEL_TAG",
+  "paramList": [
+   "",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 12032,
+  "NNKHLDCBALN": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 104,
+  "effectType": "CONVERT_TO_NORMAL",
+  "paramList": [
+   "1",
+   "",
+   "",
+   ""
+  ],
+  "NHFNFIDPKEC": 6,
+  "NNKHLDCBALN": "RANDOM",
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "NORMAL",
+   "NONE",
+   "IGNORE_TAG",
+   "NOT_SELF_COLOR"
+  ]
+ },
+ {
+  "delayType": "ANIME_DELAY",
+  "effectId": 204,
+  "effectType": "DEAL_DAMAGE",
+  "paramList": [
+   "60",
+   "",
+   "",
+   ""
+  ],
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 1204,
+  "effectType": "ADD_TAG",
+  "paramList": [
+   "1204",
+   "1",
+   "",
+   ""
+  ],
+  "NHFNFIDPKEC": 2,
+  "MFHOFCMKCBL": "OPPO",
+  "NNKHLDCBALN": "RANDOM",
+  "HLLIJMKAEPM": [
+   "NORMAL",
+   "NONE",
+   "IGNORE_TAG",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 12041,
+  "effectType": "SUB_COUNTER",
+  "paramList": [
+   "1",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 12041,
+  "NNKHLDCBALN": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 12042,
+  "effectType": "DEL_TAG",
+  "paramList": [
+   "",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 12042,
+  "NNKHLDCBALN": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 12043,
+  "effectType": "ADD_TAG",
+  "paramList": [
+   "1203",
+   "1",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 12043,
+  "MFHOFCMKCBL": "SELF",
+  "NNKHLDCBALN": "SELF_3x3_AROUND",
+  "HLLIJMKAEPM": [
+   "NORMAL",
+   "NONE",
+   "IGNORE_TAG",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 105,
+  "effectType": "CONVERT_TO_NORMAL",
+  "paramList": [
+   "1",
+   "",
+   "",
+   ""
+  ],
+  "NHFNFIDPKEC": 6,
+  "NNKHLDCBALN": "RANDOM",
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "NORMAL",
+   "NONE",
+   "IGNORE_TAG",
+   "NOT_SELF_COLOR"
+  ]
+ },
+ {
+  "effectId": 205,
+  "effectType": "BRICK_QUEUE_CHANGE",
+  "paramList": [
+   "10",
+   "1",
+   "",
+   ""
+  ],
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 1205,
+  "effectType": "ADD_BOARD_STATE",
+  "paramList": [
+   "2",
+   "6",
+   "20",
+   ""
+  ],
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 106,
+  "effectType": "ADD_TAG",
+  "paramList": [
+   "106",
+   "1",
+   "",
+   ""
+  ],
+  "NHFNFIDPKEC": 2,
+  "NNKHLDCBALN": "RANDOM",
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "NORMAL",
+   "NONE",
+   "IGNORE_TAG",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 1061,
+  "effectType": "SUB_COUNTER",
+  "paramList": [
+   "1",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 1061,
+  "NNKHLDCBALN": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 1062,
+  "effectType": "BRICK_ELIMINATE",
+  "paramList": [
+   "",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 1062,
+  "NNKHLDCBALN": "SELF_3x3_AROUND",
+  "NCODFMKKALA": [
+   1203
+  ],
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 1063,
+  "effectType": "ADD_SCORE_RATIO",
+  "paramList": [
+   "1",
+   "",
+   "",
+   ""
+  ],
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 1064,
+  "effectType": "ADD_SEQ",
+  "paramList": [
+   "",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 1063,
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "delayType": "ANIME_DELAY",
+  "effectId": 206,
+  "effectType": "DEAL_DAMAGE",
+  "paramList": [
+   "60",
+   "",
+   "",
+   ""
+  ],
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 1206,
+  "effectType": "ADD_BOARD_STATE",
+  "paramList": [
+   "1",
+   "6",
+   "",
+   ""
+  ],
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 107,
+  "effectType": "CONVERT_TO_NORMAL",
+  "paramList": [
+   "2",
+   "",
+   "",
+   ""
+  ],
+  "NHFNFIDPKEC": 12,
+  "NNKHLDCBALN": "RANDOM",
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "BARRIER",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 1071,
+  "effectType": "CLEAR_BARRIER_COUNTER",
+  "paramList": [
+   "",
+   "",
+   "",
+   ""
+  ],
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 1072,
+  "effectType": "ADD_BOARD_STATE",
+  "paramList": [
+   "4",
+   "20",
+   "",
+   ""
+  ],
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 207,
+  "effectType": "CONVERT_TO_NORMAL",
+  "paramList": [
+   "1",
+   "",
+   "",
+   ""
+  ],
+  "NHFNFIDPKEC": 6,
+  "NNKHLDCBALN": "RANDOM",
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "NORMAL",
+   "NONE",
+   "IGNORE_TAG",
+   "NOT_SELF_COLOR"
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 1207,
+  "effectType": "ADD_TAG",
+  "paramList": [
+   "1207",
+   "1",
+   "",
+   ""
+  ],
+  "NHFNFIDPKEC": 2,
+  "MFHOFCMKCBL": "OPPO",
+  "NNKHLDCBALN": "RANDOM",
+  "HLLIJMKAEPM": [
+   "NORMAL",
+   "NONE",
+   "IGNORE_TAG",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 12071,
+  "effectType": "SUB_COUNTER",
+  "paramList": [
+   "1",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 12041,
+  "NNKHLDCBALN": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 12072,
+  "effectType": "DEL_TAG",
+  "paramList": [
+   "",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 12042,
+  "NNKHLDCBALN": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 12073,
+  "effectType": "CONVERT_TO_BARRIER",
+  "paramList": [
+   "",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 12023,
+  "NNKHLDCBALN": "SELF_3x3_AROUND",
+  "NCODFMKKALA": [
+   1207
+  ],
+  "HLLIJMKAEPM": [
+   "NORMAL",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 12074,
+  "effectType": "CONVERT_TO_BARRIER",
+  "paramList": [
+   "",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 12074,
+  "NNKHLDCBALN": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 108,
+  "effectType": "ADD_TAG",
+  "paramList": [
+   "108",
+   "",
+   "",
+   ""
+  ],
+  "NHFNFIDPKEC": 1,
+  "NNKHLDCBALN": "RANDOM",
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "NORMAL",
+   "NONE",
+   "IGNORE_TAG",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 1081,
+  "effectType": "ADD_COMBO",
+  "paramList": [
+   "1",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 1081,
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "delayType": "ANIME_DELAY",
+  "effectId": 208,
+  "effectType": "DEAL_DAMAGE",
+  "paramList": [
+   "60",
+   "",
+   "",
+   ""
+  ],
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 1208,
+  "effectType": "ADD_BOARD_STATE",
+  "paramList": [
+   "3",
+   "6",
+   "",
+   ""
+  ],
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 99001,
+  "effectType": "ADD_PRELOAD_BLOCK",
+  "paramList": [
+   "11",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 99001,
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 99002,
+  "effectType": "ADD_PRELOAD_BLOCK",
+  "paramList": [
+   "21",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 99002,
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 99003,
+  "effectType": "ADD_PRELOAD_BLOCK",
+  "paramList": [
+   "31",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 99003,
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 99004,
+  "effectType": "ADD_PRELOAD_BLOCK",
+  "paramList": [
+   "41",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 99004,
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 99005,
+  "effectType": "ADD_PRELOAD_BLOCK",
+  "paramList": [
+   "51",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 99005,
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 99006,
+  "effectType": "ADD_PRELOAD_BLOCK",
+  "paramList": [
+   "61",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 99006,
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 99007,
+  "effectType": "ADD_PRELOAD_BLOCK",
+  "paramList": [
+   "71",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 99007,
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 99008,
+  "effectType": "ADD_PRELOAD_BLOCK",
+  "paramList": [
+   "81",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 99008,
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 99011,
+  "effectType": "ADD_PRELOAD_BLOCK",
+  "paramList": [
+   "111",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 99011,
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 99012,
+  "effectType": "ADD_PRELOAD_BLOCK",
+  "paramList": [
+   "121",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 99012,
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 99013,
+  "effectType": "ADD_PRELOAD_BLOCK",
+  "paramList": [
+   "131",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 99013,
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 99014,
+  "effectType": "ADD_PRELOAD_BLOCK",
+  "paramList": [
+   "141",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 99014,
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 99015,
+  "effectType": "ADD_PRELOAD_BLOCK",
+  "paramList": [
+   "151",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 99015,
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 99016,
+  "effectType": "ADD_PRELOAD_BLOCK",
+  "paramList": [
+   "161",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 99016,
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 99017,
+  "effectType": "ADD_PRELOAD_BLOCK",
+  "paramList": [
+   "171",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 99017,
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 99018,
+  "effectType": "ADD_PRELOAD_BLOCK",
+  "paramList": [
+   "181",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 99018,
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 99101,
+  "effectType": "ADD_PRELOAD_BLOCK",
+  "paramList": [
+   "1001",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 99101,
+  "MFHOFCMKCBL": "OPPO",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 99102,
+  "effectType": "ADD_TAG",
+  "paramList": [
+   "108",
+   "99",
+   "",
+   ""
+  ],
+  "NHFNFIDPKEC": 1,
+  "EFLLKJBKLIK": 99102,
+  "OGBIAAPIABK": "0",
+  "NNKHLDCBALN": "FALLDOWN_BRICK",
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 99103,
+  "effectType": "ADD_TAG",
+  "paramList": [
+   "999",
+   "1",
+   "",
+   ""
+  ],
+  "NHFNFIDPKEC": 1,
+  "EFLLKJBKLIK": 99103,
+  "OGBIAAPIABK": "0",
+  "NNKHLDCBALN": "FALLDOWN_BRICK",
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 99104,
+  "effectType": "ADD_TAG",
+  "paramList": [
+   "999",
+   "1",
+   "",
+   ""
+  ],
+  "NHFNFIDPKEC": 1,
+  "EFLLKJBKLIK": 99104,
+  "OGBIAAPIABK": "1",
+  "NNKHLDCBALN": "FALLDOWN_BRICK",
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 99105,
+  "effectType": "SUB_COUNTER",
+  "paramList": [
+   "1",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 99105,
+  "NNKHLDCBALN": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 99106,
+  "effectType": "CONVERT_TO_NORMAL",
+  "paramList": [
+   "1",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 99106,
+  "NNKHLDCBALN": "SELF_3x3_AROUND",
+  "HLLIJMKAEPM": [
+   "NORMAL",
+   "NONE",
+   "IGNORE_TAG",
+   "NOT_SELF_COLOR"
+  ]
+ },
+ {
+  "effectId": 99107,
+  "effectType": "CONVERT_TO_NORMAL",
+  "paramList": [
+   "1",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 99107,
+  "NNKHLDCBALN": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 99111,
+  "effectType": "CONVERT_TO_NORMAL",
+  "paramList": [
+   "1",
+   "",
+   "",
+   ""
+  ],
+  "NHFNFIDPKEC": 1,
+  "EFLLKJBKLIK": 99111,
+  "OGBIAAPIABK": "0",
+  "NNKHLDCBALN": "FALLDOWN_BRICK",
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 99112,
+  "effectType": "CONVERT_TO_NORMAL",
+  "paramList": [
+   "1",
+   "",
+   "",
+   ""
+  ],
+  "NHFNFIDPKEC": 1,
+  "EFLLKJBKLIK": 99112,
+  "OGBIAAPIABK": "1",
+  "NNKHLDCBALN": "FALLDOWN_BRICK",
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 99113,
+  "effectType": "ADD_SCORE_RATIO",
+  "paramList": [
+   "5",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 99113,
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 99114,
+  "effectType": "SUB_COUNTER",
+  "paramList": [
+   "1",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 99114,
+  "NNKHLDCBALN": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 99115,
+  "effectType": "DEL_TAG",
+  "paramList": [
+   "",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 99115,
+  "NNKHLDCBALN": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 99116,
+  "effectType": "CONVERT_TO_NORMAL",
+  "paramList": [
+   "1",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 99116,
+  "NNKHLDCBALN": "SELF_3x3_AROUND",
+  "HLLIJMKAEPM": [
+   "NORMAL",
+   "NONE",
+   "IGNORE_TAG",
+   "NOT_SELF_COLOR"
+  ]
+ },
+ {
+  "effectId": 99117,
+  "effectType": "CONVERT_TO_NORMAL",
+  "paramList": [
+   "1",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 99117,
+  "NNKHLDCBALN": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 99119,
+  "effectType": "ADD_TAG",
+  "paramList": [
+   "998",
+   "99",
+   "",
+   ""
+  ],
+  "NHFNFIDPKEC": 1,
+  "NNKHLDCBALN": "RANDOM",
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "NORMAL",
+   "NONE",
+   "IGNORE_TAG",
+   "NONE"
+  ]
+ },
+ {
+  "delayType": "DELAY",
+  "effectId": 99120,
+  "effectType": "ADD_PRELOAD_BLOCK",
+  "paramList": [
+   "1002",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 99120,
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 99121,
+  "effectType": "ADD_SCORE_RATIO",
+  "paramList": [
+   "3",
+   "",
+   "",
+   ""
+  ],
+  "EFLLKJBKLIK": 99121,
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 99201,
+  "effectType": "ADD_TAG",
+  "paramList": [
+   "999",
+   "1",
+   "",
+   ""
+  ],
+  "NHFNFIDPKEC": 1,
+  "EFLLKJBKLIK": 99201,
+  "OGBIAAPIABK": "0",
+  "NNKHLDCBALN": "FALLDOWN_BRICK",
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ },
+ {
+  "effectId": 99202,
+  "effectType": "ADD_TAG",
+  "paramList": [
+   "999",
+   "1",
+   "",
+   ""
+  ],
+  "NHFNFIDPKEC": 1,
+  "EFLLKJBKLIK": 99202,
+  "OGBIAAPIABK": "1",
+  "NNKHLDCBALN": "FALLDOWN_BRICK",
+  "MFHOFCMKCBL": "SELF",
+  "HLLIJMKAEPM": [
+   "NONE",
+   "NONE",
+   "NONE",
+   "NONE"
+  ]
+ }
+]

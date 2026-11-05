@@ -1,0 +1,108 @@
+[
+ {
+  "id": 1,
+  "BKHFEIOLOEF": 0.5,
+  "FEKCFJDEINN": 2.5,
+  "OMDAKCNCGJI": 10.0,
+  "GPMEJMMIKLM": [
+   {
+    "FGJOOADFFIK": "MATERIAL_NOTICE_ADD_HP"
+   },
+   {
+    "FGJOOADFFIK": "MATERIAL_EXCHANGE"
+   },
+   {
+    "FGJOOADFFIK": "MATERIAL_WOOD"
+   }
+  ],
+  "PCEGGDLCNLA": [
+   90000,
+   90000,
+   320,
+   321,
+   330,
+   330
+  ]
+ },
+ {
+  "id": 2,
+  "type": "Mid",
+  "BKHFEIOLOEF": 1.2,
+  "FEKCFJDEINN": 1.2,
+  "OMDAKCNCGJI": 15.0,
+  "GPMEJMMIKLM": [
+   {
+    "FGJOOADFFIK": "MATERIAL_EXCHANGE"
+   },
+   {
+    "FGJOOADFFIK": "MATERIAL_EXCHANGE"
+   },
+   {}
+  ],
+  "PCEGGDLCNLA": [
+   311,
+   317,
+   301,
+   301
+  ]
+ },
+ {
+  "id": 3,
+  "type": "Hi",
+  "FEKCFJDEINN": 1.0,
+  "BKHFEIOLOEF": 1.2,
+  "OMDAKCNCGJI": 15.0,
+  "GPMEJMMIKLM": [
+   {
+    "FGJOOADFFIK": "MATERIAL_EXCHANGE"
+   },
+   {
+    "FGJOOADFFIK": "MATERIAL_CONSUME"
+   },
+   {}
+  ],
+  "PCEGGDLCNLA": [
+   341,
+   341,
+   430001,
+   430001
+  ]
+ },
+ {
+  "id": 4,
+  "type": "Top",
+  "FEKCFJDEINN": 1.0,
+  "JCOCOGCGFLI": 1.0,
+  "BKHFEIOLOEF": 5.0,
+  "OMDAKCNCGJI": 120.0,
+  "GPMEJMMIKLM": [
+   {
+    "FGJOOADFFIK": "MATERIAL_ELEM_CRYSTAL"
+   },
+   {},
+   {}
+  ],
+  "PCEGGDLCNLA": [
+   420001,
+   420021
+  ]
+ },
+ {
+  "id": 5,
+  "type": "Drop",
+  "BKHFEIOLOEF": 1.0,
+  "FEKCFJDEINN": 3.0,
+  "OMDAKCNCGJI": 15.0,
+  "GPMEJMMIKLM": [
+   {
+    "FGJOOADFFIK": "MATERIAL_AVATAR_MATERIAL"
+   },
+   {},
+   {}
+  ],
+  "PCEGGDLCNLA": [
+   10101,
+   10199
+  ]
+ }
+]

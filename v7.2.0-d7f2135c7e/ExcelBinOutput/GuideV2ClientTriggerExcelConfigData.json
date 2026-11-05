@@ -1,0 +1,351 @@
+[
+ {
+  "guideName": "GuideTpsDefenseT",
+  "id": 1,
+  "trigger": {
+   "parameter": [
+    "10888",
+    "",
+    "",
+    ""
+   ],
+   "type": "EnterDungeon"
+  }
+ },
+ {
+  "guideName": "GuideTpsDefenseWave",
+  "id": 2,
+  "trigger": {
+   "parameter": [
+    "5334",
+    "",
+    "",
+    ""
+   ],
+   "type": "ActivityOpen"
+  }
+ },
+ {
+  "guideName": "TRAIN_Guide_02",
+  "id": 3,
+  "trigger": {
+   "parameter": [
+    "SnezhnayaTrainMapPage",
+    "",
+    "",
+    ""
+   ],
+   "type": "ContextOpen"
+  }
+ },
+ {
+  "guideName": "TPS_Conflict_Detection",
+  "id": 4,
+  "trigger": {
+   "parameter": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  }
+ },
+ {
+  "guideName": "TpsMercenaries",
+  "id": 5,
+  "trigger": {
+   "parameter": [
+    "TpsMercenariesMainPage",
+    "",
+    "",
+    ""
+   ],
+   "type": "ContextOpen"
+  }
+ },
+ {
+  "guideName": "TPSWeaponSwap",
+  "id": 6,
+  "trigger": {
+   "parameter": [
+    "TpsGlassesPage",
+    "",
+    "",
+    ""
+   ],
+   "type": "ContextOpen"
+  }
+ },
+ {
+  "guideName": "TpsSettingGuide",
+  "id": 7,
+  "trigger": {
+   "parameter": [
+    "TpsGlassesPage",
+    "",
+    "",
+    ""
+   ],
+   "type": "ContextOpen"
+  }
+ },
+ {
+  "guideName": "GuideAQSledDog",
+  "id": 8,
+  "trigger": {
+   "parameter": [
+    "",
+    "",
+    "",
+    ""
+   ]
+  }
+ },
+ {
+  "guideName": "GuideActivityVineManRun01",
+  "id": 9,
+  "trigger": {
+   "parameter": [
+    "10965",
+    "",
+    "",
+    ""
+   ],
+   "type": "EnterDungeon"
+  }
+ },
+ {
+  "guideName": "GuideActivityVineManRun01",
+  "id": 10,
+  "trigger": {
+   "parameter": [
+    "10966",
+    "",
+    "",
+    ""
+   ],
+   "type": "EnterDungeon"
+  }
+ },
+ {
+  "guideName": "GuideActivityVineManRun01",
+  "id": 11,
+  "trigger": {
+   "parameter": [
+    "10967",
+    "",
+    "",
+    ""
+   ],
+   "type": "EnterDungeon"
+  }
+ },
+ {
+  "guideName": "GuideActivityVineManRun01",
+  "id": 12,
+  "trigger": {
+   "parameter": [
+    "10968",
+    "",
+    "",
+    ""
+   ],
+   "type": "EnterDungeon"
+  }
+ },
+ {
+  "guideName": "GuideActivityVineManRun01",
+  "id": 13,
+  "trigger": {
+   "parameter": [
+    "10969",
+    "",
+    "",
+    ""
+   ],
+   "type": "EnterDungeon"
+  }
+ },
+ {
+  "guideName": "GuideLeyLineChallengeChangeReward",
+  "id": 14,
+  "trigger": {
+   "parameter": [
+    "DUNGEON_LEY_LINE_CHALLENGE",
+    "",
+    "",
+    ""
+   ],
+   "type": "EnterDungeonType"
+  }
+ },
+ {
+  "guideName": "GuideSnezBookNew01",
+  "id": 15,
+  "trigger": {
+   "parameter": [
+    "OPEN_STATE_SNEZHNAYA_BOOK",
+    "",
+    "",
+    ""
+   ],
+   "type": "OpenState"
+  }
+ },
+ {
+  "guideName": "GuideSnezBookNew02",
+  "id": 16,
+  "trigger": {
+   "parameter": [
+    "OPEN_STATE_SNEZHNAYA_BOOK",
+    "",
+    "",
+    ""
+   ],
+   "type": "OpenState"
+  }
+ },
+ {
+  "guideName": "GuideSnezBookNew03",
+  "id": 17,
+  "trigger": {
+   "parameter": [
+    "OPEN_STATE_SNEZHNAYA_BOOK",
+    "",
+    "",
+    ""
+   ],
+   "type": "OpenState"
+  }
+ },
+ {
+  "guideName": "GuideTeyvatFlightSkill",
+  "id": 18,
+  "trigger": {
+   "parameter": [
+    "2052",
+    "",
+    "",
+    ""
+   ],
+   "type": "ActivityOpen"
+  }
+ },
+ {
+  "guideName": "GuideTeyvatFlightAim",
+  "id": 19,
+  "trigger": {
+   "parameter": [
+    "2052",
+    "",
+    "",
+    ""
+   ],
+   "type": "ActivityOpen"
+  }
+ },
+ {
+  "guideName": "GuidePaimonTeam",
+  "id": 20,
+  "trigger": {
+   "parameter": [
+    "5",
+    "",
+    "",
+    ""
+   ],
+   "type": "AvatarCount"
+  }
+ },
+ {
+  "guideName": "GuidePaimonCodex",
+  "id": 21,
+  "trigger": {
+   "parameter": [
+    "",
+    "",
+    "",
+    ""
+   ],
+   "type": "CodexPushTipUnlock"
+  }
+ },
+ {
+  "guideName": "GuidePaimonTrainingGuideTip",
+  "id": 22,
+  "trigger": {
+   "parameter": [
+    "OPEN_STATE_TRAINGUIDE_DAILY_FAIL_TIP",
+    "",
+    "",
+    ""
+   ],
+   "type": "OpenState"
+  }
+ },
+ {
+  "guideName": "GuidePaimonTrainingGuide25",
+  "id": 23,
+  "trigger": {
+   "parameter": [
+    "OPEN_STATE_TRAINGUIDE_LEVELBREAK_FAIL_25",
+    "",
+    "",
+    ""
+   ],
+   "type": "OpenState"
+  }
+ },
+ {
+  "guideName": "GuidePaimonTrainingGuide35",
+  "id": 24,
+  "trigger": {
+   "parameter": [
+    "OPEN_STATE_TRAINGUIDE_LEVELBREAK_FAIL_35",
+    "",
+    "",
+    ""
+   ],
+   "type": "OpenState"
+  }
+ },
+ {
+  "guideName": "GuidePaimonTrainingGuide45",
+  "id": 25,
+  "trigger": {
+   "parameter": [
+    "OPEN_STATE_TRAINGUIDE_LEVELBREAK_FAIL_45",
+    "",
+    "",
+    ""
+   ],
+   "type": "OpenState"
+  }
+ },
+ {
+  "guideName": "GripCutPlacingCrystalTutorial",
+  "id": 26,
+  "trigger": {
+   "parameter": [
+    "InLevelGripCutMachinePage",
+    "",
+    "",
+    ""
+   ],
+   "type": "ContextOpen"
+  }
+ },
+ {
+  "guideName": "GripCutMachineCuttingTutorial_Controller",
+  "id": 27,
+  "trigger": {
+   "parameter": [
+    "InLevelGripCutMachinePage",
+    "",
+    "",
+    ""
+   ],
+   "type": "ContextOpen"
+  }
+ }
+]
